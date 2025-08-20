@@ -16,7 +16,8 @@ interface PosterPageProps {
 }
 
 export default async function PosterPage({ params }: PosterPageProps) {
-  const supabase = createClient()
+  const supabase = await createClient()
+  const resolvedParams = await params
 
   const { data: poster, error } = await supabase
     .from("posters")
@@ -25,15 +26,15 @@ export default async function PosterPage({ params }: PosterPageProps) {
       political_parties (
         id,
         name,
-        color
+        color_hex
       )
     `)
-    .eq("id", params.id)
+    .eq("id", resolvedParams.id)
     .single()
 
   if (error || !poster) {
     console.log("[v0] Poster query error:", error)
-    console.log("[v0] Poster ID:", params.id)
+    console.log("[v0] Poster ID:", resolvedParams.id)
     notFound()
   }
 
@@ -44,13 +45,13 @@ export default async function PosterPage({ params }: PosterPageProps) {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Vote className="h-8 w-8 text-primary" />
-            <h1 className="text-2xl font-bold">Political Posters</h1>
+            <h1 className="text-2xl font-bold">Politické plakáty</h1>
           </div>
           <div className="flex items-center gap-4">
             <Button variant="outline" asChild>
               <Link href="/">
                 <ArrowLeft className="mr-2 h-4 w-4" />
-                Back to Home
+                Zpět domů
               </Link>
             </Button>
           </div>
@@ -73,9 +74,9 @@ export default async function PosterPage({ params }: PosterPageProps) {
                     variant="secondary"
                     className="ml-4"
                     style={{
-                      backgroundColor: `${poster.political_parties.color}20`,
-                      color: poster.political_parties.color,
-                      borderColor: poster.political_parties.color,
+                      backgroundColor: `${poster.political_parties.color_hex}20`,
+                      color: poster.political_parties.color_hex,
+                      borderColor: poster.political_parties.color_hex,
                     }}
                   >
                     {poster.political_parties.name}
@@ -99,7 +100,7 @@ export default async function PosterPage({ params }: PosterPageProps) {
               <div className="grid md:grid-cols-2 gap-4 text-sm text-muted-foreground">
                 <div className="flex items-center gap-2">
                   <User className="h-4 w-4" />
-                  <span>Uploaded by Community Member</span>
+                  <span>Nahráno členem komunity</span>
                 </div>
 
                 {poster.location && (
@@ -112,23 +113,23 @@ export default async function PosterPage({ params }: PosterPageProps) {
                 {poster.date_photographed && (
                   <div className="flex items-center gap-2">
                     <Calendar className="h-4 w-4" />
-                    <span>Photographed on {new Date(poster.date_photographed).toLocaleDateString()}</span>
+                    <span>Vyfotografováno {new Date(poster.date_photographed).toLocaleDateString()}</span>
                   </div>
                 )}
 
                 <div className="flex items-center gap-2">
                   <Calendar className="h-4 w-4" />
-                  <span>Uploaded {new Date(poster.created_at).toLocaleDateString()}</span>
+                  <span>Nahráno {new Date(poster.created_at).toLocaleDateString()}</span>
                 </div>
               </div>
 
               {/* Actions */}
               <div className="flex gap-4 pt-4 border-t">
                 <Button variant="outline" asChild>
-                  <Link href="/gallery">View More Posters</Link>
+                  <Link href="/gallery">Zobrazit další plakáty</Link>
                 </Button>
                 <Button asChild>
-                  <Link href="/upload">Upload Your Own</Link>
+                  <Link href="/upload">Nahrajte vlastní</Link>
                 </Button>
               </div>
             </CardContent>

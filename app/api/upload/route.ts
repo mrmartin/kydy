@@ -2,10 +2,15 @@ import { put } from "@vercel/blob"
 import { type NextRequest, NextResponse } from "next/server"
 import { createClient } from "@/lib/supabase/server"
 
+// Check if Vercel Blob is configured
+const isBlobConfigured = typeof process.env.BLOB_READ_WRITE_TOKEN === "string" && 
+  process.env.BLOB_READ_WRITE_TOKEN.length > 0 && 
+  process.env.BLOB_READ_WRITE_TOKEN !== "your-vercel-blob-token-here"
+
 export async function POST(request: NextRequest) {
   try {
     // Check authentication
-    const supabase = createClient()
+    const supabase = await createClient()
     const {
       data: { user },
     } = await supabase.auth.getUser()
@@ -37,13 +42,22 @@ export async function POST(request: NextRequest) {
     const extension = file.name.split(".").pop()
     const filename = `poster-${timestamp}-${user.id}.${extension}`
 
-    // Upload to Vercel Blob
-    const blob = await put(filename, file, {
-      access: "public",
-    })
+    let url: string
+
+    if (isBlobConfigured) {
+      // Upload to Vercel Blob
+      const blob = await put(filename, file, {
+        access: "public",
+      })
+      url = blob.url
+    } else {
+      // Fallback: Return a placeholder URL for development
+      console.warn("Vercel Blob not configured. Using placeholder image URL.")
+      url = "/placeholder.jpg" // This should point to a placeholder image in your public folder
+    }
 
     return NextResponse.json({
-      url: blob.url,
+      url: url,
       filename: filename,
       size: file.size,
       type: file.type,

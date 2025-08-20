@@ -17,10 +17,10 @@ function SubmitButton() {
       {pending ? (
         <>
           <Loader2 className="mr-2 h-4 w-4 animate-spin" />
-          Creating account...
+          Vytvářím účet...
         </>
       ) : (
-        "Create Account"
+        "Vytvořit účet"
       )}
     </Button>
   )
@@ -35,8 +35,8 @@ export default function SignUpForm() {
         <div className="flex justify-center mb-4">
           <Vote className="h-12 w-12 text-primary" />
         </div>
-        <CardTitle className="text-2xl font-bold">Join the Community</CardTitle>
-        <CardDescription>Create an account to share and discuss political posters</CardDescription>
+        <CardTitle className="text-2xl font-bold">Připojte se ke komunitě</CardTitle>
+        <CardDescription>Vytvořte si účet pro sdílení a diskuzi o politických plakátech</CardDescription>
       </CardHeader>
       <CardContent>
         <form action={formAction} className="space-y-4">
@@ -54,21 +54,21 @@ export default function SignUpForm() {
 
           <div className="space-y-2">
             <label htmlFor="fullName" className="block text-sm font-medium">
-              Full Name
+              Celé jméno
             </label>
-            <Input id="fullName" name="fullName" type="text" placeholder="Your full name" />
+            <Input id="fullName" name="fullName" type="text" placeholder="Vaše celé jméno" />
           </div>
 
           <div className="space-y-2">
             <label htmlFor="email" className="block text-sm font-medium">
-              Email
+              E-mail
             </label>
-            <Input id="email" name="email" type="email" placeholder="you@example.com" required />
+            <Input id="email" name="email" type="email" placeholder="vas@email.cz" required />
           </div>
 
           <div className="space-y-2">
             <label htmlFor="password" className="block text-sm font-medium">
-              Password
+              Heslo
             </label>
             <Input id="password" name="password" type="password" required />
           </div>
@@ -76,9 +76,9 @@ export default function SignUpForm() {
           <SubmitButton />
 
           <div className="text-center text-sm text-muted-foreground">
-            Already have an account?{" "}
+            Už máte účet?{" "}
             <Link href="/auth/login" className="text-primary hover:underline">
-              Sign in
+              Přihlaste se
             </Link>
           </div>
         </form>

@@ -6,7 +6,7 @@ import Link from "next/link"
 import { Button } from "@/components/ui/button"
 
 export default async function GalleryPage() {
-  const supabase = createClient()
+  const supabase = await createClient()
   const {
     data: { user },
   } = await supabase.auth.getUser()
@@ -23,7 +23,7 @@ export default async function GalleryPage() {
       political_parties (
         id,
         name,
-        color
+        color_hex
       )
     `)
     .order("created_at", { ascending: false })
@@ -38,17 +38,17 @@ export default async function GalleryPage() {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Vote className="h-8 w-8 text-primary" />
-            <h1 className="text-2xl font-bold">Political Posters</h1>
+            <h1 className="text-2xl font-bold">Politické plakáty</h1>
           </div>
           <div className="flex items-center gap-4">
             <Button variant="outline" asChild>
-              <Link href="/">Home</Link>
+              <Link href="/">Domů</Link>
             </Button>
             <Button variant="outline" asChild>
-              <Link href="/dashboard">Dashboard</Link>
+              <Link href="/dashboard">Nástěnka</Link>
             </Button>
             <Button asChild>
-              <Link href="/upload">Upload Poster</Link>
+              <Link href="/upload">Nahrát plakát</Link>
             </Button>
           </div>
         </div>
@@ -57,8 +57,8 @@ export default async function GalleryPage() {
       {/* Main Content */}
       <main className="container mx-auto px-4 py-8">
         <div className="mb-8">
-          <h2 className="text-3xl font-bold mb-2">Poster Gallery</h2>
-          <p className="text-muted-foreground">Explore political posters shared by the community</p>
+          <h2 className="text-3xl font-bold mb-2">Galerie plakátů</h2>
+          <p className="text-muted-foreground">Prozkoumejte politické plakáty sdílené komunitou</p>
         </div>
 
         <GalleryClient posters={posters || []} parties={parties || []} />

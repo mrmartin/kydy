@@ -65,8 +65,8 @@ export default function RatingSection({ posterId }: RatingSectionProps) {
         }
 
         toast({
-          title: "Rating submitted",
-          description: `You rated this poster ${rating} star${rating !== 1 ? "s" : ""}`,
+          title: "Hodnocení odesláno",
+          description: `Ohodnotil jste tento plakát ${rating} hvězdičk${rating !== 1 ? "ami" : "ou"}`,
         })
       } else {
         throw new Error("Failed to submit rating")
@@ -74,8 +74,8 @@ export default function RatingSection({ posterId }: RatingSectionProps) {
     } catch (error) {
       console.error("Failed to submit rating:", error)
       toast({
-        title: "Failed to submit rating",
-        description: "Please try again later",
+        title: "Nepodařilo se odeslat hodnocení",
+        description: "Zkuste to znovu později",
         variant: "destructive",
       })
     } finally {
@@ -124,9 +124,9 @@ export default function RatingSection({ posterId }: RatingSectionProps) {
       <CardHeader>
         <CardTitle className="flex items-center gap-2">
           <Star className="h-5 w-5" />
-          Rating & Reviews
+          Hodnocení a recenze
         </CardTitle>
-        <CardDescription>Rate this poster and see what others think</CardDescription>
+        <CardDescription>Odnoťte tento plakát a podívejte se, co si myslí ostatní</CardDescription>
       </CardHeader>
       <CardContent className="space-y-6">
         {/* Average Rating Display */}
@@ -136,23 +136,23 @@ export default function RatingSection({ posterId }: RatingSectionProps) {
             <span className="text-2xl font-bold">{ratingData.averageRating.toFixed(1)}</span>
           </div>
           <p className="text-sm text-muted-foreground">
-            Based on {ratingData.totalRatings} rating{ratingData.totalRatings !== 1 ? "s" : ""}
+            Na základě {ratingData.totalRatings} hodnocení{ratingData.totalRatings !== 1 ? "" : ""}
           </p>
         </div>
 
         {/* User Rating Section */}
         <div className="border-t pt-6">
-          <h4 className="font-medium mb-3">{ratingData.userRating ? "Your Rating" : "Rate this poster"}</h4>
+          <h4 className="font-medium mb-3">{ratingData.userRating ? "Vaše hodnocení" : "Odnoťte tento plakát"}</h4>
 
           {ratingData.userRating ? (
             <div className="space-y-3">
               <div className="flex items-center gap-2">
                 {renderStars(ratingData.userRating)}
                 <span className="text-sm text-muted-foreground">
-                  You rated this {ratingData.userRating} star{ratingData.userRating !== 1 ? "s" : ""}
+                  Ohodnotil jste {ratingData.userRating} hvězdičk{ratingData.userRating !== 1 ? "ami" : "ou"}
                 </span>
               </div>
-              <p className="text-sm text-muted-foreground">Click on stars to update your rating</p>
+              <p className="text-sm text-muted-foreground">Klikněte na hvězdičky pro aktualizaci hodnocení</p>
               <div className="flex items-center gap-1" onMouseLeave={() => setHoveredRating(null)}>
                 {isSubmitting ? (
                   <Loader2 className="h-5 w-5 animate-spin" />
@@ -163,7 +163,7 @@ export default function RatingSection({ posterId }: RatingSectionProps) {
             </div>
           ) : (
             <div className="space-y-3">
-              <p className="text-sm text-muted-foreground">Click on stars to rate this poster</p>
+              <p className="text-sm text-muted-foreground">Klikněte na hvězdičky pro ohodnocení plakátu</p>
               <div className="flex items-center gap-1" onMouseLeave={() => setHoveredRating(null)}>
                 {isSubmitting ? <Loader2 className="h-5 w-5 animate-spin" /> : renderStars(hoveredRating || 0, true)}
               </div>

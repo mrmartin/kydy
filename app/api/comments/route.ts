@@ -4,7 +4,7 @@ import { createClient } from "@/lib/supabase/server"
 export async function POST(request: NextRequest) {
   try {
     // Check authentication
-    const supabase = createClient()
+    const supabase = await createClient()
     const {
       data: { user },
     } = await supabase.auth.getUser()
@@ -60,7 +60,7 @@ export async function GET(request: NextRequest) {
       return NextResponse.json({ error: "Poster ID required" }, { status: 400 })
     }
 
-    const supabase = createClient()
+    const supabase = await createClient()
 
     // Get comments for the poster
     const { data: comments, error } = await supabase

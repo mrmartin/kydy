@@ -15,7 +15,7 @@ import { toast } from "@/hooks/use-toast"
 interface Party {
   id: number
   name: string
-  color: string
+  color_hex: string
 }
 
 interface UploadFormProps {
@@ -44,8 +44,8 @@ export default function UploadForm({ parties }: UploadFormProps) {
         setPreviewUrl(url)
       } else {
         toast({
-          title: "Invalid file type",
-          description: "Please select an image file (JPG, PNG, etc.)",
+          title: "Neplatný typ souboru",
+          description: "Prosím vyberte obrázek (JPG, PNG, atd.)",
           variant: "destructive",
         })
       }
@@ -65,8 +65,8 @@ export default function UploadForm({ parties }: UploadFormProps) {
 
     if (!selectedFile) {
       toast({
-        title: "No image selected",
-        description: "Please select an image to upload",
+        title: "Nebyl vybrán obrázek",
+        description: "Prosím vyberte obrázek k nahrání",
         variant: "destructive",
       })
       return
@@ -74,8 +74,8 @@ export default function UploadForm({ parties }: UploadFormProps) {
 
     if (!formData.title.trim()) {
       toast({
-        title: "Title required",
-        description: "Please enter a title for the poster",
+        title: "Titulek je povinný",
+        description: "Prosím zadejte titulek plakátu",
         variant: "destructive",
       })
       return
@@ -153,17 +153,17 @@ export default function UploadForm({ parties }: UploadFormProps) {
       const { poster } = await saveResponse.json()
 
       toast({
-        title: "Poster uploaded successfully!",
-        description: "Your poster has been shared with the community",
+        title: "Plakát byl úspěšně nahrán!",
+        description: "Váš plakát byl sdílen s komunitou",
       })
 
       router.push(`/poster/${poster.id}`)
     } catch (error) {
       console.error("[v0] Upload error:", error)
       toast({
-        title: "Upload failed",
+        title: "Nahrávání selhalo",
         description:
-          error instanceof Error ? error.message : "There was an error uploading your poster. Please try again.",
+          error instanceof Error ? error.message : "Při nahrávání plakátu došlo k chybě. Zkuste to znovu.",
         variant: "destructive",
       })
     } finally {
@@ -175,15 +175,15 @@ export default function UploadForm({ parties }: UploadFormProps) {
     <form onSubmit={handleSubmit} className="space-y-6">
       {/* File Upload */}
       <div className="space-y-4">
-        <label className="block text-sm font-medium">Poster Image *</label>
+        <label className="block text-sm font-medium">Obrázek plakátu *</label>
 
         {!selectedFile ? (
           <div className="border-2 border-dashed border-border rounded-lg p-8 text-center hover:border-primary/50 transition-colors">
             <input type="file" accept="image/*" onChange={handleFileSelect} className="hidden" id="file-upload" />
             <label htmlFor="file-upload" className="cursor-pointer">
               <ImageIcon className="h-12 w-12 text-muted-foreground mx-auto mb-4" />
-              <p className="text-lg font-medium mb-2">Click to upload an image</p>
-              <p className="text-sm text-muted-foreground">PNG, JPG, GIF up to 10MB</p>
+              <p className="text-lg font-medium mb-2">Klikněte pro nahrání obrázku</p>
+              <p className="text-sm text-muted-foreground">PNG, JPG, GIF do 10MB</p>
             </label>
           </div>
         ) : (
@@ -213,13 +213,13 @@ export default function UploadForm({ parties }: UploadFormProps) {
       {/* Title */}
       <div className="space-y-2">
         <label htmlFor="title" className="block text-sm font-medium">
-          Title *
+          Titulek *
         </label>
         <Input
           id="title"
           value={formData.title}
           onChange={(e) => setFormData({ ...formData, title: e.target.value })}
-          placeholder="Enter a descriptive title for the poster"
+          placeholder="Zadejte popisný titulek plakátu"
           required
         />
       </div>
@@ -227,29 +227,29 @@ export default function UploadForm({ parties }: UploadFormProps) {
       {/* Description */}
       <div className="space-y-2">
         <label htmlFor="description" className="block text-sm font-medium">
-          Description
+          Popis
         </label>
         <Textarea
           id="description"
           value={formData.description}
           onChange={(e) => setFormData({ ...formData, description: e.target.value })}
-          placeholder="Describe the poster, its message, or context (optional)"
+          placeholder="Popište plakát, jeho sdělení nebo kontext (volitelné)"
           rows={3}
         />
       </div>
 
       {/* Political Party */}
       <div className="space-y-2">
-        <label className="block text-sm font-medium">Political Party</label>
+        <label className="block text-sm font-medium">Politická strana</label>
         <Select value={formData.partyId} onValueChange={(value) => setFormData({ ...formData, partyId: value })}>
           <SelectTrigger>
-            <SelectValue placeholder="Select a political party (optional)" />
+            <SelectValue placeholder="Vyberte politickou stranu (volitelné)" />
           </SelectTrigger>
           <SelectContent>
             {parties.map((party) => (
               <SelectItem key={party.id} value={party.id.toString()}>
                 <div className="flex items-center gap-2">
-                  <div className="w-3 h-3 rounded-full" style={{ backgroundColor: party.color }} />
+                  <div className="w-3 h-3 rounded-full" style={{ backgroundColor: party.color_hex }} />
                   {party.name}
                 </div>
               </SelectItem>
@@ -261,20 +261,20 @@ export default function UploadForm({ parties }: UploadFormProps) {
       {/* Location */}
       <div className="space-y-2">
         <label htmlFor="location" className="block text-sm font-medium">
-          Location
+          Místo
         </label>
         <Input
           id="location"
           value={formData.location}
           onChange={(e) => setFormData({ ...formData, location: e.target.value })}
-          placeholder="Where was this poster spotted? (optional)"
+          placeholder="Kde byl tento plakát spatřen? (volitelné)"
         />
       </div>
 
       {/* Date Photographed */}
       <div className="space-y-2">
         <label htmlFor="datePhotographed" className="block text-sm font-medium">
-          Date Photographed
+          Datum vyfotografování
         </label>
         <Input
           id="datePhotographed"
@@ -289,12 +289,12 @@ export default function UploadForm({ parties }: UploadFormProps) {
         {isUploading ? (
           <>
             <Loader2 className="mr-2 h-5 w-5 animate-spin" />
-            Uploading...
+            Nahrávám...
           </>
         ) : (
           <>
             <Upload className="mr-2 h-5 w-5" />
-            Upload Poster
+            Nahrát plakát
           </>
         )}
       </Button>

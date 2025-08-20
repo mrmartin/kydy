@@ -3,7 +3,7 @@ import { redirect } from "next/navigation"
 import EditProfileForm from "@/components/edit-profile-form"
 
 export default async function EditProfilePage() {
-  const supabase = createClient()
+  const supabase = await createClient()
 
   const {
     data: { user },
@@ -55,8 +55,8 @@ export default async function EditProfilePage() {
       <div className="container mx-auto px-4 max-w-2xl">
         <div className="bg-white rounded-xl shadow-lg p-8">
           <div className="mb-8">
-            <h1 className="text-3xl font-bold text-slate-900 mb-2">Edit Profile</h1>
-            <p className="text-slate-600">Update your profile information and picture</p>
+            <h1 className="text-3xl font-bold text-slate-900 mb-2">Upravit profil</h1>
+            <p className="text-slate-600">Aktualizujte informace o profilu a obrázek</p>
           </div>
 
           <EditProfileForm profile={profile} />

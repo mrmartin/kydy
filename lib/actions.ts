@@ -15,20 +15,35 @@ export async function signIn(prevState: any, formData: FormData) {
     return { error: "Email and password are required" }
   }
 
-  const supabase = createClient()
+  const supabase = await createClient()
 
   try {
-    const { error } = await supabase.auth.signInWithPassword({
+    const { data, error } = await supabase.auth.signInWithPassword({
       email: email.toString(),
       password: password.toString(),
     })
 
     if (error) {
+      // Check for specific error types
+      if (error.message.includes("Email not confirmed")) {
+        return { error: "Please check your email and click the confirmation link before signing in." }
+      }
+      if (error.message.includes("Invalid login credentials")) {
+        return { error: "Invalid email or password. Please check your credentials." }
+      }
       return { error: error.message }
     }
 
+    if (data.user) {
+      redirect("/")
+    }
+
     return { success: true }
-  } catch (error) {
+  } catch (error: any) {
+    // Check if this is a Next.js redirect (which is expected)
+    if (error.digest?.includes('NEXT_REDIRECT')) {
+      throw error // Re-throw redirect errors
+    }
     console.error("Login error:", error)
     return { error: "An unexpected error occurred. Please try again." }
   }
@@ -47,7 +62,7 @@ export async function signUp(prevState: any, formData: FormData) {
     return { error: "Email and password are required" }
   }
 
-  const supabase = createClient()
+  const supabase = await createClient()
 
   try {
     const { error } = await supabase.auth.signUp({
@@ -75,7 +90,7 @@ export async function signUp(prevState: any, formData: FormData) {
 }
 
 export async function signOut() {
-  const supabase = createClient()
+  const supabase = await createClient()
   await supabase.auth.signOut()
   redirect("/auth/login")
 }

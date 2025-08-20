@@ -9,7 +9,7 @@ import { signOut } from "@/lib/actions"
 import Image from "next/image"
 
 export default async function Home() {
-  const supabase = createClient()
+  const supabase = await createClient()
   const {
     data: { user },
   } = await supabase.auth.getUser()
@@ -25,16 +25,16 @@ export default async function Home() {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Vote className="h-8 w-8 text-primary" />
-            <h1 className="text-2xl font-bold">Political Posters</h1>
+            <h1 className="text-2xl font-bold">Politické plakáty</h1>
           </div>
           <div className="flex items-center gap-4">
             <Button variant="ghost" asChild>
-              <Link href="/dashboard">Dashboard</Link>
+              <Link href="/dashboard">Nástěnka</Link>
             </Button>
-            <span className="text-sm text-muted-foreground">Welcome, {user.email}</span>
+            <span className="text-sm text-muted-foreground">Vítejte, {user.email}</span>
             <form action={signOut}>
               <Button variant="outline" type="submit">
-                Sign Out
+                Odhlásit se
               </Button>
             </form>
           </div>
@@ -44,19 +44,19 @@ export default async function Home() {
       {/* Main Content */}
       <main className="container mx-auto px-4 py-8">
         <div className="text-center mb-12">
-          <h2 className="text-4xl font-bold mb-4">Discover Political Posters from Around the World</h2>
+          <h2 className="text-4xl font-bold mb-4">Objevte politické plakáty z celé republiky</h2>
           <p className="text-xl text-muted-foreground mb-8">
-            A community-driven platform for sharing, discussing, and rating political campaign materials
+            Komunitní platforma pro sdílení, diskuzi a hodnocení politických kampaní
           </p>
           <div className="flex gap-4 justify-center">
             <Button asChild size="lg">
               <Link href="/upload">
                 <Upload className="mr-2 h-5 w-5" />
-                Upload Poster
+                Nahrát plakát
               </Link>
             </Button>
             <Button variant="outline" asChild size="lg">
-              <Link href="/gallery">Browse Gallery</Link>
+              <Link href="/gallery">Procházet galerii</Link>
             </Button>
           </div>
         </div>
@@ -66,40 +66,40 @@ export default async function Home() {
           <Card>
             <CardHeader>
               <Upload className="h-8 w-8 text-primary mb-2" />
-              <CardTitle>Upload & Share</CardTitle>
+              <CardTitle>Nahrát a sdílet</CardTitle>
             </CardHeader>
             <CardContent>
-              <CardDescription>Share photos of political posters you've spotted in your community</CardDescription>
+              <CardDescription>Sdílejte fotky politických plakátů, které jste našli ve vaší komunitě</CardDescription>
             </CardContent>
           </Card>
 
           <Card>
             <CardHeader>
               <MessageSquare className="h-8 w-8 text-primary mb-2" />
-              <CardTitle>Discuss & Comment</CardTitle>
+              <CardTitle>Diskutovat a komentovat</CardTitle>
             </CardHeader>
             <CardContent>
-              <CardDescription>Engage in meaningful discussions about political messaging and design</CardDescription>
+              <CardDescription>Zapojte se do smysluplných diskuzí o politickém sdělení a designu</CardDescription>
             </CardContent>
           </Card>
 
           <Card>
             <CardHeader>
               <Star className="h-8 w-8 text-primary mb-2" />
-              <CardTitle>Rate & Review</CardTitle>
+              <CardTitle>Hodnotit a recenzovat</CardTitle>
             </CardHeader>
             <CardContent>
-              <CardDescription>Rate posters based on design, message clarity, and overall impact</CardDescription>
+              <CardDescription>Odnoťte plakáty podle designu, srozumitelnosti sdělení a celkového dopadu</CardDescription>
             </CardContent>
           </Card>
 
           <Card>
             <CardHeader>
               <Users className="h-8 w-8 text-primary mb-2" />
-              <CardTitle>Community Driven</CardTitle>
+              <CardTitle>Komunitní řízení</CardTitle>
             </CardHeader>
             <CardContent>
-              <CardDescription>Join a community of citizens documenting political campaigns</CardDescription>
+              <CardDescription>Připojte se ke komunitě občanů dokumentujících politické kampaně</CardDescription>
             </CardContent>
           </Card>
         </div>
@@ -112,7 +112,7 @@ export default async function Home() {
 }
 
 async function RecentActivity() {
-  const supabase = createClient()
+  const supabase = await createClient()
 
   const { data: recentPosters } = await supabase
     .from("posters")
@@ -121,7 +121,7 @@ async function RecentActivity() {
       political_parties (
         id,
         name,
-        color
+        color_hex
       )
     `)
     .order("created_at", { ascending: false })
@@ -130,17 +130,17 @@ async function RecentActivity() {
   return (
     <Card>
       <CardHeader>
-        <CardTitle>Recent Activity</CardTitle>
-        <CardDescription>Latest posters shared by the community</CardDescription>
+        <CardTitle>Nedávná aktivita</CardTitle>
+        <CardDescription>Nejnovější plakáty sdílené komunitou</CardDescription>
       </CardHeader>
       <CardContent>
         {!recentPosters || recentPosters.length === 0 ? (
           <p className="text-muted-foreground text-center py-8">
-            No posters uploaded yet. Be the first to share a political poster!
+            Zatím nebyly nahrány žádné plakáty. Buďte první, kdo sdílí politický plakát!
           </p>
         ) : (
           <div className="grid md:grid-cols-3 gap-4">
-            {recentPosters.map((poster) => (
+            {recentPosters.map((poster: any) => (
               <Card key={poster.id} className="group hover:shadow-md transition-shadow">
                 <CardContent className="p-4">
                   <div className="aspect-video relative mb-3 overflow-hidden rounded-lg bg-muted">
@@ -157,16 +157,16 @@ async function RecentActivity() {
                       variant="secondary"
                       className="text-xs mb-2"
                       style={{
-                        backgroundColor: `${poster.political_parties.color}20`,
-                        color: poster.political_parties.color,
-                        borderColor: poster.political_parties.color,
+                        backgroundColor: `${poster.political_parties.color_hex}20`,
+                        color: poster.political_parties.color_hex,
+                        borderColor: poster.political_parties.color_hex,
                       }}
                     >
                       {poster.political_parties.name}
                     </Badge>
                   )}
                   <Button asChild size="sm" className="w-full">
-                    <Link href={`/poster/${poster.id}`}>View Details</Link>
+                    <Link href={`/poster/${poster.id}`}>Zobrazit detail</Link>
                   </Button>
                 </CardContent>
               </Card>

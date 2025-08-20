@@ -19,10 +19,10 @@ function SubmitButton() {
       {pending ? (
         <>
           <Loader2 className="mr-2 h-4 w-4 animate-spin" />
-          Signing in...
+          Přihlašuji...
         </>
       ) : (
-        "Sign In"
+        "Přihlásit se"
       )}
     </Button>
   )
@@ -44,8 +44,8 @@ export default function LoginForm() {
         <div className="flex justify-center mb-4">
           <Vote className="h-12 w-12 text-primary" />
         </div>
-        <CardTitle className="text-2xl font-bold">Welcome Back</CardTitle>
-        <CardDescription>Sign in to your Political Posters account</CardDescription>
+        <CardTitle className="text-2xl font-bold">Vítejte zpět</CardTitle>
+        <CardDescription>Přihlaste se ke svému účtu Politické plakáty</CardDescription>
       </CardHeader>
       <CardContent>
         <form action={formAction} className="space-y-4">
@@ -57,14 +57,14 @@ export default function LoginForm() {
 
           <div className="space-y-2">
             <label htmlFor="email" className="block text-sm font-medium">
-              Email
+              E-mail
             </label>
-            <Input id="email" name="email" type="email" placeholder="you@example.com" required />
+            <Input id="email" name="email" type="email" placeholder="vas@email.cz" required />
           </div>
 
           <div className="space-y-2">
             <label htmlFor="password" className="block text-sm font-medium">
-              Password
+              Heslo
             </label>
             <Input id="password" name="password" type="password" required />
           </div>
@@ -72,9 +72,9 @@ export default function LoginForm() {
           <SubmitButton />
 
           <div className="text-center text-sm text-muted-foreground">
-            Don't have an account?{" "}
+            Nemáte účet?{" "}
             <Link href="/auth/signup" className="text-primary hover:underline">
-              Sign up
+              Zaregistrujte se
             </Link>
           </div>
         </form>

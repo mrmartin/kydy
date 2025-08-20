@@ -88,7 +88,7 @@ export default function GalleryClient({ posters, parties }: GalleryClientProps) 
         <CardHeader>
           <CardTitle className="flex items-center gap-2">
             <Filter className="h-5 w-5" />
-            Filter & Search
+            Filtrovat a vyhledávat
           </CardTitle>
         </CardHeader>
         <CardContent>
@@ -97,7 +97,7 @@ export default function GalleryClient({ posters, parties }: GalleryClientProps) 
             <div className="relative">
               <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-muted-foreground" />
               <Input
-                placeholder="Search posters..."
+                placeholder="Hledat plakáty..."
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
                 className="pl-10"
@@ -107,10 +107,10 @@ export default function GalleryClient({ posters, parties }: GalleryClientProps) 
             {/* Party Filter */}
             <Select value={selectedParty} onValueChange={setSelectedParty}>
               <SelectTrigger>
-                <SelectValue placeholder="Filter by party" />
+                <SelectValue placeholder="Filtrovat podle strany" />
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value="all">All Parties</SelectItem>
+                <SelectItem value="all">Všechny strany</SelectItem>
                 {parties.map((party) => (
                   <SelectItem key={party.id} value={party.id.toString()}>
                     <div className="flex items-center gap-2">
@@ -125,12 +125,12 @@ export default function GalleryClient({ posters, parties }: GalleryClientProps) 
             {/* Sort */}
             <Select value={sortBy} onValueChange={setSortBy}>
               <SelectTrigger>
-                <SelectValue placeholder="Sort by" />
+                <SelectValue placeholder="Seřadit podle" />
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value="newest">Newest First</SelectItem>
-                <SelectItem value="oldest">Oldest First</SelectItem>
-                <SelectItem value="title">Title A-Z</SelectItem>
+                <SelectItem value="newest">Nejnovější první</SelectItem>
+                <SelectItem value="oldest">Nejstarší první</SelectItem>
+                <SelectItem value="title">Název A-Z</SelectItem>
               </SelectContent>
             </Select>
           </div>
@@ -140,7 +140,7 @@ export default function GalleryClient({ posters, parties }: GalleryClientProps) 
       {/* Results Count */}
       <div className="flex items-center justify-between">
         <p className="text-muted-foreground">
-          {filteredAndSortedPosters.length} poster{filteredAndSortedPosters.length !== 1 ? "s" : ""} found
+          {filteredAndSortedPosters.length} plakát{filteredAndSortedPosters.length !== 1 ? "ů" : ""} nalezeno
         </p>
         {(searchTerm || selectedParty !== "all") && (
           <Button
@@ -151,7 +151,7 @@ export default function GalleryClient({ posters, parties }: GalleryClientProps) 
               setSelectedParty("all")
             }}
           >
-            Clear Filters
+            Vymazat filtry
           </Button>
         )}
       </div>
@@ -160,9 +160,9 @@ export default function GalleryClient({ posters, parties }: GalleryClientProps) 
       {filteredAndSortedPosters.length === 0 ? (
         <Card>
           <CardContent className="text-center py-12">
-            <p className="text-muted-foreground text-lg mb-4">No posters found matching your criteria</p>
+            <p className="text-muted-foreground text-lg mb-4">Nebyly nalezeny žádné plakáty odpovídající kritériím</p>
             <Button asChild>
-              <Link href="/upload">Upload the First Poster</Link>
+              <Link href="/upload">Nahrajte první plakát</Link>
             </Button>
           </CardContent>
         </Card>
@@ -232,7 +232,7 @@ export default function GalleryClient({ posters, parties }: GalleryClientProps) 
                   <Button asChild size="sm" className="w-full">
                     <Link href={`/poster/${poster.id}`}>
                       <Eye className="mr-2 h-4 w-4" />
-                      View Details
+                      Zobrazit detail
                     </Link>
                   </Button>
                 </div>

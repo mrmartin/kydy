@@ -54,11 +54,11 @@ export default function CommentSection({ posterId }: CommentSectionProps) {
     e.preventDefault()
 
     if (!newComment.trim()) {
-      toast({
-        title: "Comment required",
-        description: "Please enter a comment before submitting",
-        variant: "destructive",
-      })
+              toast({
+          title: "Komentář je povinný",
+          description: "Prosím zadejte komentář před odesláním",
+          variant: "destructive",
+        })
       return
     }
 
@@ -81,8 +81,8 @@ export default function CommentSection({ posterId }: CommentSectionProps) {
         setComments([comment, ...comments])
         setNewComment("")
         toast({
-          title: "Comment posted",
-          description: "Your comment has been added successfully",
+          title: "Komentář odeslán",
+          description: "Váš komentář byl úspěšně přidán",
         })
       } else {
         throw new Error("Failed to post comment")
@@ -90,8 +90,8 @@ export default function CommentSection({ posterId }: CommentSectionProps) {
     } catch (error) {
       console.error("Failed to post comment:", error)
       toast({
-        title: "Failed to post comment",
-        description: "Please try again later",
+        title: "Nepodařilo se odeslat komentář",
+        description: "Zkuste to znovu později",
         variant: "destructive",
       })
     } finally {
@@ -128,15 +128,15 @@ export default function CommentSection({ posterId }: CommentSectionProps) {
       <CardHeader>
         <CardTitle className="flex items-center gap-2">
           <MessageSquare className="h-5 w-5" />
-          Comments ({comments.length})
+          Komentáře ({comments.length})
         </CardTitle>
-        <CardDescription>Share your thoughts about this poster</CardDescription>
+        <CardDescription>Podělte se o své myšlenky o tomto plakátu</CardDescription>
       </CardHeader>
       <CardContent className="space-y-6">
         {/* Comment Form */}
         <form onSubmit={handleSubmitComment} className="space-y-4">
           <Textarea
-            placeholder="Write your comment..."
+            placeholder="Napište svůj komentář..."
             value={newComment}
             onChange={(e) => setNewComment(e.target.value)}
             rows={3}
@@ -145,12 +145,12 @@ export default function CommentSection({ posterId }: CommentSectionProps) {
             {isSubmitting ? (
               <>
                 <Loader2 className="mr-2 h-4 w-4 animate-spin" />
-                Posting...
+                Odesílám...
               </>
             ) : (
               <>
                 <Send className="mr-2 h-4 w-4" />
-                Post Comment
+                Odeslat komentář
               </>
             )}
           </Button>
@@ -160,7 +160,7 @@ export default function CommentSection({ posterId }: CommentSectionProps) {
         <div className="space-y-4">
           {comments.length === 0 ? (
             <p className="text-muted-foreground text-center py-8">
-              No comments yet. Be the first to share your thoughts!
+              Zatím žádné komentáře. Buďte první, kdo se podělí o své myšlenky!
             </p>
           ) : (
             comments.map((comment) => (

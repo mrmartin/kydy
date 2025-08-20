@@ -7,7 +7,7 @@ import Link from "next/link"
 import { Button } from "@/components/ui/button"
 
 export default async function UploadPage() {
-  const supabase = createClient()
+  const supabase = await createClient()
   const {
     data: { user },
   } = await supabase.auth.getUser()
@@ -26,17 +26,17 @@ export default async function UploadPage() {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Vote className="h-8 w-8 text-primary" />
-            <h1 className="text-2xl font-bold">Political Posters</h1>
+            <h1 className="text-2xl font-bold">Politické plakáty</h1>
           </div>
           <div className="flex items-center gap-4">
             <Button variant="outline" asChild>
-              <Link href="/">Back to Home</Link>
+              <Link href="/">Zpět domů</Link>
             </Button>
             <Button variant="outline" asChild>
-              <Link href="/dashboard">Dashboard</Link>
+              <Link href="/dashboard">Nástěnka</Link>
             </Button>
             <Button variant="outline" asChild>
-              <Link href="/gallery">Gallery</Link>
+              <Link href="/gallery">Galerie</Link>
             </Button>
           </div>
         </div>
@@ -50,9 +50,9 @@ export default async function UploadPage() {
               <div className="flex justify-center mb-4">
                 <Upload className="h-12 w-12 text-primary" />
               </div>
-              <CardTitle className="text-3xl font-bold">Upload a Political Poster</CardTitle>
+              <CardTitle className="text-3xl font-bold">Nahrajte politický plakát</CardTitle>
               <CardDescription className="text-lg">
-                Share a photo of a political poster you've spotted in your community
+                Sdílejte fotku politického plakátu, který jste objevili ve vaší komunitě
               </CardDescription>
             </CardHeader>
             <CardContent>

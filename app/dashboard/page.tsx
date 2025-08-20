@@ -10,7 +10,7 @@ import Image from "next/image"
 import { signOut } from "@/lib/actions"
 
 export default async function DashboardPage() {
-  const supabase = createClient()
+  const supabase = await createClient()
   const {
     data: { user },
   } = await supabase.auth.getUser()
@@ -54,7 +54,7 @@ export default async function DashboardPage() {
       political_parties (
         id,
         name,
-        color
+        color_hex
       )
     `)
     .eq("uploaded_by", user.id)
@@ -84,18 +84,18 @@ export default async function DashboardPage() {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Vote className="h-8 w-8 text-primary" />
-            <h1 className="text-2xl font-bold">Political Posters</h1>
+            <h1 className="text-2xl font-bold">Politické plakáty</h1>
           </div>
           <div className="flex items-center gap-4">
             <Button variant="outline" asChild>
-              <Link href="/">Home</Link>
+              <Link href="/">Domů</Link>
             </Button>
             <Button variant="outline" asChild>
-              <Link href="/gallery">Gallery</Link>
+              <Link href="/gallery">Galerie</Link>
             </Button>
             <form action={signOut}>
               <Button variant="outline" type="submit">
-                Sign Out
+                Odhlásit se
               </Button>
             </form>
           </div>
@@ -119,7 +119,7 @@ export default async function DashboardPage() {
                       <CardTitle className="text-2xl">{profile?.full_name || "User"}</CardTitle>
                       {profile?.admin && (
                         <Badge variant="secondary" className="bg-amber-100 text-amber-800 border-amber-300">
-                          🛡️ Admin
+                          🛡️ Administrátor
                         </Badge>
                       )}
                     </div>
@@ -129,7 +129,7 @@ export default async function DashboardPage() {
                 <Button variant="outline" asChild>
                   <Link href="/profile/edit">
                     <Edit className="mr-2 h-4 w-4" />
-                    Edit Profile
+                    Upravit profil
                   </Link>
                 </Button>
               </div>
@@ -139,39 +139,39 @@ export default async function DashboardPage() {
           <div className="grid md:grid-cols-3 gap-6">
             <Card>
               <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-                <CardTitle className="text-sm font-medium">Posters Uploaded</CardTitle>
+                <CardTitle className="text-sm font-medium">Nahráné plakáty</CardTitle>
                 <Upload className="h-4 w-4 text-muted-foreground" />
               </CardHeader>
               <CardContent>
                 <div className="text-2xl font-bold">{userPosters?.length || 0}</div>
                 <p className="text-xs text-muted-foreground">
-                  {userPosters?.length === 1 ? "poster" : "posters"} shared with the community
+                  {userPosters?.length === 1 ? "plakát" : "plakátů"} sdíleno s komunitou
                 </p>
               </CardContent>
             </Card>
 
             <Card>
               <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-                <CardTitle className="text-sm font-medium">Comments Posted</CardTitle>
+                <CardTitle className="text-sm font-medium">Napsané komentáře</CardTitle>
                 <MessageSquare className="h-4 w-4 text-muted-foreground" />
               </CardHeader>
               <CardContent>
                 <div className="text-2xl font-bold">{userComments?.length || 0}</div>
                 <p className="text-xs text-muted-foreground">
-                  {userComments?.length === 1 ? "comment" : "comments"} on community posters
+                  {userComments?.length === 1 ? "komentář" : "komentářů"} na komunitních plakátech
                 </p>
               </CardContent>
             </Card>
 
             <Card>
               <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-                <CardTitle className="text-sm font-medium">Ratings Given</CardTitle>
+                <CardTitle className="text-sm font-medium">Udělená hodnocení</CardTitle>
                 <Star className="h-4 w-4 text-muted-foreground" />
               </CardHeader>
               <CardContent>
                 <div className="text-2xl font-bold">{ratingsCount || 0}</div>
                 <p className="text-xs text-muted-foreground">
-                  {ratingsCount === 1 ? "rating" : "ratings"} provided to posters
+                  {ratingsCount === 1 ? "hodnocení" : "hodnocení"} poskytnuto plakátům
                 </p>
               </CardContent>
             </Card>
@@ -179,8 +179,8 @@ export default async function DashboardPage() {
 
           <Card>
             <CardHeader>
-              <CardTitle>Quick Actions</CardTitle>
-              <CardDescription>Common tasks and navigation</CardDescription>
+              <CardTitle>Rychlé akce</CardTitle>
+              <CardDescription>Běžné úkoly a navigace</CardDescription>
             </CardHeader>
             <CardContent>
               <div className="grid md:grid-cols-2 gap-4">
@@ -188,8 +188,8 @@ export default async function DashboardPage() {
                   <Link href="/upload" className="flex flex-col items-center gap-2">
                     <Upload className="h-6 w-6" />
                     <div className="text-center">
-                      <div className="font-semibold">Upload New Poster</div>
-                      <div className="text-sm text-muted-foreground">Share a political poster you've found</div>
+                      <div className="font-semibold">Nahrát nový plakát</div>
+                      <div className="text-sm text-muted-foreground">Sdílejte politický plakát, který jste našli</div>
                     </div>
                   </Link>
                 </Button>
@@ -197,8 +197,8 @@ export default async function DashboardPage() {
                   <Link href="/gallery" className="flex flex-col items-center gap-2">
                     <Eye className="h-6 w-6" />
                     <div className="text-center">
-                      <div className="font-semibold">Browse Gallery</div>
-                      <div className="text-sm text-muted-foreground">Explore community posters</div>
+                      <div className="font-semibold">Procházet galerii</div>
+                      <div className="text-sm text-muted-foreground">Prozkoumejte komunitní plakáty</div>
                     </div>
                   </Link>
                 </Button>
@@ -208,15 +208,15 @@ export default async function DashboardPage() {
 
           <Card>
             <CardHeader>
-              <CardTitle>Your Posters ({userPosters?.length || 0})</CardTitle>
-              <CardDescription>Posters you've uploaded to the community</CardDescription>
+              <CardTitle>Vaše plakáty ({userPosters?.length || 0})</CardTitle>
+              <CardDescription>Plakáty, které jste nahráli do komunity</CardDescription>
             </CardHeader>
             <CardContent>
               {!userPosters || userPosters.length === 0 ? (
                 <div className="text-center py-8">
-                  <p className="text-muted-foreground mb-4">You haven't uploaded any posters yet</p>
+                  <p className="text-muted-foreground mb-4">Zatím jste nahrál žádné plakáty</p>
                   <Button asChild>
-                    <Link href="/upload">Upload Your First Poster</Link>
+                    <Link href="/upload">Nahrajte váš první plakát</Link>
                   </Button>
                 </div>
               ) : (
@@ -238,9 +238,9 @@ export default async function DashboardPage() {
                             variant="secondary"
                             className="text-xs mb-2"
                             style={{
-                              backgroundColor: `${poster.political_parties.color}20`,
-                              color: poster.political_parties.color,
-                              borderColor: poster.political_parties.color,
+                              backgroundColor: `${poster.political_parties.color_hex}20`,
+                              color: poster.political_parties.color_hex,
+                              borderColor: poster.political_parties.color_hex,
                             }}
                           >
                             {poster.political_parties.name}
@@ -261,7 +261,7 @@ export default async function DashboardPage() {
                         <Button asChild size="sm" className="w-full">
                           <Link href={`/poster/${poster.id}`}>
                             <Eye className="mr-2 h-4 w-4" />
-                            View Details
+                            Zobrazit detail
                           </Link>
                         </Button>
                       </CardContent>
@@ -274,13 +274,13 @@ export default async function DashboardPage() {
 
           <Card>
             <CardHeader>
-              <CardTitle>Recent Comments</CardTitle>
-              <CardDescription>Your latest comments on community posters</CardDescription>
+              <CardTitle>Nedávné komentáře</CardTitle>
+              <CardDescription>Vaše nejnovější komentáře na komunitních plakátech</CardDescription>
             </CardHeader>
             <CardContent>
               {!userComments || userComments.length === 0 ? (
                 <p className="text-muted-foreground text-center py-8">
-                  You haven't posted any comments yet. Visit the gallery to start engaging with the community!
+                  Zatím jste nenapsal žádné komentáře. Navštivte galerii a začněte se zapojovat do komunity!
                 </p>
               ) : (
                 <div className="space-y-4">

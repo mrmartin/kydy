@@ -109,33 +109,33 @@ export default function EditProfileForm({ profile }: EditProfileFormProps) {
           </label>
           <input id="avatar-upload" type="file" accept="image/*" onChange={handleAvatarChange} className="hidden" />
         </div>
-        <p className="text-sm text-slate-600">Click the camera icon to change your profile picture</p>
+        <p className="text-sm text-slate-600">Klikněte na ikonu fotoaparátu pro změnu profilového obrázku</p>
       </div>
 
       {/* Full Name */}
       <div className="space-y-2">
-        <Label htmlFor="fullName">Full Name</Label>
+        <Label htmlFor="fullName">Celé jméno</Label>
         <Input
           id="fullName"
           type="text"
           value={fullName}
           onChange={(e) => setFullName(e.target.value)}
-          placeholder="Enter your full name"
+          placeholder="Zadejte vaše celé jméno"
           required
         />
       </div>
 
       {/* Email (read-only) */}
       <div className="space-y-2">
-        <Label htmlFor="email">Email</Label>
+        <Label htmlFor="email">E-mail</Label>
         <Input id="email" type="email" value={profile.email || ""} disabled className="bg-slate-50" />
-        <p className="text-sm text-slate-500">Email cannot be changed</p>
+        <p className="text-sm text-slate-500">E-mail nelze změnit</p>
       </div>
 
       {/* Admin Badge */}
       {profile.admin && (
         <div className="bg-amber-50 border border-amber-200 rounded-lg p-3">
-          <p className="text-amber-800 font-medium">🛡️ Administrator Account</p>
+          <p className="text-amber-800 font-medium">🛡️ Účet administrátora</p>
         </div>
       )}
 
@@ -143,11 +143,11 @@ export default function EditProfileForm({ profile }: EditProfileFormProps) {
       <div className="flex gap-4 pt-4">
         <Button type="button" variant="outline" onClick={() => router.back()} className="flex-1">
           <ArrowLeft className="w-4 h-4 mr-2" />
-          Cancel
+          Zrušit
         </Button>
         <Button type="submit" disabled={isLoading} className="flex-1 bg-blue-600 hover:bg-blue-700">
           <Save className="w-4 h-4 mr-2" />
-          {isLoading ? "Saving..." : "Save Changes"}
+          {isLoading ? "Ukládám..." : "Uložit změny"}
         </Button>
       </div>
     </form>
