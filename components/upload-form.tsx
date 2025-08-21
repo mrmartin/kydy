@@ -9,8 +9,9 @@ import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { Card, CardContent } from "@/components/ui/card"
-import { Loader2, Upload, X, ImageIcon } from "lucide-react"
+import { Loader2, Upload, X, ImageIcon, AlertCircle } from "lucide-react"
 import { toast } from "@/hooks/use-toast"
+import { validateImageFileClient } from "@/lib/file-validation"
 
 interface Party {
   id: number
@@ -27,6 +28,7 @@ export default function UploadForm({ parties }: UploadFormProps) {
   const [isUploading, setIsUploading] = useState(false)
   const [selectedFile, setSelectedFile] = useState<File | null>(null)
   const [previewUrl, setPreviewUrl] = useState<string | null>(null)
+  const [validationError, setValidationError] = useState<string | null>(null)
   const [formData, setFormData] = useState({
     title: "",
     description: "",
@@ -37,23 +39,33 @@ export default function UploadForm({ parties }: UploadFormProps) {
 
   const handleFileSelect = (event: React.ChangeEvent<HTMLInputElement>) => {
     const file = event.target.files?.[0]
+    setValidationError(null)
+    
     if (file) {
-      if (file.type.startsWith("image/")) {
-        setSelectedFile(file)
-        const url = URL.createObjectURL(file)
-        setPreviewUrl(url)
-      } else {
+      // Client-side pre-validation with comprehensive checks
+      const validationResult = validateImageFileClient(file)
+      
+      if (!validationResult.isValid) {
+        setValidationError(validationResult.error || "Neplatný soubor")
         toast({
-          title: "Neplatný typ souboru",
-          description: "Prosím vyberte obrázek (JPG, PNG, atd.)",
+          title: "Neplatný soubor",
+          description: validationResult.error,
           variant: "destructive",
         })
+        // Clear the input
+        event.target.value = ""
+        return
       }
+
+      setSelectedFile(file)
+      const url = URL.createObjectURL(file)
+      setPreviewUrl(url)
     }
   }
 
   const handleRemoveFile = () => {
     setSelectedFile(null)
+    setValidationError(null)
     if (previewUrl) {
       URL.revokeObjectURL(previewUrl)
       setPreviewUrl(null)
@@ -84,9 +96,10 @@ export default function UploadForm({ parties }: UploadFormProps) {
     setIsUploading(true)
 
     try {
-      // Upload image to Blob storage
+      // Upload image with type specification for validation
       const uploadFormData = new FormData()
       uploadFormData.append("file", selectedFile)
+      uploadFormData.append("type", "poster")
 
       console.log("[v0] Starting image upload...")
       const uploadResponse = await fetch("/api/upload", {
@@ -97,10 +110,10 @@ export default function UploadForm({ parties }: UploadFormProps) {
       console.log("[v0] Upload response status:", uploadResponse.status)
 
       if (!uploadResponse.ok) {
-        let errorMessage = "Failed to upload image"
+        let errorMessage = "Nahrání obrázku selhalo"
         try {
           const errorData = await uploadResponse.json()
-          errorMessage = errorData.error || errorMessage
+          errorMessage = errorData.message || errorData.error || errorMessage
         } catch {
           // Response is not JSON, use status text
           errorMessage = uploadResponse.statusText || errorMessage
@@ -114,7 +127,7 @@ export default function UploadForm({ parties }: UploadFormProps) {
         console.log("[v0] Upload result:", uploadResult)
       } catch (parseError) {
         console.error("[v0] Failed to parse upload response as JSON:", parseError)
-        throw new Error("Invalid response from upload server")
+        throw new Error("Neplatná odpověď ze serveru")
       }
 
       const { url: imageUrl, filename } = uploadResult
@@ -175,15 +188,26 @@ export default function UploadForm({ parties }: UploadFormProps) {
     <form onSubmit={handleSubmit} className="space-y-6">
       {/* File Upload */}
       <div className="space-y-4">
-        <label className="block text-sm font-medium">Obrázek plakátu *</label>
+        <label className="block text-sm font-medium">
+          Obrázek plakátu * 
+          <span className="text-sm text-slate-500 font-normal ml-2">
+            (JPG, PNG, GIF, WEBP, 50 KB - 10 MB)
+          </span>
+        </label>
 
         {!selectedFile ? (
           <div className="border-2 border-dashed border-border rounded-lg p-8 text-center hover:border-primary/50 transition-colors">
-            <input type="file" accept="image/*" onChange={handleFileSelect} className="hidden" id="file-upload" />
+            <input 
+              type="file" 
+              accept="image/jpeg,image/jpg,image/png,image/gif,image/webp" 
+              onChange={handleFileSelect} 
+              className="hidden" 
+              id="file-upload" 
+            />
             <label htmlFor="file-upload" className="cursor-pointer">
-              <ImageIcon className="h-12 w-12 text-muted-foreground mx-auto mb-4" />
+              <Upload className="h-12 w-12 text-muted-foreground mx-auto mb-4" />
               <p className="text-lg font-medium mb-2">Klikněte pro nahrání obrázku</p>
-              <p className="text-sm text-muted-foreground">PNG, JPG, GIF do 10MB</p>
+              <p className="text-sm text-muted-foreground">JPG, PNG, GIF, WEBP • 50 KB - 10 MB</p>
             </label>
           </div>
         ) : (
@@ -197,9 +221,17 @@ export default function UploadForm({ parties }: UploadFormProps) {
                     className="w-24 h-24 object-cover rounded-lg"
                   />
                 </div>
-                <div className="flex-1">
-                  <p className="font-medium">{selectedFile.name}</p>
-                  <p className="text-sm text-muted-foreground">{(selectedFile.size / 1024 / 1024).toFixed(2)} MB</p>
+                <div className="flex-1 min-w-0">
+                  <p className="text-sm font-medium text-slate-900 truncate">{selectedFile.name}</p>
+                  <p className="text-sm text-slate-500">
+                    {(selectedFile.size / (1024 * 1024)).toFixed(2)} MB
+                  </p>
+                  {validationError && (
+                    <div className="flex items-center gap-1 mt-1 text-red-600">
+                      <AlertCircle className="w-4 h-4" />
+                      <span className="text-xs">{validationError}</span>
+                    </div>
+                  )}
                 </div>
                 <Button type="button" variant="ghost" size="sm" onClick={handleRemoveFile}>
                   <X className="h-4 w-4" />
@@ -285,7 +317,12 @@ export default function UploadForm({ parties }: UploadFormProps) {
       </div>
 
       {/* Submit Button */}
-      <Button type="submit" disabled={isUploading} className="w-full" size="lg">
+      <Button 
+        type="submit" 
+        disabled={isUploading || !selectedFile || !!validationError} 
+        className="w-full" 
+        size="lg"
+      >
         {isUploading ? (
           <>
             <Loader2 className="mr-2 h-5 w-5 animate-spin" />
@@ -293,7 +330,7 @@ export default function UploadForm({ parties }: UploadFormProps) {
           </>
         ) : (
           <>
-            <Upload className="mr-2 h-5 w-5" />
+            <ImageIcon className="mr-2 h-5 w-5" />
             Nahrát plakát
           </>
         )}

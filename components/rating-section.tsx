@@ -2,9 +2,11 @@
 
 import { useState, useEffect } from "react"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
+import { Button } from "@/components/ui/button"
 import { Star, Loader2 } from "lucide-react"
 import { toast } from "@/hooks/use-toast"
 import { cn } from "@/lib/utils"
+import Link from "next/link"
 
 interface RatingData {
   averageRating: number
@@ -14,9 +16,10 @@ interface RatingData {
 
 interface RatingSectionProps {
   posterId: string
+  user: any // User object from Supabase auth
 }
 
-export default function RatingSection({ posterId }: RatingSectionProps) {
+export default function RatingSection({ posterId, user }: RatingSectionProps) {
   const [ratingData, setRatingData] = useState<RatingData | null>(null)
   const [isLoading, setIsLoading] = useState(true)
   const [isSubmitting, setIsSubmitting] = useState(false)
@@ -142,30 +145,47 @@ export default function RatingSection({ posterId }: RatingSectionProps) {
 
         {/* User Rating Section */}
         <div className="border-t pt-6">
-          <h4 className="font-medium mb-3">{ratingData.userRating ? "Vaše hodnocení" : "Odnoťte tento plakát"}</h4>
+          {user ? (
+            <>
+              <h4 className="font-medium mb-3">{ratingData.userRating ? "Vaše hodnocení" : "Odnoťte tento plakát"}</h4>
 
-          {ratingData.userRating ? (
-            <div className="space-y-3">
-              <div className="flex items-center gap-2">
-                {renderStars(ratingData.userRating)}
-                <span className="text-sm text-muted-foreground">
-                  Ohodnotil jste {ratingData.userRating} hvězdičk{ratingData.userRating !== 1 ? "ami" : "ou"}
-                </span>
-              </div>
-              <p className="text-sm text-muted-foreground">Klikněte na hvězdičky pro aktualizaci hodnocení</p>
-              <div className="flex items-center gap-1" onMouseLeave={() => setHoveredRating(null)}>
-                {isSubmitting ? (
-                  <Loader2 className="h-5 w-5 animate-spin" />
-                ) : (
-                  renderStars(hoveredRating || ratingData.userRating, true)
-                )}
-              </div>
-            </div>
+              {ratingData.userRating ? (
+                <div className="space-y-3">
+                  <div className="flex items-center gap-2">
+                    {renderStars(ratingData.userRating)}
+                    <span className="text-sm text-muted-foreground">
+                      Ohodnotil jste {ratingData.userRating} hvězdičk{ratingData.userRating !== 1 ? "ami" : "ou"}
+                    </span>
+                  </div>
+                  <p className="text-sm text-muted-foreground">Klikněte na hvězdičky pro aktualizaci hodnocení</p>
+                  <div className="flex items-center gap-1" onMouseLeave={() => setHoveredRating(null)}>
+                    {isSubmitting ? (
+                      <Loader2 className="h-5 w-5 animate-spin" />
+                    ) : (
+                      renderStars(hoveredRating || ratingData.userRating, true)
+                    )}
+                  </div>
+                </div>
+              ) : (
+                <div className="space-y-3">
+                  <p className="text-sm text-muted-foreground">Klikněte na hvězdičky pro ohodnocení plakátu</p>
+                  <div className="flex items-center gap-1" onMouseLeave={() => setHoveredRating(null)}>
+                    {isSubmitting ? <Loader2 className="h-5 w-5 animate-spin" /> : renderStars(hoveredRating || 0, true)}
+                  </div>
+                </div>
+              )}
+            </>
           ) : (
-            <div className="space-y-3">
-              <p className="text-sm text-muted-foreground">Klikněte na hvězdičky pro ohodnocení plakátu</p>
-              <div className="flex items-center gap-1" onMouseLeave={() => setHoveredRating(null)}>
-                {isSubmitting ? <Loader2 className="h-5 w-5 animate-spin" /> : renderStars(hoveredRating || 0, true)}
+            <div className="text-center py-6 border-2 border-dashed border-muted rounded-lg">
+              <Star className="mx-auto h-12 w-12 text-muted-foreground mb-4" />
+              <p className="text-muted-foreground mb-4">Chcete hodnotit? Přihlaste se!</p>
+              <div className="flex gap-2 justify-center">
+                <Button variant="outline" asChild>
+                  <Link href="/auth/login">Přihlásit se</Link>
+                </Button>
+                <Button asChild>
+                  <Link href="/auth/signup">Registrovat se</Link>
+                </Button>
               </div>
             </div>
           )}

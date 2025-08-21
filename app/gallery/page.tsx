@@ -11,10 +11,6 @@ export default async function GalleryPage() {
     data: { user },
   } = await supabase.auth.getUser()
 
-  if (!user) {
-    redirect("/auth/login")
-  }
-
   // Get all posters with related data
   const { data: posters } = await supabase
     .from("posters")
@@ -24,6 +20,12 @@ export default async function GalleryPage() {
         id,
         name,
         color_hex
+      ),
+      profiles (
+        id,
+        full_name,
+        username,
+        avatar_url
       )
     `)
     .order("created_at", { ascending: false })
@@ -38,18 +40,33 @@ export default async function GalleryPage() {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Vote className="h-8 w-8 text-primary" />
-            <h1 className="text-2xl font-bold">Politické plakáty</h1>
+            <h1 className="text-2xl font-bold">KYDY.cz - Politické Plakáty</h1>
           </div>
           <div className="flex items-center gap-4">
             <Button variant="outline" asChild>
               <Link href="/">Domů</Link>
             </Button>
-            <Button variant="outline" asChild>
-              <Link href="/dashboard">Nástěnka</Link>
-            </Button>
-            <Button asChild>
-              <Link href="/upload">Nahrát plakát</Link>
-            </Button>
+            {user ? (
+              // Logged in user navigation
+              <>
+                <Button variant="outline" asChild>
+                  <Link href="/dashboard">Nástěnka</Link>
+                </Button>
+                <Button asChild>
+                  <Link href="/upload">Nahrát plakát</Link>
+                </Button>
+              </>
+            ) : (
+              // Non-logged in user navigation
+              <>
+                <Button variant="outline" asChild>
+                  <Link href="/auth/login">Přihlásit se</Link>
+                </Button>
+                <Button asChild>
+                  <Link href="/auth/signup">Registrovat se</Link>
+                </Button>
+              </>
+            )}
           </div>
         </div>
       </header>

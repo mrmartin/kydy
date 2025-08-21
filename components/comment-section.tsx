@@ -6,9 +6,11 @@ import { useState, useEffect } from "react"
 import { Button } from "@/components/ui/button"
 import { Textarea } from "@/components/ui/textarea"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { Avatar, AvatarFallback } from "@/components/ui/avatar"
+import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 import { Loader2, MessageSquare, Send } from "lucide-react"
 import { toast } from "@/hooks/use-toast"
+import { getDisplayName, getInitials } from "@/lib/user-utils"
+import Link from "next/link"
 
 interface Comment {
   id: string
@@ -18,14 +20,16 @@ interface Comment {
     id: string
     username: string | null
     full_name: string | null
+    avatar_url: string | null
   } | null
 }
 
 interface CommentSectionProps {
   posterId: string
+  user: any // User object from Supabase auth
 }
 
-export default function CommentSection({ posterId }: CommentSectionProps) {
+export default function CommentSection({ posterId, user }: CommentSectionProps) {
   const [comments, setComments] = useState<Comment[]>([])
   const [newComment, setNewComment] = useState("")
   const [isLoading, setIsLoading] = useState(true)
@@ -134,27 +138,42 @@ export default function CommentSection({ posterId }: CommentSectionProps) {
       </CardHeader>
       <CardContent className="space-y-6">
         {/* Comment Form */}
-        <form onSubmit={handleSubmitComment} className="space-y-4">
-          <Textarea
-            placeholder="Napište svůj komentář..."
-            value={newComment}
-            onChange={(e) => setNewComment(e.target.value)}
-            rows={3}
-          />
-          <Button type="submit" disabled={isSubmitting}>
-            {isSubmitting ? (
-              <>
-                <Loader2 className="mr-2 h-4 w-4 animate-spin" />
-                Odesílám...
-              </>
-            ) : (
-              <>
-                <Send className="mr-2 h-4 w-4" />
-                Odeslat komentář
-              </>
-            )}
-          </Button>
-        </form>
+        {user ? (
+          <form onSubmit={handleSubmitComment} className="space-y-4">
+            <Textarea
+              placeholder="Napište svůj komentář..."
+              value={newComment}
+              onChange={(e) => setNewComment(e.target.value)}
+              rows={3}
+            />
+            <Button type="submit" disabled={isSubmitting}>
+              {isSubmitting ? (
+                <>
+                  <Loader2 className="mr-2 h-4 w-4 animate-spin" />
+                  Odesílám...
+                </>
+              ) : (
+                <>
+                  <Send className="mr-2 h-4 w-4" />
+                  Odeslat komentář
+                </>
+              )}
+            </Button>
+          </form>
+        ) : (
+          <div className="text-center py-6 border-2 border-dashed border-muted rounded-lg">
+            <MessageSquare className="mx-auto h-12 w-12 text-muted-foreground mb-4" />
+            <p className="text-muted-foreground mb-4">Chcete komentovat? Přihlaste se!</p>
+            <div className="flex gap-2 justify-center">
+              <Button variant="outline" asChild>
+                <Link href="/auth/login">Přihlásit se</Link>
+              </Button>
+              <Button asChild>
+                <Link href="/auth/signup">Registrovat se</Link>
+              </Button>
+            </div>
+          </div>
+        )}
 
         {/* Comments List */}
         <div className="space-y-4">
@@ -166,6 +185,9 @@ export default function CommentSection({ posterId }: CommentSectionProps) {
             comments.map((comment) => (
               <div key={comment.id} className="flex gap-3 p-4 bg-muted/50 rounded-lg">
                 <Avatar className="h-8 w-8">
+                  {comment.profiles?.avatar_url && (
+                    <AvatarImage src={comment.profiles.avatar_url} alt={getDisplayName(comment.profiles)} />
+                  )}
                   <AvatarFallback className="text-xs">{getInitials(getDisplayName(comment.profiles))}</AvatarFallback>
                 </Avatar>
                 <div className="flex-1 space-y-1">

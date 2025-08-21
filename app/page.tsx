@@ -3,20 +3,17 @@ import { redirect } from "next/navigation"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
-import { Vote, Upload, MessageSquare, Star, Users } from "lucide-react"
+import { Vote, Upload, MessageSquare, Star, Users, Maximize2 } from "lucide-react"
 import Link from "next/link"
 import { signOut } from "@/lib/actions"
 import Image from "next/image"
+import FullscreenPosterModal from "@/components/fullscreen-poster-modal"
 
 export default async function Home() {
   const supabase = await createClient()
   const {
     data: { user },
   } = await supabase.auth.getUser()
-
-  if (!user) {
-    redirect("/auth/login")
-  }
 
   return (
     <div className="min-h-screen bg-background">
@@ -25,18 +22,39 @@ export default async function Home() {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Vote className="h-8 w-8 text-primary" />
-            <h1 className="text-2xl font-bold">Politické plakáty</h1>
+            <h1 className="text-2xl font-bold">KYDY.cz - Politické Plakáty</h1>
           </div>
           <div className="flex items-center gap-4">
             <Button variant="ghost" asChild>
-              <Link href="/dashboard">Nástěnka</Link>
+              <Link href="/gallery">Galerie</Link>
             </Button>
-            <span className="text-sm text-muted-foreground">Vítejte, {user.email}</span>
-            <form action={signOut}>
-              <Button variant="outline" type="submit">
-                Odhlásit se
-              </Button>
-            </form>
+            {user ? (
+              // Logged in user navigation
+              <>
+                <Button variant="ghost" asChild>
+                  <Link href="/dashboard">Nástěnka</Link>
+                </Button>
+                <Button variant="outline" asChild>
+                  <Link href="/upload">Nahrát plakát</Link>
+                </Button>
+                <span className="text-sm text-muted-foreground">Vítejte, {user.email}</span>
+                <form action={signOut}>
+                  <Button variant="outline" type="submit">
+                    Odhlásit se
+                  </Button>
+                </form>
+              </>
+            ) : (
+              // Non-logged in user navigation
+              <>
+                <Button variant="outline" asChild>
+                  <Link href="/auth/login">Přihlásit se</Link>
+                </Button>
+                <Button asChild>
+                  <Link href="/auth/signup">Registrovat se</Link>
+                </Button>
+              </>
+            )}
           </div>
         </div>
       </header>
@@ -49,12 +67,21 @@ export default async function Home() {
             Komunitní platforma pro sdílení, diskuzi a hodnocení politických kampaní
           </p>
           <div className="flex gap-4 justify-center">
-            <Button asChild size="lg">
-              <Link href="/upload">
-                <Upload className="mr-2 h-5 w-5" />
-                Nahrát plakát
-              </Link>
-            </Button>
+            {user ? (
+              <Button asChild size="lg">
+                <Link href="/upload">
+                  <Upload className="mr-2 h-5 w-5" />
+                  Nahrát plakát
+                </Link>
+              </Button>
+            ) : (
+              <Button asChild size="lg">
+                <Link href="/auth/signup">
+                  <Upload className="mr-2 h-5 w-5" />
+                  Začít sdílet
+                </Link>
+              </Button>
+            )}
             <Button variant="outline" asChild size="lg">
               <Link href="/gallery">Procházet galerii</Link>
             </Button>
@@ -122,6 +149,12 @@ async function RecentActivity() {
         id,
         name,
         color_hex
+      ),
+      profiles (
+        id,
+        full_name,
+        username,
+        avatar_url
       )
     `)
     .order("created_at", { ascending: false })
@@ -150,6 +183,22 @@ async function RecentActivity() {
                       fill
                       className="object-cover group-hover:scale-105 transition-transform duration-300"
                     />
+                    {/* Fullscreen button */}
+                    <div className="absolute top-2 right-2 opacity-0 group-hover:opacity-100 transition-opacity duration-200">
+                      <FullscreenPosterModal
+                        imageUrl={poster.image_url}
+                        title={poster.title}
+                      >
+                        <Button 
+                          variant="secondary" 
+                          size="sm"
+                          className="bg-black/50 hover:bg-black/70 text-white border-none p-2 h-auto"
+                        >
+                          <Maximize2 className="h-4 w-4" />
+                          <span className="sr-only">Celá obrazovka</span>
+                        </Button>
+                      </FullscreenPosterModal>
+                    </div>
                   </div>
                   <h4 className="font-semibold line-clamp-1 mb-1">{poster.title}</h4>
                   {poster.political_parties && (
@@ -164,6 +213,11 @@ async function RecentActivity() {
                     >
                       {poster.political_parties.name}
                     </Badge>
+                  )}
+                  {poster.profiles && (
+                    <p className="text-xs text-muted-foreground mb-2">
+                      Nahráno: {poster.profiles.full_name || poster.profiles.username || "Anonymní uživatel"}
+                    </p>
                   )}
                   <Button asChild size="sm" className="w-full">
                     <Link href={`/poster/${poster.id}`}>Zobrazit detail</Link>

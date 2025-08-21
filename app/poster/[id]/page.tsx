@@ -3,11 +3,12 @@ import { notFound } from "next/navigation"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
-import { Vote, MapPin, Calendar, User, ArrowLeft } from "lucide-react"
+import { Vote, MapPin, Calendar, User, ArrowLeft, Maximize2 } from "lucide-react"
 import Link from "next/link"
 import Image from "next/image"
 import CommentSection from "@/components/comment-section"
 import RatingSection from "@/components/rating-section"
+import FullscreenPosterModal from "@/components/fullscreen-poster-modal"
 
 interface PosterPageProps {
   params: {
@@ -19,6 +20,11 @@ export default async function PosterPage({ params }: PosterPageProps) {
   const supabase = await createClient()
   const resolvedParams = await params
 
+  // Get user (for navigation context)
+  const {
+    data: { user },
+  } = await supabase.auth.getUser()
+
   const { data: poster, error } = await supabase
     .from("posters")
     .select(`
@@ -27,6 +33,12 @@ export default async function PosterPage({ params }: PosterPageProps) {
         id,
         name,
         color_hex
+      ),
+      profiles (
+        id,
+        full_name,
+        username,
+        avatar_url
       )
     `)
     .eq("id", resolvedParams.id)
@@ -45,7 +57,7 @@ export default async function PosterPage({ params }: PosterPageProps) {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Vote className="h-8 w-8 text-primary" />
-            <h1 className="text-2xl font-bold">Politické plakáty</h1>
+            <h1 className="text-2xl font-bold">KYDY.cz - Politické Plakáty</h1>
           </div>
           <div className="flex items-center gap-4">
             <Button variant="outline" asChild>
@@ -54,6 +66,30 @@ export default async function PosterPage({ params }: PosterPageProps) {
                 Zpět domů
               </Link>
             </Button>
+            <Button variant="outline" asChild>
+              <Link href="/gallery">Galerie</Link>
+            </Button>
+            {user ? (
+              // Logged in user navigation
+              <>
+                <Button variant="outline" asChild>
+                  <Link href="/dashboard">Nástěnka</Link>
+                </Button>
+                <Button asChild>
+                  <Link href="/upload">Nahrát plakát</Link>
+                </Button>
+              </>
+            ) : (
+              // Non-logged in user navigation
+              <>
+                <Button variant="outline" asChild>
+                  <Link href="/auth/login">Přihlásit se</Link>
+                </Button>
+                <Button asChild>
+                  <Link href="/auth/signup">Registrovat se</Link>
+                </Button>
+              </>
+            )}
           </div>
         </div>
       </header>
@@ -86,7 +122,7 @@ export default async function PosterPage({ params }: PosterPageProps) {
             </CardHeader>
             <CardContent className="space-y-6">
               {/* Poster Image */}
-              <div className="relative aspect-video w-full overflow-hidden rounded-lg bg-muted">
+              <div className="relative aspect-video w-full overflow-hidden rounded-lg bg-muted group">
                 <Image
                   src={poster.image_url || "/placeholder.svg"}
                   alt={poster.title}
@@ -94,13 +130,21 @@ export default async function PosterPage({ params }: PosterPageProps) {
                   className="object-contain"
                   priority
                 />
+                {/* Fullscreen button */}
+                <div className="absolute top-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity duration-200">
+                  <FullscreenPosterModal
+                    imageUrl={poster.image_url}
+                    title={poster.title}
+                    triggerClassName="bg-black/50 hover:bg-black/70 text-white border-none"
+                  />
+                </div>
               </div>
 
               {/* Metadata */}
               <div className="grid md:grid-cols-2 gap-4 text-sm text-muted-foreground">
                 <div className="flex items-center gap-2">
                   <User className="h-4 w-4" />
-                  <span>Nahráno členem komunity</span>
+                  <span>Nahráno: {poster.profiles?.full_name || poster.profiles?.username || "Anonymní uživatel"}</span>
                 </div>
 
                 {poster.location && (
@@ -135,9 +179,9 @@ export default async function PosterPage({ params }: PosterPageProps) {
             </CardContent>
           </Card>
 
-          <RatingSection posterId={poster.id} />
+          <RatingSection posterId={poster.id} user={user} />
 
-          <CommentSection posterId={poster.id} />
+          <CommentSection posterId={poster.id} user={user} />
         </div>
       </main>
     </div>

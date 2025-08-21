@@ -6,9 +6,11 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
-import { Search, Filter, Calendar, MapPin, User, Eye } from "lucide-react"
+import { Search, Filter, Calendar, MapPin, User, Eye, Maximize2 } from "lucide-react"
 import Link from "next/link"
 import Image from "next/image"
+import FullscreenPosterModal from "@/components/fullscreen-poster-modal"
+import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 
 interface Poster {
   id: string
@@ -27,6 +29,7 @@ interface Poster {
     id: string
     username: string | null
     full_name: string | null
+    avatar_url: string | null
   } | null
 }
 
@@ -179,6 +182,22 @@ export default function GalleryClient({ posters, parties }: GalleryClientProps) 
                     className="object-cover group-hover:scale-105 transition-transform duration-300"
                   />
                   <div className="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors" />
+                  {/* Fullscreen button */}
+                  <div className="absolute top-2 right-2 opacity-0 group-hover:opacity-100 transition-opacity duration-200">
+                    <FullscreenPosterModal
+                      imageUrl={poster.image_url}
+                      title={poster.title}
+                    >
+                      <Button 
+                        variant="secondary" 
+                        size="sm"
+                        className="bg-black/50 hover:bg-black/70 text-white border-none p-2 h-auto"
+                      >
+                        <Maximize2 className="h-4 w-4" />
+                        <span className="sr-only">Celá obrazovka</span>
+                      </Button>
+                    </FullscreenPosterModal>
+                  </div>
                 </div>
               </CardHeader>
               <CardContent className="p-4">
@@ -209,9 +228,16 @@ export default function GalleryClient({ posters, parties }: GalleryClientProps) 
                   {/* Metadata */}
                   <div className="space-y-1 text-xs text-muted-foreground">
                     {poster.profiles && (
-                      <div className="flex items-center gap-1">
-                        <User className="h-3 w-3" />
-                        <span>{poster.profiles.full_name || poster.profiles.username || "Anonymous"}</span>
+                      <div className="flex items-center gap-2">
+                        <Avatar className="h-4 w-4">
+                          {poster.profiles.avatar_url && (
+                            <AvatarImage src={poster.profiles.avatar_url} alt={poster.profiles.full_name || poster.profiles.username || "User"} />
+                          )}
+                          <AvatarFallback className="text-[8px]">
+                            {(poster.profiles.full_name || poster.profiles.username || "A").charAt(0).toUpperCase()}
+                          </AvatarFallback>
+                        </Avatar>
+                        <span>{poster.profiles.full_name || poster.profiles.username || "Anonymní uživatel"}</span>
                       </div>
                     )}
 

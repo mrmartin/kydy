@@ -28,7 +28,15 @@ export async function POST(request: NextRequest) {
         user_id: user.id,
         content: content.trim(),
       })
-      .select("*")
+      .select(`
+        *,
+        profiles (
+          id,
+          full_name,
+          username,
+          avatar_url
+        )
+      `)
       .single()
 
     if (error) {
@@ -36,15 +44,7 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: "Failed to save comment" }, { status: 500 })
     }
 
-    const commentWithProfile = {
-      ...comment,
-      profiles: {
-        id: user.id,
-        full_name: "Community Member",
-      },
-    }
-
-    return NextResponse.json({ comment: commentWithProfile })
+    return NextResponse.json({ comment })
   } catch (error) {
     console.error("API error:", error)
     return NextResponse.json({ error: "Internal server error" }, { status: 500 })
@@ -62,10 +62,18 @@ export async function GET(request: NextRequest) {
 
     const supabase = await createClient()
 
-    // Get comments for the poster
+    // Get comments for the poster with user profile data
     const { data: comments, error } = await supabase
       .from("comments")
-      .select("*")
+      .select(`
+        *,
+        profiles (
+          id,
+          full_name,
+          username,
+          avatar_url
+        )
+      `)
       .eq("poster_id", posterId)
       .order("created_at", { ascending: false })
 
@@ -74,16 +82,7 @@ export async function GET(request: NextRequest) {
       return NextResponse.json({ error: "Failed to fetch comments" }, { status: 500 })
     }
 
-    const commentsWithProfiles =
-      comments?.map((comment) => ({
-        ...comment,
-        profiles: {
-          id: comment.user_id,
-          full_name: "Community Member",
-        },
-      })) || []
-
-    return NextResponse.json({ comments: commentsWithProfiles })
+    return NextResponse.json({ comments: comments || [] })
   } catch (error) {
     console.error("API error:", error)
     return NextResponse.json({ error: "Internal server error" }, { status: 500 })

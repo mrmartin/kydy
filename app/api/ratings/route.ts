@@ -68,7 +68,7 @@ export async function GET(request: NextRequest) {
     }
 
     const totalRatings = ratings.length
-    const averageRating = totalRatings > 0 ? ratings.reduce((sum, r) => sum + r.rating, 0) / totalRatings : 0
+    const averageRating = totalRatings > 0 ? ratings.reduce((sum: number, r: any) => sum + r.rating, 0) / totalRatings : 0
 
     // Get current user's rating if authenticated
     const {

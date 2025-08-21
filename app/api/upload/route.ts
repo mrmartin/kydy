@@ -1,11 +1,19 @@
-import { put } from "@vercel/blob"
+import { writeFile, mkdir } from "fs/promises"
+import { existsSync } from "fs"
+import path from "path"
 import { type NextRequest, NextResponse } from "next/server"
 import { createClient } from "@/lib/supabase/server"
+import { validateImageFile, getSafeFilename } from "@/lib/file-validation"
 
-// Check if Vercel Blob is configured
-const isBlobConfigured = typeof process.env.BLOB_READ_WRITE_TOKEN === "string" && 
-  process.env.BLOB_READ_WRITE_TOKEN.length > 0 && 
-  process.env.BLOB_READ_WRITE_TOKEN !== "your-vercel-blob-token-here"
+// Get uploads directory from environment
+const UPLOADS_DIR = process.env.UPLOADS_DIR || "/tmp/kydy_uploads"
+
+// Ensure uploads directory exists
+async function ensureUploadsDir() {
+  if (!existsSync(UPLOADS_DIR)) {
+    await mkdir(UPLOADS_DIR, { recursive: true })
+  }
+}
 
 export async function POST(request: NextRequest) {
   try {
@@ -21,49 +29,58 @@ export async function POST(request: NextRequest) {
 
     const formData = await request.formData()
     const file = formData.get("file") as File
+    const uploadType = (formData.get("type") as string) || "poster" // 'poster' or 'avatar'
 
     if (!file) {
-      return NextResponse.json({ error: "No file provided" }, { status: 400 })
+      return NextResponse.json({ 
+        error: "No file provided",
+        message: "Nebyl vybrán žádný soubor" 
+      }, { status: 400 })
     }
 
-    // Validate file type
-    if (!file.type.startsWith("image/")) {
-      return NextResponse.json({ error: "File must be an image" }, { status: 400 })
+    // Convert file to buffer for comprehensive validation
+    const bytes = await file.arrayBuffer()
+    const buffer = Buffer.from(bytes)
+
+    // Comprehensive file validation including magic number checking
+    const validationResult = await validateImageFile(
+      file, 
+      buffer, 
+      uploadType as 'poster' | 'avatar'
+    );
+
+    if (!validationResult.isValid) {
+      return NextResponse.json({ 
+        error: validationResult.errorCode || "VALIDATION_FAILED",
+        message: validationResult.error || "Soubor nesplňuje požadavky pro nahrání"
+      }, { status: 400 })
     }
 
-    // Validate file size (10MB limit)
-    const maxSize = 10 * 1024 * 1024 // 10MB
-    if (file.size > maxSize) {
-      return NextResponse.json({ error: "File size must be less than 10MB" }, { status: 400 })
-    }
+    // Ensure uploads directory exists
+    await ensureUploadsDir()
 
-    // Generate unique filename
-    const timestamp = Date.now()
-    const extension = file.name.split(".").pop()
-    const filename = `poster-${timestamp}-${user.id}.${extension}`
-
-    let url: string
-
-    if (isBlobConfigured) {
-      // Upload to Vercel Blob
-      const blob = await put(filename, file, {
-        access: "public",
-      })
-      url = blob.url
-    } else {
-      // Fallback: Return a placeholder URL for development
-      console.warn("Vercel Blob not configured. Using placeholder image URL.")
-      url = "/placeholder.jpg" // This should point to a placeholder image in your public folder
-    }
+    // Generate safe filename
+    const filename = getSafeFilename(file.name, user.id, uploadType as 'poster' | 'avatar')
+    const filePath = path.join(UPLOADS_DIR, filename)
+    
+    // Save file to local storage (buffer already created for validation)
+    await writeFile(filePath, buffer)
+    
+    // Create URL that points to our static file serving route
+    const url = `/uploads/${filename}`
 
     return NextResponse.json({
       url: url,
       filename: filename,
       size: file.size,
       type: file.type,
+      message: "Soubor byl úspěšně nahrán"
     })
   } catch (error) {
     console.error("Upload error:", error)
-    return NextResponse.json({ error: "Upload failed" }, { status: 500 })
+    return NextResponse.json({ 
+      error: "UPLOAD_FAILED",
+      message: "Nahrání souboru selhalo. Zkuste to prosím znovu." 
+    }, { status: 500 })
   }
 }

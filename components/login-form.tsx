@@ -45,7 +45,7 @@ export default function LoginForm() {
           <Vote className="h-12 w-12 text-primary" />
         </div>
         <CardTitle className="text-2xl font-bold">Vítejte zpět</CardTitle>
-        <CardDescription>Přihlaste se ke svému účtu Politické plakáty</CardDescription>
+        <CardDescription>Přihlaste se ke svému účtu KYDY.cz - Politické Plakáty</CardDescription>
       </CardHeader>
       <CardContent>
         <form action={formAction} className="space-y-4">

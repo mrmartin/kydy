@@ -4,7 +4,7 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Politické plakáty',
+  title: 'KYDY.cz - Politické Plakáty',
   description: 'Platforma pro sdílení a hodnocení politických plakátů',
   generator: 'v0.app',
 }

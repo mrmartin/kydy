@@ -1,6 +1,6 @@
 # Political Posters Platform 🗳️
 
-A modern web application for uploading, sharing, and rating political posters and campaign materials. Built with Next.js, Supabase, and Vercel Blob storage.
+A modern web application for uploading, sharing, and rating political posters and campaign materials. Built with Next.js, Supabase, and local file storage.
 
 **🇨🇿 Fully localized in Czech** - All user interface text, forms, and messages are in Czech language, designed for Czech users and political content.
 
@@ -19,7 +19,7 @@ This platform allows users to:
 - **Backend**: Next.js API routes
 - **Database**: Supabase (PostgreSQL with Row Level Security)
 - **Authentication**: Supabase Auth
-- **File Storage**: Vercel Blob
+- **File Storage**: Local file system
 - **UI Components**: Radix UI primitives
 - **Localization**: Full Czech language support (UI, forms, messages)
 
@@ -30,7 +30,7 @@ Before running this project, you need:
 1. **Node.js** (v18 or higher)
 2. **npm** package manager
 3. **Supabase account** and project
-4. **Vercel account** (for Blob storage)
+4. **Persistent storage directory** (for file uploads)
 
 ## 🚀 Quick Start
 
@@ -46,6 +46,13 @@ npm install --legacy-peer-deps
 
 Create a `.env.local` file in the project root with the following variables:
 
+**First, create the uploads directory:**
+```bash
+sudo mkdir -p /mnt/nvme_data/kydy_uploads
+sudo chown $USER:$USER /mnt/nvme_data/kydy_uploads
+sudo chmod 755 /mnt/nvme_data/kydy_uploads
+```
+
 ```env
 # Supabase Configuration
 NEXT_PUBLIC_SUPABASE_URL=your-supabase-project-url
@@ -55,8 +62,8 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your-supabase-anon-key
 NEXT_PUBLIC_SITE_URL=http://localhost:3000
 NEXT_PUBLIC_DEV_SUPABASE_REDIRECT_URL=http://localhost:3000/auth/callback
 
-# Vercel Blob Storage Token (for file uploads)
-BLOB_READ_WRITE_TOKEN=your-vercel-blob-token
+# Local File Storage Directory (for file uploads)
+UPLOADS_DIR=/mnt/nvme_data/kydy_uploads
 ```
 
 ### 3. Database Setup
@@ -108,7 +115,7 @@ kydy/
 |----------|-------------|------------|
 | `NEXT_PUBLIC_SUPABASE_URL` | Your Supabase project URL | Supabase Dashboard → Settings → API |
 | `NEXT_PUBLIC_SUPABASE_ANON_KEY` | Supabase anonymous/public key | Supabase Dashboard → Settings → API |
-| `BLOB_READ_WRITE_TOKEN` | Vercel Blob storage token | Vercel Dashboard → Storage → Create Token |
+| `UPLOADS_DIR` | Local directory for file uploads | Create a persistent directory (e.g., `/mnt/nvme_data/kydy_uploads`) |
 
 ### Optional Variables
 
@@ -180,9 +187,10 @@ npm run lint
 
 ### Common Issues
 
-1. **"Vercel Blob: No token found"**
-   - Ensure `BLOB_READ_WRITE_TOKEN` is set in `.env.local`
-   - Restart the dev server after adding the token
+1. **"Upload failed" or "ENOENT" errors**
+   - Ensure the uploads directory exists and has proper permissions
+   - Check that `UPLOADS_DIR` is set correctly in `.env.local`
+   - Verify the directory is writable by the Node.js process
 
 2. **"Could not find table 'posters'"**
    - Run the database setup scripts in Supabase SQL Editor

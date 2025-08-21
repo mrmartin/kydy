@@ -4,10 +4,11 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
-import { Vote, Upload, MessageSquare, Star, Calendar, MapPin, Eye, Edit } from "lucide-react"
+import { Vote, Upload, MessageSquare, Star, Calendar, MapPin, Eye, Edit, Maximize2 } from "lucide-react"
 import Link from "next/link"
 import Image from "next/image"
 import { signOut } from "@/lib/actions"
+import FullscreenPosterModal from "@/components/fullscreen-poster-modal"
 
 export default async function DashboardPage() {
   const supabase = await createClient()
@@ -84,7 +85,7 @@ export default async function DashboardPage() {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Vote className="h-8 w-8 text-primary" />
-            <h1 className="text-2xl font-bold">Politické plakáty</h1>
+            <h1 className="text-2xl font-bold">KYDY.cz - Politické Plakáty</h1>
           </div>
           <div className="flex items-center gap-4">
             <Button variant="outline" asChild>
@@ -221,7 +222,7 @@ export default async function DashboardPage() {
                 </div>
               ) : (
                 <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-                  {userPosters.map((poster) => (
+                  {userPosters.map((poster: any) => (
                     <Card key={poster.id} className="group hover:shadow-md transition-shadow">
                       <CardContent className="p-4">
                         <div className="aspect-video relative mb-3 overflow-hidden rounded-lg bg-muted">
@@ -231,6 +232,22 @@ export default async function DashboardPage() {
                             fill
                             className="object-cover group-hover:scale-105 transition-transform duration-300"
                           />
+                          {/* Fullscreen button */}
+                          <div className="absolute top-2 right-2 opacity-0 group-hover:opacity-100 transition-opacity duration-200">
+                            <FullscreenPosterModal
+                              imageUrl={poster.image_url}
+                              title={poster.title}
+                            >
+                              <Button 
+                                variant="secondary" 
+                                size="sm"
+                                className="bg-black/50 hover:bg-black/70 text-white border-none p-2 h-auto"
+                              >
+                                <Maximize2 className="h-4 w-4" />
+                                <span className="sr-only">Celá obrazovka</span>
+                              </Button>
+                            </FullscreenPosterModal>
+                          </div>
                         </div>
                         <h4 className="font-semibold line-clamp-1 mb-1">{poster.title}</h4>
                         {poster.political_parties && (
@@ -284,7 +301,7 @@ export default async function DashboardPage() {
                 </p>
               ) : (
                 <div className="space-y-4">
-                  {userComments.map((comment) => (
+                  {userComments.map((comment: any) => (
                     <div key={comment.id} className="border-l-2 border-primary/20 pl-4 py-2">
                       <div className="flex items-center justify-between mb-2">
                         <Link href={`/poster/${comment.posters?.id}`} className="font-medium text-sm hover:underline">

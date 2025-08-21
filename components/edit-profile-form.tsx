@@ -7,8 +7,10 @@ import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
-import { Camera, Save, ArrowLeft } from "lucide-react"
+import { Camera, Save, ArrowLeft, AlertCircle } from "lucide-react"
 import { useRouter } from "next/navigation"
+import { toast } from "@/hooks/use-toast"
+import { validateImageFileClient } from "@/lib/file-validation"
 
 interface Profile {
   id: string
@@ -27,11 +29,29 @@ export default function EditProfileForm({ profile }: EditProfileFormProps) {
   const [fullName, setFullName] = useState(profile.full_name || "")
   const [avatarFile, setAvatarFile] = useState<File | null>(null)
   const [avatarPreview, setAvatarPreview] = useState(profile.avatar_url || "")
+  const [validationError, setValidationError] = useState<string | null>(null)
   const [isLoading, setIsLoading] = useState(false)
 
   const handleAvatarChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const file = e.target.files?.[0]
+    setValidationError(null)
+    
     if (file) {
+      // Client-side pre-validation
+      const validationResult = validateImageFileClient(file)
+      
+      if (!validationResult.isValid) {
+        setValidationError(validationResult.error || "Neplatný soubor")
+        toast({
+          title: "Neplatný soubor",
+          description: validationResult.error,
+          variant: "destructive",
+        })
+        // Clear the input
+        e.target.value = ""
+        return
+      }
+
       setAvatarFile(file)
       const reader = new FileReader()
       reader.onload = (e) => {
@@ -52,6 +72,7 @@ export default function EditProfileForm({ profile }: EditProfileFormProps) {
       if (avatarFile) {
         const formData = new FormData()
         formData.append("file", avatarFile)
+        formData.append("type", "avatar")
 
         const uploadResponse = await fetch("/api/upload", {
           method: "POST",
@@ -59,7 +80,8 @@ export default function EditProfileForm({ profile }: EditProfileFormProps) {
         })
 
         if (!uploadResponse.ok) {
-          throw new Error("Failed to upload avatar")
+          const errorData = await uploadResponse.json()
+          throw new Error(errorData.message || errorData.error || "Nahrání avataru selhalo")
         }
 
         const uploadResult = await uploadResponse.json()
@@ -79,14 +101,23 @@ export default function EditProfileForm({ profile }: EditProfileFormProps) {
       })
 
       if (!response.ok) {
-        throw new Error("Failed to update profile")
+        throw new Error("Aktualizace profilu selhala")
       }
+
+      toast({
+        title: "Profil aktualizován",
+        description: "Váš profil byl úspěšně aktualizován",
+      })
 
       router.push("/dashboard")
       router.refresh()
     } catch (error) {
       console.error("Error updating profile:", error)
-      alert("Failed to update profile. Please try again.")
+      toast({
+        title: "Chyba při aktualizaci",
+        description: error instanceof Error ? error.message : "Aktualizace profilu selhala. Zkuste to prosím znovu.",
+        variant: "destructive"
+      })
     } finally {
       setIsLoading(false)
     }
@@ -107,9 +138,24 @@ export default function EditProfileForm({ profile }: EditProfileFormProps) {
           >
             <Camera className="w-4 h-4" />
           </label>
-          <input id="avatar-upload" type="file" accept="image/*" onChange={handleAvatarChange} className="hidden" />
+          <input 
+            id="avatar-upload" 
+            type="file" 
+            accept="image/jpeg,image/jpg,image/png,image/gif,image/webp" 
+            onChange={handleAvatarChange} 
+            className="hidden" 
+          />
         </div>
-        <p className="text-sm text-slate-600">Klikněte na ikonu fotoaparátu pro změnu profilového obrázku</p>
+        <div className="text-center">
+          <p className="text-sm text-slate-600">Klikněte na ikonu fotoaparátu pro změnu profilového obrázku</p>
+          <p className="text-xs text-slate-500">JPG, PNG, GIF, WEBP • 50 KB - 10 MB</p>
+          {validationError && (
+            <div className="flex items-center justify-center gap-1 mt-2 text-red-600">
+              <AlertCircle className="w-4 h-4" />
+              <span className="text-sm">{validationError}</span>
+            </div>
+          )}
+        </div>
       </div>
 
       {/* Full Name */}
@@ -145,7 +191,11 @@ export default function EditProfileForm({ profile }: EditProfileFormProps) {
           <ArrowLeft className="w-4 h-4 mr-2" />
           Zrušit
         </Button>
-        <Button type="submit" disabled={isLoading} className="flex-1 bg-blue-600 hover:bg-blue-700">
+        <Button 
+          type="submit" 
+          disabled={isLoading || !!validationError} 
+          className="flex-1 bg-blue-600 hover:bg-blue-700"
+        >
           <Save className="w-4 h-4 mr-2" />
           {isLoading ? "Ukládám..." : "Uložit změny"}
         </Button>
