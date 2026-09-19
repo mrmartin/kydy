@@ -8,7 +8,7 @@ Připravený statický web je v `site/`. Jeho velikost je přibližně 561 MiB. 
 
 1. Cílový repozitář je veřejný `mrmartin/kydy`; GitHub Pages lze použít i na GitHub Free.
 2. V místním terminálu provést `gh auth login --hostname github.com --web --git-protocol https`. Je-li již přihlášen jiný účet, vybrat správný. Token se neposílá do konverzace. Pro nasazení je potřeba přístup k vytvoření nebo správě repozitáře a jeho nastavení Pages.
-3. Mít přístup k DNS kydy.cz. Kontrola 19. 9. 2026 zjistila autoritativní servery `ns1.ename.net` a `ns2.ename.net`; apex i www nyní odkazují na `cs.ename.net`.
+3. Mít přístup k DNS kydy.cz. Kontrola 19. 9. 2026 zjistila DNS u WEDOS / VEDOS (`ns.wedos.cz`, `.com`, `.eu`, `.net`); kydy.cz i www.kydy.cz mají zatím A záznam `89.221.222.140`.
 
 ## Postup nasazení po přihlášení
 
@@ -28,7 +28,7 @@ Záměr: veřejný repozitář pod potvrzeným vlastníkem. Repozitář se znovu
 | A | @ | 185.199.111.153 |
 | CNAME | www | mrmartin.github.io |
 
-`VLASTNIK` je GitHub uživatel nebo organizace, nikoliv název repozitáře. TTL může zůstat výchozí. Nahradit současné parkovací CNAME pro `@` a `www`; ponechat záznamy pro e-mail a jiné služby. Případné původní AAAA pro tyto názvy musí odpovídat novému hostingu; při dnešní kontrole nebyly nalezeny samostatné adresy AAAA. IPv6 není pro tento postup vyžadováno.
+`VLASTNIK` je GitHub uživatel nebo organizace, nikoliv název repozitáře. Ve WEDOS / VEDOS ponechte pro hlavní doménu pole Název prázdné (místo @); po úpravách stiskněte Aplikovat změny. TTL může zůstat výchozí. Nahradit současné A záznamy `89.221.222.140` pro hlavní doménu a `www`; ponechat záznamy pro e-mail a jiné služby. Případné původní AAAA pro tyto názvy musí odpovídat novému hostingu; při dnešní kontrole nebyly nalezeny samostatné adresy AAAA. IPv6 není pro tento postup vyžadováno.
 
 Doporučené ověření vlastnictví: v **nastavení účtu/organizace → Pages → Add a domain** přidat kydy.cz, vytvořit přesný TXT záznam vygenerovaný GitHubem a stisknout Verify. Hodnotu nelze připravit předem bez cílového účtu. TXT ponechat i po ověření.
 
