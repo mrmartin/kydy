@@ -1,0 +1,532 @@
+Rada města Brna
+
+Z9/18. zasedání Zastupitelstva města Brna
+konané dne 18.6.2024
+
+
+
+  60. Brněnské vodárny a kanalizace, a.s. - smlouva o součinnosti -
+   jednání o nové provozní smlouvě a zachování rozsahu činností
+
+Anotace
+Jelikož statutární město Brno (SMB) dosud neučinilo rozhodnutí ohledně konkrétního způsobu
+provozování vodohospodářské infrastruktury pro veřejnou potřebu v jeho vlastnictví od roku 2026, tj. po
+uplynutí doby trvání stávající provozní smlouvy, může na straně společnosti Brněnské vodárny a
+kanalizace, a.s. (BVK) vznikat nejistota, zda má BVK vykonávat přípravu k činnostem nebo pokračovat v
+činnostech, které se mají realizovat nebo mít ekonomický dopad v roce 2026 nebo později. Současně
+však SMB předpokládá uzavření nové provozní smlouvy s BVK alespoň na přechodné období. Vzhledem k
+uvedenému bylo mezi SMB a BVK jednáno o uzavření Smlouvy o součinnosti v rámci provozování
+vodohospodářské infrastruktury, kterou se strany zaváží provozní smlouvu na přechodné období
+vyjednat a uzavřít a kterou se BVK zaváže, že po stanovenou dobu nebude žádným způsobem omezovat
+provozování vodohospodářské infrastruktury v majetku SMB, ani inženýrské činnosti ve vztahu k této
+infrastruktuře i pro období po 31. 12. 2025. Tato smlouva se předkládá Zastupitelstvu města Brna ke
+schválení.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   uzavření smlouvy o součinnosti mezi Statutárním městem Brnem a společností
+                               Brněnské vodárny a kanalizace, a.s.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Mgr. René Černý
+  1. náměstek primátorky města Brna - Člen Rady města
+  Brna - předkladatel/ka
+  11.6.2024 v 09:57
+  Garance správnosti, zákonnosti materiálu
+
+
+
+
+Sestava vytvořena 11.6.2024 v 09:57                         1/1                           Vygenerováno programem eMMB
+
+
+                                                                                                          Strana 1 / 11
+                                 Obsah materiálu
+Návrh usnesení                                                            1-1
+Obsah materiálu                                                           2-2
+Příloha (SMLOUVA O SOUČINNOSTI V RÁMCI PROVOZOVÁNÍ                        3-8
+VODOHOSPODÁŘSKÉ INFRASTRUKTURY.pdf)
+Příloha (BDO Valuation_Stanovisko_smlouva o součinnosti 11062024.pdf)     9-9
+Doplněk                                                                 10 - 11
+
+
+
+
+                                                                            Strana 2 / 11
+                                                    Číslo smlouvy společnosti BVK: [ ……. ]
+                                                                Číslo smlouvy SMB: [ ……. ]
+
+
+
+     SMLOUVA O SOUČINNOSTI V RÁMCI
+    PROVOZOVÁNÍ VODOHOSPODÁŘSKÉ
+           INFRASTRUKTURY
+
+SMLUVNÍ STRANY:
+
+Obchodní jméno:        Statutární město Brno
+se sídlem:             Dominikánské náměstí 196/1, Brno-město, 602 00 Brno
+IČO:                   449 92 785
+DIČ:                   CZ44992785
+zastoupeno:            JUDr. Markétou Vaňkovou, primátorkou
+                       k podpisu smlouvy je za statutární město Brno na základě usnesení
+                       Rady města Brna ze dne …, č. …, bod …. pověřen Ing. Tomáš Pivec,
+                       MBA, vedoucí Odboru investičního Magistrátu města Brna
+
+
+(dále jen „SMB“)
+
+
+a
+
+
+Obchodní jméno:        Brněnské vodárny a kanalizace, a.s.
+se sídlem:             Pisárecká 555/1a, Pisárky, 603 00 Brno
+IČO:                   463 47 275
+DIČ:                   CZ46347275
+zápis v OR:            zapsaná v obchodním rejstříku vedeném Krajským soudem v Brně,
+                       pod sp. zn. B 783
+zastoupená:            Ing. Danielem Stružem, MBA, předsedou představenstva
+
+
+(dále jen „BVK“)
+
+
+(SMB a BVK společně „Strany“ a každá z nich samostatně „Strana“)
+
+
+
+dnešního dne uzavřely tuto smlouvu o součinnosti v rámci provozování vodohospodářské
+infrastruktury v souladu s ustanovením § 1746 odst. 2 zákona č. 89/2012 Sb., občanský
+zákoník, ve znění pozdějších předpisů (dále jen „Občanský zákoník“)
+
+(dále jen „Smlouva“)
+
+
+
+
+                                                                                       Strana 3 / 11
+VZHLEDEM K TOMU, ŽE:
+
+(A)   V současné době zajišťuje společnost BVK provoz vodohospodářské infrastruktury
+      v majetku SMB (dále jen „VH Infrastruktura“), a to na základě Nájemní a provozní
+      smlouvy ze dne 9. srpna 1999, ve znění pozdějších dodatků (ve vztahu k vodovodům),
+      a Smlouvy o provozování kanalizace pro veřejnou potřebu pro statutární město Brno
+      ze dne 24. března 2015, ve znění pozdějších dodatků (ve vztahu ke stokové síti),
+      uzavřené mezi společností BVK jako provozovatelem VH Infrastruktury a SMB jako
+      vlastníkem VH Infrastruktury (dále jen společně „Provozní smlouvy“), které skončí
+      dne 31. prosince 2025.
+(B)   SMB dosud neučinilo konečné rozhodnutí ohledně konkrétního způsobu provozování
+      VH Infrastruktury pro veřejnou potřebu v jeho vlastnictví od roku 2026, tj. po uplynutí
+      doby trvání Provozních smluv. V této souvislosti přitom SMB avizovalo zahájení
+      jednání o odkupu akcií společnosti BVK od společnosti SUEZ International S.A.S.
+(C)   Z důvodu, že SMB o způsobu provozování VH Infrastruktury od roku 2026 dosud
+      nerozhodlo, se společnost BVK nachází v nejistotě ohledně konkrétního způsobu
+      výkonu své podnikatelské činnosti v následujících letech. Tato skutečnost přitom
+      činnost společnosti BVK ovlivňuje již nyní, a to nejen v rozsahu provozování
+      VH Infrastruktury ve vlastnictví SMB, ale také ve vztahu k zajišťování inženýrské
+      činnosti spočívající v přípravě a realizaci jednotlivých akcí oprav, rekonstrukcí
+      a rozvoje provozované VH Infrastruktury a nákupu zařízení nezbytných pro zajištění
+      funkce VH Infrastruktury podle smluv uzavřených se SMB (dále jen „Inženýrská
+      činnost“) a dalším smluvním vztahům společnosti BVK s přesahem do roku 2026
+      a později.
+
+(D)   Strany mají zájem mezi sebou smluvně upravit svá práva a povinnosti týkající
+      se součinnosti v rámci provozování VH Infrastruktury od roku 2026, a to tak, aby bylo
+      zajištěno (i) provozování VH Infrastruktury vč. realizace nutných oprav dle Plánu
+      obnovujících oprav schválených dle Provozních smluv ze strany SMB a (ii) realizace
+      Inženýrské činnosti na základě smluv uzavřených se SMB.
+(E)   Účelem uzavření Smlouvy je zejm. poskytnout společnosti BVK po určitou dobu
+      dostatečnou jistotu, že v nadcházejícím období dojde k uzavření nové provozní
+      smlouvy k zajištění provozu VH Infrastruktury od roku 2026 ze strany společnosti BVK
+      (dále jen „Nová provozní smlouva“).
+
+
+SE STRANY DOHODLY NA NÁSLEDUJÍCÍM:
+
+1.     ÚČEL SMLOUVY
+1.1    Strany uzavírají Smlouvu za účelem úpravy svých práv a povinností v souvislosti
+       s provozováním VH Infrastruktury od roku 2026, výkonem Inženýrské činnosti
+       a dalšími smluvními vztahy společnosti BVK s přesahem do roku 2026 a později tak,
+       aby se minimalizovala nejistota společnosti BVK ohledně konkrétního způsobu
+       výkonu její podnikatelské činnosti od roku 2026 a možné negativní dopady skončení
+       Provozních smluv na aktivity společnosti BVK vztahující se zejm. k (i) provozování
+       VH Infrastruktury s přesahem do roku 2026 a později a (ii) výkonu Inženýrské
+       činnosti společností BVK (např. vznik nákladů spojených s přípravou na ukončení
+
+
+
+                                                                                        2 | 6
+
+
+
+                                                                                          Strana 4 / 11
+      stávajících smluvních vztahů z důvodu hrozícího nepokračování v zajišťování
+      provozování VH Infrastruktury).
+
+
+2.    PROVOZOVÁNÍ VH INFRASTRUKTURY OD ROKU 2026
+2.1   S ohledem na blížící se uplynutí doby platnosti a účinnosti Provozních smluv
+      a za účelem popsaným v čl. 1. Smlouvy se Strany dohodly na následujícím:
+
+       a)     Strany se zavazují bezodkladně po uzavření této Smlouvy, nejpozději však
+              do 15. července 2024, zahájit jednání o obsahu Nové provozní smlouvy
+              a poskytnout si za tímto účelem veškerou součinnost, kterou lze spravedlivě
+              požadovat, jakož i ve vzájemné spolupráci vyvinout maximální úsilí
+              k dosažení dohody o Nové provozní smlouvě,
+       b)     Strany se zavazují uzavřít Novou provozní smlouvu nejpozději do
+              30. listopadu 2024 a BVK se zavazuje ji poté bezodkladně uveřejnit
+              v registru smluv podle zákona č. 340/2015 Sb., o zvláštních podmínkách
+              účinnosti některých smluv, uveřejňování těchto smluv a o registru smluv
+              (zákon o registru smluv), ve znění pozdějších předpisů (dále jen „Zákon
+              o registru smluv“) tak, aby Nová provozní smlouva nabyla účinnosti od
+              1. ledna 2026.
+
+       c)     Nová provozní smlouva bude mezi Stranami uzavřena nejméně na dobu
+              určitou do 31. prosince 2028.
+       d)     Nová provozní smlouva bude obsahovat mechanismus zajišťující její
+              automatickou prolongaci, k níž může dojít pouze jednou. Součástí tohoto
+              mechanismu bude ujednání, které stanoví, že nedoručí-li SMB společnosti
+              BVK nejpozději osmnáct (18) měsíců před uplynutím sjednané doby trvání
+              Nové provozní smlouvy (podle čl. 2.1 písm. c) Smlouvy) rozhodnutí SMB
+              o tom, že SMB nemá zájem na dalším trvání Nové provozní smlouvy, dochází
+              k automatické prolongaci doby trvání Nové provozní smlouvy, a to o dva
+              (2) kalendářní roky. Nová provozní smlouva v takovém případě skončí dne
+              31. prosince 2030, neprojeví-li SMB v souladu s čl. 2.2 této Smlouvy zájem
+              o uzavření další provozní smlouvy na následující období či dodatku k Nové
+              provozní smlouvě.
+2.2   Strany se dále dohodly, že Nová provozní smlouva bude obsahovat tzv. exit plán
+      pro případ, kdy nejpozději osmnáct (18) měsíců před uplynutím trvání Nové
+      provozní smlouvy podle buď (i) sjednané doby dle čl. 2.1 písm. c) Smlouvy SMB
+      doručí společnosti BVK rozhodnutí o tom, že SMB nemá zájem na dalším trvání Nové
+      provozní smlouvy, nebo (ii) automaticky prolongované doby podle čl. 2.1 písm. d)
+      Smlouvy SMB nedoručí společnosti BVK rozhodnutí o tom, že SMB má zájem
+      o uzavření další provozní smlouvy na následující období (či případně dodatku k Nové
+      provozní smlouvě). SMB se zavazuje, že po uplynutí lhůty podle věty první tohoto
+      článku na základě předchozí písemné žádosti společnosti BVK do deseti
+      (10) pracovních dnů od doručení této žádosti vystaví písemné potvrzení, kde potvrdí,
+      že:
+
+      2.2.1    dle SMB došlo k automatické prolongaci doby trvání Nové provozní smlouvy
+               podle čl. 2.1 písm. d) Smlouvy, nebo
+
+
+
+                                                                                     3 | 6
+
+
+
+                                                                                       Strana 5 / 11
+      2.2.2   SMB má zájem o uzavření další provozní smlouvy na následující období (či
+              případně dodatku k Nové provozní smlouvě).
+
+2.3   Exit plán dle čl. 2.2 Smlouvy bude zahrnovat mj. závazek Stran ke společnému
+      jednání o řešení důsledků ukončení provozování VH Infrastruktury společností BVK,
+      vhodných opatřeních směřujících k ukončení stávajících smluvních vztahů
+      vztahujících se k provozování VH Infrastruktury, jakož i dalších smluvních vztahů
+      s provozováním VH Infrastruktury souvisejících, možnosti převzetí plnění závazků
+      vyplývajících z těchto smluvních vztahů na základě postoupení smluv uzavřených
+      společností BVK na SMB, člena koncernu SMB nebo na třetí subjekt a vzájemného
+      vypořádání smluvních stran apod.
+2.4   Povinnost Strany vyvinout „maximální úsilí“ ke splnění svých závazků vyplývajících
+      ze Smlouvy znamená, že se od této Strany vyžaduje, aby podnikla veškeré kroky
+      v její moci, pomocí kterých lze dosáhnout zamýšleného výsledku, přičemž těmito se
+      rozumí takové kroky, které by podnikl každý územní samosprávný celek (pokud jde
+      o SMB) za účelem ochrany veřejného zájmu a v rámci péče o všestranný rozvoj jejího
+      území a potřeby jejích občanů či které by v dané situaci podnikl každý obezřetný,
+      poctivý, odhodlaný a rozumný podnikatel (pokud jde o společnost BVK), jednající
+      v rámci svých vlastních zájmů a usilující o dosažení zamýšleného výsledku.
+
+
+3.    VÝKON PODNIKATELSKÉ ČINNOSTI SPOLEČNOSTI BVK
+3.1   Za účelem vyloučení rizika ohrožení zajišťování Inženýrské činnosti a realizace
+      nutných investic do VH Infrastruktury se Strany dohodly, že nejméně do
+      30. listopadu 2024 bude společnost BVK provozovat podnikatelskou činnost
+      směřující k zajištění provozování VH Infrastruktury a Inženýrské činnosti ve
+      vztahu k VH Infrastruktuře ve standardním rozsahu i pro období po
+      31. prosinci 2025, tj. zajišťovat Inženýrskou činnost ve vztahu k VH Infrastruktuře
+      na základě smluv uzavřených se SMB a pokračovat v přípravě a realizaci investic do
+      VH Infrastruktury. V případě uzavření Nové provozní smlouvy se společnost BVK
+      zavazuje provozovat tuto svou podnikatelskou činnost ve standardním rozsahu až do
+      účinnosti Nové provozní smlouvy.
+
+3.2   Nedojde-li k uzavření Nové provozní smlouvy v termínu dle čl. 2.1 písm. b) Smlouvy,
+      SMB bere na vědomí, že společnost BVK je oprávněna činit veškerá nezbytná
+      opatření směřující k ukončení stávajících smluvních vztahů vztahujících se
+      k provozování VH Infrastruktury, jakož i dalších smluvních vztahů s provozováním
+      VH Infrastruktury souvisejících, a to s termínem ukončení těchto smluvních vztahů
+      nejpozději do 31. prosince 2025. SMB se pro tento případ zavazuje bezodkladně po
+      marném uplynutí lhůty dle čl. 2.1 písm. b) Smlouvy (tj. 30. listopadu 2024) zahájit
+      jednání se společností BVK o možném převzetí smluvních vztahů vztahujících se
+      k provozování VH Infrastruktury na základě postoupení smluv uzavřených
+      společností BVK na SMB, člena koncernu SMB nebo na třetí subjekt, jakož
+      i k provozování vodohospodářské infrastruktury zajišťované společností BVK
+      pro další subjekty a dalších smluvních vztahů s takovým provozováním
+      souvisejících.
+3.3   SMB bere na vědomí, že v případě příležitosti na straně společnosti BVK uzavřít
+      novou smlouvu s celkovou hodnotou plnění převyšující 11.000.000 Kč bez DPH
+
+
+
+                                                                                    4 | 6
+
+
+
+                                                                                      Strana 6 / 11
+      v rámci předmětu podnikání společnosti BVK spočívající v poskytování služeb
+      zajišťování provozu vodohospodářské infrastruktury pro třetí subjekty nebo ve
+      službách obdobných Inženýrské činnosti nebo za účelem jejich poskytování, které by
+      byly uzavírány na období delší než do konce roku 2025, případně jiné smlouvy, které
+      by se ve společnosti BVK ekonomicky promítaly v období přesahujícím konec roku
+      2025 (např. skrze odpisy nemovitého majetku), může společnost BVK iniciovat
+      vydání předchozího pokynu k obchodnímu vedení, to vše vyjma Nové provozní
+      smlouvy.
+
+3.4   Strany dále berou na vědomí, že uzavřením Smlouvy není vyloučen nárok Stran na
+      náhradu škody na základě příslušných ustanovení Občanského zákoníku v případě
+      porušení Smlouvy z jejich strany, tedy zejména (nikoliv však výlučně) v případě
+      neuzavření Nové provozní smlouvy nebo v případě, kdy Nová provozní smlouva
+      nenabyde účinnosti v termínu dle čl. 2.1 písm. b) Smlouvy. Za náhradu takové škody
+      odpovídá dle § 2913 odst. 1 Občanského zákoníku ta Strana, která Smlouvu porušila.
+
+
+4.    ZÁVĚREČNÁ USTANOVENÍ
+4.1   Smlouva se uzavírá na dobu určitou, a to do okamžiku účinnosti Nové provozní
+      smlouvy.
+
+4.2   Žádná ze Stran není oprávněna postoupit jakákoli práva vyplývající ze Smlouvy
+      bez předchozího písemného souhlasu druhé Strany.
+4.3   Smlouva představuje a obsahuje úplné ujednání Stran ohledně předmětu
+      v ní popsaném a o všech záležitostech, které Strany chtěly ve vztahu k předmětu
+      Smlouvy smluvně ujednat, a které považují za důležité pro platnost a závaznost
+      Smlouvy. Předchozí praxe zavedená mezi Stranami, zvyklosti, ať již obecné či
+      zvláštní, žádný projev Stran učiněný při jednání o Smlouvě ani projev učiněný po
+      jejím uzavření nesmí být vykládán v rozporu s výslovnými ustanoveními Smlouvy
+      a nezakládá žádný závazek žádné ze Stran.
+
+4.4   Pokud se kterékoli ustanovení Smlouvy ukáže být po jejím uzavření neplatným,
+      neúčinným nebo nevykonatelným, pak tato skutečnost nebude mít za následek
+      neplatnost, neúčinnost nebo nevykonatelnost ostatních ustanovení Smlouvy. Strany
+      se zavazují bez zbytečného odkladu na žádost druhé Strany nahradit takovéto
+      neplatné,   neúčinné    nebo   nevykonatelné    ustanovení   platným,   účinným
+      a vykonatelným ustanovením, jehož obsah bude co nejblíže odpovídat účelu
+      neplatného, neúčinného nebo nevykonatelného ustanovení.
+4.5   Smlouvu je možné měnit pouze písemnou dohodou Stran ve formě postupně
+      číslovaných dodatků Smlouvy, podepsaných za každou Stranu osobou nebo osobami
+      oprávněnými jednat jménem dané Strany.
+4.6   Veškerá práva a povinnosti vyplývající ze Smlouvy přecházejí, pokud to povaha
+      těchto práv a povinností nevylučuje, na právní nástupce Stran.
+
+4.7   Veškeré náklady související se Smlouvou nese každá ze Stran sama.
+4.8   Smlouva nabývá platnosti dnem jejího podpisu oběma Stranami a účinnosti
+      uveřejněním v registru smluv podle Zákona o registru smluv. Strany se dohodly,
+      že uveřejnění Smlouvy v registru smluv zajistí společnost BVK. Strany prohlašují, že
+
+
+
+                                                                                     5 | 6
+
+
+
+                                                                                       Strana 7 / 11
+        Smlouva neobsahuje žádné obchodní tajemství, které by bylo nezbytné z uveřejnění
+        prostřednictvím registru smluv vyloučit.
+
+4.9     Strany se dohodly, že pro uzavření Smlouvy vzájemně akceptují pouze vlastnoruční
+        podpis nebo platný uznávaný elektronický podpis podle zákona č. 297/2016 Sb.,
+        o službách vytvářejících důvěru pro elektronické transakce, ve znění pozdějších
+        předpisů (tj. platný zaručený elektronický podpis založený na kvalifikovaném
+        certifikátu pro elektronický podpis nebo platný kvalifikovaný elektronický podpis),
+        přičemž bez takových podpisů Smlouva nenabývá platnosti. Každá Strana obdrží
+        verzi Smlouvy ve formátu PDF s platnými uznávanými elektronickými podpisy obou
+        Stran, nebo bude Smlouva vyhotovena ve dvou (2) listinných stejnopisech
+        s vlastnoručními podpisy Stran, z nichž každá ze Stran obdrží jedno (1) vyhotovení.
+
+
+                                             Doložka
+          dle § 41 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších
+                                             předpisů:
+        Tato Smlouva byla schválena Zastupitelstvem města Brna na zasedání č. Z__/__
+        konaném dne __. __. 2024, bod č. __.
+
+
+Strany prohlašují, že si Smlouvu přečetly, že s jejím obsahem souhlasí a na důkaz toho k ní
+připojují své podpisy.
+
+
+
+
+V Brně dne __. __. 2024                        V Brně dne __. __. 2024
+
+
+
+
+Statutární město Brno                          Brněnské vodárny a kanalizace, a.s.
+Ing. Tomáš Pivec, MBA                          Ing. Daniel Struž, MBA
+vedoucí Odboru investičního Magistrátu         předseda představenstva
+města Brna
+
+
+
+
+                                                                                      6 | 6
+
+
+
+                                                                                        Strana 8 / 11
+St at ut ární m ěst o Brno
+Dominikánské nám ěst í 196/ 1, Brno-m ěst o, 602 00 Brno
+IČO:       449 92 785
+(dále t aké j en SMB)
+
+
+V Praze dne 11.6. 2024
+
+
+Věc: Posouzení vlivu uzavření Smlouvy o součinnost i v rámci provozování vodohospodářské
+inf rast rukt ury na odhad hodnot y akcií emit ovaných společnost í Brněnské vodárny a kanalizace, a. s.
+se sídlem Pisárecká 555/ 1a, Pisárky, 603 00 Brno, IČ: 463 47 275 (dále t aké BVK)
+
+
+Uzavření "Smlouvy o sou činnost i v rámci provozování vodohospodářské inf rast rukt ury" a navazuj ící
+uzavření nové Smlouvy na provozování vodohospodářské Inf rast rukt ury St at ut árního m ěst a Brno za
+podmínek přim ěřeně odpovídaj ících akt uální Koncesní smlouvě na kanalizace a Náj emní a provozní
+smlouvě na vodovody nebude mít vliv na hodnot u akcií BVK vlast n ěných spole čnost í SUEZ. Tj .
+uzavřením t ěcht o smluv se hodnot a akcií BVK vlast n ěných společnost í SUEZ pro účely j ej ich odkupu,
+kt erý bude navazovat na uplynut í doby t rvání nové Smlouvy na provozování vodohospodářské
+Inf rast rukt ury SMB, nezvýší.
+
+Předpokládáme, že ocenění akcií emit ovaných společnost í BVK bude provedeno na základě výnosového
+způsobu ocenění. Výnosový způsob ocenění j e založen na diskont ování budoucích peněžních t oků,
+kt eré se předpokládá, že společnost vygeneruj e od dat a ocenění do budoucnost i. Tedy j akákoliv
+provozní smlouva ovlivňuj ící výši vyt vářených peněžních t ok ů uzavřená nyní s účinnost í do dat a
+ocenění akcií nemá vliv na j ej ich hodnot u.
+
+Pro účel ocenění akcií společnost i budou důležit é smlouvy, kt eré ovlivní výši vyt vářených peněžních
+t oků společnost i od dat a ocenění do budoucnost i.
+
+
+V případě dot azů mě, prosím, neváhej t e kont akt ovat .
+
+Štěpánka          Podepsal Štěpánka Kopecká
+                  DN: cn=Štěpánka Kopecká, c=CZ,
+                  o=BDO Valuation s.r.o., ou=2,
+
+
+ Kopecká
+                  email=stepanka.kopecka@bdo.cz
+                  Datum: 2024.06.11 08:47:31
+
+………………………………………………+02'00'
+
+
+Ing. Št ěpánka Kopecká
+
+
+BDO Valuat ion s. r. o.
+Znalecká kancelář
+
+Nádražní 344/ 23, Smíchov, 150 00 Praha 5
+IČ: 194 10 786
+
+
+
+
+                                                                                                      Strana 9 / 11
+                                  Důvodová zpráva
+
+Statutární město Brno („SMB“) je vlastníkem majoritní části vodohospodářské infrastruktury
+nacházející se na území SMB, sestávající se ze systému vodovodů a kanalizací („VH
+Infrastruktura“), přičemž VH Infrastrukturu provozuje společnost Brněnské vodárny a
+kanalizace, a.s. („BVK“), jejímiž akcionáři jsou mimo jiné SMB a společnost SUEZ
+International S.A.S. („SUEZ“). Stávající smlouvy na provoz VH Infrastruktury („Provozní
+smlouvy“) byly uzavřeny na dobu určitou, a to do dne 31. 12. 2025.
+SMB má zájem zajistit co nejefektivnější správu a provoz VH Infrastruktury i po tomto datu,
+přičemž ohledně konkrétního způsobu dlouhodobého provozování dosud neučinilo
+rozhodnutí. Z toho důvodu může na straně společnosti Brněnské vodárny a kanalizace, a.s.
+(BVK) vznikat nejistota, zda má BVK vykonávat přípravu k činnostem nebo pokračovat v
+činnostech, které se mají realizovat nebo mít ekonomický dopad v roce 2026 nebo později.
+Současně však SMB předpokládá uzavření nové provozní smlouvy s BVK alespoň na
+přechodné období.
+Vzhledem ke shora uvedeným skutečnostem bylo mezi BVK a SMB zahájeno jednání o
+Smlouvě o součinnosti v rámci provozování VHI (dále jen „Smlouva o součinnosti“)
+obsahující mj. závazek smluvních stran uzavřít novou provozní smlouvu na přechodné období
+(dále jen „Nová provozní smlouva“)
+
+Předmětem Smlouvy o součinnosti je závazek společnosti BVK po ujednanou dobu
+pokračovat standardním způsobem v podnikatelské činnosti směřující k zajištění provozování
+VH Infrastruktury a inženýrské činnosti ve vztahu k VH Infrastruktuře ve standardním rozsahu
+i pro období po 31. 12. 2025.
+Tento postup je přitom dle informací poskytnutých BVK udržitelný pouze po určitou dobu, a to
+s ohledem na potřebu společnosti BVK rozhodnout o dalším pokračování, resp. ukončení
+smluvních vztahů uzavíraných na základě potřeb podnikatelské činnosti společnosti BVK ve
+stávajícím rozsahu. BVK v tomto směru odkazuje zejména na smlouvu uzavřenou se
+sdružením měst, obcí a svazku obcí Vírský oblastní vodovod (dále jen „VOV“). Pokud by dle
+informací poskytnutých BVK nedošlo k uzavření Nové provozní smlouvy, smlouvu s VOV by
+musela vypovědět, neboť výpovědní doba v případě této smlouvy činí dvanáct (12) měsíců.
+Vzhledem k této skutečnosti je dle informací poskytnutých BVK nutné, aby k uzavření Nové
+provozní smlouvy došlo do konce listopadu 2024. Důvodem je dle informací poskytnutých
+BVK skutečnost, že v případě neuzavření Nové provozní smlouvy je třeba projednat výpověď
+smlouvy s VOV na úrovni představenstva společnosti BVK a následně tuto doručit VOV.
+
+Současně již nyní může mít výše popsaná nejistota dílčí dopady zejména na inženýrskou
+činnost prováděnou BVK, proto se nyní předkládá návrh na uzavření Smlouvy o součinnosti
+se závazkem SMB uzavřít novou provozní smlouvu na přechodné období do 30. listopadu
+2024.
+Pokud jde o dobu trvání Nové provozní smlouvy, je navrhováno její sjednání na tři (3) roky,
+neboť právě tuto dobu lze považovat za minimální nutnou pro případnou řádnou přípravu
+varianty zelená louka bez součinnosti společnosti BVK dle Situační zprávy k Projektu zajištění
+správy a provozu vodohospodářské infrastruktury na území statutárního města Brna po roce
+2025 – varianta in house na zelené louce, která byla předložena Zastupitelstvu města Brna
+na jeho 16. zasedání konaném dne 9.4.2024. Uplynutí takto sjednané doby trvání Nové
+provozní smlouvy by nadto odpovídalo termínu předpokládaného dokončení realizace
+projektu společnosti BVK „Kalové hospodářství ČOV Brno – Modřice“.
+
+
+
+
+                                                                                           Strana 10 / 11
+S ohledem na zajištění přiměřené jistoty pro BVK ohledně další činnosti této společnosti
+předpokládá smlouva o součinnosti taktéž mechanismus automatické prolongace Nové
+provozní smlouvy, kterým v případě nedoručení rozhodnutí SMB o nepokračování smlouvy ve
+stanovené lhůtě dojde k prodloužení platnosti a účinnosti Nové provozní smlouvy o 2 roky.
+Smlouva o součinnosti zároveň nevylučuje, že mezi SMB a BVK může dojít k dohodě o dalším
+prodloužení Nové provozní smlouvy či k uzavření provozní smlouvy i na delší období např.
+v případě dosažení dohody o odkupu akcií společnosti SUEZ.
+
+Předpokládá se přitom, že uzavření Nové provozní smlouvy na tuto dobu, včetně případné
+prolongace, nebude mít z hlediska SMB negativní dopad na hodnotu akcií, resp. podílu SUEZ,
+a nedojde tak k ovlivnění probíhajících jednání o odkupu akcií vlastněných společností SUEZ
+ze strany SMB, neboť předmětem jednání mezi SUEZ a SMB je aktuálně převod akcií až po
+uplynutí doby trvání Nové provozní smlouvy. Tento předpoklad byl pro účely předložení
+smlouvy prověřen prostřednictvím společnosti BDO Valuation s.r.o., která z ekonomického
+hlediska posoudila případný vliv uzavření Smlouvy o součinnosti zavazující SMB k uzavření
+Nové provozní smlouvy na hodnotu akcií vlastněných společností SUEZ.
+V návaznosti na výše uvedené se navrhuje Zastupitelstvu města Brna schválit uzavření
+smlouvy o součinnosti mezi společností BVK a SMB.
+Rada města Brna na své schůzi č. R9/083 konané dne 15. 5.2 024 doporučila Zastupitelstvu
+města Brna schválit uzavření smlouvy o součinnosti mezi společností BVK a SMB.
+
+Schváleno jednomyslně 10 členy.
+
+
+ JUDr.     Mgr.    RNDr.     JUDr.    Ing.         Bc.     Ing.      Bořecký   Ing.         JUDr.        JUDr.
+ Vaňková   Černý   Chvátal   Kerndl   Podivinská   Aberl   arch.               Kratochvíl   Matonohová   Oliva
+                   Ph.D.                                   Bořecký
+ pro        pro      pro      -----      pro        pro    pro         pro        pro        pro          pro
+
+
+
+
+                                                      2
+
+                                                                                                            Strana 11 / 11
+

@@ -1,0 +1,1838 @@
+                                                                                                          P
+Rada města Brna
+
+Z9/07. zasedání Zastupitelstva města Brna
+konané dne 16.5.2023
+
+
+
+   Informativní zpráva – výdaje městských částí statutárního města
+                           Brna v roce 2022
+
+Anotace
+Výdaje městských částí statutárního města Brna v roce 2022; graf (běžné výdaje na výkon státní správy a
+samosprávy v přepočtu na 1 obyvatele)
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. bez usnesení
+
+
+Stanoviska
+
+Informativní zpráva byla předložena Radě města Brna č. R9/030 dne 3. 5. 2023.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Jana Červencová
+  vedoucí odboru - Odbor rozpočtu a financování
+  9.5.2023 v 09:07
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  JUDr. Rostislav Obrlík
+  vedoucí úseku - Úsek tajemníka
+  5.5.2023 v 13:03
+
+
+
+
+Sestava vytvořena 9.5.2023 v 09:07                1/1                             Vygenerováno programem eMMB
+
+
+                                                                                                  Strana 1 / 34
+                                Obsah materiálu
+Návrh usnesení                                     1-1
+Obsah materiálu                                    2-2
+Příloha (INFO_vydaje_MC_2022.pdf)                 3 - 34
+
+
+
+
+                                                     Strana 2 / 34
+            Magistrát města Brna
+
+          Odbor rozpočtu a financování
+
+
+
+
+            INFORMATIVNÍ ZPRÁVA
+
+
+
+Výdaje městských částí statutárního města Brna
+                v roce 2022
+
+
+
+
+                                             Strana 3 / 34
+                Sumarizace výdajů městských částí statutárního města Brna
+                                                                                                                                                     v tis. Kč
+
+
+
+                                                                                                                 Schválený   Upravený
+                                                                              Rok         Rok          %                              Skutečnost         %
+ Skupina, v tom oddíl                                                                                             rozpočet   rozpočet
+                                                                              2020        2021        21/20                  rok 2022                Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství                             747      435        58,2           640        641         371        57,9
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství                             747      435        58,2           640        641         371        57,9
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                         246 455     270 949      109,9       347 841    424 302     305 226        71,9
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby                              1 603       2 158      134,6         5 055       4 531      3 434        75,8
+ oddíl 22 - Doprava                                                           242 574     267 534      110,3       338 069    412 076     298 767        72,5
+ oddíl 23 - Vodní hospodářství                                                  2 228       1 249       56,1         4 704       7 557      2 993        39,6
+ oddíl 24 - Spoje                                                                    50           8     16,0            13        138           32       23,2
+Skupina 3 - Služby pro obyvatelstvo                                          1 836 414 1 874 990       102,1 2 290 530       3 149 660 2 294 017         72,8
+ oddíl 31 a 32 - Vzdělávání a školské služby                                  715 886     757 849      105,9       808 698    902 654     785 010        87,0
+                   z toho kapitálové výdaje                                   225 648     291 778      129,3       315 599    319 402     230 806        72,3
+ oddíl 33 - Kultura, církve a sdělovací prostředky                             83 393     100 838      120,9       100 452    113 446     100 855        88,9
+ oddíl 34 - Sport a zájmová činnost                                            91 179      92 962      102,0       120 909    180 316     156 512        86,8
+ oddíl 35 - Zdravotnictví                                                      13 465       6 659       49,5        19 364      19 237     16 900        87,9
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                         684 098     664 388       97,1       867 673   1 332 610    737 227        55,3
+ oddíl 37 - Ochrana životního prostředí                                       247 827     251 735      101,6       372 724    600 309     496 799        82,8
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo                  566      559        98,8           710       1 088        714        65,6
+Skupina 4 - Sociální věci a politika zaměstnanosti                            272 589      89 325       32,8        22 995      87 393     89 552      102,5
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.    272 589      89 325       32,8        22 995      87 393     89 552      102,5
+Skupina 5 - Bezpečnost státu a právní ochrana                                  31 838      30 910       97,1        32 673      46 093     30 258        65,6
+ oddíl 52 - Civilní připravenost na krizové stavy                               2 388       3 357      140,6         2 322       2 403        584        24,3
+ oddíl 53 - Bezpečnost a veřejný pořádek                                        1 007            71        7,1       1 315        291         130        44,7
+ oddíl 55 - Požární ochrana a IZS                                              28 443      27 482       96,6        29 036      43 399     29 544        68,1
+Skupina 6 - Všeobecná veřejná správa a služby                                1 053 097 1 001 298        95,1 1 203 673       1 672 298 1 369 943         81,9
+ oddíl 61 - Státní správa a územní samospráva a politic. strany               896 027     871 924       97,3 1 003 995       1 139 860    981 373        86,1
+ oddíl 62 - Jiné veřejné služby a činnosti                                           84                                 65       1 412      1 342        95,0
+ oddíl 63 - Finanční operace                                                  155 091     129 100       83,2        68 584      96 492     94 937        98,4
+ oddíl 64 - Ostatní činnosti                                                    1 895        274        14,5       131 029    434 534     292 291        67,3
+
+Výdaje skupiny 1 až 6 celkem                                                 3 441 140 3 267 906        95,0 3 898 352       5 380 387 4 089 367         76,0
+
+
+Analytické údaje
+ Počet obyvatel                                                               380 681     381 346      100,2                              382 405
+ Počet žáků základních a mateřských škol                                       42 272      42 381      100,3                               42 364
+ Počet pracovníků úřadů MČ *                                                    1 535       1 288       83,9                                1 271
+ Počet obyvatel na jednoho pracovníka úřadu                                         248      296       119,4                                  301
+ Správní výdaje na jednoho obyvatele (v Kč)                                     2 354       2 286       97,1         2 625       2 981      2 566        86,1
+ Celkové výdaje školství na jednoho žáka (v Kč)                                16 935      17 882      105,6        19 089      21 307     18 530        87,0
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                               11 597      10 997       94,8        11 640      13 768     13 082        95,0
+           kapitálové výdaje školství na 1 žáka (v Kč)                    5 338       6 885    129,0        7 450                7 539      5 448        72,3
+ * od roku 2021 bez pečovatelské služby (k 1.1.2021 byli tito pracovníci převedeni na Centrum sociálních služeb, p.o.)
+
+
+
+
+                                                                              -1-
+
+
+
+                                                                                                                                         Strana 4 / 34
+                                              Výdaje městské části Brno - střed
+                                                                                                                                                  v tis. Kč
+
+
+                                                                                                                Schválený Upravený
+                                                                             Rok           Rok          %                          Skutečnost          %
+ Skupina, v tom oddíl                                                                                            rozpočet rozpočet
+                                                                             2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství                             120           81     67,5        120         120        119        99,2
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství                             120           81     67,5        120         120        119        99,2
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                          75 142       82 768      110,1     79 814     102 811    85 892         83,5
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby                                 1 559     1 970      126,4       2 875      4 051      3 281        81,0
+ oddíl 22 - Doprava                                                            73 583       80 798      109,8     76 939      98 760    82 611         83,6
+ oddíl 23 - Vodní hospodářství
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                          241 049       286 535      118,9    244 748     522 310   435 537         83,4
+ oddíl 31 a 32 - Vzdělávání a školské služby                                 106 578       116 473      109,3    107 233     157 518   130 565         82,9
+                   z toho kapitálové výdaje                                    29 609       47 095      159,1     32 800      73 740    48 856         66,3
+ oddíl 33 - Kultura, církve a sdělovací prostředky                             27 985       28 036      100,2     25 346      30 380    29 345         96,6
+ oddíl 34 - Sport a zájmová činnost                                            15 134       10 545       69,7     23 509      37 649    34 384         91,3
+ oddíl 35 - Zdravotnictví                                                            20                               50          10         10      100,0
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                          41 958       74 645      177,9     40 855      96 262    58 196         60,5
+ oddíl 37 - Ochrana životního prostředí                                        49 374       56 836      115,1     47 755     200 491   183 037         91,3
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo
+Skupina 4 - Sociální věci a politika zaměstnanosti                             47 932       24 509       51,1        826      19 027    21 406       112,5
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.     47 932       24 509       51,1        826      19 027    21 406       112,5
+Skupina 5 - Bezpečnost státu a právní ochrana                                       269          735    273,2        449         449        241        53,7
+ oddíl 52 - Civilní připravenost na krizové stavy                                    64          504    787,5        125         125          5         4,0
+ oddíl 53 - Bezpečnost a veřejný pořádek                                                           9                  40          40         10        25,0
+ oddíl 55 - Požární ochrana a IZS                                                   205          222    108,3        284         284        226        79,6
+Skupina 6 - Všeobecná veřejná správa a služby                                183 163       184 658      100,8    205 298     248 710   230 205         92,6
+ oddíl 61 - Státní správa a územní samospráva a politic. strany              177 022       174 483       98,6    194 032     209 215   193 803         92,6
+ oddíl 62 - Jiné veřejné služby a činnosti                                                                                       100         99        99,0
+ oddíl 63 - Finanční operace                                                       5 706    10 175      178,3       8 270      9 139      9 082        99,4
+ oddíl 64 - Ostatní činnosti                                                        435                             2 996     30 256    27 221         90,0
+
+Výdaje skupiny 1 až 6 celkem                                                 547 675       579 286      105,8    531 255     893 427   773 400         86,6
+
+
+Analytické údaje
+ Počet obyvatel                                                                64 475       64 343       99,8                           64 780
+ Počet žáků základních a mateřských škol                                           6 888     6 941      100,8                             6 837
+ Počet pracovníků úřadu MČ *                                                        374          363     97,1                               351
+ Počet obyvatel na jednoho pracovníka úřadu                                         172          177    102,8                               185
+ Správní výdaje na jednoho obyvatele (v Kč)                                        2 746     2 712       98,8       2 995      3 230      2 992        92,6
+ Celkové výdaje školství na jednoho žáka (v Kč)                                15 473       16 780      108,4     15 684      23 039    19 097         82,9
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                               11 174        9 995       89,4     10 887      12 254    11 951         97,5
+          kapitálové výdaje školství na 1 žáka (v Kč)                      4 299        6 785 157,8          4 797     10 785             7 146        66,3
+ * od roku 2021 bez pečovatelské služby (k 1.1.2021 byli tito pracovníci převedeni na Centrum sociálních služeb, p.o.)
+
+
+
+
+                                                                             -2-
+
+
+
+                                                                                                                                       Strana 5 / 34
+                                 Výdaje městské části Brno - Žabovřesky
+                                                                                                                                                v tis. Kč
+
+
+                                                                                                              Schválený Upravený
+                                                                             Rok         Rok          %                          Skutečnost          %
+ Skupina, v tom oddíl                                                                                          rozpočet rozpočet
+                                                                             2020        2021        21/20                rok 2022               Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                         16 782      20 591      122,7     22 590      24 612    24 321          98,8
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                           16 782      20 591      122,7     22 590      24 612    24 321          98,8
+ oddíl 23 - Vodní hospodářství
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                          109 210     122 998      112,6     95 169     129 208   110 408          85,4
+ oddíl 31 a 32 - Vzdělávání a školské služby                                  55 168      51 647       93,6     40 883      57 275    48 938          85,4
+                   z toho kapitálové výdaje                                   32 813      29 635       90,3     16 000      28 531    23 178          81,2
+ oddíl 33 - Kultura, církve a sdělovací prostředky                             8 578      26 809      312,5     13 895      13 995    13 625          97,4
+ oddíl 34 - Sport a zájmová činnost                                                813         917    112,8       1 530      4 930     4 222          85,6
+ oddíl 35 - Zdravotnictví
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                         36 472      30 821       84,5     30 210      30 240    30 008          99,2
+ oddíl 37 - Ochrana životního prostředí                                        8 179      12 804      156,5       8 651     22 768    13 615          59,8
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo
+Skupina 4 - Sociální věci a politika zaměstnanosti                            43 970       7 542       17,2       5 091      4 999     4 042          80,9
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.    43 970       7 542       17,2       5 091      4 999     4 042          80,9
+Skupina 5 - Bezpečnost státu a právní ochrana                                     16          42      262,5          50         50        49          98,0
+ oddíl 52 - Civilní připravenost na krizové stavy
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS                                                   16          42    262,5         50          50         49         98,0
+Skupina 6 - Všeobecná veřejná správa a služby                                 59 829      46 174       77,2     48 667     135 976   100 939          74,2
+ oddíl 61 - Státní správa a územní samospráva a politic. strany               53 928      45 324       84,0     47 967     130 784    95 916          73,3
+ oddíl 62 - Jiné veřejné služby a činnosti
+ oddíl 63 - Finanční operace                                                   5 901           850     14,4        700       3 113     2 944          94,6
+ oddíl 64 - Ostatní činnosti                                                                                                 2 079     2 079         100,0
+
+Výdaje skupiny 1 až 6 celkem                                                 229 807     197 348       85,9    171 567     294 845   239 760          81,3
+
+
+Analytické údaje
+ Počet obyvatel                                                               20 483      20 474      100,0                           20 604
+ Počet žáků základních a mateřských škol                                       2 315       2 315      100,0                            2 325
+ Počet pracovníků úřadu MČ *                                                       121          58     47,9                                58
+ Počet obyvatel na jednoho pracovníka úřadu                                        169         353    208,5                              355
+ Správní výdaje na jednoho obyvatele (v Kč)                                    2 633       2 214       84,1       2 328      6 348     4 655          73,3
+ Celkové výdaje školství na jednoho žáka (v Kč)                               23 831      22 310       93,6     17 584      24 634    21 049          85,4
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                               9 657       9 508       98,5     10 702      12 363    11 080          89,6
+          kapitálové výdaje školství na 1 žáka (v Kč)                     14 174       12 801    90,3        6 882     12 271          9 969          81,2
+ * od roku 2021 bez pečovatelské služby (k 1.1.2021 byli tito pracovníci převedeni na Centrum sociálních služeb, p.o.)
+
+
+
+
+                                                                             -3-
+
+
+
+                                                                                                                                     Strana 6 / 34
+                                Výdaje městské části Brno - Královo Pole
+                                                                                                                                                  v tis. Kč
+
+
+                                                                                                                Schválený Upravený
+                                                                             Rok           Rok          %                          Skutečnost          %
+ Skupina, v tom oddíl                                                                                            rozpočet rozpočet
+                                                                             2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                          17 710       16 004       90,4     22 841      18 287    11 597         63,4
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                            17 710       16 004       90,4     22 841      18 287    11 597         63,4
+ oddíl 23 - Vodní hospodářství
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                          106 648       150 759      141,4    216 417     194 718   148 223         76,1
+ oddíl 31 a 32 - Vzdělávání a školské služby                                   37 389       51 209      137,0     77 989      78 472    60 094         76,6
+                   z toho kapitálové výdaje                                        6 320    18 525      293,1     40 700      32 206    19 111         59,3
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                 3 023     3 626      119,9       5 857      5 326      4 560        85,6
+ oddíl 34 - Sport a zájmová činnost                                                3 379     2 294       67,9       4 527      3 989      3 284        82,3
+ oddíl 35 - Zdravotnictví
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                          48 067       80 975      168,5     54 834      37 120    16 578         44,7
+ oddíl 37 - Ochrana životního prostředí                                        14 790       12 655       85,6     73 210      69 811    63 707         91,3
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo
+Skupina 4 - Sociální věci a politika zaměstnanosti                             37 800        6 805       18,0       6 004      6 195      6 140        99,1
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.     37 800        6 805       18,0       6 004      6 195      6 140        99,1
+Skupina 5 - Bezpečnost státu a právní ochrana                                      1 593     1 378       86,5       1 151      1 531      1 210        79,0
+ oddíl 52 - Civilní připravenost na krizové stavy                                   274          286    104,4         75          61         40        65,6
+ oddíl 53 - Bezpečnost a veřejný pořádek                                              5
+ oddíl 55 - Požární ochrana a IZS                                                  1 314     1 092       83,1       1 076      1 470      1 170        79,6
+Skupina 6 - Všeobecná veřejná správa a služby                                  62 672       64 014      102,1     76 354     111 574   101 908         91,3
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                53 553       55 847      104,3     66 946      67 267    60 418         89,8
+ oddíl 62 - Jiné veřejné služby a činnosti                                                                                        74         74      100,0
+ oddíl 63 - Finanční operace                                                       9 119     8 018       87,9       4 208      4 523      4 498        99,4
+ oddíl 64 - Ostatní činnosti                                                                     149                5 200     39 710    36 918         93,0
+
+Výdaje skupiny 1 až 6 celkem                                                 226 423       238 960      105,5    322 767     332 305   269 078         81,0
+
+
+Analytické údaje
+ Počet obyvatel                                                                26 626       26 971      101,3                           27 384
+ Počet žáků základních a mateřských škol                                           2 954     2 924       99,0                             2 858
+ Počet pracovníků úřadu MČ *                                                        136           89     65,4                                81
+ Počet obyvatel na jednoho pracovníka úřadu                                         196          303    154,8                               338
+ Správní výdaje na jednoho obyvatele (v Kč)                                        2 011     2 071      102,9       2 445      2 456      2 206        89,8
+ Celkové výdaje školství na jednoho žáka (v Kč)                                12 657       17 513      138,4     27 288      27 457    21 027         76,6
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                               10 518       11 178      106,3     13 047      16 188    14 340         88,6
+          kapitálové výdaje školství na 1 žáka (v Kč)                      2 139        6 335 296,1        14 241      11 269             6 687        59,3
+ * od roku 2021 bez pečovatelské služby (k 1.1.2021 byli tito pracovníci převedeni na Centrum sociálních služeb, p.o.)
+
+
+
+
+                                                                             -4-
+
+
+
+                                                                                                                                       Strana 7 / 34
+                                         Výdaje městské části Brno - sever
+                                                                                                                                                v tis. Kč
+
+
+                                                                                                              Schválený Upravený
+                                                                             Rok         Rok          %                          Skutečnost          %
+ Skupina, v tom oddíl                                                                                          rozpočet rozpočet
+                                                                             2020        2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství                             30
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství                             30
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                          7 340      14 772      201,3     16 612      20 371     12 932         63,5
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                            7 138      14 462      202,6     16 152      19 916     12 630         63,4
+ oddíl 23 - Vodní hospodářství                                                     202         310    153,5        460         455        302         66,4
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                          228 477     292 875      128,2    260 590     389 536    291 061         74,7
+ oddíl 31 a 32 - Vzdělávání a školské služby                                  57 848      94 292      163,0     82 042      90 036     81 553         90,6
+                   z toho kapitálové výdaje                                    9 176      39 461      430,0     34 045      34 122     26 960         79,0
+ oddíl 33 - Kultura, církve a sdělovací prostředky                             7 525       9 137      121,4     10 704      12 206     11 780         96,5
+ oddíl 34 - Sport a zájmová činnost                                           14 433       3 677       25,5       5 060      8 036      6 367         79,2
+ oddíl 35 - Zdravotnictví                                                           12          12    100,0         12          12         12        100,0
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                         97 515     148 185      152,0    116 814     224 223    143 432         64,0
+ oddíl 37 - Ochrana životního prostředí                                       51 049      37 522       73,5     45 958      54 923     47 817         87,1
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo                  95          50     52,6                    100        100        100,0
+Skupina 4 - Sociální věci a politika zaměstnanosti                            37 527       8 763       23,4         76       9 372      9 094         97,0
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.    37 527       8 763       23,4         76       9 372      9 094         97,0
+Skupina 5 - Bezpečnost státu a právní ochrana                                  2 324      11 047      475,3       3 477      3 769      2 953         78,3
+ oddíl 52 - Civilní připravenost na krizové stavy                                  571         425     74,4        596         596        240         40,3
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS                                              1 753      10 622      605,9       2 881      3 173      2 713         85,5
+Skupina 6 - Všeobecná veřejná správa a služby                                118 664     112 634       94,9    105 915     117 767    107 776         91,5
+ oddíl 61 - Státní správa a územní samospráva a politic. strany               85 648      84 021       98,1     88 844      93 682     89 366         95,4
+ oddíl 62 - Jiné veřejné služby a činnosti                                                                                      30         30        100,0
+ oddíl 63 - Finanční operace                                                  33 016      28 613       86,7     17 071      18 478     18 200         98,5
+ oddíl 64 - Ostatní činnosti                                                                                                 5 577        180          3,2
+
+Výdaje skupiny 1 až 6 celkem                                                 394 362     440 090      111,6    386 670     540 815    423 815         78,4
+
+
+Analytické údaje
+ Počet obyvatel                                                               46 059      45 964       99,8                            45 994
+ Počet žáků základních a mateřských škol                                       4 681       4 668       99,7                             4 611
+ Počet pracovníků úřadu MČ *                                                       173         131     75,7                               131
+ Počet obyvatel na jednoho pracovníka úřadu                                        266         351    131,8                               351
+ Správní výdaje na jednoho obyvatele (v Kč)                                    1 860       1 828       98,3       1 932      2 037      1 943         95,4
+ Celkové výdaje školství na jednoho žáka (v Kč)                               12 358      20 200      163,5     17 792      19 526     17 687         90,6
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                              10 398      11 746      113,0     10 409      12 126     11 840         97,6
+          kapitálové výdaje školství na 1 žáka (v Kč)                      1 960        8 454    431,2       7 383           7 400      5 847         79,0
+ * od roku 2021 bez pečovatelské služby (k 1.1.2021 byli tito pracovníci převedeni na Centrum sociálních služeb, p.o.)
+
+
+
+
+                                                                             -5-
+
+
+
+                                                                                                                                     Strana 8 / 34
+                                     Výdaje městské části Brno - Židenice
+                                                                                                                                                  v tis. Kč
+
+
+                                                                                                                Schválený Upravený
+                                                                             Rok           Rok          %                          Skutečnost          %
+ Skupina, v tom oddíl                                                                                            rozpočet rozpočet
+                                                                             2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství                               4           3      75,0         10          10          5        50,0
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství                               4           3      75,0         10          10          5        50,0
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                              5 878     6 695      113,9       5 518     11 102      9 481        85,4
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                                5 878     6 695      113,9       5 518     11 102      9 481        85,4
+ oddíl 23 - Vodní hospodářství
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                          112 610        99 629       88,5    128 958     352 921    98 131         27,8
+ oddíl 31 a 32 - Vzdělávání a školské služby                                   33 652       37 939      112,7     34 030      51 549    42 075         81,6
+                   z toho kapitálové výdaje                                        3 237     4 919      152,0       2 500      8 700      3 463        39,8
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                 7 839     3 005       38,3       4 882      6 628      4 415        66,6
+ oddíl 34 - Sport a zájmová činnost                                                8 905     4 157       46,7       4 239      5 733      4 566        79,6
+ oddíl 35 - Zdravotnictví                                                                                                         40         40      100,0
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                          56 734       49 193       86,7     76 384     262 658     27 058        10,3
+ oddíl 37 - Ochrana životního prostředí                                            5 480     5 335       97,4       9 423     26 313    19 977         75,9
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo
+Skupina 4 - Sociální věci a politika zaměstnanosti                             44 448        6 058       13,6        350       5 529      5 557      100,5
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.     44 448        6 058       13,6        350       5 529      5 557      100,5
+Skupina 5 - Bezpečnost státu a právní ochrana                                       832      1 738      208,9       1 097      1 918      1 687        88,0
+ oddíl 52 - Civilní připravenost na krizové stavy                                     9           12    133,3         67          67         21        31,3
+ oddíl 53 - Bezpečnost a veřejný pořádek                                             35           40    114,3         90          90         46        51,1
+ oddíl 55 - Požární ochrana a IZS                                                   788      1 686      214,0        940       1 761      1 620        92,0
+Skupina 6 - Všeobecná veřejná správa a služby                                  49 665       53 493      107,7     48 460      61 429    54 515         88,7
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                48 114       46 956       97,6     47 195      59 612    52 899         88,7
+ oddíl 62 - Jiné veřejné služby a činnosti                                                                                        15         15      100,0
+ oddíl 63 - Finanční operace                                                       1 551     6 537      421,5       1 265      1 622      1 511        93,2
+ oddíl 64 - Ostatní činnosti                                                                                                     180         90        50,0
+
+Výdaje skupiny 1 až 6 celkem                                                 213 437       167 616       78,5    184 393     432 909   169 376         39,1
+
+
+Analytické údaje
+ Počet obyvatel                                                                21 009       21 099      100,4                           21 208
+ Počet žáků základních a mateřských škol                                           2 491     2 510      100,8                             2 541
+ Počet pracovníků úřadu MČ *                                                        118           68     57,6                                70
+ Počet obyvatel na jednoho pracovníka úřadu                                         178          310    174,3                               303
+ Správní výdaje na jednoho obyvatele (v Kč)                                        2 290     2 226       97,2       2 225      2 811      2 494        88,7
+ Celkové výdaje školství na jednoho žáka (v Kč)                                13 509       15 115      111,9     13 393      20 287    16 559         81,6
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                               12 210       13 155      107,7     12 409      16 863    15 196         90,1
+          kapitálové výdaje školství na 1 žáka (v Kč)                      1 299        1 960 150,8           984              3 424      1 363        39,8
+ * od roku 2021 bez pečovatelské služby (k 1.1.2021 byli tito pracovníci převedeni na Centrum sociálních služeb, p.o.)
+
+
+
+
+                                                                             -6-
+
+
+
+                                                                                                                                       Strana 9 / 34
+                                   Výdaje městské části Brno - Černovice
+                                                                                                                                                  v tis. Kč
+
+
+                                                                                                                Schválený Upravený
+                                                                             Rok           Rok          %                          Skutečnost        %
+ Skupina, v tom oddíl                                                                                            rozpočet rozpočet
+                                                                             2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                              3 091     6 511      210,6       5 087      5 813      5 248       90,3
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                                3 091     6 511      210,6       5 087      5 813      5 248       90,3
+ oddíl 23 - Vodní hospodářství
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                            53 895       28 895       53,6     58 012      93 272    75 625        81,1
+ oddíl 31 a 32 - Vzdělávání a školské služby                                   24 759       18 227       73,6     16 284      17 265    17 229        99,8
+                   z toho kapitálové výdaje                                        3 244         206      6,4       2 850      2 049      2 040       99,6
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                 1 426     1 377       96,6       2 597      1 663      1 354       81,4
+ oddíl 34 - Sport a zájmová činnost                                                1 995     1 322       66,3       4 311      1 577      1 133       71,8
+ oddíl 35 - Zdravotnictví
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                          19 825        1 580        8,0     16 403      46 614    32 373        69,4
+ oddíl 37 - Ochrana životního prostředí                                            5 554     5 994      107,9     18 027      25 678    23 143        90,1
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo                  336          395    117,6        390         475        393       82,7
+Skupina 4 - Sociální věci a politika zaměstnanosti                                 2 479     2 793      112,7       2 325      3 838      4 081      106,3
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.         2 479     2 793      112,7       2 325      3 838      4 081      106,3
+Skupina 5 - Bezpečnost státu a právní ochrana                                       276          302    109,4        329         612        401       65,5
+ oddíl 52 - Civilní připravenost na krizové stavy                                    75           83    110,7        114         114         35       30,7
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS                                                   201          219    109,0        215         498        366       73,5
+Skupina 6 - Všeobecná veřejná správa a služby                                  32 556       23 125       71,0     25 466      27 015    23 699        87,7
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                19 599       20 279      103,5     24 256      24 583    20 905        85,0
+ oddíl 62 - Jiné veřejné služby a činnosti                                                                                        54         54      100,0
+ oddíl 63 - Finanční operace                                                   12 957        2 846       22,0       1 210      2 349      2 711      115,4
+ oddíl 64 - Ostatní činnosti                                                                                                      29         29      100,0
+
+Výdaje skupiny 1 až 6 celkem                                                   92 297       61 627       66,8     91 219     130 550   109 055        83,5
+
+
+Analytické údaje
+ Počet obyvatel                                                                    7 768     7 823      100,7                             7 861
+ Počet žáků základních a mateřských škol                                            998          982     98,4                               965
+ Počet pracovníků úřadu MČ                                                           31           28     90,3                                31
+ Počet obyvatel na jednoho pracovníka úřadu                                         251          279    111,5                               254
+ Správní výdaje na jednoho obyvatele (v Kč)                                        2 523     2 592      102,7       3 086      3 127      2 659       85,0
+ Celkové výdaje školství na jednoho žáka (v Kč)                                24 809       18 561       74,8     16 874      17 891    17 854        99,8
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                               21 558       18 351       85,1     13 921      15 768    15 740        99,8
+          kapitálové výdaje školství na 1 žáka (v Kč)                              3 251         210      6,5       2 953      2 123      2 114       99,6
+
+
+
+
+                                                                             -7-
+
+
+
+                                                                                                                                       Strana 10 / 34
+                                             Výdaje městské části Brno-jih
+                                                                                                                                                  v tis. Kč
+
+
+                                                                                                                Schválený Upravený
+                                                                             Rok           Rok          %                          Skutečnost        %
+ Skupina, v tom oddíl                                                                                            rozpočet rozpočet
+                                                                             2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                              8 943    11 636      130,1       7 740      7 740      7 460       96,4
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                                8 943    11 636      130,1       7 740      7 740      7 460       96,4
+ oddíl 23 - Vodní hospodářství
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                            58 541       49 241       84,1    164 420     164 332   137 013        83,4
+ oddíl 31 a 32 - Vzdělávání a školské služby                                   17 679       18 795      106,3     27 074      22 881    21 326        93,2
+                   z toho kapitálové výdaje                                        1 659     3 229      194,6     12 310       5 114      4 637       90,7
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                 1 117         777     69,6       1 620      1 895      1 402       74,0
+ oddíl 34 - Sport a zájmová činnost                                                6 206    14 892      240,0     28 430      28 487    27 998        98,3
+ oddíl 35 - Zdravotnictví
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                          19 340        6 505       33,6     98 036     101 566    78 680        77,5
+ oddíl 37 - Ochrana životního prostředí                                        14 134        8 217       58,1       9 185      9 428      7 532       79,9
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo                   65           55     84,6         75          75         75      100,0
+Skupina 4 - Sociální věci a politika zaměstnanosti                                 1 711     1 602       93,6                  1 744      1 744      100,0
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.         1 711     1 602       93,6                  1 744      1 744      100,0
+Skupina 5 - Bezpečnost státu a právní ochrana                                       310          530    171,0        510         687        489       71,2
+ oddíl 52 - Civilní připravenost na krizové stavy                                    70           17     24,3         35         135         12         8,9
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS                                                   240          513    213,8        475         552        477       86,4
+Skupina 6 - Všeobecná veřejná správa a služby                                  70 847       37 431       52,8     57 302      56 825    38 891        68,4
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                68 220       34 015       49,9     57 232      50 275    36 556        72,7
+ oddíl 62 - Jiné veřejné služby a činnosti                                                                                        42         42      100,0
+ oddíl 63 - Finanční operace                                                       2 627     3 416      130,0         70       2 325      2 293       98,6
+ oddíl 64 - Ostatní činnosti                                                                                                   4 183
+
+Výdaje skupiny 1 až 6 celkem                                                 140 352       100 440       71,6    229 972     231 328   185 597        80,2
+
+
+Analytické údaje
+ Počet obyvatel                                                                    9 852    10 015      101,7                             9 960
+ Počet žáků základních a mateřských škol                                            965          975    101,0                               964
+ Počet pracovníků úřadu MČ                                                           43           45    104,7                                46
+ Počet obyvatel na jednoho pracovníka úřadu                                         229          223     97,1                               217
+ Správní výdaje na jednoho obyvatele (v Kč)                                        6 924     3 396       49,0       5 746      5 048      3 670       72,7
+ Celkové výdaje školství na jednoho žáka (v Kč)                                18 320       19 277      105,2     28 085      23 735    22 122        93,2
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                               16 601       15 965       96,2     15 315      18 430    17 312        93,9
+          kapitálové výdaje školství na 1 žáka (v Kč)                              1 719     3 312      192,6     12 770       5 305      4 810       90,7
+
+
+
+
+                                                                             -8-
+
+
+
+                                                                                                                                       Strana 11 / 34
+                                         Výdaje městské části Brno - Bohunice
+                                                                                                                                                  v tis. Kč
+
+
+                                                                                                                Schválený Upravený
+                                                                             Rok           Rok          %                          Skutečnost        %
+ Skupina, v tom oddíl                                                                                            rozpočet rozpočet
+                                                                             2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                              5 817     8 830      151,8       6 968      6 938      5 754       82,9
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                                5 817     8 830      151,8       6 968      6 938      5 754       82,9
+ oddíl 23 - Vodní hospodářství
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                            52 648       53 590      101,8     55 282      68 172    58 975        86,5
+ oddíl 31 a 32 - Vzdělávání a školské služby                                   29 291       34 718      118,5     31 861      39 304    31 591        80,4
+                   z toho kapitálové výdaje                                    12 684       16 861      132,9     13 500      18 759    11 329        60,4
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                  875      1 225      140,0       1 126      1 119        776       69,3
+ oddíl 34 - Sport a zájmová činnost                                                 471      5 702 1 210,6          8 335      8 091      8 037       99,3
+ oddíl 35 - Zdravotnictví
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                          10 049        1 976       19,7       3 790     10 615    10 306        97,1
+ oddíl 37 - Ochrana životního prostředí                                        11 962        9 969       83,3     10 170       9 043      8 265       91,4
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo
+Skupina 4 - Sociální věci a politika zaměstnanosti                                 1 616     1 614       99,9       3 805      5 368      5 343       99,5
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.         1 616     1 614       99,9       3 805      5 368      5 343       99,5
+Skupina 5 - Bezpečnost státu a právní ochrana                                       547          534     97,6       2 215        731        655       89,6
+ oddíl 52 - Civilní připravenost na krizové stavy                                   132           36     27,3         30          30          8       26,7
+ oddíl 53 - Bezpečnost a veřejný pořádek                                                                             700          76         61       80,3
+ oddíl 55 - Požární ochrana a IZS                                                   415          498    120,0       1 485        625        586       93,8
+Skupina 6 - Všeobecná veřejná správa a služby                                  24 016       34 028      141,7     28 704      34 105    30 266        88,7
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                22 856       33 058      144,6     27 064      28 542    25 179        88,2
+ oddíl 62 - Jiné veřejné služby a činnosti                                                                                        15         15      100,0
+ oddíl 63 - Finanční operace                                                       1 160         970     83,6       1 640      1 438        962       66,9
+ oddíl 64 - Ostatní činnosti                                                                                                   4 110      4 110      100,0
+
+Výdaje skupiny 1 až 6 celkem                                                   84 644       98 596      116,5     96 974     115 314   100 993        87,6
+
+
+Analytické údaje
+ Počet obyvatel                                                                13 627       13 601       99,8                           13 554
+ Počet žáků základních a mateřských škol                                           1 594     1 595      100,1                             1 574
+ Počet pracovníků úřadu MČ                                                           26           27    103,8                                26
+ Počet obyvatel na jednoho pracovníka úřadu                                         524          504     96,1                               521
+ Správní výdaje na jednoho obyvatele (v Kč)                                        1 677     2 431      144,9       1 997      2 106      1 858       88,2
+ Celkové výdaje školství na jednoho žáka (v Kč)                                18 376       21 767      118,5     20 242      24 971    20 071        80,4
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                               10 418       11 196      107,5     11 665      13 053    12 873        98,6
+          kapitálové výdaje školství na 1 žáka (v Kč)                              7 957    10 571      132,8       8 577     11 918      7 198       60,4
+
+
+
+
+                                                                             -9-
+
+
+
+                                                                                                                                       Strana 12 / 34
+                                   Výdaje městské části Brno - Starý Lískovec
+                                                                                                                                                   v tis. Kč
+
+
+                                                                                                                 Schválený Upravený
+                                                                              Rok           Rok          %                          Skutečnost        %
+ Skupina, v tom oddíl                                                                                             rozpočet rozpočet
+                                                                              2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství                               21           9      42,9         45          76         47       61,8
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství                               21           9      42,9         45          76         47       61,8
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                             8 809       7 473       84,8       9 144     11 125    10 161        91,3
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                               8 809       7 473       84,8       9 144     11 125    10 161        91,3
+ oddíl 23 - Vodní hospodářství
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                             39 053       69 116      177,0    111 341     139 829   106 832        76,4
+ oddíl 31 a 32 - Vzdělávání a školské služby                                    18 777       28 192      150,1     28 427      34 408    30 464        88,5
+                   z toho kapitálové výdaje                                           491         128     26,1       7 800      6 205      5 474       88,2
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                    719         609     84,7       1 005      1 155        923       79,9
+ oddíl 34 - Sport a zájmová činnost                                                   746     2 106      282,3       3 459     21 984    17 715        80,6
+ oddíl 35 - Zdravotnictví
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                           11 215       23 082      205,8     63 962      63 062    45 159        71,6
+ oddíl 37 - Ochrana životního prostředí                                           7 596      15 127      199,1     14 488      19 220    12 571        65,4
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo
+Skupina 4 - Sociální věci a politika zaměstnanosti                                1 812       1 958      108,1         20       2 206      2 193       99,4
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.        1 812       1 958      108,1         20       2 206      2 193       99,4
+Skupina 5 - Bezpečnost státu a právní ochrana                                     1 042       1 371      131,6     12 985      21 626    11 807        54,6
+ oddíl 52 - Civilní připravenost na krizové stavy                                     160          98     61,3         60          60         21       35,0
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS                                                     882     1 273      144,3     12 925      21 566    11 786        54,7
+Skupina 6 - Všeobecná veřejná správa a služby                                   26 217       19 973       76,2     32 749      38 188    22 377        58,6
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                 17 490       18 761      107,3     22 091      23 387    18 901        80,8
+ oddíl 62 - Jiné veřejné služby a činnosti                                                                                         15         15      100,0
+ oddíl 63 - Finanční operace                                                      8 727       1 212       13,9       1 110      3 471      3 461       99,7
+ oddíl 64 - Ostatní činnosti                                                                                         9 548     11 315
+
+Výdaje skupiny 1 až 6 celkem                                                    76 954       99 900      129,8    166 284     213 050   153 417        72,0
+
+
+Analytické údaje
+ Počet obyvatel                                                                 13 060       13 001       99,5                           12 895
+ Počet žáků základních a mateřských škol                                          1 532       1 530       99,9                             1 593
+ Počet pracovníků úřadu MČ                                                             31          32    103,2                                31
+ Počet obyvatel na jednoho pracovníka úřadu                                           421         406     96,4                               416
+ Správní výdaje na jednoho obyvatele (v Kč)                                       1 339       1 443      107,8       1 713      1 814      1 466       80,8
+ Celkové výdaje školství na jednoho žáka (v Kč)                                 12 257       18 426      150,3     17 845      21 599    19 123        88,5
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                                11 936       18 342      153,7     12 949      17 704    15 687        88,6
+          kapitálové výdaje školství na 1 žáka (v Kč)                                 320          84     26,1       4 896      3 895      3 436       88,2
+
+
+
+
+                                                                             - 10 -
+
+
+
+                                                                                                                                        Strana 13 / 34
+                                   Výdaje městské části Brno - Nový Lískovec
+                                                                                                                                                   v tis. Kč
+
+
+                                                                                                                 Schválený Upravený
+                                                                              Rok           Rok          %                          Skutečnost        %
+ Skupina, v tom oddíl                                                                                             rozpočet rozpočet
+                                                                              2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství                               480         262     54,6        290         290        129       44,5
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství                               480         262     54,6        290         290        129       44,5
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                             1 558       1 821      116,9     10 064      15 464      1 294         8,4
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                               1 558       1 821      116,9     10 064      15 464      1 294         8,4
+ oddíl 23 - Vodní hospodářství
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                            127 443       39 825       31,2     49 625      56 864    33 564        59,0
+ oddíl 31 a 32 - Vzdělávání a školské služby                                    75 883       27 937       36,8     20 217      23 630    20 845        88,2
+                   z toho kapitálové výdaje                                     56 991       14 561       25,5       6 900     10 738      8 384       78,1
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                    622         700    112,5       1 010      1 177        855       72,6
+ oddíl 34 - Sport a zájmová činnost                                                   587         659    112,3        980       1 491        880       59,0
+ oddíl 35 - Zdravotnictví
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                           40 761        1 225        3,0     16 057      16 925      2 601       15,4
+ oddíl 37 - Ochrana životního prostředí                                           9 590       9 304       97,0     11 361      13 641      8 383       61,5
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo
+Skupina 4 - Sociální věci a politika zaměstnanosti                                3 014       2 654       88,1        180       2 695      2 983      110,7
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.        3 014       2 654       88,1        180       2 695      2 983      110,7
+Skupina 5 - Bezpečnost státu a právní ochrana                                          13         113    869,2         40          40         13       32,5
+ oddíl 52 - Civilní připravenost na krizové stavy                                                 100                  25          25
+ oddíl 53 - Bezpečnost a veřejný pořádek                                               13          13    100,0         15          15         13       86,7
+ oddíl 55 - Požární ochrana a IZS
+Skupina 6 - Všeobecná veřejná správa a služby                                   18 839       30 367      161,2     26 498      77 808    72 728        93,5
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                 18 344       18 937      103,2     22 361      22 768    19 070        83,8
+ oddíl 62 - Jiné veřejné služby a činnosti
+ oddíl 63 - Finanční operace                                                          495    11 429 2 308,9          4 137        942        868       92,2
+ oddíl 64 - Ostatní činnosti                                                                        1                          54 098    52 790        97,6
+
+Výdaje skupiny 1 až 6 celkem                                                   151 347       75 043       49,6     86 697     153 161   110 712        72,3
+
+
+Analytické údaje
+ Počet obyvatel                                                                 10 519       10 506       99,9                           10 418
+ Počet žáků základních a mateřských škol                                          1 334       1 324       99,3                             1 342
+ Počet pracovníků úřadu MČ                                                             33          34    103,0                                35
+ Počet obyvatel na jednoho pracovníka úřadu                                           319         309     96,9                               298
+ Správní výdaje na jednoho obyvatele (v Kč)                                       1 744       1 802      103,4       2 146      2 185      1 830       83,8
+ Celkové výdaje školství na jednoho žáka (v Kč)                                 56 884       21 100       37,1     15 065      17 608    15 532        88,2
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                                14 162       10 103       71,3       9 923      9 607      9 285       96,6
+          kapitálové výdaje školství na 1 žáka (v Kč)                           42 722       10 998       25,7       5 142      8 001      6 247       78,1
+
+
+
+
+                                                                             - 11 -
+
+
+
+                                                                                                                                        Strana 14 / 34
+                                      Výdaje městské části Brno - Kohoutovice
+                                                                                                                                                   v tis. Kč
+
+
+                                                                                                                 Schválený Upravený
+                                                                              Rok           Rok          %                          Skutečnost        %
+ Skupina, v tom oddíl                                                                                             rozpočet rozpočet
+                                                                              2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                           14 585        9 316       63,9     21 772      28 868    23 830        82,5
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                             14 585        9 316       63,9     21 772      28 868    23 830        82,5
+ oddíl 23 - Vodní hospodářství
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                             43 624       32 596       74,7     96 855      67 804    54 634        80,6
+ oddíl 31 a 32 - Vzdělávání a školské služby                                    29 846       19 879       66,6     37 600      39 373    36 729        93,3
+                   z toho kapitálové výdaje                                       1 456       1 213       83,3       1 200      2 100      1 776       84,6
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                    962         921     95,7       1 737      2 218      1 513       68,2
+ oddíl 34 - Sport a zájmová činnost                                               1 906       2 451      128,6       4 431      4 939      2 580       52,2
+ oddíl 35 - Zdravotnictví
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                             2 417           732     30,3     41 655       8 475      3 481       41,1
+ oddíl 37 - Ochrana životního prostředí                                           8 493       8 613      101,4     11 432      12 624    10 323        81,8
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo                                                                175          8         4,6
+Skupina 4 - Sociální věci a politika zaměstnanosti                                2 054       2 289      111,4        246       2 466      2 546      103,2
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.        2 054       2 289      111,4        246       2 466      2 546      103,2
+Skupina 5 - Bezpečnost státu a právní ochrana                                         198         187     94,4         71          71         60       84,5
+ oddíl 52 - Civilní připravenost na krizové stavy                                     138         137     99,3         10          10
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS                                                      60          50     83,3         61          61         60       98,4
+Skupina 6 - Všeobecná veřejná správa a služby                                   42 445       41 701       98,2     42 981      45 681    41 464        90,8
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                 25 068       24 108       96,2     27 709      29 144    24 947        85,6
+ oddíl 62 - Jiné veřejné služby a činnosti                                                                                        175        175      100,0
+ oddíl 63 - Finanční operace                                                    17 377       17 593      101,2     15 272      16 305    16 286        99,9
+ oddíl 64 - Ostatní činnosti                                                                                                       57         56       98,2
+
+Výdaje skupiny 1 až 6 celkem                                                   102 906       86 089       83,7    161 925     144 890   122 534        84,6
+
+
+Analytické údaje
+ Počet obyvatel                                                                 12 508       12 485       99,8                           12 377
+ Počet žáků základních a mateřských škol                                          1 312       1 276       97,3                             1 254
+ Počet pracovníků úřadu MČ                                                             29          29    100,0                                31
+ Počet obyvatel na jednoho pracovníka úřadu                                           431         431     99,8                               399
+ Správní výdaje na jednoho obyvatele (v Kč)                                       2 004       1 931       96,3       2 239      2 355      2 016       85,6
+ Celkové výdaje školství na jednoho žáka (v Kč)                                 22 748       15 579       68,5     29 984      31 398    29 289        93,3
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                                21 639       14 629       67,6     29 027      29 723    27 873        93,8
+          kapitálové výdaje školství na 1 žáka (v Kč)                             1 110           951     85,7        957       1 675      1 416       84,5
+
+
+
+
+                                                                             - 12 -
+
+
+
+                                                                                                                                        Strana 15 / 34
+                                     Výdaje městské části Brno - Jundrov
+                                                                                                                                                   v tis. Kč
+
+
+                                                                                                                 Schválený Upravený
+                                                                              Rok           Rok          %                          Skutečnost        %
+ Skupina, v tom oddíl                                                                                             rozpočet rozpočet
+                                                                              2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství                                                                 1           1
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství                                                                 1           1
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                             4 221       2 999       71,0       2 294      2 294      1 319       57,5
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                               4 200       2 972       70,8       2 244      2 244      1 297       57,8
+ oddíl 23 - Vodní hospodářství                                                        21           27    128,6         50          50         22       44,0
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                             20 144       15 181       75,4     11 999      17 592    16 071        91,4
+ oddíl 31 a 32 - Vzdělávání a školské služby                                    17 376        7 505       43,2       9 221      9 293      8 772       94,4
+                   z toho kapitálové výdaje                                     12 137        2 650       21,8       3 930      3 930      3 441       87,6
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                    304         332    109,2        505         548        458       83,6
+ oddíl 34 - Sport a zájmová činnost                                                   230         285    123,9        100         261        243       93,1
+ oddíl 35 - Zdravotnictví
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                                 571     5 058      885,8        286       5 065      4 839       95,5
+ oddíl 37 - Ochrana životního prostředí                                           1 663       2 001      120,3       1 887      2 425      1 759       72,5
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo
+Skupina 4 - Sociální věci a politika zaměstnanosti                                    646         608     94,1         83         678        665       98,1
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.            646         608     94,1         83         678        665       98,1
+Skupina 5 - Bezpečnost státu a právní ochrana                                         309         640    207,1        243         489        446       91,2
+ oddíl 52 - Civilní připravenost na krizové stavy                                                 100
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS                                                     309         540    174,8        243         489        446       91,2
+Skupina 6 - Všeobecná veřejná správa a služby                                   18 316       17 852       97,5     16 348      19 061    16 273        85,4
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                 13 707       13 355       97,4     15 015      16 549    15 671        94,7
+ oddíl 62 - Jiné veřejné služby a činnosti                                                                                        100        100      100,0
+ oddíl 63 - Finanční operace                                                      4 195       4 497      107,2        694         509        502       98,7
+ oddíl 64 - Ostatní činnosti                                                          414                             639       1 903
+
+Výdaje skupiny 1 až 6 celkem                                                    43 636       37 281       85,4     30 968      40 115    34 775        86,7
+
+
+Analytické údaje
+ Počet obyvatel                                                                   4 345       4 396      101,2                             4 446
+ Počet žáků základních a mateřských škol                                              568         579    101,9                               582
+ Počet pracovníků úřadu MČ                                                             15          15    100,0                                15
+ Počet obyvatel na jednoho pracovníka úřadu                                           290         293    101,2                               296
+ Správní výdaje na jednoho obyvatele (v Kč)                                       3 155       3 038       96,3       3 377      3 722      3 525       94,7
+ Celkové výdaje školství na jednoho žáka (v Kč)                                 30 592       12 962       42,4     15 844      15 968    15 072        94,4
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                                  9 224       8 385       90,9       9 091      9 215      9 160       99,4
+          kapitálové výdaje školství na 1 žáka (v Kč)                           21 368        4 577       21,4       6 753      6 753      5 912       87,5
+
+
+
+
+                                                                             - 13 -
+
+
+
+                                                                                                                                        Strana 16 / 34
+                                       Výdaje městské části Brno - Bystrc
+                                                                                                                                                   v tis. Kč
+
+
+                                                                                                                 Schválený Upravený
+                                                                              Rok           Rok          %                          Skutečnost        %
+ Skupina, v tom oddíl                                                                                             rozpočet rozpočet
+                                                                              2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                             8 685       9 009      103,7     14 469      15 221    10 686        70,2
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                               8 685       9 009      103,7     14 469      15 221    10 686        70,2
+ oddíl 23 - Vodní hospodářství
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                            146 073      102 584       70,2    164 918     127 159   117 462        92,4
+ oddíl 31 a 32 - Vzdělávání a školské služby                                    34 618       25 820       74,6     85 722      45 482    41 435        91,1
+                   z toho kapitálové výdaje                                       7 963       1 549       19,5     59 228      14 613    12 110        82,9
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                2 743       5 625      205,1       5 978      5 744      5 413       94,2
+ oddíl 34 - Sport a zájmová činnost                                                   183                              52          52
+ oddíl 35 - Zdravotnictví
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                           98 326       54 500       55,4     48 225      52 853    49 985        94,6
+ oddíl 37 - Ochrana životního prostředí                                         10 143       16 599      163,6     24 746      22 833    20 559        90,0
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo                     60          40     66,7        195         195         70       35,9
+Skupina 4 - Sociální věci a politika zaměstnanosti                              30 698        4 160       13,6                  3 613      3 955      109,5
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.      30 698        4 160       13,6                  3 613      3 955      109,5
+Skupina 5 - Bezpečnost státu a právní ochrana                                         75           78    104,0         80          90         82       91,1
+ oddíl 52 - Civilní připravenost na krizové stavy
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS                                                     75           78    104,0         80          90         82       91,1
+Skupina 6 - Všeobecná veřejná správa a služby                                   76 854       56 363       73,3    181 633     339 028   213 851        63,1
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                 50 741       51 537      101,6     68 584      71 402    55 252        77,4
+ oddíl 62 - Jiné veřejné služby a činnosti
+ oddíl 63 - Finanční operace                                                    26 043        4 826       18,5       1 095      2 979      2 771       93,0
+ oddíl 64 - Ostatní činnosti                                                           70                         111 954     264 647   155 828        58,9
+
+Výdaje skupiny 1 až 6 celkem                                                   262 385      172 194       65,6    361 100     485 111   346 036        71,3
+
+
+Analytické údaje
+ Počet obyvatel                                                                 24 682       24 570       99,5                           24 538
+ Počet žáků základních a mateřských škol                                          2 795       2 761       98,8                             2 743
+ Počet pracovníků úřadu MČ *                                                          106          65     61,3                                64
+ Počet obyvatel na jednoho pracovníka úřadu                                           233         378    162,3                               383
+ Správní výdaje na jednoho obyvatele (v Kč)                                       2 056       2 098      102,0       2 795      2 910      2 252       77,4
+ Celkové výdaje školství na jednoho žáka (v Kč)                                 12 386        9 352       75,5     31 251      16 581    15 106        91,1
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                                  9 537       8 791       92,2       9 659     11 254    10 691        95,0
+          kapitálové výdaje školství na 1 žáka (v Kč)                      2 849         561     19,7      21 592               5 327      4 415       82,9
+ * od roku 2021 bez pečovatelské služby (k 1.1.2021 byli tito pracovníci převedeni na Centrum sociálních služeb, p.o.)
+
+
+
+
+                                                                             - 14 -
+
+
+
+                                                                                                                                        Strana 17 / 34
+                                    Výdaje městské části Brno - Kníničky
+                                                                                                                                                   v tis. Kč
+
+
+                                                                                                                 Schválený Upravený
+                                                                              Rok           Rok          %                          Skutečnost        %
+ Skupina, v tom oddíl                                                                                             rozpočet rozpočet
+                                                                              2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                             1 988           832     41,9       1 940      5 249        751       14,3
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                               1 988           729     36,7       1 940      5 249        751       14,3
+ oddíl 23 - Vodní hospodářství                                                                    103
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                               3 170       4 236      133,6       6 116      7 969      4 168       52,3
+ oddíl 31 a 32 - Vzdělávání a školské služby                                          937     1 463      156,1       1 022      1 138        692       60,8
+                   z toho kapitálové výdaje                                           261         875    335,2                     98         60       61,2
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                    158         309    195,6        747       1 047        775       74,0
+ oddíl 34 - Sport a zájmová činnost                                                   269     1 777      660,6       1 429      1 679        390       23,2
+ oddíl 35 - Zdravotnictví
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                             1 583           588     37,1       1 983      2 697      1 824       67,6
+ oddíl 37 - Ochrana životního prostředí                                               223          99     44,4        935       1 408        487       34,6
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo
+Skupina 4 - Sociální věci a politika zaměstnanosti                                                  7                   7          13         13      100,0
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.                          7                   7          13         13      100,0
+Skupina 5 - Bezpečnost státu a právní ochrana                                          16           4     25,0          7          37          7       18,9
+ oddíl 52 - Civilní připravenost na krizové stavy                                      12
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS                                                       4           4    100,0          7          37          7       18,9
+Skupina 6 - Všeobecná veřejná správa a služby                                     6 468       6 065       93,8       8 319     20 002    16 939        84,7
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                   6 253       5 682       90,9       8 012      8 705      6 519       74,9
+ oddíl 62 - Jiné veřejné služby a činnosti
+ oddíl 63 - Finanční operace                                                          215         349    162,3        307         281        267       95,1
+ oddíl 64 - Ostatní činnosti                                                                       34                          11 016    10 153        92,2
+
+Výdaje skupiny 1 až 6 celkem                                                    11 642       11 142       95,7     16 389      33 270    21 876        65,8
+
+
+Analytické údaje
+ Počet obyvatel                                                                   1 066       1 076      100,9                             1 080
+ Počet žáků základních a mateřských škol                                               61          61    100,0                                61
+ Počet pracovníků úřadu MČ                                                              7           6     85,7                                 6
+ Počet obyvatel na jednoho pracovníka úřadu                                           152         179    117,8                               180
+ Správní výdaje na jednoho obyvatele (v Kč)                                       5 866       5 281       90,0       7 419      8 060      6 036       74,9
+ Celkové výdaje školství na jednoho žáka (v Kč)                                 15 361       23 984      156,1     16 754      18 656    11 345        60,8
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                                11 082        9 639       87,0     16 754      17 049    10 361        60,8
+          kapitálové výdaje školství na 1 žáka (v Kč)                             4 279      14 344      335,2                  1 607        984       61,2
+
+
+
+
+                                                                             - 15 -
+
+
+
+                                                                                                                                        Strana 18 / 34
+                                       Výdaje městské části Brno - Komín
+                                                                                                                                                   v tis. Kč
+
+
+                                                                                                                 Schválený Upravený
+                                                                              Rok           Rok          %                          Skutečnost        %
+ Skupina, v tom oddíl                                                                                             rozpočet rozpočet
+                                                                              2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství                               42           19     45,2         75          45         24       53,3
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství                               42           19     45,2         75          45         24       53,3
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                             4 695       5 594      119,1       7 965      7 093      5 896       83,1
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby                                    21           90    428,6        100         100          5         5,0
+ oddíl 22 - Doprava                                                               4 674       5 504      117,8       7 865      6 993      5 891       84,2
+ oddíl 23 - Vodní hospodářství
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                             26 048       37 513      144,0     54 733      56 690    38 787        68,4
+ oddíl 31 a 32 - Vzdělávání a školské služby                                    10 434       23 294      223,3     34 496      29 446    21 752        73,9
+                   z toho kapitálové výdaje                                       1 616      14 273      883,2     23 544      13 165      6 645       50,5
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                    594         623    104,9       1 347      1 185        953       80,4
+ oddíl 34 - Sport a zájmová činnost                                               4 027       3 338       82,9       2 040      1 879      1 763       93,8
+ oddíl 35 - Zdravotnictví                                                               2           7    350,0          5          36         36      100,0
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                             4 416       4 994      113,1       8 423     12 034      6 499       54,0
+ oddíl 37 - Ochrana životního prostředí                                           6 575       5 257       80,0       8 422     12 110      7 784       64,3
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo
+Skupina 4 - Sociální věci a politika zaměstnanosti                                1 492       1 981      132,8       1 015      2 632      2 076       78,9
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.        1 492       1 981      132,8       1 015      2 632      2 076       78,9
+Skupina 5 - Bezpečnost státu a právní ochrana                                     1 061           782     73,7       2 514      1 469        723       49,2
+ oddíl 52 - Civilní připravenost na krizové stavy                                      38          83    218,4        450         428         13         3,0
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS                                                 1 023           699     68,3       2 064      1 041        710       68,2
+Skupina 6 - Všeobecná veřejná správa a služby                                   20 647       20 667      100,1     27 633      26 314    21 104        80,2
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                 19 639       20 223      103,0     26 313      25 456    20 328        79,9
+ oddíl 62 - Jiné veřejné služby a činnosti                                                                                         97         95       97,9
+ oddíl 63 - Finanční operace                                                      1 008           444     44,0       1 320        761        681       89,5
+ oddíl 64 - Ostatní činnosti
+
+
+Výdaje skupiny 1 až 6 celkem                                                    53 985       66 557      123,3     93 935      94 243    68 611        72,8
+
+
+Analytické údaje
+ Počet obyvatel                                                                   7 753       7 845      101,2                             7 831
+ Počet žáků základních a mateřských škol                                          1 032       1 022       99,0                             1 024
+ Počet pracovníků úřadu MČ                                                             25          25    100,0                                25
+ Počet obyvatel na jednoho pracovníka úřadu                                           310         314    101,2                               313
+ Správní výdaje na jednoho obyvatele (v Kč)                                       2 533       2 578      101,8       3 360      3 251      2 596       79,9
+ Celkové výdaje školství na jednoho žáka (v Kč)                                 10 110       22 793      225,4     33 687      28 755    21 242        73,9
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                                  8 545       8 827      103,3     10 695      15 899    14 753        92,8
+          kapitálové výdaje školství na 1 žáka (v Kč)                             1 566      13 966      891,9     22 992      12 856      6 489       50,5
+
+
+
+
+                                                                             - 16 -
+
+
+
+                                                                                                                                        Strana 19 / 34
+                                   Výdaje městské části Brno - Medlánky
+                                                                                                                                                    v tis. Kč
+
+                                                                                                                  Schválený Upravený
+                                                                              Rok           Rok           %                          Skutečnost        %
+ Skupina, v tom oddíl                                                                                              rozpočet rozpočet
+                                                                              2020          2021         21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                             3 358       2 811        83,7       4 364      5 997      5 553       92,6
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                               3 358       2 811        83,7       4 364      5 997      5 553       92,6
+ oddíl 23 - Vodní hospodářství
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                             20 661       21 109       102,2     31 108      50 709    29 785        58,7
+ oddíl 31 a 32 - Vzdělávání a školské služby                                      8 188       8 317       101,6     10 037      15 344      9 644       62,9
+                   z toho kapitálové výdaje                                           243         600     246,9       2 000      5 700
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                1 191       1 158        97,2       1 503      1 857      1 567       84,4
+ oddíl 34 - Sport a zájmová činnost                                                   667         356      53,4        338         363        274       75,5
+ oddíl 35 - Zdravotnictví
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                             7 421       8 473       114,2     16 470      28 446    13 732        48,3
+ oddíl 37 - Ochrana životního prostředí                                           3 194       2 805        87,8       2 760      4 699      4 568       97,2
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo
+Skupina 4 - Sociální věci a politika zaměstnanosti                                1 594       1 454        91,2       1 913      1 663      1 618       97,3
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.        1 594       1 454        91,2       1 913      1 663      1 618       97,3
+Skupina 5 - Bezpečnost státu a právní ochrana                                         114         311     272,8         60          60         25       41,7
+ oddíl 52 - Civilní připravenost na krizové stavy                                      89         286     321,3         35          35
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS                                                      25          25     100,0         25          25         25      100,0
+Skupina 6 - Všeobecná veřejná správa a služby                                   15 441       17 332       112,2     19 527      20 130    18 606        92,4
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                 15 101       17 092       113,2     19 197      19 376    18 057        93,2
+ oddíl 62 - Jiné veřejné služby a činnosti
+ oddíl 63 - Finanční operace                                                          335          240     71,6        330         545    540,488       99,2
+ oddíl 64 - Ostatní činnosti                                                            5                                          209          9         4,3
+
+Výdaje skupiny 1 až 6 celkem                                                    41 168       43 017       104,5     56 972      78 559    55 587        70,8
+
+
+Analytické údaje
+ Počet obyvatel                                                                   5 691       5 730       100,7                             5 732
+ Počet žáků základních a mateřských škol                                              729         739     101,4                               748
+ Počet pracovníků úřadu MČ                                                             21          23     109,5                                22
+ Počet obyvatel na jednoho pracovníka úřadu                                           271         249      91,9                               261
+ Správní výdaje na jednoho obyvatele (v Kč)                                       2 653       2 983       112,4       3 349      3 380      3 150       93,2
+ Celkové výdaje školství na jednoho žáka (v Kč)                                 11 232       11 254       100,2     13 419      20 513    12 893        62,9
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                                10 898       10 442        95,8     10 745      12 893    12 893       100,0
+          kapitálové výdaje školství na 1 žáka (v Kč)                                 333         812     243,6       2 674      7 620
+
+
+
+
+                                                                             - 17 -
+
+
+
+                                                                                                                                         Strana 20 / 34
+                    Výdaje městské části Brno - Řečkovice a Mokrá Hora
+                                                                                                                                                   v tis. Kč
+
+
+                                                                                                                 Schválený Upravený
+                                                                              Rok           Rok          %                          Skutečnost        %
+ Skupina, v tom oddíl                                                                                             rozpočet rozpočet
+                                                                              2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                           12 161       13 921      114,5     15 211      15 211    13 830        90,9
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                             12 144       13 825      113,8     15 001      15 001    13 783        91,9
+ oddíl 23 - Vodní hospodářství                                                        17           96    564,7        210         210         47       22,4
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                             73 001       77 723      106,5     88 518     165 525    72 670        43,9
+ oddíl 31 a 32 - Vzdělávání a školské služby                                    28 951       27 552       95,2     29 220      33 097    32 655        98,7
+                   z toho kapitálové výdaje                                     14 379       13 411       93,3     13 080      15 380    15 052        97,9
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                1 302       1 718      132,0       2 405      2 481      1 858       74,9
+ oddíl 34 - Sport a zájmová činnost                                               3 864      12 000      310,6       2 130      6 077      5 336       87,8
+ oddíl 35 - Zdravotnictví                                                               1
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                           30 565       26 561       86,9     42 446     109 649    20 942        19,1
+ oddíl 37 - Ochrana životního prostředí                                           8 318       9 892      118,9     12 317      14 221    11 879        83,5
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo
+Skupina 4 - Sociální věci a politika zaměstnanosti                                2 870       3 011      104,9        222       3 944      4 048      102,6
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.        2 870       3 011      104,9        222       3 944      4 048      102,6
+Skupina 5 - Bezpečnost státu a právní ochrana                                         135          83     61,5         92          92         55       59,8
+ oddíl 52 - Civilní připravenost na krizové stavy                                     81           28     34,6         30          30
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS                                                     54           55    101,9         62          62         55       88,7
+Skupina 6 - Všeobecná veřejná správa a služby                                   29 239       28 044       95,9     32 515      34 606    29 572        85,5
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                 27 341       26 028       95,2     31 480      32 090    27 062        84,3
+ oddíl 62 - Jiné veřejné služby a činnosti
+ oddíl 63 - Finanční operace                                                      1 898       2 016      106,2       1 035      2 516      2 510       99,8
+ oddíl 64 - Ostatní činnosti
+
+
+Výdaje skupiny 1 až 6 celkem                                                   117 406      122 781      104,6    136 558     219 378   120 174        54,8
+
+
+Analytické údaje
+ Počet obyvatel                                                                 14 911       14 875       99,8                           14 792
+ Počet žáků základních a mateřských škol                                          1 614       1 626      100,7                             1 620
+ Počet pracovníků úřadu MČ                                                             33          33    100,0                                33
+ Počet obyvatel na jednoho pracovníka úřadu                                           452         451     99,8                               448
+ Správní výdaje na jednoho obyvatele (v Kč)                                       1 834       1 750       95,4       2 128      2 169      1 830       84,3
+ Celkové výdaje školství na jednoho žáka (v Kč)                                 17 937       16 945       94,5     18 037      20 430    20 157        98,7
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                                  9 029       8 697       96,3       9 963     10 936    10 866        99,4
+          kapitálové výdaje školství na 1 žáka (v Kč)                             8 909       8 248       92,6       8 074      9 494      9 291       97,9
+
+
+
+
+                                                                             - 18 -
+
+
+
+                                                                                                                                        Strana 21 / 34
+                      Výdaje městské části Brno - Maloměřice a Obřany
+                                                                                                                                                   v tis. Kč
+
+
+                                                                                                                 Schválený Upravený
+                                                                              Rok           Rok          %                          Skutečnost        %
+ Skupina, v tom oddíl                                                                                             rozpočet rozpočet
+                                                                              2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                             3 677       3 105       84,4       7 163     12 135      8 291       68,3
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                               3 677       3 105       84,4       7 163     12 135      8 291       68,3
+ oddíl 23 - Vodní hospodářství
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                             11 103       14 936      134,5     13 897      29 558    21 109        71,4
+ oddíl 31 a 32 - Vzdělávání a školské služby                                      5 313       8 957      168,6       6 401      9 513      8 756       92,0
+                   z toho kapitálové výdaje                                           423     3 975      939,7        610       2 876      2 319       80,6
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                    510         469     92,0        671         741        618       83,4
+ oddíl 34 - Sport a zájmová činnost                                               1 189           687     57,8        591         696        581       83,5
+ oddíl 35 - Zdravotnictví
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                             1 247           502     40,3        661       6 688      5 628       84,2
+ oddíl 37 - Ochrana životního prostředí                                           2 844       4 321      151,9       5 573     11 920      5 526       46,4
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo
+Skupina 4 - Sociální věci a politika zaměstnanosti                                1 281       1 258       98,2          5       1 126      1 292      114,7
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.        1 281       1 258       98,2          5       1 126      1 292      114,7
+Skupina 5 - Bezpečnost státu a právní ochrana                                         508     1 981      390,0        565         585        495       84,6
+ oddíl 52 - Civilní připravenost na krizové stavy                                      85          95    111,8         79          79         63       79,7
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS                                                     423     1 886      445,9        486         506        432       85,4
+Skupina 6 - Všeobecná veřejná správa a služby                                   20 591       21 313      103,5     21 287      23 279    21 885        94,0
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                 19 146       20 874      109,0     20 914      22 542    21 502        95,4
+ oddíl 62 - Jiné veřejné služby a činnosti
+ oddíl 63 - Finanční operace                                                      1 445           439     30,4        373         367        383      104,5
+ oddíl 64 - Ostatní činnosti                                                                                                      370
+
+Výdaje skupiny 1 až 6 celkem                                                    37 160       42 593      114,6     42 917      66 683    53 072        79,6
+
+
+Analytické údaje
+ Počet obyvatel                                                                   5 671       5 744      101,3                             5 792
+ Počet žáků základních a mateřských škol                                              532         566    106,4                               581
+ Počet pracovníků úřadu MČ                                                             21          21    100,0                                20
+ Počet obyvatel na jednoho pracovníka úřadu                                           270         274    101,3                               290
+ Správní výdaje na jednoho obyvatele (v Kč)                                       3 376       3 634      107,6       3 611      3 892      3 712       95,4
+ Celkové výdaje školství na jednoho žáka (v Kč)                                   9 987      15 825      158,5     11 017      16 373    15 070        92,0
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                                  9 192       8 802       95,8       9 967     11 423    11 079        97,0
+          kapitálové výdaje školství na 1 žáka (v Kč)                                 795     7 023      883,3       1 050      4 950      3 991       80,6
+
+
+
+
+                                                                             - 19 -
+
+
+
+                                                                                                                                        Strana 22 / 34
+                                  Výdaje městské části Brno - Vinohrady
+                                                                                                                                                   v tis. Kč
+
+
+                                                                                                                 Schválený Upravený
+                                                                              Rok           Rok          %                          Skutečnost        %
+ Skupina, v tom oddíl                                                                                             rozpočet rozpočet
+                                                                              2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                             3 069       8 941      291,3       7 900      8 600      7 858       91,4
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                               3 069       8 941      291,3       7 900      8 600      7 858       91,4
+ oddíl 23 - Vodní hospodářství
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                             26 379       50 910      193,0     30 745      34 147    31 050        90,9
+ oddíl 31 a 32 - Vzdělávání a školské služby                                    10 028       32 683      325,9       9 555     11 263    11 161        99,1
+                   z toho kapitálové výdaje                                       2 560      24 729      966,0                    400        366       91,5
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                3 535       3 703      104,8       4 193      4 328      3 972       91,8
+ oddíl 34 - Sport a zájmová činnost                                                   916     1 084      118,3       1 987      4 587      4 232       92,3
+ oddíl 35 - Zdravotnictví
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                             6 863       8 492      123,7       9 440      7 168      6 105       85,2
+ oddíl 37 - Ochrana životního prostředí                                           5 037       4 948       98,2       5 570      6 801      5 580       82,0
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo
+Skupina 4 - Sociální věci a politika zaměstnanosti                                1 853       1 749       94,4        155       1 868      1 889      101,1
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.        1 853       1 749       94,4        155       1 868      1 889      101,1
+Skupina 5 - Bezpečnost státu a právní ochrana                                     1 409           315     22,4        395         395         58       14,7
+ oddíl 52 - Civilní připravenost na krizové stavy                                     464         310     66,8        345         345         58       16,8
+ oddíl 53 - Bezpečnost a veřejný pořádek                                              945           5      0,5         50          50
+ oddíl 55 - Požární ochrana a IZS
+Skupina 6 - Všeobecná veřejná správa a služby                                   29 897       27 614       92,4     30 950      30 523    29 453        96,5
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                 25 015       25 031      100,1     27 200      27 928    26 892        96,3
+ oddíl 62 - Jiné veřejné služby a činnosti                                                                             15          35         20       57,1
+ oddíl 63 - Finanční operace                                                      4 014       2 583       64,3       3 735      2 560      2 541       99,3
+ oddíl 64 - Ostatní činnosti                                                          868
+
+Výdaje skupiny 1 až 6 celkem                                                    62 607       89 529      143,0     70 145      75 533    70 308        93,1
+
+
+Analytické údaje
+ Počet obyvatel                                                                 12 591       12 494       99,2                           12 376
+ Počet žáků základních a mateřských škol                                              736         736    100,0                               831
+ Počet pracovníků úřadu MČ                                                             36          36    100,0                                38
+ Počet obyvatel na jednoho pracovníka úřadu                                           350         347     99,2                               326
+ Správní výdaje na jednoho obyvatele (v Kč)                                       1 987       2 003      100,8       2 198      2 257      2 173       96,3
+ Celkové výdaje školství na jednoho žáka (v Kč)                                 13 625       44 406      325,9     11 498      13 553    13 430        99,1
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                                10 147       10 807      106,5     11 498      13 072    12 990        99,4
+          kapitálové výdaje školství na 1 žáka (v Kč)                             3 478      33 599      966,0                    481        440       91,5
+
+
+
+
+                                                                             - 20 -
+
+
+
+                                                                                                                                        Strana 23 / 34
+                                        Výdaje městské části Brno - Líšeň
+                                                                                                                                                   v tis. Kč
+
+
+                                                                                                                 Schválený Upravený
+                                                                              Rok           Rok          %                          Skutečnost        %
+ Skupina, v tom oddíl                                                                                             rozpočet rozpočet
+                                                                              2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství                                             9                  25          25          3       12,0
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství                                             9                  25          25          3       12,0
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                           12 990       14 622      112,6     38 049      30 109    27 991        93,0
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby                                    23           18     78,3       2 080        380        148       38,9
+ oddíl 22 - Doprava                                                             12 967       14 604      112,6     34 469      27 479    25 750        93,7
+ oddíl 23 - Vodní hospodářství                                                                                       1 500      2 250      2 093       93,0
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                            198 049      183 420       92,6    252 690     235 868   218 916        92,8
+ oddíl 31 a 32 - Vzdělávání a školské služby                                    40 223       39 824       99,0     45 030      54 186    53 259        98,3
+                   z toho kapitálové výdaje                                       2 981       6 642      222,8       8 950      7 622      7 098       93,1
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                5 072       5 110      100,7       5 909      7 926      7 780       98,2
+ oddíl 34 - Sport a zájmová činnost                                               4 124       2 759       66,9       4 850     12 645    12 182        96,3
+ oddíl 35 - Zdravotnictví                                                       13 425        6 617       49,3     19 284      19 126    16 792        87,8
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                          123 766      116 043       93,8    153 840     124 017   113 528        91,5
+ oddíl 37 - Ochrana životního prostředí                                         11 439       13 067      114,2     23 777      17 968    15 375        85,6
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo
+Skupina 4 - Sociální věci a politika zaměstnanosti                                4 238       3 907       92,2        503       3 611      4 169      115,5
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.        4 238       3 907       92,2        503       3 611      4 169      115,5
+Skupina 5 - Bezpečnost státu a právní ochrana                                         161         540    335,4        650         250        137       54,8
+ oddíl 52 - Civilní připravenost na krizové stavy                                                 400                  50          50
+ oddíl 53 - Bezpečnost a veřejný pořádek                                               9            4     44,4        420          20
+ oddíl 55 - Požární ochrana a IZS                                                     152         136     89,5        180         180        137       76,1
+Skupina 6 - Všeobecná veřejná správa a služby                                   52 805       61 807      117,0     57 110      76 892    68 248        88,8
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                 41 319       45 307      109,7     53 690      57 974    49 744        85,8
+ oddíl 62 - Jiné veřejné služby a činnosti                                                                                        220        200       90,9
+ oddíl 63 - Finanční operace                                                    11 486       16 500      143,7       2 800     18 642    18 304        98,2
+ oddíl 64 - Ostatní činnosti                                                                                          620          56
+
+Výdaje skupiny 1 až 6 celkem                                                   268 243      264 305       98,5    349 027     346 755   319 464        92,1
+
+
+Analytické údaje
+ Počet obyvatel                                                                 26 655       26 687      100,1                           26 713
+ Počet žáků základních a mateřských škol                                          3 592       3 620      100,8                             3 565
+ Počet pracovníků úřadu MČ                                                             49          54    110,2                                53
+ Počet obyvatel na jednoho pracovníka úřadu                                           544         494     90,8                               504
+ Správní výdaje na jednoho obyvatele (v Kč)                                       1 550       1 698      109,5       2 010      2 170      1 862       85,8
+ Celkové výdaje školství na jednoho žáka (v Kč)                                 11 198       11 001       98,2     12 632      15 199    14 939        98,3
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                                10 368        9 166       88,4     10 121      13 061    12 948        99,1
+          kapitálové výdaje školství na 1 žáka (v Kč)                                 830     1 835      221,1       2 511      2 138      1 991       93,1
+
+
+
+
+                                                                             - 21 -
+
+
+
+                                                                                                                                        Strana 24 / 34
+                                       Výdaje městské části Brno - Slatina
+                                                                                                                                                   v tis. Kč
+
+
+                                                                                                                 Schválený Upravený
+                                                                              Rok           Rok          %                          Skutečnost        %
+ Skupina, v tom oddíl                                                                                             rozpočet rozpočet
+                                                                              2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                             1 470       1 285       87,4       3 745      4 927      3 856       78,3
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby                                                 80
+ oddíl 22 - Doprava                                                               1 470       1 205       82,0       3 745      4 927      3 856       78,3
+ oddíl 23 - Vodní hospodářství
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                             46 049       37 968       82,5     46 181     121 407   104 247        85,9
+ oddíl 31 a 32 - Vzdělávání a školské služby                                    16 421       19 626      119,5     19 539      23 551    23 424        99,5
+                   z toho kapitálové výdaje                                                   8 690                  7 042      7 933      7 932      100,0
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                    941     1 044      110,9       1 544      1 927      1 635       84,8
+ oddíl 34 - Sport a zájmová činnost                                               7 972           704      8,8       7 372      8 961      8 772       97,9
+ oddíl 35 - Zdravotnictví
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                           18 773       14 469       77,1     15 591      73 904    59 193        80,1
+ oddíl 37 - Ochrana životního prostředí                                           1 942       2 125      109,4       2 135     13 049    11 208        85,9
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo                                                                 15         15      100,0
+Skupina 4 - Sociální věci a politika zaměstnanosti                                1 053       1 907      181,1         86       1 958      1 914       97,8
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.        1 053       1 907      181,1         86       1 958      1 914       97,8
+Skupina 5 - Bezpečnost státu a právní ochrana                                   14 302            790      5,5        670       1 265      1 215       96,0
+ oddíl 52 - Civilní připravenost na krizové stavy                                      68          68    100,0         50          50
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS                                               14 234            722      5,1        620       1 215      1 215      100,0
+Skupina 6 - Všeobecná veřejná správa a služby                                   23 763       24 187      101,8     25 991      29 851    25 804        86,4
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                 22 108       23 561      106,6     25 397      29 173    24 972        85,6
+ oddíl 62 - Jiné veřejné služby a činnosti                                                                                         32         32      100,0
+ oddíl 63 - Finanční operace                                                      1 655           626     37,8        594         646        800      123,8
+ oddíl 64 - Ostatní činnosti
+
+
+Výdaje skupiny 1 až 6 celkem                                                    86 637       66 138       76,3     76 673     159 408   137 037        86,0
+
+
+Analytické údaje
+ Počet obyvatel                                                                 10 508       10 564      100,5                           10 637
+ Počet žáků základních a mateřských škol                                          1 227       1 225       99,8                             1 235
+ Počet pracovníků úřadu MČ                                                             28          27     96,4                                26
+ Počet obyvatel na jednoho pracovníka úřadu                                           375         391    104,3                               409
+ Správní výdaje na jednoho obyvatele (v Kč)                                       2 104       2 230      106,0       2 388      2 743      2 348       85,6
+ Celkové výdaje školství na jednoho žáka (v Kč)                                 13 383       16 021      119,7     15 821      19 069    18 967        99,5
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                                13 383        8 927       66,7     10 119      12 646    12 544        99,2
+          kapitálové výdaje školství na 1 žáka (v Kč)                                         7 094                  5 702      6 423      6 423      100,0
+
+
+
+
+                                                                             - 22 -
+
+
+
+                                                                                                                                        Strana 25 / 34
+                                      Výdaje městské části Brno - Tuřany
+                                                                                                                                                  v tis. Kč
+
+
+                                                                                                                Schválený Upravený
+                                                                              Rok          Rok          %                          Skutečnost        %
+ Skupina, v tom oddíl                                                                                            rozpočet rozpočet
+                                                                             2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství                              22           22    100,0         28          28         24       85,7
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství                              22           22    100,0         28          28         24       85,7
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                            8 875       3 651       41,1       8 378     18 338      6 115       33,3
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                              8 558       3 502       40,9       8 358     18 318      6 115       33,4
+ oddíl 23 - Vodní hospodářství                                                       317         149     47,0         20          20
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                             30 410      35 152      115,6     53 769      58 245    37 870        65,0
+ oddíl 31 a 32 - Vzdělávání a školské služby                                    14 851      12 329       83,0     17 861      19 736    18 283        92,6
+                   z toho kapitálové výdaje                                      6 872       4 936       71,8       9 410      9 810      8 821       89,9
+ oddíl 33 - Kultura, církve a sdělovací prostředky                               3 935       1 083       27,5       1 642      2 710      1 298       47,9
+ oddíl 34 - Sport a zájmová činnost                                              1 780      13 552      761,3       4 897      6 777      4 305       63,5
+ oddíl 35 - Zdravotnictví
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                            3 536       3 345       94,6     10 271       7 574      5 219       68,9
+ oddíl 37 - Ochrana životního prostředí                                          6 308       4 843       76,8     19 098      21 448      8 765       40,9
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo
+Skupina 4 - Sociální věci a politika zaměstnanosti                                   814         835    102,6         20         884        842       95,2
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.           814         835    102,6         20         884        842       95,2
+Skupina 5 - Bezpečnost státu a právní ochrana                                    4 701           589     12,5       1 078      1 438        989       68,8
+ oddíl 52 - Civilní připravenost na krizové stavy                                     26          45    173,1         43          43         34       79,1
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS                                                4 675           544     11,6       1 035      1 395        955       68,5
+Skupina 6 - Všeobecná veřejná správa a služby                                   16 523      14 445       87,4     20 060      23 845    21 349        89,5
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                 14 618      13 655       93,4     19 985      23 027    20 534        89,2
+ oddíl 62 - Jiné veřejné služby a činnosti
+ oddíl 63 - Finanční operace                                                     1 905           790     41,5         75         818        815       99,6
+ oddíl 64 - Ostatní činnosti
+
+
+Výdaje skupiny 1 až 6 celkem                                                    61 345      54 694       89,2     83 333     102 778    67 189        65,4
+
+
+Analytické údaje
+ Počet obyvatel                                                                  5 618       5 635      100,3                             5 617
+ Počet žáků základních a mateřských škol                                             716         732    102,2                               712
+ Počet pracovníků úřadu MČ                                                            19          18     94,7                                19
+ Počet obyvatel na jednoho pracovníka úřadu                                          296         313    105,9                               296
+ Správní výdaje na jednoho obyvatele (v Kč)                                      2 602       2 423       93,1       3 558      4 100      3 656       89,2
+ Celkové výdaje školství na jednoho žáka (v Kč)                                 20 742      16 843       81,2     25 085      27 719    25 678        92,6
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                                11 144      10 100       90,6     11 869      13 941    13 289        95,3
+          kapitálové výdaje školství na 1 žáka (v Kč)                            9 598       6 743       70,3     13 216      13 778    12 389        89,9
+
+
+
+
+                                                                             - 23-
+
+
+
+                                                                                                                                       Strana 26 / 34
+                                         Výdaje městské části Brno - Chrlice
+                                                                                                                                                             v tis. Kč
+
+
+                                                                                                                Schválený       Upravený
+                                                                             Rok           Rok          %                                       Skutečnost       %
+ Skupina, v tom oddíl                                                                                            rozpočet       rozpočet
+                                                                             2020          2021        21/20                    rok 2022                      Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                          4 909        11 190      227,9       10 999          19 680           6 092         31,0
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                            4 366        10 832      248,1        9 472          18 253           5 871         32,2
+ oddíl 23 - Vodní hospodářství                                                     543           358     65,9        1 527           1 427             221         15,5
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                           19 008         7 689       40,5       21 677          24 137          16 059         66,5
+ oddíl 31 a 32 - Vzdělávání a školské služby                                  16 669         5 654       33,9       16 675          12 715           9 308         73,2
+                   z toho kapitálové výdaje                                    9 164         2 392       26,1       12 700           8 075           5 351         66,3
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                 468           313     66,9          816           1 057             607         57,4
+ oddíl 34 - Sport a zájmová činnost                                                971       1 077      110,9        3 260           6 029           4 449         73,8
+ oddíl 35 - Zdravotnictví                                                                                                   3              3
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                              293            69     23,5           30           3 230             926         28,7
+ oddíl 37 - Ochrana životního prostředí                                            607           576     94,9          893           1 103             769         69,7
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo
+Skupina 4 - Sociální věci a politika zaměstnanosti                             1 022         1 169      114,4                        1 246           1 246       100,0
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.     1 022         1 169      114,4                        1 246           1 246       100,0
+Skupina 5 - Bezpečnost státu a právní ochrana                                      566           636    112,4        1 588           2 648           2 383         90,0
+ oddíl 52 - Civilní připravenost na krizové stavy                                      4          34    850,0           35                 45            7         15,6
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS                                                  562           602    107,1        1 553           2 603           2 376         91,3
+Skupina 6 - Všeobecná veřejná správa a služby                                 11 534        13 248      114,9       14 699          17 195          14 532         84,5
+ oddíl 61 - Státní správa a územní samospráva a politic. strany               10 942        12 753      116,6       14 471          16 562          13 932         84,1
+ oddíl 62 - Jiné veřejné služby a činnosti                                                                                             150             120         80,0
+ oddíl 63 - Finanční operace                                                       579           495     85,5          228             483             480         99,5
+ oddíl 64 - Ostatní činnosti                                                        13
+
+Výdaje skupiny 1 až 6 celkem                                                  37 039        33 931       91,6       48 963          64 906          40 311         62,1
+
+
+Analytické údaje
+ Počet obyvatel                                                                3 473         3 466       99,8                                        3 475
+ Počet žáků základních a mateřských škol                                           619           631    101,9                                          629
+ Počet pracovníků úřadu MČ                                                          15            16    106,7                                           16
+ Počet obyvatel na jednoho pracovníka úřadu                                        232           217     93,6                                          217
+ Správní výdaje na jednoho obyvatele (v Kč)                                    3 151         3 679      116,8        4 164           4 766           4 009         84,1
+ Celkové výdaje školství na jednoho žáka (v Kč)                               26 929         8 960       33,3       26 511          20 215          14 798         73,2
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                              12 124         5 170       42,6        6 320           7 377           6 291         85,3
+           kapitálové výdaje školství na 1 žáka (v Kč)                        14 805         3 791       25,6       20 191          12 838           8 507         66,3
+
+
+
+
+                                                                              - 24 -
+
+
+
+                                                                                                                                                  Strana 27 / 34
+                                    Výdaje městské části Brno - Bosonohy
+                                                                                                                                                   v tis. Kč
+
+
+                                                                                                                 Schválený Upravený
+                                                                              Rok           Rok          %                          Skutečnost        %
+ Skupina, v tom oddíl                                                                                             rozpočet rozpočet
+                                                                              2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství                                28          20     71,4         34          34         20       58,8
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství                                28          20     71,4         34          34         20       58,8
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                             1 301       2 182      167,7       7 634      7 881      1 322       16,8
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                               1 155       2 041      176,7       7 109      7 349      1 185       16,1
+ oddíl 23 - Vodní hospodářství                                                        146         141     96,6        525         532        137       25,8
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                               8 197       6 805       83,0       7 332      8 041      6 205       77,2
+ oddíl 31 a 32 - Vzdělávání a školské služby                                      2 741       2 641       96,4       3 500      3 760      3 701       98,4
+                   z toho kapitálové výdaje                                                                           200         200        200      100,0
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                    626     1 435      229,2        856         983        789       80,3
+ oddíl 34 - Sport a zájmová činnost                                               2 323           429     18,5        870         870        620       71,3
+ oddíl 35 - Zdravotnictví
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                             1 939       1 814       93,6        848         990        659       66,6
+ oddíl 37 - Ochrana životního prostředí                                               568         481     84,7       1 208      1 388        386       27,8
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo                                  5                  50          50         50      100,0
+Skupina 4 - Sociální věci a politika zaměstnanosti                                     10          10    100,0         20          20         20      100,0
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.             10          10    100,0         20          20         20      100,0
+Skupina 5 - Bezpečnost státu a právní ochrana                                          64         148    231,3         70          70         70      100,0
+ oddíl 52 - Civilní připravenost na krizové stavy                                                  60
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS                                                      64          88    137,5         70          70         70      100,0
+Skupina 6 - Všeobecná veřejná správa a služby                                   10 701       10 696      100,0     12 899      15 095    11 712        77,6
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                   9 835       9 955      101,2     12 103      12 635    10 934        86,5
+ oddíl 62 - Jiné veřejné služby a činnosti                                             84                              50          50         48       96,0
+ oddíl 63 - Finanční operace                                                          782         741     94,8        746         726        730      100,5
+ oddíl 64 - Ostatní činnosti                                                                                                    1 684
+
+Výdaje skupiny 1 až 6 celkem                                                    20 301       19 862       97,8     27 989      31 141    19 350        62,1
+
+
+Analytické údaje
+ Počet obyvatel                                                                   2 553       2 541       99,5                             2 583
+ Počet žáků základních a mateřských škol                                              208         201     96,6                               193
+ Počet pracovníků úřadu MČ                                                              9           9    100,0                                 9
+ Počet obyvatel na jednoho pracovníka úřadu                                           284         282     99,5                               287
+ Správní výdaje na jednoho obyvatele (v Kč)                                       3 852       3 918      101,7       4 686      4 892      4 233       86,5
+ Celkové výdaje školství na jednoho žáka (v Kč)                                 13 178       13 139       99,7     18 134      19 482    19 176        98,4
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                                13 178       13 139       99,7     17 098      18 446    18 140        98,3
+          kapitálové výdaje školství na 1 žáka (v Kč)                                                                1 036      1 036      1 036      100,0
+
+
+
+
+                                                                             - 25 -
+
+
+
+                                                                                                                                        Strana 28 / 34
+                                       Výdaje městské části Brno - Žebětín
+                                                                                                                                                    v tis. Kč
+
+
+                                                                                                                   Schválený Upravený
+                                                                             Rok            Rok          %                            Skutečnost       %
+ Skupina, v tom oddíl                                                                                               rozpočet rozpočet
+                                                                             2020           2021        21/20                 rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství                                            10                    12         12
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství                                            10                    12         12
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                            4 769        2 022       42,4        5 663      7 670     4 212        54,9
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                              3 817        1 987       52,1        5 288      7 425     4 199        56,6
+ oddíl 23 - Vodní hospodářství                                                        952          35        3,7        375        245         13         5,3
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                            18 680        35 281      188,9       14 712     19 897    17 298        86,9
+ oddíl 31 a 32 - Vzdělávání a školské služby                                   17 334        33 199      191,5       11 914     16 713    15 070        90,2
+                   z toho kapitálové výdaje                                      7 982       24 780      310,4        3 100      5 987     4 855        81,1
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                    525         651    124,0        1 074      1 127       784        69,6
+ oddíl 34 - Sport a zájmová činnost                                                   482         910    188,8          835        915       822        89,8
+ oddíl 35 - Zdravotnictví                                                               5          10    200,0           10         10         10     100,0
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                                  37          50    135,1           82         82         45       54,9
+ oddíl 37 - Ochrana životního prostředí                                               287         447    155,7          797      1 047       564        53,9
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo                     10          14    140,0                       3          3     100,0
+Skupina 4 - Sociální věci a politika zaměstnanosti                                    640         636     99,4           23        678       666        98,2
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.            640         636     99,4           23        678       666        98,2
+Skupina 5 - Bezpečnost státu a právní ochrana                                         581     4 462      768,0        1 800      2 973     2 724        91,6
+ oddíl 52 - Civilní připravenost na krizové stavy                                                 141                    66         66         20       30,3
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS                                                     581     4 321      743,7        1 734      2 907     2 704        93,0
+Skupina 6 - Všeobecná veřejná správa a služby                                  15 303        17 944      117,3       18 172     19 667    16 270        82,7
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                14 887        15 544      104,4       18 154     19 319    15 927        82,4
+ oddíl 62 - Jiné veřejné služby a činnosti                                                                                          33         33     100,0
+ oddíl 63 - Finanční operace                                                          416     2 400      576,9           18        315       310        98,3
+ oddíl 64 - Ostatní činnosti
+
+
+Výdaje skupiny 1 až 6 celkem                                                   39 973        60 355      151,0       40 382     50 897    41 170        80,9
+
+
+Analytické údaje
+ Počet obyvatel                                                                  4 862        5 089      104,7                             5 387
+ Počet žáků základních a mateřských škol                                              499         569    114,0                               698
+ Počet pracovníků úřadu MČ                                                             19          20    105,3                                 20
+ Počet obyvatel na jednoho pracovníka úřadu                                           256         254     99,4                               269
+ Správní výdaje na jednoho obyvatele (v Kč)                                      3 062        3 054       99,8        3 370      3 586     2 957        82,4
+ Celkové výdaje školství na jednoho žáka (v Kč)                                34 737        58 346      168,0       17 069     23 944    21 591        90,2
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                               18 741        14 796       78,9       12 628     15 367    14 635        95,2
+          kapitálové výdaje školství na 1 žáka (v Kč)                          15 996        43 550      272,3        4 441      8 577     6 956        81,1
+
+
+
+
+                                                                             - 26 -
+
+
+
+                                                                                                                                         Strana 29 / 34
+                                    Výdaje městské části Brno - Ivanovice
+                                                                                                                                                   v tis. Kč
+
+
+                                                                                                                 Schválený Upravený
+                                                                              Rok           Rok          %                          Skutečnost        %
+ Skupina, v tom oddíl                                                                                             rozpočet rozpočet
+                                                                              2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                                 902         528     58,5       1 007      2 144      1 010       47,1
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                                   902         528     58,5       1 007      2 144      1 010       47,1
+ oddíl 23 - Vodní hospodářství
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                               8 472       6 388       75,4       3 612      5 302      4 660       87,9
+ oddíl 31 a 32 - Vzdělávání a školské služby                                      1 690           856     50,7       1 420      1 588      1 575       99,2
+                   z toho kapitálové výdaje                                           829                             250         315       315       100,0
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                    284         363    127,8        440         494       435        88,1
+ oddíl 34 - Sport a zájmová činnost                                               6 283       4 620       73,5        507         612       508        83,0
+ oddíl 35 - Zdravotnictví
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj
+ oddíl 37 - Ochrana životního prostředí                                               215         549    255,3       1 245      2 608      2 142       82,1
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo
+Skupina 4 - Sociální věci a politika zaměstnanosti
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.
+Skupina 5 - Bezpečnost státu a právní ochrana
+ oddíl 52 - Civilní připravenost na krizové stavy
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS
+Skupina 6 - Všeobecná veřejná správa a služby                                     5 806       4 772       82,2       6 168      6 463      5 424       83,9
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                   5 666       4 639       81,9       5 974      6 082      5 193       85,4
+ oddíl 62 - Jiné veřejné služby a činnosti                                                                                         50         50      100,0
+ oddíl 63 - Finanční operace                                                          140         133     95,0        194         331       181        54,6
+ oddíl 64 - Ostatní činnosti
+
+
+Výdaje skupiny 1 až 6 celkem                                                    15 180       11 688       77,0     10 787      13 909    11 094        79,8
+
+
+Analytické údaje
+ Počet obyvatel                                                                   1 826       1 827      100,1                             1 863
+ Počet žáků základních a mateřských škol                                               81          79     97,5                                81
+ Počet pracovníků úřadu MČ                                                              7           6     85,7                                 6
+ Počet obyvatel na jednoho pracovníka úřadu                                           261         305    116,7                              311
+ Správní výdaje na jednoho obyvatele (v Kč)                                       3 103       2 539       81,8       3 207      3 265      2 787       85,4
+ Celkové výdaje školství na jednoho žáka (v Kč)                                 20 864       10 835       51,9     17 530      19 605    19 445        99,2
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                                10 630       10 835      101,9     14 444      15 716    15 556        99,0
+          kapitálové výdaje školství na 1 žáka (v Kč)                           10 235                               3 086      3 889      3 889      100,0
+
+
+
+
+                                                                             - 27 -
+
+
+
+                                                                                                                                        Strana 30 / 34
+                                      Výdaje městské části Brno - Jehnice
+                                                                                                                                                    v tis. Kč
+
+
+                                                                                                                  Schválený Upravený
+                                                                              Rok           Rok          %                           Skutečnost        %
+ Skupina, v tom oddíl                                                                                              rozpočet rozpočet
+                                                                              2020          2021        21/20                 rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                             2 450           712     29,1        1 032      1 519      1 305       85,9
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                               2 420           682     28,2         995       1 482      1 272       85,8
+ oddíl 23 - Vodní hospodářství                                                        30           30    100,0          37          37         33       89,2
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                               3 888       9 603      247,0        4 331      5 485      5 292       96,5
+ oddíl 31 a 32 - Vzdělávání a školské služby                                      2 975       8 569      288,0        3 154      3 607      3 607      100,0
+                   z toho kapitálové výdaje                                           558     6 443 1 154,7            950       1 034      1 033       99,9
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                    392         330     84,2         595         988        979       99,1
+ oddíl 34 - Sport a zájmová činnost                                                   199         162     81,4         211         211        182       86,3
+ oddíl 35 - Zdravotnictví                                                                          10
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                                              90
+ oddíl 37 - Ochrana životního prostředí                                               322         442    137,3         371         679        524       77,2
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo
+Skupina 4 - Sociální věci a politika zaměstnanosti                                     15          46    306,7          20          20         10       50,0
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.             15          46    306,7          20          20         10       50,0
+Skupina 5 - Bezpečnost státu a právní ochrana                                          60     1 050 1 750,0             63       1 860        775       41,7
+ oddíl 52 - Civilní připravenost na krizové stavy                                      28           4     14,3                       7          7      100,0
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS                                                      32     1 046 3 268,8             63       1 853        768       41,4
+Skupina 6 - Všeobecná veřejná správa a služby                                     4 249       4 333      102,0        5 054      4 854      4 609       95,0
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                   4 047       4 108      101,5        4 977      4 682      4 458       95,2
+ oddíl 62 - Jiné veřejné služby a činnosti                                                                                          16         16      100,0
+ oddíl 63 - Finanční operace                                                          112         135     120,5          5          84         83       99,3
+ oddíl 64 - Ostatní činnosti                                                          90           90    100,0          72          72         52       72,2
+
+Výdaje skupiny 1 až 6 celkem                                                    10 662       15 743      147,7      10 500      13 738    11 990        87,3
+
+
+Analytické údaje
+ Počet obyvatel                                                                   1 071       1 080      100,8                              1 067
+ Počet žáků základních a mateřských škol                                              174         171     98,3                                172
+ Počet pracovníků úřadu MČ                                                              3           3    100,0                                  2
+ Počet obyvatel na jednoho pracovníka úřadu                                           357         360    100,8                                534
+ Správní výdaje na jednoho obyvatele (v Kč)                                       3 779       3 804      100,7        4 664      4 388      4 178       95,2
+ Celkové výdaje školství na jednoho žáka (v Kč)                                 17 098       50 111      293,1      18 337      20 971    20 971       100,0
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                                13 891       12 433       89,5      12 814      14 959    14 965       100,0
+          kapitálové výdaje školství na 1 žáka (v Kč)                             3 207      37 678 1 174,9           5 523      6 012      6 006       99,9
+
+
+
+
+                                                                             - 28 -
+
+
+
+                                                                                                                                         Strana 31 / 34
+                                        Výdaje městské části Brno - Ořešín
+                                                                                                                                                     v tis. Kč
+
+
+                                                                                                                 Schválený Upravený
+                                                                             Rok            Rok          %                             Skutečnost       %
+ Skupina, v tom oddíl                                                                                             rozpočet rozpočet
+                                                                             2020           2021        21/20               rok 2022                 Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                            1 038            752     72,4      1 150     4 328           586         13,5
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                              1 038            752     72,4      1 150     1 997           461         23,1
+ oddíl 23 - Vodní hospodářství                                                                                                2 331           125          5,4
+ oddíl 24 - Spoje
+Skupina 3 - Služby pro obyvatelstvo                                              3 276        1 811       55,3      2 008     1 716         1 407         82,0
+ oddíl 31 a 32 - Vzdělávání a školské služby                                          267         252     94,4        291       511           507         99,2
+                   z toho kapitálové výdaje
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                     66         275    416,7        308       386           246         63,7
+ oddíl 34 - Sport a zájmová činnost                                                   782         107     13,7        224       236           145         61,4
+ oddíl 35 - Zdravotnictví
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                                 348         375    107,8         15        81             81      100,0
+ oddíl 37 - Ochrana životního prostředí                                          1 813            802     44,2      1 170       502           428         85,3
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo
+Skupina 4 - Sociální věci a politika zaměstnanosti
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.
+Skupina 5 - Bezpečnost státu a právní ochrana                                         178         351    197,2        252       312           285         91,3
+ oddíl 52 - Civilní připravenost na krizové stavy                                                                       2         2
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS                                                     178         351    197,2        250       310           285         91,9
+Skupina 6 - Všeobecná veřejná správa a služby                                    3 615        4 638      128,3      4 275     7 315         7 021         96,0
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                  3 519        4 552      129,4      4 202     4 408         4 115         93,4
+ oddíl 62 - Jiné veřejné služby a činnosti                                                                                       42             42      100,0
+ oddíl 63 - Finanční operace                                                           96          86     89,6         73        89             88        98,5
+ oddíl 64 - Ostatní činnosti                                                                                                  2 776         2 776       100,0
+
+Výdaje skupiny 1 až 6 celkem                                                     8 107        7 551       93,1      7 685    13 671         9 298         68,0
+
+
+Analytické údaje
+ Počet obyvatel                                                                       578         590    102,1                                590
+ Počet žáků základních a mateřských škol                                               25          23     92,0                                  25
+ Počet pracovníků úřadu MČ                                                              5           5    100,0                                   4
+ Počet obyvatel na jednoho pracovníka úřadu                                           116         118    102,1                                148
+ Správní výdaje na jednoho obyvatele (v Kč)                                      6 088        7 715      126,7      7 122     7 471         6 975         93,4
+ Celkové výdaje školství na jednoho žáka (v Kč)                                10 680        10 957      102,6     11 640    20 440        20 280         99,2
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)                               10 680        10 957      102,6     11 640    20 440        20 280         99,2
+          kapitálové výdaje školství na 1 žáka (v Kč)
+
+
+
+
+                                                                             - 29 -
+
+
+
+                                                                                                                                         Strana 32 / 34
+                                     Výdaje městské části Brno - Útěchov
+                                                                                                                                                   v tis. Kč
+
+
+                                                                                                                 Schválený Upravený
+                                                                              Rok           Rok          %                          Skutečnost        %
+ Skupina, v tom oddíl                                                                                             rozpočet rozpočet
+                                                                              2020          2021        21/20                rok 2022              Sk/UR
+Skupina 1 - Zemědělství, lesní hospodářství a rybářství
+ oddíl 10 - Zemědělství, lesní hospodářství a rybářství
+Skupina 2 - Průmyslová a ostatní odvětví hospodářství                                 242         376    155,4        728       2 775        583       21,0
+ oddíl 21 - Průmysl, stavebnictví, obchod a služby
+ oddíl 22 - Doprava                                                                   192         368    191,7        715       2 637        551       20,9
+ oddíl 23 - Vodní hospodářství
+ oddíl 24 - Spoje                                                                      50          8      16,0         13         138         32       23,2
+Skupina 3 - Služby pro obyvatelstvo                                                   608         622    102,3        767       1 247        958       76,8
+ oddíl 31 a 32 - Vzdělávání a školské služby
+                   z toho kapitálové výdaje
+ oddíl 33 - Kultura, církve a sdělovací prostředky                                    76           75     98,7        140         155        140       90,3
+ oddíl 34 - Sport a zájmová činnost                                                   343         393    114,6        405         560        542       96,8
+ oddíl 35 - Zdravotnictví                                                                           3
+ oddíl 36 - Bydlení, komunální služby a územní rozvoj                                 61           46     75,4         62         372        150       40,3
+ oddíl 37 - Ochrana životního prostředí                                               128         105     82,0        160         160        126       78,8
+ oddíl 39 - Ost. činnosti související se službami pro obyvatelstvo
+Skupina 4 - Sociální věci a politika zaměstnanosti
+ oddíl 43 - Sociál. služby a pomoc v sociál. zabezpeč. a politice zaměstn.
+Skupina 5 - Bezpečnost státu a právní ochrana                                         178         173     97,2        172         576        224       38,9
+ oddíl 52 - Civilní připravenost na krizové stavy                                                   5
+ oddíl 53 - Bezpečnost a veřejný pořádek
+ oddíl 55 - Požární ochrana a IZS                                                     178         168     94,4        172         576        224       38,9
+Skupina 6 - Všeobecná veřejná správa a služby                                     2 432       2 380       97,9       2 639      3 100      2 522       81,4
+ oddíl 61 - Státní správa a územní samospráva a politic. strany                   2 301       2 239       97,3       2 630      2 691      2 321       86,3
+ oddíl 62 - Jiné veřejné služby a činnosti                                                                                         67         67      100,0
+ oddíl 63 - Finanční operace                                                          131         141    107,6          9         135        134       99,6
+ oddíl 64 - Ostatní činnosti                                                                                                      207
+
+Výdaje skupiny 1 až 6 celkem                                                      3 460       3 550      102,6       4 306      7 698      4 286       55,7
+
+
+Analytické údaje
+ Počet obyvatel                                                                       841         855    101,7                               851
+ Počet žáků základních a mateřských škol
+ Počet pracovníků úřadu MČ                                                              2           2    100,0                                 2
+ Počet obyvatel na jednoho pracovníka úřadu                                           421         428    101,7                               426
+ Správní výdaje na jednoho obyvatele (v Kč)                                       2 736       2 619       95,7       3 090      3 162      2 727       86,3
+ Celkové výdaje školství na jednoho žáka (v Kč)
+ Z toho : běžné výdaje školství na 1 žáka (v Kč)
+          kapitálové výdaje školství na 1 žáka (v Kč)
+
+
+
+
+                                                                             - 30 -
+
+
+
+                                                                                                                                        Strana 33 / 34
+        Běžné výdaje na výkon státní správy a samosprávy za rok 2022 v přepočtu
+                               na 1 obyvatele MČ (v Kč)
+
+6 000
+
+
+
+5 000
+
+
+
+4 000
+
+
+
+3 000     průměr MČ
+          2 381 Kč
+
+
+2 000
+
+
+
+1 000
+
+
+
+   0
+
+
+
+
+                                          - 31 -
+                                                                                  Strana 34 / 34
+

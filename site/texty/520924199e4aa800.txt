@@ -1,0 +1,246 @@
+Rada města Brna
+
+Z9/20. zasedání Zastupitelstva města Brna
+konané dne 15.10.2024
+
+
+
+       79. Projekt "Interoperabilita a eHealth Úrazové nemocnice v
+                     Brně" - návrh pověřovacího aktu
+
+Anotace
+Návrh pověřovacího aktu na projekt "Interoperabilita a eHealth Úrazové nemocnice v Brně ". Cílem
+projektu je splnění budoucí zákonné povinnosti v oblasti elektronizace zdravotnické dokumentace,
+standardů MZ ČR pro jejich sdílení, samotné sdílení na území ČR a EU dle standardů MZ ČR a NCPeH,
+zavedení identifikace subjektů dle zákona o elektronizaci zdravotnictví. Na projekt je možné získat
+dotaci v rámci 79. výzvy Integrovaného regionálního operačního programu 2021-2027. Předložení
+pověřovacího aktu je nezbytnou a povinnou přílohou k obdržení dotace v rámci Integrovaného
+operačního programu. Celkové náklady na projekt se předpokládají ve výši maximálně 34 370 851 Kč,
+předpoklad dotace je ve výši 23 800 000 Kč. Podíl financování Úrazové nemocnice v Brně je odhadován
+maximálně na částce 10 570 851 Kč. Nositelem projektu je příspěvková organizace Úrazová nemocnice v
+Brně.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   pověřovací akt ve vztahu k Úrazové nemocnicí v Brně v rámci projektu
+                               "Interoperabilita a eHealth Úrazové nemocnice v Brně ", předkládaného do
+                               Integrovaného regionálního operačního programu v programovém období
+                               2021–2027 v rámci 79. výzvy Integrovaného regionálního operačního programu v
+                               programovém období 2021–2027 – eHealth, který tvoří přílohu č…tohoto zápisu
+
+
+Stanoviska
+
+Materiál byl předložen Radě města Brna na schůzi č. R9/101. konané dne 9. 10. 2024 a stanovisko
+bude sděleno.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Ivan Hloušek
+  vedoucí odboru - Odbor implementace evropských fondů
+  8.10.2024 v 08:54
+  Garance správnosti, zákonnosti materiálu
+
+
+
+
+Sestava vytvořena 8.10.2024 v 12:32                        1/2                            Vygenerováno programem eMMB
+
+
+                                                                                                          Strana 1 / 7
+Spolupodepisovatel                     Spolupodepisovatel
+
+  Elektronicky podepsáno                    Elektronicky podepsáno
+
+  Mgr. Jiří Kučera                          JUDr. Eva Rabušicová
+  vedoucí úseku - 1. úsek                   vedoucí odboru - Odbor zdraví
+  8.10.2024 v 12:32                         8.10.2024 v 11:06
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  8.10.2024 v 09:58
+
+
+
+
+Sestava vytvořena 8.10.2024 v 12:32   2/2                                   Vygenerováno programem eMMB
+
+
+                                                                                            Strana 2 / 7
+                                   Obsah materiálu
+Návrh usnesení                                                         1-2
+Obsah materiálu                                                        3-3
+Důvodová zpráva                                                        4-5
+Příloha k usnesení (Z9_20 Projekt Interoperabilita a eHealth Úrazové   6-7
+nemocnice v Brně – POVĚŘOVACÍ AKT.pdf)
+
+
+
+
+                                                                        Strana 3 / 7
+                                         Důvodová zpráva
+
+Kolektivním orgánům je předkládán návrh pověřovacího aktu na projekt “Interoperabilita a eHealth
+Úrazové nemocnice v Brně“. Projekt bude podáván Úrazovou nemocnicí v Brně (dále také ÚNB)
+v rámci vyhlášené výzvy č. 79 z evropského investičního nástroje IROP 2021-2027 spojené s možností
+čerpání prostředků při podpoře zajištění splnění budoucí zákonné povinnosti v oblasti elektronizace
+zdravotnické dokumentace, standardů MZ ČR pro jejich sdílení, samotné sdílení na území ČR a EU dle
+standardů MZ ČR a NCPeH, zavedení identifikace subjektů dle zákona o elektronizaci zdravotnictví.
+
+Na projekt je možné získat dotaci v rámci Integrovaného regionálního operačního programu
+v programovém období 2021-2027, na základě vyhlášené výzvy č. 79 – eHealth, SC 1.1: Využívání
+přínosů digitalizace pro občany, podniky, výzkumné organizace a veřejné orgány, v rámci aktivity A)
+Elektronizace vybraných služeb veřejné správy – eHealth. O dotaci je možno žádat od 28.11.2023 a
+nejzazší datum ukončení příjmu žádostí je 28.11.2024. V souladu s bližšími parametry podpory
+zveřejněnými na stránkách MMR ČR jsou městské nemocnice oprávněnými žadateli.
+
+Cílem projektu je elektronizace a standardizace procesů ÚNB v oblasti poskytování zdravotních služeb,
+jako nutné podmínky pro výměnu a sdílení dat a zdravotnické dokumentace v rámci ÚNB a zajištění
+výměny, resp. sdílení zdravotnické dokumentace v rámci eHealth systémů a NCPeH, a implementace
+identifikátorů subjektů dle zákona o elektronizaci zdravotnictví. Konkrétně dojde v rámci realizace
+projektu k uskutečnění následujících aktivit:
+    ▪   Pořízení nových nebo úprava stávajících informačních systémů nebo jejich částí tak, aby došlo
+        ke zlepšení způsobu vedení zdravotnické dokumentace umožňující její interoperabilní výměnu,
+        sdílení, bezpečné uložení a interpretaci.
+    ▪   Implementaci datových rozhraní umožňující standardizovanou a interoperabilní výměnu
+        zdravotnické dokumentace mezi poskytovateli prostřednictví národním či regionální
+        infrastruktury propojené na infrastrukturu národní a evropskou (NCPeH).
+    ▪   Implementace datových rozhraní na služby elektronického zdravotnictví, registry nebo centrální
+        služby eGovernmentu.
+    ▪   Zajištění on-line přístupu oprávněným osobám ke zdravotnické dokumentaci prostřednictvím
+        standardních elektronických rozhraní, portálů, mobilních a webových aplikací.
+    ▪   Implementace identifikátorů subjektů dle zákona o elektronizaci zdravotnictví.
+
+Realizace projektu se předpokládá v rozmezí 1.6.2025 – 31.3.2027.
+
+Odhad investičních nákladů na realizaci výše uvedeného opatření budou činit 34 370 851 Kč, z toho
+28 000 000 Kč tvoří způsobilé výdaje a 6 370 851 Kč výdaje nezpůsobilé. Dotace se předpokládá ve
+výši 23 800 000 Kč, což je 85 % z celkových způsobilých výdajů definovaných ve výzvě.
+
+V případě získání dotace bude ÚNB žádat o finanční prostředky na předfinancování realizace projektu.
+
+
+Struktura výdajů projektu “ Interoperabilita a eHealth Úrazové nemocnice v Brně “ (včetně DPH)
+
+Celkové výdaje projektu                                             34 370 851 Kč         100 %
+Nezpůsobilé výdaje                                                   6 370 851 Kč          19 %
+Způsobilé výdaje                                                    28 000 000 Kč          81 %
+
+Výše dotace                                                         23 800 000 Kč          69 %
+Spolufinancování města Brna                                                   0 Kč         0%
+Podíl financování Úrazové nemocnice v Brně                          10 570 851 Kč          31 %
+
+
+
+
+                                                                                                  Strana 4 / 7
+Nositelem projektu v souladu s Metodikou implementace projektů (spolu)financovatelných
+z evropských fondů a národních programů (dále jen „metodika“) je Úrazová nemocnice v Brně.
+
+Město Brno pověřuje Úrazovou nemocnici v Brně výkonem specializovaných činností v rámci závazku
+veřejné služby, které jsou dotačním projektem podporované. Pověřovací akt je povinnou přílohou
+žádosti, kterou je třeba doložit ještě před vydáním rozhodnutí o poskytnutí dotace.
+
+
+Stanoviska dotčených orgánů:
+
+Materiál nepodléhá projednání v komisích RMB.
+Materiál byl předložen Radě města Brna na schůzi č. R9/101. konané dne 9. 10. 2024 a stanovisko
+bude sděleno.
+
+
+
+
+                                                                                            Strana 5 / 7
+                              POVĚŘOVACÍ AKT
+  Dle rozhodnutí Komise (2012/21/EU) o použití čl. 106 odst. 2 Smlouvy o fungování EU na
+   státní podporu ve formě vyrovnávací platby za závazek veřejné služby udělené určitým
+         podnikům pověřeným poskytováním služeb obecného hospodářského zájmu
+                                   (Rozhodnutí SGEI)
+
+
+Pověřovatel:
+Statutární město Brno, se sídlem Dominikánské nám. 196/1, 602 00 Brno, IČ: 44992785
+
+
+Poskytovatel služby obecného hospodářského zájmu:
+Úrazová nemocnice v Brně, se sídlem Ponávka 139/6, Zábrdovice, 602 00 Brno
+IČ: 00 209 813, DIČ: CZ00209813, zapsaná v Obchodním rejstříku u Krajského soudu v Brně,
+oddíl C, vložka č. 30683
+
+
+
+
+Pověřovatel Statutární město Brno, se sídlem Dominikánské nám. 196/1, 602 00 Brno,
+IČ: 44992785, pověřuje Úrazovou nemocnici v Brně, se sídlem Ponávka 139/6,
+Zábrdovice, 602 00 Brno, IČ: 00 209 813, vedenou v Obchodním rejstříku u Krajského
+soudu v Brně, oddíl C, vložka č. 30683, k poskytování služeb obecného hospodářského
+zájmu – poskytování zdravotních služeb v souladu s oprávněním k poskytování
+zdravotních služeb podle zákona č.372/2011 Sb., o zdravotních službách a podmínkách
+jejich poskytování (zákon o zdravotních službách, ve znění pozdějších předpisů), na
+období 15 let, počínaje rokem 2024
+
+Náplň a trvání závazku veřejné služby:
+
+Pověřovatel Statutární město Brno, se sídlem Dominikánské nám. 196/1, 602 00 Brno, IČ:
+44992785, je zřizovatelem Úrazové nemocnice v Brně, se sídlem Ponávka 139/6, Zábrdovice,
+602 00 Brno, IČ: 00 209 813, DIČ: CZ00209813, zapsané v Obchodním rejstříku u Krajského
+soudu v Brně, oddíl C, vložka č. 30683. Hlavním účelem organizace je poskytování
+zdravotních služeb.
+
+Vymezení hlavního účelu a tomu odpovídajícího předmětu činnosti:
+Úrazová nemocnice v Brně je poskytovatelem akutní lůžkové péče a je držitelem oprávnění
+k poskytování zdravotních služeb dle §9 odst. 2 písm. c) zákona č. 372/2011 Sb. o zdravotních
+službách a podmínkách jejich poskytování.
+
+Trvání závazku veřejné služby: 15 let
+
+Mechanismus a výpočet pro kontrolu a přezkoumání vyrovnávací platby:
+
+
+
+
+                                                                                         Strana 6 / 7
+Poskytovatel služby obecného hospodářského zájmu nepožaduje po Pověřovateli vyrovnávací
+platbu na období 15 let, počínaje rokem 2024, ve vztahu k projektu “Interoperabilita a eHealth
+Úrazové nemocnice v Brně“ předkládaného do Integrovaného regionálního operačního
+programu IROP 2021-2027, Specifický cíl 1.1., výzva č. 79 - eHealth.
+Mechanismus a výpočet pro kontrolu a přezkoumání vyrovnávací platby Poskytovatel služby
+obecného hospodářského zájmu k Pověřovacímu aktu nedokládá.
+
+Opatření k zamezení a vrácení jakékoliv nadměrné vyrovnávací platby:
+Pověřovatel není vázán vůči Poskytovateli služby obecného hospodářského zájmu k zasílání
+části vyrovnávací platby dle závazných ukazatelů na období 15 let, počínaje rokem 2024, ve
+vztahu k projektu “Interoperabilita a eHealth Úrazové nemocnice v Brně“ předkládaného do
+Integrovaného regionálního operačního programu IROP 2021-2027, Specifický cíl 1.1., výzva
+č. 79 - eHealth.
+
+Opatření k zamezení a vrácení jakékoliv nadměrné vyrovnávací platby se tak k Pověřovacímu
+aktu nedokládá.
+
+Tento Pověřovací akt je vyhotoven v souladu s Rozhodnutím Komise (2012/21/EU) o
+použití čl. 106 odst. 2 Smlouvy o fungování EU na státní podporu ve formě vyrovnávací
+platby za závazek veřejné služby udělené určitým podnikům pověřeným poskytováním
+služeb obecného hospodářského zájmu (Rozhodnutí SGEI).
+
+
+
+JUDr. Markéta Vaňková
+Primátorka města Brna
+
+
+
+
+                                                                                          Strana 7 / 7
+

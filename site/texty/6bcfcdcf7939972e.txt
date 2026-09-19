@@ -1,0 +1,54 @@
+                          SCHVÁLENÝ PLÁN NÁKLADŮ A VÝNOSŮ VEDLEJŠÍ HOSPODÁŘSKÉ ČINNOSTI MĚSTA BRNA - ÚČTU DPH - NA ROK 2022 (v tis. Kč)
+                                                                                                               NÁKLADY                                                   VÝNOSY
+                                                                                                Schválený     Očekávaná       Schválený      SR 2022      Schválený     Očekávaná       Schválený      SR 2022
+ORJ                                         Správce
+                                                                                              rozpočet 2021 skutečnost 2021 rozpočet 2022    SR 2021    rozpočet 2021 skutečnost 2021 rozpočet 2022    SR 2021
+3200   OVV - kopírování, prodej publikací                                                                 14             14             14        100,0             14              14            14       100,0
+3200   OVV - separace - železný šrot                                                                                                                                                50
+3200   OVV - rekreace - přefakturace                                                                                                                                                 5
+3900   AmB - prodej publikací                                                                                                                                       50              50            50      100,0
+4200   OŽP - separace odpadu                                                                         53 463          55 128         57 333        107,2          5 801           6 101         6 540      112,7
+4200   OŽP - pronájem nemovitých věcí společnosti SAKO Brno, a.s.                                                                                                  180             232
+4200   OŽP - SSO a sběrné dvory                                                                                                                                  1 000             700           700       70,0
+4200   OŽP - pronájem parkovacích ploch (VZmB, p.o.)                                                                                                                12              12            12      100,0
+4200   OŽP - kolektivní systémy zpětného odběru elektrozařízení                                                                                                    800             800           800      100,0
+4200   OŽP - prodej hrobových zařízení                                                                                                                             300             300           300      100,0
+4200   OŽP - zapojení do systému využitelných složek komunálních odpadů                                                                                            120             120           120      100,0
+4200   OŽP - umístění prodejních nevýherních automatů na brněnských hřbitovech (SHMB, p.o.)                                                                         12              16            17      141,7
+4300   OVLHZ - přičlenění pozemků k honitbám                                                                                                                       527             422           436       82,7
+5400   OD - pronájem datového rozvaděče                                                                                                                              4               4             4      100,0
+5400   OD - nájemné komunikačních staveb                                                                                                                         3 000           2 500            23        0,8
+5400   OD - provoz toalet pod hlavním nádražím ČD                                                     1 300            800           1 300        100,0          1 300             800         1 300      100,0
+5400   OD - nájemné Benešova                                                                                                                                     1 467           1 470         1 517      103,4
+5600   OI - pronájem vodohospodářské infrastruktury spol. BVK - vodárenská síť - nájemné                                                                       300 000        300 000        301 000      100,3
+5600   OI - pronájem vodohospodářské infrastruktury spol. BVK - stoková síť - pachtovné                                                                        450 000        450 000        424 000       94,2
+5600   OI - zřizování věcných břemen                                                                    400            400            400         100,0         25 000         25 000         25 000      100,0
+5600   OI - pronájem částí primárních a sekundárních kolektorů                                                                                                   3 724           4 677         4 677      125,6
+5600   OI - nákup vodoměrů                                                                            4 870           4 870          6 010        123,4
+5600   OI - nákup vysílačů k vodoměrům                                                               10 899          10 899         11 060        101,5
+5600   OI - následný monitoring - projekt "Rekonstrukce a dostavba kanalizace v Brně"                 3 000           3 000          3 000        100,0
+6300   MO - prodej pozemků                                                                                                                                     620 000        270 000        210 000       33,9
+6600   OSM - pronájem objektů (nájemcům k podnikatelské činnosti)                                                                                                6 700           6 700         8 000      119,4
+6600   OSM - energie, služby a opravy objektu Moravské nám. 15                                        5 000           5 000          5 000        100,0
+7100   OZ - pronájem pozemku (ÚNB, p.o.)                                                                                                                            36              36            84      233,3
+7200   OSP - pronájem (nájemcům k podnikatelské činnosti)                                                                                                           90              90            90      100,0
+7300   OK - smlouvy o umístění veřejné komunikační sítě na střeše (NDB, p.o.)                                                                                      144             159           144      100,0
+7300   OK - smlouvy o umístění veřejné komunikační sítě na střeše (MuMB, p.o.)                                                                                      80              88            80      100,0
+7300   OK - smlouvy o umístění nápojových automatů (KJM, p.o.)                                                                                                      17              15            17      100,0
+8200   MP Brno - pronájem části plochy štítové zdi objektu Křenová 4                                                                                               467             468           471      100,9
+8200   MP Brno - využívání části kapacity radiokomunikačního systému TETRA                                                                                          60              60            60      100,0
+8200   MP Brno - dopravní výchova 4. ročníků ZŠ (Centrum služeb)                                                                                                   100              60           100      100,0
+8200   MP Brno - umístění nápojových automatů                                                                                                                        7               7             7      100,0
+8200   MP Brno - pronájem pozemku (Kaštanová)                                                                                                                                      130
+8200   MP Brno - železný šrot                                                                                                                                                       10
+  -    Odpisy dlouhodobého majetku/transferový podíl                                                440 000         440 000        440 000        100,0         30 000         30 000         30 000      100,0
+       CELKEM                                                                                       518 946         520 111        524 117        101,0      1 451 012      1 101 096      1 015 563       70,0
+
+
+                          Převod do rozpočtu (hlavní činnosti) města                            Schválený     Očekávaná       Schválený      SR 2022
+ORJ
+                                          zisk a odpisy                                       rozpočet 2021 skutečnost 2021 rozpočet 2022    SR 2021
+     Saldo výnosů a nákladů účtu DPH                                                                  932 066        580 985       491 446         52,7
+     Odpisy dlouhodobého majetku                                                                      440 000        440 000       440 000        100,0
+1700 Převod do rozpočtu (hlavní činnosti) města celkem                                              1 372 066      1 020 985       931 446         67,9
+

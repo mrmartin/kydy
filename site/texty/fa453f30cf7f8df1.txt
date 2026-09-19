@@ -1,0 +1,1347 @@
+Rada města Brna
+
+Z9/30. zasedání Zastupitelstva města Brna
+konané dne 11.11.2025
+
+
+
+                      14. Návrh aktualizace Metodiky veřejné podpory
+
+Anotace
+Zastupitelstvu města Brna je předkládán návrh aktualizace Metodiky veřejné podpory s ohledem na
+změny přijaté na úrovni Evropské komise. Změny metodiky se týkají zejména podpory de minimis a
+povinností při jejím zaznamenávání v centrálním registru de minimis. Dále dochází k úpravám
+terminologického a zpřesňujícího charakteru.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   aktualizované znění Metodiky veřejné podpory, která tvoří přílohu č…. tohoto zápisu
+
+
+Stanoviska
+
+Materiál byl předložen Radě města Brna na schůzi č. R9/150 konané dne 5. 11. 2025 a stanovisko
+bude sděleno
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Ivan Hloušek
+  vedoucí odboru - Odbor implementace evropských fondů
+  4.11.2025 v 07:58
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  4.11.2025 v 08:44
+
+
+
+
+Sestava vytvořena 4.11.2025 v 08:44                          1/1                             Vygenerováno programem eMMB
+
+
+                                                                                                             Strana 1 / 26
+                                  Obsah materiálu
+Návrh usnesení                                                   1-1
+Obsah materiálu                                                  2-2
+Důvodová zpráva                                                  3-3
+Příloha k usnesení (Metodika veřejné podpory verze 2025.pdf)    4 - 15
+Příloha k usnesení (Příl. č. 1 Vyvojovy_diagram_1.pdf)         16 - 18
+Příloha k usnesení (Příl. č. 2a Vyvojovy_diagram_2a.pdf)       19 - 20
+Příloha k usnesení (Příl. č. 2b Vyvojovy_diagram_2b.pdf)       21 - 22
+Příloha k usnesení (Příl. č. 3 Vyvojovy diagram_3.pdf)         23 - 23
+Příloha k usnesení (Příl. č. 4 Vyvojovy diagram_4.pdf)         24 - 25
+Příloha k usnesení (Příl. č. 5 Vysvětlivky.pdf)                26 - 26
+
+
+
+
+                                                                   Strana 2 / 26
+                                          Důvodová zpráva
+
+Zastupitelstvu města Brna je předložen návrh aktualizace Metodiky veřejné podpory (dále jen
+„metodika“). Předkládané změny metodiky vyplývají zejména z přijetí nových předpisů upravujících
+podporu de minimis na úrovni evropského práva, tj. Nařízení Komise (EU) 2023/2831 ze dne
+13. prosince 2023 o použití článků 107 a 108 Smlouvy o fungování Evropské unie na podporu de
+minimis a Nařízení Komise (EU) 2023/2832 ze dne 13. prosince 2023 o použití článků 107 a 108
+Smlouvy o fungování Evropské unie na podporu de minimis udílenou podnikům poskytujícím služby
+obecného hospodářského zájmu. Pravidla obsažená v těchto předpisech se promítla také do národní
+úpravy, tj. do zákona č. 215/2004 Sb., o úpravě některých vztahů v oblasti veřejné podpory a o změně
+zákona o podpoře výzkumu a vývoje, ve znění pozdějších předpisů (konsolidované znění zákona*).
+
+Z konkrétních významných změn jde zejména o:
+-        zvýšení limitu podpory de minimis na částku 300 tis. EUR (z původních 200 tis. EUR) pro jeden
+podnik v tříletém období, přičemž toto tříleté období se nově posuzuje jako tříleté období předcházející
+datu poskytnutí podpory de minimis.
+-        pro služby obecně hospodářského zájmu (tzv. služby SOHZ) došlo ke zvýšení limitu na částku
+750 tis. EUR
+-        povinnost od 1. ledna 2026 zaznamenávat do centrálního registru podpor de minimis tzv. kód
+NACE podle ekonomických činností příjemce
+-        aktualizace skupin oblastí, ve kterých lze poskytovat veřejnou podporu ve formě tzv. blokových
+výjimek v souladu s Nařízením Komise (EU) č. 651/2014, kterým se v souladu
+s články 107 a 108 Smlouvy prohlašují určité kategorie podpory za slučitelné s vnitřním trhem (obecné
+nařízení o blokových výjimkách).
+
+Ostatní změny se týkají zejména přesnějšího terminologického vymezení pojmů metodiky, aktualizace
+právních předpisů upravujících dílčí oblasti veřejné podpory a postupů jednotlivých útvarů MMB.
+
+
+Stanoviska dotčených orgánů:
+Materiál nepodléhá projednání v komisích RMB.
+Materiál byl předložen Radě města Brna na schůzi č. R9/150 konané dne 5. 11. 2025 a stanovisko bude
+sděleno.
+
+
+
+
+                                                                                                    Strana 3 / 26
+Statutární město Brno
+Zastupitelstvo města Brna
+
+
+
+
+                                        METODIKA VEŘEJNÉ PODPORY
+                                                     ÚPLNÉ ZNĚNÍ
+
+
+
+
+Schválena na Z9/30. zasedání Zastupitelstva města Brna konaném dne 11.11.2025
+
+
+                                                                                Strana 4 / 26
+PREAMBULE
+
+Tato metodika se vydává v souladu s následujícími právními předpisy EU a ČR a za účelem jejich aplikace
+v podmínkách statutárního města Brna – Magistrátu města Brna a městských částech statutárního města
+Brna:
+   -   čl. 107 až 109 Smlouvy o fungování Evropské unie (dále jen Smlouva)
+   -   Nařízení Komise (EU) č. 651/2014, kterým se v souladu s články 107 a 108 Smlouvy prohlašují určité
+       kategorie podpory za slučitelné s vnitřním trhem (obecné nařízení o blokových výjimkách) (dále jen
+       Nařízení č. 651/2014)
+   -   Nařízení Rady (EU) č. 2015/1589, kterým se stanoví prováděcí pravidla k článku 108 Smlouvy (dále
+       jen Nařízení č. 2015/1589)
+   -   Nařízení Evropského parlamentu a Rady (ES) č. 1370/2007 o veřejných službách v přepravě
+       cestujících po železnici a silnici a o zrušení nařízení Rady (EHS) č. 1191/69 a č. 1107/70 (dále jen
+       Nařízení č. 1370/2007)
+   -   Nařízení Komise (EU) 2023/2831 o použití článků 107 a 108 Smlouvy na podporu de minimis
+   -   Nařízení Komise (EU) 2023/2832 o použití článků 107 a 108 Smlouvy na podporu de minimis udílenou
+       podnikům poskytujícím služby obecného hospodářského zájmu
+   -   Nařízení Komise (EU) č. 1408/2013 o použití článků 107 a 108 Smlouvy na podporu de minimis
+       v odvětví zemědělství
+   -   Nařízení Komise (EU) č. 717/2014 o použití článků 107 a 108 Smlouvy na podporu de minimis v
+       odvětví rybolovu a akvakultury
+   -   Nařízení Komise (ES) č. 794/2004, kterým se provádí Nařízení Rady (EU) 2015/1589, kterým se
+       stanoví prováděcí pravidla k článku 108 Smlouvy (dále jen Nařízení č. 794/2004)
+   -   Zákon č. 215/2004 Sb., o úpravě některých vztahů v oblasti veřejné podpory a o změně zákona
+       o podpoře výzkumu a vývoje, v platném znění (dále jen zákon)
+   -   Vyhláška č. 298/2020 Sb., o obsahu a rozsahu údajů, které je poskytovatel podpory malého rozsahu
+       povinen zaznamenat do centrálního registru podpor malého rozsahu, a o postupu při jejich
+       zaznamenávání
+   -   Zákon č. 194/2010 Sb., o veřejných službách v přepravě cestujících a o změně dalších zákonů,
+       v platném znění.
+
+
+Pro účely této metodiky se v souladu s výše uvedenými předpisy považují samostatné útvary Magistrátu města
+Brna (dále jako „MMB) a městské části statutárního města Brna (dále společně jako „SMB“) za jednoho
+poskytovatele.
+
+
+Nutnost posuzovat povahu podpory poskytované ze strany SMB subjektu, který vykonává hospodářskou, resp.
+ekonomickou činnost ve smyslu práva EU, vyplývá z povinnosti zajistit dodržování pravidel veřejné podpory,
+která je obecně zakázána. Tento zákaz vyplývá ze snahy zajistit rovnou hospodářskou soutěž. Poskytnutí
+zakázané veřejné podpory může vést k ohrožení této soutěže, jestliže poskytnutá podpora zvýhodní konkrétní
+subjekt oproti jeho soutěžitelům. Proto je nutné při poskytování podpor ze strany SMB vyhodnocovat, zda
+určitý podnikatelský subjekt nebude jednáním SMB zvýhodněn na relevantním trhu nedovoleným,
+tj. zakázaným způsobem.
+
+
+
+
+Tato metodika byla schválena Zastupitelstvem města Brna na jeho zasedání č.Z9/30 konaném
+dne 11.11.2025. Touto metodikou pozbývá platnost Metodika veřejné podpory schválená Zastupitelstvem
+města Brna na jeho Z7/34. Zasedání.
+
+
+                                                    2
+
+
+                                                                                                    Strana 5 / 26
+                                                                         OBSAH
+PREAMBULE ....................................................................................................................................................... 2
+I. DEFINICE POJMŮ .............................................................................................................................................. 4
+II. VEŘEJNOU PODPOROU NENÍ ............................................................................................................................ 6
+III. VÝJIMKY Z OBECNĚ NESLUČITELNÉ (ZAKÁZANÉ) VEŘEJNÉ PODPORY ................................................................. 6
+IV. POSTUP SAMOSTATNÝCH ÚTVARŮ A MĚSTSKÝCH ČÁSTÍ ................................................................................... 7
+V. PODPORA DE MINIMIS ................................................................................................................................... 10
+VI. POSKYTOVÁNÍ INFORMACÍ A DOKUMENTŮ ...................................................................................................... 11
+VII. EVIDENCE A ARCHIVACE ............................................................................................................................. 12
+VIII. ŘÍDICÍ A KONTROLNÍ MECHANISMY .............................................................................................................. 12
+IX. DALŠÍ POVINNOSTI SAMOSTATNÝCH ÚTVARŮ A MĚSTSKÝCH ČÁSTÍ .................................................................. 12
+
+
+
+
+                                                                               3
+
+
+                                                                                                                                                         Strana 6 / 26
+I. DEFINICE POJMŮ
+
+Veřejnou podporou neslučitelnou s vnitřním trhem (dále jako „zakázaná veřejná podpora“) ve smyslu čl. 107
+odst. 1 Smlouvy se rozumí veřejná podpora, která kumulativně splňuje následující kritéria:
+            -    je poskytnuta ze státních prostředků,
+            -    narušuje nebo může narušit hospodářskou soutěž,
+            -    zvýhodňuje určité podniky nebo určitá odvětví výroby,
+            -    ovlivňuje obchod mezi členskými státy Evropské Unie (také jako EU) - viz vývojový diagram č. 1.
+
+
+Státními prostředky se rozumí prostředky subjektů zřízených zákonem, prostředky právnických osob
+kontrolovaných přímo či nepřímo orgány veřejné moci (např. právnické osoby s majoritním podílem územních
+samospráv), prostředky, jejichž výběr je ukládán zákonem, aj. Pod pojem státní prostředky patří také
+např. i prostředky privátních subjektů, které byly pověřeny redistribucí veřejných zdrojů. Státními prostředky
+jsou i prostředky územních samosprávných celků. V národním právu se užívá ekvivalentní pojem „veřejné
+prostředky“.
+
+
+Narušit nebo moci narušit hospodářskou soutěž je podle rozhodovací praxe Komise a Soudního dvora
+Evropské unie způsobilá prakticky jakákoliv výhoda. Narušení hospodářské soutěže se předpokládá, pokud
+opatření snižuje příjemci náklady, které nese ve své každodenní (ekonomické) činnosti, a tím posílí postavení
+příjemce oproti ostatním účastníkům relevantní hospodářské soutěže.
+
+
+Zvýhodněním je jakékoliv selektivní opatření zvýhodňující příjemce podpory, které by za běžných podmínek
+nezískal. Za veřejnou podporu může být v podmínkách SMB považován nejen přímý finanční transfer
+(např. dotace, návratné finanční výpomoci, navýšení základního kapitálu právnické osoby), ale také např.
+poskytnutí majetkové výhody spočívající v prodeji nebo pronájmu majetku za jinou než tržní cenu, směna
+majetku nestejné hodnoty, bezúplatné zřízení věcného břemene, zvýhodněný přístup k infrastruktuře,
+poskytnutí zvýhodněné půjčky, prominutí pohledávky, poskytnutí záruky, vklad majetku do základního kapitálu
+právnické osoby apod.
+
+
+Podnikem se rozumí jakákoliv entita bez ohledu na právní status či způsob financování, vykonávající
+ekonomickou aktivitu, tj. činnost, pro niž existuje na příslušném věcně relevantním trhu konkurence. Podnikem
+jsou tedy především podnikatelské subjekty (obchodní společnosti, družstva, podnikající fyzické osoby),
+ale i univerzity, příspěvkové organizace, spolky, nadace, sportovní kluby apod., za předpokladu, že vykonávají
+ekonomickou činnost (hlavní či vedlejší), pro kterou existuje na trhu konkurence.
+
+
+Jeden podnik ve smyslu Nařízení Komise 2023/2831, č. 1408/2013 a Nařízení č. 717/2014 tvoří veškeré
+subjekty, které mezi sebou mají alespoň jeden z následujících vztahů:
+a) jeden subjekt vlastní více než 50 % hlasovacích práv, která náležejí akcionářům nebo společníkům, v jiném
+subjektu;
+b) jeden subjekt má právo jmenovat nebo odvolat více než 50 % členů správního, řídícího nebo dozorčího
+orgánu jiného subjektu;
+c) jeden subjekt má právo uplatňovat více než 50% vliv v jiném subjektu podle smlouvy uzavřené s daným
+subjektem nebo dle ustanovení v zakladatelské smlouvě nebo ve stanovách tohoto subjektu;
+d) jeden subjekt, který je akcionářem nebo společníkem jiného subjektu, ovládá sám, v souladu s dohodou
+uzavřenou s jinými akcionáři nebo společníky daného subjektu, více než 50 % hlasovacích práv, náležejících
+akcionářům nebo společníkům, v daném subjektu.
+Subjekty, které mají jakýkoli vztah uvedený pod písm. a) až d) prostřednictvím jednoho nebo více dalších
+subjektů, jsou také považovány za jeden podnik. Podniky, které mají přímou vazbu na tentýž orgán veřejné
+moci a nemají žádné vzájemné vztahy, se za jeden podnik nepovažují. Pro jasnější vysvětlení, viz příloha
+č. 4 1.
+
+1
+    Zdroj: Úřad pro ochranu hospodářské soutěže. Metodická příručka k aplikaci pojmu „jeden podnik“.
+                                                                    4
+
+
+                                                                                                          Strana 7 / 26
+Ovlivnění obchodu mezi členskými státy je způsobeno posílením pozice příjemce veřejné podpory za
+předpokladu, že:
+       -   svoji produkci či služby exportuje do jednoho nebo více členských států EU,
+       -   svoji produkci či služby neexportuje, avšak podpora posílí vnitrostátní pozici příjemce, který
+           soutěží se subjekty podílejícími se na obchodu v EU.
+
+
+Nezákonnou (protiprávní) veřejnou podporou je podpora, která byla poskytnuta bez notifikace záměru takovou
+podporu poskytnout Komisi nebo předtím, než Komise rozhodla. I nezákonně poskytnutou veřejnou podporu
+může Komise vyhodnotit jako slučitelnou s vnitřním trhem. Zákaz poskytování veřejné podpory bez
+předchozího schválení Komisí je absolutní a kategorický.
+
+
+Veřejnou podporou slučitelnou s vnitřním trhem jsou v podmínkách SMB ve smyslu čl. 107 odst. 2 Smlouvy:
+       -   podpory sociální povahy poskytované individuálním spotřebitelům za podmínky, že se poskytují
+           bez diskriminace založené na původu výrobků,
+       -   podpory určené k náhradě škod způsobených přírodními pohromami nebo jinými mimořádnými
+           událostmi.
+
+
+Veřejnou podporou podmíněně slučitelnou s vnitřním trhem v podmínkách SMB mohou být ve smyslu čl. 107
+odst. 3 Smlouvy:
+       -   podpory, které mají napomoci hospodářskému rozvoji oblastí s mimořádně nízkou životní úrovní
+           nebo s vysokou nezaměstnaností,
+       -   podpory, které mají napomoci uskutečnění některého významného projektu společného
+           evropského zájmu nebo napravit vážnou poruchu v hospodářství některého členského státu,
+       -   podpory, které mají usnadnit rozvoj určitých hospodářských aktivit nebo oblastí, pokud nemění
+           podmínky obchodu v míře, jež by byla v rozporu se společným zájmem,
+       -   podpory, které mají napomoci kultuře a zachování kulturního dědictví, jestliže neovlivní podmínky
+           obchodu a soutěže v Evropské unii v míře odporující společnému zájmu,
+       -   jiné podpory, které mohou být vymezeny rozhodnutím Rady EU.
+
+
+Podporou de minimis (nebo také podporou malého rozsahu) je podpora dle Nařízení č. Nařízení Komise
+2023/2831 (více viz čl. V metodiky).
+
+
+Podporou de minimis SOHZ je podpora dle Nařízení Komise (EU) 2023/2832 (více viz čl. V metodiky).
+
+
+Komise – Evropská komise jako autoritativní orgán Evropské unie, který disponuje zejména rozhodovací
+pravomocí týkající se schvalování veřejné podpory, event. posuzování, zdali se v konkrétním případě jedná
+o zakázanou veřejnou podporu či nikoli; pouze rozhodnutí Komise jsou v dané oblasti pro adresáty právně
+závazná.
+
+
+Koordinační orgán – je jím Úřad pro ochranu hospodářské soutěže; v oblasti zemědělství a rybolovu je tímto
+orgánem Ministerstvo zemědělství; koordinačním orgánům nepřísluší rozhodovací pravomoc v oblasti veřejné
+podpory, pouze vykonávají v rozsahu své působnosti centrální koordinační, poradenskou, konzultační a
+monitorující činnost; další povinnosti koordinačních orgánů upravuje ust. § 3 odst. 3 zákona.
+
+
+Samostatným útvarem MMB (dále jen „samostatný útvar“) se pro účely této metodiky rozumí každý útvar MMB,
+jež poskytuje plnění, které může zakládat veřejnou podporu, příp. podporu de minimis.
+
+
+Městskou částí SMB (dále jen „městská část“) se pro účely této metodiky rozumí organizační jednotka SMB
+ve smyslu vyhlášky č. 20/2001, Statutu města Brna, v platném znění.
+
+                                                    5
+
+
+                                                                                                     Strana 8 / 26
+Odbor rozpočtu a financování MMB (dále jako „ORF MMB“) – útvar MMB, který zejména vede souhrnnou
+evidenci žádostí o dotaci samostatných odborů a městských částí, které byly předloženy RMB/ZMB
+ke schválení.
+
+
+Odbor implementace evropských fondů MMB (dále jako „OIEF MMB“) - útvar MMB, který zejména poskytuje
+podklady samostatným útvarům a městským částem na základě jejich vyžádání podle čl. V a čl. IX metodiky,
+zabezpečuje konzultační a metodickou pomoc samostatným útvarům a městským částem v oblasti veřejné
+podpory a podpory de minimis, plní funkci centrálního koordinátora v rámci problematiky veřejné podpory a
+podpory de minimis a v případě potřeby zprostředkovává komunikaci mezi samostatnými útvary a městskými
+částmi na straně jedné a koordinačními orgány a Komisí na straně druhé.
+
+II. VEŘEJNOU PODPOROU NENÍ
+
+       -   podpora poskytovaná fyzickým osobám (nikoli však podnikajícím fyzickým osobám),
+       -   podpora poskytovaná nediskriminačním způsobem při dodržení pravidel veřejné podpory všem
+           právnickým a podnikajícím fyzickým osobám,
+       -   podpora de minimis, viz také čl. V této metodiky,
+       -   zásadně finanční plnění poskytované na základě právního vztahu vzniklého v souladu
+           se zákonem č. 134/2016 Sb., o zadávání veřejných zakázek, v platném znění; zákaz poskytování
+           sektorových podpor tím však není dotčen,
+       -   finanční plnění poskytované v souladu se zákonem č. 194/2010 Sb., o veřejných službách v
+           přepravě cestujících a o změně dalších zákonů, v platném znění
+       -   plnění, kdy kroky SMB odpovídají tržnímu chování, tj. je postupováno tak, jak by bylo obvyklé u
+           tržně uvažujícího investora (např. očekávání zisku, minimalizace ztrát), tzv. princip soukromého
+           investora,
+       -   postup, při kterém se porovnává způsob jednání, resp. chování veřejné instituce s hypotetickým
+           jednáním soukromých věřitelů, tedy věřitelů v obdobné situaci (např. nastavení obchodních
+           podmínek dle tržních zvyklostí, vymáhání smluvních sankcí a náhrady škody, na které vznikl SMB
+           nárok) – tzv. princip soukromého věřitele,
+       -   kompenzace nákladů vzniklých v souvislosti s plněním služeb obecného hospodářského
+           významu, tj. služeb, které by bez kompenzace nikdo nezajišťoval, a to za podmínek, že:
+           a. subjekt je pověřen plněním závazku veřejné služby, který je přesně definován národním
+               právním aktem (zákon, smlouva, rozhodnutí kolektivního orgánu, stanovy, zakládací listina,
+               licence, aj.),
+           b. je kompenzována nezbytná výše nákladů spojená s poskytováním veřejné služby a přiměřená
+               výše zisku za provádění těchto služeb,
+           c. parametry výpočtu kompenzace jsou předem jednoznačně a objektivně stanoveny,
+           d. subjekt pověřený plněním závazku veřejné služby je vybrán na základě otevřeného
+               výběrového řízení, pokud tomu tak není, je nutné, aby byla kompenzace určena ve výši
+               nákladů, které by na stejnou službu vynaložil srovnatelný tržně fungující subjekt,
+           e. subjekt vede analytické účetnictví, tj. účet analytické evidence, který rozvádí a doplňuje údaje
+               příslušného syntetického účtu; syntetické účty jsou vedeny v hlavní knize a souhrnně informují
+               o aktivech, pasivech, nákladech a výnosech, podle zákona č. 563/1991 Sb., o účetnictví, ve
+               znění pozdějších předpisů, a vyhlášek, které jej provádějí, včetně Českých účetních
+               standardů pro účetní jednotky, které účtují podle vyhlášky č. 504/2002 Sb. (kdy hlavní předmět
+               činnosti není podnikání).
+
+III. VÝJIMKY Z OBECNĚ NESLUČITELNÉ (ZAKÁZANÉ) VEŘEJNÉ PODPORY
+
+Výjimkami ze zakázané veřejné podpory jsou v návaznosti na smlouvu (viz vývojový diagram č. 1):
+       -   obecné výjimky (veřejná podpora slučitelná s vnitřním trhem),
+       -   individuální výjimky (veřejná podpora podmíněně slučitelná s vnitřním trhem),
+                                                     6
+
+
+                                                                                                       Strana 9 / 26
+        -   blokové (dříve skupinové) výjimky ve smyslu čl. 109 Smlouvy definované v právních předpisech
+            EU,
+        -   výjimky stanovené Radou EU ve smyslu čl. 108 odst. 2 Smlouvy,
+        -   výjimky sloužící potřebě koordinovat dopravu nebo představující náhradu za určitá plnění
+            související s pojmem veřejné služby podle čl. 93 Smlouvy.
+
+
+Blokovými výjimkami jsou dle Nařízení č. 651/2014:
+    -   regionální podpora;
+    -   podpora určená malým a středním podnikům ve formě investiční podpory, provozní podpory a podpory
+        přístupu malých a středních podniků k financování;
+    -   podpora na ochranu životního prostředí;
+    -   podpora výzkumu, vývoje a inovací;
+    -   podpora na vzdělávání;
+    -   podpora na nábor a zaměstnávání znevýhodněných pracovníků a pracovníků se zdravotním
+        postižením;
+    -   podpora na náhradu škod způsobených některými přírodními pohromami;
+    -   sociální podpora na dopravu obyvatel odlehlých regionů;
+    -   podpora na širokopásmovou infrastrukturu;
+    -   podpora kultury a zachování kulturního dědictví;
+    -   podpora na sportovní a multifunkční rekreační infrastrukturu a
+    -   podpora na místní infrastrukturu
+    -   podpora na regionální letiště
+    -   podpora na přístavy
+    -   podpora na projekty Evropské územní spolupráce
+    -   podpora obsažená ve finančních produktech podporovaných z Fondu InvestEU.
+Tyto výjimky se použijí pouze na podporu, která má motivační účinek, tj. pokud příjemce předložil poskytovateli
+písemnou žádost o podporu před zahájením prací na projektu nebo činnosti. Blokové výjimky jsou založeny
+na stanovení maximální možné intenzity podpory pro každou z kategorii výjimek.
+
+
+Ostatními výjimkami jsou v podmínkách SMB zejména:
+        -   podpora ve prospěch ochrany životního prostředí (Pokyny Společenství ke státní podpoře na
+            ochranu životního prostředí 2008/C 82/01)
+        -   regionální podpora (Pokyny k regionální státní podpoře (2021/C 153/01))
+        -   daňové úlevy, veřejná podpora při prodeji nemovitostí (Sdělení Komise o pojmu státní podpora
+            uvedeném v čl. 107 odst. 1 Smlouvy o fungování Evropské unie (2016/C 262/01))
+        -   veřejná podpora pro výzkum a vývoj (Rámec Společenství pro státní podporu výzkumu, vývoje a
+            inovací 2006/C 323/01)
+        -
+Vyjma případů blokových výjimek je potřebná notifikace podpory Komisi.
+
+IV. POSTUP SAMOSTATNÝCH ÚTVARŮ A MĚSTSKÝCH ČÁSTÍ
+
+    1. Při přípravě poskytnutí plnění, které může zakládat veřejnou podporu, samostatný útvar či městská
+       část posuzuje, zda:
+       - se jedná o plnění (finanční nebo nefinanční), které může naplnit znaky veřejné podpory ve smyslu
+           čl. 107 odst. 1 Smlouvy,
+       - je podpora poskytnuta na hospodářské (ekonomické) aktivity, a to i v případě, jedná-li se
+           o nekomerčního adresáta podpory,
+       - je podpora hospodářské (ekonomické) aktivity slučitelná s podmínkami hospodářské soutěže,
+           tedy zda neodůvodněně nezvýhodňuje adresáta podpory, například v případě, že má podpora
+           pouze lokální charakter nebo když příjemci podpořených služeb pochází z jednoho státu.
+           V kontextu statutárního města Brna může jít o situace, kdy je zřejmé, že podpořenou činnost či
+
+                                                      7
+
+
+                                                                                                        Strana 10 / 26
+            službu budou využívat převážně /téměř výlučně jen obyvatelé města Brna či přímo konkrétní
+            městské části.
+       - poskytnutí podpory ovlivňuje obchod mezi členskými státy EU tím, že posílením pozice příjemce
+            je ztížena pozice jeho konkurentů spočívající v horší možnosti umístit na trhu příslušného státu
+            své výrobky nebo služby,
+    2. Při přípravě poskytnutí plnění, které může zakládat podporu de minimis, samostatný útvar či městská
+       část posuzuje, zda se jedná o plnění, které může naplnit následující znaky veřejné podpory ve smyslu
+       čl. 107 odst. 1 Smlouvy:
+       - je poskytnuto ze státních prostředků a
+       - zvýhodňuje určité podniky nebo určitá odvětví výroby, avšak
+       - nesplňuje ostatní znaky veřejné podpory z důvodu, že podpora poskytnutá jednomu podniku za
+            období 3 let nepřesáhne strop ve výši 300 tis. EUR neovlivní obchod mezi členskými státy nebo
+            nenaruší hospodářskou soutěž – tzv. podpora de minimis, viz čl. V metodiky.
+    3. Problematiku (možné) veřejné podpory a podpory de minimis konzultují samostatné útvary a městské
+       části písemnou formou (primárně e-mailem) s OIEF MMB a následně s Úřadem pro ochranu
+       hospodářské soutěže, event. Ministerstvem zemědělství (pro oblast zemědělství a rybolovu).
+Veřejnou podporu nelze poskytovat takovým příjemcům, vůči nimž je vystaven inkasní příkaz v návaznosti na
+rozhodnutí Komise o protiprávní podpoře a její neslučitelnosti s vnitřním trhem, který dosud nebyl splacen.
+Poskytovatel podpory by měl před poskytnutím ověřit, zda je uvedená podmínka dodržena, tj. zda příjemce
+navrátil předchozí platby v případě konstatování protiprávní a s vnitřním trhem neslučitelné veřejné podpory
+ze strany Komise. Tato podmínka se přitom vztahuje na celou skupinu podniků, se kterými je příjemce
+propojen ve smyslu jedné hospodářské entity, jednoho podniku. 2
+
+
+Notifikace Komisi
+Pravidla postupu při vyřizování notifikací a manuál pro poskytovatele veřejné podpory jsou k dispozici na
+internetových stránkách Úřadu pro ochranu hospodářské soutěže https://uohs.gov.cz/cs/verejna-podpora.html
+. Přílohou metodiky jsou, mimo jiné, vývojové diagramy znázorňující ve zjednodušené formě proces notifikace
+podpor – viz vývojové diagramy č. 2a a 2b.
+
+
+    4. V případě, že poskytované plnění naplňuje znaky veřejné podpory podle čl. 107 odst. 1 Smlouvy a
+       nejedná se o blokovou výjimku ve smyslu čl. 109 Smlouvy, notifikuje vedoucí samostatného útvaru či
+       oprávněná osoba městské části podporu Komisi prostřednictvím Úřadu pro ochranu hospodářské
+       soutěže, a to zasláním vyplněného notifikačního formuláře v elektronické podobě. Za tím účelem si
+       vedoucí samostatného útvaru či oprávněná osoba městské části vyžádá písemné stanovisko OIEF
+       MMB. Předmětné plnění se neposkytne do schválení zamýšlené podpory Komisí.
+    5. Veřejné podpory slučitelné s vnitřním trhem ve smyslu čl. 107 odst. 2 Smlouvy je třeba před jejich
+       poskytnutím také notifikovat Komisi a vyčkat na její rozhodnutí, přičemž je třeba doložit, pod kterou ze
+       skupin uvedených v příslušném ustanovení Smlouvy spadají. Za tím účelem si vedoucí samostatného
+       útvaru či oprávněná osoba městské části vyžádá písemné stanovisko OIEF MMB. Předmětné plnění
+       se neposkytne do schválení zamýšlené podpory Komisí.
+    6. Veřejné podpory podmíněně slučitelné s vnitřním trhem ve smyslu čl. 107 odst. 3 Smlouvy mohou být
+       ze strany Komise posouzeny a schváleny jakožto slučitelné s vnitřním trhem. Při notifikaci záměru
+       veřejné podpory podmíněně slučitelné je třeba vždy uvést a zdůvodnit, pod kterou z uvedených skupin
+       dle příslušného ustanovení Smlouvy veřejná podpora spadá, a uvést podrobnější argumentaci
+       o nutnosti konkrétní podpory a o dopadu této podpory na trh. Za tím účelem si vedoucí samostatného
+       útvaru či oprávněná osoba městské části vyžádá písemné stanovisko OIEF MMB. Předmětné plnění
+       se neposkytne do schválení zamýšlené podpory Komisí.
+
+
+2
+  (Rozhodnutí Soudu prvního stupně ze dne 13. září 1996 ve spojených věcech T-244/93 a T-486/93, Textilwerke Deggendorf GmbH
+versus Komise; rozhodnutí Evropského soudního dvora ze dne 15. května 1997 ve věci C-355/95 P, Textilwerke Deggendorf GmbH
+versus Komise).
+
+
+                                                             8
+
+
+                                                                                                                    Strana 11 / 26
+Oznamovací povinnost Komisi
+   7. O poskytnutí veřejných podpor vyňatých z notifikační povinnosti na základě jednotlivých nařízení
+      Komise a nařízení Rady EU (tzv. blokové výjimky) je nutno informovat ve lhůtě 20 dnů Komisi za
+      účelem zveřejnění této informace v Úředním věstníku EU. Samostatné útvary a městské části mají
+      povinnost evidovat podrobné informace o poskytnutých veřejných podporách na základě nařízení
+      Komise a Rady EU po dobu 10 let od poskytnutí.
+   8. Komise zavedla za účelem větší transparentnosti povinnost členských států zajistit, aby se na
+      souhrnné internetové stránce věnované veřejné podpoře zveřejňovaly od 1. 7. 2016 údaje o režimech
+      podpory a o jednotlivých podporách přesahujících svou výší limity stanovené v předpisech pro
+      veřejnou podporu a údaje o jejich příjemcích (případy, kdy je opatření oznámeno jako bloková výjimka
+      nebo oznámeno v rámci notifikačního řízení. Např. nařízení č. 651/2014, podle kterého je nezbytné
+      plnit povinnost transparentnosti v případě, že je poskytnuta jednotlivá podpora
+      přesahující 500 000 EUR). V rámci České republiky je k plnění uvedené povinnosti transparentnosti
+      využíván elektronický systém Komise Transparency Award Module (dále rovněž „systém TAM“).
+      Povinnost zapisovat požadované údaje se vztahuje na poskytovatele veřejné podpory, zápis je nutno
+      provést do šesti měsíců od poskytnutí podpory (tj. od nabytí účinnosti příslušného právního aktu), u
+      daňových opatření činí lhůta jeden rok od data, k němuž se předkládá daňové přiznání. Metodika k
+      plnění povinnosti transparentnosti je k dispozici na internetových stránkách Úřadu pro ochranu
+      hospodářské soutěže (dostupné z: http://www.uohs.cz/cs/verejna-podpora/evidencni-povinnost-
+      poskytovatelu-transparentnost-podpor.html). Zápis ze strany poskytovatele veřejných podpor do
+      systému TAM probíhá na základě registrovaného dálkového přístupu. Žádost o zřízení přístupových
+      údajů zajistí OIEF.
+       Povinnost transparentnosti je zakotvena v následujících předpisech:
+       -   Nařízení č. 651/2014,
+       -   Nařízení Komise (EU) 2022/2472 ze dne 14. prosince 2022, kterým se v souladu s články 107 a
+           108 Smlouvy o fungování Evropské unie prohlašují určité kategorie podpory v odvětvích
+           zemědělství a lesnictví a ve venkovských oblastech za slučitelné s vnitřním trhem
+       -   Nařízení Komise (EU) 2022/2473 ze dne 14. prosince 2022, kterým se určité kategorie podpory
+           pro podniky působící v oblasti produkce, zpracování a uvádění produktů rybolovu a akvakultury
+           na trh prohlašují za slučitelné s vnitřním trhem podle článků 107 a 108 Smlouvy o fungování
+           EUSdělení Komise Pokyny k regionální státní podpoře 2021/C 153/01
+       -   Sdělení Komise – Pokyny pro státní podporu v oblasti klimatu, životního prostředí a energetiky na
+           rok 2022
+       -   Pokyny ke státní podpoře pro širokopásmové sítě 2023/C 36/01
+       -    Sdělení Komise o státní podpoře filmů a dalších audiovizuálních děl (2013/C 332/01),
+       -   Sdělení Komise - Kritéria pro analýzu slučitelnosti státní podpory, která má podpořit realizaci
+            významných projektů společného evropského zájmu, s vnitřním trhem (2021/C 528/02),
+       -    Pokyny ke státní podpoře letišť a leteckých společností (2014/C 99/03),
+       -    Pokyny k státní podpoře investic v rámci rizikového financování (2021/C 508/01),
+       -    Rámec pro státní podporu výzkumu, vývoje a inovací (2022/C 414/01),
+       -    Pokyny ke státní podpoře v odvětvích zemědělství a lesnictví a ve venkovských oblastech
+            (2022/C 485/01),
+       -    Pokyny ke státní podpoře v odvětví rybolovu a akvakultury (2023/C 107/01),
+       -    Pokyny pro státní podporu na záchranu a restrukturalizaci nefinančních podniků v obtížích
+            (2014/C 249/01),
+       -    Sdělení Komise o změně sdělení komise o Pokynech EU k použití pravidel státní podpory ve
+            vztahu k rychlému zavádění širokopásmových sítí, o Pokynech k regionální státní podpoře na
+            období 2014-2020, o státní podpoře filmů a dalších audiovizuálních děl, o Pokynech ke státní
+            podpoře investic v rámci rizikového financování a o Pokynech ke státní podpoře letišť a leteckých
+            společností (2014/C 198/02),
+            Dočasný rámec pro opatření státní podpory na podporu hospodářství při stávajícím šíření
+            koronavirové nákazy COVID-19 (2020/C 91 I/01).
+                                                     9
+
+
+                                                                                                      Strana 12 / 26
+          -    Pokyny k některým opatřením státní podpory v souvislosti se systémem obchodování s
+               povolenkami na emise skleníkových plynů po roce 2021 (2020/C 317/04)
+
+
+Komunikace samostatných útvarů a městských částí s Komisí v rámci notifikace
+   9. Ve věcech veřejné podpory komunikují samostatné útvary a městské části s Komisí a Úřadem pro
+      ochranu hospodářské soutěže zásadně elektronicky (ve smyslu čl. 3 Nařízení č. 794/2004), případně
+      prostřednictvím OIEF MMB. Žádost elektronicky podepisuje vedoucí samostatného útvaru nebo
+      oprávněná osoba městské části, v případě užití komunikace prostřednictvím OIEF MMB pak pověřený
+      zaměstnanec OIEF MMB. V případech, u kterých je obava z odtajnění údajů, je využívána
+      diplomatická pošta Ministerstva zahraničních věcí ČR.
+
+V. PODPORA DE MINIMIS
+
+Pojem
+Podstatou podpory de minimis (event. podpory malého rozsahu) je to, že vzhledem ke své výši nenaplňuje
+všechna kritéria veřejné podpory, a proto ji právo EU nepovažuje za veřejnou podporu a lze ji za splnění
+stanovených podmínek příjemcům poskytnout. Z uvedeného důvodu taková podpora nepodléhá oznamovací
+povinnosti vůči Komisi podle čl. 108 odst. 3 Smlouvy.
+
+Podpora de minimis představuje takovou podporu, která nesmí spolu s ostatními podporami de minimis
+poskytnutými jednomu podniku za dobu předchozích tří let přesáhnout výši odpovídající částce 300 000 EUR.
+Tento finanční strop platí bez ohledu na formu či účel podpory de minimis poskytnuté v předchozím tříletém
+období. Pro přepočet částky podpory de minimis z EUR na Kč se používá kurz Evropské centrální banky platný
+ke dni poskytnutí podpory de minimis. Tříleté období se posuzuje průběžně, tj. sledují se podpory de minimis,
+které jeden podnik obdržel v období tří let předcházejících dni poskytnutí podpory.
+
+Podpora de minimis SOHZ představuje podporu de minimis udílenou za poskytování služby obecného
+hospodářského zájmu, která nesmí spolu s ostatními podporami de minimis SOHZ poskytnutými jednomu
+podniku za dobu předchozích tří let přesáhnout výši odpovídající částce 750 000 EUR. Do tohoto limitu se
+započítají i jakékoliv jiné podpory de minimis poskytnuté příjemci z veřejných zdrojů podle nařízení č.
+023/2831. Příjemce by měl být písemně pověřen výkonem služby obecného hospodářského zájmu.
+
+SMB jako poskytovatel podpory de minimis
+Dnem poskytnutí podpory de minimis se rozumí den, kdy příjemci na tuto podporu vznikne právní nárok s tím,
+že vznikem právního nároku se rozumí den, kdy nabylo právních účinků právní jednání, na jehož základě byla
+podpora příjemci poskytnuta, a to bez ohledu na to, kdy byla podpora příjemci fakticky vyplacena. V této
+souvislosti je třeba zohlednit ustanovení § 6 odst. 1 zákona č. 340/2015 Sb., o zvláštních podmínkách účinnosti
+některých smluv, uveřejňování těchto smluv a o registru smluv (zákon o registru smluv), v platném znění.
+
+
+Evidence podpor malého rozsahu
+Samostatné útvary a městské části jsou povinny před poskytnutím podpory malého rozsahu v centrálním
+registru ověřit, zdali poskytnutím podpory nedojde:
+a)        k překročení limitu stanoveného příjemci v přímo použitelném předpisu Evropské unie 3,
+b)        překročení limitu stanoveného v oblasti zemědělství a rybolovu a služeb obecného hospodářského
+          zájmu pro Českou republiku v přímo použitelném předpisu Evropské unie.
+
+
+Samostatné útvary a městské části jsou dále povinny do 20 pracovních dnů ode dne poskytnutí podpory
+zaznamenat do centrálního registru údaje o poskytnuté podpoře malého rozsahu a o jejím příjemci.
+
+3 do 31. 12. 2011 byly samostatné útvary a městské části povinny vyžádat si od příjemce v písemné či elektronické formě čestné
+     prohlášení o obdržených podporách de minimis za předchozí tříleté období (tj. současné a dvě předcházející účetní období); od 1. 1.
+     2012 závisí takový požadavek pouze na rozhodnutí poskytovatele PDM a poskytovatel si tyto skutečnosti ověřuje v centrálním registru
+     sám.
+                                                                  10
+
+
+                                                                                                                                Strana 13 / 26
+Obsah a rozsah údajů, které je poskytovatel podpory malého rozsahu povinen zaznamenat do centrálního
+registru, a postup při jejich zaznamenávání jsou upraveny vyhláškou č. 298/2020 Sb. o obsahu a rozsahu
+údajů, které je poskytovatel podpory malého rozsahu povinen zaznamenat do centrálního registru podpor
+malého rozsahu, a o postupu při jejich zaznamenávání, . Mezi údaje povinně zaznamenávané do centrálního
+registru patří údaje o odvětví dle statistické klasifikace ekonomických činností v Unii (tzv. klasifikace NACE).
+Povinnost evidovat v centrálním registru kód NACE se vztahuje na podpory poskytnuté od 1. ledna 2026. U
+podpor de minimis poskytnutých do 31.12.2025 mohou poskytovatelé evidovat kód NACE na dobrovolné bázi.
+
+
+Samostatné útvary a městské části jsou povinny vyžádat si od příjemce čestné prohlášení v písemné či
+elektronické formě o vztahu propojenosti s ostatními podniky ve smyslu definice jednoho podniku vymezeného
+v bodě I. Definice pojmů.
+
+
+Na webových stránkách Úřadu pro ochranu hospodářské soutěže (dostupný z: http://www.uohs.cz/cs/verejna-
+podpora/podpora-de-minimis.html) jsou k dispozici metodické dokumenty, návody a vzory týkající se aplikace
+a výkladu pravidel podpory de minimis, zejména způsobu zápisu do centrálního registru a způsobu posuzování
+podniků z pohledu pravidel podpory de minimis.
+
+
+Osobám oprávněným zaznamenávat údaje o poskytnuté podpoře malého rozsahu a o jejím příjemci do
+centrálního registru přidělí přístupové údaje do webové aplikace Úřad pro ochranu hospodářské soutěže na
+základě písemného požadavku OIEF MMB.
+
+
+Samostatné útvary a městské části jsou povinny si stanovit osoby oprávněné zaznamenávat údaje o
+poskytnuté podpoře malého rozsahu a o jejím příjemci do centrálního registru a pravidelně sledovat, zdali
+údaje o těchto osobách odpovídají skutečnosti.
+
+
+Pro potřeby evidence se SMB, včetně jeho městských částí, považuje za jednoho poskytovatele.
+
+VI. POSKYTOVÁNÍ INFORMACÍ A DOKUMENTŮ
+
+Samostatné útvary a městské části mají povinnost předložit nejpozději k 20. únoru kalendářního roku OIEF
+MMB informace o poskytnutých veřejných podporách, poskytnutých podporách de minimis v předcházejícím
+kalendářním roce a o probíhajících programech veřejné podpory. OIEF MMB poskytne v souladu s ust. § 5
+zákona do 30. dubna kalendářního roku souhrnné informace Úřadu pro ochranu hospodářské soutěže
+za předcházející kalendářní rok za poskytovatele (tj. souhrnně za SMB).
+
+
+Samostatné útvary a městské části mají povinnost nejpozději ke stejnému datu předběžně informovat OIEF o
+tom, zda v rozhodném období dvou předchozích kalendářních let poskytly vyrovnávací platby za služby
+obecně hospodářského zájmu, a to vždy v tom kalendářním roce, ve kterém je dle pravidel Evropské unie
+plněna informační povinnost. Samotná informační povinnost je pak splněna zápisem potřebných údajů do
+aplikace vedené Úřadem pro ochranu hospodářské soutěže, který na základě přístupu zřízeného
+prostřednictvím OIEF provede zástupce příslušného útvaru či městské části.
+
+
+Samostatné útvary a městské části mají povinnost předložit koordinačnímu orgánu do 10 dnů ode dne, kdy je
+podaly, stejnopisy nebo kopie veškerých podání, které učinily v řízeních před Komisí, a stejnopisy nebo kopie
+veškerých podání a rozhodnutí v řízeních před Komisí, které jim byly doručeny, do 10 dnů od jejich doručení.
+
+
+Samostatné útvary a městské části poskytují v případě nutnosti či na vyžádání součinnost Komisi v rámci její
+činnosti ve věcech veřejné podpory, tj. notifikačního a prenotifikačního řízení, konzultací, předběžných šetření
+aj.
+
+                                                      11
+
+
+                                                                                                         Strana 14 / 26
+Komunikaci mezi SMB a Komisí, event. koordinačním orgánem, zajišťuje OIEF MMB.
+
+VII. EVIDENCE A ARCHIVACE
+
+Samostatné útvary a městské části mají povinnost archivovat záznamy a materiály týkající se jednotlivých
+veřejných podpor a podpor de minimis po dobu 10 let ode dne, kdy byly poskytnuty (příp. přiděleny) a materiály
+týkající se režimu uvedených podpor po dobu 10 let ode dne, kdy byla v rámci takového režimu poskytnuta
+poslední jednotlivá podpora.
+
+VIII. ŘÍDICÍ A KONTROLNÍ MECHANISMY
+
+Příslušní zaměstnanci samostatných útvarů a městských částí podílející se na výkonu řídicí kontroly při řízení
+veřejných výdajů (zejména předběžné kontroly při řízení veřejných výdajů před vznikem závazku) jsou povinni
+v rámci svých schvalovacích postupů klást, mimo jiné, důraz na vyloučení rizik spojených s možností
+poskytnutí veřejné podpory neslučitelné s vnitřním trhem ve smyslu čl. 107 odst. 1 Smlouvy nebo podpory de
+minimis ve smyslu Nařízení č. 2023/2831.
+
+
+Příslušní zaměstnanci samostatných útvarů a městských částí podílející se na výkonu veřejnosprávní kontroly
+(zejména předběžné veřejnosprávní kontroly) by v rámci svých schvalovacích postupů měli klást, mimo jiné,
+důraz na vyloučení rizik spojených s možností poskytnutí veřejné podpory neslučitelné s vnitřním trhem
+ve smyslu čl. 107 odst. 1 Smlouvy nebo podpory de minimis ve smyslu Nařízení č. 2023/2831
+
+IX. DALŠÍ POVINNOSTI SAMOSTATNÝCH ÚTVARŮ A MĚSTSKÝCH ČÁSTÍ
+
+Součástí materiálů, předkládaných RMB/ZMB ke schválení, zavazujících nebo opravňujících město k plnění
+či opatření podléhajícímu pravidlům veřejné podpory, bude uvedení této skutečnosti spolu s ostatními
+relevantními souvislostmi (např. v případě SMB jako příjemce podpory de minimis prokázání nepřekročení
+povoleného limitu v rozhodném období) v důvodové zprávě. Za tímto účelem mohou samostatné útvary a
+městské části využít podkladů OIEF MMB, popř. jiných útvarů MMB (např. ORF MMB, ORGO MMB, PO MMB)
+v případech, kdy OIEF MMB nemá takové podklady k dispozici.
+
+
+Samostatné útvary a městské části jsou povinny zahrnout do příslušných právních aktů, předkládaných
+RMB/ZMB ke schválení, zavazujících nebo opravňujících město k plnění naplňujícímu znaky veřejné podpory,
+příp. podpory de minimis, informaci o tom, že se jedná o veřejnou podporu, event. podporu de minimis.
+
+
+OIEF MMB je oprávněn průběžně provádět kontrolu, zdali údaje získané od samostatných útvarů a městských
+částí odpovídají údajům uvedeným v centrálním registru.
+
+
+
+
+                                                     12
+
+
+                                                                                                       Strana 15 / 26
+                                                                                                 Vývojový diagram č. 1
+                                                         VEŘEJNÁ PODPORA
+
+
+Státní prostředky zahrnují prostředky subjektů
+zřízených zákonem, prostředky právnických osob
+kontrolovaných přímo či nepřímo orgány veřejné                    Podpora je poskytována
+moci (např. právnické osoby s majoritním podílem                  ze státních prostředků
+územních samospráv), prostředky, jejichž výběr je
+ukládán zákonem (např. odvody sociálního
+pojištění), aj.
+
+
+Podnik je jakákoliv entita bez ohledu na právní
+status či způsob financování vykonávající
+ekonomickou aktivitu, tj. činnost pro níž existuje                Zvýhodní poskytnutí               NE
+na příslušném trhu konkurence. Podnikem jsou                         podpory určité
+zpravidla podnikatelské subjekty (obchodní                        podniky nebo určitá
+společnosti, družstva, podnikající fyzické osoby,
+                                                                    odvětví výroby?
+svobodná povolání), fotbalové kluby, apod.
+
+Podnikem mohou být univerzity mající vlastní
+nakladatelství, příspěvkové organizace pokud
+vykonávají činnost, pro kterou je na trhu                                      ANO                 Nejedná se o veřejnou
+konkurence (např. vzdělávací služby) a za stejných                                                       podporu
+podmínek spolky a nadace.
+
+
+                                                                   Poskytnutí podpory
+                                                                   naruší nebo může         NE
+Z rozhodovací     praxe   Komise      vyplývá,
+že prakticky každá výhoda je způsobilá narušit                          narušit
+hospodářskou soutěž.                                                 hospodářskou
+                                                                        soutěž?
+
+Obchod je výměna zboží, služeb včetně platebního
+styku. Ovlivnění obchodu mezi členskými státy
+EU je způsobeno posílením pozice příjemce                                      ANO
+podpory, kdy je ztížena pozice jeho konkurentů
+díky horší možnosti umístit na trh příslušného státu
+své výrobky nebo služby. Ovlivnění obchodu je
+vyvozováno v případě, kdy příjemce podpory:
+1. svoji produkci exportuje či službu poskytuje                    Ovlivní poskytnutí       NE
+   do jednoho nebo více členských států EU,                         podpory obchod
+2. svoji produkci či služby neexportuje, avšak                      mezi členskými
+   podpora posílí vnitrostátní pozici příjemce, který                 státy EU ?
+   soutěží se subjekty podílejícími se na obchodu
+   v EU
+
+                                                                             ANO
+Existující veřejná podpora ve smyslu čl. 1 písm.                                                          Podpora
+b) Nařízení Rady (EU) č. 2015/1589:
+                           2015/1589:                         Jedná se o veřejnou podporu               de minimis -
+- stále účinná podpora = režimy podpor
+                                  podpor aa jednotlivé                                              - vývojový diagram
+                                                                ve smyslu čl. 107 odst. 1
+  podpory, které byly zavedeny před vstupem
+  Smlouvy o fungování EU v platnost a zůstávají                   příp. čl. 93 Smlouvy                      č. 3
+  použitelné i po vstupu,
+- schválená podpora = režimy podpory aa jednotlivé
+  podpory schválené Komisí nebo Radou,
+- podpora, která se považuje za schválenou podle
+  čl. 4 odst. 6 Nařízení Rady (ES) č. 659/1999, nebo
+                                                 nebo
+  podle čl. 4 odst. 6 Nařízení Rady (EU) č.                            Jedná se o                ANO
+  2015/1589 nebo před Nařízením Rady (ES) č.                       existující veřejnou
+  659/1999, ale v souladu s tímto postupem                             podporu?
+- podpora, která se považuje za existující podporu
+                                              podporu
+  podle čl. 1717 Nařízení Rady (EU) č. 2015/1589
+                                           2015/1589
+  (promlčení navrácení podpory ve lhůtě 10 let),
+  (promlčení
+- podpora, která v době, kdy začala být                                        NE                  Podporu lze poskytnout
+  uskutečňována, nevytvářela veřejnou podporu                                                        v rámci existujících
+  a poté se jí stala následkem vývoje vnitřního trhu
+                                                  trhu                                                  režimů podpor
+  bez toho, že by byla státem
+                        členským
+                               pozměněna.
+                                  státem pozměněna.                        A
+
+
+
+
+                                                                                                               Strana 16 / 26
+                                                                                      Vývojový diagram č. 1
+                                                      VEŘEJNÁ PODPORA
+
+
+
+                                                                      A
+
+Novou veřejnou podporou je ve smyslu čl. 1
+písm. c) Nařízení Rady (EU) č. 2015/1589 každá
+podpora,     což   znamená      režimy    podpory
+a jednotlivou podporu, která není existující
+                                                               Jedná se o novou
+podporou, včetně změn existující podpory.                      veřejnou podporu
+
+
+
+
+Blokové výjimky jsou definovány v obecném                                                       Podporu lze
+nařízení o blokových výjimkách (Nařízení Komise                                                 poskytnout
+(EU) č. 651/2014, kterým se v souladu s články 107                 Jedná se o
+a 108 Smlouvy prohlašují určité kategorie podpory                                   ANO     Do 20 pracovních dnů
+                                                              blokovou výjimku              od poskytnutí je nutné
+za slučitelné s vnitřním trhem.
+                                                               ve smyslu čl. 109             informovat Komisi
+                                                                   Smlouvy?                 za účelem zveřejnění
+                                                                                           v Úředním věstníku EU
+
+
+
+                                                                          NE
+Obecné výjimky slučitelné s vnitřním trhem
+(veřejné podpory slučitelné) – v podmínkách
+statutárního města Brna:
+- podpory      sociální    povahy    poskytované              Jedná se o obecnou
+  individuálním spotřebitelům za podmínky, že se              výjimku ve smyslu      ANO
+  poskytují bez diskriminace založené na původu
+  výrobků,
+                                                                 čl. 107 odst. 2
+- podpory určené k náhradě škod způsobených                        Smlouvy?
+  přírodními pohromami nebo jinými mimořádnými
+  událostmi.
+                                                                                             Notifikace
+                                                                                          veřejné podpory
+                                                                                               Komisí
+Individuální výjimky, které mohou být slučitelné s                                           - vývojový
+vnitřním trhem:                                                           NE
+                                                                                            diagram č. 2
+- podpory, které mají napomoci hospodářskému
+  rozvoji oblastí s mimořádně nízkou životní úrovní
+  nebo s vysokou nezaměstnaností,
+- podpory, které mají napomoci uskutečnění
+  některého významného projektu společného
+  evropského zájmu anebo napravit vážnou poruchu                   Jedná se o             ANO
+  v hospodářství některého členského státu,                  individuální výjimku
+- podpory, které mají usnadnit rozvoj určitých                 ve smyslu čl. 107
+  hospodářských aktivit nebo oblastí, pokud nemění             odst. 3 Smlouvy?
+  podmínky obchodu v takové míře, jež by byla
+  v rozporu se společným zájmem,
+- podpory, které mají napomoci kultuře a zachování
+  kulturního dědictví, jestliže neovlivní podmínky
+  obchodu a soutěže ve Společenství v míře
+  odporující společnému zájmu,                                            NE
+- jiné druhy podpor, které mohou být vymezeny
+  rozhodnutím Rady přijatým kvalifikovanou
+  většinou na návrh Komise.
+
+
+                                                                      B
+
+
+
+
+                                                                                                     Strana 17 / 26
+                                                                                               Vývojový diagram č. 1
+                                                    VEŘEJNÁ PODPORA
+
+
+                                                                  B
+
+
+
+
+Výjimky poskytované Radou EU                            Žádost Radě o uznání slučitelnosti
+Rada EU může na žádost členského státu                  ve smyslu čl. 108 odst. 2 Smlouvy
+jednomyslně rozhodnout, že podpora, kterou tento             - výjimka poskytovaná
+stát poskytuje nebo hodlá poskytnout, má být jako                   Radou EU
+výjimka z ustanovení čl. 107 Smlouvy nebo
+nařízení uvedených v čl. 109 Smlouvy
+považována za slučitelnou s vnitřním trhem,
+jestliže mimořádné okolnosti takové rozhodnutí
+odůvodňují.
+
+
+
+
+          Kladné vyjádření Rady                                                              Rada EU se nevyjádří do
+          - podporu lze považovat                                                              tří měsíců od podání
+          za slučitelnou s vnitřním                                                                   žádosti
+                    trhem                                                                       - ve věci rozhodne
+                                                                                                      Komise
+
+
+
+
+                 Notifikace                                                                       Notifikace
+              veřejné podpory                                                                  veřejné podpory
+                   Komisí                                                                           Komisí
+                 - vývojový                                                                       - vývojový
+                diagram č. 2                                                                     diagram č. 2
+
+
+
+
+                                                                                                             Strana 18 / 26
+                                                                                                         Vývojový diagram č. 2a
+                                    PROCES NOTIFIKACE VEŘEJNÉ PODPORY
+
+                                                    Poskytované plnění
+                                                      může zakládat
+                                                    veřejnou podporu
+
+
+Novou veřejnou podporou je
+ve smyslu čl. 1 písm. c) Nařízení
+Rady (ES) č. 659/1999 každá                          Jedná se o novou               NE
+podpora, což znamená režimy                              veřejnou                              A1
+podpory a jednotlivou podporu,                          podporu?
+která není existující podporou,
+včetně změn existující podpory.
+
+                                                                 ANO
+
+
+ Podpora nesmí být                                Vyplnění standardního                    Notifikační formuláře podle
+ uskutečněna dříve než Komise                        notifikačního                         přílohy Nařízení Komise (ES)
+ přijme rozhodnutí schvalující                         formuláře                           č. 794/2004 lze najít online na
+ tuto podporu.                                                                             webu Evropské komise, popř.
+                                                                                           prostřednictvím Úřadu pro ochranu
+                                                                                           hospodářské soutěže
+
+ Konzultace s ÚOHS.                               Odeslání notifikačního
+ Notifikace probíhá                                 formuláře Komisi
+ prostřednictvím stálého                          v elektronické podobě
+ zastoupení ČR při EU.
+
+
+
+
+                                                                                                            Pokud nejsou
+                                                                                                            doplňující dotazy
+                                                                                                            Komise zodpovězeny
+Komise nerozhodla ve lhůtě                   Úplné notifikační               Neúplné notifikační            ve stanovené lhůtě,
+  dvou měsíců od obdržení                      formuláře                          formuláře                 má se za to, že
+      úplné notifikace                                                      Komise požádá o další           notifikovaný záměr
+ Souhlas Komise s veřejnou                                                 informace ve lhůtě dvou          veřejné podpory byl
+  podporou se považuje za                                                     měsíců od obdržení            předkladatelem
+          udělený                                                                  oznámení                 stažen.
+
+
+Poskytovatel oznámí Komisi,                                               Poskytovatel ve stanovené         Poskytovatel může být
+  že veřejná podpora bude                                                lhůtě poskytne požadované          Komisí vyzýván
+         poskytnuta                                                              informace                  opakovaně k doplnění
+                                                                                                            informací.
+
+                                                     Předběžné přezkoumání
+                                                             oznámení
+         Podporu lze                              Rozhodnutí Komise jsou učiněna
+         poskytnout                               do 2 měsíců od obdržení úplného
+                                                             oznámení
+
+
+                S poskytnutím veřejné podpory
+                je nutné vyčkat 15 prac. dnů od
+                doručení oznámení Komisi,                   B1
+                neboť Komise může v této lhůtě
+                přijmout rozhodnutí.
+
+
+
+
+                                                                 -1-
+
+                                                                                                                      Strana 19 / 26
+                                                                                       Vývojový diagram č. 2a
+                       PROCES NOTIFIKACE VEŘEJNÉ PODPORY
+
+                         B1
+
+
+
+
+Oznámená podpora    Rozhodnutí nevznášet             Rozhodnutí zahájit formální    Postup Komise podle čl.
+  není veřejnou            námitky                        vyšetřovací řízení        4 odst. 4, 6, 9 Nařízení
+    podporou        Komise nevznese žádné              Komise má pochybnosti        Rady (EU) č. 2015/1589.
+                   pochybnosti o slučitelnosti         o slučitelnosti oznámené
+                     oznámené podpory se              podpory s vnitřním trhem
+                       společným trhem
+
+
+
+
+  Podporu lze                                         Komise vydá rozhodnutí
+                     Veřejnou                      ve smyslu čl. 9 Nařízení Rady
+  poskytnout        podporu lze                         (EU) č. 2015/1589
+                    poskytnout
+
+
+
+
+   Oznámená         Kladné rozhodnutí                Podmínečné rozhodnutí         Záporné rozhodnutí
+  podpora není       Komise rozhodne               Komise připojí ke kladnému        Komise shledá
+    veřejnou       o slučitelnosti veřejné       rozhodnutí podmínky, za kterých    veřejnou podporu
+   podporou        podpory se společným             může být veřejná podpora         neslučitelnou s
+                            trhem                  považována za slučitelnou s       vnitřním trhem
+                                                         vnitřním trhem
+
+
+
+
+ Podporu lze        Veřejnou podporu                 Veřejnou podporu lze           Veřejnou podporu
+ poskytnout          lze poskytnout                 poskytnout při dodržení         nelze poskytnout
+                                                     stanovených podmínek
+
+
+
+
+                                                    -2-
+
+                                                                                                    Strana 20 / 26
+                                                                                        Vývojový diagram č. 2b
+                                   PROCES NOTIFIKACE VEŘEJNÉ PODPORY
+
+Existující veřejná podpora ve smyslu čl. 1
+písm. b) Nařízení Rady (EU) č. 2015/1589:
+- stále účinná podpora = režimy podpor                             A1
+   a jednotlivé podpory, které byly zavedeny před
+   vstupem Smlouvy o fungování EU v platnost a
+   zůstávají použitelné i po vstupu,
+- schválená podpora = režimy podpory a jednotlivé
+   podpory schválené Komisí nebo Radou,
+- podpora, která se považuje za schválenou podle
+   čl. 4 odst. 6 Nařízení Rady (ES) č. 659/1999            Jedná se o existující          Podle čl. 21 odst. 2 Nařízení
+   nebo podle čl. 4 odst. 6 Nařízení Rady (EU) č.           veřejnou podporu              Rady (EU) č. 2015/1589
+   2015/1589 (Komise nerozhodla ve stanovené                                              informuje Komise poskytovatele
+   lhůtě 2 měsíců) nebo před Nařízením Rady (ES)                                          o svém předběžném názoru, že
+   č. 659/1999, ale v souladu s tímto postupem                                            existující    režim      podpory
+- podpora, která se považuje za existující podporu                                        považuje za neslučitelný nebo již
+   podle čl. 17 Nařízení Rady (EU) č. 2015/1589                                           neslučitelný s vnitřním trhem.
+   (promlčení navrácení podpory ve lhůtě 10 let),          Spolupráce Komise              Komise      dá      poskytovateli
+- podpora, která v době, kdy začala být                   a poskytovatele včetně          možnost předložit ve lhůtě
+   uskutečňována, nevytvářela veřejnou podporu            možnosti poskytovatele          jednoho     měsíce     vyjádření.
+   a poté se jí stala následkem vývoje vnitřního trhu       předložit vyjádření           V řádně           odůvodněných
+   bez toho, že by byla členským státem                                                   případech    lze    tuto    lhůtu
+   pozměněna.                                                                             prodloužit.
+
+
+ Shledá-li Komise na základě spolupráce
+ s poskytovatelem, že existující režim podpory
+ není nebo již není slučitelný s vnitřním trhem          Návrh vhodných opatření
+ vydá podle čl. 22 Nařízení Rady (EU)                            Komisí
+ č. 2015/1589 doporučení navrhující vhodná
+ opatření:
+ - podstatnou změnu režimu podpory, nebo
+ - zavedení procesních požadavků, nebo
+ - zrušení dotyčného režimu podpory.
+
+
+
+
+                              Poskytovatel nepřijme              Poskytovatel přijme               Navrhovaná opatření se
+                                navrhovaná opatření              navrhovaná opatření               svým přijetím stávají
+                             a Komise stále považuje          a uvědomí o tom Komisi,              pro      poskytovatele
+                             tato opatření za nezbytná        která zjištění zaznamená             závazná.
+                                                              a uvědomí poskytovatele
+ Postup Komise
+ podle čl. 4 odst. 4
+ Nařízení Rady                Komise zahájí formální
+ (EU) č.                        vyšetřovací řízení
+ 2015/1589 a čl. 6,                                             Notifikace existující
+ 9, 11 tohoto
+                                                                 veřejné podpory
+ nařízení se
+ použijí obdobně.                                                na zjednodušeném
+                                                               formuláři dle Nařízení
+                                         B2                   Komise (ES) č. 794/2004
+
+
+
+
+                                                                                                              Strana 21 / 26
+                                                                 Vývojový diagram č. 2b
+                  PROCES NOTIFIKACE VEŘEJNÉ PODPORY
+
+
+
+                                       B2
+
+
+
+                             Komise vydá rozhodnutí
+                             ve smyslu čl. 9 Nařízení
+                             Rady (EU) č. 2015/1589
+
+
+
+
+ Kladné rozhodnutí           Podmínečné rozhodnutí          Záporné rozhodnutí
+  Komise rozhodne           Komise připojí ke kladnému        Komise shledá
+o slučitelnosti veřejné   rozhodnutí podmínky, za kterých    veřejnou podporu
+ podpory s vnitřním          může být veřejná podpora         neslučitelnou s
+         trhem              považována za slučitelnou s       vnitřním trhem
+                                  vnitřním trhem
+
+
+
+
+ Veřejnou podporu            Veřejnou podporu lze            Veřejnou podporu
+  lze poskytnout             poskytnout při dodržení          nelze poskytnout
+                              stanovených podmínek
+
+
+                                                             U existující veřejné
+                                                             podpory       rozhodnutí
+                                                             vstupuje       v platnost
+                                                             ex nunc (tato podpora
+                                                             poskytnutá před nabytím
+                                                             právní moci rozhodnutí,
+                                                             nemusí být vrácena).
+
+
+
+
+                                                                                         Strana 22 / 26
+                                                  PODPORA DE MINIMIS                                               Vývojový diagram č. 3
+
+Při každém novém přidělení podpory je třeba
+posoudit, zda se jedná o plnění, které může naplnit
+následující znaky veřejné podpory ve smyslu čl. 107
+odst. 1 Smlouvy:
+- je poskytnuto ze státních prostředků,                                  Je podpora nižší než
+- zvýhodňuje určité podniky nebo určitá odvětví                             300 000 EUR                        NE
+  výroby,
+nesplňuje však ostatní znaky veřejné podpory
+z důvodu, že podpora, která za období tří let
+poskytnutá jednomu podniku nepřesáhne strop ve výši
+300 000 EUR (neovlivní obchod mezi členskými státy
+nebo nenaruší hospodářskou soutěž).
+
+                                                                           ANO
+Nařízení Komise č. 2023/2831 se vztahuje na
+podporu poskytnutou podnikům ve všech odvětvích
+s výjimkou podpor:
+- v odvětví rybolovu a akvakultury,
+- v odvětví prvovýroby zemědělských produktů,
+- v odvětví zpracování a uvádění zemědělských
+  produktů na trh v případech uvedených v čl.                           Vztahuje se podpora                   ANO           Veřejná podpora
+  1 Nařízení Komise č. 2023/2831,                                       na odvětví uvedené                                 - vývojový diagram
+- na činnosti spojené s vývozem,                                          v čl. 1 Nařízení                                         č. 1
+- závislých na užití domácích produktů na úkor                          Komise č. 2023/2831
+  dovážených produktů a služeb,
+- udělených podnikům v obtížích,
+
+                                                                            NE
+
+Nařízení Komise č. 2023/2831 lze použít pouze na
+transparentní typy podpor, popř. na takové typy                               Jedná se                        NE
+opatření, u nichž je možné přesně vypočíst výši                           o transparentní
+podpory. Transparentní podpora dle Nařízení Komise                           podporu?
+č. 2023/2831 je podpora, v jejímž případě lze předem
+přesně vypočíst hrubý ekvivalent grantu u podpory ex
+ante bez nutnosti provádět hodnocení rizik.
+                                                                           ANO
+
+Zamýšlená částka podpory - částka                      Povinnost poskytovatele ověřit v centrálním registru podpor, zda
+vyjádřená jako hrubý ekvivalent podpory.               nedojde k překročení stanoveného limitu jednoho podniku, sdělit
+                                                       písemně potenciálnímu příjemci zamýšlenou částku podpory,
+Nutno upozornit na charakter podpory                   upozornit ho na charakter podpory de minimis a vyžádat si od něj
+de minimis s výlučným odvoláním na                     prohlášení v písemné či elektronické formě o vztahu propojenosti s
+nařízení Komise č. 2023/2831, citací jeho              ostatními podniky ve smyslu definice jednoho podniku.
+názvu a jeho uveřejněním v Úředním
+věstníku EU.
+
+
+
+
+                                                   Příjemce obdržel                             Příjemce neobdržel
+                                                  podporu de minimis                            podporu de minimis
+                                                   v tříletém období                             v tříletém období
+
+
+
+
+                                              Překračuje celkový součet
+                                               podpor de minimis (včetně                               NE
+                                                                                                                         Podporu de minimis
+                                            potenciální podpory) v období tří                                              lze poskytnout
+                                                let částku 300 000 EUR
+
+
+                                                                                                            Povinnosti poskytovatele podpory
+                                                                                                            de minimis:
+                                                       ANO                                                  - shromažďovat veškeré údaje týkající se
+                                                                                                              použití       podpory       de minimis
+                                                                                                              a zaznamenávat je do centrálního
+                                                    Veřejná podpora                                           registru do 20 pracovních dní od
+                                                   - vývojový diagram                                         poskytnutí podpory
+                                                                                                            - záznamy archivovat po dobu 10 let
+                                                           č. 1
+                                                                                                              od data přidělení podpory de minimis
+
+                                                                                                                                      Strana 23 / 26
+                                                                                       Vývojový diagram č. 4
+
+
+
+
+Podniky s přímou vazbou na orgán veřejné moci a jejich propojenost
+
+Podniky, které mají přímou vazbu na tentýž orgán veřejné moci a nemají žádný vzájemný vztah, se za
+„jeden podnik“ nepovažují. Totéž platí i pro samotnou vazbu mezi podnikem a orgánem veřejné moci,
+pokud bude daný podnik zřizovaný či ovládaný veřejným orgánem – ani tyto subjekty nebudou
+považovány za „jeden podnik“.
+
+Níže jsou uvedeny dva příklady skupin podniků, které mají vazbu na orgán veřejné moci. V
+jednotlivých příkladech je vysvětleno, zda jsou podniky považovány za "jeden podnik".
+
+
+Obec vlastní dvě příspěvkové organizace (podnik A, B) a jednu společnost s ručením omezeným
+(podnik C).
+
+
+
+                    Podnik A                   Obec                   Podnik C
+                 příspěv. organizace                                   spol. s r. o.
+
+
+
+
+                                             Podnik B
+                                          příspěv. organizace
+
+
+
+
+Jak je zřejmé ze zadání, tak všechny tři výše uvedené podniky mají přímou vazbu na tentýž orgán
+veřejné moci – obec. Podniky A, B a C, a tedy ani obec, která provádí hospodářskou činnost, nejsou
+považovány za „jeden podnik“. Jelikož subjekty v předmětné struktuře nejsou „jedním podnikem“,
+může samostatně každý z nich včetně obce obdržet v rozhodném období podporu do výše 300 000
+EUR dle nařízení 2023/2831.
+
+
+
+
+                                                                                                        Strana 24 / 26
+~
+Obec vlastní dvě příspěvkové organizace (podnik A, B) a jednu společnost s ručením omezeným
+(podnik C), která vlastní podniky D a E a v každém z nich má 60% podíl.
+
+
+
+
+                                                                                 Podnik D
+       Podnik A                   Obec                  Podnik C
+    příspěv. organizace                                  spol. s r. o.
+                                                                                 Podnik E
+
+
+
+
+                                Podnik B
+                             příspěv. organizace
+
+
+
+
+Podniky A, B a C mají přímou vazbu na tentýž orgán veřejné moci – obec. Z výše uvedeného je tedy
+patrné, že podniky A, B a C a ani obec nejsou považovány za „jeden podnik“. Podniky D a E jsou
+považované za „jeden podnik“ s podnikem C, jestliže tento podnik vlastní více než 50% podíl obou
+podniků.
+
+Podniky A, B a C nejsou „jedním podnikem“, každý z nich, včetně obce, může samostatně obdržet v
+rozhodném období podporu do výše 300 000 EUR dle nařízení 2023/2831. V případě podniku C je
+ovšem nezbytné do výpočtu zbývajícího limitu pro podporu de minimis připočíst i výši podpory de
+minimis, kterou obdržely podniky D a E.
+
+
+
+
+                                                                                            Strana 25 / 26
+                                                                                    Příloha č. 5
+
+Symboly použité ve vývojových diagramech:
+
+
+              postup                                upřesňující informace
+
+
+             rozhodnutí
+                                                    ukončení/závěr
+
+             dokument
+                                                    spojka mezi stránkami
+
+              nebo                                  návaznost na jiný vývojový diagram
+
+
+
+Použité zkratky:
+Komise                             - Evropská komise
+Rada EU                            - Rada Evropské unie
+EU                                 - Evropská unie
+Společenství                       - Evropské společenství
+ČR                                 - Česká republika
+ÚOHS                               - Úřad pro ochranu hospodářské soutěže
+Smlouva                            - Smlouva o fungování Evropské unie
+Nařízení Rady (EU) č. 2015/1589    - Nařízení Rady (EU) č. 2015/1589, kterým se stanoví
+                                     prováděcí pravidla k článku 108 Smlouvy o fungování EU
+Nařízení Komise (ES) č. 794/2004   - Nařízení Komise (ES) č. 794/2004, kterým se provádí
+                                     nařízení Rady (EU) 2015/1589, kterým se stanoví prováděcí
+                                     pravidla k článku 108 Smlouvy o fungování EU
+
+                                   - Nařízení Komise (EU) 2023/2831 o použití článků 107 a
+Nařízení Komise č. 2023/2831         108 Smlouvy na podporu de minimis
+Nařízení Komise č. 651/2014        - Nařízení Komise (EU) č. 651/2014 ze dne 17. června 2014 ,
+                                     kterým se v souladu s články 107 a 108 Smlouvy prohlašují
+                                     určité kategorie podpory za slučitelné s vnitřním trhem
+
+
+
+
+                                                                                         Strana 26 / 26
+

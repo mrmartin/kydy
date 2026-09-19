@@ -1,0 +1,68 @@
+                Schválený rozpočet běžných a kapitálových výdajů města Brna na rok 2026
+                                    - rekapitulace dle oddílů (v tis. Kč)
+
+Odd.                       Název oddílu                       SR 2025        SR 2026        SR26/SR25     Podíl na výdajích
+                                                                                               (%)          SR 2026 (%)
+ 10 Zemědělství, lesní hospodářství a rybářství                     15 546         18 325        117,9                 0,1
+ 21 Průmysl, stavebnictví, obchod a služby                          93 583         95 959        102,5                 0,6
+ 22 Doprava                                                      4 047 002      4 199 631        103,8                24,7
+ 23 Vodní hospodářství                                              13 061         16 102        123,3                 0,1
+31,32 Vzdělávání a školské služby                                   69 809         85 095        121,9                 0,5
+ 33 Kultura, církve a sdělovací prostředky                       1 565 668      1 735 754        110,9                10,2
+ 34 Sport a zájmová činnost                                        662 043        707 146        106,8                 4,2
+ 35 Zdravotnictví                                                  233 206        231 449          99,2                1,4
+ 36 Bydlení, komunální služby a územní rozvoj                    1 127 550        956 639          84,8                5,6
+ 37 Ochrana životního prostředí                                    576 835        671 306        116,4                 3,9
+ 38 Ostatní výzkum a vývoj                                          42 600         43 465        102,0                 0,3
+ 39 Ost. činnosti související se službami pro fyzické osoby         46 572         51 401        110,4                 0,3
+ 43 Sociální služby a společné činnosti                          1 061 297      1 128 281        106,3                 6,6
+ 52 Civilní připravenost na krizové stavy                            5 984         25 984        434,2                 0,2
+ 53 Bezpečnost a veřejný pořádek                                   617 505        738 219        119,5                 4,3
+ 55 Požární ochrana a integrovaný záchranný systém                  12 000         12 498        104,2                 0,1
+ 61 Státní správa a územní samospráva                            1 742 907      1 967 654        112,9                11,6
+ 62 Jiné veřejné služby a činnosti                                  20 553         23 679        115,2                 0,1
+ 63 Finanční operace                                             3 471 747      4 225 174        121,7                24,9
+ 64 Ostatní činnosti                                               105 000         64 000          61,0                0,4
+      Běžné výdaje celkem                                       15 530 468     16 997 761        109,4               100,0
+ 10 Zemědělství, lesní hospodářství a rybářství                     13 860         13 174          95,1                0,2
+ 21 Průmysl, stavebnictví, obchod a služby                           5 860          5 000          85,3                0,1
+ 22 Doprava                                                      2 285 476      2 761 008        120,8                31,9
+ 23 Vodní hospodářství                                           1 080 289        989 989          91,6               11,4
+31,32 Vzdělávání a školské služby                                  157 955        313 167        198,3                 3,6
+ 33 Kultura, církve a sdělovací prostředky                         413 065      1 278 932        309,6                14,8
+ 34 Sport a zájmová činnost                                      2 228 482        927 024          41,6               10,7
+ 35 Zdravotnictví                                                  127 814         83 300          65,2                1,0
+ 36 Bydlení, komunální služby a územní rozvoj                      777 567        866 699        111,5                10,0
+ 37 Ochrana životního prostředí                                    375 714        336 145          89,5                3,9
+ 39 Ost. činnosti související se službami pro fyzické osoby            800            800        100,0                 0,0
+ 43 Sociální služby a společné činnosti                            447 618        508 160        113,5                 5,9
+ 53 Bezpečnost a veřejný pořádek                                    27 820         16 379          58,9                0,2
+ 55 Požární ochrana a integrovaný záchranný systém                  59 603         64 732        108,6                 0,7
+ 61 Státní správa a územní samospráva                              184 075        207 671        112,8                 2,4
+ 62 Jiné veřejné služby a činnosti                                   5 730          4 839          84,5                0,1
+ 63 Finanční operace                                               246 640        265 264        107,6                 3,1
+ 64 Ostatní činnosti                                                75 666         23 750          31,4                0,3
+      Kapitálové výdaje celkem                                   8 514 034      8 666 033        101,8               100,0
+
+ 10 Zemědělství, lesní hospodářství a rybářství                     29 406         31 499        107,1                 0,1
+ 21 Průmysl, stavebnictví, obchod a služby                          99 443        100 959        101,5                 0,4
+ 22 Doprava                                                      6 332 478      6 960 639        109,9                27,1
+ 23 Vodní hospodářství                                           1 093 350      1 006 091         92,0                 3,9
+31,32 Vzdělávání a školské služby                                  227 764        398 262        174,9                 1,6
+ 33 Kultura, církve a sdělovací prostředky                       1 978 733      3 014 686        152,4                11,7
+ 34 Sport a zájmová činnost                                      2 890 525      1 634 170         56,5                 6,4
+ 35 Zdravotnictví                                                  361 020        314 749         87,2                 1,2
+ 36 Bydlení, komunální služby a územní rozvoj                    1 905 117      1 823 338         95,7                 7,1
+ 37 Ochrana životního prostředí                                    952 549      1 007 451        105,8                 3,9
+ 38 Ostatní výzkum a vývoj                                          42 600         43 465        102,0                 0,2
+ 39 Ost. činnosti související se službami pro fyzické osoby         47 372         52 201        110,2                 0,2
+ 43 Sociální služby a společné činnosti                          1 508 915      1 636 441        108,5                 6,4
+ 52 Civilní připravenost na krizové stavy                            5 984         25 984        434,2                 0,1
+ 53 Bezpečnost a veřejný pořádek                                   645 325        754 598        116,9                 2,9
+ 55 Požární ochrana a integrovaný záchranný systém                  71 603         77 230        107,9                 0,3
+ 61 Státní správa a územní samospráva                            1 926 982      2 175 325        112,9                 8,5
+ 62 Jiné veřejné služby a činnosti                                  26 283         28 518        108,5                 0,1
+ 63 Finanční operace                                             3 718 387      4 490 438        120,8                17,5
+ 64 Ostatní činnosti                                               180 666         87 750         48,6                 0,3
+      Výdaje CELKEM                                             24 044 502     25 663 794        106,7               100,0
+

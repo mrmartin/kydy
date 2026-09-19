@@ -1,0 +1,24 @@
+<!doctype html><html lang="cs"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Datový slovník</title><link rel="stylesheet" href="../styl.css"><body><nav><a href="../index.html">Brno 2022–2026 · rozcestník</a> · <a href="../zdroje.html">Katalog pramenů</a></nav><h1>Datový slovník</h1>
+<div class="scroll"><table><thead><tr><th>Soubor</th><th>Obsah a význam</th></tr></thead><tbody>
+<tr><td>osoby.csv</td><td>61 držitelů mandátu, původní listina a hlasy, nástup a konec, současná funkce, klub a prameny</td></tr>
+<tr><td>zmeny_mandatu.csv</td><td>Šest výměn, osoba před a po, dny zániku/nástupu, zdroj</td></tr>
+<tr><td>soucasni_zastupitele.csv</td><td>Snímek 55 položek oficiálního městského seznamu</td></tr>
+<tr><td>clenstvi_organy.csv</td><td>Nalezená aktuální členství zastupitelů ve výborech a komisích; nejde o úplnou historickou tabulku</td></tr>
+<tr><td>hlasovani.csv</td><td>Jeden protokol na řádek: datum, předmět, agregace, výsledek, zdroj, platnost a možnost statistického použití</td></tr>
+<tr><td>hlasy_jmenovite.csv</td><td>Jeden řádek osoba × hlasování. Volba Ano/Ne/Zdržel se/Nehlasoval/nepřít. dle protokolu; volba_original uchovává VK. Pro statistiky filtrovat pouzitelne_pro_statistiky=ano; důvod výjimky je v omezeni_protokolu</td></tr>
+<tr><td>statistiky_hlasovani.csv</td><td>Osobní souhrny; bez neplatných pokusů a zvláštního Z9/11 č. 12</td></tr>
+<tr><td>osoby_pasaze_zapisu.csv</td><td>Pomocné výskyty jmen v pasážích, strana PDF; priorita_rejstriku je technické řazení, nikoli skóre osoby</td></tr>
+<tr><td>vybrana_hlasovani*.csv</td><td>Kurátorský výběr 12 významných hlasování a jejich osobní rozpis</td></tr>
+<tr><td>finance_srovnatelna_rada.csv</td><td>Stejný rozpočtový rozsah; tisíce Kč, plán a skutečnost odděleny</td></tr>
+<tr><td>temata_bilance.csv</td><td>26 ručně zpracovaných témat s milníkem, omezením závěru a prameny</td></tr>
+<tr><td>programove_zavazky.csv</td><td>Všech 140 očíslovaných bodů společného programového prohlášení, vazba na posouzená témata</td></tr>
+<tr><td>zasedani.csv, materialy_zmb_index.csv</td><td>Vazby zasedání → materiál → URL</td></tr>
+<tr><td>projekty_index.csv, projekty_udalosti.csv</td><td>31 projektů a jejich veřejně uvedená časová osa; jedna událost může patřit k více projektům</td></tr>
+<tr><td>zdroje.csv, zdroje.jsonl</td><td>Poslední stav zdrojů, resp. historie pokusů; URL, datum stažení, cesta, velikost, SHA-256</td></tr>
+<tr><td>kontrola_*.csv, pokryti_zasedani.csv</td><td>Výsledky automatických kontrol a známé mezery</td></tr>
+<tr><td>csu_kvrk_brno_2022.csv</td><td>668 kandidátů; MANDAT=A znamená zvolen; PORADINAHR původní náhradnictví, nikoli doklad pozdějšího nástupu</td></tr>
+<tr><td>csu_kvros_brno_2022.csv</td><td>14 kandidátek; MAND_STR mandáty, PROCHLSTR přepočtené procento bez zaokrouhlení dle schématu ČSÚ</td></tr>
+<tr><td>csu_kvrzcoco_brno_2022.csv</td><td>Územní pokrytí celoměstských voleb; řádky MČ nejsou jejich samostatná zastupitelstva</td></tr>
+<tr><td>csu_schema_*.json</td><td>Původní schémata CSV z balíku ČSÚ</td></tr>
+</tbody></table></div>
+<p>Identifikátory dvou Bořeckých: petr-borecky = architekt, kandidátka ANO 2022; petr-borecky-1 = kandidátka Lidovci a Starostové. Karin Karasová, Karin Podivinská a Karin Podivinská Karasová mají společné osoba_id karin-podivinska-karasova.</p><footer>Místní rešeršní archiv · uzávěrka 18. 9. 2026 · <a href="../analyzy/metodika.html">Metodika a omezení</a></footer></body></html>

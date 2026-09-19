@@ -1,0 +1,3293 @@
+                    MONITOROVACÍ ZPRÁVA
+K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY
+     (2025) – STATUTÁRNÍ MĚSTO BRNO 2025
+                                  Říjen 2025
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+
+OBSAH
+1. SOUHRN PRO VEDENÍ MĚSTA ......................................................................................... 3
+
+2. HODNOCENÍ STAVU STRATEGIE SECAP ....................................................................... 9
+    2.1      Vize a priority SECAP .................................................................................................. 9
+    2.2      Plnění cíle statutárního města Brna ve snižování emisí CO2...................................... 9
+    2.3      Hodnocení integrace SECAP a ostatních rozvojových strategií města ...................... 9
+    2.4      Priority SECAP........................................................................................................... 12
+    2.5      Koordinace a organizační zabezpečení SECAP ....................................................... 14
+    2.6      Financování projektů ................................................................................................. 17
+
+3. HODNOCENÍ PLNĚNÍ OPATŘENÍ AKČNÍHO PLÁNU UDRŽITELNÉ ENERGETIKY A
+   KLIMATU (SECAP) ............................................................................................................ 19
+    3.1      Mitigační opatření ...................................................................................................... 19
+         3.1.1      Opatření v sektoru obecních budov..........................................................................19
+         3.1.2      Stav realizace opatření ve veřejném osvětlení .........................................................29
+         3.1.3      Opatření v ostatním terciéru .....................................................................................31
+         3.1.4      Stav realizace opatření v domech pro bydlení .........................................................33
+         3.1.5      Stav realizace opatření v dopravě ............................................................................36
+         3.1.6      Stav opatření v místní výrobě elektřiny a tepla ........................................................42
+    3.2      Adaptační opatření..................................................................................................... 44
+    3.3      Opatření v oblasti energetické chudoby .................................................................... 52
+         3.3.1      Rekonstrukce starých objektů ..................................................................................53
+    3.4      Porovnání plánovaných a realizovaných opatření .................................................... 60
+
+4. POSOUZENÍ RIZIK A ZRANITELNOSTI .......................................................................... 61
+
+5. ZÁVĚR ................................................................................................................................ 64
+
+6. ZPRACOVATEL ................................................................................................................. 65
+
+
+
+
+                                                                                                                                         2
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+      1. SOUHRN PRO VEDENÍ MĚSTA
+Statutární město Brno se oficiálně zapojilo do iniciativy Pakt starostů a primátorů v září 2017.
+Podstatou členství v Paktu je uskutečňovat konkrétní vybrané projekty města, které povedou
+ke snížení CO2 nejméně o 40 % do roku 2030 oproti výchozímu roku, pro který byla zpracována
+bilance emisí CO2. Projekty a opatření, která povedou k dosažení požadovaného snížení emisí
+CO2 jsou obsahem Akčního plánu udržitelné energetiky a klimatu.
+
+Předložená monitorovací zpráva – zpráva o plnění Akčního plánu udržitelné energetiky
+Statutárního města Brna – hodnotí vývoj v období let od poslední monitorovací zprávy z října
+2023. Zpráva byla vytvořena v souladu se „Směrnicí o podávání zpráv“ z března 2020 a data
+byla vložena do systému pomocí aktuálního „Nového monitorovacího formuláře“.
+
+Monitorovací zpráva shrnuje provedená strategická opatření, posouzení rizik a zranitelnosti a
+zmírňující opatření, adaptační opatření a opatření v oblasti energetické chudoby. V této
+souvislosti je potřeba zdůraznit, že monitorovací zpráva obsahuje především výsledky dílčích
+opatření tam, kde byla poskytnuta aktuální data o spotřebě paliv a energie i skutečně dosažené
+provozní energetické úspory.
+
+Na základě zjištěných výsledků lze však konstatovat, že Akční plán udržitelné energetiky a
+klimatu statutárního města Brna přinesl významné pozitivní změny v oblasti snížení spotřeby
+energií, tím i ve snížení nákladů na paliva a energii, ve snížení produkce emisí skleníkových
+plynů i znečišťujících látek do ovzduší.
+
+Administrativní zajištění realizace SECAP
+
+Pro plnění Akčního plánu udržitelné energetiky a klimatu bylo klíčovým krokem ustanovení
+koordinační skupiny a týmu koordinovaného manažerem pro SECAP, který zajišťuje spolupráci
+jednotlivých odborů magistrátu města a umožňuje dohled vedení města na plnění jednotlivých
+úkolů Akčního plánu. Hlavním úkolem koordinační skupiny je uskutečňovat konkrétní vybrané
+projekty města, které povedou ke snížení CO2. Funkce manažera SECAP byla zřízena v roce
+2019. Odborem, který je odpovědný za řízení aktivit v rámci CoM, je odbor životního prostředí
+Magistrátu města Brna, oddělení motivačních programů.
+
+Monitorovací zprávy
+
+Monitorovací zpráva v předepsaném formátu musí být předložena každé 2 roky po termínu
+předložení SECAP. Cílem monitoringu je vyhodnotit pokrok, kterého bylo dosaženo
+v souvislosti s cíli stanovenými ve strategii akčního plánu. Monitoring je nedílnou součástí
+každého plánovacího cyklu, který umožňuje naplánování nápravných opatření. Vzhledem
+k náročnosti zpracování úplné monitorovací zprávy je dovoleno zpracovávat úplnou bilanci
+emisí CO2 každé 4 roky.
+
+Město Brno předkládá v roce 2025 pouze posouzení plnění jednotlivých aktivit SECAP
+(Podávání zpráv o jednotlivých opatřeních – Monitoring Action Reporting).
+
+
+
+
+                                                                                              3
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+Obrázek 1:    Průběh monitoringu SECAP
+
+
+
+
+Zdroj: Covenant reporting guidelines, CZ, verze březen 2020
+
+
+Tabulka 1:    Obsah SECAP a obsah monitorovací zprávy
+
+  Část dokumentu                        SECAP                             Monitoring
+                                        Věnována celkovým emisím
+                                        CO2 a konečnému cíli v jejich     Věnuje se všem změnám
+                                        snížení, vizi, personálnímu       v celkové strategii, aktualizaci
+  Část I.
+                                        zajištění, organizačnímu          údajů v počtu osob, finančním
+  Celková strategie                     zabezpečení a možnostem           alokacím apod.
+                                        financování opatření Akčního
+                                        plánu.
+                                        Jejím obsahem je shrnutí
+                                        konečné spotřeby paliv a
+                                        energie podle jednotlivých
+  Část II.                                                                Není zahrnuta, bude
+                                        sektorů a vyjádření
+                                                                          předmětem až další úplné
+  Bilance emisí CO2                     ekvivalentních emisí CO2 podle
+                                                                          monitorovací zprávy.
+                                        jednotlivých druhů paliv a
+                                        spotřebovaných druhů energií
+                                        ve výchozím roce (tj. r. 2000).
+                                                                          V rámci monitoringu je RVA
+                                        Vypracování Posouzení rizik a     analýza aktualizována
+  Část III. Rizika a zranitelnost       zranitelnosti (RVA) je výchozím   s ohledem na případné nové
+                                        bodem pro vypracování části       skutečnosti a znalosti.
+
+
+                                                                                                             4
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+  Část dokumentu                       SECAP                              Monitoring
+                                       vašeho akčního plánu o
+                                       adaptaci na změnu klimatu.
+
+
+                                       Věnuje se jednotlivým aktivitám,
+                                       navrženým pro dosažení
+  Část IV.                             celkové strategie, spolu
+                                                                          Věnuje se monitorování
+                                       s časovým horizontem jejich
+  Akční plán udržitelné                                                   klíčových aktivit a opatření a
+                                       realizace, finančními náklady a
+  energetiky                                                              stavu jejich realizace.
+                                       přínosy, přiděleným
+                                       odpovědnostem, přidělenému
+                                       rozpočtu.
+
+
+
+Sektory zařazené do SECAP a do monitorovací zprávy
+Sektory, zařazené do SECAP musí být stejné ve výchozí/srovnávací bilanci emisí CO2 i
+v monitorovacích zprávách
+
+Tabulka 2:   Sektory, zařazené do SECAP v souladu s metodikou Paktu
+
+                                                 Zařazeno
+ Započtené sektory                               do           Poznámka
+                                                 bilance
+
+ Budovy, vybavení a zařízení v majetku
+                                                   ANO
+ města
+
+ Terciární sektor (mimo majetek města) -                      Tyto sektory zahrnují veškerou spotřebu
+                                                   ANO        energie v budovách, zařízeních a
+ budovy, vybavení a zařízení
+                                                              spotřebičích, která není zahrnuta v dalších
+                                                              sektorech – například spotřeba energie
+ Domy pro bydlení                                  ANO        v úpravě pitné vody, čištění odpadních vod
+                                                              apod.
+
+
+ Veřejné osvětlení                                 ANO
+
+ Městská silniční doprava – vozidla města
+ (služební vozidla, doprava odpadu, policie,       ANO        Tato část zahrnuje emise veškeré přepravy
+ …)                                                           těchto vozidel.
+
+ Městská silniční doprava: veřejná městská
+                                                   ANO
+ doprava (MHD)
+
+ Městská silniční doprava: Osobní a                           Zahrnuje část osobní přepravy na
+                                                   ANO
+ podniková doprava                                            komunikacích v majetku města.
+
+                                                              Tento sektor zahrnuje městskou kolejovou
+ Městská kolejová doprava                          ANO        přepravu na území města - např. tramvaje,
+                                                              metro a lokální vlaky
+
+
+V roce 2019 byla zpracována výchozí bilance emisí CO2 (BEI – baseline emissions inventory),
+která kvantifikovala množství CO2, které bylo emitováno díky spotřebě paliv a energie na území
+města v uvedených sektorech ve výchozím roce 2000. Výchozí inventura emisí města ukazuje,
+jaké byly emise na počátku, úkolem města je monitorovat, jak se emise vyvíjejí v porovnání se
+
+
+
+                                                                                                            5
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+stanoveným cílem k roku 2030. Předpoklad snížení emisí CO2 do roku 2020 byl stanoven na
+15,88 % a do roku 2030 o 42,12 % ve srovnání s rokem 2000.
+
+Vývoj v konečné spotřebě paliv a energie v sektorech SECAP
+
+Jak již bylo uvedeno v předchozí části dokumentu (Tabulka 1), není monitoring emisí
+předmětem této monitorovací zprávy SECAP. Pro přehlednost je dále uveden minulý vývoj
+emisí CO2 ze sledovaných sektorů, tak jak byly stanoveny ve výchozí emisní bilanci a v Akčním
+plánu. Emise skleníkového plynu – oxidu uhličitého – CO2 – se ve všech bilancích, tj. výchozí
+= základní i monitorovací počítají v souladu s metodikou Covenant of Mayors z konečné
+spotřeby paliv a energie v sektorech, které jsou zařazovány do SECAP.
+
+Tabulka 3:     Konečná spotřeba paliv a energie ve vybraných sektorech SECAP [MWh/rok]
+
+      Sektor            BEI 2000       MEI 2005       MEI 2010       MEI 2015         MEI 2022     MEI 2030*
+
+Obecní budovy,
+                           219 185         207 075        208 470        183 851        223 323       150 993
+vybavení/zařízení
+Terciární (neobecní)
+budovy,                  2 147 302       1 891 865      1 889 858      1 883 905       1 567 860    1 375 250
+vybavení/zařízení
+Obytné budovy            2 914 113       2 727 734      2 487 792      2 338 523       1 996 240    1 771 261
+Městské/obecní
+                             20 431         15 507         16 257            16 049      14 032        10 049
+veřejné osvětlení
+Obecní vozový park            6 685         10 183          9 313             8 326       8 326         8 286
+
+Veřejná doprava            131 278         141 190        139 996        137 095        151 135       144 388
+Soukromá a
+                           477 023         587 761        560 314        583 612        696 728       930 325
+komerční doprava
+Celkem                   5 916 018       5 581 313      5 312 001      5 151 361       4 660 644    4 390 553
+Pozn.: Pro rok 2030 se jedná o předpoklad na základě výpočtů zpracovatele.
+
+Konečná spotřeba paliv a energie se dle SECAP snížila od roku 2000 do roku 2015 na
+území města ve sledovaných sektorech o 12,5 %. Pro dosažení cílů stanovených v rámci
+přistoupení k Paktu starostů a primátorů je navrženo snížení 21, 2 % v roce 2022 a 25,8 %
+v roce 2030. Zejména se jedná o sektory obytných budov a v terciéru v neobecních budovách.
+V dopravě naopak spotřeba energie rostla.
+
+Přepočet na emise CO2 z konečné spotřeby paliv a energie se provádí pomocí „emisního
+faktoru“, který je stanoven podle metodiky IPCC (Intergovernmental Panel on Climate Change)
+pro každé palivo a energii Přístup vychází z množství uhlíku obsaženého v každém palivu.
+Emisní faktory pro výpočty emisí CO2 ze spalovacích procesů podle metodiky IPCC byly
+převzaty z emisní databáze Registru emisí a zdrojů znečišťování ovzduší, vedeného pro
+potřeby emisních bilancí Českým hydrometeorologickým ústavem.
+
+Tyto faktory zahrnují veškeré emise CO2, které vzniknou v důsledku spotřeby energie na území
+působnosti místního orgánu, ať už přímo při spalování paliv v rámci území místního orgánu
+nebo nepřímo prostřednictvím spalování paliv, které souvisí s využíváním elektřiny a
+tepla/chladu v oblasti podléhající místnímu orgánu. Tento přístup vychází z množství uhlíku
+obsaženého v každém palivu, obdobně jako vnitrostátní inventury skleníkových plynů
+související s Rámcovou úmluvou OSN o změně klimatu a s Kjótským protokolem. V tomto
+postupu se emise CO2 vzniklé v důsledku využívání obnovitelné energie i emise z certifikované
+zelené elektřiny považují za nulové.
+
+
+
+                                                                                                          6
+  MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+  STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+  Takto vypočtené emise CO2 v započtených sektorech byly k roku 2000 ve výši 1 990 981 t/rok.
+  Ze započtených sektorů byla největší spotřeba paliv a energie a také nejvyšší emise CO2
+  v sektoru obytných budov. Při realizaci zmírňujících opatření se předpokládá, že v roce 2020
+  budou celkové emise CO2 nižší o 15,9 % a v roce 2030 pak budou celkové emise CO2 nižší o
+  42,1 %, čímž bude dosažen závazek snížení emisí CO2 o 40 % V roce 2022 emise poklesly na
+  1 667 207 t CO2/rok, tedy o 16,3 % proti roku 2000. Následující tabulka uvádí výsledné emise
+  CO2.
+
+  Tabulka 4:      Bilance emisí CO2 v letech 2000 až 2030, t CO2/rok
+
+Sektor                         BEI 2000     MEI 2005      MEI 2010      MEI 2015      MEI 2022    MEI 2030*
+Obecní budovy,
+                                 81 550        75 757        78 716       67 056        73 239      19 412
+vybavení/zařízení
+Terciární (neobecní)
+budovy,                         817 563       724 928       834 726      852 828       714 025     446 497
+vybavení/zařízení
+Obytné budovy                   866 530       782 780       749 347      684 852       632 179     399 510
+Městské/obecní veřejné
+                                 19 676        13 545        14 376       13 844        10 847       5 504
+osvětlení
+Obecní vozový park                1 744           2 670       2 334           2 078      2 078       1 983
+
+Veřejná doprava                  82 015        76 234        73 207       66 850        62 791      49 924
+Soukromá a komerční
+                                121 904       151 686       138 725      144 366       172 048     229 566
+doprava
+Celkem                        1 990 981     1 827 599     1 891 431    1 831 873      1 667 207   1 152 396
+
+  Pozn.: Pro rok 2030 se jedná o předpoklad na základě výpočtů zpracovatele
+
+
+  Tabulka 5:      Pokles emisí oproti výchozímu roku 2000
+                              Emise CO2 z konečné spotřeby
+                                                                       SECAP
+                                     celkem v roce:
+                                           2000                           0
+                                           2005                        -8,21 %
+                                           2010                        -5,00 %
+                                           2015                        -7,99 %
+                                           2022                        -16,26 %
+                                           2030*                       -42,12 %
+
+  Pozn.: Pro rok 2030 se jedná o předpoklad na základě výpočtů zpracovatele
+
+
+
+
+                                                                                                      7
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+Obrázek 2:   Výsledný pokles emisí CO2 celkem
+
+ 10,00%
+
+
+  0,00%
+              0,00%
+ -10,00%                                         -5,00%
+                               -8,21%                          -7,99%
+
+ -20,00%
+                                                                              -16,26%
+
+ -30,00%
+
+
+ -40,00%
+
+
+ -50,00%                                                                                            -42,12%
+
+ -60,00%
+             BEI 2000         MEI 2005           MEI 2010     MEI 2015           MEI 2022           MEI 2030*
+
+              Obecní budovy, vybavení/zařízení              Terciární (neobecní) budovy, vybavení/zařízení
+              Obytné budovy                                 Městské/obecní veřejné osvětlení
+              Obecní vozový park                            Veřejná doprava
+              Soukromá a komerční doprava                   Celkem
+
+
+Pokles emisí CO2 je a bude způsoben zejména úsporami ve spotřebě (tepla a zemního plynu),
+strukturálními změnami ve spotřebě paliv a energie (rostoucí složka biopaliva ve spotřebě
+pohonných hmot, rostoucí využití obnovitelných zdrojů ve spotřebě paliv a energie) a také díky
+zlepšujícímu se emisnímu faktoru z výroby elektřiny, jehož příznivý vývoj na národní úrovni je
+nadále podpořen nárůstem lokální výroby elektřiny a tepla z obnovitelných zdrojů energie.
+
+Plnění opatření SECAP
+
+Snahou monitorovací zprávy bylo vyhledat a aktualizovat zejména individuálně sledovaná
+opatření, která byla realizována s vynaložením úsilí a prostředků města, případně dalších
+veřejných subjektů (kraj, stát) a soukromých organizací – jak v případě opatření dokončených,
+tak připravovaných. Analýza opatření využila zejména podkladů poskytnutých Odborem
+Životního prostředí Statutárního města Brna, dalšími odbory města, vybranými organizacemi a
+společnostmi působícími na území města.
+
+S využitím těchto podkladů byla ověřena a doplněna opatření, realizovaná městem, jeho
+organizacemi, obchodními společnostmi, kde uplatňuje majetkový podíl, organizacemi kraje a
+státu na území města i v bytových domech a jejich výsledky jsou evidovány jednak v období
+2015 až 2025 a na výhledové období do roku 2030.
+
+Dále bylo sledováno a vyhodnoceno plnění adaptačních opatření na změnu klimatu. Městu se
+povedlo i s přispěním partnerských společností a rozsáhlé vlastní aktivitě realizovat mnoho
+zajímavých adaptačních opatření. V rámci monitoringu bylo zaznamenáno celkem 20 opatření,
+které si vyžádaly souhrnné investiční náklady 45,8 mil. Kč. Podrobně jsou realizovaná
+adaptační opatření uvedena v kapitole 3.2.
+
+
+
+
+                                                                                                                8
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+        2. HODNOCENÍ STAVU STRATEGIE SECAP
+
+2.1     Vize a priority SECAP
+V září roku 2017 se statutární město Brno oficiálně zapojilo do iniciativy Pakt starostů a
+primátorů a stalo se jeho signatářem. Podstatou členství v Paktu je uskutečňovat konkrétní
+vybrané projekty města, které povedou ke snížení CO2 nejméně o 20 % do roku 2020 oproti
+výchozímu roku, pro který byla zpracována bilance emisí CO2, a o 40 % do roku 2030. V roce
+2019 byl Kanceláři Paktu starostů a primátorů předložen první Akční plán udržitelné energetiky
+a klimatu statutárního města Brna.
+Energetické zdroje a spotřeba energie jsou v popředí zájmu města mj. vzhledem k jejich vlivu
+na životní prostředí. Při jejich spalování jsou do ovzduší vypouštěny znečišťující látky do
+ovzduší a uvolňovány emise skleníkových plynů, zejména CO2. Vizí statutárního města Brna
+proto je:
+     koncepčními kroky neustále zvyšovat kvalitu života, dávat lidem, firmám i institucím
+      možnost podílet se na efektivní správě a citlivě pracuje se svými zdroji.
+     maximálně využít potenciál města, které má na to, být středoevropským centrem znalostní
+      ekonomiky, prvotřídní vědy a výzkumu i kvalitní kultury a sportu a zároveň zůstat příjemným
+      místem pro každodenní život, jež nabízí každému ze svých obyvatel vyvážený poměr
+      pracovní kariéry a volnočasových aktivit.
+     přistoupením k Paktu starostů a primátorů město deklaruje svoji snahu bojovat se změnou
+      klimatu a chránit své občany před jejím dopadem.
+
+                     Tato vize je naplňována a nejsou plánovány změny.
+
+
+2.2     Plnění cíle statutárního města Brna ve snižování emisí CO2
+
+Scénář SECAP z roku 2019 – předpokládané snížení emisí
+V roce 2019 byl vypracován scénář možného vývoje emisí CO2 do roku 2020 a 2030, který
+zahrnoval jak rozvoj a novou výstavbu v zařazených sektorech, tak přínosy opatření ke snížení
+spotřeby paliv a energie a ke snížení emisí CO2. Z navrženého scénáře vývoje emisí k roku
+2020 vyplývalo možné snížení emisí CO2 na území města Brna o více než 15,9 % k roku 2020
+a 42,1 % k roku 2030. Z monitorovací emisní bilance v roce 2022 vyplynulo snížení emisí CO2
+o 16,26 %. Cíl pro rok 2020 je tedy plněn.
+
+2.3     Hodnocení integrace SECAP a ostatních rozvojových strategií města
+
+SECAP byl v roce 2019 vytvářen v integraci a v souladu se strategickými a rozvojovými cíli
+statutárního města Brna a také v souladu s principy ochrany dalších složek životního prostředí,
+zejména ochrany ovzduší. Tato monitorovací zpráva zhodnotila, zda byl zachován soulad se
+zásadními dokumenty a iniciativami statutárního města Brna. Zásadními dokumenty stále jsou:
+a) Strategie pro Brno 2050
+Dokument vznikl v roce 2016 a byl zpracován v rámci projektu UrbanAdapt. Adaptační strategie
+města byla zpracována v souladu s Guidelines pro tvorbu SECAP do 4 let od přistoupení
+k paktu. Tato povinnost je naplněna. Dokument byl aktualizován v srpnu roku 2020.
+
+
+
+Strategie Brno 2050 je rozdělena do tří částí:
+
+
+                                                                                               9
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+    • Strategická část – je v rovině vize, strategických hodnot a cílů rozvoje města, je
+    koncipována pro delší časové období (2050). Strategický plán je důležitým dokumentem,
+    který určuje směr a priority dalšího rozvoje statutárního města Brna. Promítá se do
+    rozhodování o investicích města, v diskusích o směřování Brna v mnoha oblastech
+    každodenního života jeho obyvatel;
+
+    • Programová část – je pro kratší časový úsek (10 let) a obsahuje konkrétní priority a
+    opatření;
+
+    • Akční plán – je na nejkratší časový horizont (1-2 roky) a bude specifikovat konkrétní
+    aktivity a projekty, které mají být realizovány.
+
+Jedním z klíčových ukazatelů úspěšnosti Strategického plánu je také snížit vliv faktorů s
+negativním dopadem na zdraví člověka a prostředí a zvýšit odolnost města vůči změně klimatu
+vhodnou kombinací adaptačních a mitigačních opatření.
+b) Adaptační opatření na zmírňování vlivu klimatických změn pro město Brno
+Dokument zpracovaný Nadací Partnerství. Tento dokument byl zpracován jako vodítko pro
+urychlení dílčích kroků při realizaci adaptačních opatření na změny klimatu.
+Byl vypracován katalog základních adaptačních opatření s vyhodnocením jejich účinnosti,
+proveditelnosti a nákladovosti.
+c) Strategie bydlení města Brna 2018-2030
+
+Dokument je dělen na analytickou a návrhovou část. Strategie bydlení je koncepčním
+materiálem, který má napomoci řešení současných problémů v oblasti bydlení obyvatel města
+Brna. Popisuje trendy vyjadřující stav v oblasti bydlení a kroky, které jsou nezbytné pro
+zlepšování kvality a úrovně bydlení, a umožní jeho další rozvoj. Je strategickým nástrojem
+řešeným z úrovně města současně ve vztahu k městským částem a je určen politické
+reprezentaci města i městských částí a všem ostatním zúčastněným stranám pro usnadnění
+rozhodování o změnách vedoucích ke zlepšení situace v oblasti bydlení. Při řešení problémů
+je důsledně používán integrovaný a systémový přístup.
+
+Obsahem dokumentu je koncepce bydlení v horizontu dvanácti let, sestavená na základě
+analýzy současných hlavních trendů ve vývoji bydlení, a návrh řešení zásadních problémů
+souvisejících s bydlením v Brně.
+Jako strategický materiál obsahuje základní údaje z oblasti bydlení, formuluje vizi města o stavu
+bydlení v Brně, stanovuje priority a definuje opatření, kterými je lze naplnit.
+d) Integrovaná strategie rozvoje Brněnské metropolitní oblasti
+Aby mohlo Brno a obce v jeho zázemí využívat nástroj Integrovaných územních investic (ITI) a
+s ním spojené finance z Evropské unie i v dalších letech, muselo město vytvořit strategii rozvoje
+regionu. Ta nese název Strategie rozvoje Brněnské metropolitní oblasti 21+ a Brno ji tvoří
+společně s řadou partnerů z veřejného, soukromého i neziskového sektoru a desítkami starostů
+a úředníků z Brněnské metropolitní oblasti.
+Odborníci působí ve čtyřech pracovních skupinách (Udržitelná mobilita, Životní prostředí,
+Sociální oblast a Horizontální průřezové skupiny), které navazují na priority strategie. Aktuální
+verze strategie je z prosince 2024.
+
+
+
+
+                                                                                             10
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+e) Informační strategie města Brna 2020-2024
+Informační strategie je základním dokumentem pro strategické řízení v oblasti informatiky
+města Brna. Informační strategie mimo jiné vychází ze schválené Strategie Brno 2050, z níž
+rozpracovává do větších podrobností strategickou hodnotu s názvem "Efektivní elektronická
+správa a otevřená data". Konkrétně tak naplňuje definované cíle dané hodnoty, které spočívají
+zejména v elektronizaci veřejné správy a její dostupnosti pro všechny občany města, ve vyšší
+bezpečnosti systémů nebo v rozsáhlém zveřejňování a využívání tzv. otevřených dat.
+V procesu schvalování je aktualizovaná Informační strategie města Brna 2025-2029.
+f)   Energetická koncepce statutárního města Brna
+V září roku 2018 byla schválena Územní energetická koncepce statutárního města Brna (ÚEK
+SMB), která stanovuje cíle a zásady nakládání s energií na území statutárního města Brna. Je
+neopomenutelným podkladem pro územní plánování a je velmi důležitá v koncepci zásobování
+centralizovaným teplem, nakládání s odpady, využívání obnovitelných zdrojů energie.
+Koncepce se skládá
+     ➢ z rozboru trendů vývoje poptávky po energii;
+     ➢ z rozboru možných zdrojů a způsobů nakládání s energií;
+     ➢ z hodnocení využitelnosti obnovitelných zdrojů energie;
+     ➢ z hodnocení ekonomicky využitelných úspor;
+     ➢ a z řešení energetického hospodářství území, včetně zdůvodnění a posouzení vlivů
+       na životní prostředí.
+
+V červenci 2024 byla vydána aktualizace Energetické koncepce statutárního města Brna.
+Hlavní změny proti původní koncepci se týkají systému zásobování teplem, kde jsou nově
+posuzovány varianty zahrnující tepelný přivaděč z jaderné elektrárny Dukovany.
+g) Územní plán města Brna
+Původní návrh byl zpracován na základě Pokynů pro zpracování Návrhu ÚPmB, které schválilo
+Zastupitelstvo města Brna usnesením č. ZM7/3871 na zasedání konaném dne 19. 6. 2018.
+Následně byl upraven na základě vyhodnocení výsledků veřejných projednání konaných v
+červnu roku 2020. SECAP vycházel z předpokládaného rozvoje města, rozvoje v bytové
+zástavbě a v občanské vybavenosti. K 1. 1. 2025 vstoupil v platnost aktualizovaný územní plán.
+Třetí Monitorovací zpráva nevyhodnocuje správnost scénáře a nároků nové zástavby.
+h) Plán mobility města Brna
+Plán mobility je strategický dokument, který na základě odborných analýz, ale také ve
+spolupráci s obyvateli města, stakeholdery a odborníky atd. stanoví cíle a sestaví seznam
+opatření v oblasti mobility – jejich realizace pak pomůže ke zlepšení kvality života ve městě.
+Plán mobility se připravuje ve třech fázích. Důležitým prvkem tohoto dokumentu je také
+hodnocení účinnosti navržených opatření.
+i)   Iniciativa EU Smart Cities
+Smart Cities je iniciativa, která organizačně spadá pod rámec Odboru Strategického Rozvoje a
+Spolupráce a je zaměřena na vědu a výzkum nových technologií v energetice a dalších
+rozvojových oblastí měst. Hlavním cílem v oblasti chytrého města je „změna přístupu“.
+
+Sedm principů Smart City Brno:
+
+     ➢ Otevřenost: pro nové nápady, podněty, motivace k podnikání a vytváření nových
+       pracovních míst a služeb;
+
+     ➢ Odpovědnost: kvalitní služby a rozvoj také pro další generace;
+
+
+                                                                                           11
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+      ➢ Modularita: kombinace řešení pro různé oblasti rozvoje města a jejich flexibilita;
+
+      ➢ Ohleduplnost: vůči obyvatelům města a životnímu prostředí;
+
+      ➢ Efektivita: efektivní a šetrné řízení města (nízké provozní náklady), inovativní obchodní
+        modely umožňující zapojení středních a malých firem;
+
+      ➢ Diverzita: široká škála možností pro život ve městě;
+      ➢ Chytrost: chytře využívat potenciál města pro jeho rozvoj.
+Lze konstatovat, že SECAP vhodně doplňuje aktivity města, a je v souladu se zásadními
+dokumenty, které formulují priority a cíle dalšího rozvoje na území města.
+
+2.4     Priority SECAP
+
+Priority SECAP – sektory
+
+Bilance emisí CO2 vycházející z konečné spotřeby paliv a energie byla využita pro nastavení
+priorit ve snižování emisí CO2. Byly analyzovány jednotlivé sektory, zařazené do SECAP, jejich
+podíl na konečné spotřebě paliv a energie a také podíl na emisích CO2. Návazně byl propočten
+potenciál snížení emisí v těchto sektorech, který bude realizován navrženými opatřeními.
+Následující dva obrázky zobrazují výchozí a aktuální strukturu emisí CO2 po sektorech.
+
+Obrázek 3:      Podíl všech sektorů zařazených do SECAP na spotřebě paliv a energie – rok 2000
+
+
+            Obecní vozový park                               Soukromá a komerční doprava
+                                           Veřejná doprava
+                   0%                                                    6%
+                                                 4%
+      Městské/obecní                                                                        Obecní budovy,
+      veřejné osvětlení                                                                    vybavení/zařízení
+             1%                                                                                  4%
+
+
+
+
+                                                              Terciární (neobecní)
+                           Obytné budovy                            budovy,
+                               44%                             vybavení/zařízení
+                                                                      41%
+
+
+
+
+                                                                                                               12
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+Obrázek 4:    Podíl všech sektorů zařazených do SECAP na emisích CO2 – rok 2022
+
+
+                       Obecní vozový      Veřejná   Soukromá a komerční
+                           park           doprava         doprava            Obecní budovy,
+                           0%               4%             10%              vybavení/zařízení
+   Městské/obecní
+                                                                                  4%
+   veřejné osvětlení
+          1%
+
+
+
+
+                                                     Terciární (neobecní)
+                          Obytné budovy                    budovy,
+                              38%                     vybavení/zařízení
+                                                             43%
+
+
+
+
+Terciární sektor, s objekty ve vlastnictví ostatních veřejných subjektů a privátních subjektů,
+převzal v roce 2022 symbolické první místo s podílem 43 %. V tomto sektoru jsou nástroje
+k prosazování nízké spotřeby energie a snižování emisí CO2 omezená. Statutární město Brno
+ale přistoupilo k využívání dobrovolných dohod se zástupci nejenom terciárního sektoru ve
+městě. Dobrovolné dohody jsou zajišťování formou Memoranda o spolupráci.
+
+Dalším sektorem s velkým podílem emisí CO2, a to 38 %, jsou domácnosti, je tedy nezbytné
+pokračovat ve snižování emisí v tomto sektoru.
+
+K významnému poklesu emisí v domácnostech i terciéru významně přispěje přivedení tepla
+z jaderné elektrárny Dukovany do města. Vzhledem k tomu, že tepelný přivaděč má být
+zprovozněn až v roce 2032, neovlivní splnění emisního cíle SECAP v roce 2030.
+
+Statutární město Brno a z počátku 54, nyní již 102, partnerských společností působících na
+území města Brna v oblasti ekologicky šetrného přístupu k životnímu prostředí a vztahu k
+zachování udržitelných klimatických podmínek se společně dohodli na podpisu Memoranda o
+dlouhodobé spolupráci na naplnění závazku statutárního města Brna v oblasti snižování
+produkce emisí CO2, jakožto největšího činitele klimatických změn a aplikaci adaptačních
+opatření mírnících již probíhající klimatickou změnu.
+
+Statutární město Brno jako signatář Paktu starostů a primátorů se dobrovolně zavázalo snížit
+emise CO2 na svém území nejméně o 40 % do roku 2030 a zároveň zvýšit svou odolnost vůči
+dopadům již probíhajících klimatických změn. Město Brno si je vědomo, že musí jít samo
+příkladem, a proto přijímá opatření především na vlastních objektech, zařízeních, vozovém
+parku apod. Závazku města ale nelze dosáhnout bez zapojení především terciárního sektoru –
+inovačního průmyslu, výzkumu a vývoje i navazujících služeb, který se na emisích podílí
+z 43 %.
+
+
+
+
+                                                                                                13
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+Předmětem memoranda je deklarace společností:
+
+◆ stavět a rekonstruovat moderními technologiemi s ohledem na co nejnižší energetickou
+náročnost budov
+
+◆ rozšiřovat využití energie z obnovitelných zdrojů
+
+◆ snižovat energetickou náročnost našich objektů
+
+◆ využívat a podporovat šetrné způsoby dopravy
+
+◆ podporovat a zajišťovat retenci srážkové vody na našich pozemcích
+
+◆ vodu celkově využívat co nejefektivněji a šetřit její spotřebu
+
+◆ vysazovat a chránit zeleň
+
+◆ vzdělávat a podporovat zaměstnance v oblasti šetrného hospodaření se zdroji a energii
+
+◆ dbát na principy cirkulární ekonomiky
+
+◆ memorandum dále propagovat a hrdě se hlásit k tomu, že aktivně pomáháme zlepšovat
+životní prostředí v Brně.
+
+Partnerské společnosti se zavazují zapracovat tyto závazky do svého běžného chodu a
+působení, čímž se budou podílet na snižování emisní bilance CO2. Investice do snižování
+uhlíkové stopy chápou rovněž jako krok k dosažení provozních úspor, zdravějšího pracovního
+prostředí i jako projev společenské odpovědnosti k zaměstnancům a k budoucnosti jejich dětí.
+Kromě monitorování vlivu uskutečněných opatření na celkovou energetickou a uhlíkovou
+bilanci města Brna bude statutární město Brno rozvíjet motivační nástroje a poskytovat
+partnerům konzultační pomoc s identifikací možností, jak uhlíkovou stopu snižovat
+
+Dalším nástrojem, který Brno využívá pro platforma Připrav Brno, která má za cíl propagovat a
+rozvíjet aktivity SECAP napříč všemi sektory. Motivuje jak firmy, tak občany k zodpovědnému
+přístupu ke spotřebám energií, využívání vody a dopravě apod. V rámci vzniklé webové stránky
+priprav.brno.cz jsou poskytované veřejnosti potřebné informace k realizaci mitigačních i
+adaptačních opatření. Probíhá zde ekologická výchova a veřejnost má možnost požádat o
+dotace k realizaci svých opatření. V rámci Připrav Brno je veřejnost také informována všem, co
+Brno v rámci SECAP již uskutečnilo a o krocích, které připravuje.
+
+2.5   Koordinace a organizační zabezpečení SECAP
+
+V rámci Akčního plánu byla navržena struktura organizačního zabezpečení SECAP, která
+předpokládala široké zapojení odborů města, společností v majetku města jako i externích
+organizací.
+
+V průběhu implementace akčního plánu se tato struktura ukázala být nefunkční. Navzdory
+velkému úsilí se nepovedlo vytvořit pracovní skupiny, zejména v důsledku nezájmu jednotlivých
+odborů města, které byli do nich nominovány.
+
+V reakci na tuto skutečnost byla struktura organizačního zabezpečení přepracována. Nově
+navržená struktura je významně štíhlejší, funkční a je založena pouze na spolupracujících
+subjektech. V roce 2023 byla energetika vyčleněna z odboru ŽP a vzniklo nové Oddělení
+
+                                                                                           14
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+městské energetiky sídlící v Teplárnách Brno a.s. Toto oddělení bylo zařazeno do pracovní
+skupiny.
+
+Obrázek 5:   Nová organizační schéma zabezpečení SECAP (zapojené odbory města, obchodní
+             organizace a externí organizace)
+
+
+                      ŘÍDÍCÍ VÝBOR
+         členové: primátorka, náměstek primátorky
+
+
+
+
+                                                                Externí spolupráce v oblastech:
+
+             Oddělení motivačních programů                 Monitoringu: CI2, s. r. o., ENVIROS, s. r. o.
+               Manažer projektu SECAP                           Projektů OZE: SAKO Brno, a. s.
+                                                    Energetického managementu: Ensytra, s. r. o., URS Czech
+                                                             Memoranda: partnerské firmy a instituce
+
+
+
+
+                    Pracovní skupina:
+
+                 Odbor životního prostředí
+               Oddělení městské energetiky
+         zástupci městských akciových společností
+              Kancelář architekta města Brna
+                   Odbor správy majetku
+                     Odbor investiční
+           Odbor školství, mládeže a tělovýchovy
+          Odbor implementace evropských fondů
+
+
+
+
+Zeštíhlená organizační struktura je nadále funkční.
+
+Organizační zabezpečení
+Odborem, který je odpovědný za řízení aktivit v rámci CoM, je odbor životního prostředí
+Magistrátu města Brna, oddělení motivačních programů. Pro efektivní a systematickou
+implementaci akčního plánu udržitelné energetiky a jeho monitorování byla v odboru životního
+prostředí v roce 2019 zřízena samostatná pozice manažera projektu SECAP, jehož úkolem je
+v souvislosti se zapojením města do CoM, mj.:
+   návrh, systematické zavádění opatření a standardizace na úseku energetického
+    managementu města,
+   návrh struktury a zavádění komplexních databázových systémů pro umožnění efektivní
+    správy a energetického managementu města a jeho organizací,
+   zajištění průběžného monitoringu v spotřeby paliv, energií, včetně vyhodnocování
+    nákladovosti na provoz objektů a zařízení v majetku města
+   vyhodnocování přínosů již realizovaných projektů energeticky úsporných opatření,
+   návrh, příprava projektů a vyhledávání vhodných dotačních titulů pro realizaci nových
+    opatření a zajištění provozu již zavedených systémů nebo systémových opatření,
+   sledování a monitoring naplňování akčního plánu udržitelné energetiky
+   správa portálu priprav.brno.cz
+   vytváření motivačních aktivit pro veřejnost
+   komunikace Akčního plánu napříč odbory města a zajišťování jeho podpory
+   zajištění aktivit projektu Memoranda
+
+                                                                                                              15
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+Rozšíření stávajícího systému energetického managementu považujeme za klíčové
+opatření pro následné monitorování přínosů opatření realizovaných v rámci SECAP
+v sektoru majetku města.
+Předpokládané aktivity v rámci tohoto opatření mohou být v různém rozsahu, pro realizaci a
+sledování SECAP považujeme za vhodné zejména:
+          sběr dat o spotřebě paliv a energie a nákladech na ni na jednom centrálním místě,
+           přípravu vhodného systému provázaného s dalšími údaji o objektech
+          realizaci systému monitorování a cíleného řízení spotřeby energie
+          sledování výkyvů ve spotřebě, analýzy s ohledem na klimaticky závislé faktory
+           spotřeby, vyhodnocení dosahovaných úspor paliv a energie, zejména v objektech,
+           kde proběhly investice do energetických úspor
+          identifikace dalších vhodných opatření ke snižování spotřeby
+          výběr vhodných objektů pro financování prostřednictvím operačních programů,
+           objekty by měly využít potenciálu úspor v souladu s podmínkami programu a kritérii
+           pro vyhodnocení žádostí
+          systémová identifikace objektů vhodných pro vyžití OZE
+          zajištění začlenění efektivního využívání energie do projektování a plánování všech
+           procesů, budov a zařízení
+          poskytování odborných energetických školení ke splnění zjištěných potřeb
+          vedení propagační a reklamní kampaně
+          sledování a vyhodnocování realizaci doporučení energetických auditů a jejich
+           aktualizací.
+
+Způsob zapojení zainteresovaných subjektů a občanů do vyhledávání a řízení aktivit
+v rámci SECAP
+
+Zapojení zainteresovaných subjektů a občanů:
+   Úřad
+              o   Odbory magistrátu odpovídají za průběžné doplňování tabulky realizovaných
+                  opatření na svém úseku (Úsporná a adaptační opatření) pro potřeby dalšího
+                  zpracování a monitoringu SECAP
+   Klíčové organizace Města:
+              o   Dopravní podnik města Brna, a.s.
+              o   Technické sítě Brno, akciová společnost
+              o   Teplárny Brno, a.s.
+              o   SAKO Brno, a.s.
+              o   Brněnské komunikace, a.s.
+   Zainteresované organizace a společnosti na území města
+              o   Masarykova univerzita
+              o   Vysoké učení technické v Brně
+   Veřejnost (workshopy, webová stránka)
+
+
+
+
+                                                                                           16
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+2.6       Financování projektů
+
+Investice do energeticky úsporných projektů procházejí investičním rozpočtem a tím musí
+obstát v konkurenci mnoha jiných investičních projektů v rámci celého spektra činností města.
+Investice do energetické efektivnosti jako jedny z mála investičních projektů mají potenciál vrátit
+investované prostředky do rozpočtu města (snížením plateb za energie) a snížit tak potřebnou
+výši provozních prostředků. Protože jsou ale zdroje rozpočtů omezené, stále budou
+vyhledávány jiné možné zdroje financování navržených investic. Co se závazku na další roky
+financování týče, doporučuje se v tomto směru dlouhodobá dohoda politických stran – aby
+nenastaly problémy po zvolení nového vedení města.
+Často se totiž města rozhodnou financovat nejprve energeticky úsporné projekty s krátkou
+dobou návratnosti. Tento postup ovšem neumožní zachytit tu největší část energetických
+úspor, kterou lze získat celkovou modernizací, zejména zateplením, výměnou oken apod.
+Taková opatření jsou vzhledem k jejich dlouhé životnosti ekonomická i při splatnosti např. 15-
+20 let.
+Jako zdroje financování pro opatření v rámci Akčního plánu slouží zejména následující zdroje:
+      •    Rozpočet města
+      •    Soukromé zdroje financování (obyvatelstvo, ostatní terciér),
+Dotace byly poskytnuty z externích zdrojů financování, mezi ně patří:
+      •    Operační programy (OPŽP, IROP, OPPIK, OPD) v období 2014+
+      •    Státní programy (např. Zelená úsporám, Nová zelená úsporám)
+Využívány zatím nejsou:
+
+      •    Další mechanismy, např. ELENA (European Local ENergy Assistance). ELENA je
+           společná iniciativa Evropské investiční banky a Evropské komise v rámci programu
+           Horizont 2020. Nástroj ELENA byl založen v roce 2009 a byla z něj již poskytnuta
+           podpora EU ve výši více než 330 milionů EUR. ELENA podporuje veřejné a soukromé
+           subjekty, jako jsou místní nebo vnitrostátní orgány, energetické agentury a finanční
+           instituce, při plánování a realizaci udržitelných a životaschopných energetických a
+           dopravních projektů. Činí tak poskytováním tolik potřebných dalších pracovníků,
+           externích odborných znalostí pro energetické audity nebo poradenství v oblasti
+           financování. Podpora se týká velkých projektů
+      •    EPC – Energy Performance Contracting (Energetické služby se zárukou) – vhodné pro
+           objekty v majetku města
+      •    Financování EU přes soukromé finanční instituce.
+
+Průvodce dostupnými zdroji financování v EU                  lze   nalézt   na   odkazu:     https://eu-
+mayors.ec.europa.eu/en/resources/funding_guide.
+
+Tabulka 6:     Doporučené zdroje financování SECAP
+ Typ opatření                                         Možný zdroj financování
+                                                      OPŽP 2021-2027
+ Projekty zateplení, výměny oken – již předložené a   Zelená úsporám
+ schválené k financování                              Program MPSV
+                                                      Město, podnikatelé
+                                                      OPŽP 2021-2027
+ Projekty na veřejných budovách identifikované a
+                                                      EPC (Energy performance Contracting)
+ doporučené k realizaci ve 2020+
+                                                      Město Brno, Jihomoravský kraj, stát
+
+
+
+                                                                                                    17
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+ Typ opatření                             Možný zdroj financování
+
+ Zavedení energetického managementu       Výzvy Programu EFEKT MPO
+
+                                          Program EFEKT MPO
+ Úspory ve veřejném osvětlení
+                                          Město Brno
+                                          IROP 2021-2027
+ Úspory v domech pro bydlení              Město Brno
+                                          domácnosti
+                                          OPŽP 2021-2027
+ Doprava                                  OP Doprava 2014+
+                                          Dopravní podnik města Brna, a.s.
+                                          Město, LIFE, HORIZON 2020, Program EFEKT
+ Příprava projektů, technická asistence
+                                          MPO, EU City Facility
+
+ Vzdělávání                               Brněnská Metropolitní Oblast, IROP
+
+
+
+
+                                                                                     18
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+
+3. HODNOCENÍ   PLNĚNÍ   OPATŘENÍ    AKČNÍHO                                                  PLÁNU
+   UDRŽITELNÉ ENERGETIKY A KLIMATU (SECAP)
+V této části zprávy jsou popsány výsledky:
+     monitoringu aktivit SECAP za minulé období a aktualizace plánu dle aktuálních metodických
+      pokynů kanceláře Paktu,
+     vyhodnocení provedených opatření SECAP, kvantifikace dosažených přínosů, finančních
+      ukazatelů a dalších relevantních parametrů,
+
+Opatření ke snížení emisí CO2 zahrnují:
+     Úspory paliv a energie v klíčových sektorech SECAP – tj., v obecních budovách v majetku
+      města, ve veřejném osvětlení, v dopravě na komunikacích města a ve vozidlech v majetku
+      města a v ostatních vozidlech, ve veřejném osvětlení a v domácnostech.
+     Ke snížení emisí CO2 jsou realizována také opatření, která navyšují výrobu elektřiny a tepla
+      z obnovitelných zdrojů energie na území města, nebo rozvíjejí užití kombinované výroby
+      elektřiny a tepla.
+
+3.1     Mitigační opatření
+
+3.1.1 Opatření v sektoru obecních budov
+
+V Akčním plánu udržitelné energetiky a klimatu z roku 2019 jsou uvedeny projekty/opatření
+v sektoru budov a zařízení ve vlastnictví statutárního města Brna (dále také SMB). Jednalo se jak
+o opatření a projekty již předložené k financování, tak o opatření v přípravě. Další projekty byly
+doplněny v návaznosti na zpracované Monitorovací zprávy.
+
+Byly realizovány individuální projekty rekonstrukcí a revitalizací jednotlivých budov v majetku
+města, jejichž hlavním cílem bylo zlepšení technického stavu budov, nicméně rekonstrukce
+současně přinesly i snížení jejich energetické náročnosti. Snížení spotřeby energie proto nebylo u
+těchto objektů exaktně vyčísleno.
+
+Tabulka 7:    Přehled realizovaných a probíhajících opatření na veřejných budovách a zařízeních
+
+    Objekt/organizace             Opatření
+    Domov pro seniory             V budově proběhla v rámci rekonstrukce výměna osvětlovací
+    Foltýnova, p. o.              soustavy za LED technologii. Další probíhá postupně v dílčích
+                                  krocích s ohledem na finanční možnosti. Zároveň byly v rámci
+                                  rekonstrukce nastaveny optimální distribuční sazby. Stravovací
+                                  provoz má po rekonstrukci nové spotřebiče. Případná instalace
+                                  FVE je v řešení SAKO Brno SOLAR.
+
+
+
+
+                                                                                                  19
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+
+ Objekt/organizace              Opatření
+ Domov pro seniory              Pomocí vizualizačního programu bylo dosaženo vyššího stupně
+ Holásecká, p. o.               řízení systému MaR kotelny a jednotek VZT, a dále vyššího stupně
+                                zajištění spolehlivého provozu pomocí dálkového přístupu, který
+                                umožňuje mimo jiné i vzdálený servis VZT jednotek. Byla
+                                provedena výměna původních osvětlovacích těles za nová
+                                s technologií LED a v souvislosti s tím byla upravena rezervovaná
+                                roční kapacita elektrické energie (snížení příkonu). V listopadu
+                                2021 byla zprovozněna FVE, její výkon činí 63,315 kWp. Celková
+                                výroba FVE za rok 2022 činila 63 360 kWh, v roce 2023 pak 60 956
+                                kWh. Došlo k úpravě ohřevu teplé užitkové vody pro vyšší využití
+                                výroby elektřiny z FVE.
+ Domov pro seniory              V budově Kociánka 1/8 proběhla v roce 2019 výměna dvou
+ Kociánka, p. o., Kociánka      zbývajících starých plynových kotlů. V roce 2020 byla provedena
+ 1/8                            výměna zářivkových svítidel za diodová na oddělení číslo pět v
+                                budově Kociánka 1/8. Koncem listopadu 2020 došlo k výměně
+                                hlavního transformátoru pro DPS Kociánka. Koncem roku 2023 se
+                                započalo s přestavbou všech sociálních zařízení a koupelen na
+                                oddělení číslo jedna v budově „A“- dvě patra. Dále na oddělení
+                                číslo pět v budově „B“- rovněž dvě patra došlo k výměnám
+                                veškeré elektroinstalace a veškerého osvětlení, které v těchto
+                                prostorách bylo nahrazeno diodovým osvětlením. Tato přestavba
+                                byla ukončena v měsíci červnu 2024. Začátkem měsíce října –
+                                listopadu 2024 pokračovala rekonstrukce výše uvedených zařízení
+                                na dalších odděleních DPS.
+ Domov pro seniory              V budově Štefánikova 124/54 proběhla v roce 2019 výměna
+ Kociánka, p. o., Štefánikova   jednoho plynového kotle. Na přelomu měsíce března a dubna
+ 124/54                         2020 byla na chodbách budovy DPS Štefánikova provedena
+                                kompletní výměna zářivkových a žárovkových svítidel za svítidla
+                                diodová, v tomto období byla zároveň provedena celková
+                                rekonstrukce el. rozvodů v přízemí – dílna, ergoterapie a hl.
+                                chodba, na všech podlažích byly vyměněny nové el. rozvaděče, do
+                                kterých byly nataženy nové silové přívody, byla provedena i
+                                celková rekonstrukce el. rozvodů stávající kuchyně (přípravny)
+                                pro případný ohřev stravy, mycích strojů a výrobníků teplých
+                                nápojů (čaj, káva, apod.).
+ Domov pro seniory              Na začátku topné sezóny je vždy provedeno překontrolování
+ Koniklecová, p. o.,            využití regulace otopné soustavy. Proběhla oprava hlavních
+ Koniklecová 442/1              ventilů topení tak, aby regulovaly tlak topné vody do objektu
+                                podle venkovní teploty. Byl upraven ohřev vody na nižší teplotu
+                                (bez snížení komfortu pro klienty). Probíhající rekonstrukce
+                                elektrických rozvodů a oprava osvětlení budou pokračovat i
+                                v dalších letech.
+ Domov pro seniory              Postupně probíhá instalace LED osvětlení. Lze konstatovat, že
+ Kosmonautů, p. o.,             většina prostor je již LED osvětlením vybavena. Zateplení budovy
+ Kosmonautů 548/21              bylo prozatím odloženo v souvislosti s řešením požárního
+
+
+                                                                                            20
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+
+ Objekt/organizace             Opatření
+                               zabezpečení objektu. Realizace, původně předpokládaná na rok
+                               2024, byla posunuta. Na stavební úpravy budovy bude následně
+                               navazovat instalace FVE (je zpracována projektová dokumentace).
+ Domov pro seniory             Postupně probíhá instalace LED osvětlení. Lze konstatovat, že
+ Mikuláškovo nám., p. o.,      většina prostor je již LED osvětlením vybavena. Nadále budou
+ Mikuláškovo nám. 706/20       pravidelně sledovány podružné elektroměry stravovacího
+                               provozu a prádelny. MaR kotelny byl vybaven dálkovým dohledem
+                               a systémem pro hlášení poruchových stavů formou SMS. Byla
+                               instalována samostatná transformační stanice pro snížení
+                               nákladů na distribuční poplatky. Případná instalace FVE je v řešení
+                               SAKO Brno SOLAR.
+ Domov pro seniory Nopova,     Postupně probíhá instalace LED osvětlení. Lze konstatovat, že
+ p. o., Nopova 128/96          většina prostor je již LED osvětlením vybavena.
+ Domov pro seniory Okružní, Postupně probíhá instalace LED osvětlení. Lze konstatovat, že
+ p. o., Okružní 832/29      většina prostor je již LED osvětlením vybavena. V roce 2020
+                            instalována vizualizace systému MaR výměníkové stanice s
+                            možností dálkového dohledu a prováděním operativních změn
+                            parametrů vytápění, VZT a ohřevu TV včetně archivace
+                            naměřených hodnot.
+ Domov pro seniory           Postupně probíhá instalace LED osvětlení. Realizace probíhá
+ Podpěrova, p. o., Podpěrova postupně v dílčích krocích s ohledem na finanční možnosti. V
+ 501/4                       současné době je LED osvětlení instalováno v pokojích klientů a
+                             na chodbách. Provedeno měření proudového zatížení odběru s
+                             cílem optimalizace proudové hodnoty hlavního jističe před
+                             elektroměrem (výsledek měření – současná hodnota je
+                             odpovídající). Dokončení zateplení budovy, realizované v období
+                             05/2020-04/2021, s využitím dotace OPŽP (zateplení fasády,
+                             výměna výplní, dokončení zateplení střechy). Proběhla
+                             modernizace systému MaR plynové kotelny, přípravy TV a VZT
+                             včetně vizualizace s možností dálkového připojení. Instalace FVE
+                             je ze strany SAKO Brno SOLAR ve fázi předrealizační přípravy.
+ Domov pro seniory             Postupně probíhá instalace LED osvětlení. Lze konstatovat, že
+ Věstonická, p. o., Věstonická většina prostor je již LED osvětlením vybavena. V roce 2020
+ 4304/1                        dokončena realizace zateplení budovy s využitím dotace OPŽP. V
+                               roce 2020 realizována rekonstrukce výměníkové stanice, jejíž
+                               součástí byl nový systém MaR. Je vybavený vizualizací s možností
+                               dálkového dohledu nad provozem vytápění a přípravy TV.
+                               Instalace FVE je ze strany SAKO Brno SOLAR ve fázi předrealizační
+                               přípravy.
+ Domov pro seniory             V budově Vychodilova 3077/20 byla v roce 2023 dokončena
+ Vychodilova, p. o., Tábor     výměna svítidel za úsporné LED osvětlení. V roce 2020 byla
+ 2298/22                       provedena výměna hlavního vodovodního rozvodu a stoupaček,
+                               zateplení budovy a dokončení výměny oken. V letech 2022-2024
+                               proběhly dvě etapy výměny rozvodů tepla, v roce 2024 dojde
+
+
+                                                                                            21
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+
+ Objekt/organizace               Opatření
+                                 k dokončení v rámci třetí etapy. Probíhá příprava na instalaci FVE,
+                                 zprovozněna byla v roce 2024.
+ Domov pro seniory               V budově Tábor 2298/22 byla v roce 2023 dokončena výměna
+ Vychodilova, p. o.,             svítidel za úsporné LED osvětlení. Byla zrealizována výměna
+ Vychodilova 3077/20             hlavního vodovodního rozvodu a stoupaček a všech oken
+                                 v budově Tábor. V roce 2021 byla dokončena výměna všech
+                                 garážových vrat, oprava sedlové a rovné střechy se zateplením a
+                                 kompletní oprava rozvodů topení v budově Tábor. Probíhá
+                                 příprava na instalaci FVE, zprovozněna byla v roce 2024.
+ Správa hřbitovů města Brna, Staré spotřebiče jsou stále vyměňovány za nové, úspornější.
+ p. o.                       Proběhla kompletní rekonstrukce objektů zahradnického
+                             střediska, vrátnice (během rekonstrukce byla zrušena stará
+                             akumulační kamna a vyměněn starý plynový kotel za nový) a
+                             veřejných WC v areálu Vídeňská. Nově zbudované veřejné WC na
+                             pohřebišti v Brně-Králově Poli je osazeno samouzavíracími
+                             vodovodními bateriemi. V roce 2022 a 2023 byla provedena
+                             kompletní rekonstrukce velké OS. Byly instalovány 2 nové plynové
+                             kotle z roku 2023 ve správní budově ÚH.
+ Veřejná zeleň města Brna,       Ve všech objektech je instalováno LED osvětlení. Všechny budovy
+ p. o.                           již byly zatepleny. V roce 2022 proběhla oprava a obnova
+                                 technologie vodních schodů v Denisových sadech a oprava kašny
+                                 a ptačího pítka v Denisových sadech. V roce 2023 byla provedena
+                                 rekonstrukce kašny v parku Špilberk. V roce 2023 byl vybudován
+                                 hlubinný vrt za účelem získání vlastního zdroje zálivkové vody v
+                                 parku Lužánky.
+ Zoo Brno a stanice              Proběhlo chemické čištění topných systémů za účelem navýšení
+ zájmových činností, p. o.       účinnosti systému. Proběhla rekonstrukce části rozvodů užitkové
+                                 vody v horní části Zoo (napojení návštěvnického sociálního
+                                 zařízení – splachování, napojen bazén tapírů a objekt lam). Byla
+                                 provedena optimalizace rezervovaných kapacit – snížení ročních
+                                 RK pro OM1 a OM2. Byla instalována vizualizace systému MaR vč.
+                                 dálkového dohledu plynové kotelny v Nové správní budově. Byl
+                                 instalován centrální energetický monitoring (realizace v roce
+                                 2023, zahrnuje 109 podružných měřidel elektřiny, plynu a vody).
+ Hvězdárna a planetárium         U některých typů svítidel se postupně přechází na LED zdroje.
+ Brno, p. o., Kraví hora 522/2   Proběhla výměna všech pisoárů na bezvodý systém. Na podzim
+                                 roku 2022 byla dokončena realizace instalace akumulačních jímek
+                                 na dešťovou vodu, kterou organizace využívá pro zavlažování
+                                 trávníků v nejbližším okolí budovy. Celkem bylo instalováno 6
+                                 podzemních nádrží o celkovém objemu 58 m3. Dále je připravena
+                                 projektová dokumentace pro instalaci FVE.
+ Chovánek – dětské centrum       Posouzení vhodnosti FVE je v řešení ze strany SAKO Brno SOLAR.
+ rodinného typu, p. o.,
+ Vejrostova 1361/8
+
+
+
+                                                                                              22
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+
+ Objekt/organizace            Opatření
+ Knihovna Jiřího Mahena v     Na pobočce Bednářova 261/16 proběhla v roce 2020 instalace
+ Brně, p. o.                  nového plynového kotle a stavební úpravy objektu. Taktéž na
+                              pobočce Křížová 88/24 proběhla v roce 2020 instalace nového
+                              plynového kotle a rekonstrukce objektu. V objektu Havránkova
+                              84/82 byl v roce 2021 instalován nový plynový kotel a budova
+                              prošla rekonstrukcí. Na pobočce Kobližná 70/4 byl v roce 2021
+                              rekonstruován a modernizován MaR (doplnění softwaru,
+                              automatické řízení v závislosti na vnějších teplotách) a v roce 2022
+                              bylo instalováno nové těsnění do oken uliční fasády. V roce 2024
+                              proběhla optimalizace distribučních sazeb u jednotlivých
+                              odběrných míst elektrické energie.
+ Mateřská škola Brno          Jsou vyřazovány staré energeticky náročné spotřebiče a
+ Štolcova, p. o., Štolcova    pořizovány nové s vhodnou energetickou třídou. Jsou
+ 147/51                       nastavovány vhodné topné režimy. Na Odbor investiční MMB byl
+                              v březnu 2023 předán projekt na kompletní rekonstrukci objektu.
+ Mateřská škola Brno          V areálu školky bylo instalováno nové venkovní osvětlení.
+ Veslařská, p. o. Veslařská   Proběhlo částečné odizolování půdy. Zastaralý plynový ohřívač na
+ 350/256                      TV vyměněn za elektrický v místnosti šatny pro personál a
+                              prádelny školy. Po havárii výměna elektrického ohřívače vody na
+                              sociálním zařízení dětí. Výměna vodovodních baterií na dětském
+                              sociálním zařízení. Využití dešťové vody pro zalévání školní
+                              ukázkové přírodní zahrady – realizace nového projektu na úpravu
+                              školní zahrady s vybudováním rezervoárů pro dešťovou vodu,
+                              svodů a sudů pro zachycení dešťové vody ze střechy budovy,
+                              pumpa pro zalévání horní části zahrady.
+ Sdružení zdravotnických      Postupně probíhá instalace LED osvětlení ve všech budovách.
+ zařízení II Brno, p. o.      V roce 2021 proběhla rekonstrukce elektroinstalace včetně
+                              osvětlení v budovách Stamicova a Synkova. V roce 2022 byla
+                              realizována rekonstrukce VZT pro sál Břetislava Bakaly v objektu
+                              Žerotínovo náměstí vč. nové MaR s možností dálkového dohledu.
+                              V roce 2023 byla rekonstruována transformační stanice v objektu
+                              Halasovo nám. Instalace FVE u objektu Halasovo náměstí 597/1 již
+                              proběhla a u objektu Kyjevská 393/5 je ve fázi projektové přípravy
+                              zajišťované SAKO Brno SOLAR.
+ Statutární město Brno,       Výměna současných energetických zařízení za úspornější se
+ (Odbor správy majetku)       realizuje průběžně dle jejich aktuálního stavu. Na dobré úrovni je
+                              aktivita dodavatele vody BVK – 90 % objektů, které jsou součástí
+                              EnMS, je online monitorováno. Uvedené měření již několikrát
+                              umožnilo zachytit poruchové stavy ve vnitřních rozvodech.
+
+
+
+
+                                                                                            23
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+
+ Objekt/organizace               Opatření
+ Turistické informační           Průběžně je ve všech objektech vyměňováno neúsporné osvětlení.
+ centrum města Brna, p. o.       U objektu kino Art bylo instalováno venkovní teplotní čidlo pro
+                                 lepší vyhodnocování a zvýšení úspory na vytápění, proběhla
+                                 výměna oběhového čerpadla ve výměníkové stanici a byl
+                                 přeprogramován systém vytápění a vzduchotechniky. Byla
+                                 vyměněna topidla a boiler v Labyrintu za úspornější. Proběhla
+                                 výměna el. ohřívače a ventilátoru ve VZT v Labyrintu. Byly
+                                 vyměněny olejové radiátory a boiler v Kostnici. Bylo vyměněno
+                                 veškeré nouzové osvětlení v Labyrintu pod Zelným trhem.
+ Waldorfská škola Brno –         V roce 2021 byla provedena oprava dlouhodobě nefunkčního
+ střední škola, základní škola   venkovního osvětlení. Ve většině prostor je již instalováno LED
+ a mateřská škola, p. o.,        osvětlení. V r. 2022 proběhla rekonstrukce atria, jejíž součástí je i
+ Plovdivská 2572/8               oprava inženýrských sítí pod pozemkem. V roce 2023 byla
+                                 provedena rekonstrukce elektřiny a osvětlení v pavilonu „C“
+                                 (kromě kuchyně, kde již proběhla rekonstrukce v minulosti).
+ Základní škola Brno           V roce 2020 byla dokončena dostavba 4.NP, která bude souviset s
+ Čejkovická, p. o., Čejkovická vyššími náklady za energie. Dostavba 4.NP splňuje náročné
+ 1339/10                       požadavky na zateplení či okna, která splňují vysoké nároky na
+                               protihlukovou i teplenou izolaci. Ke konci roku 2022 došlo
+                               k výměně zářivek za LED osvětlení a nastavení časových spínačů,
+                               kdy je osvětlení v provozu pouze při pohybu osob.
+ Centrum experimentálního        Postupně probíhá instalace LED osvětlení. V závěru roku 2019 byla
+ divadla, p. o.                  vyměněna první polovina a v roce 2022 druhá polovina
+                                 pracovního osvětlení Velkého sálu Divadla Husa na provázku.
+                                 V roce 2022 bylo pořízeno nové LED osvětlení Sklepní scény CED.
+ Centrum sociálních služeb,      V roce 2020 proběhlo zateplení a výměna plynového kotle za
+ p. o.                           kondenzační v objektu Sejkorova. Probíhá výměna svítidel za LED
+                                 v objektech CSS. Byla instalována FVE na střeše objektu Horova
+                                 77. V roce 2023 byla zateplena budova Buzkova a proběhla
+                                 instalace nového plynové kotle. V objektu Masná byla v roce 2023
+                                 rekonstruována výměníková stanice. Proběhla instalace řídícího
+                                 systému MaR s dálkovou správou v objektech: Francouzská 42,
+                                 Heyrovského, Masná, Mostecká, Neumannova, Podnásepní,
+                                 Schodová, Šelepova.
+ Divadlo Radost, p. o.           Instalace LED osvětlení ve všech svítidlech vč. nouzových
+                                 osvětlení celého prostoru.
+ DROM, romské středisko          Je dbáno na důslednější hospodaření s energiemi při vytápění
+                                 prostor (nastavení regulačních ventilů u radiátorů apod.). Probíhá
+                                 instalace úspornějšího osvětlení.
+ Dům umění města Brna,           Byla vyměněna výbojková svítidla na nádvoří, na chodbách a na
+ p. o.                           pokladně Domu pánů z Kunštátu za LED svítidla. Byly vyměněny
+                                 halogenové zdroje ve svítidlech vstupní haly Domu umění za LED
+                                 zdroje. Byla snížena pokojová teplota ve výstavních sálech
+                                 v zimním období.
+
+
+                                                                                                 24
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+
+ Objekt/organizace                Opatření
+ Filharmonie Brno, p. o.          U objektu Komenského nám. proběhla repase stavebních
+                                  dřevěných otvorů oken a dveří s doplněním těsnění těchto
+                                  stavebních prvků, oprava, automatizace a zvýšení účinnosti
+                                  vzduchotechniky, výměna vadných a doplnění termostatických
+                                  hlavic na radiátory, výměna tlakové nádoby vzduchotechniky a
+                                  doplnění zásobníku chladu pro vzduchotechniku, oprava vadných
+                                  částí směšovače tepla a chladu vzduchotechniky a postupná
+                                  výměna osvětlení za LED osvětlení (výměna halogenního osvětlení
+                                  koncertního sálu za LED osvětlení, postupná výměna stojanových
+                                  halogenových reflektorů za LED reflektory). Byla opravena a
+                                  zateplena střecha přístřešku prostoru předsálí sálu Besedního
+                                  domu. Byl opraven a modernizován systém podlahového topení.
+                                  Postupně jsou nahrazovány energeticky náročné spotřebiče za
+                                  úspornější. Byla snížena teplota na vytápění prostor Besedního
+                                  domu.
+ Městské divadlo Brno, p. o.      Byla vyměněna okna, opravena fasáda a sanován sklep na Lidické
+                                  14. Bylo vyměněno osvětlení kuchyně za LED. Ve 4. patře provozní
+                                  budovy divadla byla pro kanceláře instalována klimatizace,
+                                  v činoherní scéně byla klimatizace vyměněna. Proběhla výměna
+                                  UPS na Hudební scéně.
+ Muzeum města Brna, p. o.         Probíhá projektová příprava na rekonstrukci objektu Měnínská
+                                  525/7. Byly rekonstruovány okenní a dveřní otvory v
+                                  administrativní budově. V roce 2023 dokončena rekonstrukce
+                                  Arnoldovy vily.
+ Národní divadlo Brno, p. o.      Došlo k doplnění systému o další klimatizační jednotky v objektu
+                                  Dvořákova 11 a k instalaci tepelných čerpadel s funkcí chlazení a
+                                  topení. Proběhla výměna oken přístavku (dvorní trakt Dvořákova
+                                  11). Jsou průběžně vyměňovány stávající světelné zdroje za
+                                  úspornější.
+ Nemocnice Milosrdných            Proběhla výměna zásobníků na TUV za nové nerezové.
+ bratří, p. o.
+ Úrazová nemocnice v Brně         V roce 2019 byla dokončena rekonstrukce objektu Ponávka 10,
+                                  která snížila energetickou náročnost budovy (zateplení, nové
+                                  otvorové výplně). Proběhla výměna uzávěrů a stupaček SV, TUV
+                                  v objektu Ponávka 4. Postupně jsou nahrazována původní
+                                  zářivková svítidla svítidly s vyšší energetickou účinností.
+ Kancelář architekta města        V roce 2020 byla dokončena instalace vzduchotechniky a
+ Brna, p. o., Zelný trh 331/13    klimatizačních jednotek. V roce 2021 proběhla rekonstrukce
+                                  slaboproudu a silnoproudu v 1.-3. NP a výměna starých plynových
+                                  kotlů za nové vč. výměny celého topného systému v 1.-3. NP. V
+                                  roce 2023 proběhla rekonstrukce 4. NP včetně elektroinstalací,
+                                  výměna ústředního topení s napojením na jeden tepelný okruh ke
+                                  kotelně v podzemí TIC, výměna velkých oken do atria za účelem
+                                  snížení úniku tepla.
+Zdroj: Celková roční zpráva o EnMS 2023
+
+
+                                                                                              25
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+
+Dále město od poslední monitorovací zprávy realizovalo celou řadu dalších opatření zaměřených
+na úspory energie.
+
+Tabulka 8:   Další energeticky úsporná opatření města a městských organizací
+
+       Název                                     Období
+                            Název akce                      Bližší popis toho, co bylo předmětem akce
+ organizace/útvaru                              realizace
+Odbor sportu           Bazény Lužánky          2022-2023    Budou vybudovány kompletně nové podhledy
+                       (MPSL) - Strop                       bazénové haly (původní již byly statickým
+                       bazénové haly                        posudkem před havarijním uzavřením).
+                                                            Současně dojde k výměně osvětlení v
+                                                            bazénové hale na LED. Cílem je snížení
+                                                            provozních nákladů – vytápění a dále i snížení
+                                                            na nákladech osvětlení - LED.
+Filharmonie Brno,      Snížení energetické       2023       Výměna vadných termostatických ventilů
+příspěvková            náročnosti budovy                    radiátorů.
+organizace
+Filharmonie Brno,      Postupná výměna           2023       Výměna žárovek na schodištích za LED
+příspěvková            osvětlení                            žárovky s pohybovým čidlem.
+organizace
+Filharmonie Brno,      Postupná výměna           2024       Výměna žárovek za LED žárovky a výměna
+příspěvková            osvětlení                            žárovek na schodištích za LED žárovky s
+organizace                                                  pohybovým čidlem.
+Filharmonie Brno,      Postupná výměna           2025       Výměna žárovek za LED žárovky a výměna
+příspěvková            osvětlení                            žárovek na schodištích za LED žárovky s
+organizace                                                  pohybovým čidlem.
+TIC BRNO, p. o.        výměna světel             2024       výměna část světel za LED v Labyrintu pod
+                                                            Zel. trhem, Kostnici u sv. Jakuba a na SR,
+                                                            Radnická 10 – Křišťálový sál
+TIC BRNO, p. o.        instalace senzorových     2024       instalace senzorových spínacích světel na WC
+                       spínacích světel                     Radnická 4- Kino CIT a Galerie
+TIC BRNO, p. o.        utěsnění oken             2024       zajištění utěsnění oken na SR, Radnická 4-6
+                                                            před zimním obdobím
+TIC BRNO, p. o.        úsporná opatření          2024       obeznámení zaměstnanců s úspornými
+                                                            opatřeními v zimním období
+TIC BRNO, p. o.        výměna světel a         1.pol.2025   výměna světel za LED a rozváděče na SR –
+                       rozváděče                            věž
+TIC BRNO, p. o.        izolace potrubí         1.pol.2025   izolace části potrubí ve výměníkové stanice v
+                                                            Kině Art
+TIC BRNO, p. o.        výměna nouzových        1.pol.2025   výměna nouzových světel v krytu Denis
+                       světel
+TIC BRNO, p. o.        výměna čerpadla         1.pol.2025   výměna za nové čerpadlo na odčerpávání vody
+                                                            v Labyrintu pod Zel. trhem
+TIC BRNO, p. o.        výměna světel za LED    1.pol.2025   postupná výměna světel za LED v Kostnici u
+                                                            sv. Jakuba a Labyrintu pod Zel. trhem
+Centrum                Výměna světelných       průběžně     Výměna žárovek v zázemí, na chodbách a v
+experimentálního       zdrojů v budovách                    kancelářích v rámci běžné údržby
+divadla, p. o.         CED za LED zdroje
+Centrum                Výměna světelných       průběžně     Výměna žárovek v zázemí, na chodbách a v
+experimentálního       zdrojů v budovách                    kancelářích v rámci běžné údržby – převážná
+divadla, p. o.         CED za LED zdroje                    většina už je LED
+Centrum                Výměna světelných       průběžně     Výměna žárovek v zázemí, na chodbách a v
+experimentálního       zdrojů v budovách                    kancelářích v rámci běžné údržby – převážná
+divadla, p. o.         CED za LED zdroje                    většina už je LED
+Centrum                Výměna světelných       průběžně     Výměna žárovek v zázemí, na chodbách a v
+experimentálního       zdrojů v budovách                    kancelářích v rámci běžné údržby - převážná
+divadla, p. o.         CED za LED zdroje                    většina už je LED
+
+
+                                                                                                    26
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+        Název                                   Období
+                            Název akce                       Bližší popis toho, co bylo předmětem akce
+  organizace/útvaru                            realizace
+Centrum               Výměna světelných       1. pol. 2024   Výměna žárovek v zázemí, na chodbách a v
+experimentálního      zdrojů v budovách                      kancelářích v rámci běžné údržby – převážná
+divadla, p. o.        CED za LED zdroje                      většina už je LED
+Centrum               snížení teploty         1. pol 2024    oproti dlouhodobému standardu vytápění -1°.,
+experimentálního      vytápění a ohřevu                      ohřev vody -5°.; oproti 2. pol. 2022 nedošlo ke
+divadla, p. o.        vody                                   změně
+Centrum               Výměna světelných          2024        Výměna žárovek v zázemí, na chodbách a v
+experimentálního      zdrojů v budovách        průběžně      kancelářích v rámci běžné údržby – převážná
+divadla, p. o.        CED za LED zdroje                      většina už je LED
+Centrum               snížení teploty         2024 topná     oproti dlouhodobému standardu vytápění -1°.,
+experimentálního      vytápění a ohřevu         sezona       ohřev vody -5°.; oproti 2. pol. 2022 nedošlo ke
+divadla, p. o.        vody                                   změně
+Centrum               Výměna světelných          2025        Výměna žárovek v zázemí, na chodbách a v
+experimentálního      zdrojů v budovách        průběžně      kancelářích v rámci běžné údržby – převážná
+divadla, p. o.        CED za LED zdroje                      většina už je LED
+Divadlo Radost        Montáž LED světel na    2. pol. 2022   V rámci opravy nouzového osvětlení došlo
+                      nouzové osvětlení                      k výměně žárovek za LED osvětlení.
+Divadlo Radost        Montáž LED světel       2. pol. 2023   Výměna světel na LED v prostorách hlediště a
+                      (hlediště, ateliér)                    ateliéru.
+Divadlo Radost        Výměna nouzového           2024        Instalace LED světel pro nouzové osvětlení.
+                      osvětlení.
+Janáčkovo divadlo                             1. pol. 2023   Svítivost tzv. stálých, bezpečnostních světel
+                                                             snížena na 50 %. V ostatních svítidlech jsou
+                                                             LED zdroje.
+                                                             Instalace úsporných vodovodních baterií.
+                                                             Topení na chodbách (v zimním období) je
+                                                             zastavené.
+Divadlo Reduta        Výměna klasických       1. pol. 2023   výměna 80 ks halogenových a klasických
+                      světelných zdrojů za                   světelných zdrojů za LED v šatnách a
+                      LED                                    chodbách herců, výměna 14 ks 150 W
+                                                             halogenových světelných zdrojů za LED ve
+                                                             foyer 2. patra budovy
+Mahenovo divadlo                              1. pol. 2023   Chodby v pracovní části jeviště, WC v pracovní
+                                                             části i WC v hledištní části pro diváky vybaveny
+                                                             světly s čidlem. Utěsnění všech oken v
+                                                             pracovní části (zkušebny, šatny a kanceláře).
+Divadlo Reduta                                2. pol. 2023   Osvětlení chodby u ostrahy, svítí se zde 24
+                                                             hodin denně
+Mahenovo divadlo                              2. pol. 2023   Rekonstrukce hlavního lustru v hledišti.
+                                                             Výměna 214 ks žárovek za LED žárovky, 6 ks
+                                                             halogen za LED. Výměna 176 ks žárovek v
+                                                             hledišti (ramínka, podhledy, svícny) za LED
+                                                             žárovky.
+Dvořákova 11                                  2. pol. 2023   Klimatizace – tepelné čerpadlo (kanceláře
+                                                             2.np). Výměna oken (přístavek ve dvoře Dvoř.
+                                                             11).
+Mahenovo divadlo      LED                     1. pol. 2024   Pokračování v obměně užitných svïtidel za
+                                                             LED.
+Dvořákova 11          Klimatizace             1. pol. 2024   Doplnění dašlích klimatizací napojených nas
+                                                             tepelné čerpadlo.
+Rooseveltova 13                               1. pol. 2024   Nic
+Janáčkovo divadlo     Úsporné zdroje světla   2. pol. 2024   Výměna 8 ks scénických světel
+Divadlo Reduta        Výměna světel za LED    2. pol. 2024   Výměna 6 ks zářivek za LED regulovaná
+                                                             svítidla na chodbě před Mozartovým sálem ve
+                                                             2. NP budovy divadla Reduta.
+Mahenovo divadlo      LED                     2. pol. 2024   Postupná výměna spořících žárovek a světel.
+
+
+                                                                                                      27
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+       Název                                    Období
+                          Název akce                         Bližší popis toho, co bylo předmětem akce
+ organizace/útvaru                             realizace
+Dvořákova 11         Výtah                    2. pol. 2024Provedena výměna zastaralého,
+                                                          nehospodárného osobního výtahu za moderní
+                                                          prostornější, energeticky úspornější.
+Mahenovo divadlo     výměna zdrojů světel      Jaro 2025  Provozní osvětlení šaten herců a na malé
+                     za LED                               zkušebně v MD.
+Dvořákova 11         Výměna zářivkových       Červen 2025 Provozní osvětlení ve výrobních dílnách na
+                     těles za LED                         Ukrajinské (nedivadelní budovy)
+Dům umění města      oprava regulace            IV/2025   výměna nefunkčního systému regulace
+Brna, p. o.          systému VZT                          vzduchotechniky ve sklepních prostorách
+                                                          Domu pánů z Kunštátu, Dominikánská 9,
+                                                          zvýšení efektivity větrání a výměny vzduchu
+Dům umění města      oprava stínících prvků      V/2025   oprava a servis stínících prvků v oknech
+Brna, p. o.          v oknech                             kanceláří v 1.NP Domu umění města Brna,
+                                                          Malinovského nám.2, zlepšení vnitřního
+                                                          klimatu prostor, snížení nároků na chlazení
+Dům umění města      servis a zprovoznění       VI/2025   oprava řízení ventilace a servis klimatizace
+Brna, p. o.          systému VZT a                        výstavních sálů v Domě umění, Malinovského
+                     klimatizace                          nám. 2, zlepšení návštěvnického komfortu ve
+                                                          výstavních sálech, zlepšení efektivity regulace
+Muzeum města Brna,   Výměna a repase            2/2 2024  Administrativní budova
+příspěvková          oken                                 probíhá repase původních oken (cca 100 ks
+organizace                                                oken, zdvojená nebo dvojitá okna) za dvojskla
+                                                          – dokončení prací v prosinci 2024
+Muzeum města Brna,   Repase vstupních           2/2 2024  Administrativní budova
+příspěvková          dveří                                repase původních vstupních dveří (dřevěné v
+organizace                                                původním stylu)
+Muzeum města Brna,   Příprava                   2/2 2024  příprava opravy kotelny v Jihozápadním
+příspěvková          opravy/renovace                      bastionu a Severozápadní bastion,
+organizace           vytápění a klimatizace               optimalizace vytápění a klimatizace (přípravné
+                                                          práce, jednání, posudky…)
+Muzeum města Brna,   výměna světelných          2/2 2024  průběžná výměna světelných zdrojů za
+příspěvková          zdrojů za LED                        úsporné LED (většina hradu a přiléhajících
+organizace                                                budov)
+Muzeum města Brna,   Lampy venkovního           1/2 2025  na zkoušku – výměna 2 ks výbojek za LED v
+příspěvková          osvětlení (výbojky za                lampách venkovního osvětlení, plánujme v 2.
+organizace           LED)                                 pololetí vyměnit i ve zbylých lampách
+Muzeum města Brna,   Energetické desatero       1/2 2025  rozšíření energetického desatera mezi
+příspěvková                                               zaměstnance MuMB, srozumění s úsporností
+organizace                                                energií
+OŠMT                 Stavební úpravy              2023    Sanace (zajištění) objektu, výměna střešního
+                     krytého plaveckého                   pláště, výměna výplní otvorů a zateplení
+                     bazénu Ponávka                       fasády.
+Domov pro seniory    Zateplení objektu            2023    Sanace (zajištění objektu, kompletní zateplení
+Podpěrova            Podpěrova 4                          obvodového pláště budovy, výměna střešního
+                                                          pláště a výplní otvorů.
+MČ Brno-Bystrc       Stavební úpravy MŠ           2023    Sanace (statické zajištění objektu), zateplení
+                     Laštůvkova                           střechy a obvodového pláště budovy včetně
+                                                          instalace hromosvodu.
+MČ Brno-Bystrc       MŠ Laštůvkova –              2023    Instalace systému nuceného větrání se
+                     nucené větrání se ZZT                zpětným získáváním tepla v objektu MŠ.
+MČ Brno-Bystrc       Kotelna Kachlíkova –         2024    Nahrazení čtyř stávající kotlů kogenerační
+                     výměna tepelných                     jednotkou a plynovým kondenzačním kotlem.
+                     zdrojů                               Zavedení energetického managementu.
+MČ Brno-Bystrc       ZŠ Heyrovského –             2024    Nahrazení původních tepelných zdrojů novými
+                     výměna tepelných                     plynovými kondenzačními kotli a kogenerační
+                     zdrojů                               jednotkou; výměna technologického zařízení
+                                                          kotelny a potrubních rozvodů topné vody v
+
+
+                                                                                                   28
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+         Název                                  Období
+                              Název akce                   Bližší popis toho, co bylo předmětem akce
+    organizace/útvaru                          realizace
+                                                           energokanálech; zavedení energetického
+                                                           managementu.
+Zdroj: Odbor Životního Prostředí, MMB
+
+Opatření, která jsou v těchto objektech realizována nebo k realizaci navržena, zahrnují:
+    zateplení obvodového pláště budovy
+    výměna oken nebo její dokončení
+    tepelná izolace stropu
+    modernizace vzduchotechnických zařízení
+    instalace fotovoltaických panelů
+    rekonstrukce osvětlení
+    rekonstrukce otopné soustavy
+    výměnu zdroje tepla.
+
+3.1.2 Stav realizace opatření ve veřejném osvětlení
+
+V letech 2003 až 2008 byly u veřejného osvětlení (VO) v Brně vyměněny všechny rozvaděče a
+upraveno jejich jištění na 63 A (některé měly až 250 A). Některé byly rovněž vybaveny regulací
+umožňující snížení svícení po 22 hod. Spotřeba elektřiny klesla z cca 20 GWh na 15 GWh, přičemž
+průměrný příkon na jeden světelný bod se snížil na cca 100 W. S regulací se pokračovalo až do
+roku 2015.
+
+V dalších letech došlo k nárůstu svítidel z cca 35 tisíc na dnešních 43 500 světelných bodů.
+Spotřeba elektřiny postupně narůstala, a to nejen díky většímu počtu svítidel ale i díky distributorovi
+elektřiny, kdy na základě energetického zákona je distributor oprávněn dodávat odběrateli elektřinu
+v toleranci hladiny napětí ± 10 %, tzn. že při jmenovitém napětí 230 V to odpovídá rozsahu 207-
+253 V. Jelikož se rozvaděče VO jsou převážně instalovány v blízkosti rozvodných distribučních
+trafostanic VN/NN, odkud je zajištěno jejich napájení, dochází zde ve většině případů k přepětí
+sítě. Čím větší přepětí, tím větší spotřeba elektřiny.
+
+V rámci Statutárního města Brna je v rozvodné síti VO instalováno a pomocí radiové sítě dálkově
+ovládáno 440 ks zapínacích rozvaděčů (RVO), z toho 91 ks je vybaveno regulací intellux
+(polovodičové provedení, instalováno před rokem 2015).
+
+V roce 2016 Technické sítě Brno vyvinuli vlastní stabilizaci napětí a každoročně jich instalovali do
+cca 40 rozvaděčů. To v současnosti představuje 234 ks stabilizací napětí (transformátorové
+provedení).
+
+Oba systémy centrálně snižují (regulují) vstupní napětí na cca 220 V a polovodičové provedení
+navíc umožňuje i další snižování napětí po 22. hodině Tyto aplikace generují cca 26 % úsporu
+elektřiny v dané oblasti.
+
+Jelikož regulaci napětí sítě pomocí transformátorů vyvinuli a následně i instalují pracovníci
+Technických sítí Brno, finanční náklady její pořízení se pohybují do 15 000 Kč/RVO, s průměrnou
+návratností do 12 měsíců. Projekt efektivního nasazení centrální regulace (stabilizace) do RVO byl
+v roce 2020 s úspěchem ukončen. Zbývající neosazené rozvaděče vykazují spodní hranici hladiny
+napětí 230V-10 %.
+
+
+
+                                                                                                29
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+Nově instalovaná LED svítidla jsou vybavena elektronickými předřadníky s možností regulace
+intenzity osvětlení po 22. hodině, a to až o dva stupně dle zatřídění pozemní komunikace, což se
+v městě Brně plně využívá. Pomocí standardů města Brna pro veřejné osvětlení je stanovena i
+maximální osvětlenost příslušné komunikace, což má nezanedbatelný vliv i na snížení spotřeby
+elektřiny a emisí CO2. Hospodárnost je jedním z hlavních hodnotících kritérií, které při nákupu LED
+svítidel společnost TSB preferuje a v tomto směru plánuje pokračovat i do budoucna.
+
+Současně je, ale nutno upozornit na skutečnost, že roste tlak na snižování modré složky spektra u
+LED svítidel, tj. snaha o snižování teploty chromatičnosti a tím i zvyšování spotřeby elektřiny. Tento
+trend je bohužel v přímém rozporu s požadavkem na globální snížení spotřeby elektřiny a tím i
+emisí CO2.
+
+V letech 2016 až 2018 byl rovněž realizován projekt změny zapínání a vypínání VO, kdy byly
+přepojeny některé lokality tak, aby bylo možno VO zapínat postupně, a to úzké ulice v centrech
+MČ nejdříve a výpadovky později (po vzoru Stockholmu aj.). Úspora cca 2 % elektřiny.
+
+Od poslední monitorovací zprávy bylo v roce 2023 vyměněno 1 653 LED svítidel. Náklady byly 14
+mil. Kč, z toho 10 mil. Kč z Národního programu obnovy (NPO). Spotřeba elektřiny klesla z 681
+MWh na 192 MWh, tj o 72 %. V roce 2024 došlo k výměně 1 758 LED svítidel při nákladech 15 mil.
+Kč a s dotací z NPO 10 mil. Kč. Spotřeba elektřiny se snížila z 551 MWh na 122 MWh, tj. o 78 %.
+V roce 2025 bylo dosud vyměněno 1 350 LED svítidel s plánovaným poklesem spotřeby energie
+z 531 MWh na 195 MWh, tedy o 63 %.
+
+V následujícím grafu je znázorněn vývoj spotřeby elektřiny ve veřejném osvětlení. I přes nárůst
+počtu světelných míst se díky celému souboru přijatých opatření daří každoročně snižovat celkovou
+spotřebu elektřiny VO města Brna.
+
+Průměrná cena elektřiny vzrostla v průměru mezi lety 2015 až 2024 z 1,86 Kč na 5,11 Kč za kWh.
+Proto i při klesajících spotřebách elektrické energie celkové náklady rostou.
+
+Obrázek 6:     Vývoj spotřeby elektřiny a cen elektřiny na veřejné osvětlení
+
+
+                        80 000
+
+                        70 000
+
+                        60 000
+
+                        50 000
+
+                        40 000
+
+                        30 000
+
+                        20 000
+
+                        10 000
+
+                            0
+                                     2015   2 016   2017   2018   2019   2020   2021   2022   2023   2024
+       spotřeba v MWh            16 049 15 688 15 197 14 972 14 493 14 399 14 128 14 032 13 313 12 928
+       náklady v tis. Kč bez DPH 29 852 26 827 26 746 30 093 33 914 34 414 34 137 71 597 46 719 66 003
+
+Zdroj: Technické služby Brno, a.s.
+
+
+
+
+                                                                                                      30
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+3.1.3 Opatření v ostatním terciéru
+
+Následující kapitola uvádí opatření a jejich přínosy realizovaná na základě Memoranda o snížení
+produkce emisí, které společně s Brnem podepsaly organizace z oblasti terciéru, které působí na
+území města Brna. Doporučenými kroky ke snižování produkce emisí je stavět a rekonstruovat s
+ohledem na co nejnižší budoucí energetickou náročnost budovy, využívat obnovitelné zdroje
+energie, využívat nízkoemisní nebo jiné šetrné způsoby dopravy, snižovat spotřebu vody a budovat
+retenční plochy či nádrže.
+
+
+
+
+                                                                                         31
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) – STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+
+Tabulka 9:    Přehled opatření v terciární sféře na území města Brna
+
+                                                                         Instalovaný               Investiční   Úspora     Snížení
+                                                                                        Období
+ Organizace                  Opatření                                     výkon FVE                 náklady     energie     emisí              Poznámka
+                                                                                       realizace
+                                                                            [kWp]                     [Kč]      [MWh]      CO2 [t]
+ CARent, a. s.               Instalace FVE + nabíječky v areálu                   50     2022                        50         17
+
+                             Energetický management budov,
+ Masarykova universita       rekuperace tepla, automatické osvětlení,                  2022-2023
+                             kampaň #munisaves na úspory energií.
+
+ Masarykova universita       KoMUNItní fond – projekty různých typů                      2022      2 000 000
+                             Instalace FVE                                       510                                           653
+ Obchodní dům IKEA           Instalace 7 tepelných čerpadel o celkovém
+                             výkonu 800 kW, vzduchotechniky,
+                             světlovodů, rekonstrukce fasády
+                             Instalace LED osvětlení                                                                                  úspora 90 %
+ Technologický park Brno     Zateplení střechy
+                                                                                                                                      snížení spotřeby ZP o 35-40 %
+                             Výměna kotlů
+                                                                                                                                   Nákup 789,41 MWh,
+ Moravia IT, s. r. o.        Nákup zelené elektřiny (100 %)                             od 2022                                257 710,25 MWh a 763,61 MWh v
+                                                                                                                                   letech 2022-2024
+ Komerční banka, a. s.       Instalace FVE                                        11     2024                        11          4
+                             Instalace 2000 solárních panelů po 540
+                                                                               1 080   2023-2024                   1 080       367
+ Vodafone                    Wp na základnových stanicích
+                             Využití zbytkového tepla                                                                                 snížení spotřeby ZP o 12 %
+ Celkem                                                                        1 651               2 000 000       1 141      1 298
+Zdroj: Odbor Životního Prostředí, MMB, externí organizace
+
+
+
+
+                                                                                                    32
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+
+3.1.4 Stav realizace opatření v domech pro bydlení
+Realizace úsporných opatření v domech pro bydlení se projevuje spolu s dalšími vlivy ve spotřebě
+v domácnostech (nová bytová výstavba, neustále probíhající rekonstrukce domů a bytů, zejména
+jejich zateplování a výměna oken). Údaje o konkrétních realizovaných opatřeních byly poskytnuty
+Bytovým odborem za domy, které jsou v majetku Statutárního města Brna (i jejich spotřeba je
+zařazena do sektoru domácností). Za ostatní obytné budovy a domy pro bydlení nejsou konkrétní
+opatření evidovaná a k dispozici. Hodnocení rozsahu provedených opatření v těchto objektech
+bude možné až na základě podrobné emisní bilance, která bude vycházet ze skutečných spotřeb
+energií v sektoru domácností. Bude součástí příští monitorovací zprávy.
+V tabulce níže jsou zanesena jak ukončená opatření, tak plánovaná opatření na budovách pro
+bydlení v majetku města. Propočty potenciálu v bytových domech v majetku města byly provedeny
+z dostupné dokumentace, případně nedostupnosti dokumentace o rekonstrukci z celkových
+investic a měrné investiční náročnosti dosahovaných úspor v bytovém sektoru.
+
+
+
+
+                                                                                         33
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) – STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+
+Tabulka 10: Přínosy energeticky úsporných opatření v bytovém fondu města Brna a v ostatních domech pro bydlení
+
+                                                                                                                  Náklady
+                                        Stav                                                                                                  Z toho
+    Číslo                                                                               Přínosy opatření          opatření    Z toho město
+                                      realizace    Nositel                                                                                    dotace
+  opatření    Název opatření                                  Zahájení    Ukončení                                celkem
+                                                   opatření
+  (interní)
+                                        ke dni
+                                                                                       MWh/rok      CO2 (t/r)       Kč            Kč            Kč
+                                      30.10.2025
+
+              Domy pro bydlení,
+              domácnosti
+
+              Celková rekonstrukce
+                                                                                                                                               Není k
+ R01          bytového domu Hálkova   dokončeno     MMO         2020        2024          59           13        23 500 000    23 500 000
+                                                                                                                                              dispozici
+              624/4
+
+              Celková rekonstrukce
+                                                                                                                                               Není k
+ R02          bytového domu           dokončeno     MMO         2020        2023         133           29        52 550 000    52 550 000
+                                                                                                                                              dispozici
+              Vranovská 365/1
+
+              Rekonstrukce bytového                                                                                                            Není k
+ R03                                  dokončeno     MMO         2017        2021          68           15        27 000 000    27 000 000
+              domu Křenová 76                                                                                                                 dispozici
+
+
+              Rekonstrukce bytového
+ R04                                  dokončeno     MMO         2017        2021         162          178        64 000 000    51 310 000    12 690 000
+              domu Podnásepní 2
+
+
+              Rekonstrukce bytového
+ R05                                  dokončeno     MMO         2017        2021          92           20        36 500 000    32 407 000    4 093 000
+              domu Křenová 47
+
+
+              Rekonstrukce bytového
+ R06                                  dokončeno     MMO         2018        2021          81           18        32 000 000    20 000 000    12 000 000
+              domu Vlhká 22
+
+
+              Rekonstrukce bytového
+ R07                                  dokončeno     MMO         2017        2021         108           24        42 900 000    34 530 000    8 370 000
+              domu Plynárenská 8
+
+
+
+
+                                                                                               34
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) – STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+                                                                                                                 Náklady
+                                           Stav                                                                                               Z toho
+    Číslo                                                                               Přínosy opatření         opatření     Z toho město
+                                         realizace    Nositel                                                                                 dotace
+  opatření    Název opatření                                     Zahájení   Ukončení                             celkem
+                                                      opatření
+  (interní)
+                                          ke dni
+                                                                                       MWh/rok      CO2 (t/r)       Kč            Kč            Kč
+                                        30.10.2025
+
+              Rekonstrukce bytového
+ R08                                    dokončeno      MMO        2016        2020       139           31       55 000 000     48 025 000    6 975 000
+              domu Mostecká 12
+
+
+              Rekonstrukce domu
+ R09                                    dokončeno      MMO        2017        2020        30           7        12 041 000     10 882 000    1 159 000
+              Příční 13
+
+
+              Rekonstrukce domu                                                                                                                Není k
+ R10                                    dokončeno      MMO        2018        2019        36          107        6 473 000     6 473 000
+              Francouzská 83                                                                                                                  dispozici
+
+
+              Rekonstrukce domu                                                                                                                Není k
+ R11                                    dokončeno      MMO        2018        2019        39           9        15 348 000     15 348 000
+              Kobližná 10                                                                                                                     dispozici
+
+
+              Rekonstrukce domu Pod                                                                                                            Není k
+ R12                                    dokončeno      MMO        2020        2021        80           95       79 000 000     79 000 000
+              nemocnicí 25                                                                                                                    dispozici
+
+
+              Rekonstrukce domu Cejl                                                                                                           Není k
+ R13                                    ukončeno       MMO        2019        2021       224          253       125 000 000   125 000 000
+              75 a 77                                                                                                                         dispozici
+
+
+              Rekonstrukce domu Cejl                                                    Není k       Není k       Není k         Není k        Není k
+ R14                                     probíhá       MMO        2023        2025
+              23                                                                       dispozici    dispozici    dispozici      dispozici     dispozici
+
+              Přínosy projektů
+                                                                                        1 250         798       571 312 000   526 025 000    45 287 000
+              v bytovém sektoru
+Zdroj: SMB, Odbor životního prostředí, Bytový odbor
+
+Projekty, u kterých stále probíhá realizace, přinesou v letech 2021 až 2022 předpokládanou úsporu CO2 ve výši 214 t CO2 a 621 MWh ve spotřebě
+energie celkem. Tato opatření mají celkové investiční náklady ve výši 293,5 mil. Kč (na základě dostupných poskytnutých údajů).
+
+
+
+                                                                                               35
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+
+3.1.5 Stav realizace opatření v dopravě
+
+Několik opatření v oblasti městské hromadné dopravy bylo označeno jako strategické projekty:
+➢ Prodloužení tramvajové tratě z Osové ke kampusu MU v Bohunicích – Jedná se o
+  strategický projekt města Brna. Dopravní podnik města Brna (DPmB) byl pověřen zajištěním
+  realizace. Předmětem projektu bylo rozšíření sítě tramvajových tratí ze zastávky Osová (Starý
+  Lískovec) k Univerzitnímu kampusu Masarykovy univerzity a k Fakultní nemocnici Brno-
+  Bohunice. Smlouva o dílo mezi objednatelem statutárním městem Brnem a DPMB
+  a zhotovitelem (Firesta + Metrostav) byla podepsána v červnu 2019. Ze strany MD ČR v rámci
+  Operačního programu Doprava 2014–2020 byla schválena dotace do výše 1,157 mld. Kč. Na
+  konci roku 2019 bylo ze strany zhotovitele zažádáno o vydání všech stavebních povolení.
+  Během prvních tří čtvrtletí roku 2022 byla významná část stavby dokončena. Díky tomu mohly
+  být v září zahájeny veškeré provozní zkoušky a prováděny revize jednotlivých technologických
+  zařízení. V souladu s původním předpokladem byl zkušební provoz s cestujícími na nové trati
+  zahájen 11. 12. 2022.
+➢ Znovuzprovoznění tramvajové tratě Stránská skála – Líšeň, Holzova je dalším
+  strategickým projektem města Brna. DPMB je pověřen koordinací a přípravou. Cílem projektu
+  je zprovoznění bývalé tramvajové tratě ze současné konečné na Stránské skále do Líšně při
+  ulici Holzova k budově historických vozidel Technického muzea města Brna. V uplynulém
+  období bylo účastníky řízení napadeno územní řízení. Na konci roku 2019 byly doplněny
+  doklady a požadované podklady ze strany projektanta na Stavební úřad MČ Brno-Líšeň k
+  novému zahájení územního řízení. V průběhu prvního čtvrtletí roku 2020 došlo k oznámení o
+  doplnění dokladů ze strany Stavebního úřadu MČ Brno-Líšeň účastníkům řízení, dále byly
+  doručeny nové námitky k řízení ze strany dalších účastníků řízení. Územní rozhodnutí tedy
+  bylo znovu napadeno, následně zrušeno ze strany OÚSŘ MMB a vráceno k novému
+  projednání místnímu stavebnímu úřadu v Brně-Líšni. V únoru 2021 byla na OÚSŘ podána
+  společná žádost o určení místní příslušnosti stavebního úřadu s cílem přidělení na StÚ ve
+  Slatině. Rozhodnutí bylo vydáno 11. 3. 2021 s výsledkem, že územní řízení provede Stavební
+  úřad ÚMČ Brno-Slatina. Vzhledem ke změně stavebního zákona je nezbytné pro pokračování
+  stavebního řízení přepracovat významnou část projektové dokumentace. V přípravných
+  pracích projektu se bude pokračovat až na základě zpracované územní studie, která bude
+  podkladem pro vytvoření územních plánovacích podmínek pro řešení celé dotčené lokality na
+  základě požadavků SMB, příslušných MČ, vlastníků pozemků a současných společenských
+  potřeb obyvatel města Brna.
+➢ Prodloužení tramvajové trati Bystrc, Ečerova – Žebětín, Kamechy – Tento projekt je rovněž
+  zařazen mezi strategické projekty města Brna. Účelem stavby je zvýšit kvalitu a spolehlivost
+  dopravní obsluhy na území Bystrce a Žebětína. Nová tramvajová trať bude páteřní linkou
+  dopravní obsluhy MHD v dotčené lokalitě. Moderní tramvajová trať vybavená nejlepšími
+  dostupnými zařízeními a technologiemi bude částečně vedena v podzemním tunelu. Smluvní
+  vztah investora a zhotovitele bude realizován v rámci mezinárodního smluvního standardu
+  FIDIC (tzv. „Žluté knihy“). Hlavním cílem projektu je novostavba tramvajové trati, a to
+  prodloužení stávající tramvajové dráhy ze smyčky Ečerova v Bystrci do nové smyčky při ulici
+  Hostislavova v sídlišti Kamechy. Délka prodloužení v nové trase činí 1,4 km. Mimo vlastní
+  stavbu tramvajového tělesa, včetně jeho tunelové trasy o délce 320 m, jsou součástí úpravy
+  dotčené pozemní komunikace, mosty, přeložky inženýrských sítí a další stavbou vyvolané
+  investice. Stavba je navržena jako dvoukolejná tramvajová trať na samostatném tělese mimo
+  pozemní komunikace. Je zasmluvněn generální dodavatel stavby a stavební práce budou
+  zahájeny na konci února 2025. Projekt bude spolufinancován z Operačního programu Doprava
+  2021–2027.
+
+Z dalších opatření realizovaných a plánovaných městem pro zlepšení městské hromadné dopravy
+a návaznosti na ni lze uvést:
+
+                                                                                        36
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+➢ prodloužení trolejbusové trati Osová – železniční stanice Starý Lískovec, terminál IDS Starý
+  Lískovec, Prodloužení linek 25 a 37 ze zastávky Osová k železniční stanici Starý Lískovec,
+  vybudování terminálu a železniční zastávky Starý Lískovec
+➢ tramvajová trať Plotní – přeložení stávající tratě z ulice Dornych
+➢ prodloužení trolejbusové trati Novolíšeňská – Jírova
+➢ rozvoj řídícího dopravního systému Dopravního podniku města Brno
+➢ terminál Benešova – přednádražní prostor
+➢ rekonstrukce autobusového nádraží Zvonařka
+➢ parkoviště P+R – Purkyňova, Veveří – Šumavská, Novolíšeňská, Královo Pole, Pisárky,
+  Kampus Bohunice, Skořepka, Polní (RIVER PARK), U Ústředního hřbitova, Líšeň u Zetoru
+➢ rozvoj dopravní telematiky v letech 2021-2027 – kamerový dohled, rekonstrukce a stavby SSZ
+  včetně preference MHD, dohledový subsystém pro úsekové měření rychlosti a detekci
+  odcizených vozidel, automatické parkovací systémy, navádění na vybraná parkoviště a
+  parkovací domy, sledování obsazenosti parkovacích míst pod parkovacími automaty, rozšíření
+  funkcí dopravní ústředny SSZ, rozšíření funkcí Centrálního technického dispečinku, dopravní
+  informační centrum Brno, měřící body na cyklostezkách, informační, naváděcí a regulační
+  subsystém – proměnné tabule
+➢ trolejbusová trať Černovické terasy
+➢ trolejbusová trať Lesná.
+
+Město Brno rovněž věnuje velkou pozornost rozvoji cyklistické dopravy, kde realizuje a plánuje
+celou řadu opatření.
+
+Tabulka 11: Přehled opatření na podporu cyklistické dopravy
+                                                                                               Očekávané
+                                                                            Rok          Rok    náklady
+ Název akce
+                                                                          zahájení    dokončení  města
+                                                                                                [tis. Kč]
+ Lávka pro pěší a cyklisty přes ulici Jedovnická – příprava                    2023       2025      35 140
+ Pisárecká – křížení silniční komunikace se stezkou pro pěší a cyklisty        2024       2026         56 080
+ Kounicova – cykloopatření                                                     2024       2026          3 000
+ Páteřní cyklotrasa, úsek "C", Olomoucká – Tuřanka                             2023       2027         42 974
+ Cyklocargo překladiště                                                        2023       2025         11 600
+ Renneská třída – cykloopatření                                                2023       2025          2 400
+ Cykloboxy                                                                     2022       2023           700
+ Páteřní cyklotrasa, úsek "B", část Podstránská                                2021       2027         18 465
+ Páteřní cyklotrasa, úsek "B", rozšíření sběrné komunikace                     2021       2027         68 123
+ Páteřní cyklotrasa, úsek "A", Pod Sídlištěm – Bělohorská                      2021       2025         19 400
+ Páteřní cyklotrasa, úsek "A", Olomoucká – Nezamyslova                         2021       2025         22 595
+ Cyklistická stezka Hladíkova                                                  2021       2025         25 000
+ Cyklistická trasa údolím Ponávky – 7.etapa: Podhájí – Karásek                 2019       2026          8 190
+ Cyklistická trasa údolím Ponávky – 5. etapa: Červený Mlýn – Myslínova         2019       2027         52 820
+ Výstavba stezky pro pěší a cyklisty Tuřany – Dvorska                          2019       2026         28 800
+ Technické zhodnocení komunikací – cyklostojany                                2018       2028         16 800
+ RK Botanická-stezka pro pěší a cyklisty – úsek Hrnčířská až Sokolská          2023       2025         18 100
+
+
+                                                                                                  37
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+                                                                                       Očekávané
+                                                                  Rok           Rok     náklady
+ Název akce
+                                                                zahájení     dokončení   města
+                                                                                        [tis. Kč]
+ Realizace liniových opatření pro cyklisty ve městě Brně             2023         2024        1 076
+ Cyklostezka Valchařská – Olší (I. etapa)                            2024         2025           1 650
+ Rekonstrukce cyklostezky Žabiny – Komín – Bystrc                    2024         2024           5 000
+ Cyklostezka Rakovecká zátoka                                        2021         2025          30 920
+ Cyklopark mezi Vinohrady a Líšní                                    2020         2024           3 493
+ Celkem                                                                                     472 326
+Zdroj: Odbor životního prostředí, MMB
+
+
+
+
+Obrázek 7:    Cyklostezka Kníničská
+
+
+
+
+Nedílnou součástí dopravního systému města jsou chodci. Pro zajištění jejich bezpečného pohybu
+po městě se realizuje a připravuje řada opatření, zaměřených zejména na chodníky a přechody.
+Přehled opatření pro podporu chodců uvádí následující tabulka.
+
+
+                                                                                         Očekávané
+                                                                Rok            Rok        náklady
+ Název akce
+                                                              zahájení      dokončení      města
+                                                                                          [tis. Kč]
+ Zlínská – přechod pro chodce                                      2024          2025             650
+ Barvičova – přechod pro chodce                                    2023          2026           3 000
+
+
+
+                                                                                           38
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+                                                                                                  Očekávané
+                                                                            Rok          Rok       náklady
+ Název akce
+                                                                          zahájení    dokončení     města
+                                                                                                   [tis. Kč]
+ Palackého třída – přechod pro chodce II. etapa                                2023        2025          2 500
+ Jindřichova – přechod pro chodce                                              2023        2024           700
+ Libušina třída – přechod pro přecházení u ul. Stamicova                       2023        2025          1 300
+ Veslařská – přechod pro pěší (u zastávka MHD Hlavní)                          2023        2025          3 250
+ Černého – přechod pro chodce (u zastávka MHD Filipova)                        2023        2025          7 100
+ Adamovská – Boří, přechod pro chodce                                          2023        2024           680
+ Vejrostova – nasvětlení přechodu pro chodce                                   2023        2024           700
+ Lužánecká – osvětlení přechodu                                                2023        2024           700
+ Ulice Podruhova – přechod pro chodce                                          2021        2025          6 010
+ RK Přechod na ul. Trnkova                                                     2021        2025          2 300
+ Olomoucká přechod pro chodce                                                  2021        2024          6 510
+ Východní obchvat Žebětína                                                     2018        2028       82 300
+ BCŠ – MŠ Zapletalova ul. Zapletalova přechod                                  2018        2024          8 174
+ BCŠ – ZŠ Dvorecká, přechod                                                    2018        2024          4 600
+ Nový chodník v prodloužení ulice Hostislavova                                 2017        2028       32 757
+ Doplnění chodníku v ulici Maříkově                                            2014        2025       10 320
+ SZZ II – lávka pro pěší z ulice Veveří                                        2025        2025          8 000
+ Podchod pod Královopolským nádražím                                           2024        2026       39 723
+ Kníničská – rekonstrukce chodníku                                             2024        2024          2 000
+ Chodník Hudcova                                                               2024        2025          1 000
+ Pisárecká – křížení silniční komunikace se stezkou pro pěší a cyklisty        2024        2026       56 080
+ Hudcova – rozšíření chodníku                                                  2024        2026          5 000
+ Kikrleho – zpevnění chodníku                                                  2023        2024          3 000
+ Sokolnická – chodník                                                          2023        2025          3 100
+ Ostrovačická – prodloužení chodníku                                           2023        2025          8 100
+ Křtinská – rekonstrukce chodníku                                              2023        2024          1 600
+ Přístupový chodník k zastávce Valašská                                        2023        2024          4 000
+ Jana Babáka – Tererova, úprava chodníku                                       2022        2024          1 400
+ Bezbariérová úprava chodníku Kosmonautů – Kroupova                            2021        2025          3 400
+ Nové chodníky Hviezdoslavova                                                  2021        2025       12 400
+ Chodník na Mlatech                                                            2021        2025           540
+ BCŠ – ZŠ Přemyslovo nám., rozšíření chodníku                                  2018        2026           630
+ chodník Černohorská                                                           2018        2024       10 800
+ K Botanická – stezka pro pěší a cyklisty – úsek Hrnčířská až Sokolská         2023        2025       18 100
+ Pojízdné schody v podchodu u nádraží                                          2020        2024          3 576
+ Chodník na přehradě (PD)                                                      2022        2024          3 000
+ Chodník z Anthroposu do Nového Lískovce                                       2023        2025          6 000
+ Zelené podchody na hlavním nádraží (PD)                                       2022        2024           700
+ Celkem                                                                                              365 700
+Zdroj: Odbor životního prostředí, MMB
+
+
+                                                                                                    39
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+Obrázek 8:   Chodník a přechod v ulici Trnkova
+
+
+
+
+Plynulý provoz ve městě zajišťuje systém Centrálního řízení dopravy a řada dalších dopravně-
+telematických systémů. Přehled systémů zapojených do Centrálního řízení dopravy ukazuje
+následující tabulka.
+
+Tabulka 12: Systémy zahrnuté do Centrálního řízení dopravy
+
+ Název ústředny/centrály      Počet napojených zařízení        Základní funkce/činnosti
+ DÚ pro řízení SSZ (Scala –   163 dopravních řadičů na         řízení dopravy na křižovatkách prostřednictvím
+ Siemens)                     křižovatkách                     SSZ, preference jízdy vozidel VHD na
+                                                               křižovatkách, zadávání VIP tras, monitoring
+                                                               provozních stavů dopravních řadičů a
+                                                               technologie vybavení SSZ křižovatek
+ Ústředna pro řízení          7 tunelů                         řízení dopravy a technologického provozu v
+ tunelových staveb                                             tunelech, monitoring provozních stavů
+                                                               technologie tunelů
+ Ústředna parkovacích         132 parkovacích automatů         monitoring provozních stavů parkovacích
+ automatů                                                      automatů
+ Ústředna kamerového          579 kamerových bodů              dohled nad dopravní situací v tunelech a na
+ systému                                                       významných úsecích pozemních komunikací,
+                                                               monitoring provozního stavu kamerových bodů
+ Ústředna videodetekce        335 kamerových bodů              detekce nestandardních provozních a
+                                                               dopravních stavů v tunelech, monitoring
+                                                               provozních stavů systému videodetekce
+ Ústředna závorových          5 parkovišť a 3 parkovací domy   monitoring řízení dopravního provozu parkoviště
+ systémů                                                       na vjezdu, výjezdu a odbavení parkujících,
+                                                               hlasové spojení s parkujícími, monitoring
+                                                               technického stavu parkovací technologie
+ Ústředna automatických       16 výsuvných sloupků             ovládání polohy výsuvných sloupků, monitoring
+ zádržných systémů                                             technického stavu zařízení
+
+
+
+
+                                                                                                      40
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+ Název ústředny/centrály       Počet napojených zařízení          Základní funkce/činnosti
+ Kamerový systém pro           19 profilů (33 kamer)              snímání a čtení RZ vozidel, předávání dat do
+ monitorování vjezdu do zón                                       Systému organizace a bezpečnosti dopravy,
+ s dopravním omezením v                                           monitoring provozního stavu kamerových bodů
+ centrální části města Brna
+ Centrála dohledu nad          90,5 km optických kabelových       monitoring technického stavu optických kabelů,
+ optickými kabelovými          tras                               automatický systém směrování datových toků
+ trasami
+ Sběr dopravních dat           98 detektorů                       rychlost dopravního proudu / intenzita dopravy /
+ (strategické detektory)                                          kategorie vozidel
+ Měřicí body na                13 profilů / 17 detektorů          intenzita dopravy, kategorie (chodec / cyklista)
+ cyklostezkách
+ C-ITS back office             25 C-ITS systémů na                příjem, zpracování, generování a distribuce C-
+                               křižovatkách, 6 C-ITS jednotek     ITS zpráv
+                               na veřejném osvětlení
+ Dopravní informační           -                                  zpracování a poskytování dopravních informací,
+ centrum Brno                                                     poskytování informací prostřednictvím webové a
+                                                                  mobilní aplikace
+Zdroj: Ročenka dopravy Brno 2024
+
+Akce v oblasti telematiky, řídicích a informačních systémů, spadajících do monitorovaného období
+zobrazuje následující tabulka.
+
+Tabulka 13: Přehled opatření v oblasti telematiky, řídicích a informačních systémů v dopravě
+
+                                                                                                       Očekávané
+                                                                            Rok            Rok          náklady
+ Název akce
+                                                                          zahájení      dokončení        města
+                                                                                                        [tis. Kč]
+ Rozvoj dopravní telematiky, příprava                                           2015           2027          60 000
+ Řízení dopravy a sběr dopravních dat ve městě Brně, 6. etapa                   2020           2023          12 778
+ Rozvoj ITS v Brně, 1. etapa                                                    2022           2025          39 900
+ Rozvoj ITS v Brně, 2. etapa                                                    2023           2025          28 750
+ Rozvoj ITS v Brně, 3. etapa                                                    2024           2026         115 846
+ Celkem                                                                                                     257 274
+Zdroj: Odbor životního prostředí, MMB
+
+K rozvoji elektromobility město přispívá jednak užíváním elektromobilů pro potřebu vlastních útvarů
+a jednak budováním nabíjecích míst. Následující tabulka uvádí některé příklady.
+
+Tabulka 14: Příklady opatření města a městských organizací v elektromobilitě
+
+       Název                                        Období
+                               Název akce                         Bližší popis toho, co bylo předmětem akce
+  organizace/útvaru                                realizace
+MČ Brno-Medlánky         Elektrovozy pro MČ                2024 Výměna 1 osobního automobilu a 1 nákladního
+                         Brno-Medlánky                          automobilu na fosilní paliva za elektromobily.
+
+MČ Brno-Chrlice          Pořízení                          2023 Náhrada osobního automobilu na fosilní paliva
+                         elektromobilu pro                      elektromobilem.
+                         ÚMČ Brno-Chrlice
+OVV                      Osobní vozidla pro                2024 Pořízení 2 osobních automobilů s elektrickým
+                         Magistrát města Brna                   pohonem.
+                         – 2023
+
+
+
+
+                                                                                                          41
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+       Název                                        Období
+                             Název akce                             Bližší popis toho, co bylo předmětem akce
+  organizace/útvaru                                realizace
+OVV                      Osobní vozidla pro              2024 Pořízení 1 osobního automobilu s elektrickým
+                         Magistrát města Brna                 pohonem.
+                         – 2023 – II
+Odbor sportu             Hala RONDO –                    2022 Instalace dobíjecí stanice pro plánovanou
+                         Instalace dobíjecí                   elektromobilitu vozového parku STAREZ –
+                         stanice                              SPORT, a.s.
+
+Zdroj: Odbor životního prostředí, MMB
+
+V rámci Memoranda o dlouhodobé spolupráci na závazku statutárního města Brna k adaptaci
+na klimatické změny se na realizaci adaptačních opatření podílí i řada firem a institucí. Přehled
+některých z nich uvádí následující tabulka.
+
+Obrázek 9:     Opatření v dopravě realizovaná v rámci Memoranda
+
+ Název                                                                   Doba
+                        Popis projektu                                                   Investiční náklady
+ firmy/instituce                                                         realizace
+                        Postupná obměna vozového parku na
+ Vodafone Czech         hybridní a elektrická auta, omezení
+                                                                         2021–dosud      Neuvedeny
+ Republic a.s.          služebních cest, využívání digitální
+                        komunikace.
+                        Instalace nabíjecích stanic pro
+ CARent, a.s.           elektromobily v areálu firmy, součástí je        2022            Neuvedeny
+                        přechod na elektrické vozy Ford.
+                        Zavedení nízkoemisních služebních vozidel
+ Nitto Denko Czech,     (emise CO₂ < 50 g/km), podpora
+                                                                         2022–2023       Neuvedeny
+ s.r.o.                 zaměstnanců v rámci akce Do práce na
+                        kole, vybudování přístřešku pro kola.
+                        Vybudování 30 dobíjecích míst pro
+ Technologický park
+                        elektromobily (další plánována), rozvoj          2020–2023       Neuvedeny
+ Brno, a.s.
+                        carsharingu s ekologickými vozidly.
+                        Přechod na elektrické vysokozdvižné
+ Starobrno (Heineken
+                        vozíky, budování nabíjecí infrastruktury v       2022–2024       Neuvedeny
+ ČR)
+                        pivovaru i distribučním centru.
+                        Umístění elektronabíjecí stanice pro
+ RENFIELD, s.r.o. –
+                        zaměstnance a nájemníky, podpora                 2019–2020       Neuvedeny
+ Svitava Office
+                        cyklodopravy (sklad kol).
+                        Podpora udržitelné dopravy v rámci
+ Masarykova             interních projektů (#munisaves, KoMUNItní                        2 mil. Kč (celkový
+                                                                         2022–2023
+ univerzita             fond) – instalace cyklostojanů s pumpou a                        rozpočet fondu)
+                        nářadím.
+Zdroj: Odbor Životního Prostředí, MMB
+
+
+3.1.6 Stav opatření v místní výrobě elektřiny a tepla
+
+Strategicky důležitým opatřením SECAP je Modernizace a ekologizace zdroje Brno-Sever. V rámci
+modernizace byly odstraněny staré mazutové kotle, instalovány nové plynové kotle, byl vybudován
+nový komín a aktuálně probíhající akcí je instalace kotle na dřevní štěpku. Kotel na dřevní štěpku
+byl uveden do zkušebního provozu v říjnu 2025. Modernizovaný zdroj bude poskytovat tepelný
+výkon 43 MWt a dodávat 490 TJ tepla a 45 GWh elektřiny ročně. Investiční náklady na instalaci
+štěpkového kotle činí asi 2,5 mld. Kč, z toho 1,6 mld. Kč pokryje dotace poskytnutá
+z Modernizačního fondu SFŽP.
+
+
+                                                                                                          42
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+Dalším, rovněž strategickým, projektem je přivedení tepla z Jaderné elektrárny Dukovany do Brna.
+Stavba tepelného napaječe je plánována na období 2027-2032. Očekávané náklady na stavbu
+horkovodu jsou asi 18 mld. Kč, přičemž v letošním roce byla schválena dotace ve výši 10,6 mld.
+Kč. Technické řešení počítá s výstavbou napáječe o délce 42 kilometrů z Jaderné elektrárny
+Dukovany do stanice na území městské části Bosonohy. Zde se rozdělí do dvou větví a propojí se
+se stávající soustavou zásobování tepelnou energií Tepláren Brno. Celková délka nově
+postavených dálkových rozvodů tepla bude 94 km. Horkovod o přenosovém výkonu 200 MW
+dopraví ročně 2 000 TJ tepla. Realizace tohoto projektu představuje významný krok směrem k
+moderní, udržitelné a energeticky soběstačné budoucnosti Brna, která přinese nejen ekologické,
+ale i ekonomické výhody pro jeho obyvatele. Horkovod významně přispěje ke stabilizaci dodávek
+tepla, snížení emisí skleníkových plynů a omezení závislosti města na dováženém plynu, na kterém
+je aktuálně závislé z 80 procent. Brno se tak fakticky zbaví plynu, protože bude získávat teplo z
+odpadu, z biomasy a z horkovodu.
+
+Třetím významným projektem, na jehož dodavatele je v současnosti vypsáno výběrové řízení,
+modernizace zařízení pro energetické využití odpadu (ZEVO) společnosti SAKO Brno, a. s. Projekt
+přinese výrazné snížení emisí, napojení na železniční vlečku a modernizaci celého areálu.
+Dokončení je plánováno do května 2028. Modernizované ZEVO bude moci ročně energeticky
+využívat 270 až 352 tisíc tun odpadu primárně z Jihomoravského kraje a případně okolních
+regionů. Projekt reaguje na blížící se zákaz skládkování nevyužitelného odpadu a představuje
+důležitý prvek moderního odpadového hospodářství regionu. V současnosti ZEVO společnosti
+SAKO Brno ročně z 250 tis. tun odpadu vyrobí přibližně 1 000 TJ tepla a 60 GWh elektrické
+energie.
+
+V místní výrobě elektřiny nabývají na významu fotovoltaické elektrárny. Řada z nich byla
+instalována v rámci renovací budov. Zde uvádíme fotovoltaické elektrárny instalované samostatně.
+
+Tabulka 15: Samostatně instalované fotovoltaické elektrárny
+
+       Název                                   Období
+                           Název akce                         Bližší popis toho, co bylo předmětem akce
+  organizace/útvaru                           realizace
+Domov pro seniory      Fotovoltaický systém     2021      Instalace FV systému na střechu domova pro
+Holásecká, p. o.       pro DS Holásecká,                  seniory. Vyrobená elektrická energie bude
+                       Brno                               využita pro vlastní spotřebu, přebytky mohou
+                                                          být dodávány do sítě. Předpoklad ročních
+                                                          úspor 64,954 MWh.
+Centrum sociálních     Horova 77, instalace     2022      Instalace FVE realizována společností SAKO
+služeb, p. o.          FVE na objekt domu                 Solar BRNO a.s. v rámci projektu městské
+                       s pečovatelskou                    solární elektrány.
+                       službou
+Domov pro seniory      Instalace FVE na         2023      Instalace FVE realizována společností SAKO
+Podpěrova, p. o.       objektech domova                   Solar BRNO a.s. v rámci projektu městské
+                                                          solární elektrány.
+Domov pro seniory      Instalace FVE na         2023      Instalace FVE realizována společností SAKO
+Věstonická, p. o.      objektech domova                   Solar BRNO a.s. v rámci projektu městské
+                                                          solární elektrány.
+Domov pro seniory      Instalace FVE na         2023      Instalace FVE realizována společností SAKO
+Vychodilova, p.o.      objektech domova                   Solar BRNO a.s. v rámci projektu městské
+                                                          solární elektrány.
+Domov pro seniory      Instalace FVE na         2023      Instalace FVE realizována společností SAKO
+Koniklecová, p. o.     objektech domova                   Solar BRNO a.s. v rámci projektu městské
+                                                          solární elektrány.
+Domov pro seniory      Instalace FVE na         2023      Instalace FVE realizována společností SAKO
+Foltýnova, p. o.       objektech domova                   Solar BRNO a.s. v rámci projektu městské
+                                                          solární elektrány.
+
+
+
+
+                                                                                                 43
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+       Název                                            Období
+                                Název akce                              Bližší popis toho, co bylo předmětem akce
+  organizace/útvaru                                    realizace
+Domov pro seniory           Fotovoltaický systém         2024 -        Instalace FV systému na střechu domova pro
+Kosmonautů, p. o.           pro DS Kosmonautů,         předpoklad      seniory. Vyrobená elektrická energie bude
+                            Brno                                       využita pro vlastní spotřebu, přebytky mohou
+                                                                       být dodávány do sítě. Předpoklad ročních
+                                                                       úspor 33,5 MWh.
+Zdroj: Odbor Životního Prostředí, MMB
+
+
+3.2    Adaptační opatření
+
+Z hlediska oblastí, ve kterých se adaptační opatření realizují, je možné tato rozdělit na opatření na
+budovách a zařízení v majetku města a na opatření realizovaná v terciárním sektoru. Ta jsou
+realizována především na základě Memoranda o snížení produkce emisí, které společně s městem
+Brnem podepsaly organizace z oblasti terciéru, které působí na území města Brna.
+
+Adaptační opatření se týkají především:
+
+➢ revitalizací zeleně a parků
+
+➢ doplňování a úpravy zeleně
+
+➢ vertikálních zahrad
+
+➢ zelených střech
+
+➢ zasakovacích roštů pro zpevněné a propustné povrchy
+
+➢ protipovodňových opatření
+
+➢ zelených parkovišť.
+
+Významnou pozornost věnuje město Brno revitalizaci parků, a to v rámci programu Nové parky pro
+Brno. Program byl zahájen v roce 2021 a v jeho rámci bylo podpořeno více jak 70 projektů. Známé
+a předpokládané investiční náklady do revitalizace parků dosahují téměř 115 mil. Kč. Přehled
+revitalizací parků uvádí následující tabulka:
+
+Tabulka 16: Realizované a plánované revitalizace parků
+                                                              Investiční náklady         Stav
+ Název projektu                        Městská část                                                       Realizace
+                                                                     [Kč]              realizace
+ Náměstí Odboje                  Brno-Medlánky                            9 412 627    Hotové      04/2022–11/2022
+ Park Dědická – Rousínovská      Brno-Slatina                             6 045 877    Hotové      06/2023–9/2023
+                                                                                                   Zatím nebyl
+ Stromová kaple                  Brno-Jehnice                               135 108    Realizace
+                                                                                                   realizován
+                                                                                                   Zatím nebyl
+ Přemyslovo náměstí              Brno-Slatina                       Není k dispozici   Realizace
+                                                                                                   realizován
+ Parková plocha u ZŠ Jana                                                                          Zatím nebyl
+                                 Brno-Žabovřesky                    Není k dispozici   Realizace
+ Babáka                                                                                            realizován
+                                                                                                   Zatím nebyl
+ ÚSES Tuřany                     Brno-Tuřany                        Není k dispozici   Realizace
+                                                                                                   realizován
+ Park pod hvězdami               Brno-střed                               5 045 099    Hotové      8/2023–6/2024
+ Kroupova                        Brno-Starý Lískovec                      3 026 632    Hotové      03/2020-10/2022
+ Plocha za Billou                Brno-Medlánky                      Není k dispozici   Hotové      2022
+
+
+                                                                                                                 44
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+                                                       Investiční náklady      Stav
+ Název projektu                    Městská část                                              Realizace
+                                                              [Kč]           realizace
+ Park Řehořova                Brno-Černovice                   15 723 824    Hotové      05/2022–9/2022
+ Vnitroblok Bayerova-
+                              Brno-střed                       12 727 700    Hotové      10/2023–4/2024
+ Botanická
+ Park Pohoda                  Brno-střed                        4 456 394    Hotové      06/2020–9/2022
+ Park Tuřany                  Brno-Tuřany                       1 462 827    Hotové      03/2022–7/2022
+ Park Bedřich                 Brno-Židenice                     3 706 731    Hotové      10/2021–5/2022
+ Park Prostějovská            Brno-Slatina                      4 330 995    Hotové      12/2022–05/2023
+                              Brno-Maloměřice a
+ Parčík u Obřanského mostu                                      1 428 832    Hotové      05/2022–9/2022
+                              Obřany
+ Pod kaštany                  Brno-Žabovřesky                   7 002 909    Hotové      08/2022–10/2022
+                              Brno-Maloměřice a
+ Dům důstojného stáří                                             196 499    Hotové      08/2022–9/2022
+                              Obřany
+ Komínské louky               Brno-Komín                        2 450 000    Hotové      12/2022–6/2024
+                                                                                         Zatím nebyl
+ Park Ořech                   Brno-Kníničky                     2 897 213    Projekt
+                                                                                         realizován
+                                                                                         Zatím nebyl
+ Tyršův park                  Brno-sever                        6 585 000    Projekt
+                                                                                         realizován
+                                                                                         Zatím nebyl
+ Poříčí                       Brno-střed                  Není k dispozici   Projekt
+                                                                                         realizován
+                                                                                         Zatím nebyl
+ Park František               Brno-Židenice                       470 000    Projekt
+                                                                                         realizován
+                                                                                         Zatím nebyl
+ Park U hájovny               Brno-Žebětín                      2 344 248    Projekt
+                                                                                         realizován
+                                                                                         Zatím nebyl
+ Park U Lva                   Brno-Kníničky                     4 500 000    Projekt
+                                                                                         realizován
+                                                                                         Zatím nebyl
+ Bývalý Hřbitov               Brno-Bystrc                      15 410 000    Projekt
+                                                                                         realizován
+                              Brno-Řečkovice a Mokrá                                     Zatím nebyl
+ Zámecký park                                                   5 595 000    Projekt
+                              Hora                                                       realizován
+Zdroj: Odbor Životního Prostředí, MMB
+
+
+
+
+                                                                                                       45
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+Obrázek 10: Park Řehořova po revitalizaci
+
+
+
+
+Na podporu realizace adaptačních opatření město využívá několik dotačních programů. V první
+řadě je to program Dešťovka, ve kterém podporuje následující opatření:
+
+➢ akumulace dešťové vody pro zálivku zahrady
+
+➢ akumulace dešťové vody jako vody užitkové a pro zálivku zahrady (zálivka + WC)
+
+➢ využití přečištěné odpadní vody s možným využitím srážkové vody (šedá voda+).
+
+Program Dešťovka je celostátní program financovaný ze SFŽP, přičemž město Brno přispívá 50 %
+finančních prostředků, které žadateli přiznal Státní fond životního prostředí ve smlouvě o poskytnutí
+dotace v rámci jeho dotačního programu. Město Brno na tento program vyčleňuje ročně 1 mil. Kč.
+Přehled projektů podpořených z programu Dešťovka ukazuje následující tabulka.
+
+Tabulka 17: Přehled projektů podpořených z programu Dešťovka
+
+               Rok                          Počet projektů             Celková výše podpory [Kč]
+               2019                                            19                           311 000
+               2020                                            45                           748 000
+               2021                                            25                           389 000
+               2022                                            24                           428 000
+               2023                                            13                           220 000
+               2024                                             5                            90 000
+              Celkem                                          131                         2 186 000
+Zdroj: Odbor Životního Prostředí, MMB
+
+
+                                                                                              46
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+Úbytek žádostí je zapříčiněn změnou pravidel SFŽP (od podzimu 2023). Již nelze žádat SFŽP o
+podporu na vybudování akumulační nádrže samostatně, ale pouze v kombinaci s více opatřeními
+(např. se zateplením, výměnou oken, pořízením FVE apod.). Pro žadatele z větších aglomerací,
+vyjma novostaveb, je to prakticky bezpředmětné. Město se se proto rozhodlo jít cestou finanční
+podpory projektů města na vlastním majetků (podpora nádrží na dešťovou vodu u mateřských
+školek, domů s pečovatelskou službou apod.).
+
+Dalším programem, tentokrát již plně dotovaným z prostředků města, je Program na vytváření
+zelených střech – tzv. Zeleň střechám. Cílem podpory zřizování zelených střech je zejména
+schopnost zadržet nebo zpomalit odtok velkého množství přívalových srážek a snížit tak nároky na
+kanalizační sít města. Další výhody jsou snížení hluku, zadržení prachu a jiných polétavých částic,
+chlazení povrchu pod FVE a prostorů pod střechou (přirozená klimatizace), zvýšení biodiverzity,
+snížení tepelných mostů, které vytváří rozpálené městské střechy atd. V neposlední řadě zelená
+barva přirozené zeleně střech na nižších budovách má uklidňující vliv na psychiku člověka žijícího
+nebo pracujícího nad touto zelení. V rozpočtu města je na tento program každý rok pamatováno
+19 mil. Kč.
+
+Tabulka 18: Přehled proplacených projektů podpořených z programu Zelená střechám
+
+               Rok                        Počet projektů             Celková výše podpory [Kč]
+               2023                                           52                       13 582 000
+               2024                                           46                         8 344 000
+              Celkem                                          98                       21 926 000
+Zdroj: Odbor Životního Prostředí, MMB
+
+
+Obrázek 11: Příklad zelené střechy
+
+
+
+
+Posledním dotačním programem města, který je zaměřen na adaptační opatření, je Program na
+podporu oživení zeleně ve vnitroblocích – tzv. „Vnitroblok“. Program je plně dotován městem
+a běží již od roku 2018. V rozpočtu města je na tento program vyčleněno ročně 3,4 mil. Kč. Hlavním
+
+                                                                                            47
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+cílem dotačního programu Vnitroblok je rozšíření sídelní zeleně, zlepšení zasakovacích podmínek
+v zastavěných částech města, zlepšení mikroklimatu a zlepšení podmínek pro rozšiřování
+biodiverzity. Dále uveden souhrn projektů podpořených programu Vnitroblok.
+
+Tabulka 19: Přehled projektů podpořených z programu Vnitroblok
+
+               Rok                        Počet projektů               Celková výše podpory [Kč]
+               2018                                              8                         626 000
+               2019                                              12                       1 273 000
+               2020                                              8                         954 000
+               2021                                              21                       3 722 050
+               2022                                              8                        1 875 308
+               2023                                              10                       2 276 880
+               2024                                              9                        2 460 000
+              Celkem                                             76                     13 187 238
+Zdroj: Odbor Životního Prostředí, MMB
+
+Výše uvedené projekty řeší nepříznivý stav zeleně na území města a zlepšují nakládání s dešťovou
+vodou. Hlavním přínosem je zvýšení zastoupení kvalitní zeleně, následně vytvoření stínu v ulicích
+a snížení tepelného ostrova města. Realizací také dochází ke zvýšení zdrojů potravy pro hmyz,
+ptáky a drobné savce.
+
+Další kategorie adaptačních opatření je zaměřena na zvýšení odolnosti města proti povodním.
+Po povodních v roce 2006 přistoupilo město Brno ve spolupráci s povodím Moravy k vytvoření
+ucelené koncepce protipovodňové ochrany založené na přírodě blízkých principech.
+Cílem strategického projektu města je vybudování komplexní protipovodňové ochrany na hlavních
+brněnských tocích – Svratce, Svitavě a Leskavě. Cílem je zajistit ochranu před stoletou vodou a
+současně zatraktivnit brněnská nábřeží řek Svratky, Svitavy a Leskavy pomocí přírodě blízkých a
+modro-zelených opatření.
+
+Hlavní principy projektu
+
+➢ využití přírodě blízkých opatření (retence vody v nivách, obnova rozlivů, ekologické bermy)
+
+➢ zlepšení ekologického a morfologického stavu vodních toků
+
+➢ kombinace ochranné, rekreační a krajinářské funkce řek
+
+➢ zvýšení retenční kapacity krajiny a zlepšení mikroklimatu města.
+
+Hlavní úseky a etapy výstavby:
+
+➢ Poříčí (etapy VII–VIII, Svratka)
+
+        o   Úsek Novosadský most – most Vídeňská, 2022–2025
+
+        o   Rozšíření koryta, snížení břehů, nové bermy a kolonáda s kavárnou
+
+        o   Ochrana 6 000 obyvatel na 80 ha území
+
+        o   Součástí je rekonstrukce inženýrských sítí a kanalizace.
+
+
+
+                                                                                             48
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+➢ Trnitá (etapy IX–XI, Svratka a Svitava)
+
+       o   Úsek železniční viadukt – trať v Komárově, 2026–2028
+
+       o   Vznik **povodňového parku** s novým ramenem řeky, lávkou a rekreačními plochami
+
+       o   Ochrana 3 570 obyvatel a 180 ha území.
+
+➢ Zbrojovka (etapy XXI–XXII, Svitava)
+
+       o   Úsek Maloměřický most – ul. Křenová, 2028–2030
+
+       o   Ochrana 13 000 obyvatel, revitalizace průmyslových brownfieldů, nové veřejné plochy
+           a cyklostezky.
+
+➢ Doprovodné projekty
+
+       o   Zelené nábřeží – výsadba 1 744 stromů, 819 keřů a vodních rostlin pro zlepšení klimatu
+           a biodiverzity.
+
+       o   Prostor pro graffiti – umělecké využití protipovodňových zdí formou legálních maleb a
+           soutěží.
+
+       o   Technická infrastruktura – obnova stokové sítě a odlehčovacích komor zajišťující
+           bezpečnost města při velké vodě.
+
+Celkové přínosy:
+
+➢ Projekt ochrání přes 24 000 obyvatel, 10 km² území bude vyjmuto ze záplav, a Brno získá nová
+  rekreační a parková nábřeží.
+
+➢ Řeky se navrací k přírodě a stávají se živým prvkem města – prostorem pro setkávání, sport i
+  pobyt u vody.
+
+
+
+
+                                                                                          49
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+Obrázek 12: Povodňový park na řece Svratce
+
+
+
+
+Na základě Memoranda o dlouhodobé spolupráci na závazku statutárního města Brna k
+adaptaci na klimatické změny se na realizaci adaptačních opatření podílí i řada firem a
+institucí. Přehled některých z nich uvádí následující tabulka.
+
+Obrázek 13: Přehled některých adaptačních opatření realizovaných v rámci Memoranda
+
+ Název
+                          Popis projektu               Doba realizace      Investiční náklady
+ firmy/instituce
+                          Zelená střecha
+                          DADADISTRIKT –                                   Neuvedeny (částečně
+ GreenVille service,
+                          komunitní prostor, retence   2019–2022           dotace z programu
+ s.r.o.
+                          dešťové a šedé vody,                             Zeleň střechám)
+                          vegetační plochy.
+                          Projekt Zachraňte včely –
+ EPRIN, spol. s r.o.      úly v Technologickém         od 2021             Neuvedeny
+                          parku, edukace veřejnosti.
+                          Svitava Office – retenční
+                          nádrž, vsakovací dlažba,
+ RENFIELD, s.r.o.                                      2019–2020           Neuvedeny
+                          Green zóna pro
+                          nájemníky.
+                          Purkyňka Offices – zelená
+                          střecha, workout hřiště,
+ RENFIELD, s.r.o.                                      2022–2024           Neuvedeny
+                          chill-out zóna, retence
+                          vody.
+
+
+
+
+                                                                                          50
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+ Název
+                            Popis projektu                Doba realizace        Investiční náklady
+ firmy/instituce
+                            Záchrana stromů, zelená
+ Technologický park
+                            střecha, naučná a včelí       2020–2023             Neuvedeny
+ Brno, a.s.
+                            stezka pro děti.
+                            Výsadba stromů, přechod
+ Nitto Denko Czech,
+                            na luční porost, podpora      2022–2023             Neuvedeny
+ s.r.o.
+                            biodiverzity.
+Zdroj: Odbor Životního Prostředí, MMB
+
+
+Obrázek 14: Zelená střecha DADADISTRIKT (1. místo v kategorii Veřejná střecha intenzivní v roce 2022)
+
+
+
+
+Přehled dalších adaptačních opatření realizovaných městem a městskými organizacemi je uveden
+v následující tabulce.
+
+Tabulka 20: Další adaptační opatření realizovaná městem a městskými organizacemi
+
+       Název                                   Období
+                            Název akce                     Bližší popis toho, co bylo předmětem akce
+  organizace/útvaru                           realizace
+OŽP - odd. motiv.       Podpora vytváření     2019-2022   za uvedené období bylo realizováno 325
+programů                zelených střech                   projektů zelených střech o celkové ploše 40.384
+                                                          m2
+MČ Brno-Medlánky        Zelená střecha –        2024      Vybudování zelené střechy na budově
+                        Jabloňová 1a, Brno-               využívané MČ.
+                        Medlánky
+MČ Brno-sever           Revitalizace zeleně     2024      Bezpečnostní řez stromů, výsadba stromů a
+                        na Husovickém kopci               keřů, vybudování loggerů, ponechání torz
+                        – 2. část                         stromů pro hnízdění.
+MČ Brno-Žabovřesky      Úprava a dosadba        2024      Probírka dřevin, dosadba keřů, stromů, trávníků
+                        vegetace na ulici                 a záhonů.
+                        Klímova v MČ Brno –
+                        Žabovřesky, část B
+
+
+
+
+                                                                                                   51
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+      Název                                      Období
+                            Název akce                       Bližší popis toho, co bylo předmětem akce
+ organizace/útvaru                              realizace
+MČ Brno-střed           Revitalizace parku        2024      Kácení, ošetření a výsadba stromů, keřů,
+                        Dvorského                           půdopokryvných dřevin, pobytových trávníků,
+                                                            vybudování zimoviště pro obratlovce a hmyz.
+MČ Brno-Nový            Úprava zeleně v okolí     2024      Kácení invazivních dřevn, výsadba stromů a
+Lískovec                domů Oblá 33 a 35,                  keřů, založení trávníků, opatření ke zpomalení
+                        Brno–Nový Lískovec                  odtoku srážkové vody, vybudování zimovišť pro
+                                                            drobné obratlovce, broukoviště, osazení ptačích
+                                                            budek.
+MČ Brno-sever           Revitalizace parku        2024      Kácení neperspektivních dřevin, dosadba strom
+                        Marie Restituty – I.                a keřů, regenerace travnatých ploch,
+                        etapa – zeleň                       vybudování zimoviště pro drobné živočichy.
+MČ Brno-Líšeň           Regenerace                2024      Vybudování akumulační nádrže na dešťovou
+                        veřejného parku                     vodu pro zálivku zeleně.
+                        Trnkova –
+                        akumulační nádrž pro
+                        potřeby zálivky
+Zdroj: Odbor Životního Prostředí, MMB
+
+
+3.3   Opatření v oblasti energetické chudoby
+
+Oblast energetické chudoby je pouze dílčí částí sociální politiky města. V červnu 2021 město
+zveřejnilo Koncepci sociální politiky města Brna do roku 2030.Ve vztahu k energetické chudobě
+jsou významnými prvky koncepce rozvoj a podpora sociálního bydlení, podpora seniorů, mladých
+rodin a prevence sociálního vyloučení.
+
+Odbor sociální péče (OSP) se zaměřuje zejména na následující oblasti:
+
+➢ edukace –referát pro sociální bydlení poskytuje poradenství osobám, které bydlí v sociálních
+  bytech s komplexní sociální podporou. Tyto osoby musely před přiděleném sociálního bytu
+  splnit specifické podmínky, mezi nimiž je i nízkopříjmovost, jde tedy o osoby ohrožené
+  sociálním vyloučením, tedy i energetickou chudobou. Nájemné v sociálních bytech je snížené
+  (96,36 Kč/m2), smlouvy na energie si nájemníci uzavírají na sebe. Poradenství poskytují
+  všechna oddělní OSP. Pro širokou veřejnost je zřízen Socio Info Point, kam se může obrátit
+  každý, kdo hledá praktické rady ze sociální oblasti, tedy i z oblasti bydlení a energií. OSP může
+  jednotlivé osoby navázat na pro ně nejvhodnější pomoc, ať už v rámci MMB nebo sociálních
+  služeb neziskových organizací, a to dle tématu nebo potřeb, které potřebují zajistit. Konkrétně
+  v oblasti energetiky jsou klienti odkazováni na nezávislou energetickou poradnu Tepláren Brno,
+  kde je možné konzultovat své vyúčtování, nabídky prodejců energií, smlouvy a mnohé další.
+  Referát pro sociální bydlení zajišťuje podporu cca 160 domácnostem, energetickou chudobou
+  se zabývá převážně poradenstvím domácnostem při nastavování smluv a záloh u dodavatelů
+  energií, a také edukací o možnostech snížení spotřeby energie v domácnosti. Domácnostem
+  pomáhá zajišťovat Příspěvek na bydlení, Doplatek na bydlení, případně Mimořádnou
+  okamžitou pomoc na vysoká vyúčtování
+
+➢ sociální bydlení – obyvatelé sociálních bytů jsou vybírání převážně ze zranitelných cílových
+  skupin – senioři, rodiče samoživitelé, osoby se zdravotním omezením, osoby dlouhodobě
+  pobývající na ulici nebo v nevhodných podmínkách. Sociální pracovníci v rámci komplexní
+  sociální podpory pomáhají s výběrem vhodného dodavatele energie, dokáží poradit s
+  nastavením záloh, případně vyřízením sociálních dávek na bydlení. Objevují se situace, kdy je
+  těžké zajistit dodavatele energie z důvodu předchozího zadlužení na energii. Technický stav
+  bytů má na starost Odbor správy majetku, pokud je tedy zjištěna závada, komunikuje o tom
+  nájemník sám nebo s pomocí sociálního pracovníka s tímto odborem. V rámci projektů
+  sociálního bydlení má OSP úvazek pracovníka správy bytů, který by se měl zaměřovat na
+  zvyšování kompetencí nájemníků sociálních bytů v řešení technického stavu bytů (např.
+
+                                                                                                     52
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+   výměny žárovek, těsnění vodovodních baterií) a navrhovat řešení tak, aby domácnost zbytečně
+   nevynakládala prostředky na neekonomická a neekologická řešení. Pozice tohoto pracovníka
+   není bohužel aktuálně obsazena, vhodný kandidát se hledá. V rámci komplexní sociální
+   podpory v domácnostech OSP řeší veškerá témata související s bydlením, tedy i případné
+   zdroje pro úhradu vysokých nákladů na energii (sociální dávky, nadace) nebo způsoby, jak na
+   energiích spořit, šetřit vodu, elektřinu a plyn. Jak nájemník ke své domácnosti bude přistupovat
+   je ale vždy ve výsledku na něm samotném
+
+➢ podpora seniorů – velká míra podpory směřuje také k seniorům, kteří jsou oslovováni
+  prostřednictvím letáků a časopisu Senior Žurnál, které jsou distribuovány především do
+  čekáren lékařských ambulancí, knihoven a dalších míst s vyšší koncentrací osob seniorského
+  věku. Informace jsou šířeny také formou přednášek pořádaných pro seniorská sdružení a kluby
+  při jednotlivých úřadech městských částí a spolupracujícími organizacemi. Skrze různá
+  oddělení OSP informuje také další zranitelné skupiny, jako jsou osamělí rodiče nebo osoby se
+  zdravotním postižením, o dostupné podpoře, která může zlepšit jejich finanční situaci. OSP
+  zprostředkovává kontakty na nadační fondy, pomáhá s vyplňováním formulářů pro získání
+  sociálních dávek a v případě potřeby klienty propojuje s terénními sociálními pracovníky
+  působícími v dané oblasti.
+
+V oblasti investičních projektů město od roku 2017 město provádí výstavbu nových bytových domů
+a rekonstrukce starých objektů na domy s obecními byty, které slouží jako bydlení pro skupiny
+obyvatel, pro které se energie stává cenově nedostupnou.
+
+3.3.1 Rekonstrukce starých objektů
+
+Od poslední monitorovací zprávy byla provedena rekonstrukce řady domů, ve kterých jsou byty
+určené pro sociálně slabší obyvatele ohrožené energetickou chudobou.
+
+POLYFUNKČNÍ DŮM POD NEMOCNICÍ 25
+
+Dokončeno: 2021
+
+V místě stávající mateřské školy vznikl po kompletní rekonstrukci třípodlažní polyfunkční objekt,
+který zčásti opět slouží jako mateřská škola a zčásti jako dostupné bydlení pro seniory. Stávající
+budova byla navýšena o nástavbu a ze severní strany rozšířena o nový blok. V přízemí budovy je
+umístěna mateřská škola o kapacitě 28 dětí a společenský sál pro městskou část. V dalších patrech
+vzniklo 16 bytových jednotek o velikosti 1+kk a 2+kk včetně malé společenské místnosti vybavené
+kuchyňským koutem a sociálním zařízením.
+
+Jednotlivé funkční části jsou oddělené, s vlastním vstupem. Přístup k bytům je zajištěn nově
+vybudovaným výtahem. Pro technické zázemí objektu je vyhrazen suterén. Zahrada je funkčně
+rozdělena na část určenou pro mateřskou školu vybavenou herními prvky a na klidovou
+odpočinkovou část zahrady s altánem určenou pro obyvatele domu pro seniory. Budově je
+vyhrazeno 20 parkovacích stání – 5 stání před objektem a dalších 15 nových parkovacích bylo
+vybudováno při severní hraně ulice.
+
+
+
+
+                                                                                            53
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+Obrázek 15: Polyfunkční dům Pod nemocnicí 25
+
+
+
+
+DOSTUPNÉ BYDLENÍ PRO SENIORY CEJL 75 a 77
+
+Dokončeno: 2021
+
+Jedná se o dva pavlačové činžovní domy se společným dvorem – Cejl 75 a Cejl 77, které po
+kompletní rekonstrukci vytvořily jeden celek. Půdorys obou domů je ve tvaru písmene „L“. Obě
+uliční části domu jsou čtyřpodlažní. Delší strany domů jsou orientovány do dvora a tvoří pavlačová
+křídla. Mezi nimi vzniklo nádvoří, které je využíváno pro klidové zázemí obyvatel. Parter domu je
+nově řešen, stávající vstupy jsou zachovány, bezbariérový přístup je domem Cejl 77.
+
+V suterénu je umístěno technické zázemí, přízemí je navrženo pro komerční využití, společenské
+zázemí pro DPS a byt správce budovy. Ostatní podlaží jsou výhradně určena pro byty o velikosti
+1+kk a 2+kk. Celkem vzniklo 37 bytů, z toho 9 bezbariérových.
+
+Ve vnitrobloku je zřízena pohotovostní zpevněná plocha (na parkování např. sanitek, zásobování
+apod.). Jinak je dvorek upraven jako oddychová klidová plocha se zelení a lavičkami pro obyvatele
+bytů.
+
+
+
+
+                                                                                           54
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+Obrázek 16: Bytový dům Cejl 75 a 77
+
+
+
+
+BYTOVÝ DŮM KŘENOVÁ 76
+
+Dokončeno: 2021
+
+Bytový dům se nachází na východě městské části Brno-střed v blízkosti řeky Svitavy. Jedná se o
+stavbu z druhé poloviny 19. století, která sloužila jako celnice a jako jedna z několika již dnes zcela
+zaniklých staveb se zachovala téměř v původní podobě. Jedná se o malý bytový dům
+obdélníkového tvaru, původně se čtyřmi bytovými jednotkami a jednou jednotkou nebytovou s
+nevyužívaným půdním prostorem.
+
+Po celkové rekonstrukci domu zůstala zachována funkce bydlení. Přestavbou stávajících bytů a
+půdní vestavby vzniklo sedm bytů o velikosti 1+kk a 2+kk, v přízemí pak komerční samostatně
+přístupný prostor včetně využití části suterénu. Dům má velmi dobrou dopravní dostupnost.
+
+Obrázek 17: Bytový dům Křenová 76
+
+
+
+
+                                                                                                55
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+BYTOVÝ DŮM VLHKÁ 22
+
+Dokončeno: 2021
+
+Čtyřpodlažní podsklepený bytový dům se nachází v řadové zástavbě tří až čtyřpodlažních bytových
+domů na ulici Vlhká. Fasáda do ulice má zachovalou štukovou výzdobu, která tvoří architektonicky
+zajímavý prvek. Před rekonstrukcí bylo v domě 13 menších bytových jednotek bez sociálního
+vybavení.
+
+Rekonstrukcí domu vzniklo 17 bytových jednotek s novým dispozičním řešením. Čtyři byty jsou
+určeny pro osamělé rodiče s dětmi, jeden byt je startovací, osm bytů sociálních a čtyři byty jsou
+vyčleněny pro osoby se sníženou schopností pohybu a orientace. V přízemí jsou směrem do ulice
+dva nebytové prostory. Pro zajištění bezbariérového přístupu slouží osobní výtah s průchozí
+kabinou, který obsluhuje všechna podlaží domu s výjimkou nejvyššího podlaží ve dvorní části
+domu. Vytápění domu je řešeno napojením na horkovod Tepláren Brno.
+
+Na financování sociálních bytů byla čerpána dotace z Integrovaného regionálního operačního
+programu v rámci ITI.
+
+Obrázek 18: Bytový dům Vlhká 22
+
+
+
+
+BYTOVÝ DŮM PLYNÁRENSKÁ 8
+
+Dokončeno: 2021
+
+Kompletní rekonstrukcí domu vzniklo celkem 15 bytů, z nichž 7 bytů je určeno jako sociálních
+zařazených do projektu sociálního začleňování, 4 byty bezbariérové určené pro osoby se sníženou
+mobilitou. Tři byty v domě mají charakter bytu startovacího a jsou určeny pro mladé rodiny a páry
+a 1 byt je vyčleněn pro zajištění ubytování osamělým rodičům s dětmi. Součástí rekonstrukce bylo
+rovněž provedení půdní vestavby a dvorní části domu byl vybudován výtah.
+
+
+
+
+                                                                                          56
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+Obrázek 19: Bytový dům Plynárenská 8
+
+
+
+
+BYTOVÝ DŮM KŘENOVÁ 47
+
+Dokončeno: 2023
+
+Dům na adrese Křenová 47 byl původně dvoupodlažní, částečně podsklepený objekt s
+nevyužívaným půdním prostorem a šesti byty v prvním nadzemním podlaží. V rámci rekonstrukce
+byla postavena nová dvoupodlažní nástavba v uličním traktu U rekonstruovaných bytů zčásti došlo
+ke změně dispozičního řešení a v domě vzniklo celkem 12 bytových jednotek, z toho 4 jsou užívány
+jako sociální a 8 bytů je bezbariérových.
+
+V rámci rekonstrukce byla v celém objektu nově vyřešena otopná soustava včetně instalace dvou
+nových kondenzačních plynových kotlů a otopných těles. V jednotlivých bytech bylo zbudováno
+samostatné sociální zařízení a vnitřní vzduchotechnika.
+
+
+
+
+                                                                                         57
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+Obrázek 20: Bytový dům Křenová 47
+
+
+
+
+BYTOVÝ DŮM VRANOVSKÁ 1a
+
+Dokončeno: 2023
+
+Rekonstrukcí domu vzniklo z původních 16 bytových jednotek nově 22 bytových jednotek, z toho
+2 garsoniéry s charakterem sociálního bytu, 6 garsoniér určených pro seniory, 4 garsoniéry určené
+jako bezbariérové byty a 10 startovacích bytů, z toho 8 dvoupokojových a 2 garsoniéry. V přízemí
+jsou směrem do ulice dva nebytové prostory. Pro zajištění bezbariérového přístupu slouží osobní
+výtah s průchozí kabinou, který obsluhuje všechna podlaží domu s výjimkou nejvyššího podlaží ve
+dvorní části domu. Vytápění domu je řešeno napojením na horkovod Tepláren Brno.
+
+Obrázek 21: Bytový dům Vranovská 1a
+
+
+
+
+                                                                                          58
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+BYTOVÝ DŮM HÁLKOVA 4
+
+Dokončeno: 2024
+
+V srpnu 2024 byla dokončena celková rekonstrukce bytového domu Hálkova 4. V domě vzniklo
+celkem 12 bytových jednotek, z toho 10 bytů startovacích pro mladé páry a rodiny, 1 garsonka
+určená k bydlení jednotlivcům a 1 bezbariérový byt.
+
+Rekonstrukce zahrnovala rovněž zbudování sociálního zařízení v každé jednotce a úpravu
+vnitrobloku, kde byla pro budoucí nájemníky vyčleněna komunitní zahrádka a odpočinkový prostor
+s altánem, lavičkami, skluzavkou a houpačkami pro děti.
+
+Obrázek 22: Bytový dům Hálkova 4
+
+
+
+
+BYTOVÝ DŮM CEJL 23
+
+Probíhající akce
+
+Rekonstrukcí nevyužitých nebytových prostor a nevhodně situovaných bytů vznikne nově 7
+bytových jednotek o velikosti 2+kk. Realizace rekonstrukce je plánována na druhou polovinu roku
+2025 a bude probíhat současně s opravou střechy celého objektu.
+
+
+
+
+                                                                                        59
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+Obrázek 23: Bytový dům Cejl 23
+
+
+
+
+3.4   Porovnání plánovaných a realizovaných opatření
+
+Souhrnný přínos všech akcí, které jsou zařazeny do této monitorovací zprávy, uvádí předchozí
+tabelární přehledy. K vyhodnocení byly využity podklady Odboru Životního Prostředí, Bytového
+odboru, Investičního odboru, z dat obchodních společností působících na území města Brna,
+případně vlastním šetřením.
+V ostatním terciéru se podařilo došetřit opatření, která realizovaly zejména instituce zapojené do
+projektu memoranda o spolupráci. Další opatření realizovaná v ostatním terciéru, která nebyla
+dohledána se projeví ve snížení spotřeb energií a emisí CO2 v úplné monitorovací zprávě, které
+součástí bude i emisní bilance.
+V sektoru domácností budou přínosy opatření dohledatelné až v bilancích konečné spotřeby,
+výrobě místní energie apod., které budou součástí příští úplné monitorovací zprávy.
+V dopravě se realizují zejména opatření v MHD, konkrétně prodloužení tramvajových tratí. Dále
+probíhají projekty města v oblasti Velkého městského okruhu, podpory nemotorové dopravy, rozvoj
+dopravní telematiky atd.
+V oblasti místní výroby elektřiny se realizují instalace fotovoltaických elektráren na budovy města i
+v terciárním sektoru.
+Celkově lze říci, že plánované projekty napříč všemi sektory se daří realizovat. Statutární město
+Brno vytváří také nové projekty a snaží se motivovat firmy a občany ke spolupráci na dosažení
+stanoveného cíle snížení emisí CO2 do roku 2030.
+
+
+
+
+                                                                                              60
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+4. POSOUZENÍ RIZIK A ZRANITELNOSTI
+Snahy Statutárního města Brna o identifikaci a řešení dopadů klimatických změn na město lze
+vysledovat již k roku 2010. První teplotní mapy města pak vznikly v roce 2015 v rámci projektu
+URBAN Adapt a spolu s ním Zásady pro rozvoj adaptací na změnu klimatu ve městě Brně. Tyto
+zásady se následně staly součástí Akčního plánu udržitelné energetiky a klimatu SECAP (2030) –
+Statutární město Brno, kterým se město připojilo k Paktu starostů a primátorů (Covenant of Mayors.
+Adaptační strategie města umožnila identifikovat dopady změny klimatu na město a identifikovat
+skupiny obyvatelstva, které jsou těmito dopady nejvíce ohrožené.
+
+Statutární město Brno je signifikantní jednoznačně negativní trend zvyšování teploty vzduchu na
+jeho území i zvyšování počtu tropických dnů. Adaptační strategie města Brna, jako součást
+Akčního plánu udržitelné energie a klimatu, identifikovala pro Statutární město Brno tato rizika
+spojena s klimatickou změnou:
+   Vlny horka a nárůst tepelného ostrova města;
+   Extrémní srážky, povodně a nedostatečné zasakování srážkové vody;
+   Sucho a nedostatek vody ve městě.
+Rizika dopadů změny klimatu můžeme rozdělit na zdravotní a ekonomické. Z pohledu vlivu změny
+klimatu na lidské zdraví je zranitelná veškerá populace – některé skupiny ovšem více. Silnější vliv
+bude možno najít u malých dětí, starších osob a u osob závislých na sociální nebo zdravotní péči
+nebo chronicky nemocných. Staří lidé a senioři s chronickými nemocemi jsou nesrovnatelně
+citlivější vůči horkým vlnám ve srovnání s ostatní populací. Výsledky studií ukazují, že vlny horka
+mají vliv na zvýšení úmrtnosti osob starších 65 let. Při pohledu na ekonomické dopady, je zřejmé,
+že změna klimatu ovlivňuje turistický ruch a s ním spojené činnosti.
+
+V rámci městské části je možné charakterizovat tři skupiny obyvatelstva, na které má přehřívání
+města největší negativní vliv. Jsou jimi:
+   Senioři;
+   Školou povinné děti;
+   Turisté.
+Všechny tři skupiny charakterizuje dlouhodobý pobyt v ulicích centra města, pěší přesuny a
+využívání městské hromadné dopravy.
+Od roku 2019, kdy byla zpracována RVA analýza v rámci Akčního plánu nenastaly ve vlivech
+klimatické změny na město, žádné změny. Klimatická rizika zůstávají stejná. V socioekonomické
+zranitelnosti města, je potřeba vnímat možné negativní ekonomické dopady v případě, že by došlo
+k odlivu turistů z centra Brna, které je nejvíce zasaženo tepelným ostrovem.
+
+
+
+
+                                                                                            61
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+Tabulka 21: Klimatická rizika zvláště relevantní pro Statutární město Brno
+
+                                                                          Očekávaná
+                               Současná úroveň   Očekávaná
+    Typ klimatického rizika                                               změna ve          Časový rámec
+                                    rizika     změna v intenzitě
+                                                                           frekvenci
+
+
+
+     Vlny horka a nárůst
+                                    Střední            Zvýšení             Zvýšení          Střednědobý
+  tepelného ostrova města
+
+
+
+
+       Extrémní srážky,
+  nedostatečné zasakování           Střední         Žádná změna         Žádná změna         Střednědobý
+   srážkové vody ve městě
+
+
+    Sucho, snížení hladiny
+  spodních vod, nedostatek          Střední            Zvýšení          Žádná změna          Dlouhodobý
+       vody ve městě
+
+
+
+          Povodně                   Střední         Žádná změna         Žádná změna          Dlouhodobý
+
+
+
+       Extrémní chlad                Nízká          Žádná změna         Žádná změna          Dlouhodobý
+
+        Extrémní vítr                Nízká          Žádná změna         Žádná změna          Dlouhodobý
+
+
+    Sesuvy půdy a eroze              Nízká          Žádná změna         Žádná změna          Dlouhodobý
+
+
+      Sněhové kalamity               Nízká          Žádná změna         Žádná změna          Dlouhodobý
+
+
+Tabulka 22: Zranitelnosti pro Statutární město Brno
+
+         Typ zranitelnosti                                     Popis zranitelnosti
+                                   Zvýšení teplot – zhoršení podmínek v sociálních, zdravotních, školských
+                                   zařízeních, zvýšené nároky na chlazení (dohoda s dodavatelem tepla –
+                                   dodávky chladu). Zhoršení podmínek pro pobyt ve venkovním prostředí,
+                                   na zastávkách MHD.
+                                   Nejzranitelnějšími skupinami obyvatelstva jsou senioři a děti, kteří se
+ Socio-ekonomická                  často pohybují městem pomocí MHD nebo pěšky. Navíc nejhůře snášejí
+                                   vedra a horké dny. Je potřeba zacílit opatření k této skupině obyvatelstva,
+                                   do míst, kde se pohybují (okolí škol, školy samotné, parky, dětská hřiště,
+                                   sportovní areály, MHD)
+                                   Ekonomickým rizikem může být snížení turismu ve městě, jako důsledek
+                                   zhoršení podmínek v centru města v letních měsících. Pro turisty bude
+
+
+
+                                                                                                      62
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+         Typ zranitelnosti                                 Popis zranitelnosti
+                                prohlížení města v tropických teplotách a v prostředí tepelného ostrova
+                                města nepříjemné. Sníží se tak postupně návštěvnost města turisty.
+                                Odtok dešťových vod – škody na objektech.
+                                Změny v množství srážek, záplavy a poškození infrastruktury
+ Fyzikální a environmentální:   V důsledku vysokých teplot přesun obyvatelstva k individuální
+                                automobilové dopravě a snížení počtu obyvatel využívajících pěší
+                                dopravu, kola nebo MHD
+
+
+
+
+                                                                                                 63
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+      5. ZÁVĚR
+Monitorovací zpráva Akčního plánu udržitelné energetiky a klimatu statutárního města Brna za rok
+2025 potvrzuje, že město pokračuje v naplňování svých dlouhodobých závazků v oblasti snižování
+emisí skleníkových plynů, zvyšování energetické účinnosti a posilování adaptačních opatření na
+změnu klimatu. Realizovaná opatření ve sledovaném období prokazují, že město i jeho partneři
+vynakládají systematické úsilí ke zlepšování energetického hospodářství veřejných budov, ke
+snižování spotřeby energie v sektoru domácností i k modernizaci dopravních systémů.
+
+Dosažené výsledky ukazují, že Brno nejen splnilo cíl Paktu starostů a primátorů pro rok 2020, ale
+nadále se drží na trajektorii umožňující dosáhnout snížení emisí o 40 % do roku 2030. Pokles emisí
+o 16,26 % oproti roku 2000, dosažený v monitorovací bilanci roku 2022, potvrzuje pozitivní trend,
+kterého se městu daří dosahovat i přes rostoucí energetické nároky některých sektorů, zejména
+dopravy. Významné snížení emisí v sektorech obytných a terciárních budov odráží přínos
+realizovaných investic do zateplování, obnovy technologií a postupné instalace fotovoltaických
+systémů.
+
+Zásadní roli v implementaci SECAP sehrává organizační zajištění v podobě manažera SECAP a
+koordinační struktury složené z aktivně zapojených odborů města, městských společností a dalších
+institucí. Přestože původní struktura pracovních skupin nebyla funkční, nově vytvořený
+zjednodušený model spolupráce prokázal svou efektivitu a umožnil lepší koordinaci jednotlivých
+opatření. Významným přínosem je rovněž rozvoj platformy Připrav Brno a rozšiřující se síť
+partnerských organizací, které se dobrovolně zavázaly k podpoře mitigačních i adaptačních
+opatření formou Memoranda o spolupráci.
+
+V adaptační části došlo k realizaci 20 projektů s významným dopadem na zvyšování odolnosti
+města, ať již v oblasti hospodaření se srážkovou vodou, péče o zeleň či modernizace veřejných
+prostranství. Tyto projekty mají dlouhodobý efekt, přispívají ke zlepšení mikroklimatu a snižování
+rizik spojených s extrémními projevy počasí.
+
+Klíčovou výzvou do dalších let zůstává zajištění udržitelného financování energeticky úsporných
+projektů, zejména těch s delší dobou návratnosti. To, že město disponuje SECAPem, který
+systematicky rozvíjí a udržuje, přináší větší dostupnost zdrojů financování, zejména těch
+pocházejících přímo ze zdrojů Evropské komise. Důležité bude rovněž pokračovat v rozvoji
+energetického managementu, zlepšovat dostupnost dat o spotřebě energie a posilovat spolupráci
+s veřejností a soukromým sektorem. Magistrát města Brna by měl pokračovat ve sledování své
+uhlíkové stopy, zasazovat se o její snižování a jít tak příkladem partnerům města, firmám a
+občanům. Zásadním milníkem budoucnosti bude také příprava na napojení města na teplárenský
+přivaděč z jaderné elektrárny Dukovany, který bude mít výrazný dopad na dekarbonizaci sektoru
+tepla.
+
+Celkově lze konstatovat, že statutární město Brno pokračuje v realizaci své vize moderního,
+energeticky efektivního a klimaticky odolného města. Doposud dosažené výsledky potvrzují, že
+město je schopné plnit stanovené cíle, aktivně zapojuje všechny klíčové aktéry a systematicky
+vytváří podmínky pro dlouhodobě udržitelný rozvoj. Monitorovací zpráva za rok 2025 tak
+představuje nejen přehled realizovaných opatření, ale také potvrzení, že Brno směřuje správným
+směrem k dosažení svých klimatických závazků a k zajištění kvalitního života pro současné i
+budoucí generace.
+
+
+
+
+                                                                                           64
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+          6. ZPRACOVATEL
+
+Klient:                 Statutární město Brno
+                        Odbor životního prostředí
+                        Oddělení motivačních programů
+
+                        Kontaktní osoba: Mgr. Martin Košťál – vedoucí oddělení motivačních programů
+                        Telefon: +420 542 174 341
+                        E-mail: kostal.martin@brno.cz
+
+
+Název zprávy:           Monitorovací zpráva k Akčnímu plánu udržitelné energetiky (2025) – Statutární
+                        město Brno 2025 – 3. Monitorovací zpráva
+
+Referenční číslo:       ECZ25176
+
+Verze:                  Konečná zpráva
+
+Datum:                  31.10.2025
+
+
+Předkladatel zprávy:    ENVIROS, s.r.o.
+                        Dykova 53/10
+                        101 00 Praha 10 - Vinohrady
+                        IČ: 61503240, DIČ: CZ61503240
+
+Zpracovatelský tým:     ENVIROS, s.r.o.
+                        Ing. Róbert Máček,
+                        Ing. Jiří Spitz
+
+
+
+Zodpovědná osoba:
+
+
+                        Ing. Róbert Máček
+                        Telefon: (+420) 284 007 483
+                        E-mail: robert.macek@enviros.cz
+
+
+Schválil:
+
+
+
+
+                        Ing. Jaroslav Vích
+
+
+
+
+                                                                                                65
+MONITOROVACÍ ZPRÁVA K AKČNÍMU PLÁNU UDRŽITELNÉ ENERGETIKY (2025) –
+STATUTÁRNÍ MĚSTO BRNO 2025
+
+
+
+
+                                                                     66
+

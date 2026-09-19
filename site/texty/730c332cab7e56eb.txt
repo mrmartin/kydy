@@ -1,0 +1,117 @@
+Rada města Brna
+
+Z9/33. zasedání Zastupitelstva města Brna
+konané dne 3.3.2026
+
+
+
+ 17. Návrh rozpočtového opatření – přesun běžných a kapitálových
+   výdajů v rámci rozpočtu Odboru městské informatiky MMB
+
+Anotace
+Důvodem předložení návrhu rozpočtového opatření je zajištění údržby a servisu aktivních prvků,
+serveroven a datových center statutárního města Brna, které na základě plnění předmětu smlouvy č. 53
+04 9 070 poskytuje společnost Technické sítě Brno, akciová společnost. V letošním roce budou probíhat
+plánované obměny servisovaného zařízení, přičemž podle aktuálně obdrženého plánu obnovy půjde o
+pořízení nových zařízení v hodnotě do 40 000 Kč bez DPH a o technické zhodnocení rozvaděčů.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   rozpočtové opatření dle tabulky, která tvoří přílohu č…. tohoto zápisu z důvodu
+                               zajištění potřeb běžných a kapitálových výdajů Odboru městské informatiky MMB
+                               pro realizaci předmětu plnění smlouvy
+
+
+Stanoviska
+
+Finanční výbor ZMB projedná materiál na svém zasedání dne 25. 2. 2026.
+
+Rada města Brna projedná materiál na své schůzi R9/165 konané dne 25.2. 2026.
+
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. David Menšík
+  vedoucí odboru - Odbor městské informatiky
+  24.2.2026 v 07:05
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  24.2.2026 v 08:45
+
+
+
+
+Sestava vytvořena 24.2.2026 v 08:45                         1/1                             Vygenerováno programem eMMB
+
+
+                                                                                                            Strana 1 / 4
+                                Obsah materiálu
+Návrh usnesení                                     1-1
+Obsah materiálu                                    2-2
+Důvodová zpráva                                    3-3
+Příloha k usnesení (02_ RMB a ZMB_ TSB_2026.pdf)   4-4
+
+
+
+
+                                                    Strana 2 / 4
+                                 Důvodová zpráva ZMB:
+
+ Odbor městské informatiky MMB předkládá orgánům města Brna návrh rozpočtového opatření,
+ které řeší pokrytí aktuálních finančních nároků na běžné a kapitálové výdaje v rámci rozpočtu
+ Odboru městské informatiky MMB v roce 2026.
+
+ Důvodem předložení návrhu rozpočtového opatření je zajištění údržby a servisu aktivních prvků,
+ serveroven a datových center statutárního města Brna, které na základě plnění předmětu smlouvy
+ č. 53 04 9 070 poskytuje společnost Technické sítě Brno, akciová společnost. V letošním roce
+ budou probíhat plánované obměny servisovaného zařízení, přičemž podle aktuálně obdrženého
+ plánu obnovy půjde o pořízení nových zařízení v hodnotě do 40 000 Kč bez DPH a o technické
+ zhodnocení rozvaděčů. Tyto výdaje mají charakter investičních nákladů.
+
+ Z tohoto důvodu nelze využít původně rozpočtovanou položku na opravy a na služby a je nezbytné
+ provést přesun finančních prostředků mezi výdajovými položkami tak, aby odpovídal skutečným
+ potřebám Odboru městské informatiky v roce 2026.
+
+ Navržené rozpočtové opatření je uvedeno v příloze materiálu.
+
+
+Materiál nepodléhá projednání v komisích Rady města Brna.
+
+Finanční výbor ZMB projedná materiál na svém zasedání dne 25. 2. 2026.
+
+Rada města Brna projedná materiál na své schůzi R9/165 konané dne 25.2. 2026.
+
+
+
+
+                                                                                            Strana 3 / 4
+                                                                    Rozpočtové opatření
+                                                                                                                                                       v tis. Kč
+Běžné a kapitálové výdaje - přesun
+ ORJ      §      pol. ÚZ ORG                                              Věcná náplň                             Upr. rozpočet   Úprava          Rozpočet
+                                                                                                                  k 17. 2. 2026 rozpočtu + -      po změně
+  5300   6171    5171                Opravy a udržování                                                                    6 000       -2 500           3 500
+                             6073    ve j.n.: TSB - Servis strukturovaných kabeláží MMB                                    2 500      -2 500                0
+  5300   6171    5168                Zpracování dat a služby souv. s informačními a komunikačními technologiemi         181 644        -2 734         178 910
+                             6073    ve j.n.: TSB - Servis strukturovaných kabeláží MMB                                   30 720       -2 734          27 986
+  5300   6171    5123        7530    Podlimitní technické zhodnocení                                                         100          600             700
+  5300   6171    6125        3476    OMI - Informační systém                                                               6 050        4 634          10 684
+
+
+
+
+                                                                                                                                                Strana 4 / 4
+

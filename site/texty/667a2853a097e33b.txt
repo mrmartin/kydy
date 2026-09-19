@@ -1,0 +1,2100 @@
+Rada města Brna
+
+Z9/37. zasedání Zastupitelstva města Brna
+konané dne 15.9.2026
+
+
+
+          117. Projekt "Rozvoj ITS v Brně, 3. etapa" - návrh rámcové
+                       smlouvy o financování projektu
+
+Anotace
+Materiál řeší předložení rámcové smlouvy (právní akt) na financování projektu z Operačního programu
+Doprava. Přiznaná dotace má hodnotu 185 000 000 Kč a je shodná s částkou, která byla městu Brnu
+přiznána Hodnoticí komisí Operačního programu Doprava. Celkové výdaje na realizaci projektu se
+předpokládají ve výši 316 645 616 mil. Kč. Realizace projektu probíhá v letech 2025–2026.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                    rámcovou smlouvu o financování projektu ze Státního fondu dopravní infrastruktury
+                                maximálně ve výši 185 000 000,01 Kč k projektu „Rozvoj ITS v Brně, 3. etapa“ mezi
+                                statutárním městem Brnem a Státním fondem dopravní infrastruktury, se sídlem:
+                                Sokolovská 1955/278, 190 00 Praha 9, IČO: 70856508, která tvoří přílohu č… tohoto
+                                zápisu
+
+2. pověřuje                     na základě čl. 3.2.3. Metodiky implementace projektů (spolu)financovatelných z
+                                evropských fondů a národních programů Radu města Brna schvalováním dodatků k
+                                rámcové smlouvě o financování projektu ze Státního fondu dopravní infrastruktury,
+                                které budou v budoucnu vydány k projektu „Rozvoj ITS v Brně, 3. etapa“
+
+3. ukládá                       Radě města Brna předložit Zastupitelstvu města Brna závěrečné vyúčtování projektu
+                                T: po ukončení projektu
+
+
+Stanoviska
+
+Materiál projednala Rada města Brna na R9/192. schůzi konané dne 9. 9. 2026 a stanovisko bude
+sděleno.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Ivan Hloušek
+  vedoucí odboru - Odbor implementace evropských fondů
+  8.9.2026 v 12:18
+  Garance správnosti, zákonnosti materiálu
+
+
+
+
+Sestava vytvořena 8.9.2026 v 12:18                            1/2                            Vygenerováno programem eMMB
+
+
+                                                                                                             Strana 1 / 39
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  8.9.2026 v 08:48
+
+
+
+
+Sestava vytvořena 8.9.2026 v 12:18   2/2   Vygenerováno programem eMMB
+
+
+                                                           Strana 2 / 39
+                                   Obsah materiálu
+Návrh usnesení                                                            1-2
+Obsah materiálu                                                           3-3
+Důvodová zpráva                                                           4-5
+Příloha k usnesení (Z9_37 Projekt Rozvoj ITS v Brně, 3. etapa - návrh    6 - 33
+rámcové smlouvy o financování projektu_smlouva.pdf)
+Příloha k usnesení (Z9_37 Projekt Rozvoj ITS v Brně, 3. etapa - návrh   34 - 36
+rámcové smlouvy o financování projektu_SP.pdf)
+Příloha k usnesení (Z9_37 Projekt Rozvoj ITS v Brně, 3. etapa - návrh   37 - 39
+rámcové smlouvy o financování projektu_specifikace_podpis.pdf)
+
+
+
+
+                                                                            Strana 3 / 39
+                                          Důvodová zpráva
+
+V souladu s Metodikou implementace projektů (spolu)financovatelných z evropských fondů a národních
+programů je kolektivním orgánům města Brna předložena rámcová smlouva o financování projektu
+na projekt s názvem „Rozvoj ITS v Brně, 3. etapa“.
+
+Posouzení projektu společně se žádostí o podporu schválila Rada města Brna na své schůzi č. R9/068
+konané 24. ledna 2024. Posouzení projektu bylo vzato na vědomí Zastupitelstvem města Brna na jeho
+Z9/15. zasedání dne 5. března 2024.
+
+Cílem projektu „Rozvoj ITS v Brně, 3. etapa“ je zvýšení kvality řízení dopravního provozu, zvýšení
+bezpečnosti, zvýšení efektivity dopravy pro cestující jak individuální, tak hromadnou dopravou na území
+města Brna. Dále zvýšení kvality sběru informací o stavu dopravy prostřednictvím dohledového
+kamerového systému v důležitých dopravních uzlech pro potřeby řízení dopravy a poskytování těchto
+informací veřejnosti.
+Projekt řeší realizaci části investičního záměru města Brna „Rozvoj dopravní telematiky v letech
+2021–2027“, konkrétně kapitoly I. Stavby a rekonstrukce SSZ včetně preference MHD, který vychází
+z dokumentu „Strategie rozvoje dopravní telematiky ve městě Brně".
+Předmětem projektu bude rekonstrukce 30 světelných signalizačních zařízení na území města Brna (vč.
+kamerového dohledu a preference MHD).
+Rekonstrukce SSZ byly rozděleny do následujících skupin dle jejich polohy (dle městských částí,
+případně dle komunikací, kde jsou umístěny).
+- Řízení dopravy v severní části MČ Brno-střed a Brno-Královo Pole
+- Řízení dopravy na ul. Olomoucká a navazujících komunikacích
+- Řízení dopravy v úseku Mendlovo nám. - křižovatka Vídeňská-Heršpická
+- Řízení dopravy v SV segmentu centrální oblasti města
+- Řízení dopravy na ul. Hlinky
+- Řízení dopravy na ul. Křižíkova v oblasti křížení s VMO (ul. Sportovní)
+- Řízení dopravy v MČ Brno-jih (Komárov)
+
+Zdržení mezi podáním žádosti v lednu 2024 a vyhotovení Rámcové smlouvy v červenec 2026 bylo
+způsobeno především kvůli komplikacím vyvolaným digitalizací stavebního řízení, kdy nefungovalo
+vydávání podaných žádostí o územní rozhodnutí. Platné územní rozhodnutí k dotčeným lokalitám bylo
+nutnou podmínkou pro dokončení věcného hodnocení žádosti o podporu.
+
+Předpokládané celkové náklady projektu se předpokládají ve výši 316 645 615,69 Kč včetně DPH,
+z toho byly výdaje ve výši 98 998 556,86 Kč identifikovány jako nezpůsobilé a výdaje výši 217 647
+058,83 Kč jako způsobilé.
+
+Předpokládaná struktura výdajů projektu Rozvoj ITS v Brně, 3. etapa (v Kč včetně DPH)
+Celkové výdaje projektu                                    316 645 615,69 Kč             100,00 %
+Nezpůsobilé výdaje                                          98 998 556,86 Kč               31,26 %
+Způsobilé výdaje                                           217 647 058,83 Kč               68,74 %
+Podpora                                                    185 000 000,01 Kč               58,42 %
+Kofinancování města Brna                                   131 645 615,68 Kč               41,58 %
+
+Nositelem projektu v souladu s Metodikou implementace projektů (spolu)financovatelných
+z evropských fondů a národních fondů je Odbor dopravy MMB.
+Případné dodatky ke smlouvě o poskytnutí finančních prostředků budou v souladu s čl. 3.2.3 Metodiky
+implementace projektů (spolu)financovatelných z evropských fondů a národních programů předloženy
+Radě města Brna.
+Po ukončení projektu bude Zastupitelstvu města Brna předloženo závěrečné vyúčtování projektu.
+
+Stanoviska dotčených orgánů:
+Materiál nepodléhá projednání v komisích Rady města Brna.
+
+
+
+
+                                                                                                     Strana 4 / 39
+Materiál projednala Rada města Brna na R9/192. schůzi konané dne 9. 9. 2026 a stanovisko bude
+sděleno.
+
+
+
+
+                                                                                                Strana 5 / 39
+269/RS126/2026
+
+
+
+
+            Rámcová smlouva o financování projektu
+               spolufinancovaného z fondů EU
+
+
+Název projektu: Rozvoj ITS v Brně, 3. etapa
+
+ISPROFOND: 5627720002
+
+
+
+     v rámci Programu Doprava 2021–2027, z rozpočtu Státního fondu
+                        dopravní infrastruktury
+
+
+                                       Článek 1
+                                    Smluvní strany
+
+
+Státní fond dopravní infrastruktury
+
+Sokolovská 1955/278, 190 00 Praha 9
+IČO: 70856508
+zastupuje
+
+Ing. Zbyněk Hořelica
+ředitel
+
+(dále jen „poskytovatel“)
+
+a
+
+Statutární město Brno
+
+Dominikánské náměstí 196/1, 602 00 Brno
+IČO: 44992785
+zastupuje
+
+JUDr. Markéta Vaňková
+primátorka
+
+(dále jen „příjemce“)
+
+
+
+uzavřely níže uvedeného dne, měsíce a roku v souladu s § 3 odst. 2 zákona č. 104/2000
+Sb., o Státním fondu dopravní infrastruktury, ve znění pozdějších předpisů (dále jen „zákon
+č. 104/2000 Sb.“) a podle ustanovení § 1746 odstavce 2 zákona č. 89/2012 Sb.,
+občanského zákoníku, ve znění pozdějších předpisů, a na základě „Dohody o delegování
+                                                                                       1/28
+
+
+
+
+                                                                                        Strana 6 / 39
+některých pravomocí a činností Řídicího orgánu Operačního programu Doprava 2021-2027
+na Zprostředkující subjekt Operačního programu Doprava 2021–2027“, uzavřené
+16. listopadu 2021 mezi Ministerstvem dopravy jako Řídicím orgánem Programu Doprava
+2021-2027 (dále jen „Řídicí orgán“) a poskytovatelem jako Zprostředkujícím subjektem
+Programu Doprava 2021–2027, ve znění Dodatku č. 1 ze dne 23. srpna 2024 a Dodatku
+č. 2 ze dne 24. září 2025 (dále jen „Dohoda o delegování“) a na základě Schvalovacího
+protokolu č.j.: MD-11073/2024-430/3 ze dne 29. května 2026 vydaného Řídicím orgánem
+a Specifikace ke Schvalovacímu protokolu č.j.: MD-11073/2024-430/3 ze dne 3. června
+2026
+
+tut o R ám co vo u s ml o uv u o f in a n co v á n í p r o je kt u sp o l uf i n an co v a né h o
+z f o nd ů E U v r á mc i P r og r am u D op r av a 2 02 1 – 2 02 7, z roz p očt u
+St át n íh o f o nd u d o pr a v ní i nf r a st r ukt ur y ( d á l e j e n „S m l ou v a“ ) :
+
+
+                                         Článek 2
+                                       Účel Smlouvy
+
+
+Účelem této Smlouvy je:
+
+       –   vytvořit podmínky k zajištění včasných a plynulých plateb administrovaných
+           prostřednictvím poskytovatele pro projekt v sektoru dopravy schválený Řídicím
+           orgánem ke spolufinancování z Programu Doprava 2021–2027 (dále jen
+           „OPD2021+“) v rozsahu výdajů, které mají být kryty prostředky z fondů
+           Evropské unie a zajistit plnění podmínek, za kterých jsou příspěvky z OPD2021+
+           pro spolufinancovaný projekt poskytnuty;
+       –   zajistit provedení ust. § 2 a § 3 zákona č. 104/2000 Sb.;
+       –   právně a věcně vymezit mezi smluvními stranami podmínky pro výkon kontroly
+           poskytovatele vůči příjemci při realizaci financování dle této Smlouvy;
+       –   realizovat schválený rozpočet poskytovatele ve vztahu k projektu v sektoru
+           dopravy schválenému Řídicím orgánem ke spolufinancování v rámci OPD2021+.
+
+
+                                        Článek 3
+                                    Předmět Smlouvy
+
+
+Smlouva v souladu se zákonem č. 104/2000 Sb. a Dohodou o delegování upravuje práva
+a povinnosti mezi poskytovatelem finančních prostředků a jejich příjemcem:
+
+       –   při poskytování finančních prostředků k účelu vymezenému touto Smlouvou
+           v návaznosti na Schvalovací protokol vydaný Řídicím orgánem dne 29. května
+           2026, č.j.: MD-11073/2024-430/3, který tvoří Přílohu č. 1 této Smlouvy a je její
+           nedílnou součástí (dále jen „Schvalovací protokol“) a Specifikaci ke
+           Schvalovacímu protokolu č.j.: MD-11073/2024-430/3 ze dne 3. června 2026,
+           která tvoří Přílohu č. 2 této Smlouvy a je její nedílnou součástí (dále jen
+           „Specifikace“);
+       –   při čerpání finančních prostředků;
+       –   při kontrolní činnosti poskytovatele vůči příjemci při nakládání s poskytnutými
+           finančními prostředky.
+
+
+
+
+                                                                                             2/28
+
+
+                                                                                              Strana 7 / 39
+Smlouva dále upravuje práva a povinnosti příjemce ve vztahu k Řídicímu orgánu a případně
+i k dalším subjektům v souvislosti se správou a řízením prostředků OPD2021+, které
+příjemce obdrží na základě této Smlouvy.
+
+
+                                       Článek 4
+                     Účel a výše poskytnutí finančních prostředků
+
+
+                                 A. Specifikace účelu:
+
+4.A.1.   Poskytovatel poskytuje na základě této Smlouvy finanční prostředky výlučně na
+         financování dále uvedeného projektu:
+
+         název projektu:      Rozvoj ITS v Brně, 3. etapa
+         registrační číslo projektu v MS2021+:    CZ.04.01.02/06/22_007/0000126
+         opatření:            06 - ITS - dopravní telematika
+
+
+         který byl schválen k financování v rámci OPD2021+ v souladu s žádostí o podporu
+         z fondů Evropské unie v rámci OPD2021+ (dále jen „žádost o podporu“)
+         a s případnými doplňujícími podmínkami uvedenými ve Schvalovacím protokolu
+         a ve Specifikaci (dále jen „Projekt“).
+
+4.A.2.   Finanční prostředky jsou poskytovány příjemci na Projekt na základě této Smlouvy
+         v návaznosti na Schvalovací protokol a Specifikaci, v souladu s rozpočtem
+         poskytovatele schváleným vždy pro příslušný rok realizace Projektu.
+
+
+                     B. Specifikace výše poskytovaných prostředků:
+
+4.B.1.   Poskytovatel poskytne na základě této Smlouvy příjemci k financování Projektu
+         specifikovaného v odst. 4.A.1 po celou dobu jeho realizace (tj. od skutečného data
+         zahájení realizace Projektu uvedeného ve Specifikaci do ukončení financování
+         Projektu) ze svého rozpočtu finanční prostředky v rozsahu potřebném pro
+         financování Projektu maximálně do výše:
+
+                                   185 000 000,01 Kč
+
+         (slovy: jedno sto osmdesát pět milionů korun českých jeden haléř)
+
+         určené na předfinancování způsobilých výdajů Projektu, které mají být
+         kryty schváleným příspěvkem z fondů Evropské unie, což představuje
+
+         podíl na financování (míra podpory) 85,00 % ve vztahu ke způsobilým výdajům
+         Projektu.
+
+         Úhradu národního podílu na financování Projektu ve výši 15,00 % ve vztahu ke
+         způsobilým výdajům Projektu, tj. minimálně1 32 647 058,82 Kč i úhradu
+         nezpůsobilých výdajů Projektu je příjemce povinen zajistit z vlastních (jiných)
+
+
+
+1  V případě snížení celkových způsobilých výdajů Projektu bude výše finančních prostředků na
+financování národního podílu upravena v návaznosti na výši procentuálního podílu národního
+financování na snížených způsobilých výdajích Projektu.
+
+
+                                                                                         3/28
+
+
+                                                                                          Strana 8 / 39
+             zdrojů. Pokud výdaje Projektu, které mají být kryty schváleným příspěvkem
+             z fondů Evropské unie, nebudou proplaceny z prostředků Evropské unie v plné
+             výši, je příjemce povinen zajistit dofinancování Projektu z vlastních (jiných)
+             zdrojů.
+
+4.B.2.       V roce 2026 poskytne poskytovatel v souladu se svým rozpočtem pro rok 2026 a
+             v souladu se změnovým řízením č. 62 schváleným dne 23. června 2026 příjemci
+             k financování Projektu specifikovaného v odst. 4.A.1 finanční prostředky
+             k financování způsobilých výdajů Projektu, které mají být kryty schváleným
+             příspěvkem z fondů Evropské unie, maximálně do výše: 185 000 000,01 Kč
+             (slovy: jedno sto osmdesát pět milionů korun českých jeden haléř).
+
+4.B.3.       Pro účely financování Projektu dle této Smlouvy se výdaje Projektu člení na:
+
+         –    způsobilé výdaje, tj. výdaje přímo a výhradně spojené s realizací Projektu,
+              které jsou vynaložené na stanovený účel a v rámci období stanoveného
+              Schvalovacím protokolem, jsou přiměřené (jejich výše odpovídá cenám v místě
+              a čase obvyklým) a jsou vynaloženy v souladu s 3E (dle § 2 zákona č. 320/2001
+              Sb., o finanční kontrole), jsou identifikovatelné, prokazatelné a doložitelné, jsou
+              v souladu s právními předpisy České republiky a s příslušnými předpisy Evropské
+              unie, příslušným metodickým pokynem Národního orgánu pro koordinaci
+              (Metodický pokyn pro způsobilost výdajů a jejich vykazování v programovém
+              období 2021–2027) a dalšími pravidly stanovenými v metodických pokynech
+              Řídicího orgánu, zejména s platnými Pravidly pro žadatele a příjemce Program
+              Doprava 2021-2027 (dále jen „Pravidla pro žadatele a příjemce OPD2021+“)
+              zveřejňovanými na opd3.opd.cz a pravidly specifikovanými ve Výzvě
+              k předkládání žádostí o podporu a v souvisejících dokumentech (dále jen
+              „Výzva“);
+         –    nezpůsobilé výdaje, tj. výdaje Projektu, které nemohou být spolufinancovány
+              z příspěvku z Evropských fondů ve specifikaci uvedené v Pravidlech pro žadatele
+              a příjemce OPD2021+, ve Výzvě a ve finančním rozpočtu Projektu, který tvoří
+              přílohu žádosti o podporu.
+4.B.4.       Poskytování finančních prostředků z rozpočtu poskytovatele pro financování
+             Projektu upravené touto Smlouvou bude v jednotlivých letech jeho realizace
+             upraveno dodatkem k této Smlouvě v souladu s rozpočtem poskytovatele
+             schváleným pro příslušný rok realizace Projektu. V dodatku bude obsažena
+             specifikace výše finančních prostředků poskytovaných v daném roce pro
+             financování Projektu, které mají být kryty schváleným příspěvkem z fondů
+             Evropské unie, v návaznosti na schválený rozpočet poskytovatele pro daný
+             rozpočtový rok nebo v návaznosti na interní rozpočtové opatření (změnové řízení)
+             poskytovatele provedené s ohledem na případné změny v Projektu nebo
+             s ohledem na aktuální finanční potřeby Projektu ve vazbě na vlastní provádění
+             Projektu ve vztahu k uzavřeným smlouvám se zhotoviteli Projektu. V dodatku
+             budou upraveny i případné další podmínky financování Projektu, jejichž úprava
+             bude aktuální a nezbytná pro financování Projektu.
+
+
+                                    Článek 5
+                Harmonogram realizace Projektu a doba udržitelnosti
+
+
+5.1.         Financování Projektu dle této Smlouvy bude zajišťováno po celou dobu realizace
+             Projektu, přičemž se dobou realizace Projektu rozumí doba od skutečného data
+             zahájení Projektu do konečného data způsobilosti výdajů realizovaného Projektu,
+
+
+
+                                                                                             4/28
+
+
+                                                                                              Strana 9 / 39
+           za podmínek stanovených v Pravidlech pro žadatele a příjemce OPD2021+2 a ve
+           Výzvě. Konečné datum způsobilosti výdajů je uvedeno ve Schvalovacím protokolu.
+
+5.2.       Realizace Projektu bude probíhat na základě harmonogramu uvedeného ve
+           Specifikaci. Data v harmonogramu odpovídají údajům ze schválené žádosti
+           o podporu. Data harmonogramu mohou být aktualizována bez vydání změnové
+           specifikace pouze v MS2021+ na základě žádosti o změnu předloženou příjemcem
+           Řídicímu orgánu prostřednictvím informačního systému konečného příjemce (dále
+           jen „IS KP21+“).
+
+5.3.       Doba udržitelnosti činí nejméně 5 let od schválení poslední žádosti o platbu, kdy
+           Projekt v MS2021+ nabyde stav PP41 „Projekt finančně ukončen ze strany Řídicího
+           orgánu“ (tj. stav, kdy byla příjemci schválena závěrečná zpráva o realizaci
+           Projektu a závěrečná žádost o platbu).
+
+
+                                         Článek 6
+                                   Prohlášení příjemce
+
+
+Příjemce prohlašuje, že:
+
+       –    si zřídil a má otevřen účet č. 70092-313621/0710 vedený v Kč, na který
+            budou příjemci převáděny prostředky ze SFDI poskytované podle této Smlouvy;
+       –    má zajištěné z vlastních (jiných) zdrojů finanční prostředky k úhradě národního
+            podílu na financování Projektu ve vztahu ke způsobilým výdajům Projektu i na
+            úhradu nezpůsobilých výdajů Projektu.
+
+
+                                       Článek 7
+                           Uvolňování finančních prostředků
+
+
+7.1.       Finanční prostředky určené na financování Projektu v souladu s touto Smlouvou
+           převádí poskytovatel ze svého účtu výhradně na účet příjemce specifikovaný
+           v článku 6 této Smlouvy na základě žádosti o platbu předloženou příjemcem
+           v souladu s platným Metodickým pokynem pro finanční toky programů
+           spolufinancovaných z Evropského fondu pro regionální rozvoj, Evropského
+           sociálního fondu, Fondu soudržnosti, Fondu pro spravedlivou transformaci
+           a Evropského námořního, rybářského a akvakulturního fondu 2021–2027 (dále jen
+           „MPFT“) a v souladu s platnými Pravidly pro žadatele a příjemce OPD2021+
+           a Pravidly pro financování ze Státního fondu dopravní infrastruktury zveřejněnými
+           na sfdi.gov.cz, formou ex-post. Žádosti o platbu jsou předkládány příjemcem ve
+           lhůtách dle schváleného finančního plánu Projektu v IS KP21+. Žádost o platbu
+           musí být opatřena odpovídajícím3 elektronickým podpisem osoby oprávněné za
+           příjemce ve věci žádosti o platbu jednat a musí být doložena potřebnými podklady.
+
+
+
+2 Posuzování časové způsobilosti výdaje se skládá z posouzení času vzniku příslušného nákladu a z
+
+posouzení času úhrady tohoto nákladu. „Vzniklými výdaji“ se zde rozumí veškeré způsobilé náklady,
+které byly příjemcem právně a finančně uznány, bez ohledu na to, zda již byly uhrazeny. Věcně
+způsobilé náklady se stanou způsobilými výdaji teprve jejich uhrazením.
+3Kvalifikovaným (§ 5) nebo uznávaným (§ 6) elektronickým podpisem podle zákona č. 297/2016
+Sb., o službách vytvářejících důvěru pro elektronické transakce, ve znění pozdějších předpisů.
+
+
+                                                                                             5/28
+
+
+                                                                                              Strana 10 / 39
+         Podklady jsou vloženy do informačního systému IS KP21+ formou elektronických
+         souborů k žádosti o platbu. Společně s každou žádostí o platbu předkládá příjemce
+         průběžnou zprávu o realizaci Projektu prostřednictvím IS KP21+. Schválení zprávy
+         o realizaci Projektu Řídicím orgánem je podmínkou pro schválení žádosti o platbu.
+         Závěrečnou žádost o platbu je příjemce povinen předložit poskytovateli
+         prostřednictvím IS KP21+ dle schváleného finančního plánu Projektu a společně
+         s ní předkládá Závěrečnou zprávu o realizaci projektu, pokud v případě potřeby
+         nebude s příjemcem dohodnuto jinak.
+
+7.2.     Do doby předložení žádosti o platbu hradí příjemce v případě ex-post plateb
+         výdaje Projektu v souladu s platebními podmínkami sjednanými ve smlouvě se
+         zhotovitelem Projektu z vlastních (jiných) zdrojů včetně podílu způsobilých výdajů
+         Projektu, které mají být kryty schváleným příspěvkem z fondu Evropské unie, a
+         které budou v návaznosti na předloženou žádost o platbu zpětně proplaceny
+         z finančních prostředků poskytovaných dle této Smlouvy.
+
+7.3.     Poskytovatel vždy provede kontrolu věcné a finanční správnosti žádosti o platbu
+         a kontrolu oprávněnosti fakturace. Veškeré faktury a účetní doklady, na základě,
+         kterých se platba bude realizovat, musí být dodavatelem označeny názvem
+         Projektu a jeho číslem uvedeným v MS2021+. V odůvodněných případech je
+         příjemci umožněno, aby doklady označil názvem a číslem Projektu sám před jejich
+         uplatněním v žádosti o platbu. Veškeré předložené faktury a účetní doklady musí
+         být správné, úplné, průkazné a srozumitelné. Celková doba administrace žádosti
+         o platbu od data jejího obdržení poskytovatelem do data jejího schválení
+         nepřekročí 40 pracovních dnů. V případě zjištění, že žádost o platbu má vady nebo
+         je neúplná, poskytovatel ji prostřednictvím MS2021+ vrátí příjemci a lhůta pro
+         schvalování se přerušuje do doby, než je nedostatek odstraněn či jsou předloženy
+         úplné podklady4. Příjemce předloží poskytovateli žádost o platbu po opravě znovu.
+         Po odstranění nedostatků a předložení opravené žádostí o platbu poskytovateli
+         prostřednictvím IS KP21+ běží lhůta pro administraci žádosti o platbu od data
+         předložení opravené žádosti o platbu od začátku. Lhůta pro administraci žádosti
+         o platbu se staví5 po dobu běhu zákonné lhůty pro podání námitek (tj. ode dne
+         doručení protokolu o kontrole do marného uplynutí této lhůty), a došlo-li v této
+         lhůtě k podání námitek ze strany kontrolované osoby, staví se lhůta pro
+         administraci žádosti o platbu až do data jejich vyřízení. Na základě provedených
+         kontrol, případně po provedení úprav dle odst. 8.A.24 této Smlouvy v návaznosti
+         na kontrolní zjištění, a po schválení Zprávy o realizaci Projektu Řídicím orgánem,
+         schválí poskytovatel žádost o platbu a v návaznosti na to uvolní finanční
+         prostředky na účet příjemce uvedený v článku 6. Uvolnění finančních prostředků
+         na účet příjemce při dodržení výše uvedeného postupu bude uskutečněno
+         nejpozději do 10 pracovních dnů od data schválení žádosti o platbu.
+
+7.4.     Poskytovatel si vyhrazuje právo v mimořádných případech platby požadované
+         příjemcem pozastavit nebo upravit jejich výši. O pozastavení plateb nebo úpravě
+         jejich výše a důvodech jejich pozastavení nebo úpravy jejich výše poskytovatel
+         písemně informuje příjemce a Řídicí orgán, který v případě potřeby rozhodne
+         o délce pozastavení plateb a/nebo jejich obnovení či úpravě jejich výše.
+
+
+
+
+4 Poskytovatel stanoví příjemci pro odstranění nedostatků či předložení úplných podkladů přiměřenou
+
+lhůtu.
+5 Po uplynutí lhůty pro podání námitek, resp. po jejich vyřízení, pokračuje lhůta pro administraci
+žádosti o platbu tam, kde se zastavila.
+
+
+                                                                                              6/28
+
+
+                                                                                               Strana 11 / 39
+7.5.         Příjemce je povinen za účelem sledování poskytnutých transferů a půjček
+             veřejným rozpočtům územní úrovně identifikovat příslušné platby z rozpočtu SFDI
+             dále uvedeným účelovým znakem, podle toho, zda se jedná o investice nebo
+             neinvestice, nástrojem a prostorovou jednotkou dle aktuálně platného číselníku
+             Ministerstva financí České republiky.
+
+             V roce uzavření Smlouvy platí tyto účelové znaky:
+
+         –    č. 91628 – Financování dopravní infrastruktury – investice
+         –    č. 91252 – Financování dopravní infrastruktury – neinvestice
+
+
+             V roce uzavření Smlouvy platí tento nástroj:
+
+             č. 14600 - Program Doprava 2021-2027 (Fond soudržnosti - FS)
+
+
+             V roce uzavření Smlouvy platí tato prostorová jednotka:
+
+             č. 5 - prostředky EU
+
+             Pod uvedeným účelovým znakem, podle toho, zda se jedná o investice nebo
+             neinvestice, nástrojem a prostorovou jednotkou budou zahrnuty všechny
+             prostředky, které budou poskytnuty na základě této Smlouvy z rozpočtu SFDI
+             příjemci prostředků prostřednictvím účtu uvedeného v čl. 6 této Smlouvy jako
+             transfery obcím.
+
+
+                                      Článek 8
+                        Podmínky čerpání finančních prostředků
+
+
+                               A. Práva a povinnosti příjemce:
+
+8.A.1.       (3E) Příjemce se zavazuje postupovat při financování Projektu s péčí řádného
+             hospodáře, tj. zejména efektivně a hospodárně v souladu s účelem financovaného
+             Projektu.
+
+8.A.2.       (Vedení účetnictví) Příjemce je povinen vést účetnictví podle zákona č.
+             563/1991 Sb., o účetnictví, ve znění pozdějších předpisů. Příjemce je povinen
+             účtovat příjmy a výdaje související s Projektem tak, aby bylo průkazné, zda
+             konkrétní výdaj je či není vykazován na Projekt. Cílem této povinnosti je zajistit,
+             aby Příjemce byl schopen na vyžádání předložit kontrolním orgánům a auditním
+             subjektům úplný přehled způsobilých výdajů (účetních operací nebo záznamů v
+             daňové evidenci). Bližší pravidla vedení účetnictví na úrovni příjemců jsou
+             uvedena v Pravidlech pro žadatele a příjemce OPD2021+ v kapitole Vedení
+             účetnictví.
+
+8.A.3.       (Náležitosti dokladů) Příjemce je povinen zajistit, že příslušný doklad splňuje
+             předepsané náležitosti účetního dokladu ve smyslu § 11 zákona č. 563/1991 Sb.,
+             o účetnictví, ve znění pozdějších předpisů, přičemž předmětné doklady musí být
+             správné, úplné, průkazné, srozumitelné a průběžně chronologicky vedené
+             způsobem zaručujícím jejich trvalost. Při kontrole/auditu poskytne příjemce na
+             vyžádání kontrolnímu orgánu/auditnímu subjektu účetní evidenci v plném
+             rozsahu.
+
+
+
+
+                                                                                            7/28
+
+
+                                                                                             Strana 12 / 39
+8.A.4.   (Archivace) Příjemce je povinen uchovávat všechny dokumenty související
+         s realizací Projektu 6 a k nesrovnalostem alespoň po dobu deseti let od 1. ledna
+         roku následujícího po roce, ve kterém uplyne lhůta pro splnění poslední podmínky
+         pro realizaci Projektu či jeho udržitelnost, pokud v předpisech České republiky není
+         stanovena pro konkrétní dokumenty lhůta pro archivaci delší, zároveň však
+         nejméně do doby uplynutí tří let od uzavření OPD2021+. O uzavření programu
+         bude Řídicí orgán příjemce vhodnou formou informovat. Lhůta se staví po dobu
+         správního nebo soudního řízení nebo na žádost Komise. V souladu s Pravidly pro
+         žadatele a příjemce OPD2021+ bude Řídicí orgán informovat příjemce po
+         dokončení Projektu o datu, kdy začíná běžet lhůta pro archivaci dokumentů.
+
+8.A.5.   (Indikátory) Příjemce je povinen zajistit realizaci Projektu tak, aby byly naplněny
+         ukazatele a indikátory Projektu, k jejichž splnění se příjemce zavázal jejich
+         uvedením a vyčíslením v žádosti o podporu (zejm. indikátory výstupu), a které
+         jsou uvedeny ve Specifikaci jako povinné k naplnění.
+
+8.A.6.   (Zadávání veřejných zakázek) Příjemce je povinen při zadávání veřejných
+         zakázek na realizaci Projektu, u nichž je finanční plnění zcela nebo zčásti hrazeno
+         z finančních prostředků poskytovaných dle této Smlouvy, postupovat v souladu se
+         zákonem č. 134/2016 Sb., o zadávání veřejných zakázek, ve znění pozdějších
+         předpisů (dále jen „ZZVZ“); zákonem č. 340/2015 Sb., o zvláštních podmínkách
+         účinnosti některých smluv, uveřejňování těchto smluv a registru smluv, ve znění
+         pozdějších předpisů (zákon o registru smluv) (dále jen „zákon o registru smluv“);
+         zákonem č. 159/2006 Sb., o střetu zájmů, v platném znění a zákonem č. 37/2021
+         Sb., o evidenci skutečných majitelů, v platném znění, Pravidly pro žadatele a
+         příjemce OPD2021+ a s Metodickým pokynem pro oblast zadávání zakázek pro
+         programové období 2021-2027 (dále jen „Metodický pokyn zakázky“). Při zadávání
+         těchto veřejných zakázek je příjemce povinen dodržovat předpisy upravující
+         veřejnou podporu, ochranu životního prostředí, rovnost žen a mužů apod. Při
+         zadávání veřejných zakázek na realizaci Projektu je příjemce dále povinen vždy
+         zajistit transparentnost, přiměřenost, nediskriminaci, rovné zacházení a dodržovat
+         zásady sociálně odpovědného zadávání, environmentálně odpovědného zadávání
+         a inovací ve smyslu ZZVZ, je-li to vzhledem k povaze a smyslu veřejné zakázky
+         možné.
+
+8.A.7.   (Zadávání veřejných zakázek mimo ZZVZ) Při zadávání veřejných zakázek
+         nespadajících pod působnost ZZVZ, je příjemce povinen se při zadávání zakázek
+         řídit Pravidly pro žadatele a příjemce OPD2021+ a Metodickým pokynem zakázek.
+
+8.A.8.   (Sankční seznamy) Příjemce je povinen při zadávání zakázek na realizaci
+         Projektu, k jejichž financování užije poskytované finanční prostředky, a to jak ve
+         fázi výběru dodavatele, tak následně ve vztahu k případným platbám dodavateli
+         či jeho poddodavatelům, zajistit, že veřejné finanční prostředky nebudou
+         zpřístupněny sankcionovaným osobám v souladu s přímo účinnými nařízeními EU 7.
+
+8.A.9.   (Kontrola, součinnost) Příjemce je povinen se v souvislosti s financováním
+         realizace Projektu podrobit kontrolám/auditům ze strany Evropského účetního
+
+
+6 Je vhodné, aby si příjemce vyžádal předchozí souhlas Řídicího orgánu před tím, než se příjemce
+
+rozhodne zlikvidovat jakékoliv dokumenty k Projektu nebo nesrovnalostem.
+7 Nařízení Rady (EU) č. 269/2014 ze dne 17. března 2014 o omezujících opatřeních vzhledem k
+činnostem narušujícím nebo ohrožujícím územní celistvost, svrchovanost a nezávislost Ukrajiny,
+Nařízení Rady (EU) č. 833/2014 ze dne 31. července 2014 o omezujících opatřeních vzhledem k
+činnostem Ruska destabilizujícím situaci na Ukrajině, případně další přímo účinná evropská či národní
+legislativa s obdobným účinkem.
+
+
+                                                                                                8/28
+
+
+                                                                                                 Strana 13 / 39
+         dvora, Evropské komise, Nejvyššího kontrolního úřadu, Auditního orgánu,
+         finančních orgánů, Řídicího orgánu a poskytovatele a dalších kontrolních
+         orgánů/auditních subjektů dle předpisů České republiky a předpisů Evropské unie8
+         (dále jen „kontrolní orgán“). V souvislosti s těmito kontrolami/audity je příjemce
+         povinen poskytnout součinnost a veškerou dokumentaci vztahující se k Projektu a
+         umožnit v souvislosti s výkonem této kontrolní/auditní činnosti pořizování kopií a
+         výpisů dokladů ze své účetní evidence a rovněž při výkonu kontroly/auditu i účinně
+         spolupracovat, včetně vytvoření podmínek k ověření na místě.
+
+8.A.10. (Informování o kontrolách/auditech) Příjemce se zavazuje informovat
+        poskytovatele o kontrolách a auditech provedených v souvislosti s financovaným
+        Projektem a zavazuje se na žádost poskytovatele poskytnout veškeré informace
+        o výsledcích a protokoly z těchto kontrol a auditů.
+
+8.A.11. (Kontrola u partnerů) Příjemce se zavazuje písemně deklarovat právo
+        kontrolního orgánu na zjišťování veškerých podkladů a údajů nutných pro
+        kontrolu/audit u partnerů Projektu a u dalších osob se smluvními závazky vůči
+        příjemci ve smluvních vztazích mezi příjemcem a dalšími osobami v případech,
+        kde smluvní vztah je financován či spolufinancován z finančních prostředků
+        poskytovaných na základě této Smlouvy, a je povinen zavázat tyto partnery
+        Projektu a osoby podrobit se těmto kontrolám/auditům.
+
+8.A.12. (Monitorovací zprávy) Příjemce je povinen zasílat v průběhu realizace Projektu
+        monitorovací zprávy – průběžné zprávy o realizaci Projektu předkládané s každou
+        žádostí o platbu a informace o Projektu , termíny předkládání zpráv o realizaci jsou
+        stanovené ve schváleném finančním plánu v IS KP21+ (mimo schválený finanční
+        plán je povinen tyto zasílat pouze ve specifických případech na vyžádání Řídicího
+        orgánu) dle Pravidel pro žadatele a příjemce OPD2021+, zejména v kapitole
+        Monitorování projektů, zpracované v elektronické formě v IS KP21+, struktura a
+        obsah zpráv je stanovena v Metodickém pokynu společných procesů
+        implementace fondů EU v programovém období 2021-2027 zveřejněném na
+        opd3.opd.cz.
+
+8.A.13. (Závěrečná zpráva o realizaci)S poslední žádostí o platbu je příjemce povinen
+        předložit Závěrečnou zprávu o realizaci Projektu za celé období realizace Projektu.
+
+8.A.14. (Publicita) Příjemce je povinen informovat veřejnost a další subjekty o příspěvku
+        poskytnutém Evropskou unií způsoby uvedenými v Pravidlech pro žadatele
+        a příjemce OPD2021+, vč. Manuálu Jednotného vizuálního stylu fondů EU
+        v programovém období 2021–2027 zveřejněných na opd3.opd.cz a Metodickém
+        pokynu pro oblast indikátorů, evaluací a publicity pro programové období 2021-
+        2027.
+
+8.A.15. (Označení SFDI) Příjemce je povinen v případě nepovinných nástrojů/volitelné
+        publicity umístit kromě loga EU i logo poskytovatele9 pro projekty
+        spolufinancované z OPD2021+ na dokumentech k Projektu, a to dle Pravidel pro
+        žadatele a příjemce OPD2021+ a pravidel Manuálu Jednotného vizuálního stylu
+
+
+8 Pro vyloučení pochybností se uvádí, že výkonem některého kontrolního oprávnění může být jedním
+
+z oprávněných subjektů pověřen i třetí subjekt (např. supervizor).
+9 Loga se doporučuje umisťovat tak, aby řazením horizontálně vedle sebe nebo vertikálně pod sebe
+
+dodržovala následující pravidlo o pozici: Logo EU je na první pozici zleva v horizontálním řazení a na
+nejvyšší pozici ve vertikálním řazení. Pokud je použito logo instituce zastávající funkci Řídicího
+orgánu, je umístěno na druhé pozici. Pokud je kromě loga Řídicího orgánu použito i další logo
+(například poskytovatel či příjemce), je umístěno na třetí pozici.
+
+
+                                                                                                 9/28
+
+
+                                                                                                  Strana 14 / 39
+        fondů EU v programovém období 2021–2027, zveřejněných na opd3.opd.cz. Logo
+        poskytovatele je ke stažení k uvedenému účelu na sfdi.gov.cz, a k jehož užití pro
+        tento účel dává poskytovatel tímto souhlas.
+
+8.A.16. (Závazné dokumenty) Příjemce je povinen u Projektu postupovat v souladu
+        s všeobecnými standardy Evropské unie, a dále v souladu s dalšími podmínkami
+        stanovenými ve schváleném OPD2021+ a ve Výzvě. Příjemce je dále povinen při
+        realizaci Projektu a při čerpání finančních prostředků pro Projekt poskytnutých na
+        základě této Smlouvy dodržovat zejména platná Pravidla pro žadatele a příjemce
+        OPD2021+ a další aktuálně platné metodiky a pokyny vydané Řídicím orgánem
+        pro příjemce prostředků z fondů Evropské unie zveřejněné na opd3.opd.cz a
+        platná Pravidla pro financování ze Státního fondu dopravní infrastruktury vydaná
+        poskytovatelem a zveřejněná na sfdi.gov.cz.
+
+8.A.17. (Souhlas se zveřejněním) Příjemce souhlasí s tím, že identifikační údaje o něm,
+        jako o příjemci finančních prostředků poskytovatele, jsou uloženy v centrální
+        evidenci vedené u poskytovatele. Příjemce rovněž souhlasí se zveřejněním svého
+        názvu, sídla, IČO, účelu a výše jemu poskytnutých finančních prostředků dle této
+        Smlouvy.
+
+8.A.18. (Vypořádání) Příjemce je povinen provést vypořádání poskytnutých finančních
+        prostředků pro Projekt čerpaných na základě této Smlouvy k 31. prosinci
+        rozpočtového roku, v němž bylo financování Projektu ukončeno. Toto vypořádání
+        je příjemce povinen předložit poskytovateli v termínu stanoveném v metodickém
+        pokynu poskytovatele. Rozsah a forma vypořádání bude stanovena metodickým
+        pokynem k vypořádání, vydaným poskytovatelem pro kalendářní rok, ve kterém
+        bylo ukončeno financování Projektu, který bude příjemci zaslán.
+
+8.A.19. (Předčasné ukončení Projektu) V případě, že bude z jakéhokoli důvodu
+        předčasně ukončena realizace Projektu financovaného z finančních prostředků
+        poskytovaných dle této Smlouvy před jeho dokončením, tj. před dosažením
+        stanovených cílů, odstoupením příjemce od schváleného Projektu, je příjemce
+        povinen neprodleně, nejpozději do 15 kalendářních dnů ode dne, kdy došlo
+        k odstoupení příjemce od schváleného Projektu, o této skutečnosti poskytovatele
+        písemně informovat a předložit mu zprávu o dosažených výsledcích realizace
+        Projektu, důvodech jeho ukončení a vrátit poskytovateli finanční prostředky, které
+        již byly na Projekt uvolněny podle této Smlouvy.
+
+8.A.20. (Zákaz nakládání) Příjemce se zavazuje, že po dobu udržitelnosti nepřevede,
+        nezcizí, nezatíží právy třetích osob ani nezastaví majetek nabytý z poskytnutých
+        finančních prostředků s výjimkou vyvolaných investic nebo pakliže jednání vyplývá
+        ze zákonných ustanovení, nebo že o takovém nakládání s tímto majetkem
+        rozhodne Řídicí orgán.       I v těchto případech je příjemce povinen zavázat
+        nabyvatele tohoto majetku k zajištění jeho udržitelnosti ve stejném rozsahu, jak
+        pro příjemce vyplývá z tohoto ustanovení. Současně je příjemce povinen zajistit
+        řádnou péči o tento majetek, aby majetek mohl být bezplatně užíván k účelu, ke
+        kterému je určen, s výjimkou těch případů, kde možnost úplatného užívání tohoto
+        majetku je upravena příslušným zákonem. Příjemce může tento majetek
+        pronajmout během výše uvedené doby udržitelnosti Projektu pouze s předchozím
+        písemným souhlasem Řídicího orgánu.
+
+8.A.21. (Předkládání zpráv o udržitelnosti) Po dobu udržitelnosti Projektu je příjemce
+        povinen předkládat Zprávy o udržitelnosti Projektu/Závěrečné zprávy
+        o udržitelnosti Projektu za každý uplynulý rok, vždy dle plánu zpráv v IS KP21+.
+        Zprávy o udržitelnosti Projektu zpracované dle Pravidel pro žadatele a příjemce
+        OPD2021+ předkládá příjemce v elektronické formě zpracované v IS KP21+.
+
+
+                                                                                     10/28
+
+
+                                                                                       Strana 15 / 39
+8.A.22. (Nezohledněné příjmy) V souladu s Nařízením Evropského parlamentu a Rady
+        (EU) č. 2021/1060 ze dne 24. června 2021 a s Pravidly pro žadatele a příjemce
+        OPD2021+ může být příjemci poskytovatelem uložena povinnost (na základě
+        výzvy Řídicího orgánu) vrátit část, případně i všechny prostředky poskytnuté na
+        základě odst. 4.B.1 této Smlouvy v případě, že vytvoří příjmy, které nebyly
+        zohledněny v žádosti o podporu, resp. při vydání Schvalovacího protokolu.
+
+8.A.23. (Zapojení partnera) V případě zapojení partnera do realizace Projektu je
+        příjemce povinen zajistit, aby vztahy mezi příjemcem a jeho partnery po celou
+        dobu realizace Projektu odpovídaly pravidlům dle Pravidel pro žadatele a příjemce
+        OPD2021+, kapitola „Partnerství na úrovni projektu“. Příjemce odpovídá za
+        splnění všech povinností. Pokud některý z partnerů poruší některou z povinností,
+        odpovídá příjemce, jako by tuto povinnost porušil sám.
+
+8.A.24. (Nápravná opatření) Příjemce v případě zjištění nedostatků při kontrole/auditu
+        dle odst. 8.A.9. této Smlouvy musí přijmout nápravná opatření ve lhůtě stanovené
+        kontrolním orgánem a dále informovat o splnění těchto nápravných opatření ve
+        stanovené lhůtě kontrolní orgán dle odst. 8.A.9 této Smlouvy, který nápravná
+        opatření uložil.
+
+8.A.25. (Porušení účelu) Příjemce nesmí závažným způsobem porušit či se odchýlit od
+        účelu Projektu, který je uvedený v odst. 4.A.1 této Smlouvy, přičemž tento musí
+        být naplněn nejpozději do data stanoveného ve Výzvě jako nejzazší datum pro
+        ukončení fyzické realizace, pokud na základě objektivních okolností Řídicí orgán
+        neschválí prodloužení tohoto termínu.
+
+8.A.26. (Zákaz dvojího financování) Příjemce je povinen v souvislosti s financováním
+        Projektu přijmout opatření k vyloučení možnosti dvojího financování, tj., že je
+        zakázaná duplicita financování totožného nákladu a jeho dvojího nárokování
+        z několika zdrojů. Příjemce nesmí na stejné způsobilé výdaje Projektu čerpat jinou
+        podporu z prostředků Evropské unie, z jiného fondu nebo nástroje Evropské unie,
+        případně téhož fondu, ale jiného programu, či z veřejných zdrojů obecně.
+
+8.A.27. (Uplatnění pouze způsobilých výdajů) Příjemce je povinen v žádosti o platbu
+        Projektu uplatňovat vůči poskytovateli pouze způsobilé výdaje.
+
+
+                        B. Práva a povinnosti poskytovatele:
+
+8.B.1.   Poskytovatel je povinen převádět poskytované finanční prostředky dle této
+         Smlouvy výlučně na účet příjemce uvedený v článku 6 v souladu s účelovým
+         určením poskytovaných finančních prostředků a v termínu stanoveném touto
+         Smlouvou.
+
+8.B.2.   Poskytovatel je při poskytování finančních prostředků dle této Smlouvy vázán
+         platnými právními předpisy, Schvalovacím protokolem a Specifikací, podmínkami
+         stanovenými ve schváleném OPD2021+, ve Výzvě, v platném MPFT, v Pravidlech
+         pro žadatele a příjemce OPD2021+, v Pravidlech pro financování ze Státního fondu
+         dopravní infrastruktury a v pokynech stanovených Řídicím orgánem.
+
+8.B.3.   Poskytovatel je oprávněn v odůvodněných případech, o kterých písemně
+         informuje příjemce, pozastavit uvolňování finančních prostředků a neposkytnout
+         další finanční prostředky, pokud příjemce závažným způsobem poruší ustanovení
+         této Smlouvy, např. použije poskytnuté finanční prostředky k jinému účelu, než
+         byly podle této Smlouvy poskytnuty. V případě zjištění porušení Smlouvy nebo
+         podmínek, za kterých byl schválen příspěvek pro Projekt z fondů Evropské unie,
+         je poskytovatel povinen na tuto skutečnost příjemce upozornit a stanovit mu lhůtu
+
+
+                                                                                     11/28
+
+
+                                                                                       Strana 16 / 39
+         ke zjednání nápravy v případech, kde je zjednání nápravy možné a kde je porušení
+         povinností postiženo dle článku 10 této Smlouvy nižším odvodem za porušení
+         rozpočtové kázně, či finanční opravou (dále také společně jen „sankce“), než kolik
+         činí celková výše poskytovaných finančních prostředků a současně o tom písemně
+         informuje Řídicí orgán a příslušný finanční úřad. Při porušení povinností
+         stanovených právním předpisem, nebo pokud příjemce nedodržel účel, pro který
+         mu byly finanční prostředky poskytnuty, nebo porušil jinou podmínku, za které mu
+         byly finanční prostředky poskytnuty a u které nebylo možné zjednat nápravu,
+         vyzve poskytovatel písemně příjemce, aby ve lhůtě, kterou mu stanoví, vrátil
+         finanční prostředky, kterých se porušení povinností týká, a současně o tom
+         informuje Řídicí orgán a příslušný finanční úřad. O zjednání nápravy nebo
+         o vrácení finančních prostředků tam, kde zjednání nápravy není možné,
+         poskytovatel neprodleně písemně informuje Řídicí orgán a příslušný finanční úřad.
+         Pokud ve stanovené lhůtě nebude náprava zjednána nebo nebudou vráceny
+         finanční prostředky v případě, kde je vrácení finančních prostředků požadováno,
+         je poskytovatel oprávněn pozastavit příjemci čerpání finančních prostředků
+         a neposkytnout další finanční prostředky a současně má poskytovatel právo od
+         této Smlouvy odstoupit. V případě poskytnutých finančních prostředků, které byly
+         příjemcem prokazatelně neoprávněně vyplacené nebo zadržené, platí postupy
+         uvedené v článku 10. Následky porušení povinností vyplývajících z této Smlouvy.
+
+8.B.4.   Poskytovatel je oprávněn odstoupit od této Smlouvy v případě, že se prokáže, že
+         údaje sdělené mu příjemcem a dokladující dodržení podmínek stanovených
+         poskytovatelem ve Smlouvě jsou zkreslené, nepravdivé nebo i přes předchozí
+         upozornění poskytovatele neúplné.
+
+8.B.5.   Poskytovatel je oprávněn odstoupit od této Smlouvy také v případě, že Řídicí
+         orgán rozhodne o zrušení Schvalovacího protokolu, pokud se prokáže, že údaje
+         sdělené příjemcem Řídicímu orgánu, které vedly k vystavení Schvalovacího
+         protokolu, byly zkreslené, nepravdivé, neúplné či zavádějící.
+
+8.B.6.   Poskytovatel je povinen informovat příjemce o změnách metodik a pokynů, na
+         které je ve Smlouvě odkazováno, pokud tak neučiní Řídicí orgán.
+
+
+                                   Článek 9
+                   Kontrola nakládání s finančními prostředky
+
+
+9.1.     Kontroly ze strany poskytovatele budou prováděny v souladu s § 3 odst. 7 zákona
+         č. 104/2000 Sb. Provedení kontroly se bude řídit zákonem č. 255/2012 Sb.,
+         o kontrole (kontrolní řád), ve znění pozdějších předpisů, a zákonem č. 320/2001
+         Sb., o finanční kontrole ve veřejné správě a o změně některých zákonů (zákon
+         o finanční kontrole), ve znění pozdějších předpisů, MPFT a Manuálem pracovních
+         postupů poskytovatele.
+
+9.2.     Při zjištění podezření na nesrovnalost (ve smyslu příslušných právních předpisů
+         EU) při čerpání finančních prostředků poskytovaných na základě této Smlouvy,
+         poskytovatel neprodleně informuje o této skutečnosti Řídicí orgán, který
+         s ohledem na charakter zjištěných nesrovnalostí rozhodne o dalším postupu.
+         Současně je poskytovatel oprávněn při zjištění nesrovnalostí ve vztahu
+         k finančním prostředkům poskytnutým na financování Projektu žádat vrácení
+         poskytnutých finančních prostředků, pozastavit jejich čerpání a činit další nezbytná
+         opatření k zabezpečení předpokládané efektivnosti a souladu financovaných
+         činností s platnými předpisy a mezinárodními závazky.
+
+
+
+                                                                                        12/28
+
+
+                                                                                          Strana 17 / 39
+9.3.        Poskytovatel a další kontrolní orgány jsou oprávněny v souvislosti s prováděnou
+            kontrolou/auditem zjišťovat u příjemce, u partnerů Projektu a u dalších osob se
+            smluvními závazky vůči příjemci veškeré údaje nezbytné pro tuto kontrolu/audit.
+
+
+                                   Článek 10
+            Následky porušení povinností vyplývajících z této Smlouvy
+
+
+10.1.       V případě, že finanční prostředky poskytnuté dle této Smlouvy nebudou užity na
+            účel, na který byly určeny, nebo příjemce poruší ve vztahu k poskytovaným
+            finančním prostředkům povinnosti stanovené právními předpisy, pravidly
+            a metodikami, kterými se financování Projektu řídí, nebo příjemce poruší jiné
+            povinnosti vyplývající pro něj z této Smlouvy a na straně poskytovatele vznikne
+            podezření na nesrovnalost při čerpání finančních prostředků příjemcem spočívající
+            v podezření na porušení rozpočtové kázně, a nebude zjednána náprava nebo
+            vrácené nesrovnalostí dotčené poskytnuté finanční prostředky ve smyslu odst.
+            8.B.3, upozorní poskytovatel na tuto skutečnost Řídicí orgán, který rozhodne
+            o dalším postupu.
+
+10.2.       Porušení veškerých povinností, pokud nebude ve lhůtě stanovené Řídicím orgánem
+            či poskytovatelem zjednána náprava nebo vráceny finanční prostředky tam, kde
+            zjednání nápravy není možné, uvedených zejména v odst. 8.A.9, 8.A.19 a 8.A.25
+            je považováno za závažné a příjemce je povinen odvést veškeré vyplacené nebo
+            zadržované finanční prostředky poskytnuté dle této Smlouvy, a to včetně penále
+            ve smyslu § 44a zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně
+            některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších
+            předpisů (dále jen „zákon č. 218/2000 Sb.“), v termínu stanoveném příslušným
+            finančním úřadem prostřednictvím tohoto finančního úřadu. Toto neplatí pro
+            případy porušení rozpočtové kázně z důvodů uvedených v odst. 10.3 až 10.8, ve
+            kterých je v souladu s § 14 odst. 5 zákona č. 218/2000 Sb. stanoven odvod za
+            porušení rozpočtové kázně (sankce) nižší, než je celková částka poskytovaných
+            finančních prostředků na Projekt dle této Smlouvy.
+
+10.3.       Následující povinnosti příjemce jsou považovány za závažné, pročež jejich
+            porušení příjemcem, pokud nebude ve lhůtě stanovené Řídicím orgánem či
+            poskytovatelem zjednána náprava nebo vráceny finanční prostředky tam, kde
+            zjednání nápravy není možné, bude podle § 44a odst. 4 písm. b) zákona
+            č. 218/2000 Sb. postiženo odvodem za porušení rozpočtové kázně ve výši částky,
+            ve které byla porušena rozpočtová kázeň (tj. nezpůsobilých výdajů uhrazených
+            z poskytnutých finančních prostředků):
+
+        –    Porušení kterékoliv povinnosti příjemce dle odst. 8.A.1, 8.A.8, 8.A.22 a 8.A.27
+             této Smlouvy bude postiženo odvodem za porušení rozpočtové kázně ve výši
+             části poskytnutých finančních prostředků vztahujících se k výdajům, které se
+             následně ukáží jako nezpůsobilé;
+        –    Porušení povinnosti příjemce dle odst. 8.A.26 této Smlouvy bude postiženo
+             odvodem za porušení rozpočtové kázně ve výši části poskytnutých finančních
+             prostředků vztahujících se k výdajům, u nichž došlo k porušení zákazu dvojího
+             financování;
+        –    Porušení kterékoli povinnosti příjemce v oblasti účetnictví dle odst. 8.A.2 a 8.A.3
+             této Smlouvy, pokud má uvedené porušení dopad na prokazatelnost výdaje,
+             bude postiženo odvodem za porušení rozpočtové kázně ve výši části
+
+
+
+
+                                                                                           13/28
+
+
+                                                                                             Strana 18 / 39
+             poskytnutých finančních prostředků vztahujících se k výdajům, u kterých nebyly
+             tyto povinnosti řádně plněny;
+        –    Porušení povinnosti příjemce v oblasti archivace dle odst. 8.A.4 této Smlouvy
+             bude postiženo odvodem za porušení rozpočtové kázně ve výši části
+             poskytnutých finančních prostředků vztahujících se k výdajům, u nichž není
+             archivace řádně zajištěna;
+        –    Porušení kterékoli povinnosti příjemce dle odst. 8.A.20 této Smlouvy bude
+             postiženo odvodem za porušení rozpočtové kázně ve výši části poskytnutých
+             finančních prostředků vztahujících k porušení zákazu nakládání.
+10.4.       Méně závažná porušení povinností vyplývajících pro příjemce z této Smlouvy ve
+            smyslu § 14 odst. 5 zákona č. 218/2000 Sb., budou, pokud nebude ve lhůtě
+            stanovené Řídicím orgánem či poskytovatelem zjednána náprava nebo vráceny
+            finanční prostředky tam, kde zjednání nápravy není možné, postižena nižším
+            odvodem za porušení rozpočtové kázně (sankcí), než kolik činí celková výše
+            finančních prostředků poskytovaných pro Projekt. Řídicí orgán v těchto případech
+            společně s rozhodnutím o dalším postupu stanoví i případnou výši odvodu za
+            porušení rozpočtové kázně (sankci) podle sankcí uvedených v odst. 10.5 až 10.8
+            Pokud se podle charakteru šetřením zjištěných porušení povinností stanoví odvod
+            za porušení rozpočtové kázně (sankce) podle procentních rozpětí, bude při
+            stanovení konkrétní výše přihlédnuto zejména k závažnosti porušení povinností a
+            jeho vlivu na dodržení účelu Projektu.
+
+10.5.       Nižší sankce za porušení povinností stanovených touto Smlouvou bude v případě
+            nedodržení povinnosti příjemce dle odst. 8.A.10 a 8.A.11této Smlouvy činit 5 000
+            Kč za každé zjištěné porušení povinnosti. Pokud příjemce odstraní zjištěné
+            nedostatky ve lhůtě stanovené poskytovatelem/jiným kontrolním orgánem,
+            nebude mu uložena žádná sankce. Odvod za porušení rozpočtové kázně bude činit:
+
+        –    1 – 25 % z celkové částky podpory v případě porušení kterékoli povinnosti
+             příjemce dle odst. 8.A.21 této Smlouvy. O porušení rozpočtové kázně se nejedná
+             v případě porušení povinnosti příjemce dle odst. 8.A.21 této Smlouvy, kdy na
+             poskytovatele byla zpráva o udržitelnosti Projektu/Závěrečná zpráva o
+             udržitelnosti projektu předložena v náhradní lhůtě či prodlení příjemce trvá méně
+             než 40 dní;
+10.6.       Sankce za porušení povinností v oblasti publicity dle odst. 8.A.14 této Smlouvy je
+            vyměřena příjemci procentem z celkové částky podpory uvedené ve Schvalovacím
+            protokolu, a to ve výši 0,01 %, až 1 % podle zjištěného druhu pochybení, jak je
+            uvedeno v Pravidlech pro žadatele a příjemce OPD2021+ a Metodickém pokynu
+            pro oblast indikátorů, evaluací a publicity pro programové období 2021-2027.
+            Pokud    příjemce    odstraní   zjištěné   nedostatky      ve   lhůtě    stanovené
+            poskytovatelem/jiným kontrolním orgánem, nebude mu uložena žádná sankce.
+            V případě porušení výše uvedených předpisů se výše sankce řídí následujícími
+            tabulkami:
+
+
+ č.         Nástroj publicity     Pochybení                              Sazba sankce
+
+
+ 1.         Povinné nástroje      Nástroj zcela chybí                    1,0 %
+
+ 2.                               Na nástroji chybí nebo je chybně:      0,5 %
+                                  - Logo EU včetně povinného textu
+                                  (rozměr, umístění apod.)
+
+
+
+                                                                                         14/28
+
+
+                                                                                           Strana 19 / 39
+ č.     Nástroj publicity    Pochybení                               Sazba sankce
+
+
+                             - Předepsaný rozměr nástroje
+
+
+
+ 3.                          Na nástroji je uvedeno nadbytečné       0,1 %
+                             logo zvýrazňující podporu EU (jiné
+                             logo, nežli znak EU s doprovodným
+                             textem Spolu/Financováno
+                             Evropskou unií, případně
+                             NextGenerationEU)
+ 4                           Na komunikační akci nebyl přizván/o     0,01 %
+                             komunikační akci nebyl informován
+                             zástupce Řídícího orgánu
+
+
+
+                                                       Úroveň
+ č.     Nástroj publicity    Pochybení                                 Sazba sankce
+                                                       pochybení
+ 1.     Nepovinné            Logo EU (znak EU          zcela chybí     0,03 %
+        nástroje/volitelná   včetně povinného
+        publicita            textu)
+
+
+ 2.                          Logo EU (znak EU          je uveden       0,01 %
+                             včetně povinného          chybně
+                             textu)                    (rozměr,
+                                                       absence nebo
+                                                       chyba
+                                                       v doprovodném
+                                                       textu apod.)
+
+
+
+10.7.   Příjemce je podle odst. 8.A.5 povinen naplnit indikátory Projektu, které jsou
+        uvedeny ve Specifikaci jako povinné k naplnění. Pro případ nesplnění této
+        podmínky se stanovení sankce řídí následující tabulkou:
+
+        Indikátory
+ č.     povinné              Pochybení                               Sazba sankce
+        k naplnění
+ 1.                          Indikátor nebyl naplněn                 100,0 %
+
+
+
+
+                                                                                    15/28
+
+
+                                                                                      Strana 20 / 39
+        Indikátory
+ č.     povinné                  Pochybení                                  Sazba sankce
+        k naplnění
+        Naplňování               Indikátor je plněn částečně10              10,0 %-30,0 %
+        výstupových                                                         (poměrově dle
+        indikátorů                                                          plnění indikátoru)11
+ 2.     Naplňování               Indikátor nebyl naplněn                    100,0 %
+        výsledkových
+        indikátorů               Indikátor je plněn částečně                10,0 %-90,0 %
+                                                                            (poměrově dle
+                                                                            plnění indikátoru)12
+
+
+10.8.    Při identifikaci porušení ZZVZ, Pravidel pro žadatele a příjemce OPD2021+ nebo
+         Metodického pokynu zakázky (porušení povinností uvedených v odst. 8.A.6 a
+         8.A.7 této Smlouvy), které by mohlo mít potenciální finanční dopad, bude
+         stanovena příslušná finanční oprava (dále jen „sankce“). Výše sankce připadající
+         na porušení pravidel při zadávání veřejných zakázek se stanoví dle typových
+         porušení uvedených v tabulce níže, která vycházejí z rozhodnutí Komise
+         C(2019) 3452 ze dne 14. 5. 2019, kterým se stanoví pokyny ke stanovení
+         finančních oprav, které mají být provedeny u výdajů financovaných Evropskou unií
+         za nedodržení platných pravidel pro zadávání veřejných zakázek (dále jen
+         „rozhodnutí Komise C(2019) 3452“). Rozhodnutí Komise C(2019) 3452 může být
+         využito při stanovení sankcí podpůrně. Výše sankce se uplatní na finanční
+         prostředky použité nebo určené k úhradě výdajů Projektu v rámci veřejné
+         zakázky, u které se porušení vyskytlo, pokud není v níže uvedené tabulce u
+         konkrétní sankce stanoveno jinak. V případě porušení výše uvedených předpisů
+         se výše sankce řídí následující tabulkou:
+
+ Č.     Typ porušení                  Popis porušení                Sazba sankce
+ 1.     Nedodržení                                                  100 %
+
+
+
+10 Indikátor je považován za splněný, i když v rámci zaměření při vypracování Dokumentace
+skutečného provedení stavby jsou zjištěné odchylky oproti Projektové dokumentaci, které nevyžadují
+Změnu stavby před dokončením.
+11 V případě neplnění indikátoru do 10 % včetně bude korekce 10 % vykázaných způsobilých výdajů;
+
+v rozmezí neplnění indikátoru 10 % až 30 % včetně bude výše korekce odpovídat procentu neplnění;
+při neplnění indikátoru nad 30 % (tzn. indikátor je naplněn na méně než 70 %) indikátor nebyl
+naplněn a náleží zde korekce za nenaplněný indikátor. Korekce v procentech bude zaokrouhlena
+matematicky na jedno desetinné místo.
+Příklad: výchozí hodnota 25, cílová hodnota 200, vykázáno 150. Vykázán nárůst indikátoru 125 (150-
+25), příjemce byl zavázán k nárůstu 175 (200-25). Procento neplnění = 100 – (125/175) * 100 =
+28,57 %. Korekce je tedy 28,6 % vykázaných způsobilých výdajů.
+12 V případě neplnění indikátoru do 10 % včetně bude korekce 10 % vykázaných způsobilých výdajů;
+
+v rozmezí neplnění indikátoru 10 % až 90 % včetně bude výše korekce odpovídat procentu neplnění;
+při neplnění indikátoru nad 90 % (tzn. indikátor je naplněn na méně než 10 %) indikátor nebyl
+naplněn a náleží zde korekce za nenaplněný indikátor. Korekce v procentech bude zaokrouhlena
+matematicky na jedno desetinné místo.
+Příklad: výchozí hodnota 25, cílová hodnota 200, vykázáno 150. Vykázán nárůst indikátoru 125 (150-
+25), příjemce byl zavázán k nárůstu 175 (200-25). Procento neplnění = 100 – (125/175) * 100 =
+28,57 %. Korekce je tedy 28,6 % vykázaných způsobilých výdajů.
+
+
+                                                                                            16/28
+
+
+                                                                                              Strana 21 / 39
+     požadovaného      způsobu   Zadavatel zadal zakázku,     25 %, pokud byla
+     zahájení řízení a jeho      aniž by zahájil              dodržena určitá míra
+     uveřejnění                  výběrové/zadávací řízení     uveřejnění, která
+     nebo                        v souladu se ZZVZ nebo       umožnila potenciálním
+     neoprávněné přímé           v souladu s –Pravidly pro    dodavatelům přístup
+     zadání (např.               žadatele a příjemce          k zadávané zakázce
+     neoprávněné užití           OPD2021+.
+     jednacího řízení bez
+     uveřejnění)
+2.   Neoprávněné rozdělení       Zadavatel uměle rozdělil     100 %, pokud zakázka
+     předmětu zakázky            předmět zakázky tak, že      nebyla uveřejněna,
+                                 tím došlo ke snížení         ačkoliv se na ni tato
+                                 předpokládané hodnoty        povinnost vztahovala
+                                 pod finanční limity
+                                                              25 %, pokud byla
+                                 stanovené v ZZVZ nebo
+                                                              dodržena určitá míra
+                                 Pravidly pro žadatele a
+                                                              uveřejnění, která
+                                 příjemce OPD2021+,
+                                                              umožnila potenciálním
+                                 čímž nebylo zajištěno
+                                                              dodavatelům přístup
+                                 řádné uveřejnění
+                                                              k zadávané zakázce
+                                 zakázky.
+
+3.   Chybějící či nedostatečné   Zadavatel nerozdělil         5%
+     odůvodnění nerozdělení      nadlimitní zakázku na
+     zakázky na části            části dle ZZVZ a toto
+                                 rozhodnutí v písemné
+                                 zprávě zadavatele
+                                 neodůvodnil či toto
+                                 odůvodnění nebylo
+                                 dostatečné.
+4.   Nedodržení      minimální   Zadavatel stanovil lhůtu     100 %, pokud je
+     délky lhůty pro podání      pro    podání    nabídek,    zkrácení vyšší nebo
+     nabídek,     předběžných    předběžných       nabídek    rovno 85 % délky
+     nabídek    nebo   žádostí   nebo žádostí o účast tak,    minimální lhůty, nebo
+     o účast                     že       jejich     délka    byla lhůta rovna nebo
+     nebo                        nedosahovala                 kratší než 5 dnů.
+     neprodloužení této lhůty    minimálních           lhůt
+                                                              25 %, pokud je zkrácení
+     v případě takové změny      stanovených ZZVZ nebo
+                                                              vyšší nebo rovno 50 %
+     zadávacích podmínek,        Pravidly pro žadatele a
+                                                              délky minimální lhůty
+     jejichž povaha to           příjemce OPD2021+
+                                                              (ale nedosahuje 85 %)
+     vyžadovala                  nebo zadavatel v případě
+                                 takové změny zadávacích
+                                 podmínek, jejichž povaha     10 %, pokud je zkrácení
+                                 to vyžadovala, přiměřeně     vyšší nebo rovno 30 %
+                                 tuto lhůtu neprodloužil.     délky minimální lhůty (ale
+                                                              nedosahuje 50 %)
+                                                              nebo
+                                                              nebyla prodloužena lhůta
+                                                              pro podání nabídek,
+                                                              předběžných nabídek
+                                                              nebo žádostí o účast
+                                                              v případě takové změny
+                                                              zadávacích podmínek,
+
+
+
+
+                                                                                      17/28
+
+
+                                                                                        Strana 22 / 39
+                                                               jejichž povaha to
+                                                               vyžadovala
+
+
+                                                               5 %, pokud je zkrácení
+                                                               nižší než 30 %
+5.   Nedostatečná doba pro       Jestliže zadávací             10 %, pokud po zkrácení
+     opatření         zadávací   dokumentace není volně,       činí délka lhůty pro
+     dokumentace                 přímo a úplně dostupná,       doručení nabídek méně
+     nebo                        přičemž doba, ve které si     než nebo je rovna 50 %
+     jiná omezení pro získání    ji mohou potenciální          stanovené lhůty pro
+     zadávací dokumentace        dodavatelé opatřit, je        doručení nabídek
+                                 příliš krátká, či zadavatel
+                                                               5 %, pokud po zkrácení
+                                 jinak vytváří
+                                                               činí délka lhůty pro
+                                 neodůvodněnou
+                                                               doručení nabídek méně
+                                 překážku pro řádnou
+                                                               než nebo je rovna 80 %
+                                 hospodářskou soutěž.
+                                                               stanovené lhůty pro
+                                                               doručení nabídek
+                                                               25 %, pokud je doba pro
+                                                               získání          zadávací
+                                                               dokumentace rovna nebo
+                                                               nižší 5 dnům
+                                                               nebo zadavatel vůbec
+                                                               neumožnil bezplatný,
+                                                               neomezený a přímý
+                                                               přístup k zadávací
+                                                               dokumentaci
+                                                               elektronickým způsobem
+6.   Neuveřejnění prodloužení    Zadavatel v průběhu           5 %, pokud došlo
+     lhůty pro podání nabídek,   výběrového/zadávacího         k uveřejnění
+     předběžných       nabídek   řízení prodloužil lhůtu pro   prodloužených lhůt jiným
+     nebo žádostí o účast        podání nabídek,               vhodným způsobem
+     nebo                        předběžných nabídek           (původní lhůty pro
+     neprodloužení této lhůty    nebo žádostí o účast,         podání nabídek/žádostí o
+     při nedodržení stanovené    aniž by tuto skutečnost       účast stanoveny
+     lhůty pro poskytnutí        uveřejnil způsobem            v souladu se ZZVZ /
+     vysvětlení                  stanoveným v ZZVZ             Pravidly pro žadatele a
+                                 nebo Pravidly pro             příjemce OPD2021+
+                                 žadatele a příjemce
+                                                               10 %, pokud nedošlo
+                                 OPD2021+,
+                                                               k uveřejnění,
+                                 resp. způsobem, jakým
+                                                               nebo pokud nedošlo
+                                 bylo zahájeno
+                                                               k prodloužení lhůty pro
+                                 výběrové/zadávací řízení,
+                                                               podání nabídek
+                                 nebo ačkoliv žádost o
+                                                               v důsledku nedodržení
+                                 vysvětlení byla doručena
+                                                               lhůty pro poskytnutí
+                                 včas, zadavatel toto
+                                                               vysvětlení zadávací
+                                 vysvětlení neuveřejnil,
+                                                               dokumentace
+                                 neodeslal nebo nepředal
+                                 ve stanovené lhůtě a
+                                 současně neprodloužil
+                                 lhůtu pro podání nabídek.
+
+
+
+
+                                                                                    18/28
+
+
+                                                                                      Strana 23 / 39
+ 7.     Použití jednacího řízení      Zadavatel zadal zakázku       25 %
+        s uveřejněním nebo            v jednacím řízení
+        soutěžního dialogu            s uveřejněním nebo
+        v rozporu se ZZVZ             v soutěžním dialogu, aniž
+                                      by byly splněny zákonné
+                                      podmínky pro takový           10 %, pokud byla
+                                      postup, nebo v průběhu        zajištěna transparentnost
+                                      jednacího řízení              zadávacího řízení
+                                      s uveřejněním nebo            vč. zdůvodnění užití
+                                      v soutěžním dialogu           tohoto druhu řízení
+                                      podstatně změnil              v zadávací dokumentaci,
+                                      zadávací podmínky.            nebyl omezen počet
+                                                                    potenciálních dodavatelů,
+                                                                    kteří mohli podat nabídku
+                                                                    nebo žádost o účast, a
+                                                                    současně byl zajištěn
+                                                                    rovný přístup ke všem
+                                                                    účastníkům, kteří podali
+                                                                    nabídku či žádost o účast
+ 8.     Nesoulad se stanovenými       Nedodržení stanovených        10 %, pokud nedodržení
+        postupy pro elektronické      postupů pro elektronické      mohlo mít za následek
+        nebo souhrnné zadávání        nebo souhrnné zadávání        odrazení potenciálních
+        zakázek13                     zakázek    (tj.    rámcové    dodavatelů od účasti ve
+                                      dohody,         dynamické     výběrovém/zadávacím
+                                      nákupní           systémy,    řízení
+                                      elektronické         aukce,
+                                                                    25 %, pokud následkem
+                                      elektronické      katalogy,
+                                                                    tohoto porušení bylo
+                                      centralizované zadávání,
+                                                                    přidělení zakázky jinému
+                                      společné          zadávání
+                                                                    účastníkovi, než který by
+                                      a postupy       centrálních
+                                                                    zvítězil, pokud by se
+                                      zadavatelů).
+                                                                    zadavatel pochybení
+                                                                    nedopustil
+ 9.     Neuvedení             nebo    Zadavatel        neuvedl      25 %, pokud nedošlo
+        nedostatečné vymezení         v oznámení o zahájení         k uveřejnění
+        požadavků na kvalifikaci      výběrového/zadávacího         kvalifikačních nebo
+        nebo hodnotících kritérií     řízení a/nebo ve výzvě        hodnotících kritérií
+        a jejich vah, podmínek        k podání         nabídek      a jejich vah v oznámení
+        plnění    zakázky     nebo    požadavky na kvalifikaci,     o zahájení
+        technické specifikace         hodnotící kritéria (vč.       výběrového/zadávacího
+        nebo                          jejich vah a jasného          řízení/výzvě k podání
+        neuveřejnění či               způsobu        hodnocení      nabídek/v zadávací
+        neposkytnutí vysvětlení       nabídek),      podmínky       dokumentaci, pokud je
+        objasňující či doplňující     plnění   zakázky    nebo      uveřejněna spolu
+        kvalifikační nebo             technické    specifikace,     s oznámením o zahájení
+        hodnotící kritéria            případně tyto požadavky       výběrového/zadávacího
+                                      nevymezil     dostatečně      řízení/výzvou k podání
+                                      určitě                        nabídek
+
+
+
+
+13 Kromě případů, kdy nesrovnalost spadá pod jiný typ porušení.
+
+
+
+
+                                                                                         19/28
+
+
+                                                                                           Strana 24 / 39
+                                   nebo objasnění či            10 %, pokud podmínky
+                                   doplnění kvalifikačních či   plnění nebo technická
+                                   hodnotících kritérií         specifikace         nejsou
+                                   nebylo sděleno všem          v zadávací dokumentaci
+                                   účastníkům, popř. tyto       uvedeny, nebo
+                                   informace nebyly             hodnotící kritéria a jejich
+                                   uveřejněny.                  váhy nejsou uvedeny
+                                                                v oznámení o zahájení
+                                                                výběrového/zadávacího
+                                                                řízení/výzvě k podání
+                                                                nabídky dostatečně
+                                                                určitě, což mohlo mít
+                                                                odrazující účinek na
+                                                                potenciální dodavatele,
+                                                                nebo vysvětlení
+                                                                objasňující či doplňující
+                                                                kvalifikační nebo
+                                                                hodnotící kritéria nebyla
+                                                                sdělena všem známým
+                                                                dodavatelům a/nebo
+                                                                nebyla uveřejněna
+10.   Stanovení                    Zadavatel stanovil           25 %, pokud mohlo dojít
+      diskriminačních kritérií     diskriminační nebo jiná      k odrazení potenciálních
+      pro vyloučení, požadavků     protiprávní kritéria pro     dodavatelů od účasti ve
+      na kvalifikaci dodavatelů,   vyloučení, požadavky na      výběrovém/zadávacím
+      kritérií hodnocení           kvalifikaci dodavatelů,      řízení
+      nabídek, podmínek pro        kritérií hodnocení
+                                                                10 %, pokud byla
+      plnění zakázky nebo          nabídek, podmínek pro
+                                                                zajištěna minimální
+      technických specifikací      plnění zakázky nebo
+                                                                úroveň hospodářské
+      v rozporu se ZZVZ nebo       technických specifikací
+                                                                soutěže
+      Pravidly pro žadatele a      nutných pro účast ve
+      příjemce OPD2021+, a to      výběrovém/zadávacím
+      ve vztahu k národním,        řízení ve vztahu k místu
+      regionálním nebo             realizace (např. v případě
+      lokálním preferencím.        požadavku na
+                                   zkušenosti, zařízení,
+                                   provozovnu apod.
+                                   v/z určitého regionu či
+                                   státu).
+11.   Stanovení                    Zadavatel stanovil           25 %, pokud stanovené
+      diskriminačních kritérií     diskriminační nebo jiná      podmínky zjevně
+      pro vyloučení, požadavků     protiprávní kritéria pro     neodpovídají předmětu
+      na kvalifikaci dodavatelů,   vyloučení, požadavky na      zakázky nebo
+      kritérií hodnocení           kvalifikaci dodavatelů,      v případech, kdy toto
+      nabídek, podmínek pro        kritérií hodnocení           omezení umožnilo účast
+      plnění zakázky nebo          nabídek, podmínek pro        pouze jednoho
+      technických specifikací v    plnění zakázky nebo          dodavatele a současně
+      rozporu se ZZVZ nebo s       technických specifikací      účast tohoto jednoho
+      Pravidly pro žadatele a      nutných pro účast ve         dodavatele není
+      příjemce OPD2021+            výběrovém/zadávacím          odůvodnitelná
+      v ostatních aspektech        řízení (např. požadavky      specifickým technickým
+      než je uvedeno               bezprostředně                charakterem předmětu
+      v předchozím bodu            nesouvisely s předmětem      zakázky
+
+
+
+                                                                                       20/28
+
+
+                                                                                         Strana 25 / 39
+                          zakázky, nebo hodnotící     10 %, pokud tyto
+                          kritéria nevyjadřovala      požadavky souvisí
+                          vztah užitné hodnoty a      s předmětem zakázky,
+                          ceny).                      ale nejsou mu
+                                                      přiměřené, nebo
+                                                      v případech, kdy
+                                                      kvalifikační kritéria byla
+                                                      užita jako hodnotící
+                                                      kritéria, nebo
+                                                      v případech stanovení
+                                                      technických podmínek
+                                                      prostřednictvím přímého
+                                                      nebo nepřímého odkazu
+                                                      na určité dodavatele,
+                                                      výrobky, patenty na
+                                                      vynálezy, užitné vzory,
+                                                      průmyslové vzory,
+                                                      ochranné známky nebo
+                                                      označení původu, aniž by
+                                                      byly naplněny zákonné
+                                                      podmínky/podmínky
+                                                      uvedené v Pravidly pro
+                                                      žadatele a příjemce
+                                                      OPD2021+ pro využití
+                                                      takového odkazu
+                                                      s výjimkou případů, kdy
+                                                      použití této specifikace
+                                                      se týká pouze doplňkové
+                                                      části zakázky a
+                                                      potenciální dopad na EU
+                                                      rozpočet je pouze
+                                                      formální
+                                                      5 %, pokud i přes užití
+                                                      omezujících podmínek
+                                                      byla zajištěna minimální
+                                                      úroveň hospodářské
+                                                      soutěže
+
+12.   Nedostatečné či     Zadavatel nevymezil         10 %
+      nepřesné vymezení   předmět zakázky
+      předmětu zakázky    v podrobnostech
+                          nezbytných pro
+                          zpracování nabídky, což
+                          mohlo odradit potenciální
+                          dodavatele od podání
+                          nabídky, předběžné
+                          nabídky či žádosti o
+                          účast a tato skutečnost
+                          je zřejmá i z průběhu
+                          vysvětlení zadávací
+                          dokumentace vedené
+                          v rámci
+                          zadávacího/výběrového
+                          řízení
+
+
+
+                                                                            21/28
+
+
+                                                                              Strana 26 / 39
+ 13.    Neoprávněné omezení         Zadavatel omezil             5%
+        poddodávek                  možnost využití
+                                    poddodavatelů při
+                                    realizaci zakázky např.
+                                    procentuálně, a to bez
+                                    relevantního odůvodnění
+                                    tohoto omezení
+                                    s ohledem na klíčové
+                                    části zakázky.
+ 14.    Nedodržení či nesprávná     Zadavatel při posouzení      25 %
+        aplikace kvalifikačních     a hodnocení nabídek
+        kritérií nebo technických   nedodržel stanovené
+        či jiných zadávacích        zadávací podmínky,
+        podmínek při posouzení      zejména technické
+        a hodnocení nabídek či      podmínky, požadavky na
+        žádostí o účast             kvalifikaci, obchodní
+                                    podmínky nebo jiné
+                                    podmínky účasti ve
+                                    výběrovém/zadávacím
+                                    řízení nebo podmínky
+                                    průběhu
+                                    výběrového/zadávacího
+                                    řízení a ve svém
+                                    důsledku tak změnil
+                                    zadávací podmínky
+                                    v průběhu posouzení a
+                                    hodnocení nabídek, což
+                                    mělo za následek přijetí
+                                    či odmítnutí nabídek či
+                                    žádostí o účast, které
+                                    přijaty/odmítnuty být
+                                    neměly.14
+
+ 15.    Hodnocení        nabídek    Kritéria, která zadavatel    10 %
+        v rozporu se zadávacími     stanovil pro hodnocení
+                                                                 25 %, pokud došlo
+        podmínkami                  nabídek, nebyla
+                                                                 k diskriminaci účastníků
+        nebo hodnocení nabídek      dodržena či bylo užito
+                                                                 na základě národních,
+        dle dodatečně               dalších hodnotících
+                                                                 regionálních či lokálních
+        stanovených kritérií,       kritérií, která nebyla
+                                                                 preferencí.
+        která nebyla uveřejněna     uveřejněna.
+ 16.    Nedostatečná auditní        V dokumentaci k zakázce      25 %
+        stopa související se        není dostatečně
+        zadáním zakázky             zaznamenán a
+                                    odůvodněn
+                                    způsob/postup hodnocení
+                                    nabídek/výběr
+                                    nejvhodnější nabídky,
+                                    což vede k nedostatečné
+
+
+
+
+14 Uvedené neplatí, pokud by zadavatel jednoznačně prokázal, že by odmítnutá nabídka v žádném
+
+případě nebyla vítěznou nabídkou.
+
+
+                                                                                        22/28
+
+
+                                                                                             Strana 27 / 39
+                                 transparentnosti zadání
+                                 zakázky.
+
+                                 Odmítnutí zpřístupnění či    100 %
+                                 poskytnutí relevantní
+                                 dokumentace.
+
+17.   Jednání s účastníky        Zadavatel          umožnil   25 %
+      během řízení včetně        účastníkovi         změnu
+      změny vítězné nabídky      nabídky         v průběhu
+      v průběhu hodnocení        hodnocení nabídek, čímž
+                                 došlo k výběru tohoto
+                                 účastníka,
+                                 nebo zadavatel v rozporu
+                                 se ZZVZ nebo Pravidly
+                                 pro žadatele a příjemce
+                                 OPD2021+ jednal
+                                 v průběhu hodnocení
+                                 nabídek s účastníky
+                                 řízení, což vedlo
+                                 k podstatné změně
+                                 zadávacích podmínek,
+                                 příp. samotné nabídky
+                                 (netýká se druhů řízení,
+                                 u nichž je tento postup
+                                 ZZVZ/ Pravidly pro
+                                 žadatele a příjemce
+                                 OPD2021+ dovolen
+                                 a/nebo případů, kde je
+                                 umožněno provést
+                                 předložení doplnění,
+                                 nebo objasnění údajů)
+18.   Neoprávněné předchozí      V případech, kdy             25 %
+      zapojení dodavatelů do     takovéto zapojení
+      přípravy                   dodavatele do přípravy
+      výběrového/zadávacího      výběrového/zadávacího
+      řízení či obdobná forma    řízení má za následek
+      spolupráce se              porušení zásad zákazu
+      zadavatelem                diskriminace,
+                                 transparentnosti,
+                                 rovného zacházení či
+                                 vedlo k narušení
+                                 hospodářské soutěže.
+19.   Změna původních            V průběhu jednacího          25 %
+      zadávacích podmínek        řízení s uveřejněním
+      v rámci jednacího řízení   došlo k podstatným
+      s uveřejněním vedoucí      změnám původních
+      k podstatné změně          zadávacích podmínek,
+      zadávacích podmínek        které by měly za
+                                 následek povinnost
+                                 nového uveřejnění řízení.
+
+
+
+
+                                                                      23/28
+
+
+                                                                        Strana 28 / 39
+ 20.    Neoprávněné vyloučení           Zadavatel         vyloučil      25 %
+        nabídky z důvodu                nabídku         z důvodu
+        mimořádně nízké                 mimořádně           nízké
+        nabídkové ceny                  nabídkové ceny, aniž by
+                                        požádal         účastníka
+                                        výběrového/zadávacího
+                                        řízení      o odpovídající
+                                        zdůvodnění,
+                                        nebo v případě, kdy
+                                        zadavatel účastníka ke
+                                        zdůvodnění mimořádně
+                                        nízké nabídkové ceny
+                                        vyzval, nicméně není
+                                        schopen prokázat, že
+                                        odpovědi účastníků
+                                        odpovídajícím způsobem
+                                        posoudil.
+
+ 21.    Střet zájmů s dopadem           V případě, kdy při zadání       100 %
+        na             výsledek         zakázky dojde ke střetu
+        zadávacího/výběrového           zájmů, přičemž dotčený
+        řízení                          účastník zvítězí
+                                        v zadávacím/výběrovém
+                                        řízení.15
+ 22.    Bid-rigging (zakázaná           V případě, že soud, Úřad        10 %, pokud účastníci,
+        spolupráce dodavatelů           pro ochranu hospodářské         kteří se na bid-riggingu
+        ve výběrovém/zadávacím          soutěže či jiný                 podíleli, postupovali bez
+        řízení)16                       kompetentní úřad shledá,        pomoci osoby v rámci
+                                        že při zadávání                 řídicího či kontrolního
+                                        výběrového/zadávacího           systému nebo zadavatele
+                                        řízení došlo ke kartelové       a jeden z nich se stal
+                                        dohodě či jiné formě            vybraným dodavatelem
+                                        zakázané spolupráce
+                                                                        25 %, pokud se na bid-
+                                        mezi dodavateli.
+                                                                        riggingu nepodíleli jiní
+                                                                        dodavatelé než ti, kteří
+                                                                        se bid-riggingu účastnili
+                                                                        100 %, pokud se na bid-
+                                                                        riggingu podílela osoba
+                                                                        v rámci řídicího či
+                                                                        kontrolního systému
+                                                                        nebo zadavatel ve
+                                                                        spolupráci s dodavateli
+                                                                        podílejícími se na bid-
+
+
+
+15 Střet zájmů může nastat již ve fázi přípravy projektu, pokud měla příprava projektu vliv na zadávací
+
+dokumentaci/zadávací řízení.
+16
+   O bid rigging se jedná, když se dodavatelé tajně dohodnou na zvýšení cen nebo na snížení kvality
+dodávek služeb, nebo prací nabízených v rámci zadávacích řízení. Uložení opravy není odůvodněno
+v případě, kdy dodavatelé, kteří se účastnili bid riggingu, postupovali bez pomoci osoby v rámci
+řídicího a kontrolního systému nebo zadavatele a žádný z těchto dodavatelů nebyl úspěšný
+v zadávacím řízení.
+
+
+                                                                                                 24/28
+
+
+                                                                                                    Strana 29 / 39
+                                                                      riggingu a současně
+                                                                      jeden z nich se stal
+                                                                      vybraným dodavatelem
+ 23.    Podstatná změna                Zadavatel umožnil              25 %    z ceny     původní
+        smlouvy                        podstatnou změnu               zakázky
+                                       závazku ze smlouvy na
+                                       plnění zakázky nebo práv       a dále
+                                       a povinností vyplývajících
+                                       ze smlouvy na plnění           25 %             z hodnoty
+                                       zakázky v rozporu se           dodatečných stavebních
+                                       ZZVZ nebo s Pravidly pro       prací,   dodávek      nebo
+                                       žadatele a příjemce            služeb (tzv. vícepráce)
+                                       OPD2021+.
+                                                                      25 %    z ceny     původní
+                                                                      zakázky
+
+                                                                      a dále
+
+                                                                      100 % částky, o kterou
+                                                                      byla případně zvýšena
+                                                                      cena veřejné zakázky
+                                                                      v případě, že takové
+                                                                      zvýšení převyšuje 50 %
+                                                                      hodnoty původní zakázky
+ 24.    Jiné porušení                  Zadavatel se dopustil          25 %
+                                       jiného porušení, než jsou
+                                                                      V závislosti na závažnosti
+                                       výše definovaná, které
+                                                                      daného porušení lze
+                                       mělo nebo mohlo mít vliv
+                                                                      snížit výši sankce na
+                                       na výběr dodavatele.
+                                                                      (2 % nebo 5 % nebo
+                                                                      10 %)17
+
+
+         Pro případ, kdy bude identifikováno porušení pravidel pro zadávání veřejných
+         zakázek neupravené v tabulce typizovaných porušení, bude stanovena sankce
+         analogicky k výše uvedeným typizovaným porušením, resp. typizovaným
+         porušením uvedeným v rozhodnutí Komise C(2019) 3452, a v souladu se zásadou
+         přiměřenosti. Je-li porušení pravidel uvedených výše pouze formální povahy bez
+         skutečného nebo potenciálního finančního dopadu, nebude provedena žádná
+         oprava. Vyskytne-li se v jednom zadávacím/výběrovém řízení více porušení
+         povinností či pravidel, sazby sankcí se nesčítají, sankce bude stanovena s ohledem
+         na nejzávažnější typ porušení.
+
+10.9.    Porušení povinností uvedené v odst. 8.A.12, 8.A.13, 8.A.15, 8.A.18, 8.A.23 a
+         8.A.24 této Smlouvy je formálního charakteru a bez skutečného finančního
+         dopadu, a proto nebude ukládána žádná sankce. Příjemce bude vyzván k nápravě,
+         bude-li ze strany poskytovatele vyhodnocena náprava jako nutná.
+
+
+
+17 Kategorii tzv. „jiného porušení“ uvedenou pod č. 24 v tabulce typizovaných porušení lze pro
+
+stanovení příslušné finanční opravy užít pouze tehdy, je-li z důvodu specifičnosti skutkové podstaty
+a nepřiměřenosti sankce připadající na dané porušení vyloučena analogická aplikace výše uvedených
+typizovaných porušení, resp. typizovaných porušení rozhodnutí Komise C(2019)3452.
+
+
+                                                                                              25/28
+
+
+                                                                                                Strana 30 / 39
+10.10.   Pokud bude zjištěno kontrolou/auditem provedenou poskytovatelem nebo Řídícím
+         orgánem nebo jiným kontrolním orgánem uvedeným v odst. 8.A.9. této Smlouvy,
+         že příjemce porušil povinnosti stanovené ve Smlouvě nebo právními předpisy před
+         tím, než mu byly finanční prostředky uvolněny, informuje poskytovatel o této
+         skutečnosti Řídicí orgán a současně může rozhodnout o provedení finanční opravy
+         u poskytovaných finančních prostředků v rozsahu sankcí uvedených v odst. 10.3
+         až 10.8 podle toho, k jakému konkrétnímu porušení povinnosti ze strany příjemce
+         došlo. Pokud Řídicí orgán potvrdí finanční opravu, nebo upraví výši této finanční
+         opravy v návaznosti na případná vlastní či jiná zjištění, poskytovatel nevyplatí
+         příjemci touto finanční opravou dotčenou částku poskytovaných finančních
+         prostředků. O provedení těchto sankčních opatření poskytovatel bezodkladně
+         příjemce písemně informuje. Proti provedeným sankčním opatřením může
+         příjemce podat poskytovateli námitky ve lhůtě 15 dnů od doručení písemného
+         oznámení o sankčních opatřeních, není-li poskytovatelem v oznámení stanoveno
+         jinak. Poskytovatel si vyžádá k podaným námitkám příjemce stanovisko Řídicího
+         orgánu. Na základě stanoviska Řídicího orgánu k podaným námitkám rozhoduje
+         o podaných námitkách příjemce a o oprávněnosti provedených sankčních opatření
+         ředitel SFDI. Proti rozhodnutí o námitkách se nelze odvolat. O provedených
+         sankčních opatřeních a o rozhodnutí o námitkách poskytovatel následně bez
+         zbytečného odkladu písemně informuje Řídicí orgán a příslušný finanční úřad.
+
+
+                                         Článek 11
+                                      Ostatní ujednání
+
+
+11.1.    Finanční prostředky poskytované podle této Smlouvy mají ve smyslu zákona
+         č. 586/1992 Sb., o dani z příjmu, ve znění pozdějších předpisů, charakter dotace
+         a o jejich výši se pro účely odpisů snižuje u Projektu vstupní cena hmotného
+         majetku, k jehož pořízení byly tyto finanční prostředky použity.
+
+
+                                         Článek 12
+                                     Závěrečná ujednání
+
+
+12.1.    Tato Smlouva nabývá platnosti dnem jejího podpisu poslední smluvní stranou
+         a účinnosti dnem jejího zveřejnění prostřednictvím registru smluv. Smlouva je
+         uzavírána na celou dobu realizace a finančního vypořádání Projektu. Tím nejsou
+         dotčena ustanovení Smlouvy, která svou úpravou přesahují uvedený časový
+         rámec.
+
+12.2.    Smlouva má přílohy.
+
+         Příloha č. 1: Schvalovací protokol
+
+         Příloha č. 2: Specifikace
+
+12.3.    Veškeré změny a doplňky této Smlouvy mohou být činěny formou číslovaných
+         písemných dodatků ke Smlouvě, a nabývají účinnosti datem zveřejnění dodatku
+         prostřednictvím registru smluv.
+
+12.4.    Práva a povinnosti touto Smlouvou neupravené se řídí ustanoveními občanského
+         zákoníku a dalšími platnými právními předpisy ČR.
+
+
+
+
+                                                                                     26/28
+
+
+                                                                                       Strana 31 / 39
+12.5.    Smluvní strany prohlašují, že tato Smlouva byla sepsána na základě jejich
+         svobodné, vážné, omylu prosté a pravé vůle a že se řádně seznámily s textem
+         této Smlouvy a neshledávají v něm žádných vad. Na důkaz toho připojují své
+         podpisy pod text této Smlouvy.
+
+12.6.    Obě smluvní strany se zavazují neprodleně informovat druhou stranu o všech
+         závažných skutečnostech, které by zakládaly jakoukoliv změnu tohoto smluvního
+         vztahu.
+
+12.7.    Ve věcech finančního vypořádání prostředků, které byly na základě této Smlouvy
+         příjemci poskytnuty, jedná za příjemce osoba: Mgr. Vladimír Petlach, jejíž
+         kontaktní e-mail je: petlach.vladimir@brno.cz
+
+         Příjemce je oprávněn změnit tuto osobu nebo její kontaktní e-mail, bez nutnosti
+         uzavírání dodatku k této Smlouvě, a to s účinností dnem následujícím po dni
+         prokazatelného doručení oznámení o této změně poskytovateli.
+
+12.8.    Smluvní strany výslovně prohlašují, že obsah Smlouvy není předmětem utajení
+         a že souhlasí se zveřejněním Smlouvy a jejích případných dodatků na sfdi.gov.cz
+         bez stanovení dalších podmínek. Poskytovatel zajistí zveřejnění Smlouvy a jejich
+         dodatků prostřednictvím registru smluv v souladu se zákonem o registru smluv.
+
+12.9.    Uzavření této Rámcové smlouvy bylo v souladu se zákonem č. 128/2000 Sb.,
+         o obcích (obecní zřízení), ve znění pozdějších předpisů, schváleno Radou …………..
+         usnesením č. ………….. ze dne …………...
+
+12.10.   Smluvní strany shodně konstatují, že v souvislosti s uzavřením této Smlouvy a na
+         jejím základě si smluvní strany vzájemně předávají osobní údaje kontaktních osob
+         nebo jiných osob, které se podílejí nebo budou podílet na plnění této Smlouvy, s
+         uvedením jejich osobních údajů: jméno, příjmení, titul, funkce, telefonický a e-
+         mailový kontakt, u kterých právním důvodem pro jejich zpracování smluvními
+         stranami, jako správci těchto osobních údajů, je jejich oprávněný zájem na splnění
+         této Smlouvy, na kterém se v mezích své kompetence podílejí subjekty údajů. V
+         souvislosti s tím se každá smluvní strana zavazuje v rámci svých povinností, jako
+         správce předaných osobních údajů, zajistit, aby subjekty těchto údajů byly při
+         poskytnutí osobních údajů informovány dle článku 13 Nařízení Evropského
+         parlamentu a Rady (EU) č. 2016/679 ze dne 27. dubna 2016 o ochraně fyzických
+         osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů
+         a o zrušení směrnice 95/46/ES (obecné nařízení o ochraně osobních údajů) o
+         zpracování poskytnutých osobních údajů pro účel plnění této Smlouvy, a že toto
+         zpracování je v souladu s úpravou dle článku 6 odst. 1 písm. f) uvedeného nařízení
+         a se zákonem č. 110/2019 Sb., o zpracování osobních údajů, a dále, aby subjekty
+         údajů byly informovány o svých právech v rozsahu, jak pro ně vyplývají z
+         uvedeného nařízení a z citovaného zákona.
+
+
+
+
+                                                                                      27/28
+
+
+                                                                                        Strana 32 / 39
+12.11.   Smlouva je uzavřena elektronicky. Po podepsání Smlouvy oběma smluvními
+         stranami obdrží podepsanou Smlouvu také Řídicí orgán.
+
+
+
+
+V Praze dne                              V Brně dne
+
+
+
+
+…………………………………………                         …………………………………………
+Ing. Zbyněk Hořelica                     JUDr. Markéta Vaňková
+ředitel                                  primátorka
+Státní fond dopravní infrastruktury      Statutární město Brno
+
+
+
+
+                                                                          28/28
+
+
+                                                                            Strana 33 / 39
+                                                                                                                                                              Ministerstvo
+                                                  Spolufinancováno                                                                                            dopravy
+
+                                                  Evropskou                                        unií
+
+
+
+                              SCHV                      ALOV                          ACÍ PROTOKOL
+                                                                    Č.J.:         MD-11073/2024-430/3
+
+
+
+
+Řídicí        orgán Programu                Doprava           2021-2027             schvaluje         podporu          pro níže uvedený                  projekt:
+
+
+
+  Název         projektu:                                                                                Rozvoj          ITS v Brně,             3. etapa
+
+  Registrační              číslo     projektu:                                                           CZ.04.01.02/06/22_007/0000126
+
+  Žadatel:                                                                                               Statutární            město         Brno
+
+  Opatření:                                                                                              06 - ITS - dopravní                       telematika
+
+  Příspěvek               z fondu:                                                                       Fond        soudržnosti
+
+  Celkové           způsobilé          výdaje         (max.):                                            217 647 058,83                 Kě
+
+  Paušálnf          procentní          sazba čistých              příjmů      (flat rate):               O%
+
+  Celkové           způsobilé          výdaje         po zohledněnf               paušální
+                                                                                                         217 647 058,83                 Kě
+  procentnf           sazby čistých            příjmů:
+
+  Míra        podpory          EU z celkových                způsobilých             výdajů
+  po zohlednění                paušální       procentní            sazby čistých                         85 %
+  příjmů         (Mfra        spolufinancování):
+
+  Míra        podpoiy          EU z celkových                způsobilých             výdajů':            85 %
+
+  Příspěvek           Unie         (max.)2:                                                              185 000 000,01                 Kě
+
+  Konečné            datum zpťisobilosti                 výdajů:                                         31. 12. 2026
+
+
+
+Tímto         Schvalovacím               protokolem               je vydáno         pověření          Odboru         fondů          EU RO Prograi'nu                Doprava           2021-
+2027 k vystavení                   podrobné       Specifikace               projektu       k tomuto          Schvalovacímu                 protokolu         a zároveň         pověřerrí
+k řízení        změn        podrobné          Specifikace             projektu.
+
+
+
+
+' ,,Míra podpory     EU z celkových     způsobilých     výdajů"    je vypočíena    na základě vzorce ( l-,,flaí   raíe=) " ,,Mira   spolufinancováni".    Výpočeí   skuíečné   výše
+  Příspěvku    Unie v žádosíech      o plaíbu probihá   automaticky     v IS MS202 l+. Mira spolufinancování           je určena    v souladu s článkem    112 0becného    nařizei
+
+2 Výpočet     Příspěvku     Unie (max ) probďhá automa6cky         v IS MS202 I+.
+
+
+
+
+                                                                                                                                                                                              Strana 34 / 39
+PROGRAM DOPRAVA 2021-                   2027                                                                      MD-11073/2024-430/3
+
+
+
+
+Podmínky        schválení:
+
+
+
+           1)   Uzavření          rámcové        smlouvy       o    financování        projektu        se   Státnfm   fondein   dopravní
+                infrastruktury;
+
+
+           2)   Dodrženď     stálosti     operací   podle Nařízení         Ewopského         parlamentu      a Rady (E'[J) č. 2021/1060,
+                čl. 65 odst. 1.;
+
+
+
+           3)   Dodržování         příslušných      právnfch       a i'netodickýcli    předpisů;
+
+
+
+
+                    2 9 -05- 2026
+V Praze dne
+
+
+
+                                                                                      Ivan     Bednárik,       MBA
+
+                                                                                             ministr    dopmsry
+
+
+
+
+                                                               Stránka      2 z 2
+
+
+
+
+                                                                                                                                           Strana 35 / 39
+                      Doložka z automatizované konverze dokumentu do elektronické podoby – z moci úřední
+Dokument schvalovací protokol vznikl převedením listinného dokumentu do elektronického dokumentu pod pořadovým číslem 15259798-000-260529125701.
+Vzniklý dokument obsahem odpovídá vstupnímu dokumentu. Počet stran dokumentu: 2
+
+Vstup neobsahoval viditelný prvek, který nelze plně přenést na výstup.
+
+Konverzi provedl subjekt: Ministerstvo dopravy, IČ: 66003008
+
+Datum vyhotovení: 29.05.2026
+
+
+Poznámka:
+
+Konverzí dokumentu se nepotvrzuje správnost a pravdivost údajů obsažených v dokumentu a
+jejich soulad s právními předpisy. Kontrolu doložky lze provést v centrální evidenci doložek
+na adrese https://www.czechpoint.gov.cz/overovacidolozky .
+
+
+
+
+                                                                                                 15259798-000-260529125701
+
+
+
+
+                                                                                                                             Elektronická pečeť - 29.5.2026
+                                                                                                                             Certifikát :
+                                                                                                                             Jméno : Česká republika -
+                                                                                                                             Ministerstvo dopravy
+                                                                                                                                    Strana 36 / 39
+Specifikace ke Schvalovacímu protokolu č.j. MD-11073/2024-430/3
+
+
+
+      1) IDENTIFIKACE PROJEKTU
+
+    Název projektu:                           Rozvoj ITS v Brně, 3. etapa
+    Registrační číslo projektu:               CZ.04.01.02/06/22_007/0000126
+    Žadatel:                                  Statutární město Brno
+    Opatření:                                 06 – ITS – dopravní telematika
+
+
+      2) POPIS PROJEKTU
+
+    Popis projektu:                          Předmětem projektu je rekonstrukce 28 světelných
+                                             signalizačních zařízení na území města Brna vč. řešení
+                                             kamerového dohledu a preference MHD a IZS. Projektem
+                                             dojde k úpravě dopravního řešení dotčených křižovatek,
+                                             rozvoji dynamického řízení dopravy a funkcí preference
+                                             vozidel MHD a IZS při průjezdu křižovatkami řízenými
+                                             světelným signalizačním zařízením.
+
+                                             Součástí rekonstrukce a výstavby SSZ je implementace
+                                             kooperativních inteligentních dopravních systémů (C-ITS).
+                                             V investičním záměru „Rozvoj dopravní telematiky v letech
+                                             2021-2027“ je zařazeno více než 120 SSZ k rekonstrukci či
+                                             nové výstavbě, v projektu je tedy řešena dílčí etapa
+                                             realizace celého investičního záměru.
+
+    Cíle projektu:                           Cílem projektu „Rozvoj ITS v Brně, 3. etapa“ je zvýšení
+                                             kvality řízení dopravního provozu, zvýšení bezpečnosti,
+                                             zvýšení efektivity dopravy pro cestující jak individuální, tak
+                                             hromadnou dopravou na území města Brna. Dále zvýšení
+                                             kvality sběru informací o stavu dopravy prostřednictvím
+                                             dohledového kamerového systému v důležitých dopravních
+                                             uzlech pro potřeby řízení dopravy a poskytování těchto
+                                             informací veřejnosti.
+
+
+
+
+      3) KURZ PRO URČENÍ VELIKOSTI PROJEKTU
+
+    Kurz pro určení velikosti       24.382 Kč / 1 EUR1
+    projektu ve vztahu
+    k limitům pro povinnosti
+    příjemce v oblasti publicity:
+
+
+
+1
+  Měsíční účetní kurz Evropské komise pro květen 2026 (https://commission.europa.eu/funding-
+tenders/procedures-guidelines-tenders/information-contractors-and-beneficiaries/exchange-rate-inforeuro_cs)
+
+
+
+                                                                                                         1/3
+
+                                                                                                              Strana 37 / 39
+    4) PLÁNOVANÝ ROZPOČET PROJEKTU2
+
+
+
+
+    5) PLÁNOVANÝ HARMONOGRAM PRACÍ3
+
+
+
+
+2
+  Pokud nedochází ke zvýšení celkových způsobilých nákladů nad částku uvedenou ve Schvalovacím protokolu,
+lze v plánovaném rozpočtu projektu uvedené částky v budoucnu aktualizovat bez vydání změnové specifikace
+pouze v MS2021+ na základě schválené žádosti o změnu předložené příjemcem prostřednictvím ISKP21+.
+3
+  V harmonogramu uvedená data odpovídají údajům ze schválené žádosti o podporu. Data v harmonogramu
+mohou být v budoucnu aktualizována bez vydání změnové specifikace pouze v MS2021+ na základě schválené
+žádosti o změnu předložené příjemcem prostřednictvím ISKP21+.
+
+
+
+                                                                                                    2/3
+
+                                                                                                     Strana 38 / 39
+   6) PLÁNOVANÉ HODNOTY MONITOROVACÍCH UKAZATELŮ
+
+                                Měrná      Výchozí       Cílová                 Typ       Povinnost
+         Název indikátoru
+                               jednotka    hodnota      hodnota              indikátoru   k naplnění
+ Počet zařízení a služeb ITS       ks       0,000         1,00                 výstup        ano
+ Úspora času na městských      Osobodny/
+                                            0,000       2893,49               výsledek       ne
+ komunikacích                     rok
+
+
+
+
+                                                    Ing. Mgr. Marek Pastucha
+V Praze dne _______________                              Digitální podpis:
+                                                       03.06.2026 17:05
+                                                _________________________
+                                                   Ing. Mgr. Marek Pastucha
+                                                    ředitel Odboru fondů EU
+
+
+
+
+                                                                                             3/3
+
+                                                                                              Strana 39 / 39
+

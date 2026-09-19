@@ -1,0 +1,174 @@
+Rada města Brna
+
+Z9/20. zasedání Zastupitelstva města Brna
+konané dne 15.10.2024
+
+
+
+ 23. Návrh rozpočtového opatření – přesun běžných a kapitálových
+  výdajů rozpočtu 4. úseku v souvislosti s nákupem nástroje pro
+     sledování stavu systémů MMB - kybernetická bezpečnost
+
+Anotace
+4. úsek MMB předkládá orgánům města návrh rozpočtového opatření, jehož předmětem je přesun
+běžných a kapitálových výdajů v souvislosti s nákupem nástroje pro sledování stavu systémů MMB.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   rozpočtové opatření dle tabulky, která tvoří přílohu č. ...tohoto zápisu, v souvislosti s
+                               nákupem nástroje pro sledování stavu systémů MMB - kybernetická bezpečnost.
+
+
+Stanoviska
+
+Materiál byl projednán na schůzi Rady města Brna R9/100 dne 2.10.2024.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  4.10.2024 v 09:46
+  Garance správnosti, zákonnosti materiálu
+
+
+
+
+Sestava vytvořena 4.10.2024 v 09:46                            1/1                               Vygenerováno programem eMMB
+
+
+                                                                                                                 Strana 1 / 4
+                               Obsah materiálu
+Návrh usnesení                                        1-1
+Obsah materiálu                                       2-2
+Důvodová zpráva                                       3-3
+Příloha k usnesení (RO_ZMB_10_2024_KKB_25_9_24.pdf)   4-4
+
+
+
+
+                                                       Strana 2 / 4
+                                                        Důvodová zpráva
+V roce 2023 schválila Rada města Brna dokument Informační strategie města Brna na období
+roku 2023-2027. Tento dokument obsahuje záměry a klíčové cíle, které se město zavázalo
+plnit postupně v tomto časovém horizontu v oblasti provozní informatiky a také kybernetické
+bezpečnosti.
+Jedním z těchto cílů, konkrétně součástí strategického cíle 4.2.6 – Zavedení dohledových a
+reaktivních technologií, je cíl vytvořit a uvést do provozu centrální systém automatizované
+detekce a interpretace událostí z různých zdrojů za účelem vyhledávání neobvyklých stavů.
+Tyto systémy jsou obvyklé v průmyslu i veřejné správě a mají různé podoby, od systémů
+SCADA, které sledují výhradně průmyslové instalace, přes bezpečnostní systémy modelu tzv.
+SIEM, až po komplexní dozorové systémy, schopné sledovat služby a složitá propojená
+prostředí. Obvyklá cena těchto systémů se pohybuje řádově v nižších milionech korun.
+Navrhovaný převod prostředků ve výši 5 500 tis. Kč, mezi položkou 5168 Zpracování dat a
+služby související s informačními a komunikačními technologiemi v rozpočtu 4. úseku a
+položkou 6111 Programové vybavení, ORG 2259 Kybernetická bezpečnost v rozpočtu Odboru
+městské informatiky, je výsledkem předběžných tržních konzultací, které proběhly s cílem
+zjistit obvyklou tržní cenu pro systémy tohoto typu.
+Původní záměr při tvorbě rozpočtu byl nekupovat systém přímo jako investici do majetku
+města, ale zajistit tento strategický cíl alespoň dočasně službou. Jelikož se ovšem změnily
+podmínky a očekává se také významná změna legislativního prostředí, dočasné zajištění
+službou se v současnosti jeví jako ekonomicky méně výhodná varianta, jelikož městu v příštím
+roce vznikne povinnost takový systém mít trvale a provozovat jej. Z toho důvodu žádáme o
+výše zmíněný převod, kterým se prostředky z položky běžných výdajů rozpočtu přesunou do
+kapitálových výdajů, čímž bude umožněna realizace nákupu systému, odpovídajícího
+rozsahem a povahou komplexitě městského prostředí a zároveň plnícího předpokládané
+dopady legislativy, která bude v příštím roce platit v rámci implementace směrnice Evropského
+parlamentu a Rady (EU) 2022/2555 ze dne 14. prosince 2022 o opatřeních k zajištění vysoké
+společné úrovně kybernetické bezpečnosti v Unii a o změně nařízení (EU) č. 910/2014 a
+směrnice (EU) 2018/1972 a o zrušení směrnice (EU) 2016/1148 (směrnice NIS 2).
+
+
+Materiál nepodléhal projednání v komisích RMB.
+Materiál bude projednán na 19. Finančním výboru ZMB.
+Materiál byl projednán na schůzi Rady města Brna č. R9/100 dne 2. 10. 2024.
+Materiál byl schválen jednomyslně 10 členy.
+                                                                                                               Petr Bořecký
+
+
+
+
+                                                                                                                                                  Matonohová
+                                                             Podivinská
+
+
+
+
+                                                                                                                                     Kratochvíl
+                                                                                        Ing. arch.
+  Vaňková
+
+
+
+
+                                                                                                     Bořecký
+                           Chvátal
+
+
+
+
+                                             Kerndl
+                           RNDr.
+                   Černý
+  JUDr.
+
+
+
+
+                                     Ph.D.
+                                     JUDr.
+
+
+
+
+                                                                                                                                                  JUDr.
+
+
+                                                                                                                                                               JUDr.
+                                                                                Aberl
+
+
+
+
+                                                                                                                                                                       Oliva
+            Mgr.
+
+
+
+
+                                                      Ing.
+
+
+
+
+                                                                                                                              Ing.
+                                                                          Bc.
+
+
+
+
+  pro       pro               pro        -----           pro                pro         pro                    pro             pro                 pro             pro
+
+
+
+
+                                                                                                                                                                         Strana 3 / 4
+                                                                   Rozpočtové opatření
+                                                                                                                                                             v tis. Kč
+Běžné a kapitálové výdaje - přesun
+ ORJ      §      pol. ÚZ ORG                                            Věcná náplň                                   Upr. rozpočet     Úprava          Rozpočet
+                                                                                                                      k 25. 9. 2024   rozpočtu + -      po změně
+ 7900    6171    5168         7790 Zpracování dat a služby související s informačními a komunikačními technologiemi          17 335          -5 500            11 835
+ 5300    6171    6111         2259 Kybernetická bezpečnost                                                                   10 294          5 500             15 794
+
+
+
+
+                                                                                                                                                      Strana 4 / 4
+

@@ -1,0 +1,318 @@
+Rada města Brna
+
+Z9/14. zasedání Zastupitelstva města Brna
+konané dne 30.1.2024
+
+
+
+       16. Koordinace a synchronizace projektů informačních a
+     komunikačních technologií řízených osob - návrh předchozího
+             souhlasu s udělením koncernového pokynu
+
+Anotace
+Návrh koncernového pokynu "Koordinace a synchronizace projektů informačních a komunikačních
+technologií řízených osob" v rámci kterého je plněn koncernový zájem na efektivní využití výhod, jež
+příslušnost ke koncernu jeho členům přináší a potřebě koordinovaného řízení Koncernu statutárního
+města Brna v oblasti ICT.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. vyslovuje                   předchozí souhlas s udělením Koncernového pokynu "Koordinace a synchronizace
+                               projektů informačních a komunikačních technologií řízených osob", který tvoří
+                               přílohu č. ..... tohoto zápisu
+
+
+Stanoviska
+
+Materiál byl předložen Radě města Brna na její R9/068. schůzi konanou dne 24. 1. 2024
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Bc. Tomáš Aberl
+  člen RMB - Člen Rady města Brna - předkladatel/ka
+  23.1.2024 v 13:00
+  Garance správnosti, zákonnosti materiálu
+
+
+
+
+Sestava vytvořena 23.1.2024 v 13:00                         1/1                           Vygenerováno programem eMMB
+
+
+                                                                                                          Strana 1 / 8
+                                  Obsah materiálu
+Návrh usnesení                                      1-1
+Obsah materiálu                                     2-2
+Důvodová zpráva                                     3-3
+Příloha (Výpis ze zápisu Koncernového výboru.pdf)   4-5
+Příloha k usnesení (Koncernový pokyn_ICT.pdf)      6-8
+
+
+
+
+                                                     Strana 2 / 8
+                                          Důvodová zpráva
+
+Je předkládán návrh koncernového pokynu "Koordinace a synchronizace projektů informačních
+a komunikačních technologií řízených osob", jehož záměrem je sjednotit IT v rámci obchodních
+společností Koncernu statutárního města Brna (dále jen „Koncern SMB“).
+Tento koncernový pokyn se vztahuje na záměry zahájení poskytování nebo podstatné změny
+v poskytování plnění v oblasti informačních a komunikačních technologií ze strany řízené osoby vůči
+SMB (vč. Jeho městských částí), jiné řízené osobě nebo právnické osobě zřízené nebo založené SMB
+za podmínek uvedených v návrhu předkládaného koncernového pokynu.
+Dne 15. 12. 2023 se konalo zasedání Koncernového výboru č. 51, kde bylo přijato následující usnesení:
+Koncernový výbor
+I bere na vědomí
+    a) návrh koncernového pokynu „Koordinace a synchronizace projektů Informačních
+        a komunikačních technologií řízených osob“ ve znění dle přílohy 1 tohoto usnesení (dále též jen
+        „Koncernový pokyn“)
+
+    b) záměr pověření Odboru městské informatiky Magistrátu města Brna prováděním koordinace a
+       synchronizace projektů Informačních a komunikačních technologií řízených osob řídící osobou
+       dle Koncernového pokynu
+
+II doporučuje řídící osobě
+     a) doplnění návrhu Koncernového pokynu o konkrétní pravidla komunikace mezi řídící osobou
+        a řízenými osobami při jeho výkonu, spočívající v přesném vymezení obsahu Projektů ICT, jichž
+        se týkají Povinně poskytované informace ve smyslu Koncernového pokynu, a to zejména
+
+        i stanovení finančního limitu, od kterého bude Projekt ICT podléhat postupům dle
+        Koncernového pokynu
+
+        ii stanovení postupu vypořádání případných námitek řízených osob k podmínkám stanoveným
+        řídcí osobou při postupu dle Koncernového pokynu
+
+    b) zajištění pověření Odboru městské informatiky Magistrátu města Brna prováděním koordinace
+       a synchronizace projektů Informačních a komunikačních technologií řízených osob řídící osobou
+       dle Koncernového pokynu dle pravidel zákona o obcích
+
+    c) navrhnout úpravy Deklarace koncernu za účelem naplnění záměru vyjádřeného Koncernovým
+       pokynem
+
+III souhlasí
+     a) s prováděním koordinace a synchronizace projektů Informačních a komunikačních technologií
+         řízených osob řídící osobou
+
+    b) za podmínky naplnění doporučení dle tohoto usnesení s předložením doplněného
+       Koncernového pokynu orgánům řídící osoby k projednání
+
+S ohledem na to, že se koncernový pokyn týká všech řízených osob v Koncernu SMB, je udělován Radou
+města Brna v působnosti řídící osoby Koncernu SMB koncernový pokyn po předchozím souhlasu
+s udělením koncernového pokynu Zastupitelstvem města Brna ve smyslu čl. 4.10 Deklarace Koncernu
+statutárního města Brna.
+Materiál nepodléhá projednání v komisích Rady města Brna.
+Materiál byl předložen k projednání Radě města Brna na schůzi konané dne 24. 1. 2024.
+
+
+
+
+                                                                                                   Strana 3 / 8
+Strana 4 / 8
+Strana 5 / 8
+                                          KONCERNOVÝ POKYN
+                                               č. /2024
+                            udělený Radou města Brna v působnosti řídící            Koncern SMB
+                               osoby v rámci Koncernu statutárního města
+                            Brna v souladu s Deklarací Koncernu statutárního
+                                              města Brna
+
+
+       KOORDINACE A SYNCHRONIZACE PROJEKTŮ INFORMAČNÍCH A KOMUNIKAČNÍCH
+                          TECHNOLOGIÍ ŘÍZENÝCH OSOB
+
+ Dotčené řízené osoby:
+    • ARENA BRNO, a.s., IČO 091 33 267, se sídlem Výstaviště 405/1, Pisárky, 603 00 Brno
+    • Brněnské komunikace a.s., IČO 607 33 098, se sídlem Renneská třída 787/1a, Štýřice, 639
+        00 Brno
+    • CD CENTRUM COMS, a.s., IČO 073 79 161, se sídlem Panská 361/13, Brno-město, 602 00
+        Brno
+    • Dopravní podnik města Brna, a.s., IČO 255 08 881, se sídlem Hlinky 64/151, Pisárky, 603 00
+        Brno
+    • Lesy města Brna, a.s., IČO 607 13 356, se sídlem Křížkovského 247/9, 664 34 Kuřim
+    • Pohřební a hřbitovní služby města Brna, a.s., IČO 607 13 330, se sídlem Koliště 1909/7,
+        Černá Pole, 602 00 Brno
+    • SAKO Brno, a.s., IČO 607 13 470, se sídlem Jedovnická 4247/2, Židenice, 628 00 Brno
+    • STAREZ - SPORT, a.s., IČO 269 32 211, se sídlem Křídlovická 911/34, Staré Brno, 603 00
+        Brno
+    • Teplárny Brno, a.s., IČO 463 47 534, se sídlem Okružní 828/25, Lesná, 638 00 Brno
+    • Technické sítě Brno, akciová společnost, IČO 255 12 285, se sídlem Barvířská 822/5,
+        Zábrdovice, 602 00 Brno
+    • Veletrhy Brno, a.s., IČO 255 82 518, se sídlem Výstaviště 405/1, Pisárky, 603 00 Brno
+    • SAKO Brno SOLAR a.s., IČO 141 03 320, se sídlem Jedovnická 4247/2, Židenice, 628 00
+        Brno
+
+      Schváleno         Předchozí souhlas         Schváleno                     Přílohy
+     Koncernovým          ZMB vysloven         usnesením RMB
+     výborem dne
+
+
+
+
+1.   Předmětem tohoto koncernového pokynu je koordinace a synchronizace vybraných záměrů
+     v oblasti informačních a komunikačních technologií (dále jen „ICT“), v rámci Koncernu statutárního
+     města Brna (dále jen „SMB“). Tímto koncernovým pokynem je plněn koncernový zájem, vyjádřený
+     v čl. 1.1. Deklarace Koncernu SMB, a to zájem na efektivní využití výhod, jež příslušnost ke
+     koncernu jeho členům přináší a potřebě koordinovaného řízení Koncernu SMB v oblasti ICT.
+
+2.   Tento koncernový pokyn se vztahuje na záměry zahájení poskytování nebo podstatné změny
+     v poskytování plnění v oblasti ICT ze strany řízené osoby vůči
+
+       a.    SMB (vč. jeho městských částí),
+
+       b.    jiné řízené osobě nebo
+
+       c.    právnické osobě zřízené nebo založené SMB,
+
+     pokud
+
+       a.    hodnota plnění, které je předmětem záměru, přesahuje za jeden kalendářní rok hodnotu
+             2 000 000 Kč bez DPH nebo
+
+       b.    plnění vyžaduje podstatný zásah do stávajícího ICT prostředí SMB, řízené osoby nebo
+
+
+
+
+                                                                                                   Strana 6 / 8
+           právnické osoby zřízené nebo založené SMB
+
+     (dále jen „Záměry ICT“).
+
+3.   Rada města Brna usnesením č. …/2023 ze dne … 2023 zřídila Řídící orgán ICT jako poradní orgán
+     Odboru městské informatiky Magistrátu města Brna (dále jen „OMI“). Současně tímto usnesením
+     Rada města Brna svěřila pravomoc OMI k vydávání metodických doporučení řízeným osobám
+     Koncernu SMB k Záměrům ICT.
+
+4.   Řízené osoby jsou povinny informovat Řídící orgán ICT o Záměrech ICT písemně na adresu
+     ICT@brno.cz nejméně 25 pracovních dnů před plánovaným zahájením realizace Záměru ICT
+     řízenou osobou.
+
+
+     Pokud kvůli hrozícímu nebezpečí z prodlení nelze zajistit informování v této lhůtě, řízená osoba
+     informuje Řídící orgán ICT o Záměrech ICT bez zbytečného odkladu, nejpozději však do
+     5 pracovních dnů od zahájení realizace Záměru ICT.
+
+     Řízená osoba poskytne Řídícímu orgánu ICT ve vztahu k Záměru ICT:
+
+      a.   popis Záměru ICT;
+
+      b.   předpokládané náklady Záměru ICT;
+
+      c.   předpokládané přínosy Záměru ICT;
+
+      d.   předpokládané dopady Záměru ICT do stávajícího ICT prostředí SMB, řízených osoba
+           a právnických osob zřízených nebo založených SMB;
+
+      e.   předpokládané dopady Záměru ICT na personální kapacity řízené osoby informující
+           o Záměru ICT, smlouvy uzavřené mezi řízenou osobou informující o Záměru ICT a dalšími
+           řízenými osobami, SMB a právnickými osobami zřízenými nebo založenými SMB;
+
+      f.   způsob zajištění kybernetické bezpečnosti v rámci Záměru ICT;
+
+      g.   kontaktní údaje osoby, která může Řídícímu orgánu ICT poskytnout k Záměru ICT další
+           informace.
+
+5.   Pokud má Řídící orgán ICT k Záměru ICT výhrady, do 15 pracovních dnů od poskytnutí informací
+     podle odstavce 4 tohoto koncernového pokynu vydá usnesení, kterým OMI navrhne vydání
+     metodického doporučení OMI s obsahem podle odst. 6 tohoto koncernového pokynu.
+
+6.   OMI je oprávněn na základě návrhu Řídícího orgánu ICT k Záměru ICT do 10 pracovních dnů od
+     doručení usnesení Řídícího orgánu ICT podle odst. 5 tohoto koncernového pokynu vydat
+     metodické doporučení OMI. Metodické doporučení OMI obsahuje doporučené podmínky či
+     nesouhlas s realizací Záměru ICT, včetně popisu vyhodnocení Záměru ICT dle odst. 9 tohoto
+     koncernového pokynu. Přílohou metodického doporučení OMI je popis Záměru ICT dle údajů od
+     řízené osoby dle odst. 4 tohoto koncernového pokynu a usnesení Řídícího orgánu ICT dle odst. 5
+     tohoto koncernového pokynu.
+
+7.   Řízená osoba je povinna vyhodnotit metodické doporučení OMI a postupovat dle něj v případě, že
+     je to v souladu s péčí řádného hospodáře řízené osoby. V opačném případě je řízená osoba
+     povinna předložit metodické doporučení OMI Radě města Brna k potvrzení formou koncernového
+     pokynu.
+
+8.   Řízená osoba může zahájit realizaci Záměru ICT pouze:
+
+      a.   v souladu s popisem Záměru ICT odst. 4 písm. a) pokud Řídící orgán ICT nebo OMI řízenou
+           osobu vyrozumí, že se Záměrem ICT souhlasí,
+
+      b.   v souladu s popisem Záměru ICT odst. 4 písm. a), pokud neobdrží metodické doporučení
+           OMI ve lhůtě 25 pracovních dnů od doručení informace o Záměru ICT dle odst. 4 tohoto
+
+
+
+
+                                                                                                 Strana 7 / 8
+           koncernového pokynu, nebo pokud bylo metodické doporučení OMI předloženo řízenou
+           osobou Radě města Brna podle odst. 7 tohoto koncernového pokynu a koncernový pokyn
+           nebyl vydán ve lhůtě do 30 pracovních dnů od odevzdání materiálu s návrhem koncernového
+           pokynu řízenou osobou k projednání Radě města Brna,
+
+      c.   v souladu s metodickým doporučením OMI a v otázkách neřešených metodickým
+           doporučením OMI v souladu s popisem Záměru ICT odst. 4 písm. a), pokud řízená osoba
+           nepředložila metodické doporučení OMI Radě města Brna podle odst. 7 tohoto
+           koncernového pokynu,
+
+      d.   v souladu s koncernovým pokynem podle odst. 7 tohoto koncernového pokynu a v otázkách
+           neřešených koncernovým pokynem podle odst. 7 tohoto koncernového pokynu v souladu
+           s popisem Záměru ICT odst. 4 písm. a), nebo
+
+      e.   v případě hrozícího nebezpečí z prodlení; pokud je metodické doporučení OMI vydáno
+           dodatečně, je řízená osoba oprávněna pokračovat realizaci Záměru ICT pouze podle písm.
+           c) nebo d) tohoto odstavce.
+
+     Řízená osoba je oprávněna od realizace Záměru ICT kdykoliv upustit, je-li to v jejím zájmu. Pokud
+     tak řízená osoba učiní poté, co informovala Řídící orgán ICT postupem dle odst. 4 tohoto
+     koncernového pokynu, je řízená osoba povinna obdobně informovat Řídící orgán ICT o upuštění
+     od realizace Záměru ICT, a to do 5 pracovních dnů od rozhodnutí o upuštění od realizace.
+
+9.   Záměr ICT musí být pro účely tohoto koncernového pokynu posuzován podle
+
+      a.   Strategií SMB stanovujících program rozvoje obce dle § 84 odst. 2 písm. a) zákona
+           č. 128/2000 Sb., pokud se jich Záměr ICT dotýká či je jimi ovlivněn;
+
+      b.   Informační strategie SMB;
+
+      c.   zásad účelnosti, efektivnosti a hospodárnosti;
+
+      d.   dopadů Záměru do stávajícího ICT prostředí SMB, řízených osob nebo právnické osoby
+           zřízené nebo založené SMB;
+
+      e.   obsahu investičních plánů a jiných obdobných dokumentů řízených osob schválených Radou
+           města Brna;
+
+      f.   obsahu strategických dokumentů Koncernu SMB.
+
+10. Případná újma řízené osoby, vzniklá v důsledku koordinace a jednotného řízení Záměrů ICT
+    řízených osob, se nepředpokládá a v případě, že by hrozila či nastala, je její náhrada vyloučena,
+    pokud nebude řízená osoba postupovat dle odst. 8 písm. d. tohoto koncernového pokynu, resp.
+    následně dle koncernových pokynů vydaných na základě takového postupu.
+
+11. Všechna usnesení, metodická doporučení OMI a další akty vydané v souvislosti s koordinací
+    a synchronizací Záměrů ICT, bez ohledu na jejich název, se doručují dotčené řízené osobě, a to
+    ve lhůtě, která je určena pro jejich vydání.
+
+12. Tento pokyn nabývá platnosti dnem podpisu primátorkou města Brna. Ve vztahu k řízené osobě je
+    účinný dnem jeho doručení této řízené osobě.
+
+13. S ohledem na to, že se koncernový pokyn týká všech řízených osob v Koncernu SMB, řídící osoba
+    koncernový pokyn uděluje po předchozím souhlasu s udělením koncernového pokynu
+    Zastupitelstvem města Brna ve smyslu čl. 4.10 Deklarace Koncernu statutárního města Brna.
+
+
+V Brně dne
+
+
+                                                                       JUDr. Markéta Vaňková
+                                                                       primátorka města Brna
+
+
+
+
+                                                                                                  Strana 8 / 8
+

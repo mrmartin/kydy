@@ -1,0 +1,632 @@
+        Podrobný rozpis schváleného rozpočtu běžných výdajů města Brna na rok 2024 -
+                         jmenovitá náplň vybraných položek (v tis. Kč)
+ ORJ     §    Pol.                                           Účel                                           SR 2024
+1500 Odbor strategického rozvoje a spolupráce
+ 1500  3636 5169 FKP - MECOG                                                                                      100
+ 1500  3636 5169 FKP - Řízení ITI BMO5                                                                            100
+ 1500  3636 5169 TSB - zajištění integr. dostupnosti služeb Brno iD, DPMB Kontaktní centrum - poradenství       6 000
+ 1500  3636 5169 Veletrhy (URBIS, MIPIM)                                                                        4 600
+ 1500  3636 5169 Inzerce a ostatní                                                                              2 984
+ 1500  3636 5169 Tajemníkova inovační výzva                                                                     1 000
+            5169 Celkem                                                                                        14 784
+      3636 Celkem                                                                                              14 784
+1500 Celkem                                                                                                    14 784
+1600 Kancelář marketingu a cestovního ruchu
+ 1600 2143 5169 Veletrhy a akce CR - prezentace destinační značky                                               2 700
+ 1600 2143 5169 Press, fam tripy (organizované návštěvy novinářů a majitelů cest. kanceláří)                      300
+ 1600 2143 5169 Činnosti spojené s programem rozvoje cestovního ruchu                                           3 686
+            5169 Celkem                                                                                         6 686
+      2143 Celkem                                                                                               6 686
+ 1600 3636 5169 Komunikace projektů                                                                             3 500
+            5169 Celkem                                                                                         3 500
+      3636 Celkem                                                                                               3 500
+ 1600 3900 5169 Propagace, ostatní podklady                                                                     3 210
+ 1600 3900 5169 Inzerce, marketing městských projektů                                                           9 761
+ 1600 3900 5169 Tvorba uživatelských textů pro nový web města                                                     300
+            5169 Celkem                                                                                        13 271
+      3900 Celkem                                                                                              13 271
+1600 Celkem                                                                                                    23 457
+1700 Odbor rozpočtu a financování
+ 1700 6171 5169 Audit statutárního města Brna (MMB, MČ)                                                         2 460
+ 1700 6171 5169 Moody's, Standard & Poor's - poplatky za ratingy                                                3 740
+            5169 Celkem                                                                                         6 200
+      6171 Celkem                                                                                               6 200
+1700 Celkem                                                                                                     6 200
+3200 Odbor vnitřních věcí
+ 3200 3900 5169 Časopis Brněnský Metropolitan                                                                  10 180
+ 3200 3900 5169 Propagace, ostatní podklady                                                                        45
+ 3200 3900 5169 Rozhlasové vysílání magistrátního pořadu                                                          240
+ 3200 3900 5169 Zvýšení informovanosti o aktuálním dění ve městě                                                  140
+           5169 Celkem                                                                                         10 605
+     3900 Celkem                                                                                               10 605
+ 3200 6171 5169 Správa majetku (stěhování, doprava, orientace apod.)                                            5 548
+ 3200 6171 5169 Ostatní služby (inzerce, STK, fotopráce, prev.péče)                                             3 247
+ 3200 6171 5169 Příspěvek zaměstnavatele na stravování                                                         14 007
+ 3200 6171 5169 Sociální fond (rekreace, stravování a provoz chat)                                             24 577
+           5169 Celkem                                                                                         47 379
+ 3200 6171 5175 Reprefond představitelů města a vedení MMB                                                      2 021
+ 3200 6171 5175 Pracovní setkání zajišťované útvary MMB                                                            98
+ 3200 6171 5175 Oficiální akce města Brna - pohoštění                                                             448
+ 3200 6171 5175 Sociální fond (pohoštění)                                                                         220
+           5175 Celkem                                                                                          2 787
+ 3200 6171 5179 Poplatky včetně dálničních známek                                                               4 929
+ 3200 6171 5179 Sociální fond (členský příspěvek do spolku)                                                         1
+           5179 Celkem                                                                                          4 930
+
+
+                                                                                                                20
+       Podrobný rozpis schváleného rozpočtu běžných výdajů města Brna na rok 2024 -
+                        jmenovitá náplň vybraných položek (v tis. Kč)
+ ORJ     §    Pol.                                           Účel               SR 2024
+ 3200 6171 5194 Reprefond představitelů města a vedení MMB                            428
+ 3200 6171 5194 Oficiální akce města Brna - věcné dary                                134
+            5194 Celkem                                                               562
+ 3200 6171 5492 Ceny města Brna - peněžité dary                                       280
+ 3200 6171 5492 Reprefond primátora - peněžité dary                                    95
+            5492 Celkem                                                               375
+ 3200 6171 5499 Sociální fond (ošatné)                                              3 666
+ 3200 6171 5499 Ostatní příspěvky do mzdy                                             102
+ 3200 6171 5499 Sociální fond - příspěvky do mzdy                                   5 475
+            5499 Celkem                                                             9 243
+      6171 Celkem                                                                  65 276
+ 3200 6223 5169 Překlady a tlumočení - pro odbory MMB                               1 350
+ 3200 6223 5169 Překlady a tlumočení - pro ORF                                         50
+ 3200 6223 5169 Mezinárodní spolupráce                                                850
+            5169 Celkem                                                             2 250
+      6223 Celkem                                                                   2 250
+3200 Celkem                                                                        78 131
+3600 Odbor obrany
+ 3600 5212 5169 Realizace zákona o ochraně utajovaných informací                        20
+ 3600 5212 5169 Mimořádné události a krizové situace                                   120
+ 3600 5212 5169 Výdaje za revize a opravy elektrických zařízení v rámci VIS            300
+            5169 Celkem                                                                440
+      5212 Celkem                                                                      440
+ 3600 5213 5169 Mimořádné události a krizové situace                                   100
+            5169 Celkem                                                                100
+      5213 Celkem                                                                      100
+3600 Celkem                                                                            540
+3900 Archiv města Brna
+ 3900 6211 5169 Publikační činnost                                                      590
+ 3900 6211 5169 Budovy Kuřim, Černovice, Nová radnice - služby                          212
+ 3900 6211 5169 Fotopráce a digitalizace                                                349
+            5169 Celkem                                                               1 151
+      6211 Celkem                                                                     1 151
+3900 Celkem                                                                           1 151
+4100 Odbor územního plánování a rozvoje
+ 4100 3635 5169 Mapové podklady, planografické práce a ostatní služby                   500
+ 4100 3635 5169 Soutěže - inzerce, překlady a tlumočení, ubytování apod.                137
+ 4100 3635 5169 Komunikace s veřejností                                                 800
+            5169 Celkem                                                               1 437
+      3635 Celkem                                                                     1 437
+4100 Celkem                                                                           1 437
+4200 Odbor životního prostředí
+ 4200 2115 5169 Akční plán pro udržitelnou energii a klima SECAP Brno                  830
+           5169 Celkem                                                                 830
+     2115 Celkem                                                                       830
+ 4200 3632 5169 Exhumace a pohřbení válečných obětí                                     10
+ 4200 3632 5169 Dokumentace pro stavební opravy válečných a čestných hrobů              80
+ 4200 3632 5169 Hrobová zařízení v majetku města                                        20
+           5169 Celkem                                                                 110
+     3632 Celkem                                                                       110
+
+
+
+                                                                                      21
+       Podrobný rozpis schváleného rozpočtu běžných výdajů města Brna na rok 2024 -
+                        jmenovitá náplň vybraných položek (v tis. Kč)
+ ORJ     §     Pol.                                              Účel                                               SR 2024
+ 4200 3716 5169 Provoz systému městského imisního monitoringu                                                          2 650
+            5169 Celkem                                                                                                2 650
+      3716 Celkem                                                                                                      2 650
+ 4200 3719 5169 FKP - Aktualizace Akčního plánu pro udržitelnou energii a klima města Brna vč. emisní bilance CO2         60
+            5169 Celkem                                                                                                   60
+      3719 Celkem                                                                                                         60
+ 4200 3722 5169 Sběr a svoz KO vč. údržby nádob - SAKO Brno, a.s.                                                    181 408
+ 4200 3722 5169 Sběr a svoz bioodpadu - SAKO Brno, a.s.                                                               11 433
+ 4200 3722 5169 Sběr a svoz dřevěného odpadu - SAKO Brno, a.s.                                                         1 000
+            5169 Celkem                                                                                              193 841
+      3722 Celkem                                                                                                    193 841
+ 4200 3725 5169 Energetické využití KO - SAKO Brno, a.s.                                                              68 425
+ 4200 3725 5169 Provoz SSO, SD a NSKO                                                                                 90 310
+ 4200 3725 5169 Poplatek za komunální odpad - nákup služeb                                                                55
+ 4200 3725 5169 Materiálové využití bioodpadu - kompostování                                                           2 942
+            5169 Celkem                                                                                              161 732
+      3725 Celkem                                                                                                    161 732
+ 4200 3729 5169 Nelegální skládky nad 5 m³ a autovraky z volné přírody                                                 1 300
+            5169 Celkem                                                                                                1 300
+      3729 Celkem                                                                                                      1 300
+ 4200 3739 5169 Sanační zásahy při ekologických haváriích                                                                250
+            5169 Celkem                                                                                                  250
+      3739 Celkem                                                                                                        250
+ 4200 3741 5169 Ochrana fauny a flóry                                                                                    420
+            5169 Celkem                                                                                                  420
+      3741 Celkem                                                                                                        420
+ 4200 3742 5169 Biotech. zásahy ve významných krajinných prvcích, obnova značení, péče o památné stromy                  650
+            5169 Celkem                                                                                                  650
+      3742 Celkem                                                                                                        650
+ 4200 3745 5169 ÚSES a údržba zeleně nezajištěná MČ, VZmB, jiným správcem                                              1 095
+ 4200 3745 5169 Osvětová činnost v oblasti veřejné zeleně a klimatické změny                                             100
+ 4200 3745 5169 Podpora komunitních zahrad ve městě Brně                                                                 500
+            5169 Celkem                                                                                                1 695
+      3745 Celkem                                                                                                      1 695
+ 4200 3792 5169 Osvětová činnost v rámci životního prostředí                                                           1 250
+            5169 Celkem                                                                                                1 250
+      3792 Celkem                                                                                                      1 250
+4200 Celkem                                                                                                          364 788
+4300 Odbor vodního a lesního hospodářství a zemědělství
+ 4300 1014 5169 Ozdravování hospodářských zvířat a plodin                                                                 210
+           5169 Celkem                                                                                                    210
+     1014 Celkem                                                                                                          210
+ 4300 1037 5169 Hodnocení mysliveckých trofejí                                                                             10
+           5169 Celkem                                                                                                     10
+     1037 Celkem                                                                                                           10
+ 4300 2310 5169 Havárie - pitná voda                                                                                      100
+           5169 Celkem                                                                                                    100
+     2310 Celkem                                                                                                          100
+ 4300 2333 5169 LMB - Úpravy a správa drobných vodních toků a poldrů                                                    3 050
+           5169 Celkem                                                                                                  3 050
+     2333 Celkem                                                                                                        3 050
+
+
+
+                                                                                                                        22
+       Podrobný rozpis schváleného rozpočtu běžných výdajů města Brna na rok 2024 -
+                        jmenovitá náplň vybraných položek (v tis. Kč)
+ ORJ     §    Pol.                                           Účel                                     SR 2024
+ 4300 3429 5169 LMB - Údržba bruslařské dráhy na Brněnské přehradě                                           50
+            5169 Celkem                                                                                      50
+      3429 Celkem                                                                                            50
+ 4300 3739 5169 Ekologické havárie - sanační zásahy                                                         250
+            5169 Celkem                                                                                     250
+      3739 Celkem                                                                                           250
+ 4300 3744 5169 Zajištění nezbytných opatření na začátku povodní                                            446
+            5169 Celkem                                                                                     446
+      3744 Celkem                                                                                           446
+ 4300 3745 5169 LMB - Správa Brněnské přehrady, trasa Zouvalka                                            7 618
+ 4300 3745 5169 LMB - Správa lesů, zprůchodnění řeky Svratky                                                465
+ 4300 3745 5169 LMB - Správa Čertíka, retenční nádrž Divišova č., Kohoutovice-mostek                        147
+ 4300 3745 5169 LMB - Správa sociálního zařízení WC Rakovec, WC Přístaviště, WC Sokolské koupaliště       2 273
+ 4300 3745 5169 LMB - Správa Černovické terasy a Černovické skládky                                         750
+ 4300 3745 5169 LMB - Údržba plovoucího mola na Brněnské přehradě                                           100
+ 4300 3745 5169 LMB - Údržba a správa rozhledny Holedná a rozhledny Soběšice                                200
+ 4300 3745 5169 LMB - Údržba topolové aleje v Řečkovicích                                                    50
+            5169 Celkem                                                                                  11 603
+      3745 Celkem                                                                                        11 603
+4300 Celkem                                                                                              15 719
+5100 Odbor sportu
+ 5100 3412 5169 Pravidelné servisní služby sportovních zařízení v majetku města                            600
+ 5100 3412 5169 Odměny příkazníka a PD k opravám                                                           900
+            5169 Celkem                                                                                  1 500
+      3412 Celkem                                                                                        1 500
+ 5100 3419 5169 Marketingové služby v oblasti tělovýchovy a sportu                                       1 000
+ 5100 3419 5169 International childrens games - příprava kandidatury                                     1 000
+ 5100 3419 5169 Prestižní akce v oblasti sportu                                                            440
+            5169 Celkem                                                                                  2 440
+ 5100 3419 5213 Závazek veřejné služby - STAREZ-SPORT, a.s.                                            115 000
+ 5100 3419 5213 Dotace - Plavecký bazén Řečkovice                                                        3 000
+ 5100 3419 5213 Závazek veřejné služby - STAREZ SPORT, a.s. (úhrada ztráty minulých let)                26 372
+            5213 Celkem                                                                                144 372
+ 5100 3419 5222 Dotace - TJ Tesla                                                                        4 200
+ 5100 3419 5222 Dotace na provoz sportovišť                                                             60 000
+ 5100 3419 5222 Dotace na sportovní činnost dospělých                                                   10 000
+ 5100 3419 5222 Dotace - Vrcholový sport                                                               111 945
+ 5100 3419 5222 Dotace - Mládežnický sport                                                             120 000
+ 5100 3419 5222 Dotace - Podpora sportovních odvětví                                                     2 900
+ 5100 3419 5222 Dotace - Významné sportovní akce                                                        21 000
+ 5100 3419 5222 Dotace - Handicapovaní sportovci                                                         1 500
+ 5100 3419 5222 Dotace - Brněnské centrum sportovních nadějí                                             2 250
+ 5100 3419 5222 Dotace - Zabezpečení činnosti hokejové akademie                                          2 500
+ 5100 3419 5222 Dotace - Evropské hry handicapované mládeže Emil Open                                    2 000
+            5222 Celkem                                                                                338 295
+      3419 Celkem                                                                                      485 107
+5100 Celkem                                                                                            486 607
+5200 Odbor školství a mládeže
+ 5200 3111 5169 Technické MŠ                                                                               300
+ 5200 3111 5169 Ostatní služby - mateřské školy                                                            120
+           5169 Celkem                                                                                     420
+     3111 Celkem                                                                                           420
+
+                                                                                                          23
+        Podrobný rozpis schváleného rozpočtu běžných výdajů města Brna na rok 2024 -
+                         jmenovitá náplň vybraných položek (v tis. Kč)
+ ORJ     §    Pol.                                            Účel                       SR 2024
+ 5200  3113 5169 Služby spojené s činností Sítě brněnských otevřených škol                     251
+ 5200  3113 5169 Zajištění základního plaveckého výcviku                                     4 702
+ 5200  3113 5169 BIOSKOP - vědecké výukové centrum                                             300
+ 5200  3113 5169 Cena vévody z Edinburgu                                                     1 050
+ 5200  3113 5169 Participativní rozpočet základních škol města Brna                          1 700
+ 5200  3113 5169 Projekt pro ZŠ "Příběhy našich sousedů"                                     1 000
+ 5200  3113 5169 Dietní stravování                                                           2 500
+ 5200  3113 5169 Vzdělávání cizinců                                                            600
+ 5200  3113 5169 ONSTAGE                                                                     1 100
+            5169 Celkem                                                                     13 203
+      3113 Celkem                                                                           13 203
+ 5200 3149 5169 Prestižní akce v oblasti školství a mládeže                                    620
+            5169 Celkem                                                                        620
+      3149 Celkem                                                                              620
+ 5200 3421 5222 Volnočasové aktivity dětí a mládeže                                         12 500
+ 5200 3421 5222 Cena vévody z Edinburgu                                                        500
+ 5200 3421 5222 MEETING BRNO                                                                 3 000
+            5222 Celkem                                                                     16 000
+      3421 Celkem                                                                           16 000
+5200 Celkem                                                                                 30 243
+5300 Odbor městské informatiky
+ 5300   6171 5164 TSB - Provoz datového centra                                              43 411
+ 5300   6171 5164 TSB - Datové uložiště                                                      5 129
+ 5300   6171 5164 Pronájem vláken - MU                                                         200
+ 5300   6171 5164 Datové úložiště E-ZAK                                                        164
+             5164 Celkem                                                                    48 904
+ 5300   6171 5166 MT Legal - konzultační, poradenské a právní služby                         1 300
+ 5300   6171 5166 Konzultační, poradenské a právní služby ostatní                              500
+             5166 Celkem                                                                     1 800
+ 5300   6171 5168 Technická podpora a servis serverů pro AIS                                15 749
+ 5300   6171 5168 Technická podpora serverů, SW atd.                                        28 677
+ 5300   6171 5168 TSB - Servis strukturovaných kabeláží MMB                                 31 025
+ 5300   6171 5168 Technická podpora SW Microsoft                                             2 331
+ 5300   6171 5168 Údržba a služby - Technická podpora produktů Oracle                        8 360
+ 5300   6171 5168 Údržba a služby - ekonomický software                                      6 534
+ 5300   6171 5168 Aktualizace digitální mapy, soubory popisných a grafických dat            12 100
+ 5300   6171 5168 Správa SW - provoz systému komun. odpadů                                   1 027
+ 5300   6171 5168 Údržba a služby - Personalistika                                           1 779
+ 5300   6171 5168 Řízení bezpečnosti IS a opatření GDPR                                      2 491
+ 5300   6171 5168 Legislativní a technické upgrade a ostatní služby                         13 935
+ 5300   6171 5168 Podpora a údržba AIS                                                      13 535
+ 5300   6171 5168 Ostatní uzavřené smlouvy                                                   4 124
+ 5300   6171 5168 Provoz webových stránek , úprava a rozvoj                                  4 867
+ 5300   6171 5168 Poskytování kvalifikovaných časových razítek a certifikáty QCA a VCA         800
+ 5300   6171 5168 Podpora software GIS                                                         918
+ 5300   6171 5168 Technická podpora AIS aplikací e spis                                      5 495
+ 5300   6171 5168 Sjednocení technické podpory licencí Vmware                                  783
+ 5300   6171 5168 Technická podpora AIS aplikací Aplikace VITA                               1 029
+ 5300   6171 5168 Servis zařízení k provozu ZMB                                                270
+ 5300   6171 5168 Maintenance rozšířeného diskového pole a licencí                           1 470
+ 5300   6171 5168 Technická podpora aplikací T-WIST a GIS                                    9 111
+ 5300   6171 5168 Technická podpora IS DAWAY                                                   105
+
+
+                                                                                             24
+        Podrobný rozpis schváleného rozpočtu běžných výdajů města Brna na rok 2024 -
+                         jmenovitá náplň vybraných položek (v tis. Kč)
+ ORJ     §    Pol.                                           Účel                  SR 2024
+ 5300  6171 5168 Servisní služby DEA                                                  3 593
+ 5300  6171 5168 Servisní podpora aplikace FRB                                          216
+ 5300  6171 5168 Provoz multifunkčních strojů                                           130
+ 5300  6171 5168 IS zpracování žádostí o dotace - OK                                    394
+ 5300  6171 5168 MS Project                                                           2 000
+ 5300  6171 5168 Cloudové služby                                                      3 090
+ 5300  6171 5168 Redundantní infrastruktury AIS                                       1 250
+ 5300  6171 5168 Technická podpora IDM                                                1 536
+ 5300  6171 5168 Městská data                                                           258
+ 5300  6171 5168 Elektronické certifikáty                                               261
+ 5300  6171 5168 Servis prací TÚ                                                      1 307
+ 5300  6171 5168 Služby školení a vzdělávání                                            500
+            5168 Celkem                                                             181 050
+ 5300 6171 5169 Legislativní a technické upgrade a ostatní služby                       110
+ 5300 6171 5169 Ostatní uzavřené smlouvy                                                214
+ 5300 6171 5169 TSB - služby dieselagregátu                                             501
+            5169 Celkem                                                                 825
+      6171 Celkem                                                                   232 579
+5300 Celkem                                                                         232 579
+5400 Odbor dopravy
+ 5400 2212 5162 Provoz světelné signalizace - BKOM                                      200
+           5162 Celkem                                                                  200
+ 5400 2212 5164 Provoz světelné signalizace - BKOM                                    1 400
+           5164 Celkem                                                                1 400
+ 5400 2212 5169 Správa komunikací - BKOM                                             32 020
+ 5400 2212 5169 Evidence nemovitostí - BKOM                                          14 766
+ 5400 2212 5169 Dokumentace prováděná ÚDI - BKOM                                     28 500
+ 5400 2212 5169 Servis dopravního značení a světelné signalizace - BKOM               5 082
+ 5400 2212 5169 Inženýrská činnost a stavební dozor - BKOM                           14 200
+ 5400 2212 5169 Centrální řízení dopravy - BKOM                                      23 831
+ 5400 2212 5169 Letní běžná údržba komunikací - BKOM                                 45 500
+ 5400 2212 5169 Zimní běžná údržba komunikací - BKOM                                 68 500
+ 5400 2212 5169 Údržba mostů - BKOM                                                     850
+ 5400 2212 5169 Odvodnění komunikací - BKOM                                          12 500
+ 5400 2212 5169 Provoz světelné signalizace - BKOM                                      700
+ 5400 2212 5169 Projektová dokumentace k opravám - silnice - BKOM                     6 500
+ 5400 2212 5169 Pasport a GIS na MK - BKOM                                           15 000
+           5169 Celkem                                                              267 949
+ 5400 2212 5171 Opravy a stavební údržba - BKOM                                     194 670
+ 5400 2212 5171 Lokální vysprávky - BKOM                                             68 827
+ 5400 2212 5171 Stavební údržba dopravního značení a světelné signalizace - BKOM    145 000
+           5171 Celkem                                                              408 497
+     2212 Celkem                                                                    678 046
+ 5400 2219 5169 Provoz podchodu pod hl. n. ČD - BKOM                                 11 300
+ 5400 2219 5169 Servis dopravního značení a světelné signalizace - BKOM                 242
+ 5400 2219 5169 Odstraňování nepovolených skládek                                       375
+ 5400 2219 5169 Měření hluku - BKOM                                                   1 500
+ 5400 2219 5169 Odstraňování graffiti - BKOM                                            700
+ 5400 2219 5169 Odtahy vozidel - BKOM                                                33 660
+ 5400 2219 5169 Odstraňování nepovolených reklam - BKOM                               1 600
+ 5400 2219 5169 Komunikace a propagace, ÚZ 31                                         1 500
+ 5400 2219 5169 Správa MKDS - BKOM                                                   10 490
+
+
+                                                                                       25
+        Podrobný rozpis schváleného rozpočtu běžných výdajů města Brna na rok 2024 -
+                         jmenovitá náplň vybraných položek (v tis. Kč)
+ ORJ     §   Pol.                                        Účel                         SR 2024
+ 5400  2219 5169 Správa parkovacích systémů - BKOM, ÚZ 31                                29 320
+ 5400  2219 5169 Správa SOBD - BKOM, ÚZ 31                                                2 868
+ 5400  2219 5169 Aktualizace dat pro podporu SOBD - BKOM, ÚZ 31                           1 300
+ 5400  2219 5169 Provoz kontrolního vozidla - BKOM, ÚZ 31                                 9 225
+ 5400  2219 5169 Provoz kamerového systému pro kontrolu vjezdu do MPR - BKOM, ÚZ 31       2 350
+ 5400  2219 5169 Geometrické služby v rámci agendy MPV                                      500
+ 5400  2219 5169 Provoz automatických pokladen Zvonařka, ÚZ 31                              400
+ 5400  2219 5169 Inženýrská činnost a stavební dozor - ost. - BKOM                        5 000
+ 5400  2219 5169 Projektová dokumentace k opravám ost.pozem.komunikací - BKOM             4 500
+ 5400  2219 5169 Měřící body na cyklostezkách                                             1 530
+ 5400  2219 5169 Bikesharing                                                              2 400
+ 5400  2219 5169 Servis servisních pracovních cyklostanic                                   145
+            5169 Celkem                                                                 120 905
+ 5400 2219 5171 Opravy a stavební údržba - BKOM                                          72 910
+ 5400 2219 5171 Lokální vysprávky - BKOM                                                 49 915
+ 5400 2219 5171 Stavební údržba dopravního značení a světelné signalizace - BKOM          4 000
+            5171 Celkem                                                                 126 825
+      2219 Celkem                                                                       247 730
+ 5400 2223 5169 BESIP - Dopravní výchova                                                  3 050
+            5169 Celkem                                                                   3 050
+ 5400 2223 5171 BESIP - Dopravní výchova                                                     50
+            5171 Celkem                                                                      50
+      2223 Celkem                                                                         3 100
+ 5400 2229 5169 Odstraňování autovraků - BKOM                                             1 300
+ 5400 2229 5169 Dopravní značení - mobilní uzávěrky silnic - BKOM                         1 000
+ 5400 2229 5169 Odtahy vozidel - překážky silničního provozu - BKOM                      10 100
+ 5400 2229 5169 Autovraky - veřejné dražby                                                  200
+            5169 Celkem                                                                  12 600
+      2229 Celkem                                                                        12 600
+ 5400 2271 5169 Správa objektu se zastávkou Jírova - DPMB                                   561
+ 5400 2271 5169 Správa MKDS - BKOM                                                        7 821
+ 5400 2271 5169 Služby u objektů SMB ve správě DPMB, a.s.                                   500
+ 5400 2271 5169 Správa objektu TRB Komín                                                    120
+ 5400 2271 5169 Servisní činnost tunelu Žabovřeská - BKOM                                34 105
+ 5400 2271 5169 Řízení tunelového provozu Žabovřeská - BKOM                               5 641
+            5169 Celkem                                                                  48 748
+      2271 Celkem                                                                        48 748
+ 5400 2291 5169 SCHOOLHOODS                                                                 137
+            5169 Celkem                                                                     137
+      2291 Celkem                                                                           137
+ 5400 2299 5169 Služby KORDIS JMK, a.s.                                                  14 807
+ 5400 2299 5169 Správa infostánků Joštova, ZOO - DPMB                                       127
+ 5400 2299 5169 Příprava dopravní ročenky - BKOM                                            150
+ 5400 2299 5169 Komunikace a propagace, ÚZ 33                                             1 100
+ 5400 2299 5169 Do práce na kole, ÚZ 33                                                      15
+            5169 Celkem                                                                  16 199
+      2299 Celkem                                                                        16 199
+ 5400 6171 5169 Pracoviště výdeje rezidentních dokladů - areál Zvonařka, ÚZ 31              247
+            5169 Celkem                                                                     247
+      6171 Celkem                                                                           247
+5400 Celkem                                                                           1 006 807
+
+
+
+                                                                                          26
+       Podrobný rozpis schváleného rozpočtu běžných výdajů města Brna na rok 2024 -
+                        jmenovitá náplň vybraných položek (v tis. Kč)
+ ORJ     §     Pol.                                             Účel                                               SR 2024
+5600 Odbor investiční
+ 5600 2299 5169 BKOM - Územní rozvoj - KAM                                                                           12 352
+            5169 Celkem                                                                                              12 352
+      2299 Celkem                                                                                                    12 352
+ 5600 2310 5169 Průzkum, pasporty, rušení vodovodních řadů                                                               50
+            5169 Celkem                                                                                                  50
+      2310 Celkem                                                                                                        50
+ 5600 2321 5169 Průzkum, pasporty, rušení kanalizační sítě                                                               50
+            5169 Celkem                                                                                                  50
+      2321 Celkem                                                                                                        50
+ 5600 3113 5169 FKP - Stavební úpravy "Atria" a navazujících ploch Waldorfské střední, základní a mateřské školy         17
+            5169 Celkem                                                                                                  17
+      3113 Celkem                                                                                                        17
+ 5600 3631 5169 Smlouva o provozu a obstarání veřejného a slavnostního osvětlení, vánoční výzdoba - TSB             284 272
+            5169 Celkem                                                                                             284 272
+      3631 Celkem                                                                                                   284 272
+ 5600 3633 5169 Smlouva o obstarání kolektorů, kabelovodů, dohled v areálu Pisárky - TSB                              4 433
+            5169 Celkem                                                                                               4 433
+      3633 Celkem                                                                                                     4 433
+ 5600 3639 5169 MPV a HMG - BKOM, revize objektů, geodeti, veř. prostranství - TSB                                    6 050
+ 5600 3639 5169 Revitalizace zeleně, ostraha a dozor                                                                  4 000
+            5169 Celkem                                                                                              10 050
+      3639 Celkem                                                                                                    10 050
+ 5600 3699 5169 Sanace podzemí, průzkum. a zabezp. práce, obstarání objektů - TSB                                       400
+            5169 Celkem                                                                                                 400
+      3699 Celkem                                                                                                       400
+ 5600 3745 5169 Revitalizace zeleně, ostraha a dozor - ÚZ 45                                                          2 000
+            5169 Celkem                                                                                               2 000
+      3745 Celkem                                                                                                     2 000
+5600 Celkem                                                                                                         313 624
+5900 Odbor implementace evropských fondů
+ 5900 3113 5169 FKP - ZŠ Hamry - stavební úpravy                                                                         85
+            5169 Celkem                                                                                                  85
+      3113 Celkem                                                                                                        85
+ 5900 3636 5169 Informační a propagační materiály                                                                        30
+ 5900 3636 5169 Audity, posudky                                                                                         250
+            5169 Celkem                                                                                                 280
+      3636 Celkem                                                                                                       280
+5900 Celkem                                                                                                             365
+6100 Odbor participace
+ 6100 1019 5169 Včely do Brna                                                                                          1 174
+           5169 Celkem                                                                                                 1 174
+     1019 Celkem                                                                                                       1 174
+ 6100 2310 5169 Napij se! - pítka v Brně                                                                                 706
+           5169 Celkem                                                                                                   706
+     2310 Celkem                                                                                                         706
+ 6100 2333 5169 SOS pro jezírka obory Holedná                                                                          1 206
+           5169 Celkem                                                                                                 1 206
+     2333 Celkem                                                                                                       1 206
+ 6100 3412 5169 Pumptrack pod Pekárnou                                                                                   519
+           5169 Celkem                                                                                                   519
+     3412 Celkem                                                                                                         519
+
+                                                                                                                       27
+        Podrobný rozpis schváleného rozpočtu běžných výdajů města Brna na rok 2024 -
+                         jmenovitá náplň vybraných položek (v tis. Kč)
+ ORJ     §   Pol.                                         Účel                   SR 2024
+ 6100  3421 5169 Lesní hřiště pro Lesnou a Královo Pole                                401
+ 6100  3421 5169 Onkologicky léčené děti v Brně - II                                 2 200
+ 6100  3421 5169 Dětské hřiště AKÁTKY                                                  400
+ 6100  3421 5169 Activity Park BRNOcity                                              1 230
+            5169 Celkem                                                              4 231
+      3421 Celkem                                                                    4 231
+ 6100 3429 5169 Onkologicky léčené děti v Brně - II                                  1 000
+            5169 Celkem                                                              1 000
+      3429 Celkem                                                                    1 000
+ 6100 3599 5169 NEBÝT NA TO SAMA -Ženy v onko léčbě II                               2 680
+            5169 Celkem                                                              2 680
+      3599 Celkem                                                                    2 680
+ 6100 3636 5169 Služby ODAE                                                          1 080
+            5169 Celkem                                                              1 080
+      3636 Celkem                                                                    1 080
+ 6100 3745 5169 Řečkovický Hráj                                                         86
+ 6100 3745 5169 Oázy zeleně v Řečkovicích a Medlánkách                                 850
+            5169 Celkem                                                                936
+      3745 Celkem                                                                      936
+ 6100 6171 5137 Participativní rozpočet - komunikační kampaň                            65
+            5137 Celkem                                                                 65
+ 6100 6171 5139 Participativní rozpočet - komunikační kampaň                           200
+            5139 Celkem                                                                200
+ 6100 6171 5154 Participativní rozpočet - komunikační kampaň                            15
+            5154 Celkem                                                                 15
+ 6100 6171 5164 Participativní rozpočet - komunikační kampaň                            20
+            5164 Celkem                                                                 20
+ 6100 6171 5169 Participativní rozpočet - komunikační kampaň                         2 550
+            5169 Celkem                                                              2 550
+ 6100 6171 5175 Participativní rozpočet - pohoštění                                    100
+            5175 Celkem                                                                100
+      6171 Celkem                                                                    2 950
+6100 Celkem                                                                         16 482
+6200 Bytový odbor
+ 6200 3612 5169 FBV - Výdaje z mandátních smluv MČ a geometrické plány               1 075
+ 6200 3612 5169 FBV - Ostatní služby                                                 8 925
+            5169 Celkem                                                             10 000
+      3612 Celkem                                                                   10 000
+6200 Celkem                                                                         10 000
+6300 Majetkový odbor
+ 6300 3639 5166 Znalecké posudky                                                     1 700
+ 6300 3639 5166 Právní služby, notářské zápisy                                       5 050
+            5166 Celkem                                                              6 750
+ 6300 3639 5169 Geodetické práce a ostatní služby                                    3 750
+ 6300 3639 5169 Odměny za dražby a aukce                                             3 000
+            5169 Celkem                                                              6 750
+      3639 Celkem                                                                   13 500
+6300 Celkem                                                                         13 500
+6600 Odbor správy majetku
+ 6600 2329 5169 Vrty Bystrc                                                            1 000
+           5169 Celkem                                                                 1 000
+     2329 Celkem                                                                       1 000
+
+                                                                                       28
+       Podrobný rozpis schváleného rozpočtu běžných výdajů města Brna na rok 2024 -
+                        jmenovitá náplň vybraných položek (v tis. Kč)
+ ORJ    §    Pol.                                          Účel                                      SR 2024
+ 6600 2333 5169 Úpravy drobných vodních toků                                                               130
+            5169 Celkem                                                                                    130
+      2333 Celkem                                                                                          130
+ 6600 3322 5169 Památky - restaurátorské záměry pro obnovu a ostatní služby                                250
+            5169 Celkem                                                                                    250
+      3322 Celkem                                                                                          250
+ 6600 3612 5169 Bytové domy - úklid a ostatní služby                                                     7 670
+            5169 Celkem                                                                                  7 670
+      3612 Celkem                                                                                        7 670
+ 6600 3613 5169 Odstranění grafitti z objektů města v exponovaných lokalitách                              800
+ 6600 3613 5169 Ostatní objekty - úklid                                                                  1 185
+ 6600 3613 5169 Ostatní objekty - ostraha, obsluha kotelen                                               5 000
+ 6600 3613 5169 Ostatní objekty - odvoz odpadů a ostatní služby                                          4 400
+            5169 Celkem                                                                                 11 385
+      3613 Celkem                                                                                       11 385
+ 6600 3639 5169 Zajištění opěrných zdí a svahů, demolice a zabezpečovací práce (požadavky MO MMB)       49 500
+ 6600 3639 5169 Správa a údržba pozemků-pokos,odplevelení,odstranění černých skládek a ost. služby       4 316
+            5169 Celkem                                                                                 53 816
+      3639 Celkem                                                                                       53 816
+ 6600 4341 5169 Objekty OSP - odvoz odpadů a ostatní služby                                                504
+            5169 Celkem                                                                                    504
+      4341 Celkem                                                                                          504
+ 6600 6171 5169 Objekty MMB - úklid                                                                      9 638
+ 6600 6171 5169 Objekty MMB - ostraha, obsluha kotelen                                                   6 600
+ 6600 6171 5169 Objekty MMB - odvoz odpadů a ostatní služby                                              5 300
+            5169 Celkem                                                                                 21 538
+      6171 Celkem                                                                                       21 538
+ 6600 6211 5169 Objekty AMB - úklid                                                                      1 647
+ 6600 6211 5169 Objekty AMB - odvoz odpadů a ostatní služby                                                350
+            5169 Celkem                                                                                  1 997
+      6211 Celkem                                                                                        1 997
+6600 Celkem                                                                                             98 290
+7100 Odbor zdraví
+ 7100 3599 5169 Asistence vozů RZP                                                                          20
+ 7100 3599 5169 Ostatní služby                                                                           3 299
+ 7100 3599 5169 Komunikační kampaň - Darujme krev s FN Brno                                                580
+            5169 Celkem                                                                                  3 899
+      3599 Celkem                                                                                        3 899
+ 7100 4339 5169 Podpora rodinné politiky                                                                 1 530
+ 7100 4339 5169 Prevence domácího násilí                                                                    15
+            5169 Celkem                                                                                  1 545
+      4339 celkem                                                                                        1 545
+ 7100 4379 5169 Aktivní stárnutí                                                                           300
+            5169 Celkem                                                                                    300
+      4379 Celkem                                                                                          300
+7100 Celkem                                                                                              5 744
+7200 Odbor sociální péče
+ 7200 4341 5169 Činnost kurátorů pro osoby sociálně nepřizpůsobivé                                       1 713
+           5169 Celkem                                                                                   1 713
+     4341 Celkem                                                                                         1 713
+ 7200 4349 5169 Seniorbus                                                                                9 050
+ 7200 4349 5169 Komunikační strategie                                                                      500
+
+                                                                                                         29
+        Podrobný rozpis schváleného rozpočtu běžných výdajů města Brna na rok 2024 -
+                         jmenovitá náplň vybraných položek (v tis. Kč)
+ ORJ     §   Pol.                                             Účel                                  SR 2024
+ 7200  4349 5169 Prevence kriminality - OSP                                                               600
+ 7200  4349 5169 Programové zabydlování domácností v bytové nouzi s využitím metody Housing First          12
+ 7200  4349 5169 Adaptace na pracovní pozice                                                               40
+ 7200  4349 5169 Podpora uplatnitelnosti ohrožených skupin trhu práce metodou IPS                          20
+ 7200  4349 5169 Brno pomáhá pečovat doma – Socio Info Point                                              200
+            5169 Celkem                                                                                10 422
+      4349 Celkem                                                                                      10 422
+7200 Celkem                                                                                            12 135
+7300 Odbor kultury
+ 7300 3312 5169 VS - Varhany pro Brno                                                                     315
+            5169 Celkem                                                                                   315
+      3312 Celkem                                                                                         315
+ 7300 3319 5169 Činnost odboru                                                                            807
+ 7300 3319 5169 Veřejné soutěže - sochy                                                                   100
+ 7300 3319 5169 Strategie kultury kreativních odvětví                                                   3 220
+            5169 Celkem                                                                                 4 127
+      3319 Celkem                                                                                       4 127
+ 7300 3326 5169 Multifunkční hodinový stroj                                                               862
+            5169 Celkem                                                                                   862
+      3326 Celkem                                                                                         862
+7300 Celkem                                                                                             5 304
+7900 4. úsek - samostatná oddělení
+ 7900 2119 5169 Služby Oddělení městské energetiky                                                       200
+            5169 Celkem                                                                                  200
+      2119 Celkem                                                                                        200
+7900 Celkem                                                                                              200
+8200 Městská policie Brno
+ 8200  1014 5169 Veterinární úkony                                                                        850
+ 8200  1014 5169 Úklidové práce                                                                           165
+ 8200  1014 5169 Příspěvek zaměstnavatele na stravování                                                   219
+ 8200  1014 5169 Ostatní služby                                                                           200
+ 8200  1014 5169 SF - příspěvek na stravování                                                             100
+ 8200  1014 5169 VS - veterinární úkony                                                                   500
+ 8200  1014 5169 SF - příspěvek na MHD                                                                     11
+            5169 Celkem                                                                                 2 045
+      1014 Celkem                                                                                       2 045
+ 8200 4349 5169 Ostatní projekty prevence kriminality                                                      20
+            5169 Celkem                                                                                    20
+      4349 Celkem                                                                                          20
+ 8200 5311 5169 Veterinární úkony                                                                          70
+ 8200 5311 5169 Úklidové práce                                                                          3 460
+ 8200 5311 5169 Mytí automobilů                                                                           170
+ 8200 5311 5169 Příspěvek zaměstnavatele na stravování                                                  8 662
+ 8200 5311 5169 Ostatní služby                                                                          4 301
+ 8200 5311 5169 SF - příspěvek na stravování                                                            3 912
+ 8200 5311 5169 SF - služby rekreační středisko Sykovec                                                   276
+ 8200 5311 5169 SF - výdaje odborové organizace                                                           372
+ 8200 5311 5169 SF - příspěvek na MHD                                                                      85
+ 8200 5311 5169 SF - výdaje na sportovní a kulturní akce MP                                                 2
+            5169 Celkem                                                                                21 310
+      5311 Celkem                                                                                      21 310
+8200 Celkem                                                                                            23 375
+
+                                                                                                        30
+

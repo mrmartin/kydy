@@ -1,0 +1,200 @@
+Rada města Brna
+
+Z9/34. zasedání Zastupitelstva města Brna
+konané dne 14.4.2026
+
+
+
+ 17. Návrh rozpočtového opatření – přesun běžných a kapitálových
+   výdajů v rámci rozpočtu Odboru městské informatiky MMB
+
+Anotace
+Důvodem předložení návrhu rozpočtového opatření je zajištění úhrady výdajů na veřejnou zakázku
+„Navýšení CPU kapacity Clover ETL“. Předmětem plnění této veřejné zakázky je navýšení CPU kapacity
+o 6 CPU licencí na produkčním severu CloverETL pro zajištění provozu aplikací při narůstající zátěži
+serveru.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                    rozpočtové opatření dle tabulky, která tvoří přílohu č. ... tohoto zápisu z důvodu
+                                zajištění úhrady výdajů veřejné zakázky malého rozsahu „Navýšení CPU kapacity
+                                Clover ETL“
+
+
+Stanoviska
+
+Finanční výbor ZMB projedná materiál na svém zasedání dne 8. 4. 2026.
+
+Rada města Brna projednala materiál na své schůzi R9/170 konané dne 1. 4. 2026 a doporučila
+ZMB ke schválení.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. David Menšík
+  vedoucí odboru - Odbor městské informatiky
+  7.4.2026 v 11:18
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  7.4.2026 v 11:10
+
+
+
+
+Sestava vytvořena 7.4.2026 v 11:18                             1/1                              Vygenerováno programem eMMB
+
+
+                                                                                                                Strana 1 / 4
+                                 Obsah materiálu
+Návrh usnesení                                        1-1
+Obsah materiálu                                       2-2
+Důvodová zpráva                                       3-3
+Příloha k usnesení (05_ RMB a ZMB_ Clover_2026.pdf)   4-4
+
+
+
+
+                                                       Strana 2 / 4
+                                        Důvodová zpráva ZMB:
+
+    Odbor městské informatiky MMB předkládá orgánům města Brna návrh rozpočtového opatření,
+    které řeší pokrytí aktuálních finančních nároků na běžné a kapitálové výdaje v rámci rozpočtu
+    Odboru městské informatiky MMB v roce 2026.
+
+    Důvodem předložení návrhu rozpočtového opatření je zajištění úhrady výdajů na veřejnou zakázku
+    „Navýšení CPU kapacity Clover ETL“. Předmětem plnění této veřejné zakázky je navýšení CPU
+    kapacity o 6 CPU licencí na produkčním severu CloverETL pro zajištění provozu aplikací při
+    narůstající zátěži serveru. Toto navýšení je nutné v souvislosti s integracemi na nové aplikace,
+    především v souvislosti s portálovým řešením a dalším rozšířením on-line služeb.
+
+    Navýšení finančních prostředků na příslušné položce rozpočtové skladby je řešeno přesunem v
+    rámci rozpočtu Odboru městské informatiky MMB.
+
+    Navržené rozpočtové opatření je uvedeno v příloze materiálu.
+
+
+    Materiál nepodléhá projednání v komisích Rady města Brna.
+
+    Finanční výbor ZMB projedná materiál na svém zasedání dne 8. 4. 2026.
+
+    Rada města Brna projednala materiál na své schůzi R9/170 konané dne 1. 4. 2026 a doporučila
+    ZMB ke schválení.
+
+
+    Schváleno jednomyslně 8 členy.
+
+
+
+                                                                               Kratochv
+Vaňková
+
+
+
+
+                                                                               Matonoh
+                                      Podivins
+
+
+
+
+                                                          Bořecký
+
+
+                                                                    Bořecký
+                   Chvátal
+
+
+
+                             Kerndl
+                   RNDr.
+          Černý
+JUDr.
+
+
+
+
+                             JUDr.
+
+
+
+
+                                                                               JUDr.
+
+
+
+                                                                                           JUDr.
+                   Ph.D.
+
+
+
+
+                                                 Aberl
+
+
+
+
+                                                                                           Oliva
+                                                          arch.
+          Mgr.
+
+
+
+
+                                      Ing.
+
+
+
+
+                                                          Ing.
+
+
+
+
+                                                                               Ing.
+
+
+
+
+                                                                               ová
+                                                 Bc.
+                                      ká
+
+
+
+
+                                                                               íl
+
+      -       pr       pr         -       pr         pr       pr          pr     -    pr       pr
+      -       o        o          -       o          o        o           o      -    o        o
+      -                           -                                              -
+
+
+
+
+                                                                                                   Strana 3 / 4
+                                                                    Rozpočtové opatření
+                                                                                                                                                        v tis. Kč
+Běžné a kapitálové výdaje - přesun
+ ORJ      §      pol. ÚZ ORG                                              Věcná náplň                             Upr. rozpočet    Úprava          Rozpočet
+                                                                                                                   k 23.3.2026   rozpočtu + -      po změně
+  5300   6171    5168                Zpracování dat a služby souv. s informačními a komunikačními technologiemi         178 910         -3 540         175 370
+                             6086    ve j.n.: Legislativní a technické upgrade a ostatní služby                           13 316        -3 540           9 776
+  5300   6171    6111        3476    OMI - Informační systém                                                              53 421         3 540          56 961
+
+
+
+
+                                                                                                                                                 Strana 4 / 4
+

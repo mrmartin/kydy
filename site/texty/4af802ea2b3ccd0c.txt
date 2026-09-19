@@ -1,0 +1,249 @@
+Rada města Brna
+
+Z9/21. zasedání Zastupitelstva města Brna
+konané dne 12.11.2024
+
+
+
+   53. Projekt "Interoperabilita a eHealth Nemocnice Milosrdných
+                  bratří" - návrh pověřovacího aktu
+
+Anotace
+Návrh pověřovacího aktu na projekt "Interoperabilita a eHealth Nemocnice Milosrdných bratří". Cílem
+projektu je splnění budoucí zákonné povinnosti v oblasti elektronizace zdravotnické dokumentace,
+standardů MZ ČR pro jejich sdílení, samotné sdílení na území ČR a EU dle standardů MZ ČR a NCPeH,
+zavedení identifikace subjektů dle zákona o elektronizaci zdravotnictví. Na projekt je možné získat
+dotaci v rámci 79. výzvy Integrovaného regionálního operačního programu 2021-2027. Součástí
+materiálu je návrh pověřovacího aktu k zajištění služby obecného hospodářského zájmu u Nemocnice
+Milosrdných bratří, příspěvkové organizace. Předložení pověřovacího aktu a souhlas s podáním žádosti
+je nezbytnou a povinnou přílohou k obdržení dotace v rámci Integrovaného operačního programu.
+Celkové náklady na projekt se předpokládají ve výši 31 331 573 Kč, předpoklad dotace je ve výši 23 799
+965 Kč. Podíl financování Nemocnice Milosrdných bratří je odhadován na částku 7 531 608 Kč.
+Nositelem projektu je příspěvková organizace Nemocnice Milosrdných bratří.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   pověřovací akt ve vztahu k Nemocnici Milosrdných bratří, příspěvkové organizaci, v
+                               rámci projektu "Interoperabilita a eHealth Nemocnice Milosrdných bratří",
+                               předkládaného do Integrovaného regionálního operačního programu v
+                               programovém období 2021–2027 v rámci 79. výzvy IROP- eHealth, který tvoří
+                               přílohu č…tohoto zápisu
+
+
+Stanoviska
+
+Materiál byl předložen Radě města Brna na schůzi č. R9/105. konané dne 6. 11. 2024 a stanovisko
+bude sděleno.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Ivan Hloušek
+  vedoucí odboru - Odbor implementace evropských fondů
+  5.11.2024 v 08:23
+  Garance správnosti, zákonnosti materiálu
+
+
+
+
+Sestava vytvořena 5.11.2024 v 10:02                          1/2                            Vygenerováno programem eMMB
+
+
+                                                                                                            Strana 1 / 7
+Spolupodepisovatel                     Spolupodepisovatel
+
+  Elektronicky podepsáno                    Elektronicky podepsáno
+
+  Mgr. Jiří Kučera                          JUDr. Eva Rabušicová
+  vedoucí úseku - 1. úsek                   vedoucí odboru - Odbor zdraví
+  5.11.2024 v 10:02                         5.11.2024 v 09:47
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  5.11.2024 v 08:21
+
+
+
+
+Sestava vytvořena 5.11.2024 v 10:02   2/2                                   Vygenerováno programem eMMB
+
+
+                                                                                            Strana 2 / 7
+                                  Obsah materiálu
+Návrh usnesení                                                       1-2
+Obsah materiálu                                                      3-3
+Důvodová zpráva                                                      4-5
+Příloha k usnesení (Z9_21 Projekt Interoperabilita a eHealth NMB –   6-7
+POVĚŘOVACÍ AKT.pdf)
+
+
+
+
+                                                                      Strana 3 / 7
+                                         Důvodová zpráva
+
+Zastupitelstvu města Brna je předkládán návrh pověřovacího aktu na projekt “Interoperabilita a
+eHealth Nemocnice Milosrdných bratří“ pro Nemocnici Milosrdných bratří, příspěvková organizace,
+v rámci vyhlášené výzvy Integrovaného regionálního operačního programu na podporu zajištění
+splnění budoucí zákonné povinnosti v oblasti elektronizace zdravotnické dokumentace, standardů MZ
+ČR pro jejich sdílení, samotné sdílení na území ČR a EU dle standardů MZ ČR a NCPeH, zavedení
+identifikace subjektů dle zákona o elektronizaci zdravotnictví.
+
+Na projekt je možné získat dotaci v rámci Integrovaného regionálního operačního programu
+v programovém období 2021-2027, na základě vyhlášené výzvy č. 79 – eHealth, SC 1.1: Využívání
+přínosů digitalizace pro občany, podniky, výzkumné organizace a veřejné orgány, v rámci aktivity A)
+Elektronizace vybraných služeb veřejné správy – eHealth. O dotaci je možno žádat od 28.11.2023
+a nejzazší datum ukončení příjmu žádostí je 28.11.2024. V souladu s bližšími parametry podpory
+zveřejněnými na stránkách MMR ČR jsou městské nemocnice oprávněnými žadateli.
+
+Cílem projektu je elektronizace a standardizace procesů Nemocnice Milosrdných bratří v oblasti
+poskytování zdravotních služeb, jako nutné podmínky pro výměnu a sdílení dat a zdravotnické
+dokumentace v rámci Nemocnice Milosrdných bratří a zajištění výměny, resp. sdílení zdravotnické
+dokumentace v rámci eHealth systémů a NCPeH, a implementace identifikátorů subjektů dle zákona
+o elektronizaci zdravotnictví.
+
+Konkrétní náplň aktivity v projektu spočívá v pořízení a technickém zhodnocení dlouhodobého
+nehmotného majetku:
+    1. Modernizace nemocničního informačního systému
+    2. Rozvoj napojení NIS NMB na systémy výměny zdravotnické dokumentace
+    3. Rozvoj napojení NIS NMB na centrální registry, evidence a služby
+    4. Rozvoj služeb externí distribuce zdravotnických dat (ESB)
+    5. Rozvoj archivu elektronické zdravotnické dokumentace
+    6. Modernizace PACS
+    7. Modernizace laboratorního informačního systému (LIS)
+    8. Modernizace systému transfúzní služby (TIS)
+
+Termín ukončení realizace projektu stanovený poskytovatelem je do 12/2027.
+
+Odhad celkových nákladů na realizaci výše uvedeného opatření bude činí 31 331 573 Kč, z toho
+28 000 000 Kč tvoří způsobilé výdaje a 3 331 614 Kč výdaje nezpůsobilé. Dotace se předpokládá
+ve výši 23 799 965 Kč, což je 85 % z celkových způsobilých výdajů definovaných ve výzvě.
+
+
+ Struktura výdajů projektu “ Interoperabilita a eHealth Nemocnice Milosrdných bratří “ (včetně DPH)
+
+ Celkové výdaje projektu                                   31 331 573 Kč                100 %
+ Nezpůsobilé výdaje                                          3 331 614 Kč                 11 %
+ Způsobilé výdaje                                          27 999 959 Kč                  89 %
+ Výše dotace                                                23 799 965 Kč                 76 %
+ Spolufinancování města Brna                                          0 Kč                 0%
+ Podíl financování Nemocnice Milosrdných bratří              7 531 608 Kč                 24 %
+
+
+Nositelem projektu v souladu s Metodikou implementace projektů (spolu)financovatelných
+z evropských fondů a národních programů (dále jen „metodika“) je Nemocnice Milosrdných bratří,
+příspěvková organizace.
+
+
+
+
+                                                                                                  Strana 4 / 7
+Město Brno pověřuje Nemocnici Milosrdných bratří, příspěvkovou organizaci, výkonem
+specializovaných činností v rámci závazku veřejné služby, které jsou dotačním projektem
+podporované. Pověřovací akt je povinnou přílohou žádosti, kterou je třeba doložit ještě před vydáním
+Rozhodnutí o poskytnutí dotace.
+
+V případě získání dotace bude ÚNB žádat o finanční prostředky na předfinancování realizace
+projektu.
+
+Stanoviska dotčených orgánů:
+Materiál nepodléhá projednání v komisích RMB.
+Materiál byl předložen Radě města Brna na schůzi č. R9/105. konané dne 6. 11. 2024 a stanovisko
+bude sděleno.
+
+
+
+
+                                                                                                Strana 5 / 7
+                              POVĚŘOVACÍ AKT
+   Dle rozhodnutí Komise (2012/21/EU) o použití čl. 106 odst. 2 Smlouvy o fungování EU
+  na státní podporu ve formě vyrovnávací platby za závazek veřejné služby udělené určitým
+         podnikům pověřeným poskytováním služeb obecného hospodářského zájmu
+                                    (Rozhodnutí SGEI)
+
+
+Pověřovatel:
+Statutární město Brno, se sídlem Dominikánské nám. 196/1, 602 00 Brno, IČ: 44992785
+
+
+Poskytovatel služby obecného hospodářského zájmu:
+Nemocnice Milosrdných bratří, příspěvková organizace, se sídlem Polní 553/3, Štýřice
+639 00 Brno, IČ: 48512478, DIČ: CZ48512478, zapsaná v Obchodním rejstříku spisová značka
+Pr 13 vedená u Krajského soudu v Brně
+
+
+
+
+Pověřovatel Statutární město Brno, se sídlem Dominikánské nám. 196/1, 602 00 Brno,
+IČ: 44992785, pověřuje Nemocnici Milosrdných bratří, příspěvkovou organizaci, se
+sídlem Polní 553/3, Štýřice 639 00 Brno, IČ: 48512478, DIČ: CZ48512478, zapsanou
+v Obchodním rejstříku spisová značka Pr 13 vedenou u Krajského soudu v Brně
+k poskytování služeb obecného hospodářského zájmu – poskytování zdravotních služeb
+v souladu s oprávněním k poskytování zdravotních služeb podle zákona č.372/2011 Sb.,
+o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách,
+ve znění pozdějších předpisů), na období 15 let, počínaje rokem 2024
+
+Náplň a trvání závazku veřejné služby:
+
+Pověřovatel Statutární město Brno, se sídlem Dominikánské nám. 196/1, 602 00 Brno,
+IČ: 44992785, je zřizovatelem Nemocnice Milosrdných bratří, příspěvkové organizace,
+se sídlem Polní 553/3, Štýřice 639 00 Brno, IČ: 48512478, DIČ: CZ48512478, zapsané
+v Obchodním rejstříku spisová značka Pr 13 vedená u Krajského soudu v Brně. Hlavním
+účelem organizace je poskytování zdravotních služeb a zajištění dostupné a kvalitní zdravotní
+péče.
+
+Vymezení hlavního účelu a tomu odpovídajícího předmětu činnosti:
+Nemocnice Milosrdných bratří, příspěvková organizace je poskytovatelem akutní lůžkové péče
+a je držitelem oprávnění k poskytování zdravotních služeb dle §9 odst. 2 zákona č. 372/2011
+Sb. o zdravotních službách a podmínkách jejich poskytování.
+
+Trvání závazku veřejné služby: 15 let
+
+
+
+
+                                                                                         Strana 6 / 7
+Mechanismus a výpočet pro kontrolu a přezkoumání vyrovnávací platby:
+Poskytovatel služby obecného hospodářského zájmu nepožaduje po Pověřovateli vyrovnávací
+platbu na období 15 let, počínaje rokem 2024, ve vztahu k projektu “Interoperabilita a eHealth
+Nemocnice Milosrdných bratří“ předkládaného do Integrovaného regionálního operačního
+programu IROP 2021-2027, Specifický cíl 1.1., výzva č. 79 - eHealth.
+Mechanismus a výpočet pro kontrolu a přezkoumání vyrovnávací platby Poskytovatel služby
+obecného hospodářského zájmu k Pověřovacímu aktu nedokládá.
+
+Opatření k zamezení a vrácení jakékoliv nadměrné vyrovnávací platby:
+Pověřovatel není vázán vůči Poskytovateli služby obecného hospodářského zájmu k zasílání
+části vyrovnávací platby dle závazných ukazatelů na období 15 let, počínaje rokem 2024,
+ve vztahu k projektu “Interoperabilita a eHealth Nemocnice Milosrdných bratří“ předkládaného
+do Integrovaného regionálního operačního programu IROP 2021-2027, Specifický cíl 1.1.,
+výzva č. 79 - eHealth.
+
+Opatření k zamezení a vrácení jakékoliv nadměrné vyrovnávací platby se tak k Pověřovacímu
+aktu nedokládá.
+
+Tento Pověřovací akt je vyhotoven v souladu s Rozhodnutím Komise (2012/21/EU)
+o použití čl. 106 odst. 2 Smlouvy o fungování EU na státní podporu ve formě vyrovnávací
+platby za závazek veřejné služby udělené určitým podnikům pověřeným poskytováním
+služeb obecného hospodářského zájmu (Rozhodnutí SGEI).
+
+
+
+
+JUDr. Markéta Vaňková
+Primátorka města Brna
+
+
+
+
+                                                                                          Strana 7 / 7
+

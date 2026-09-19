@@ -1,0 +1,2801 @@
+Rada města Brna
+
+Z9/32. zasedání Zastupitelstva města Brna
+konané dne 20.1.2026
+
+
+
+ 9. Plán desegregačních opatření ve vzdělávání pro MČ Brno-sever
+  na období 2026–2031 zpracovaný v rámci projektu Agentury pro
+   sociální začleňování s názvem "Desegregace vzdělávání dětí a
+                žáků se sociálním znevýhodněním"
+
+Anotace
+Rada města Brna předkládá Zastupitelstvu města Brna Plán desegregačních opatření ve vzdělávání pro
+MČ Brno-sever na období 2026–2031 zpracovaný v rámci projektu Agentury pro sociální začleňování s
+názvem "Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním". Zapojení statutárního města
+Brna do tohoto projektu bylo schváleno na Z9/16. zasedání Zastupitelstva města Brna dne 9. 4. 2024.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. bere na vědomí Plán desegregačních opatření ve vzdělávání pro MČ Brno-sever na období
+                  2026–2031 zpracovaný v rámci projektu Agentury pro sociální začleňování s názvem
+                  "Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním".
+
+
+Stanoviska
+
+
+Materiál bude projedná v Radě města Brna R9/160. dne 14. 1. 2026.
+
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  PhDr. Petr Hruška MBA
+  vedoucí odboru - Odbor školství a mládeže
+  13.1.2026 v 08:38
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Jiří Kučera
+  vedoucí úseku - 1. úsek
+  12.1.2026 v 15:40
+
+
+
+
+Sestava vytvořena 13.1.2026 v 08:38             1/1                            Vygenerováno programem eMMB
+
+
+                                                                                               Strana 1 / 60
+                                  Obsah materiálu
+Návrh usnesení                                              1-1
+Obsah materiálu                                             2-2
+Důvodová zpráva                                             3-5
+Příloha (Plán desegregačních opatření MČ Brno-sever.pdf)   6 - 60
+
+
+
+
+                                                              Strana 2 / 60
+                                         DŮVODOVÁ ZPRÁVA
+
+Odbor školství a mládeže předkládá Zastupitelstvu města Brna Plán desegregačních opatření ve
+vzdělávání pro MČ Brno-sever na období 2026–2031 zpracovaný v rámci projektu Agentury pro sociální
+začleňování s názvem "Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním".
+
+Plán desegregačních opatření ve vzdělávání (dále jen PDOV) pro MČ Brno-sever je rámcový
+implementační dokument, který je jedním z postupných kroků realizace projektu Desegregace
+vzdělávání dětí a žáků se sociálním znevýhodněním, OP JAK, registrační číslo projektu:
+CZ.02.02.04/00/23_018/0008472. Cílem tohoto projektu je zabezpečit rovný, předvídatelný přístup ke
+kvalitnímu předškolnímu a základnímu vzdělávání a předcházet vzniku či prohlubování segregace na
+území městské části Brno-sever a v širším kontextu ve městě Brně. PDOV převádí již projednané směry
+spolupráce MČ Brno-sever, statutárního města Brna a Jihomoravského kraje do konkrétních kroků
+a opírá se přitom o Memorandum o spolupráci uzavřené mezi Agenturou pro sociální začleňování ČR
+a MČ Brno-sever. Schválení PDOV je nezbytným krokem k dalšímu pokračování projektu, konkrétně
+k přechodu od plánování k realizaci a k navázání externích zdrojů tam, kde je to účelné.
+
+Ve dvou základních školách zřizovaných MČ Brno-sever se dlouhodobě projevují nerovnoměrné
+kapacity a rozdíly ve složení tříd. Přitom jedna z těchto škol je oficiálně vedena jako škola segregovaná.
+Tyto disproporce zhoršují dostupnost spádového vzdělávání pro některé rodiny, vytvářejí tlak na vybrané
+školy a vedou k nevyrovnaným podmínkám podpory žáků. PDOV představuje praktický implementační
+rámec, který tyto jevy adresuje věcně, koordinovaně a s důrazem na nízkonákladová, proveditelná
+opatření v působnosti MČ Brno-sever a v návrhu PDOV uvedených partnerů.
+
+PDOV nepokrývá pouze období docházky do základní školy, ale je komplexním dokumentem,
+zahrnujícím celý vzdělávací cyklus – od včasné péče a mateřských škol přes základní školy až po
+přechody na střední školy. Přičemž se soustředí na pět provázaných oblastí:
+
+    •   Datově podložené řízení kapacit a složení tříd. Malá, jednotná sada ukazatelů (kapacity,
+        naplněnost, spádovost) bude pravidelně vyhodnocována a sdílena v agregované podobě.
+        Výstupy poskytnou podklad pro optimalizaci zápisů a rozvoje sítě MŠ/ZŠ na MČ Brno-sever
+        s přesahem na území celého Brna.
+
+    •   Podpora vedení škol v oblasti rovnosti příležitostí. Budou rozpracované motivační a hodnoticí
+        nástroje, které objektivně zohlední kvalitní inkluzivní praxi a spolupráci školy s rodiči, bez
+        zbytečné administrativní zátěže.
+
+    •   Jednotný rámec podpory pro každé dítě/žáka. Školy budou mít systematickou oporu v uceleném
+        postupu včasné identifikace vzdělávacích a podpůrných potřeb, v nastavení opatření (včetně
+        opatření I. stupně) a v jejich pravidelné revizi. Důraz je na metodickou pomoc a sdílení dobré
+        praxe, nikoli na nové povinnosti nad rámec zákona.
+
+    •   Komunitní/peer podpora pro včasný nástup a adaptaci v MŠ a v rámci docházky na ZŠ. Externě
+        financované role pomohou s vyhledáváním a provázením rodin, s administrativou zápisu a s
+        adaptačními aktivitami. Takto získané praktické zkušenosti budou využitelné i na úrovni města
+        Brna a Jihomoravského kraje.
+
+    •   Koordinace přechodů a společný rámec pro mimořádné situace. Budou vytvořeny pravidelně
+        se scházející platformy MŠ–ZŠ–SŠ s jasnými výstupy (minimálně dvakrát ročně), stanoví se
+        přechodové postupy a kontaktní osoby a zavedou se rychlé mechanismy řešení mimořádných
+        situací ohrožujících kontinuitu vzdělávání a vytvářející nebezpečí včasného odchodu ze
+        vzdělání.
+
+Opatření jsou v PDOV rozpracována do aktivit, indikátorů a termínů. Většina činností stojí na dobrovolné
+spolupráci zapojených subjektů a nevyžaduje finanční krytí a nové mandatorní výdaje MČ Brno-sever.
+
+
+
+
+                                                                                                      Strana 3 / 60
+Výjimkou je opatření k peer pracovníkům, kde se počítá s krytím z dotačních zdrojů. Žádost o to byla již
+podaná v rámci OPZ+ (výzva č. 106).
+
+PDOV vznikal od ledna 2025 v rámci Obecní platformy desegregace ve vzdělávání (26 členů – zástupci
+zřizovatelů, vedení MČ Brno-sever, ředitelé MŠ/ZŠ, zástupci neziskových nevládních organizací,
+romských komunit v Brně, akademických pracovišť a další). Tato platforma desegregace se schází
+jednou do měsíce. Takovýto model řízení průběhu projektu umožňuje po schválení PDOV plynule přejít
+do implementace, průběžně korigovat postup na základě dat a zajišťovat transparentnost celého
+procesu.
+
+Schválením PDOV získá MČ Brno-sever jasný a logicky strukturovaný rámec pro koordinaci vzdělávací
+soustavy základního a mateřského školství na území MČ Brno-sever. Zároveň s tím je v PDOV
+obsažený nutný přesah ke spolupráci se statutárním městem a Jihomoravským krajem. A PDOV vytváří
+také možnost navázat externí financování na konkrétní, měřitelné kroky. Praktickým dopadem bude
+zlepšení dostupnosti vzdělání v sociokulturně heterogenním prostředí pro žáky ze sociálně
+znevýhodněného prostředí, prevence přetížení vybraných škol, stabilnější klima ve školách,
+srozumitelnější pravidla při přechodech mezi stupni, snížení rizika předčasných odchodů ze vzdělání,
+zvýšení šancí na úspěšný přechod do soustavy středního školství a snížení potřeby komplikovaných
+ad-hoc zásahů. Včasné schválení PDOV umožní stihnout přípravné kroky před zápisy a sladit datové
+podklady i návazné podpory.
+
+Řízení implementace a prevence rizik
+
+Implementace bude řízena prostřednictvím stálé projektové platformy s jasně stanovenými minimálními
+standardy, odpovědnostmi a harmonogramem. Klíčová rizika – jako datová kompatibilita, kapacity
+PPP/SPC, obava škol z administrativy či udržitelnost podpůrných rolí – jsou ošetřena úzkou sadou
+ukazatelů, pilotním ověřením a škálováním, metodickou podporou a aktivním vyhledáváním externích
+zdrojů. Bez schválení návrhu PDOV hrozí odklad koordinovaných kroků před zápisy do prvních tříd a
+rozpad mezioborové spolupráce do dílčích, hůře měřitelných a především méně účinných iniciativ.
+
+Dopady a měřitelnost
+
+Rozpočtové dopady: převážná část opatření je realizovatelná z běžné činnosti aktérů (koordinace,
+metodika, platformy). Memorandum o spolupráci s Agenturou pro sociální začleňování ČR ze
+dne 16.9.2024 nepředpokládá a nevyžaduje finanční závazky MČ Brno-sever, jakékoli následné
+finanční vztahy by vznikla výhradně na základě samostatných smluv. Opatření k peer pracovníkům je
+zamýšleno s externím krytím z dotačních finančních prostředků OPZ+ (výzva 106).
+
+Personální dopady: koordinace proběhne v rámci stávajících pozic zajišťovaných ÚMČ Brno-sever,
+případné návrhy na posílení kapacit budou vyčísleny průběhu realizace PDOV v ročních plánech.
+
+Právní dopady: nevznikají nové povinnosti nad rámec platné legislativy, v rámci realizace PDOV bude
+kladný důraz na GDPR a zákonnost zpracování údajů.
+
+Měřitelnost: bude zajištěna prostřednictvím průběžných agregovaných dat o kapacitách, zápisech a
+složení tříd, evidencí podpůrných plánů a jejich revizí, záznamů o adaptačních/peer aktivitách a výstupů
+z pracovních skupin. Zastupitelstvo MČ Brno-sever bude informováno pravidelnými souhrny.
+
+Soulad s právním a strategickým rámcem
+
+Právní rámec, ze kterého PDOV vychází: zákon č. 561/2004 Sb., školský zákon (§ 2 – rovný přístup a
+spravedlivé podmínky ve vzdělávání), zákon č. 198/2009 Sb., antidiskriminační zákon, pravidla ochrany
+osobních údajů (GDPR) – u datových aktivit je nastaven princip minimalizace, agregace a legitimního
+účelu.
+
+Městské a krajské strategické dokumenty: PDOV je věcně kompatibilní s Koncepcí obecního školství
+města Brna do roku 2030 (rovné příležitosti, dostupnost, spolupráce, kvalita), s Plánem sociálního
+
+
+
+
+                                                                                                    Strana 4 / 60
+         začleňování města Brna 2022–2027 (včetně Akčního plánu 2025–2027), se Strategií integrace cizinců
+         v Brně 2020–2026, Dlouhodobým záměrem vzdělávání a rozvoje vzdělávací soustavy Jihomoravského
+         kraje 2024–2028 (rovné příležitosti, posílení PPP/SPC, kariérové poradenství, spolupráce) a Strategií
+         romské integrace v Jihomoravském kraji 2021–2025.
+
+         Národní a evropský rámec: PDOV je v souladu se Strategií rovnosti, začlenění a participace Romů
+         2021–2030 a se Strategickým rámcem EU do roku 2030 (důraz na prevenci segregace, spolupráci
+         aktérů a bezpečné, inkluzivní prostředí).
+
+         Materiál byl schválen Zastupitelstvem MČ Brno-sever 9/22. dne 10. 12. 2025.
+
+
+
+         Materiál byl projednán v Komisi výchovy a vzdělávání Rady města Brna dne 12. 1. 2026.
+
+         Stanovisko:
+         KVV RMB doporučuje Radě města Brna doporučit Zastupitelstvu města Brna
+
+         vzít na vědomí Plán desegregačních opatření ve vzdělávání pro MČ Brno-sever na období
+         2026–2031 zpracovaný v rámci projektu Agentury pro sociální začleňování s názvem
+         "Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním".
+
+
+
+            Hlasování: z 13 členů komise 11 pro - 0 proti - 0 se zdrželo. Usnesení bylo přijato.
+Vondra    Herman   Anderle   Crha    Černá    Ferina   Mihola   Ostrý   Pospíšilová   Sedláček   Schwab   Šťastná     Vencálek
+ pro        pro      pro     pro      pro       --       --      pro       pro          pro       pro       pro          pro
+
+
+
+
+         Materiál bude projedná v Radě města Brna R9/160. dne 14. 1. 2026.
+
+
+
+
+                                                                                                                  Strana 5 / 60
+  PLÁN DESEGREGAČNÍCH OPATŘENÍ V
+        OBLASTI VZDĚLÁVÁNÍ
+STATUTÁRNÍHO MĚSTA BRNA/MĚSTSKÉ
+        ČÁSTI BRNO-SEVER
+      PRO OBDOBÍ 2026-2031
+
+
+
+
+Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                    CZ.02.02.04/00/23_018/0008472
+
+
+
+
+                                                                                                              Strana 6 / 60
+Obsah
+Úvod ........................................................................................................................................................ 7
+1.      Základní informace o nositeli .......................................................................................................... 7
+     1.1 Základní údaje o školách v obci..................................................................................................... 7
+2.      Závazky spolupráce obce vyplývající z memoranda...................................................................... 10
+3.      Základní shrnutí z analýzy ............................................................................................................. 11
+        3.1 Východiska a závěrečné shrnutí analýzy ................................................................................. 11
+        3.2 Aktuální závěry identifikace žáků se sociálním znevýhodněním (2024/2025) ....................... 12
+        3.3 Návrh metodiky realizace identifikace v obci (součást monitoringu a řízení) ........................ 12
+        3.4 Soulad závěrů analýzy s Memorandem a rozsah nutného rozšíření plánu ............................ 13
+        3.5           Vedené vzdělávání v území ............................................................................................. 14
+4.      Tvorba strategického plánu .......................................................................................................... 16
+        4.1 Proces strategického plánování v MČ Brno-sever .................................................................. 16
+        4.2 Propojení metodiky s praxí Brna-sever ................................................................................... 18
+        4.3 Procesní rámec a časová osa PDOV (2023–2027) ................................................................... 18
+5.      Vazba na strategické dokumenty .................................................................................................. 19
+        5.1 Rovné podmínky ve vzdělávání a prevence anticiganismu (antiromství) ............................... 20
+6.      Okruhy podpory a zaměření opatření........................................................................................... 21
+        6.1 Primární zaměření: děti zažívající sociální znevýhodnění ....................................................... 21
+        6.2 Další okruhy, které opatření posilují (vedle primárního cílení)............................................... 21
+7. Vize a cíle........................................................................................................................................... 22
+     7.1. Vize ............................................................................................................................................. 22
+     7.2. Cíle.............................................................................................................................................. 22
+8.      Plán rozvoje ................................................................................................................................... 25
+     8.1 Soupis opatření ........................................................................................................................... 25
+        1.    Opatření: Pravidelné sledování a vyhodnocování kapacit a složení tříd v mateřských a
+        základních školách ........................................................................................................................ 25
+        2.   Opatření: Motivační a hodnoticí nástroje pro vedení škol k podpoře rovných příležitostí a
+        prevence segregace ...................................................................................................................... 26
+        3.  Opatření: Podpora vytváření optimálních podmínek pro vzdělávání a poskytování cílené
+        podpory každému dítěti a žákovi .................................................................................................. 28
+                                                                                                                                                            2
+           Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                               CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                                                          Strana 7 / 60
+       4.   Opatření: Podpora nástupu do mateřských škol prostřednictvím komunitního (peer)
+       pracovníka a adaptačních programů v MČ Brno-sever a Brno-střed............................................ 31
+       5.   Opatření: Koordinace přechodů mezi stupni vzdělávání prostřednictvím přechodových
+       plánů ............................................................................................................................................ 33
+       6.    Opatření: Zahájení diskuze a zmapování kapacit poradenských služeb s možností jejich
+       posílení .......................................................................................................................................... 35
+       7.    Opatření: Společný rámec postupu pro řešení situací, které mohou narušit plynulost
+       vzdělávací dráhy dětí a žáků ......................................................................................................... 37
+9. Prevence rizik .................................................................................................................................... 39
+10. Implementace plánu ....................................................................................................................... 41
+11. Seznam příloh: ................................................................................................................................ 45
+Další analytické zdroje .......................................................................................................................... 46
+Příloha č. 1 Vedené vzdělávání v území – rozšířená kapitola ............................................................... 48
+Příloha č. 2 Doporučení k desegregaci ve vzdělávání, které vytvořil Poradní sbor pro záležitosti
+romské menšiny .................................................................................................................................... 54
+
+
+
+
+                                                                                                                                                           3
+         Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                             CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                                                        Strana 8 / 60
+Seznam tabulek
+Tabulka 1 – Přehled kapacit, naplněnosti a složení 1. ročníků ZŠ v MČ Brno-sever (2025/2026)..….str. 8
+
+Tabulka 2 – Počet tříd, dětí a dětí se SVP v MŠ v Brně-sever ve školním roce 2024/2025……….…….str. 9
+
+Tabulka 3 – Identifikace žáků se SZ na ZŠ MČ Brno-sever (2024/2025, kategorie II+III) ……………… str. 12
+
+Tabulka 4 – Matice klíčových výzev a opatření PDOV: současný stav a limity → žádoucí stav, cíle a kroky
+…………………………………………………………………………………………………………………………………………….…… str. 17
+
+
+
+
+                                                                                                                     4
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 9 / 60
+Seznam použitých zkratek
+AP – asistent pedagoga
+
+ASZ – Agentura pro sociální začleňování
+
+DZ – Dlouhodobý záměr vzdělávání a rozvoje vzdělávací soustavy
+
+DROM – DROM, romské středisko (příspěvková NNO)
+
+GDPR – obecné nařízení o ochraně osobních údajů
+
+JMK – Jihomoravský kraj
+
+KPSV+ – Koordinovaný přístup k sociálnímu vyloučení 2021+
+
+MBA – Master of Business Administration (akademický titul)
+
+MČ – městská část
+
+MMR – Ministerstvo pro místní rozvoj
+
+MPSV – Ministerstvo práce a sociálních věcí
+
+MŠMT – Ministerstvo školství, mládeže a tělovýchovy
+
+MŠ – mateřská škola
+
+NNO – nestátní nezisková organizace
+
+NOP – národní operační program (v textu jako zdroj financí)
+
+NPI – Národní pedagogický institut České republiky
+
+OMJ – odlišný mateřský jazyk
+
+OP JAK – Operační program Jan Amos Komenský
+
+OSZ – Odbor pro sociální začleňování (MMR)
+
+PDIA – problem-driven iterative adaptation (iterativní řízení změny)
+
+
+
+                                                                                                                     5
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 10 / 60
+PDOV / PODV – Plán desegregačních opatření ve vzdělávání (v textu používáno
+synonymně)
+
+PO I–V – podpůrná opatření I. až V. stupně
+
+PPP – pedagogicko-psychologická poradna
+
+PSZ – Plán sociálního začleňování (města Brna)
+
+S01 / M03 / S4c – kódy statistických výkazů MŠMT
+
+SŠ – střední škola
+
+SPC – speciálně pedagogické centrum
+
+SVL – sociálně vyloučená lokalita
+
+SVP – speciální vzdělávací potřeby
+
+SZ – sociální znevýhodnění
+
+ŠPZ – školská poradenská zařízení
+
+SMB – statutární město Brno
+
+ZŠ – základní škola
+
+
+
+
+                                                                                                                     6
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 11 / 60
+Úvod
+Plán desegregačních opatření v oblasti vzdělávání (PDOV) obce je zpracováván a realizován ve
+spolupráci zástupců obce a Odboru pro sociální začleňování MMR v rámci Koordinovaného přístupu
+k sociálnímu vyloučení 2021+. Cílem PDOV je nastavit desegregační opatření v oblasti vzdělávání, tedy
+systematická a koncepční podpora místní vzdělávací soustavy obce tak, aby bylo zajištěno kvalitní
+vzdělávání umožňující všem dětem regionu dosahovat svého potenciálu. Plán je zpracován v kontextu
+předpokládaného demografického a sociálně ekonomického vývoje na základě aktuální analýzy
+situace a jejího vývoje. PDOV realizuje platforma pro vzdělávání, sdružující síť všech klíčových aktérů
+místní vzdělávací soustavy a je vedena ve spolupráci zástupců obce a Odboru pro sociální začleňování
+(dále jen OSZ). Strategický plán je zpracováván v obcích, se kterými bylo podepsáno memorandum a
+je v souladu s platnými národními, krajskými a místními strategickými dokumenty (viz níže).
+
+Zahájení realizace projektu předcházela žádost obce o zařazení do spolupráce v rámci projektu
+Desegregace ve vzdělávání dětí a žáků se sociálním znevýhodněním, ve které obec uvedla informace
+k danému tématu, popsala dosavadní kroky a případné využité zdroje, deklarovala shodu stakeholderů
+ve vzdělávání na svém území spolupracovat na řešení situace, identifikovala hlavní očekávání.
+Následovala pracovní schůzka s představiteli obce, škol, sociálního sektoru, který v obci působí, kde
+byly informace podrobněji probrány a došlo k dohodě o spolupráci obce a realizátorů projektu (ASZ).
+Bylo vypracováno memorandum o spolupráci, jehož součástí jsou vyjádřené závazky obou stran a
+identifikace hlavních oblastí, které by obec chtěla v rámci účasti na projektu řešit. Součástí memoranda
+je i závazek vytvoření Plánu opatření desegregace ve vzdělávání (PODV), na jehož přípravě a
+implementaci se budou obě strany podílet. Plán bude postoupen ke schválení zastupitelstvu obce a s
+jeho implementací bude obec pokračovat i po ukončení projektu Desegregace ve vzdělávání dětí a
+žáků se sociálním znevýhodněním. Memorandum bylo podepsáno oběma stranami 16.9.2024. Jde o
+první východisko k přípravě PODV.
+
+
+
+
+    1. Základní informace o nositeli
+
+ Název obce a status                           Statutární město Brno
+ Kraj                                          Jihomoravský
+ Počet obyvatel                                402 739 obyvatel Zdroj: městský datový portál Brna (ke
+                                               konci roku 2024)
+
+
+1.1 Základní údaje o školách v obci.
+Na území MČ Brno-sever působí sedm základních škol zřizovaných městskou částí (některé s více
+pracovišti). Vedle nich zde působí i další základní školy jiných zřizovatelů (krajské – včetně škol podle
+
+                                                                                                                     7
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 12 / 60
+§ 16 odst. 9 a ZŠ speciální a školy soukromé). Dlouhodobý vývoj ukazuje kolísání počtu žáků a
+nerovnoměrné rozložení naplněnosti a vzdělávacích potřeb mezi školami.
+
+
+Tabulka 1 - Přehled kapacit, naplněnosti a složení 1. ročníků ZŠ v MČ Brno-sever (2025/2026)
+
+ Škola / pracoviště      Kapacita      Naplněnost       Počet          Počet mimo          SVP            Sociální
+                                       (%)              spádových      spádových           celkem         znevýhodněn
+                                                        žáků – 1.      žáků – 1.           (M3 dle        í (Němec,
+                                                        ročník         ročník              ŠPZ)           kategorie
+                                                                                                          II+III)
+  ZŠ a MŠ                   1020             51,96           37               17               377               321
+                                                                                   —/
+  Merhautova                                                                       272
+
+ ZŠ J. A.                    550              41             17                5               161               75
+ Komenského a MŠ
+ (nám. Republiky)
+ ZŠ a MŠ                     690             72,5            48               18               120               37
+ Masarykova
+ (Zemědělská)
+
+  ZŠ a MŠ Blažkova           700              88             50               14               116               25
+
+  ZŠ Janouškova              800             59,5            33               32                6                33
+
+  ZŠ a MŠ Milénova           720             95,69           73               13                92               2
+
+ ZŠ Zeiberlichova           150               90             20                5               15                8
+                         (aktuálně                                                             (k
+                           135)                                                            22.10.2025
+                                                                                            18 žáků)
+Zdroj: ZŠ Brno-sever, zpracováno ASZ 2025.
+
+Na základě dostupných dat lze konstatovat, že naplněnost a složení žáků se mezi školami výrazně liší
+a že u většiny škol rejstříková kapacita neodpovídá aktuální provozní kapacitě (zřizovatel proto zahájil
+průběžné aktualizace v rejstříku). Ilustrativně: u ZŠ J. A. Komenského činí aktuální kapacita 300 žáků a
+naplněnost přibližně 74 %. Současně byly identifikovány (Analytický podklad, 2025) dvě školy se
+segregačním charakterem: ZŠ a MŠ Merhautova (souhrn pracovišť Merhautova + Vranovská) a ZŠ J. A.
+Komenského. U těchto škol bude prioritou cílená podpora a postupné desegregační kroky v rámci
+platných pravidel. Pro plánování na úrovni MČ a města se předpokládá, že zřizovatel plánuje vycházet
+z reálných kapacit a aktuálních třídních stavů (nikoli pouze z rejstříkových údajů), průběžně
+monitorovat poměr spádových a mimospádových žáků v 1. ročnících a na školách s vysokou
+naplněností (např. Milénova, Blažkova, Zeiberlichova) včas připravovat kapacitní opatření. Výše
+uvedené kroky mají za cíl stabilizovat síť, posílit rovné příležitosti a podpořit kvalitní vzdělávání ve
+všech lokalitách MČ Brno-sever.
+V MČ Brno-sever působí 19 mateřských škol (z toho 16 zřizovaných MČ, 4 soukromé a 1 krajská MŠ
+podle § 16 odst. 9 – MŠ, ZŠ a SŠ Gellnerka). K 30. 9. 2024 navštěvovalo MŠ celkem 1 548 dětí, z toho 1
+
+                                                                                                                       8
+       Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                           CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                      Strana 13 / 60
+513 v běžných třídách a 35 ve třídách speciálních (mimo Gellnerku byla speciální třída otevřena také
+na ZŠ a MŠ Blažkova). V individuálním vzdělávání bylo evidováno 10 dětí. Věkově šlo přibližně o 8 %
+dětí mladších 3 let, přibližně 30 % předškoláků (5–6 let) a 93 dětí starších 6 let (pravděpodobné
+odklady). Nejvíce „nově nastoupivších“ předškoláků vykázala ZŠ a MŠ Merhautova.
+Tabulka 2 – Počet tříd, dětí a dětí se SVP v MŠ v Brně-sever ve školním roce 2024/2025
+ škola                pracoviště            zřiz.    typ školy      běžné třídy       speciální třídy               děti
+                                                                    Třídy děti IV třídy děti IV                     celkem
+                                                                                                                    (bez
+                                                                                                                    IV)
+ MŠ Bieblova          Bieblova 161/16       obec         MŠ běžná           4      96      2       0      0    0         96
+ MŠ Brechtova         Brechtova 815/6       obec         MŠ běžná           5     109      0       0      0    0        109
+ MŠ Černopolní        Černopolní            obec         MŠ běžná           3      65      2       0      0    0         65
+                      788/3a
+ MŠ Jugoslávská       Jugoslávská           obec         MŠ běžná           2      50      0       0      0    0          50
+                      627/70
+ MŠ Kohoutova         Kohoutova             obec         MŠ běžná           3      62      0       0      0    0          62
+                      1513/6
+ MŠ Marie             Marie Majerové        obec         MŠ běžná           2      46      0       0      0    0          46
+ Majerové             792/14
+ MŠ nám. SNP          náměstí SNP           obec         MŠ běžná           3      71      1       0      0    0          71
+                      1987/25a
+ MŠ Slavíčkova        Slavíčkova 53/1       obec         MŠ běžná           5     116      2       0      0    0       116
+ MŠ Šrámkova          Šrámkova 432/14       obec         MŠ běžná           3      70      0       0      0    0        70
+ MŠ Tišnovská         Tišnovská             obec         MŠ běžná           6     147      2       0      0    0       147
+                      1791/169
+ MŠ Síčka             Síčka 376/1a          obec         MŠ běžná           2      49      0       0      0    0          49
+                      Dohnalova             obec         MŠ běžná           3      72      0       0      0    0          72
+                      829/63
+ Masarykova ZŠ a      Zemědělská            obec         MŠ běžná           2      45      0       0      0    0          45
+ MŠ                   173/29
+ ZŠ a MŠ J. A. K.     Cacovická 264/6       obec         MŠ běžná           2      35      1       0      0    0          35
+ ZŠ a MŠ              Sýpka 796/26a         obec         MŠ běžná           3      68      0       0      0    0          68
+ Merhautova           Vranovská             obec         MŠ běžná           2      44      0       0      0    0          44
+                      182/17
+                      Merhautova            obec         MŠ běžná           2      44      0       0      0    0          44
+                      932/37
+ ZŠ a MŠ Milénova     Loosova 816/11        obec         MŠ běžná           5     116      0       0      0    0       116
+ ZŠ a MŠ Blažkova     Nejedlého             obec         MŠ běžná           3      65      0       1     12    0        77
+                      261/13
+ MŠ a ZŠ Sluníčko     Šrámkova 432/14       priv.        MŠ běžná           2      45      0       0      0    0          45
+                                            sektor
+                      Provazníkova          Priv.        MŠ běžná           2      24      0       0      0    0          24
+                      1578/84               sektor
+ MŠ Semínko           Melatín 471/24b       priv.        MŠ běžná           1      21      0       0      0    0          21
+                                            sektor
+ MŠ Hrášek            Kohoutova             priv.        MŠ běžná           2      42      0       0      0    0          42
+                      1550/11               sektor
+ MŠ Kometka           Vranovská             priv.        MŠ běžná           1      11      0       0      0    0          11
+                      182/17                sektor
+
+                                                                                                                      9
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 14 / 60
+ MŠ, ZŠ a SŠ           Šrámkova 419/1        kraj         MŠ podle           0        0     0       2     23    0         23
+ Gellnerka                                                16/9
+ celkem                                                                     68    1513    10        3     35    0     1548
+Zdroj: MŠMT, S01, k 30. 9. 2023
+Pozn. MŠ a ZŠ Sluníčko a MŠ Kometka mají ještě další pracoviště mimo Brno-sever. V tabulce jsou zohledněny pouze počty
+dětí pracovišť, která se nacházejí v MŠ Brno-sever. IV – navíc s indiv. vzděl. podle § 34b ŠZ
+
+Data potvrzují, že speciální a zvýšené potřeby podpory jsou soustředěny především v krajské MŠ
+(Gellnerka, § 16/9) a částečně v ZŠ a MŠ Blažkova (speciální třída). Z běžných MŠ nejvyšší podíl dětí se
+SVP dlouhodobě vykazuje ZŠ a MŠ J. A. Komenského. Děti s cizím státním občanstvím (zejména
+ukrajinským) jsou v MŠ rozloženy spíše rovnoměrněji než v ZŠ, nejvyšší podíly jsou u ZŠ a MŠ J. A.
+Komenského a MŠ Černopolní. Pro cílení podpory je vhodné průběžně vyhodnocovat vazbu na
+spádové oblasti s výskytem SVL (zejména MŠ Černopolní, MŠ Tišnovská, ZŠ a MŠ Merhautova, ZŠ a MŠ
+J. A. Komenského).
+Podrobný popis sítě škol, jejich specifik a datových trendů (kapacity, naplněnost, SVP, sociální
+znevýhodnění, žáci s OMJ) je uveden v přiloženém dokumentu „Analytický podklad: Brno-sever — Jana
+Mair, Leden 2025“.
+
+
+
+    2. Závazky spolupráce obce vyplývající z memoranda
+Kapitola vychází z toho, k čemu se MČ Brno-sever v Memorandu zavázala a co od spolupráce s MMR
+očekává. Spolupráce je se opírá o tři propojené linie: posílení prevence a včasné identifikace v systému
+ochrany dětí, budování kompetencí a nástrojů pro každodenní preventivní práci škol a služeb, a
+přípravu konkrétních i systémových řešení z pozice zřizovatele, která zvýší dostupnost a kvalitu
+vzdělávání dětí a žáků se sociálním znevýhodněním včetně těch ze sociálně vyloučených lokalit. Těmito
+závazky prochází společný cíl, aby se práce škol, rodin, zřizovatele i partnerských organizací opírala o
+data, sdílené postupy a pravidelnou koordinaci.
+První linie se promítá do vize i do Cíle 3. Záměrem je, aby mezioborová spolupráce fungovala od
+mateřských škol, přes základní až po střední školy, aby byla jasně určena odpovědnost a aby se
+informace o potřebách dětí předávaly včas. Prakticky to rozpracovávají opatření 5., 6. a 7. V rámci 5.
+opatření dojde k rozšíření existující platformy o další aktéry a nastavení pravidelného mechanismus
+spolupráce pro přechody mezi stupni vzdělávání. V opatření 6. dojde, ve spolupráci s poradenskými
+zařízeními, ke zmapování kapacity, čekacích lhůt a postupů, a přípravě podkladů pro jejich posílení.
+Opatření 7. zavede společný rámec řešení situací, které mohou narušit plynulost vzdělávací dráhy, od
+nepřijetí do školy až po odchod ze systému. Tato tři opatření dohromady naplňují memorandový
+závazek posílit prevenci, včasnou identifikaci i koordinaci a převádějí ho do srozumitelného provozního
+standardu.
+Druhá linie cílí na každodenní praxi škol a služeb. Očekávání, že spolupráce pomůže budovat
+kompetence a nástroje pro účinné zavádění prevence, přímo odpovídá Cíli 1 a opatření 3. Školy budou
+pracovat s jednotným rámcem identifikace a podpory vzdělávacích potřeb dětí a žáků, budou
+pravidelně revidovat podpůrné plány, dostanou metodickou oporu, supervizi a možnost sdílet příklady
+
+                                                                                                                     10
+       Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                           CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                     Strana 15 / 60
+dobré praxe. Součástí je i odstraňování finančních bariér, aby rodinná situace nebrzdila účast ve
+vzdělávání. To jsou přesně ty prvky, které Memorandum akcentuje jako preventivní infrastrukturu, jež
+má problémům předcházet dřív, než přerostou do vážného ohrožení dítěte.
+Třetí linie se týká systémových kroků zřizovatele. Memorandum zde očekává návrhy konkrétních
+opatření i systémových řešení, která zajistí lepší podmínky pro vzdělávání dětí a žáků se sociálním
+znevýhodněním. Odpovědí je kombinace opatření 1., 2. a 4. V souvislosti s opatřením 1. bude zaveden
+pravidelný monitoring kapacit a složení tříd, aby se rozhodování o kapacitách i podpoře opíralo o
+srozumitelná data. Opatření 2. přináší motivační a hodnoticí nástroje směrem k vedení škol, které
+systematicky zohlední kvalitu inkluzivní praxe. Opatření 4. posiluje včasný vstup do mateřských škol
+prostřednictvím komunitního pracovníka a adaptačních programů a je přímou reakcí na potřebu
+zvyšovat dostupnost raného vzdělávání, pracovat s rodinami a pomáhat při zápise i adaptaci. Tato
+opatření dávají zřizovateli do ruky data, nástroje řízení i terénní oporu, takže se memorandový
+požadavek na konkrétní a systémové změny překlápí do proveditelných kroků.
+Celek drží pohromadě procesní ujednání Memoranda. PDOV byl připravován participativně,
+projednáván v obecní platformě a postoupen ke schválení v orgánech MČ, statutárního města Brna a
+JMK. Platforma funguje jako stálý koordinační uzel, kde se vyhodnocují data, dolaďují pravidla
+spolupráce a aktualizují priority. Tím se závazky z Memoranda nestávají jednorázovým prohlášením,
+ale rámcem, který dává jasnou linku od prevence a včasné identifikace, přes budování kompetencí ve
+školách, až po systémová rozhodnutí zřizovatele. Vize, cíle a jednotlivá opatření PDOV jsou s těmito
+závazky pevně provázané a dávají jim konkrétní podobu v čase i odpovědnostech.
+
+
+
+
+    3. Základní shrnutí z analýzy
+
+3.1 Východiska a závěrečné shrnutí analýzy
+
+Analytický podklad pro MČ Brno-sever (leden 2025) prokazuje dlouhodobě nerovnoměrnou distribuci
+dětí a žáků se sociálním znevýhodněním, s výraznou kumulací ve vybraných školách (zejména ZŠ a MŠ
+Merhautova a ZŠ a MŠ J. A. Komenského). Identifikovanými příčinami jsou kombinace faktorů:
+spádovost a přítomnost sociálně vyloučených lokalit, nejednotná evidence, omezená dostupnost
+spolehlivých dat (zejména v MŠ) a nedostatečné provázání podpůrných služeb mezi stupni vzdělávání.
+Doporučení analýzy směřují k zavedení pravidelného datového monitoringu kapacit a složení tříd, k
+posílení mezioborové spolupráce, k jednotným postupům identifikace potřeb a k metodické opoře
+škol v heterogenních třídách, včetně supervizí a cílených intervencí. Zvláštní důraz je kladen na řízené
+přechody mezi MŠ–ZŠ–SŠ (předávání informací, jasné kompetence, kontinuita podpory). Tato
+východiska tvoří přímou oporu pro formulované cíle a navržená opatření PDOV.
+
+
+
+
+                                                                                                                    11
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 16 / 60
+3.2 Aktuální závěry identifikace žáků se sociálním znevýhodněním (2024/2025)
+
+Identifikace, realizovaná ve spolupráci MČ Brno-sever a Agentury pro sociální začleňování (ASZ),
+přinesla srovnatelná data pro řízení. Na ZŠ zřizovaných MČ bylo identifikováno 3 272 žáků celkem, z
+toho 469 v kategoriích II–III (vyšší/závažné SZ). Rozložení je nerovnoměrné a potvrzuje kumulaci
+zejména na ZŠ a MŠ Merhautova a ZŠ a MŠ J. A. Komenského, u MŠ tvoří děti se SZ kategorie II–III
+přibližně 10,8 % všech dětí. Strukturálně dominují bariéry v oblasti nedostatečné domácí podpory a ve
+vyučovacím jazyce. Níže uvádíme přehled pro ZŠ (kategorie II+III) a komentář.
+
+Tabulka 3 - Identifikace žáků se SZ na ZŠ MČ Brno-sever (2024/2025, kategorie II+III)
+
+ Škola / pracoviště                         Počet žáků celkem      II            III            II+III        Podíl II+III
+ ZŠ a MŠ Merhautova – Vranovská             233                    86            73             159           68 %
+ ZŠ a MŠ Merhautova – Merhautova            319                    58            55             113           35 %
+ ZŠ a MŠ J. A. Komenského                   250                    42            40             82            33 %
+ Masarykova ZŠ a MŠ – Zemědělská            292                    7             15             22            8%
+ Masarykova ZŠ a MŠ – Jugoslávská           229                    1             10             11            5%
+ ZŠ a MŠ Blažkova                           624                    13            10             23            4%
+ ZŠ Janouškova                              500                    29            21             50            10 %
+ ZŠ a MŠ Milénova                           689                    4             5              9             1%
+ ZŠ Zeiberlichova                           136                    0             0              0             0%
+ Celkem                                     3 272                  240           229            469           —
+Zdroj: zpráva z identifikace, zpracováno ASZ 2025.
+
+Data potvrzují tezi z analytického podkladu o kumulaci žáků se SZ na dvou školách, průměru se
+přibližuje ZŠ Janouškova, zatímco ostatní školy vykazují nižší podíly. Identifikace současně ukazuje, že
+žáků vykazovaných ve výkazech jako žáci se SVP z důvodu odlišného kulturního prostředí je méně než
+žáků v kategorii III podle identifikační metodiky. Mapování tedy odhalilo širší skutečnou potřebu
+podpory a zdůraznilo nutnost cílit opatření nad rámec formální evidence. V profilaci bariér převažuje
+oblast A (nedostatečná podpora vzdělávání v domácím prostředí, 72 % všech identifikovaných) a
+oblast B (vyučovací jazyk, 63 %). Tyto vzorce určují typy a pořadí podpory, které je účelné nasazovat v
+MŠ i ZŠ.
+
+
+
+3.3 Návrh metodiky realizace identifikace v obci (součást monitoringu a řízení)
+
+Identifikaci je účelné ukotvit jako standardní, opakovaný proces v ročním cyklu řízení. V září–říjnu
+proběhne sběr na MŠ a ZŠ, v listopadu školní validace a v prosinci agregované vyhodnocení pro
+rozhodování zřizovatele. Sbírá se jednotná sada indikátorů na úrovni tříd a škol (spádovost,
+naplněnost, složení tříd, podíl SZ dle kategorií, typy bariér, využívaná podpůrná opatření, docházka v
+MŠ). Školy zajišťují sběr a prvotní validaci, MČ koordinuje metodiku, agregaci a interpretaci. ASZ plní
+roli odborného partnera pro metodické vedení a analytickou oponenturu. Výstupy vstupují do
+platformy MČ a do řízení (kapacity, podpory, personální alokace, komunikace s rodiči). Ochrana údajů
+je ošetřena pseudonymizací a agregací na úrovni organizací. Tento rámec je přímo propojen
+
+                                                                                                                       12
+        Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                            CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                       Strana 17 / 60
+s opatřením 1. (monitoring), poskytuje podklady pro opatření 3. (školní podpůrné postupy) a opatření
+5. (řízení přechodů), v MŠ zároveň cílí opatření 4.
+
+3.4 Soulad závěrů analýzy s Memorandem a rozsah nutného rozšíření plánu
+
+Memorandum předpokládá, že spolupráce přinese jednak posílení prevence a včasné identifikace a
+mezioborovou koordinaci směřující k doporučenému postupu, jednak rozvoj praktických nástrojů v
+prostředí škol a služeb (stravování, doučování, družiny/kluby, dostupná odborná konzultace) a
+konečně také konkrétní i systémová opatření z pozice zřizovatele ke zvýšení dostupnosti a kvality
+vzdělávání žáků se SZ. Zjištění analýzy tato očekávání potvrzují a zároveň rozšiřují o dvě nezbytné
+opory řízení: pravidelný datový monitoring (bez něj nelze včas řídit kapacity a rozložení podpory) a
+koordinaci přechodů včetně provázání poradenských služeb (PPP/SPC), protože ztráty podpory se
+nejčastěji objevují právě při změně stupně vzdělávání. To zdůvodňuje, proč PDOV vedle
+memorandových bodů explicitně zavádí systematický monitoring a platformní řízení přechodů.
+
+Systémové problémy popsané výše se promítají do cílů PDOV a dále do opatření a aktivit, aby byla
+zřejmá kauzální návaznost.
+
+Oblast 1: kumulace žáků se sociálním znevýhodněním a nerovnoměrné kapacity
+
+Tuto oblast naplňuje cíl 1, který požaduje datově podložené rozhodování a jednotné postupy podpory
+ve školách. Opatření 1. zavádí pravidelný monitoring kapacit a složení tříd a převádí jej do tří
+navazujících aktivit: zřízení pracovní skupiny a definice ukazatelů, příprava metodiky sběru a
+vyhodnocování a pilotní sběr s návrhem pravidelného monitoringu. Opatření 2. doplňuje motivační a
+hodnoticí nástroje vůči vedení škol se zřetelem na kvalitu inkluzivní praxe, navazuje na aktivity
+systematického zmapování současného systému hodnocení, formulace ukazatelů pro hodnocení
+inkluzivní práce a závěrečných konzultací s řediteli a zřizovateli před předložením návrhu k ověření.
+Opatření 3. sjednocuje rámec identifikace potřeb a podpůrných opatření, v aktivitách stanoví
+individuální posouzení při nástupu do školy, pravidelnou revizi podpůrných plánů, průběžnou
+metodickou podporu pedagogů a odstraňování finančních bariér na straně rodin. Tato trojkombinace
+vytváří datovou páteř pro rozhodování zřizovatele a současně standardizuje školní praxi tam, kde se
+kumulace a kapacitní nerovnováhy nejvíce projevují.
+
+
+Oblast 2: pozdní nástup do mateřských škol a slabší adaptace části dětí
+
+Na tuto oblast je zaměřen cíl 2, prostřednictvím opatření 4., které systematizuje práci s rodinami a
+ranou podporu v MŠ. V aktivitách stanoví výběr a zaškolení komunitního (peer) pracovníka z cílové
+komunity, nastavení a pravidelnou koordinaci spolupráce s MŠ, aktivní vyhledávání dětí v předškolním
+věku a podporu zápisu a adaptačních programů s průběžným vyhodnocováním jejich dopadů. Řešení
+tím zasahuje bariéry identifikované v předškolní fázi (rodinné zázemí, jazyk, orientace v administrativě)
+a zvyšuje pravděpodobnost včasného vstupu i stabilní docházky.
+
+                                                                                                                    13
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 18 / 60
+Oblast 3: ztráta podpory při přechodech mezi stupni a roztříštěná síť služeb
+
+
+Třetí oblast řeší cíl 3 prostřednictvím souboru opatření 5.–7. Opatření 5. rozšiřuje koordinační
+platformy MŠ–ZŠ a ZŠ–SŠ a nastavuje pravidelný mechanismus spolupráce, aktivity zahrnují doplnění
+klíčových aktérů (např. SŠ, sociální služby, kariérové poradenství) a minimálně dvakrát ročně řízená
+setkání s jasnými výstupy. Opatření 6. mapuje kapacity a zatížení poradenských služeb (PPP/SPC) a
+připravuje na základě datové analýzy návrhy na jejich posílení. Aktivity zahrnují mezioborová pracovní
+setkání, sběr a vyhodnocení dat o kapacitách a čekacích lhůtách a závěrečné projednání doporučení.
+Opatření 7. zavádí společný rámec postupu pro situace ohrožující kontinuitu vzdělávací dráhy. V
+aktivitách jsou definovány modelové situace, kontaktní osoby a mechanismus svolání intervenčního
+týmu, pravidla průběžného monitoringu rizik a školení zapojených subjektů pro jednotné zavádění
+rámce v praxi. Tímto se analytická zjištění převádějí do organizačního a metodického režimu, který drží
+podporu žáků napříč stupni a institucemi.
+
+
+
+3.5 Vedené vzdělávání v území
+Role a odpovědnost zřizovatele v pokračování vedení a plánování
+
+Zajištění kvalitního vzdělávání je dlouhodobý proces vyžadující systémové vedení a koncepční
+plánování. Tyto podmínky může naplnit pouze zřizovatel, který má zákonnou odpovědnost za rozvoj
+vzdělávání na svém území (§ 177 Školského zákona). Projekt s omezeným trváním může iniciovat
+změny, ale nemůže sám o sobě zajistit trvalou kvalitu ani odstranit nerovnosti ve vzdělávání.
+Očekávané dopady se budou moci projevit pouze, pokud zřizovatel zajistí kontinuitu započatých
+mechanismů celého procesu vedení a kontinuitu aktivit plánu PDOV.
+
+Tato kapitola deleguje zřizovateli odpovědnost za udržení kontinuity započatých procesů a
+vymezuje proto dvě zásadní podmínky z hlediska vedení vzdělávací soustavy. Níže je stručný soupis
+v bodech, v příloze PDOV jsou body rozepsány. Na konci projektu bude zřizovateli předána
+ucelenější a komplexnější koncepce pro systémové vedení vzdělávání v území, včetně podkladu pro
+pravidelný monitoring dat.
+
+1. Koncepční plánování založené na relevantních datech
+
+Zřizovatel přejímá odpovědnost za kontinuální vedení strategického plánování pro oblast vzdělávání
+na základě pravidelného sběru a kvalitního vyhodnocování relevantních dat. Vzdělávání je
+zřizovatelem vedeno na základě dlouhodobého komplexního plánu rozvoje vzdělávací soustavy v úzké
+spolupráci se školami a dalšími institucemi. Součástí tohoto přístupu je:
+
+    1. Analýza vzdělávacího systému (v 3–5letém intervalu) podle sady indikátorů.
+
+    2. Strategické plánování v 3–5letém intervalu, které na základě analýzy stanovuje cíle a opatření
+       vedoucí k zajištění kvalitního vzdělávání a k prevenci sociální či etnické segregace.
+
+                                                                                                                    14
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 19 / 60
+    3. Pravidelný monitoring (každoročně), který sleduje realizaci opatření a základní vyhodnocení
+       k zajištění srovnatelných podmínek škol z hlediska nároků na pedagogickou práci a
+       vyhodnocení k naplňování potřeb žáků jednotlivých škol.
+
+    4. Identifikace sociálního znevýhodnění, prováděná podle metodiky NPI, jako klíčový nástroj pro
+       nastavení podpůrných opatření.
+
+2. Vedení systémové spolupráce
+
+Zlepšování výsledků žáků a realizace plánu vyžaduje kontinuální a efektivní spolupráci a komunikaci
+všech účastníků vzdělávání, což vyžaduje systémové vedení. Tutu roli přejímá zřizovatel v níže
+sepsaných oblastech. Klíčovým předpokladem je leadership, který buduje v rámci platformy bezpečné
+prostředí, které umožňuje otevřený a konstruktivní dialog a posiluje sdílenou odpovědnost,
+vzájemnou důvěru a respekt. Takové prostředí umožňuje odborný dialog, sdílení praxe a reflexi, které
+vedou k profesnímu růstu pedagogů a ke skutečné synergii služeb.
+
+2.1. Vedení systému – Zřizovatel zajišťuje fungování platformy pro vzdělávání. Ta sjednocuje hodnoty,
+vizi a cíle vzdělávání v území a zajišťuje tak synergii služeb, slouží k strategickému plánování
+v dlouhodobém horizontu na základě vyhodnocování dat, koordinaci postupů v praxi a řešení aktuální
+agendy a poskytuje příležitost pro profesionalizaci všech zúčastněných, včetně sdílení praxe a její
+reflexe a sdílení metodických materiálů a zdrojů. Platforma by se měla scházet minimálně čtyřikrát
+ročně.
+
+2.2. Pedagogický leadership vedení škol – Důležitou součástí vedení vzdělávání je podpora
+pedagogického leadershipu ředitelů škol, kteří mají mít dostatečný prostor věnovat se profesnímu
+rozvoji učitelů. Zřizovatel může podpořit tuto roli vedení škol vytvořením kapacit pro snížení podpory
+procesní a správní agendy, zajištěním podpůrných služeb škol a vytvářením příležitostí ke kolegiálnímu
+sdílení a zajištěním pozice leadera pro vedení ředitelů škol.
+
+2.3. Komunikace s veřejností – Nedílnou součástí systémového vedení je kontinuální komunikace
+důležitých informací veřejnosti – vysvětlování významu vzdělávání jako klíčové společenské hodnoty
+a transparentní informování o postupu naplňování cílů a investic. Otevřený dialog, který umožňuje
+aktivní zapojení občanů, posiluje důvěru a zajišťuje dlouhodobou udržitelnost plánovaných změn.
+
+Jak se promění řízení vzdělávací soustavy
+Současné řízení je převážně reaktivní a fragmentované. Nový režim staví na třech provázaných
+rutinách:
+    1. Datové řízení: standardizovaný monitoring kapacit, složení tříd a potřeb žáků, pravidelné
+       výstupy pro zřizovatele a školy, včasná detekce kumulací.
+    2. Metodické řízení kvality: jednotné postupy v identifikaci a podpoře, cílená metodická opora
+       a supervize, motivační a hodnoticí nástroje vůči vedení škol s akcentem na inkluzivní praxi.
+    3. Koordinační řízení přechodů: stabilní platformy MŠ–ZŠ a ZŠ–SŠ, jasné informační toky,
+       společné řešení rizikových situací a provázání s poradenskými službami.
+                                                                                                                    15
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 20 / 60
+Desegregace je v tomto rámci kritériem řízení: sleduje se rozložení žáků se SZ, promítá se do
+kapacitních rozhodnutí, do podpůrných programů i do hodnocení kvality praxe škol. Platforma MČ je
+trvalým orgánem koordinace a evaluace PDOV, zajišťuje průběžné učení systému a úpravy opatření
+podle dat a jeho dopad.
+
+
+
+
+    4. Tvorba strategického plánu
+Plánování bylo zahájeno analýzou vzdělávacího sytému v lokalitě, která vychází z terénního výzkumu
+(individuální rozhovory) desktop analýzy a vyhodnocení dat ze zdrojů MŠMT, škol a obce. Součástí
+analýzy jsou anonymizovaná data o dětech a žácích se sociálním znevýhodněním v jednotlivých třídách
+základních a mateřských škol. Data jsou sbírána podle metodiky NPI Identifikace žáků se sociálním
+znevýhodněním v mateřské, základní a střední škole.
+
+Výstupy analýzy byly představeny na platformě pro vzdělávání a zároveň byla na jednáních platformy
+formulována a hlasováním přijata vize rozvoje vzdělávací soustavy v obci. Na základě doporučení
+analýzy, priorit stanovených obcí v memorandu a vize se následně stanovili cíle, které vedou k naplnění
+vize. Cíle byli zpracovány zástupci platformy metodami strategického plánování. Následně se cíle
+rozpracovaly do jednotlivých opatření a aktivit, které stanovují konkrétní činnosti se stanovenými
+termíny a odpovědností. Výsledný PDOV byl připomínkován a schválen členy platformy a předložen ke
+schválení radě obce a posléze zastupitelstvu obce.
+
+Při tvorbě Strategického plánu byla využita data dostupná OSZ a školství, dále data ze vstupní analýzy
+realizované výzkumnicí ASZ, zejména výstupy z rozhovorů s ředitelkami a ředitelem mateřských a
+základních škol a se zástupci cílové skupiny. Dalším zdrojem jsou data vyplývající z realizace
+identifikace žáků ohrožených sociálním znevýhodněním. Současně byla východiska a hlavní opatření
+plánu projednána s Poradním sborem pro záležitosti romské menšiny statutárního města Brna.
+
+Strategický plán je postaven na logice „od výzev k akci“, která kombinuje teorii změny s iterativním
+řízením typu PDIA, tedy problem driven iterative adaptation. V první fázi jsou ve spolupráci s partnery
+identifikovány a datově ověřeny hlavní výzvy, včetně jejich systémových a provozních příčin. Druhá
+fáze popisuje současný stav a limity, aby bylo zřejmé, jak se výzvy promítají do kapacit, procesů a
+výsledků vzdělávání. Třetí fáze převádí ověřená zjištění do žádoucího stavu, cílů a opatření, které jsou
+dále rozpracovány do aktivit, odpovědností, termínů a indikátorů. PDIA v tomto rámci zajišťuje, že plán
+není statický dokument, ale živý nástroj, jenž se opírá o průběžná data, pravidelnou reflexi v platformě
+a cílené úpravy postupu.
+
+4.1 Proces strategického plánování v MČ Brno-sever
+
+
+Postup byl od počátku založen na práci Obecní platformy, přičemž probíhala pravidelná měsíční
+setkání zaměřená na formulaci výzev a ověřování zjištění v praxi škol a služeb. V prosinci 2024 byla
+
+                                                                                                                    16
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 21 / 60
+platforma formálně ustanovena v rámci spolupráce s ASZ a nadále se schází jedenkrát měsíčně.
+Koordinátor ASZ zajišťoval operativní řízení a přípravu kroků po dohodě s vedením obce, odbor školství
+zprostředkovával návaznost na rozhodování zřizovatele a školy doplňovaly odborné a provozní
+souvislosti. Každé téma bylo nejdříve prodiskutováno na platformě, poté zpracováno do podoby
+návrhů cílů a opatření a znovu projednáno, aby se dosáhlo srozumitelného konsenzu nad obsahovou
+i realizační stránkou. Tento cyklus byl jednotný: nejprve vymezení hlavních výzev, následně popis
+současného stavu a limitů a poté formulace žádoucího stavu v podobě cílů, opatření a aktivit.
+
+Tabulka 4 - Matice klíčových výzev a opatření PDOV: současný stav a limity → žádoucí stav, cíle a kroky
+
+ VÝZVY                             SOUČASNÝ STAV A LIMITY                   ŽÁDOUCÍ STAV, CÍLE A OPATŘENÍ
+ Síť a spádovost, kapacity,           ➢ Nerovnoměrné rozložení              Cíl 1 rovný přístup do spádových škol,
+ rezidenční a intraškolní                žáků      se     sociálním         Opatření 1.1 pravidelný monitoring
+ segregace                               znevýhodněním a jejich             kapacit a složení tříd, Opatření 1.2
+                                         kumulace ve vybraných              motivační a hodnoticí nástroje pro
+                                         školách,                           vedení škol, Opatření 1.3 jednotný
+                                      ➢ nesoulad mezi reálnou               rámec podpory ve školách
+                                         poptávkou a kapacitami
+                                         škol,
+                                      ➢ omezené           predikční
+                                         nástroje
+                                      ➢ neaktuální         spádová
+                                         nastavení
+ Pedagogická          praxe,          ➢ Zátěž práce v heterogenní           Rozvoj inkluzivní praxe v rámci Opatření
+ personál, důvěra rodičů                 třídě,                             1.3, metodická podpora a supervize,
+                                      ➢ nedostatek odborného                sdílení příkladů dobré praxe, cílená
+                                         pedagogického                      komunikace s rodiči a vzdělávací aktivity
+                                         personálu,
+                                      ➢ neinformovaná
+                                         diagnostika,
+                                      ➢ nižší důvěra rodičů v
+                                         inkluzivní postupy
+ Raný věk a vstup do MŠ               ➢ Nižší docházka dětí se              Cíl 2 včasný nástup a stabilní docházka
+                                         sociálním                          do MŠ, Opatření 2.1 komunitní
+                                         znevýhodněním do MŠ,               pracovník, asistence u zápisu, adaptační
+                                      ➢ bariéry při zápisu a                programy,        aktivní       propojení
+                                         adaptaci                           předškolních klubů s MŠ
+                                      ➢ informační a finanční
+                                         překážky pro rodiny
+ Přechody MŠ–ZŠ–SŠ a síť              ➢ Ztráta kontinuity podpory           Cíl 3 koordinovaná kontinuita podpory,
+ podpůrných služeb                       při přechodech mezi                Opatření 3.1 platformy pro přechody,
+                                         stupni                             Opatření 3.2 mapování a posílení PPP a
+                                      ➢ vytížené        poradenské          SPC, Opatření 3.3 společný rámec pro
+                                         služby                             řešení mimořádných situací
+                                      ➢ rozdílné postupy,
+                                      ➢ nerovnoměrné         sdílení
+                                         informací
+
+Zdroj: Výstupy Obecní platformy desegregace ve vzdělávání Brno-sever, zpracováno ASZ 2025
+
+
+                                                                                                                     17
+       Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                           CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                     Strana 22 / 60
+Každý řádek představuje ucelenou linku od identifikované výzvy, přes ověřené zjištění, k cílené reakci
+v podobě cíle a opatření. Převod do praxe probíhá na úrovni aktivit a odpovědností, které jsou v PDOV
+specifikovány časově i věcně. Tím se daří udržet přímou návaznost mezi daty a rozhodnutím
+zřizovatele, mezi potřebami škol a poskytnutou podporou a mezi očekávanými výsledky a způsobem
+vyhodnocování.
+
+4.2 Propojení metodiky s praxí Brna-sever
+
+
+Použitá metodika záměrně kombinuje dvě roviny. Teorie změny poskytuje jasnou mapu vztahů a
+vysvětluje, proč navržená opatření povedou k posunu v žádoucím směru. PDIA zase přináší rytmus
+krátkých iterací a učení na základě důkazů. V brněnské realitě to znamená, že výše uvedená tabulka
+slouží jako stabilní referenční rámec, zatímco operativní kroky jsou průběžně laděny podle nových
+zjištění z identifikace, monitoringu kapacit, průchodů dětí mezi stupni a zpětné vazby škol a rodin.
+Všechny zásadní změny jsou projednávány na Obecní platformě, aby zůstala zachována srozumitelná
+dělba odpovědností i předvídatelnost postupu.
+
+4.3 Procesní rámec a časová osa PDOV (2023–2027)
+
+
+
+
+                                                                                                     Rok 2027 —
+                                                                                                     Implementace
+                                                                            Rok 2026 —               návrhů do praxe
+                                                                            Přechodová
+                                                   Listopad 2025 –          fáze,
+                                                   leden 2026 —             konkretizace
+                          Říjen 2024 –             Schvalování
+                          říjen 2025 —             PDOV (MČ, SMB,
+  Prosinec 2023 –         Participativní           JMK)
+  září 2024 —             tvorba PDOV
+  Přípravná fáze,
+  odborná diskuse
+
+
+
+
+Od prosince 2023 probíhá pravidelné setkávání Obecní platformy, která se stala stálým koordinačním
+uzlem pro sběr podnětů, vyhodnocování dat a slaďování postupů mezi zřizovatelem, školami a dalšími
+partnery. Na jaře 2024 byla zahájena participativní práce na podobě vize, cílů a opatření a 16. září 2024
+došlo k uzavření spolupráce s Agenturou pro sociální začleňování, která zajišťuje metodické vedení a
+facilitaci procesu.
+
+Od října 2024 do září 2025 navázala intenzivní spolutvorba dokumentu (PDOV): konsolidovala se
+analytická východiska, ověřovala proveditelnost návrhů v praxi a ladily se parametry tak, aby kroky
+byly jak legislativně, tak provozně realizovatelné. Výsledný návrh je tedy výstupem dlouhodobé
+                                                                                                                    18
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 23 / 60
+odborné diskuse o potřebách a limitech místní vzdělávací soustavy, nikoli souborem nahodilých
+opatření.
+
+V období listopad 2025–leden 2026 jsou plánovány schvalovací procesy na úrovni MČ Brno-sever,
+statutárního města Brna a Jihomoravského kraje. Následně, v roce 2026, je plánována přechodová
+implementace: řízené pilotáže, dolaďování indikátorů řízení vzdělávací soustavy, pracovních kritérií
+pro hodnocení vedení škol a rámce přechodových strategií mezi stupni vzdělávání, a to s průběžným
+vyhodnocováním dopadů. Rok 2027 je vyhrazen řízenému zavádění v dohodnuté finální podobě,
+dosažení konsenzu mezi realizátory a formální revizi PDOV, která promítne zkušenosti z pilotáže do
+stabilizovaného modelu praxe.
+
+
+    5. Vazba na strategické dokumenty
+
+Strategický plán je v souladu s platnými národními, krajskými a místními strategickými dokumenty:
+ Strategie sociálního začleňování 2021–2030;
+
+ Koordinovaný přístup k sociálnímu vyloučení 2021+ (KPSV+)
+
+ Strategie regionálního rozvoje ČR 2021+;
+
+ Národní strategie ochrany práv dětí na období 2021–2029
+ Dlouhodobý záměr vzdělávání a rozvoje vzdělávací soustavy ČR a kraje
+
+ Strategie rovnosti, participace a začlenění Romů 2021–2030
+ Strategickým rámcem EU pro rovnost, začlenění a účast Romů do roku 2030
+ Další strategické plány města:
+      • Koncepce obecního školství ve městě Brně do roku 2030 – prioritní osy Rovné příležitosti,
+           Dostupnost, Spolupráce, Kvalita
+      • Plán sociálního začleňování města Brna 2022–2027 + Akční plán 2025–2027 – oblast rodina a
+           zdraví, prevence, vzdělávání, spolupráce aktérů.
+      • Strategie integrace cizinců ve městě Brně 2020–2026 (+ navazující akční projekt 2025) – role
+           interkulturních/komunitních pracovníků a zprostředkovatelů
+
+ Další strategické dokumenty kraje (JMK):
+      • Dlouhodobý záměr vzdělávání a rozvoje vzdělávací soustavy JMK 2024–2028 – rovné příležitosti,
+           poradenské služby, kariérové poradenství, spolupráce aktérů.
+      • Krátkodobý realizační plán „Strategie rozvoje lidských zdrojů JMK“ – kapitoly k inkluzi a integraci
+           (provázanost s OŠML MMB)
+      • Strategie romské integrace v Jihomoravském kraji 2021–2025
+
+
+
+
+Tento dokument (vize, cíle, opatření i aktivity) je plně zasazen do aktuálního rámce města Brna a
+Jihomoravského kraje. V rovině vize a průřezových principů výslovně navazuje na Koncepci obecního
+školství ve městě Brně do roku 2030 – zejména na priority Rovné příležitosti, Dostupnost, Spolupráce
+                                                                                                                    19
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 24 / 60
+a Kvalita. Prakticky to rozvíjí v oblastech transparentních a kapacitně řízených zápisů (včetně e-zápisu)
+a v datově podloženém plánování sítě a tříd, které Koncepce přímo akcentuje. Tím je zajištěna věcná i
+procesní kompatibilita cílů 1–3 i navazujících opatření 1–7 s městskou vzdělávací politikou do roku
+2030.
+V oblasti sociální politiky a práce s rodinami dokument rozpracovává Plán sociálního začleňování
+města Brna 2022–2027 a jeho Akční plán 2025–2027, zejména kapitoly k rodině a zdraví, prevenci a
+vzdělávání a koordinaci aktérů. Opatření 3–4 (cílená podpora každému dítěti/žákovi,
+peer/interkulturní zprostředkování, asistované a adaptační aktivity v MŠ a odstraňování bariér účasti)
+naplňují logiku PSZ: včasné oslovení rodin, odstranění administrativních a informačních bariér,
+návaznost na poradenství a služby. Role komunitních/interkulturních pracovníků je současně pevně
+ukotvena ve Strategii integrace cizinců ve městě Brně 2020–2026 a v navazujícím projektu „Integrace
+cizinců v Brně VI“ (2025), které výslovně podporují field-outreach, zprostředkování mezi institucemi a
+cílenou komunikaci s rodiči.
+Na krajské úrovni je rámec dán Dlouhodobým záměrem vzdělávání a rozvoje vzdělávací soustavy JMK
+2024–2028, který klade důraz na rovné příležitosti, posílení poradenských služeb (PPP/SPC), kariérové
+poradenství a spolupráci aktérů. Opatření 5–7 (koordinace přechodů MŠ–ZŠ–SŠ, přechodové postupy,
+mapování a možné posílení kapacit PPP/SPC a společný rámec pro mimořádné situace) tento rámec
+naplňují: zavádějí pravidelné platformy a minimální standardy pro přenos informací, průběžný
+monitoring a návaznou podporu. Krátkodobý realizační plán Strategie rozvoje lidských zdrojů JMK
+(2024–2025) doplňuje implementační rovinu – podporu řízení kvality, profesního rozvoje a koordinace
+na úrovni zřizovatelů a škol – do níž spadají aktivity 2.1–2.3 (indikátory inkluzivní praxe a práce s
+vedením škol) i 3.4 (metodická podpora a DVPP). Vzhledem k lokálním specifikům je současně vhodné
+odvíjet některé nástroje od Strategie romské integrace v Jihomoravském kraji 2021–2025 (vzdělávání,
+prevence nerovností, komunitní práce), to se přímo propisuje do aktivit 3.1–3.5 a 4.1–4.5 (včasná
+identifikace potřeb, spolupráce s rodinami, peer podpora, adaptační programy).
+
+5.1 Rovné podmínky ve vzdělávání a prevence anticiganismu (antiromství)
+Tento plán je koncipován tak, aby byl v souladu se Strategií rovnosti, začlenění a participace Romů
+2021–2030 i se Strategickým rámcem EU pro rovnost, začlenění a účast Romů do roku 2030. Oba
+dokumenty akcentují odstraňování diskriminace a segregace romských dětí ve vzdělávání a podporují
+systematické kroky k předcházení anticiganismu. V českém kontextu tuto potřebu dále posiluje
+skutečnost, že vláda v roce 2024 přijala pracovní definici anticiganismu, čímž uznala jeho závažné
+dopady na postavení Romů ve společnosti.
+
+V podmínkách MČ Brno-sever se prevence anticiganismu promítá do cílů a opatření Plánu zejména
+těmito způsoby:
+
+    •    Datově podložené řízení kapacit a tříd (opatření 1): průběžné sledování naplněnosti a složení
+         tříd umožňuje včas rozpoznávat nerovnoměrnosti a snižovat riziko nežádoucí segregace.
+
+    •    Podpora kvality inkluzivní praxe (opatření 2): práce s hodnoticími a motivačními nástroji pro
+         vedení škol posiluje férové podmínky pro všechny žáky a spolupráci s rodiči.
+
+                                                                                                                      20
+        Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                            CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                      Strana 25 / 60
+    •    Cílená podpora dětí a žáků (opatření 3) a peer/interkulturní zprostředkování a adaptační
+         programy v MŠ (opatření 4): budují důvěru mezi rodinami a školami, snižují bariéry vstupu do
+         vzdělávání a napomáhají stabilní docházce.
+
+    •    Koordinace přechodů MŠ–ZŠ–SŠ a rámec pro mimořádné situace (opatření 5 a 7): vyjasňují
+         role, odpovědnosti a sdílení informací tak, aby bylo možné včas a koordinovaně reagovat na
+         situace, které by mohly vést k nerovnému zacházení.
+
+U vybraných aktivit (zejména 3.4, 4.1–4.5 a 7.1–7.3) bude při realizaci průběžně zohledněn metodický
+rámec uvedených strategií (prevence diskriminace, inkluzivní klima školy, participace rodičů). Rozsah
+a načasování „měkkých“ intervencí (školení, supervize, metodická podpora) se přitom bude odvíjet od
+dostupných kapacit MČ a města Brna a od koordinace se zapojenými partnery. Cílem je, aby místní
+kroky byly dlouhodobě udržitelné a v souladu s rámcem městské a krajské vzdělávací politiky.
+
+
+
+
+    6. Okruhy podpory a zaměření opatření
+6.1 Primární zaměření: děti zažívající sociální znevýhodnění
+
+Za sociální znevýhodnění považujeme souběh okolností, které dlouhodobě a významně ztěžují učení a
+účast dítěte na vzdělávání (např. materiální a bytová nouze, omezené vzdělávací zdroje v rodině,
+jazykové a kulturní bariéry, složitá rodinná situace, diskriminace či koncentrace znevýhodnění v
+lokalitě/škole).
+Vycházíme z metodiky Z. Němce1, která školám nabízí jednoduchý a funkční postup: posoudit dopady
+v 7 oblastech (podpora doma, vyučovací jazyk, projevy chování nezdravotního původu aj.), u každé
+oblasti ohodnotit závažnost (škála 0–1–2–4) a podle součtu určit kategorii 0 / I / II / III (od bez bariér
+po výrazné znevýhodnění). Cílem je včas poznat, kde skutečně vzniká vzdělávací bariéra, a přiměřeně
+nastavit podporu.
+Sociální znevýhodnění není totožné s etnicitou. V praxi však může častěji dopadat na děti z romských
+rodin, proto opatření výslovně míří i na prevence segregace a podporu heterogenních tříd.
+
+6.2 Další okruhy, které opatření posilují (vedle primárního cílení)
+    •    Děti s odlišným mateřským jazykem (OMJ) – jazyková a adaptační podpora, srozumitelná
+         komunikace s rodiči, využití komunitních/peer zprostředkovatelů.
+    •    Děti se speciálními vzdělávacími potřebami (SVP) – podpůrná opatření dle doporučení (PO I–
+         V), individualizace, asistentská a poradenská podpora.
+
+
+
+1
+  NĚMEC, Zbyněk. Identifikace žáků se sociálním znevýhodněním v základní škole. Praha: Národní pedagogický institut
+/ EDU.cz, 2023. Dostupné z: https://www.edu.cz/wp-content/uploads/2023/06/NEMEC-Zbynek-Identifikace-zaku-se-
+SZ_web.pdf [cit. 23. 10. 2025].
+
+                                                                                                                      21
+        Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                            CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                      Strana 26 / 60
+    •    Děti v riziku segregace (školy s dlouhodobou koncentrací znevýhodnění) – transparentní a
+         férové zápisy, práce se spádovostí v mantinelech zákona, cílené posílení podpory ve třídách.
+    •    Děti s kumulovanými riziky – delší trvání a lepší koordinace podpory mezi školou,
+         poradenstvím a sociálními službami.
+
+
+
+
+7. Vize a cíle
+7.1. Vize
+
+Motto: “Jednou z hlavních charakteristik úspěšných vzdělávacích systémů je nejširší shoda na tom,
+čeho chceme a můžeme prostřednictvím vzdělávání dosahovat.”
+
+
+ Znění vize: „V roce 2031 bude v Brně vytvořen vzdělávací systém, který umožní všem dětem a
+ žákům, bez ohledu na jejich sociální či etnický původ, naplno rozvinout svůj potenciál. Díky
+ efektivní spolupráci škol, rodin, institucí a komunit budou zajištěny rovné příležitosti ke
+ kvalitnímu vzdělávání, připravenost škol na práci v heterogenních třídách, stabilní vztahy mezi
+ majoritou a minoritami a systematické vyhodnocování pokroku pomocí datově podložených
+ nástrojů.“
+
+
+
+7.2. Cíle
+Na základě analýzy aktuální situace, definice kvality vzdělávání a shody na vizi si městská část Brno-
+sever stanovuje cíle, které je potřeba naplňovat pro zlepšování kvality vzdělávání:
+
+      1. Cíl
+ Formulace cíle:
+ Do konce roku 2031 bude každému dítěti a žákovi s trvalým pobytem ve statutárním městě Brně umožněno
+ být přijato do své spádové mateřské nebo základní školy, pokud o to zákonný zástupce projeví zájem
+ podáním přihlášky. * Pro každé dítě a žáka budou vytvořeny optimální podmínky pro vzdělávání a bude mu
+ poskytnuta potřebná podpora pro úspěšné zapojení do kolektivu.
+ *V případě, že škola výjimečně nemá volnou kapacitu, bude situace řešena individuálně ve spolupráci se
+ zřizovatelem – formulace dle platných legislativních norem.
+ Charakteristika SMART:
+          S – umožnit přístup do běžných tříd všem dětem a žákům splňujícím podmínky
+          M – sledovat počet přijatých dětí a žáků dle tohoto kritéria a jejich další vzdělávací dráhu
+          A – realizace ve spolupráci se zřizovateli, školami a rodiči
+          R – reaguje na potřebu rovného přístupu ke kvalitnímu vzdělávání
+          T – průběžně, s ročním vyhodnocením
+
+
+                                                                                                                      22
+        Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                            CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                      Strana 27 / 60
+Odůvodnění:
+Opatření reaguje na zjištění z analýzy vzdělávací soustavy a memoranda, že část dětí a žáků ze sociálně
+znevýhodněného prostředí či z minorit je vzdělávána odděleně, často z důvodu kapacitních bariér či omezené
+podpory. Cíl směřuje k postupnému odstranění těchto bariér a vytvoření optimálních podmínek pro začlenění
+dítěte.
+
+
+
+
+     2. Cíl
+Formulace cíle:
+Do konce roku 2031 budou na území statutárního města Brna realizovány všechny klíčové kroky k odstranění
+bariér bránících včasnému nástupu dětí ze sociálně znevýhodněného prostředí do mateřských škol a k
+zajištění jejich úspěšné adaptace. Tím bude vytvořen základ pro postupné a dlouhodobé navyšování podílu
+těchto dětí v MŠ.
+Charakteristika SMART:
+          S – vytvořit systém podpory včasného nástupu do MŠ pro děti ze SZ prostřednictvím práce s
+          rodinami, podpory při zápisu a adaptačních aktivit.
+          M – sledovat počet/podíl zapsaných a nastoupivších dětí ze SZ a jejich docházku v 1. roce.
+          A – realizace ve spolupráci MČ (Brno-sever, Brno-střed), SMB, MŠ a NNO.
+          R – reaguje na potřebu rovného přístupu k ranému vzdělávání a odstraňuje bariéry v
+          informovanosti, administrativě a adaptaci.
+          T – klíčové kroky dokončit do 12/2027; následně pokračovat v podpoře v rámci běžného provozu.
+
+Odůvodnění:
+Analýza ukazuje, že značná část dětí ze sociálně znevýhodněného prostředí nastupuje do MŠ později nebo
+vůbec, zejména v důsledku informačních, administrativních, adaptačních a finančních bariér. U domácností s
+nižšími příjmy mohou i standardní náklady spojené s docházkou do MŠ (např. úplata za předškolní vzdělávání,
+stravné či další související výdaje) působit jako významný faktor oddalující nástup dítěte. Do roku 2031 budou
+realizovány všechny zásadní kroky k minimalizaci těchto bariér a k vytvoření stabilního systému podpory, který
+umožní dlouhodobé zvyšování podílu dětí ze sociálně znevýhodněného prostředí v MŠ.
+
+    3. Cíl (formulace cíle)
+Formulace cíle:
+Do konce roku 2031 bude na území statutárního města Brna vytvořen funkční a mezioborově provázaný
+systém podpory dětí a žáků ze sociálně znevýhodněného prostředí v průběhu celé jejich vzdělávací dráhy –
+od předškolního po středoškolské vzdělávání – který umožní plynulé přechody mezi stupni vzdělávání a
+minimalizuje riziko školního neúspěchu.
+Charakteristika SMART:
+        S – vytvořit systém koordinace a podpory při přechodech mezi MŠ–ZŠ a ZŠ–SŠ, založený na spolupráci
+        škol, zřizovatelů, sociálních služeb, NNO a dalších partnerů.
+        M – sledovat počet zapojených škol a aktérů, četnost setkání a míru využívání dohodnutých postupů.
+        A – realizace ve spolupráci MČ Brno-sever, SMB, MŠ, ZŠ, SŠ, NNO, DROM a odborných garantů.
+        R – reaguje na potřebu zajištění kontinuity podpory a prevence školního neúspěchu při přechodech
+        mezi stupni vzdělávání.
+        T – klíčové mechanismy nastavit do 12/2031 s průběžným vyhodnocováním a možností rozšíření na
+        další MČ.
+
+                                                                                                                   23
+     Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                         CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                   Strana 28 / 60
+Odůvodnění:
+Zjištění z analýzy ukazují, že děti a žáci ze sociálně znevýhodněného prostředí čelí při přechodech mezi stupni
+vzdělávání vyššímu riziku zhoršení prospěchu, ztráty podpory a vyloučení ze vzdělávacího procesu. Důvodem
+je nedostatečná komunikace mezi školami, absence jednotných mechanismů a nízká míra zapojení sociálních
+a podpůrných služeb. Vytvoření funkčního systému koordinace přechodů pomůže zajistit kontinuitu podpory
+a hladší adaptaci žáků na nové prostředí.
+
+
+
+
+                                                                                                                   24
+     Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                         CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                   Strana 29 / 60
+       8. Plán rozvoje
+8.1 Soupis opatření
+1. Opatření: Pravidelné sledování a vyhodnocování kapacit a složení tříd v
+   mateřských a základních školách
+
+Název opatření: Pravidelné sledování a vyhodnocování kapacit a složení tříd v mateřských a základních
+školách
+Popis           Vedení městské části Brno-sever navrhne a otevře diskuzi se zástupci statutárního města Brna,
+opatření        dalšími městskými částmi a odbornými aktéry o zavedení dlouhodobého monitoringu
+                vzdělávací soustavy. Součástí bude vytvoření sady ukazatelů (např. aktuální kapacity škol a
+                tříd, jejich naplněnost, složení dětí dle spádovosti), jejich pravidelné sledování a
+                vyhodnocování. Výstupy budou sdíleny se zástupci statutárního města Brna a mohou sloužit
+                jako podklad pro celoměstské plánování. naplněnost, složení dětí a žáků dle spádovosti), jejich
+                pravidelné sledování a vyhodnocování.
+Cíl             Do konce roku 2031 bude každému dítěti a žákovi s trvalým pobytem ve statutárním městě
+                Brně umožněno být přijato do své spádové mateřské nebo základní školy, pokud o to zákonný
+                zástupce projeví zájem podáním přihlášky. Pro každé dítě a žáka budou vytvořeny optimální
+                podmínky pro vzdělávání a poskytnuta mu potřebná podpora pro úspěšné zapojení do
+                kolektivu.
+Návaznost       Zajistit datově podložené rozhodování o kapacitách a podpoře, včas odhalovat
+opatření na cíl nerovnoměrnosti a cílit opatření proti segregaci, model nastavit tak, aby byl replikovatelný na
+                městské úrovni.
+Návaznost na
+výstupy         Vzdělávací analýza z roku 2025 poukázala nedostatečnou dostupnost dat pro cílené plánování.
+analýzy      a Memorandum doporučuje zavést systémové nástroje pro monitoring kapacit a složení tříd.
+memoranda
+
+Návaznost na Koncepci obecního školství Brno 2030, Dlouhodobý záměr JMK 2024–2028
+další plány
+Výčet aktivit opatření
+Aktivita         Ustavení pracovní skupiny a definice ukazatelů
+Aktivita         Příprava metodiky sběru a vyhodnocování dat
+Aktivita         Pilotní    sběr     dat,    vyhodnocení       a návrh pravidelného                        monitoringu
+
+
+
+
+   1.1. Aktivita: Ustavení pracovní skupiny a definice ukazatelů
+
+
+Aktivita/opatření             Ustavení pracovní skupiny a definice ukazatelů
+Realizátor/realizátoři        MČ Brno-sever ve spolupráci se statutárním městem Brnem, zástupci ZŠ a MŠ,
+Časový horizont               01–06/2026
+                                                                                                                    25
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 30 / 60
+(termín plnění)
+Náklady, zdroje               Personální kapacita, facilitace
+Indikátory                    Vznik pracovní skupiny a schválený seznam ukazatelů
+Vazby na další plány          Koncepci obecního školství Brno 2030, Dlouhodobý záměr JMK 2024–2028
+nebo projekty
+
+
+   1.2. Aktivita: Příprava metodiky sběru a vyhodnocování dat
+
+
+Aktivita                     Příprava metodiky sběru a vyhodnocování dat
+Realizátor/realizátoři       MČ Brno-sever ve spolupráci se statutárním městem Brnem, zástupci ZŠ a MŠ,
+Časový horizont              06–12/2026
+(termín plnění)
+Náklady, zdroje              Konzultační setkání, analytické zpracování
+Indikátory \                 Metodika sběru a vyhodnocování
+Vazby na další plány         Koncepci obecního školství Brno 2030, Dlouhodobý záměr JMK 2024–2028
+nebo projekty
+
+
+   1.3. Aktivita: Pilotní sběr dat, vyhodnocení a návrh pravidelného monitoringu
+
+
+Aktivita                     Pilotní sběr dat, vyhodnocení a návrh pravidelného monitoringu
+Realizátor/realizátoři       MČ Brno-sever ve spolupráci se statutárním městem Brnem, ZŠ, MŠ
+Časový horizont              01–06/2027 (následně, dle pravidelně nastavené časové frekvence)
+(termín plnění)
+Náklady, zdroje              Koordinace sběru dat, zpracování výstupů
+Indikátory                   Pilotní zpráva a návrh systému pravidelného monitoringu
+Vazby na další plány         Koncepci obecního školství Brno 2030, Dlouhodobý záměr JMK 2024–2028
+nebo projekty
+
+
+2. Opatření: Motivační a hodnoticí nástroje pro vedení škol k podpoře rovných
+   příležitostí a prevence segregace
+
+Název opatření: Motivační a hodnoticí nástroje pro vedení škol k podpoře rovných příležitostí a prevence
+segregace
+Popis           Vedení městské části Brno-sever otevře diskuzi se zástupci statutárního města Brna a partnery
+opatření        o možnostech doplnění hodnoticích a motivačních nástrojů pro ředitele škol směrem k
+                podpoře kvalitního a inkluzivního vzdělávání. Tyto nástroje by měly zohledňovat práci škol v
+                oblasti podpory dětí a žáků s různými vzdělávacími potřebami, včetně dětí a žáků ze sociálně
+                znevýhodněného prostředí, spolupráci s rodiči a komunitou a rozvoj školních podpůrných
+                opatření. Cílem je vytvořit návrh motivačního mechanismu, který by mohl být využit zřizovateli
+                na úrovni městských částí a statutárního města Brna a přispěl ke zkvalitnění vzdělávání a
+                prevenci segregace.
+Cíl             Do konce roku 2031 bude každému dítěti a žákovi s trvalým pobytem ve statutárním městě
+                Brně umožněno být přijato do své spádové mateřské nebo základní školy, pokud o to zákonný
+                zástupce projeví zájem podáním přihlášky. Pro každé dítě a žáka budou vytvořeny optimální
+                                                                                                                    26
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 31 / 60
+                    podmínky pro vzdělávání a poskytnuta mu potřebná podpora pro úspěšné zapojení do
+                    kolektivu.
+Návaznost           Podpořit systematické a transparentní zohlednění kvality inkluzivní praxe ve vedení škol při
+opatření na cíl     hodnocení zřizovatelem a posílit motivaci škol k jejímu rozvoji.
+Návaznost na        Analýza poukazuje na absenci hodnoticích kritérií a motivačních nástrojů podporujících
+výstupy             inkluzivní praxi škol, spolupráci s rodiči a prevenci segregace.
+analýzy      a
+memoranda
+
+Návaznost na Koncepci obecního školství Brno 2030, Dlouhodobý záměr JMK 2024–2028, Brno 2025–2027
+další plány      a metodické postupy statutárního města Brna pro hodnocení ředitelů škol.
+Výčet aktivit opatření
+Aktivita         Ustavení pracovní skupiny a shromáždění informací o současném systému hodnocení ředitelů
+                 škol
+Aktivita         Identifikace a formulace ukazatelů pro hodnocení inkluzivní praxe
+Aktivita         Konzultace návrhu s řediteli a zřizovateli, finalizace a předložení SMB k případnému pilotnímu
+                 ověření
+
+
+   2.1. Aktivita: Ustavení pracovní skupiny a shromáždění informací o současném systému
+        hodnocení ředitelů škol
+
+
+Aktivita/opatření             Ustavení pracovní skupiny a shromáždění informací o současném systému
+                              hodnocení ředitelů škol
+Realizátor/realizátoři        MČ Brno-sever ve spolupráci se statutárním městem Brnem, odborní experti
+Časový horizont               01–06/2026
+(termín plnění)
+Náklady, zdroje               Personální kapacita, facilitace, konzultační podpora
+Indikátory                    Založená pracovní skupina a zpracovaný přehled současného systému
+                              hodnocení
+Vazby na další plány          Koncepci obecního školství Brno 2030, PSZ Brno 2025–2027
+nebo projekty
+
+
+   2.2. Aktivita: Identifikace a formulace ukazatelů pro hodnocení inkluzivní praxe
+
+
+Aktivita                     Identifikace a formulace ukazatelů pro hodnocení inkluzivní praxe
+Realizátor/realizátoři       MČ Brno-sever ve spolupráci se statutárním městem Brnem, pracovní skupina,
+                             odborní experti
+Časový horizont              07–10/2026
+(termín plnění)
+Náklady, zdroje              Odborné konzultace, analytické zpracování
+Indikátory                   Seznam ukazatelů včetně návrhu možných úprav hodnoticích kritérií
+Vazby na další plány         Koncepci obecního školství Brno 2030, Dlouhodobý záměr JMK 2024–2028
+nebo projekty
+
+
+
+
+                                                                                                                    27
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 32 / 60
+   2.3. Aktivita: Konzultace návrhu s řediteli a zřizovateli, finalizace a předložení SMB k
+        případnému pilotnímu ověření
+
+
+Aktivita                     Konzultace návrhu s řediteli a zřizovateli, finalizace a předložení SMB k
+                             případnému pilotnímu ověření
+Realizátor/realizátoři       MČ Brno-sever ve spolupráci se statutárním městem Brnem, ředitelé škol MŠ a ZŠ
+Časový horizont              11–12/2026
+(termín plnění)
+Náklady, zdroje              Facilitační kapacita, příprava podkladů
+Indikátory                   Finalizovaný návrh včetně podkladů pro pilotní ověření
+Vazby na další plány         Koncepci obecního školství Brno 2030
+nebo projekty
+
+
+
+
+3. Opatření: Podpora vytváření optimálních podmínek pro vzdělávání a
+   poskytování cílené podpory každému dítěti a žákovi
+
+Název opatření: Podpora vytváření optimálních podmínek pro vzdělávání a poskytování cílené podpory
+každému dítěti a žákovi
+Popis           Vedení městské části Brno-sever ve spolupráci se zástupci statutárního města Brna a dalšími
+opatření        relevantními partnery, vytvoří podmínky pro realizaci opatření, která umožní včasnou
+                identifikaci vzdělávacích a podpůrných potřeb dětí a žáků a poskytnutí odpovídající podpory v
+                souladu s platnou legislativou. Postup bude zahrnovat systematické vyhodnocení potřeb žáka
+                při vstupu do školy, nastavení adekvátních opatření, jejich pravidelnou revizi a poskytování
+                metodické podpory pedagogickým pracovníkům. Záměrem je zajistit stabilitu a kontinuitu
+                vzdělávací dráhy žáků a předcházet nežádoucímu přerušení vzdělávání. Opatření bude pilotně
+                realizováno na území městské části Brno-sever, přičemž jeho metodický rámec a výsledky
+                mohou sloužit jako podklad pro případné rozšíření na území celého statutárního města Brna.
+Cíl             Do konce roku 2031 bude každému dítěti a žákovi s trvalým pobytem ve statutárním městě
+                Brně umožněno být přijato do své spádové mateřské nebo základní školy, pokud o to zákonný
+                zástupce projeví zájem podáním přihlášky. Pro každé dítě a žáka budou vytvořeny optimální
+                podmínky pro vzdělávání a poskytnuta mu potřebná podpora pro úspěšné zapojení do
+                kolektivu.
+Návaznost       Zajistit, aby všechny školy na území městské části Brno-sever pracovaly s jednotným rámcem
+opatření na cíl pro identifikaci a podporu vzdělávacích potřeb dětí a žáků, a tím přispět k jejich
+                dlouhodobému setrvání ve vzdělávacím procesu a posílení rovného přístupu ke vzdělávání.
+Návaznost na Analýza z roku 2025 potvrdila potřebu jednotného a systematického postupu při poskytování
+výstupy         podpory dětí a žákům se specifickými vzdělávacími potřebami, včetně žáků ze sociálně
+analýzy      a znevýhodněného prostředí.
+memoranda
+
+Návaznost na Koncepci obecního školství Brno 2030, PSZ Brno 2025–2027, DZ JMK 2024–2028
+další plány
+Výčet aktivit opatření
+
+                                                                                                                    28
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 33 / 60
+Aktivita            Individuální posouzení vzdělávacích a podpůrných potřeb při nástupu do školy v září 2026,
+                    včetně identifikace míry sociálního znevýhodnění dle metodiky Z. Němce (pokud je
+                    relevantní).
+Aktivita            Nastavení podpůrných opatření dle potřeb dítěte a žáka (např. asistent pedagoga, doučování,
+                    menší skupiny), včetně opatření doporučených poradenským zařízením; u podpůrného
+                    opatření I. stupně vyhotovení písemného záznamu.
+Aktivita            Pravidelná revize podpůrného plánu minimálně jednou ročně, případně častěji dle potřeb
+                    žáka.
+Aktivita            Poskytování metodické podpory pro pedagogy a vedení škol v oblasti práce s dětmi a žáky s
+                    různými vzdělávacími potřebami, zahrnující školení, supervize, sdílení příkladů dobré praxe a
+                    vzájemné konzultace. Součástí budou také pravidelná sdílecí setkání mezi pedagogy a řediteli
+                    škol a informování o dostupných nástrojích, programech a metodikách.
+Aktivita            Odstraňování finančních bariér pro děti a žáky z rodin se sociálním znevýhodněním (např.
+                    nastavení pravidel promíjení poplatků za MŠ a ŠD, programy stravného, učebnic a pomůcek
+                    aj.) a informování rodičů o možnostech pomoci. Cílem je sjednotit postupy tak, aby finanční
+                    situace rodiny nebránila účasti dětí na vzdělávání.
+
+
+
+
+           3.1 Aktivita: Individuální posouzení vzdělávacích a podpůrných potřeb při nástupu do
+               školy
+
+
+Aktivita/opatření             Individuální posouzení vzdělávacích a podpůrných potřeb při nástupu do školy v
+                              září 2026, včetně identifikace míry sociálního znevýhodnění dle metodiky Z.
+                              Němce (pokud je relevantní).
+Realizátor/realizátoři        Mateřské školy, základní školy, PPP, SPC
+Časový horizont               09/2026,09/2027, 09/2028, 09/2029,09/2030, 09/2031
+(termín plnění)               (pravidelně, každoročně)
+Náklady, zdroje               Personální kapacity škol, metodická podpora.
+Indikátory                    Záznam o posouzení potřeb žáka a případné doporučení podpůrných opatření.
+Vazby na další plány          Koncepci obecního školství Brno 2030, PSZ Brno 2025–2027, DZ JMK 2024–2028
+nebo projekty
+
+
+           3.2 Aktivita: Nastavení podpůrných opatření dle potřeb dítěte
+Aktivita                     Nastavení podpůrných opatření dle potřeb dítěte a žáka (např. asistent pedagoga,
+                             doučování, menší skupiny), nastavení podpůrného opatření I. stupně (vyhotovení
+                             písemného záznamu), nastavení opatření doporučených poradenským zařízením
+                             atd.
+Realizátor/realizátoři       Mateřské školy, základní školy, PPP, SPC, NNO, DROM
+Časový horizont              10-12/2026, 10-12/2027, 10-12/2028, 10-12/2029, 10-12/2030, 10-12/2031
+(termín plnění)              (pravidelně, každoročně)
+Náklady, zdroje              Financování z prostředků zřizovatele, prostředky z fondů EU (např. OP JAK),
+                             národní prostředky (NOP).
+Indikátory                   Dokumentace nastavených podpůrných opatření.
+Vazby na další plány         Koncepci obecního školství Brno 2030, PSZ Brno 2025–2027,
+nebo projekty
+
+                                                                                                                    29
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 34 / 60
+           3.3 Aktivita: Pravidelná revize podpůrného plánu
+
+
+Aktivita                     Pravidelná revize podpůrného plánu minimálně jednou ročně, případně častěji dle
+                             potřeb žáka.
+Realizátor/realizátoři       Mateřské školy, základní školy, PPP, SPC
+Časový horizont              Od 09/2027, opakovaně každé září–říjen.
+(termín plnění)
+Náklady, zdroje              Personální kapacity škol, konzultace s poradenskými zařízeními.
+Indikátory                   Záznam o provedené revizi podpůrného plánu.
+Vazby na další plány         Koncepci obecního školství Brno 2030
+nebo projekty
+
+
+           3.4 Aktivita: Poskytování metodické podpory pro pedagogy a vedení škol
+
+
+Aktivita                     Poskytování metodické podpory pro pedagogy a vedení škol v oblasti práce s
+                             dětmi a žáky s různými vzdělávacími potřebami, zahrnující školení, supervize,
+                             sdílení příkladů dobré praxe a vzájemné konzultace. Součástí budou také
+                             pravidelná sdílecí setkání mezi pedagogy a řediteli škol a informování o
+                             dostupných nástrojích, programech a metodikách.
+Realizátor/realizátoři       Městská část Brno-sever, statutární město Brno, odborné organizace (NPI, VIM aj),
+                             NNO, DROM
+Časový horizont              01/2026–12/2026 (první běh), následně každoročně.
+(termín plnění)
+Náklady, zdroje              Náklady na školení, externí lektory, supervizory a organizační zajištění setkání.
+Indikátory                   Počet uskutečněných školení, supervizí, sdílecích setkání a počet zapojených
+                             pedagogů a členů vedení škol.
+Vazby na další plány         Koncepci obecního školství Brno 2030, DZ JMK 2024–2028
+nebo projekty
+
+
+           3.5 Aktivita: Odstraňování finančních bariér pro děti a žáky z rodin se sociálním
+               znevýhodněním
+
+
+Aktivita                     Odstraňování finančních bariér pro děti a žáky z rodin se sociálním znevýhodněním
+                             (např. nastavení pravidel promíjení poplatků za MŠ a ŠD, programy stravného,
+                             učebnic a pomůcek aj.) a informování rodičů o možnostech pomoci. Cílem je
+                             sjednotit postupy tak, aby finanční situace rodiny nebránila účasti dětí na
+                             vzdělávání
+Realizátor/realizátoři       Statutární město Brno, městská část Brno-sever, mateřské školy, základní školy, ve
+                             spolupráci s příslušnými orgány státní správy, NNO a DROM.
+Časový horizont              01/2026–12/2026 (první běh), následně každoročně.
+(termín plnění)
+Náklady, zdroje              Personální kapacity škol a zřizovatele, dotační prostředky (např. MPSV, MŠMT),
+                             granty.
+Indikátory                   Počet podpořených žáků, počet škol zapojených do podpůrných programů.
+                                                                                                                    30
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 35 / 60
+    Vazby na další plány        PSZ Brno 2025–2027
+    nebo projekty
+
+
+
+
+       4. Opatření: Podpora nástupu do mateřských škol prostřednictvím
+          komunitního (peer) pracovníka a adaptačních programů v MČ Brno-sever
+          a Brno-střed
+
+    Název opatření: Podpora nástupu do mateřských škol prostřednictvím komunitního (peer) pracovníka a
+    adaptačních programů v MČ Brno-sever a Brno-střed2
+    Popis           Na území městských částí Brno-sever a Brno-střed bude zřízena a financována pozice
+    opatření        komunitního (peer) pracovníka pocházejícího z cílové komunity. Pozice komunitních
+                    pracovníků budou obsazovány s ohledem na různorodost místních romských komunit, aby
+                    podpora odpovídala specifickým potřebám rodin. Ve spolupráci s MŠ, NNO a dalšími partnery
+                    bude zajišťovat zejména aktivní vyhledávání dětí v předškolním věku, podporu rodičů při
+                    zápisu a realizaci adaptačních programů, současně může zabezpečovat průběžné
+                    zprostředkování komunikace mezi školou a rodinou a včasné řešení vznikajících bariér v
+                    rozsahu potřeb a podle dohody aktérů. Výstupy a zkušenosti budou sdíleny se zástupci vedení
+                    statutárního města Brna a mohou sloužit jako podklad pro rozšíření postupu na celoměstskou
+                    úroveň. Realizace tohoto opatření bude provázána s opatřením 3 a 5, což umožní
+                    komplexnější a koordinovanější přístup k podpoře dětí a rodin od předškolního věku až po
+                    nástup na základní školu.
+    Cíl             Do konce roku 2031 budou na území statutárního města Brna realizovány všechny klíčové
+                    kroky k odstranění bariér bránících včasnému nástupu dětí ze sociálně znevýhodněného
+                    prostředí do mateřských škol a k zajištění jejich úspěšné adaptace. Tím bude vytvořen základ
+                    pro postupné a dlouhodobé navyšování podílu těchto dětí v MŠ.
+    Návaznost       Odstranit praktické bariéry vstupu do MŠ pro děti ze SZ a posílit jejich včasný nástup a stabilní
+    opatření na cíl docházku.
+    Návaznost na Byla identifikována potřeba systematické práce s rodinami před nástupem dítěte do MŠ,
+    výstupy         podpory administrativy zápisu a zajištění adaptačních aktivit.
+    analýzy      a
+    memoranda
+
+    Návaznost na Koncepce Brno 2030, DZ JMK 2024–2028, Strategie romské integrace v Jihomoravském kraji
+    další plány      2021–2025, PSZ Brno 2025–2027
+    Výčet aktivit opatření
+    Aktivita         Výběr a zaškolení komunitního pracovníka z řad romské komunity
+    Aktivita         Zpracování a průběžná aktualizace strategie spolupráce s MŠ a nastavení pravidelných
+                     setkávání
+    Aktivita         Aktivní vyhledávání dětí v předškolním věku a práce s rodinami (informace, motivační
+                     návštěvy, propojení na služby)
+    Aktivita         Podpora při zápisu do MŠ (doprovod, pomoc s administrativou, komunikace se školami)
+
+
+2
+ Zapojení MČ Brno-střed je podmíněno získáním finanční podpory z evropských dotačních prostředků
+(OPZ+).
+                                                                                                                       31
+         Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                             CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                       Strana 36 / 60
+Aktivita          Realizace adaptačních programů pro děti a jejich rodiče před nástupem do MŠ (návštěvy tříd,
+                  společné dílny, seznámení s režimem MŠ) včetně průběžného vyhodnocování dopadů a
+                  úpravy programu
+
+
+
+
+           4.1 Aktivita: Výběr a zaškolení komunitního pracovníka z řad romské komunity
+
+
+Aktivita/opatření             Výběr a zaškolení komunitního pracovníka z řad romské komunity
+Realizátor/realizátoři        MČ Brno-sever, MČ Brno-střed; ve spolupráci se zástupci statutárního města
+                              Brna, NNO, MŠ, DROM
+Časový horizont               01–03/2026
+(termín plnění)
+Náklady, zdroje               Mzdové náklady, vstupní školení, metodická podpora
+Indikátory                    Obsazení pozice v obou MČ a absolvování zaškolení
+Vazby na další plány          Strategií integrace cizinců Brno 2020–2026, PSZ Brno 2025–2027, Strategie
+nebo projekty                 romské integrace v Jihomoravském kraji 2021–2025
+
+
+           4.2 Aktivita: Zpracování a průběžná aktualizace strategie spolupráce s MŠ
+
+
+Aktivita                     Zpracování a průběžná aktualizace strategie spolupráce s MŠ a nastavení
+                             pravidelných setkávání
+Realizátor/realizátoři       Komunitní pracovník, MŠ, MČ Brno-sever, MČ Brno-střed, NNO, DROM
+Časový horizont              03/2026–12/2027
+(termín plnění)
+Náklady, zdroje              Personální kapacity, zajištění prostor a harmonogramu
+Indikátory                   Schválený plán spolupráce; minimálně 1 koordinační setkání/měsíc
+Vazby na další plány         Koncepce Brno 2030, DZ JMK 2024–2028, Strategie romské integrace v
+nebo projekty                Jihomoravském kraji 2021–2025
+
+
+           4.3 Aktivita: Aktivní vyhledávání dětí v předškolním věku a práce s rodinami
+
+
+Aktivita                     Aktivní vyhledávání dětí v předškolním věku a práce s rodinami (informace,
+                             motivační návštěvy, propojení na služby)
+Realizátor/realizátoři       Komunitní pracovník, NNO,DROM
+Časový horizont              04/2026–12/2027 (po celou délku projektu)
+(termín plnění)
+Náklady, zdroje              Personální kapacity, informační materiály, terénní práce
+Indikátory                   Počet oslovených rodin; počet dětí zapojených do podpory
+Vazby na další plány         PSZ Brno 2025–2027, Strategií integrace cizinců Brno 2020–2026, Strategie romské
+nebo projekty                integrace v Jihomoravském kraji 2021–2025
+
+
+
+
+                                                                                                                    32
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 37 / 60
+           4.4 Aktivita: Podpora při zápisu do MŠ a ZŠ
+
+
+Aktivita                     Podpora při zápisu do MŠ a ZŠ (doprovod, pomoc s administrativou, komunikace
+                             se školami)
+Realizátor/realizátoři       Komunitní pracovník, NNO,DROM
+Časový horizont              01–04/2026; 01–04/2027 (pravidelně, každoročně)
+(termín plnění)
+Náklady, zdroje              Personální kapacity, dopravní a materiální zajištění
+Indikátory                   Počet podpořených podaných přihlášek; počet rodin využívajících asistenci
+Vazby na další plány         Koncepce Brno 2030, Strategie romské integrace v Jihomoravském kraji 2021–
+nebo projekty                2025
+
+
+           4.5 Aktivita: Realizace adaptačních programů pro děti a jejich rodiče před nástupem
+               do MŠ
+
+
+Aktivita                     Realizace adaptačních programů pro děti a jejich rodiče před nástupem do MŠ
+                             (návštěvy tříd, společné dílny, seznámení s režimem MŠ) včetně průběžného
+                             vyhodnocování dopadů a úpravy programu
+Realizátor/realizátoři       Komunitní pracovník, MŠ, NNO, DROM
+Časový horizont              05–08/2026; 05–08/2027 (pravidelně, každoročně)
+(termín plnění)
+Náklady, zdroje              Personální kapacity, programové materiály, prostory
+Indikátory                   Počet realizovaných programů; zpětná vazba rodičů a MŠ; návrhy úprav pro další
+                             rok
+Vazby na další plány         PSZ Brno 2025–2027, Strategie romské integrace v Jihomoravském kraji 2021–
+nebo projekty                2025
+
+
+   5. Opatření: Koordinace přechodů mezi stupni vzdělávání prostřednictvím
+      přechodových plánů
+
+Název opatření: Koordinace přechodů mezi stupni vzdělávání prostřednictvím přechodových plánů
+Popis            Vedení městské části Brno-sever ve spolupráci se zástupci statutárního města Brna,
+opatření         Jihomoravského kraje a dalšími relevantními partnery rozšíří stávající koordinační platformy o
+                 relevantní aktéry (např. SŠ, sociální služby, kariérové poradenství, NNO) a nastaví pravidelný
+                 mechanismus spolupráce mezi MŠ–ZŠ a ZŠ–SŠ. V rámci této spolupráce budou identifikována
+                 kritická místa při přechodech a navrženy funkční mechanismy, které budou formalizovány v
+                 podobě metodiky či jednotných postupů. Opatření bude navazovat na stávající aktivity
+                 Jihomoravského kraje, zejména na pravidelná setkávání Platformy výchovného a kariérového
+                 poradenství v JMK, s cílem zajistit provázanost postupů a sdílení příkladů dobré praxe. Výstupy
+                 budou poskytnuty vedení statutárního města Brna k posouzení a případnému využití v rámci
+                 celého města.
+Cíl              Do konce roku 2031 bude na území statutárního města Brna vytvořen funkční a mezioborově
+                 provázaný systém podpory dětí a žáků ze sociálně znevýhodněného prostředí v průběhu celé
+
+
+                                                                                                                    33
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 38 / 60
+                    jejich vzdělávací dráhy – od předškolního po středoškolské vzdělávání – který umožní plynulé
+                    přechody mezi stupni vzdělávání a minimalizuje riziko školního neúspěchu.
+Návaznost           Zajistit koordinovanou a systematickou podporu při přechodech mezi stupni vzdělávání pro
+opatření na cíl     děti a žáky ze sociálně znevýhodněného prostředí, a tím snížit riziko školního neúspěchu.
+Návaznost na        Analýza identifikovala nedostatečné provázání mezi školami při přechodu žáků a nízkou míru
+výstupy             sdílení informací o potřebách žáků.
+analýzy      a
+memoranda
+
+Návaznost na Koncepce Brno 2030, DZ JMK 2024–2028, Strategie romské integrace v Jihomoravském kraji
+další plány      2021–2025
+Výčet aktivit opatření
+Aktivita         Rozšíření stávajících platforem pro spolupráci MŠ–ZŠ a ZŠ–SŠ o další relevantní aktéry a
+                 nastavení pravidelného setkávání (min. 2× ročně)
+Aktivita         Identifikace kritických míst při přechodech mezi stupni vzdělávání a návrh mechanismů
+                 kontinuity podpory
+Aktivita         Zpracování metodiky/jednotných postupů, pilotní ověření v praxi a vyhodnocení dopadů
+
+
+           5.1 Aktivita: Rozšíření stávajících platforem pro spolupráci MŠ–ZŠ a ZŠ–SŠ
+
+
+Aktivita/opatření             Rozšíření stávajících platforem pro spolupráci MŠ–ZŠ a ZŠ–SŠ o další relevantní
+                              aktéry (např. zástupce středních škol, sociálních služeb, kariérového
+                              poradenství, nestátních neziskových organizací) a nastavení pravidelného
+                              setkávání (min. 2× ročně).
+Realizátor/realizátoři        Městská část Brno-sever ve spolupráci se statutárním městem Brnem,
+                              Jihomoravským krajem a zainteresovanými vzdělávacími institucemi a
+                              organizacemi dle dohody.
+Časový horizont               01–05/2026
+(termín plnění)
+Náklady, zdroje               Personální kapacity, zajištění prostor a organizace setkání
+Indikátory                    Funkční platforma; min. 2 setkání ročně pro každou přechodovou linii
+Vazby na další plány          DZ JMK 2024–2028, Strategie romské integrace v Jihomoravském kraji 2021–
+nebo projekty                 2025
+
+
+
+
+           5.2 Aktivita: Identifikace kritických míst při přechodech mezi stupni vzdělávání
+
+
+Aktivita                     Identifikace kritických míst při přechodech mezi stupni vzdělávání a návrh
+                             funkčních mechanismů pro zajištění kontinuity podpory (včetně vymezení
+                             odpovědností a informačních toků).
+Realizátor/realizátoři       Městská část Brno-sever ve spolupráci se statutárním městem Brnem,
+                             Jihomoravským krajem, školami a relevantními partnery z řad organizací
+                             působících v oblasti vzdělávání a podpory dětí a mládeže.
+Časový horizont              05–12/2026
+(termín plnění)
+Náklady, zdroje              Personální kapacity, analytická a metodická podpora
+
+                                                                                                                    34
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 39 / 60
+Indikátory                   Dokument s popisem kritických míst a návrhem mechanismů
+Vazby na další plány         Koncepce Brno 2030, Strategie romské integrace v Jihomoravském kraji 2021–
+nebo projekty                2025
+
+
+           5.3 Aktivita: Zpracování návrhu strategie přechodů mezi stupni vzdělávání
+
+
+Aktivita                     Zpracování návrhu strategie, nebo jednotných postupů, jejich pilotní ověření v
+                             praxi a vyhodnocení dopadů.
+Realizátor/realizátoři       Statutární město Brno ve spolupráci s městskou částí Brno-sever, Jihomoravským
+                             krajem, vzdělávacími institucemi a odbornými garanty dle dohody.
+Časový horizont              01–12/2027
+(termín plnění)
+Náklady, zdroje              Personální kapacity, metodická a organizační podpora
+Indikátory                   Zpracovaná metodika/postupy; zpráva o zavádění a vyhodnocení
+Vazby na další plány         Koncepce Brno 2030, DZ JMK 2024–2028
+nebo projekty
+
+
+   6. Opatření: Zahájení diskuze a zmapování kapacit poradenských služeb s
+      možností jejich posílení
+
+Název opatření: Zahájení diskuze a zmapování kapacit poradenských služeb s možností jejich posílení
+Popis            Vedení městské části Brno-sever ve spolupráci se zástupci statutárního města Brna,
+opatření         poradenskými zařízeními a dalšími spolupracujícími partnery otevře diskuzi o potřebě
+                 zmapování stávajících kapacit PPP a SPC působících na území statutárního města Brna a o
+                 možnostech jejich posílení. Na základě dohody aktérů bude zahájen proces sběru a
+                 vyhodnocení dat o počtu žádostí, čekacích lhůtách, personálních kapacitách a specifických
+                 potřebách zařízení. Výsledky budou sloužit jako podklad pro případné návrhy opatření,
+                 například zavedení jednotného metodického postupu pro diagnostiku sociálního
+                 znevýhodnění (metodika Z. Němce), posílení týmů o odborníky na sociální pedagogiku, či jiné
+                 kroky podle dohody.
+Cíl              Do konce roku 2031 bude na území statutárního města Brna vytvořen funkční a mezioborově
+                 provázaný systém podpory dětí a žáků ze sociálně znevýhodněného prostředí v průběhu celé
+                 jejich vzdělávací dráhy – od předškolního po středoškolské vzdělávání – který umožní plynulé
+                 přechody mezi stupni vzdělávání a minimalizuje riziko školního neúspěchu.
+Návaznost        Zahájit mezioborovou diskuzi a zmapovat aktuální stav kapacit poradenských služeb s cílem
+opatření na cíl vytvořit podklady pro případná opatření zlepšující dostupnost a kvalitu těchto služeb.
+Návaznost na Analýza potvrzuje nedostatečné kapacity školských poradenských zařízení, dlouhé čekací
+výstupy          lhůty a rozdílné postupy při diagnostice. Doporučuje personální posílení, metodickou podporu
+analýzy      a a sjednocení postupů, což opatření přímo reflektuje.
+memoranda
+
+Návaznost na Koncepce Brno 2030, DZ JMK 2024–2028, PSZ Brno 2025–2027
+další plány
+Výčet aktivit opatření
+Aktivita         Zahájení mezioborové odborné diskuze o kapacitách a potřebách poradenských služeb.
+
+                                                                                                                    35
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 40 / 60
+ Aktivita            Sběr a vyhodnocení dat o kapacitách a vytíženosti pedagogicko-psychologických poraden
+                     (PPP) a speciálně pedagogických center (SPC).
+ Aktivita            Společné projednání zjištění a návrh možných opatření k posílení kapacit poradenských
+                     služeb.
+
+
+            6.1 Aktivita: Zahájení mezioborové odborné diskuze o kapacitách a potřebách
+                poradenských služeb
+
+
+ Aktivita/opatření             Zahájení mezioborové odborné diskuze o kapacitách a potřebách poradenských
+                               služeb.
+ Realizátor/realizátoři        Městská část Brno-sever ve spolupráci se statutárním městem Brnem a
+                               příslušnými poradenskými zařízeními
+ Časový horizont               JMK, MŠ a ZŠ
+ (termín plnění)
+ Náklady, zdroje               01–06/2026
+ Indikátory                    Personální kapacity, zajištění prostor a facilitace setkání
+ Vazby na další plány          DZ JMK 2024–2028, PSZ Brno 2025–2027
+ nebo projekty
+
+
+            6.2 Aktivita: Sběr a vyhodnocení dat o kapacitách a vytíženosti PPP a SPC
+
+
+ Aktivita                     Sběr a vyhodnocení dat o kapacitách a vytíženosti pedagogicko-psychologických
+                              poraden (PPP) a speciálně pedagogických center (SPC).
+ Realizátor/realizátoři       Městská část Brno-sever ve spolupráci se statutárním městem Brnem a
+                              příslušnými poradenskými zařízeními, dle dohody a kompetencí jednotlivých
+                              subjektů.
+ Časový horizont              JMK, MŠ a ZŠ
+ (termín plnění)
+ Náklady, zdroje              07/2026–06/2027
+ Indikátory                   Personální kapacity, odborná a datová podpora
+ Vazby na další plány         Koncepce Brno 2030, DZ JMK 2024–2028
+ nebo projekty
+
+
+6.3 Aktivita: Společné projednání zjištěných výsledků a návrh možných opatření
+
+
+ Aktivita                     Společné projednání zjištění a návrh možných opatření k posílení kapacit
+                              poradenských služeb.
+ Realizátor/realizátoři       Městská část Brno-sever ve spolupráci se statutárním městem Brnem a
+                              příslušnými poradenskými zařízeními, dle dohody a kompetencí jednotlivých
+                              subjektů.
+ Časový horizont              JMK, MŠ a ZŠ
+ (termín plnění)
+ Náklady, zdroje              07–12/2027
+ Indikátory                   Personální kapacity, zajištění prostor pro jednání
+
+                                                                                                                     36
+       Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                           CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                     Strana 41 / 60
+Vazby na další plány         Koncepce Brno 2030, DZ JMK 2024–2028
+nebo projekty
+
+
+
+
+   7. Opatření: Společný rámec postupu pro řešení situací, které mohou
+      narušit plynulost vzdělávací dráhy dětí a žáků
+
+Název opatření: Společný rámec postupu pro řešení situací, které mohou narušit plynulost vzdělávací dráhy
+dětí a žáků
+Popis            Městská část Brno-sever ve spolupráci se statutárním městem Brnem, Jihomoravským krajem,
+opatření         mateřskými, základními a středními školami, školskými zařízeními, poskytovateli
+                 poradenských služeb a neziskovými organizacemi připraví a ověří společný rámec postupu pro
+                 řešení vybraných situací, které mohou ohrozit plynulost vzdělávací dráhy dětí a žáků, zejména
+                 ze sociálně znevýhodněného prostředí.
+Cíl              Do konce roku 2031 bude na území statutárního města Brna vytvořen funkční a mezioborově
+                 provázaný systém podpory dětí a žáků ze sociálně znevýhodněného prostředí v průběhu celé
+                 jejich vzdělávací dráhy – od předškolního po středoškolské vzdělávání – který umožní plynulé
+                 přechody mezi stupni vzdělávání a minimalizuje riziko školního neúspěchu.
+Návaznost        Posílit koordinaci mezi zapojenými subjekty tak, aby v případě situací ohrožujících kontinuitu
+opatření na cíl vzdělávací dráhy bylo možné včas a koordinovaně reagovat, a tím předejít přerušení
+                 vzdělávacího procesu.
+Návaznost na Analýza identifikovala potřebu systematického postupu při řešení situací, které mohou vést k
+výstupy          přerušení vzdělávací dráhy, zejména při přechodu mezi stupni vzdělávání a tam, kde chybí
+analýzy       a jasně nastavené mechanismy spolupráce. Společný rámec s určením odpovědných
+memoranda        kontaktních osob a doporučeným způsobem koordinace reaguje na tato zjištění a podporuje
+                 mezioborovou spolupráci.
+Návaznost na Koncepce Brno 2030, DZ JMK 2024–2028, Strategie romské integrace v Jihomoravském kraji
+další plány      2021–2025, PSZ Brno 2025–2027
+Výčet aktivit opatření
+Aktivita         Identifikace nejčastějších situací a příprava metodického rámce postupu řešení.
+Aktivita         Vytvoření pravidel pro průběžný monitoring a včasnou identifikaci mimořádných situací a
+                 společného rámce propojujícího MŠ a ZŠ s dalšími podpůrnými službami.
+Aktivita         Implementace rámce postupu a školení zapojeným subjektům.
+
+
+
+
+        7.1 Aktivita: Identifikace nejčastějších situací a příprava metodického rámce postupu
+            řešení
+
+
+Aktivita/opatření             Identifikace nejčastějších situací a příprava metodického rámce postupu řešení.
+Realizátor/realizátoři        Městská část Brno-sever ve spolupráci se statutárním městem Brnem,
+                              Jihomoravským krajem, školami, školskými zařízeními, poskytovateli
+                              poradenských služeb a neziskovými organizacemi, příspěvkovou organizací
+                              DROM
+Časový horizont               01/2026–12/2026
+
+                                                                                                                    37
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 42 / 60
+(termín plnění)
+Náklady, zdroje               Personální kapacity, metodická a právní podpora
+Indikátory                    Schválený metodický rámec obsahující přehled modelových situací, kontaktních
+                              osob a mechanismu svolání intervenčního týmu
+Vazby na další plány          Koncepce Brno 2030, PSZ Brno 2025–2027, Strategie romské integrace v
+nebo projekty                 Jihomoravském kraji 2021–2025
+
+
+           7.2 Aktivita: Vytvoření pravidel pro průběžný monitoring a včasnou identifikaci
+               mimořádných situací
+
+
+Aktivita                     Vytvoření pravidel pro průběžný monitoring a včasnou identifikaci mimořádných
+                             situací, které u dětí a žáků ohrožují jejich docházku, motivaci a výsledky. Vytvoření
+                             společného rámce propojujícího MŠ a ZŠ s dalšími podpůrnými službami pro děti i
+                             jejich rodiny. Součástí budou také pravidelná sdílecí setkání pedagogů a ředitelů
+                             škol s poskytovateli podpůrných služeb.
+Realizátor/realizátoři       Statutární město Brno, Jihomoravský kraj, Městská část Brno-sever, MŠ, ZŠ, PPP,
+                             SPC, NNO, DROM
+Časový horizont              01/2027–06/27, sdílená setkání opakovaně každé září–říjen.
+(termín plnění)
+Náklady, zdroje              Personální kapacity škol, školení, distribuce metodického materiálu, organizační
+                             zajištění setkání.
+Indikátory                   Počet dětí a žáků, kterým byla poskytnuta podpora v souladu s metodickým
+                             doporučením.
+Vazby na další plány         DZ JMK 2024–2028, Strategie romské integrace v Jihomoravském kraji 2021–2025
+nebo projekty
+
+
+           7.3 Aktivita: Implementace rámce postupu a školení zapojeným subjektům.
+
+
+Aktivita                     Implementace rámce postupu a školení zapojeným subjektům.
+Realizátor/realizátoři       Statutární město Brno, Jihomoravský kraj, Městská část Brno-sever, školy, školská
+                             zařízení a neziskové organizace, DROM
+Časový horizont              07/2027–12/2027
+(termín plnění)
+Náklady, zdroje              Personální kapacity, školení, distribuce metodického materiálu
+Indikátory                   Počet subjektů, které rámec využily, a počet případů řešených v souladu s
+                             metodickým doporučením
+Vazby na další plány         Koncepce Brno 2030, DZ JMK 2024–2028, Strategie romské integrace v
+nebo projekty                Jihomoravském kraji 2021–2025
+
+
+
+
+                                                                                                                    38
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 43 / 60
+     9. Prevence rizik
+     Tato kapitola identifikuje hlavní rizika, která mohou ohrozit realizaci Strategického plánu, a přiřazuje
+     k nim přiměřená preventivní opatření. Cílem je včas rozpoznat slabá místa, nastavit odpovědnosti a
+     průběžně řídit jejich dopady.
+Č.      Opatření             Rizika         Závažnost                          Prevence                           Odpovědnost
+
+     Pravidelné                                            Bude definován užší společný soubor několika
+     sledování a                                           ukazatelů a zavedena jednoduchá jednotná              MČ Brno-sever,
+     vyhodnocování       nejednotná                        tabulka s krátkým návodem. Bude proveden              SMB –
+     kapacit a složení   data, zátěž,                      malý pilot a následné postupné rozšíření.             školství/datový
+1    tříd (ZŠ/MŠ)        GDPR dotazy        Vysoká         Sdílení bude probíhat v agregované podobě.            kontakt
+     Motivační a
+     hodnoticí           obava                             Bude dohodnuta malá sada indikátorů ve
+     nástroje pro        z administrativy,                 spolupráci s řediteli. Bude spuštěn dobrovolný
+     vedení škol         rozdílné                          pilot a postupné dolaďování. Budou zváženy            MČ Brno-sever,
+     (rovné              kontexty,                         nenáročné motivační prvky (sdílení praxe,             SMB –
+2    příležitosti)       finance           Střední         drobné podpory).                                      školství/finance
+     Podpora                                               Bude vydán stručný metodický rámec a
+     optimálních                                           šablony, bude zajištěno úvodní proškolení. U
+     podmínek a          různorodá                         ŠPZ budou domluvena prioritní okna pro náběh
+     cílené podpory      praxe, čekací                     ročníků, v přechodném období budou využita            Školy, PPP/SPC,
+     pro každé           lhůty ŠPZ,                        opatření I. stupně. Bude připraven základní           koordinace
+3    dítě/žáka           kapacity           Vysoká         plán AP 2026+ (odhad úvazků, sdílení).                MČ/SMB
+     Podpora                                               Bude vymezen profil a náplň role, budou
+     nástupu do MŠ                                         připraveny srozumitelné informační materiály a        MČ Brno-
+     (peer pracovník     Nábor, důvěra                     zajištěn doprovod při klíčových krocích. Budou        sever/-střed,
+     + adaptační         rodin, kapacity                   včas sdíleny termíny a postupy s MŠ, aby se           NNO/DROM,
+4    programy)           MŠ                 Střední        předešlo přetížení.                                   ředitelé MŠ
+                                                           Budou určeny styčné osoby u zapojených
+  Koordinace                                               subjektů, budou stanoveny dva pevné termíny
+  přechodů mezi                                            setkání ročně s jasnými výstupy. Bude
+  stupni                 Roztříštěnost,                    vytvořena přechodová strategie mezi subjekty s        MČ/SMB, JMK,
+  (přechodové            GDPR, nízký                       minimálními datovými nároky a základními              školy (MŠ–ZŠ–
+5 plány)                 dopad              Střední        milníky.                                              SŠ)
+  Zmapování a
+  možné posílení
+  kapacit                sdílení dat,                      Budou využita dostupná existující data, budou
+  poradenských           reporting,                        doplněny vybrané chybějící přehledy a                 MČ/SMB ve
+  služeb                 nedostatek                        následně bude vedena diskuze k posílení               spolupráci s
+6 (PPP/SPC)              odborníků          Střední        kapacit se záměrem připravit variantní scénáře.       PPP/SPC
+  Společný rámec         pozdní                            Bude ustavena pracovní skupina, která vymezí
+  pro mimořádné          identifikace,                     základní postupy pro reakci v mimořádných             MČ/SMB
+7 situace                nejasné role,      Vysoká         situacích, nabídku podpory, role aktérů a             (metodika,
+
+                                                                                                                          39
+            Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                                CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                          Strana 44 / 60
+(ohrožení         citlivá                            základní komunikační kroky, bude sjednán              komunikace),
+plynulosti        komunikace                         krátký pravidelný termín pro koordinaci.              školy
+vzdělávání)
+
+
+
+
+                                                                                                                    40
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 45 / 60
+10. Implementace plánu
+
+Popis aktuálního vedení platformy a jejího fungování v obci
+
+Obecní platforma pro desegregaci ve vzdělávání MČ Brno-sever slouží jako hlavní koordinační a
+projednávací fórum pro řízení vzdělávací soustavy z hlediska rovných příležitostí. Sdružuje klíčové
+aktéry z vedení městské části, města a kraje, ředitele ZŠ a MŠ, poradenská zařízení, akademickou sféru
+i organizace působící v integraci Romů a cizinců. Kombinuje tak politický mandát a zdroje se znalostí
+školské praxe, komunitní a poradenské podpory i datové a výzkumné expertízy. Na platformě se
+průběžně projednává podoba opatření v praxi, slaďuje se jejich implementace mezi školami a
+zřizovateli a konzultují se metodické postupy s partnery. Jednání probíhají pravidelně na půdě MČ
+Brno-sever. Koordinaci a facilitaci zajišťuje koordinátor desegregace z Agentury pro sociální
+začleňování a politické i institucionální zastřešení poskytuje vedení městské části ve spolupráci se
+zástupcem statutárního města Brna pro oblast školství.
+Platforma zároveň systematicky shromažďuje a interpretuje data, nastavuje jednotné ukazatele a
+harmonogram kroků a vydává doporučení k praxi mateřských a základních škol i k mezioborové
+spolupráci. V roli exekutivního nástroje řízení implementace průběžně sleduje plnění milníků,
+koordinuje odpovědnosti a operativně řeší vznikající překážky. Dále pravidelně vyhodnocuje dopady
+jednotlivých opatření (monitoring výsledků, zpětná vazba škol a rodičů) a na základě zjištění navrhuje
+úpravy plánu a prováděcích postupů. Tím udržuje odborný konsenzus aktérů a převádí strategické cíle
+do udržitelné praxe.
+
+
+Četnost setkávání platformy
+
+Základní platforma se schází pravidelně jedenkrát měsíčně, s pevným pracovním programem
+zahrnujícím řízení implementace, průběžné vyhodnocování indikátorů a operativní rozhodování k
+adaptaci podpůrných nástrojů. Paralelně funguje širší platforma desegregace ve vzdělávání s přibližně
+sedmdesáti účastníky. Tato širší platforma nebyla formálně ustanovena, dlouhodobě se však schází
+jednou za tři měsíce a plní osvětovou a vzdělávací roli, podporuje sdílení praxe a komunikaci směrem
+k širší odborné i laické veřejnosti.
+
+
+Členové Obecní platformy desegregace ve vzdělávání Brno-sever
+
+
+Členové za obec
+
+ Název instituce, organizace, subjektu, poskytované            Zastupující člen
+ služby
+
+                                                                                                                    41
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 46 / 60
+ Jihomoravský kraj – Krajský úřad (národnostní                  Mgr. Ondřej Fišer – referent pro národnostní
+ menšiny)                                                       menšiny
+ Magistrát města Brna – Rada města                              JUDr. Irena Matonohová – radní
+ MČ Brno-sever – úřad městské části                             Marie Kováčová – referentka
+ MČ Brno-sever – vedení městské části                           Mgr. Martin Basel – místostarosta
+ MČ Brno-sever – vedení městské části                           Mgr. Martin Glogar – místostarosta
+ MČ Brno-sever – vedení městské části                           Mgr. Martin Maleček – starosta
+ MČ Brno-střed – vedení městské části                           Mgr. Martin Vrubel, PhD. – místostarosta
+ Senát Parlamentu ČR                                            PhDr. Zdeněk Papoušek – senátor
+
+
+Členové za místní síť aktérů
+
+ Název instituce, organizace, subjektu, poskytované           Zastupující člen
+ služby
+ Agentura pro sociální začleňování / MMR                      Mgr. et Mgr. Veronika Šimková – koordinátorka
+ (koordinace desegregace)                                     desegregace
+ Centrum pro cizince Jihomoravského kraje (adaptace           Mgr. Lenka Herčíková – krajská koordinátorka
+ a integrace)
+ DROM – romské středisko (sociální práce)                     Mgr. Simona Wachsbergerová – sociální pracovnice
+ IQ Roma servis (právní/advokační podpora)                    JUDr. Kristýna Fuchsová – právnička, zastupitelka
+                                                              Brno-střed
+ Kancelář veřejného ochránce práv                             Mgr. Lucie Obrovská, Ph.D.– právnička
+ Platforma pro včasnou péči (advokační koordinace)            Mgr. Petr Pabián, Th.D. – koordinátor advokačního
+                                                              týmu
+ Poradní sbor pro romskou menšinu                             Mgr. Tomáš Ščuka – předseda poradního sboru
+ Sociální služby                                              Petr Banda – nezávislý odborník
+ Teen Challenge – sociální pedagog                            Bc. Olga Čonková Polláková – odborník na práci
+                                                              s dětmi a rodinami
+
+
+Členové za školy, školská zařízení a pracovníci škol a školských zařízení
+
+ Název instituce, organizace, subjektu, poskytované              Zastupující člen
+ služby
+ Magistrát města Brna – Odbor školství a mládeže                 PhDr. Petr Hruška, MBA – vedoucí odboru
+ Masarykova univerzita – Pedagogická fakulta, Katedra            Mgr. Tomáš Kohoutek, PhD.
+ psychologie
+ MŠ a ZŠ Merhautova                                              PaedDr. Jana Foltýnová, Ph.D. – ředitelka
+ MŠ Brechtova                                                    Mgr. Ivana Horká – ředitelka
+ MZŠ a MŠ Zemědělská                                             Mgr. Miloš Hrůza – ředitel
+ ZŠ a MŠ Blažkova                                                Mgr. Petr Kapounek – ředitel
+ ZŠ a MŠ Milénova                                                Mgr. Jiří Křenek – ředitel
+ ZŠ Janouškova                                                   Mgr. Jan Maroši – ředitel
+ ZŠ nám. Republiky                                               Mgr. Roman Procházka – ředitel
+
+
+
+
+                                                                                                                     42
+       Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                           CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                     Strana 47 / 60
+Koordinace implementace, vymezení odpovědnosti a kompetencí
+
+
+Operativní řízení implementace zajišťuje koordinátor ASZ ve spolupráci s vedením obce a jednotlivé
+kroky připravuje po dohodě s jejich zástupci. Na úrovni zřizovatele nese odpovědnost za rozhodování
+v průběhu procesu zřizovatel MČ a zřizovatel za obec, a to v rozsahu a způsobem, který vyplývá z
+formálně stanovených postupů. Kapacitní a organizační opatření se průběžně upřesňují v návaznosti
+na jednotlivá opatření PDOV a jsou dojednávána mezi členy platformy a realizátory konkrétních aktivit.
+Ostatní kroky řízení se odvíjejí od povahy opatření a od konsensu v platformě, přičemž text plánu
+vymezuje základní rámec a další úpravy se dolaďují podle aktuální situace v území.
+
+
+
+Koordinace vyhodnocování
+
+
+Vyhodnocování probíhá podle povahy jednotlivých opatření. U opatření s rychlejší dynamikou se
+pracuje s častějšími průběžnými vstupy, u ostatních se uplatňuje standardní sledování v delších
+intervalech. Celkový souhrn za PDOV se zpracovává jednou ročně, průběžné podklady se připravují
+operativně častěji podle potřeby. Všechny výstupy se předkládají a projednávají na Obecní platformě,
+kde se zároveň domlouvá další postup. Na přípravě podkladů se podílejí členové platformy a realizátoři
+opatření, koordinátor ASZ zajišťuje sjednocení formátu a návaznost na řízení ze strany obce.
+
+
+
+Postup při revizi plánu, aktualizaci
+Revize plánu je plánována na 4. čtvrtletí roku 2026/ první čtvrtletí 2027 a dále, pokud se ukáže
+potřeba jeho aktualizace na základě znalosti aktuální situace v lokalitě. V tomto ohledu bude
+nápomocný pravidelný monitoring.
+
+
+Revize plánu se provádí tehdy, když se v praxi ukáže potřeba úprav na základě aktuálních poznatků z
+území a výsledků vyhodnocování. V první fázi se ověří, zda cíle a opatření odpovídají potřebám cílových
+skupin a místním možnostem, zda analytická část obsahuje relevantní a aktuální data a zda je plán
+vnitřně konzistentní a proveditelný. Následně se připraví návrh úprav, který se projedná na Obecní
+platformě a upraví podle dosažené shody. Závěrečné rozhodnutí probíhá v souladu s formálně
+stanovenými postupy obou zřizovatelů, tedy zřizovatele MČ a zřizovatele za obec. Za koordinaci
+přípravy revize odpovídají představitelé samosprávy v intencích Memoranda o spolupráci, metodickou
+a procesní podporu zajišťuje koordinátor ASZ.
+
+
+Monitoring a vyhodnocení plnění PODV
+Nedílnou součástí strategického plánování je kontrola realizace plánu a jeho průběžné vyhodnocování.
+Vyhodnocování plnění strategického plánu spočívá v průběžném sledování pokroku vůči stanoveným
+
+
+                                                                                                                    43
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 48 / 60
+cílům a pravidelném hodnocení dosažených výsledků. K tomu se používají indikátory, které monitorují
+jak cíle, tak i konkrétní aktivity.
+Součástí realizace PDOV je tedy i jeho monitoring, tzn. systematický sběr dat o realizovaných aktivitách
+a dosahovaných cílech. V rámci monitoringu sledujeme, zda jsou plněny stanované a v plánu
+definované indikátory, a to jak výstupové indikátory (aktivity jednotlivých opatření), tak i výsledkové
+indikátory (tj. zda je dosahováno vytyčených cílů). Indikátory budou po schválení plánu následně
+zaneseny do tzv. monitorovací listu, který bude sloužit i jako harmonogram/plán sběru dat o realizaci
+na celé období platnosti strategického plánu a jako datový soubor, kde budou tato data
+shromažďována. Monitorovací list pak bude pravidelně (jednou ročně) vyhodnocován. K pracovním
+konzultacím k sestavení monitorovacích indikátorů a k následné diskusi nad průběžnými výsledky
+monitoringu budou přizváni i zástupci Poradní sboru pro záležitosti romské menšiny statutárního
+města Brna, jenž se zapojí do posouzení relevance, citlivosti a dostupnosti dat a pomohou s
+interpretací výsledků ve vztahu ke komunikaci s rodinami, prevenci nerovností a podpoře inkluzivní
+praxe škol. Konkrétní forma spolupráce bude průběžně upřesňována v návaznosti na harmonogram
+implementace a aktuálně dostupná data.
+Výstupy z monitoringu a jejich vyhodnocení by měly být pravidelnou součástí řízení školské soustavy
+(viz kapitola 3.5). S jejich pomocí je možné se poučit z vlastních zkušeností a upravovat a zlepšovat
+aktivity v rámci plánování. V rámci tohoto procesu jsou např. analyzovány případné odchylky od plánu,
+nebo je na jeho základě prováděna aktualizace/revize strategie/plánu, tak aby bylo možné dosáhnout
+stanovené vize, např. nastane-li při vyhodnocení plánu situace, že jsou sice realizována naplánovaná
+opatření, ale nevede to k dosažení vytyčených cílů, je potřeba buď zvolit jiné nástroje (opatření), nebo
+přehodnotit cíl apod.
+
+
+
+
+                                                                                                                    44
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 49 / 60
+11. Seznam příloh:
+1. Vedené vzdělávání v území – rozšířená kapitola
+2. Doporučení k desegregaci ve vzdělávání, které vytvořil Poradní sbor pro záležitosti romské menšiny
+
+
+
+
+                                                                                                                    45
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 50 / 60
+Další analytické zdroje
+Nerovnosti ve vzdělávání jako zdroj neefektivity Nerovnosti ve vzdělávání jako zdroj neefektivity Český stát za
+každou investovanou korunu do programů včasné péče dostane zpět 3–4 Kč. Tyto výsledky odhaduje model,
+který předpokládá, že program trvá dva roky a má náklady 50–100 000 Kč na žáka za rok, což se přibližné rovná
+nákladům předškolního vzdělávání v ČR.
+
+Obědy zdarma mají prokazatelné výsledky. Ukazujeme, jak systém nastavit v Česku Obědy zdarma mají
+prokazatelné výsledky. Ukazujeme, jak systém nastavit v Česku
+
+
+
+Strategie vzdělávací polity ČR do roku 2030 +, MŠMT ČR Strategie vzdělávací politiky ČR do roku 2030+, MŠMT
+ČR
+
+Strategická linie 2 – Rovný přístup ke kvalitnímu vzdělávání
+
+Zvýšit kvalitu výuky na 2. stupni ZŠ
+
+Omezit vnější diferenciaci vzdělávacích cest
+
+Odstraňovat socioekonomické bariéry
+
+Posílit case management a meziresortní spolupráci v práci s rizikovými rodinami a znevýhodněnými dětmi
+
+Výkon rozsudku D.H. a ostatní proti ČR – nový akční plán opatření k desegregaci romských žáků Výkon
+rozsudku D.H. a ostatní proti ČR – nový akční plán opatření k desegregaci romských žáků - Ministerstvo
+spravedlnosti České republiky - Portál justice
+
+Výsledky výzkumu "Analýza příčin vyššího podílu romských žáků vzdělávajících se ve školách a třídách zřízených
+podle § 16 odst. 9, školského zákona" včetně doporučení Výsledky výzkumu "Analýza příčin vyššího podílu
+romských žáků vzdělávajících se ve školách a třídách zřízených podle § 16 odst. 9, školského zákona" včetně
+doporučení - edu.gov.cz
+
+Dát školám v oblastech s výskytem segregovaných škol zvýšenou podporu
+
+Posílit předškolní vzdělávání v širší oblasti okolo segregovaných škol
+
+Zvýšit připravenost ředitelů, učitelů, asistentů pedagogů na vzdělávání žáků z odlišného sociokulturního
+prostředí
+
+Poskytovat všem žákům jednotný kurikulární základ, ale individualizovat výuku
+
+Omezit sociální faktory vzdělávací neúspěšnosti v oblastech segregovaných škol.
+
+Působení a role speciálního školství
+
+Wellbeing ve škole: Proč je důležité se na něj zaměřit Úvod do evaluace - wellbeingveskole.cz
+Autoevaluační nástroj pro školy k vyhodnocení wellbeingu
+
+
+
+Záruky pro děti Záruka pro děti | MPSV
+
+
+                                                                                                                     46
+       Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                           CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                     Strana 51 / 60
+V akčním plánu 5.1 Předškolní vzdělávání a péče, inkluzivní vzdělávání a školní činnosti a zdravé jídlo každý
+školní den.
+
+
+
+
+                                                                                                                     47
+       Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                           CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                     Strana 52 / 60
+Příloha č. 1 Vedené vzdělávání v území –
+rozšířená kapitola
+
+Role a odpovědnost zřizovatele v udržení kontinuity vedení
+Zajistit kvalitní vzdělávání není jednoduchý proces, který lze zařídit jednorázovou či krátkodobou
+intervencí. Vyžaduje kontinuální pozornost a péči, která je podmíněna dvěma hlavními oblastmi: 1)
+dlouhodobým plánováním na základě dat; 2) systémovým vedením vzdělávání v území, a to
+v součinnosti s dalšími poskytovali služeb rodinám a dětem. Tyto dvě podmínky vyplývají jednoznačně
+z mezinárodních studií porovnávajících data napříč zeměmi.
+Časově omezený, tříletý, projekt může nastavit potřebné změny, ale nemůže zajistit zásadně a
+definitivně kvalitu vzdělávání a vyřešit tudíž během své realizace nerovné podmínky ve vzdělávání.
+Tato kapitola proto definuje odpovědnost obce za kontinuitu v započatých mechanismech vedení
+vzdělávání v území s vymezením dvou hlavních oblastí agendy vedení, které proto níže sepisujeme. Za
+stávajících systémových podmínek v ČR může mít tuto roli pouze zřizovatel, který má odpovědnost
+v těchto klíčových bodech:
+   •    Jmenovaní a odvolání ředitele jako statutárního organu školy,
+   •    odpovědnost za materiální vybaveni škol,
+   •    zastoupeni ve školské radě,
+   •    kontrola a hodnoceni škol.
+   •    financování nepedagogických pracovníků školy a oblast provozních nákladů
+To vše slouží k tomu, aby zřizovatel mohu naplňoval zákonem stanovenou povinnost zajišťovat svým
+občanům „soulad rozvoje vzdělávání a školských služeb se zájmy občanů obce a kraje, s potřebami
+trhu práce, s demografickým vývojem a rozvojem svého území“ ((§ 177 Školského zákona). Pro
+naplnění této odpovědnosti je nutný komplexní a systematický přístup k celé agendě vzdělávání v
+dlouhodobějším horizontu, což je podmínka pro výsledky aktivit realizovaných tímto projektem.
+Zřizovatel je tímto seznámen s tím, že pokračování ve vedení vzdělávacího systému je určující pro
+zajištění účinnosti opatření realizovaných tímto plánem a že jedině zřizovatelská pozice má možnost
+tuto odpovědnost naplnit. Zřizovatel má odpovědnost za udržení kontinuity v realizaci systémového
+vedení a strategického plánování založeném na vyhodnocování dat, což je podmínkou pro zajištění
+kvality vzdělávacího systému obce. Pokud nebude kontinuita zajištěna, nelze očekávat udržitelnost
+plánovaných změn a s tím spojené očekávané dopady.
+
+
+Agenda vedení vzdělávání v území zřizovatelem
+
+
+
+                                                                                                                     48
+       Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                           CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                     Strana 53 / 60
+Kapitola představuje dvě základní oblasti, které je nutné z pozice zřizovatele realizovat pro udržení
+kontinuity plánu a dosažení efektivity zvolených postupů. Zásadní podmínkou proto je zajištění kapacit
+pro vedení platformy a zpracování analýzy (alespoň jednou za rok) z pozice zřizovatele.
+Kromě kapacit má klíčovou roli kvalita výkonu těchto aktivit, tedy kompetence těch, kdo budou dané
+pozice zastávat. Pro vedení platformy je podstatné, aby probíhalo nejen formou řízení a koordinace,
+ale také obsahovalo nutně prvky lídrovství (viz bod 2), neboť nutnou součástí efektivity celého vedení
+je profesionalizace, tedy zvyšování kvality poskytování služeb všemi zúčastněnými a kvalita vzájemné
+spolupráce.
+
+
+    1. Koncepční plánování na základě vyhodnocení relevantních dat (evidence based)
+Zřizovatel přejímá odpovědnost za vedení vzdělávací soustavy na svém území, které je založeno na
+pravidelném sběru relevantních dat a jejich kvalitního vyhodnocení. Na základě toho stanovuje ve
+spolupráci s ostatními aktéry vzdělávání komplexní a dlouhodobý plán rozvoje vzdělávací soustavy.
+Zřizovatel se zástupci místní správy, vedením škol a zástupci organizací poskytujících sociální služby
+tak společně koncipují evidence based vzdělávací politiku v dlouhodobější perspektivě se zohledněním
+účinnosti opatření, jak vyplývá z aktuálního poznání v oboru pedagogiky, psychologie a sociologie.
+Východiska koncepčního plánování založeného na evidence based přístupu ve třech oblastech:
+1.1. Komplexní vyhodnocení dat pro strategické plánování
+V nejméně 3letém nebo 5letém intervalu je realizována rozsáhlejší analýza situace vzdělávacího
+systému v lokalitě. Za tímto účelem je nastavený standard kvality vzdělávání opřený o sadu indikátorů,
+které se pravidelně sledují a vyhodnocují. Vyhodnocování slouží k systematické podpoře srovnatelné
+kvality vzdělávání na všech školách a vyrovnání podílů žáků s potřebou podpory na školách tak, aby
+byly srovnatelné nároky na pedagogy. Podklad pro vyhodnocení indikátorů je součástí přílohy plánu a
+bude v revidované podobě předán obci s ukončením spolupráce v rámci memoranda.
+1.2. Strategické plánování
+Na podkladě analýzy je v rámci platformy pro vzdělávání sestaven plán dalšího rozvoje vzdělávací
+soustavy. Metodami strategického plánování se na základě dat z analýzy stanovují cíle, opatření a
+aktivity, které vedou k zajištění kvalitního vzdělávání pro všechny děti a žáky tak, aby byl naplněn jejich
+potenciál a předcházelo se etnické nebo sociální segregaci. Segregace je jednak v rozporu se zákonem,
+jednak zvyšuje nároky na pedagogické pracovníky a snižuje šance na úspěch ve vzdělávání. V souladu
+s tím jsou zajištěny kapacity a zdroje pro realizaci plánu. Součástí nastavení nového plánu je i diskuze
+nad vizí, která sjednocuje odbornou veřejnost v pojetí kvality a smyslu vzdělávání.
+1.3. Průběžný monitoring
+Kromě toho probíhá pravidelný monitoring, jehož vyhodnocení se realizuje každý rok. Ten je založen
+jednak na evidenci realizace opatření plánu, jednak na vyhodnocení některých základních dat ve
+vztahu k rovnoměrnému rozloženi podílu žaků z rodin s nízkým SES, podílu romských žáků a žáků s
+odlišným mateřským jazykem ve třidách/školách a data vypovídajících o podpoře, jakou děti/žáci na
+
+                                                                                                                    49
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 54 / 60
+školách dostávají a jaké nároky z toho vyplývají pro pedagogickou práci. Zřizovatel ve spolupráci se
+školami průběžně (každý rok) evidují a vyhodnocují údaje o potřebách žáků a peagogů, poskytované
+podpoře a klimatu školy a na základě toho přizpůsobují opatření aktuálnímu vývoji.
+1.4. Identifikace sociálního znevýhodnění
+Nedílnou součástí evidence based přístupu je evidence podílu sociálně znevýhodněných dětí na
+jednotlivých školách a v třídách. V rámci spolupráce a postupně i na celostátní úrovni je zaveden
+pravidelný sběr odhadu počtu dětí/žáků ohrožených sociálním znevýhodněním na školách. Sběr
+probíhá na základě metodiky NPI Identifikace žáků se sociálním znevýhodněním v mateřské, základní
+a střední škole[1]. Identifikace podílu sociálně znevýhodněných dětí/žáků školy slouží k nastavení
+potřebného systému podpory pro vyučující tak, aby děti a žáci ohrožení sociálním znevýhodněním
+dostávali zákonem stanovenou podporu. K jeho vyhodnocení v širším kontextu slouží koncepce
+monitoringu, kdy jsou data z identifikace nezbytnou součástí širší indikátorové sady, bez které by
+koncepce neměla potřebnou výpovědní hodnotu.
+Identifikaci realizuje škola pod jednotným metodickým vedením, ideálně zástupce školního
+poradenského pracoviště. V obcích s více školami je vhodné metodické vedení škol sjednocovat tak,
+aby bylo jednotné pojetí interpretace škály kategorií sociálního znevýhodnění.
+
+
+Koncepci pro vyhodnocení monitoringu indikátorů zřizovatel a platforma převezme jako součást
+dalšího vedení a plánování v území ke konci spolupráce.
+
+
+    2. Vedení systémové spolupráce (synergie služeb)
+Schopnost škol zajistit dobré výsledky žáků je významně ovlivněna mírou efektivní spolupráce a
+komunikace všech účastníků vzdělávání s hlavním důrazem na pedagogické pracovníky. (Datnow &
+Park, 2019; Hargreaves & O´Connor, 2018; Markholt et al., 2018).
+Zlepšování výsledků žáků a realizace plánu vyžaduje kontinuální a efektivní spolupráci a komunikaci
+všech účastníků vzdělávání, což vyžaduje systémové vedení. Tuto roli v současném systému ČR může
+zastávat funkčně pouze zřizovatel. Níže je soupis tří oblastí, na které má být vedení vzdělávacího
+systému obce zřizovatelem zaměřeno.
+Leadership vedení
+„Kultura má „sílu ovlivňovat, co si lidé myslí a jak jednají“[
+Nutnou podmínkou tohoto vedení ve všech oblastech je, aby nebylo zúženo pouze na řízení formou
+koordinace a organizace. I to je potřeba, ale mají-li být společné plánování a spolupráce efektivní a cíle
+plánu naplňovány, je zásadní realizovat vedení formou kompetencí leadera. Pro funkční spolupráci
+nestačí pouze řídit a dodržovat plánem předepsané postupy. Je třeba cíleně vytvářet a pěstovat
+společnou „kulturu škol a regionu, která uznává jako hodnoty učení, inovace a spolupráci“ (Florian,
+2000, s. 16). Je nutné, aby vztahy byly založeny na důvěře, dobrých kolegiálních vztazích a vstřícném
+dialogu (otevřenosti).
+                                                                                                                    50
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 55 / 60
+Významnou součástí vedení je tedy i péče o celkovou kulturu prostředí, ve kterém se realizuje
+spolupráce těch, kteří poskytují služby rodinám a jejich dětem. Cílem vedení by mělo být
+zprostředkovávat kvalitní odborný dialog, komunikaci podporující sdílení a reflexi praxe a motivaci
+k hledání nových možností. Teprve daří-li se realizovat tento způsob vedení, lze očekávat, že se se
+zvolenými postupy a řešeními všichni ztotožňují, rozumí jim, spolupracují na nich (dosahuje se
+synergie) a mají motivací rozvíjet své profesní kompetence. Podmínkou takové kultury je zajištění
+bezpečného prostředí, aby všichni potřební zainteresovaní měli odvahu a důvěru otevřít se reflexi a
+zpětné vazbě, která je zdrojem profesního růstu.
+Kompetence schopného leadera pro oblast vzdělávání lze definovat stručně např. podle Jima Collinse
+(Collins, 2001):
+    •    Disponují osobní pokorou a zároveň velkou vůlí a odhodláním.
+    •    Mají velmi dobré logické uvažování a jsou kreativní, mají fantazii.
+    •    Jsou otevření změnám a výzvám, dovedou se odpoutat od zaběhlých modelů a rigidity, a
+         přitom umí udržovat stabilitu a řád.
+    •    Uvažují a jednají se zohledněním globálních i lokálních souvislostí (inspirováno: Collins,
+         2001).
+
+
+2.1. Vedení systému
+Zásadní oblast vedení se zaměřuje na spolupráci a synergii služeb všech institucí a organizací, které
+pracují s rodinami a dětmi. Za tímto účelem vede zřizovatel platformu pro vzdělávání, která je složena
+ze zástupců všech organizací poskytujících služby rodinám a jejich dětem ve vzdělávací a sociální
+oblasti (viz níže). Cílem platformy je zajištovat: dialog všech zúčastněných a tedy synergii služeb,
+strategické plánování, koordinaci postupů v praxi, monitoring aktuálního vývoje a potřeb, sdílení praxe
+a profesní růst všech zúčastněných.
+Platforma vzdělávání je zásadním tělesem pro strategické plánování v dlouhodobém horizontu na
+systémové úrovni, na něž by mělo navazovat plánování na úrovni jednotlivých institucí. Předpokladem
+společného plánování je sjednocení cílů poskytovaných služeb, tedy stanovení sdílených hodnot a vize,
+což podporuje synergii služeb v praxi. Platforma slouží dále průběžně ke kontinuální koordinaci a
+průběžnému vyhodnocování plánu, řešení aktuálních agend a potřeb. Dále má platforma poskytovat
+prostor pro dialog, příležitost pro sdílení a reflexi praxe a to i v rámci návaznosti školních a sociálních
+služeb, neboť to podporuje jejich synergii a je základem profesního růstu. Platforma má sloužit jako
+zdroj odborného růstu i formou dalšího vzdělávání a distribucí kvalitních materiálů pro teorii i praxi.
+Podmínkou je zajistit bezpečné prostředí pro odborný dialog a sdílení praxe (viz výše). Nezastupitelnou
+roli pro udržení srovnatelné kvality vzdělávání na všech školách má platforma zejména ve větších
+obcích.
+Hlavní agenda platformy
+    •    Vedení a realizace strategického plánování
+
+                                                                                                                      51
+        Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                            CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                      Strana 56 / 60
+    •    Zajištění relevantních dat a jejich vyhodnocení i interpretaci pro potřeby plánování
+    •    Zjištění kvalitních metodických a odborných podkladů a jejich interpretací
+    •    Evaluace a revize plánu s provazbou na plány jednotlivých aktérů, včetně schopnosti včasné
+         intervence v případě potřeby změn a doplnění plánu.
+    •    Koordinace postupů v praxi, kontinuální sdílení informací o realizaci plánu a řešení aktuální
+         agendy
+    •    Udržování synergie služeb na základě sdílení postupů a metod v praxi.
+    •    Profesionalizace - reflexe praxe, intervize, workshopy, informování o metodách, výzkumech,
+         souvislostech atd.
+Vedení platformy: Platforma je koordinována zřizovatelem, který má jako jediný zásadní vliv na
+všechny aktéry v území a může tak působit jako jednotící prvek.
+Zástupci platformy: zřizovatel, radní pro oblast vzdělávání, zástupci školského a sociálního odboru,
+ředitelé všech škol lokality a školské rady, zástupci sociálních služeb, poradenského systému, pediatři
+a zástupci policie.
+Forma a rozsah setkávání: Minimálně 4 setkání do roka.
+
+
+2.2. Pedagogický leadership vedení škol
+„Navrhovaná instituce místní školské správy (dále jen instituce) by měla vytvářet a garantovat
+podmínky, které umožni všem ředitelům škol věnovat 50–80 % jejich času pedagogickému vedeni,
+podobně jako v nejlepších vzdělávacích systémech. To je třikrát až čtyřikrát vice, než je v ČR běžné.“
+Z mezinárodních srovnání vyplývá, že regiony vykazující dobré výsledky vzdělávání se shodně zaměřují
+na zlepšování profesionality pedagogických pracovníků. Výzkumy dokládají, že úspěch žáků závisí
+nejvíce na tom, co učitelé vědí o procesu učení jako takovém, a jak na základě toho realizují výuku. K
+tomu je potřeba vedení procesů učení samotných pedagogů, což spadá pod kompetence vedení škol.
+Proto je důležité v rámci vedení zřizovatelů věnovat speciální pozornost podpoře vedení škol, aby mělo
+prostor cíleně rozvíjet školu a její kulturu a věnovat se profesnímu růstu pedagogických pracovníků,
+který je zakotven v praxi. Cílem je, aby zaměstnanci školy tvořili společenství lidí, které stále společně
+hledá cesty, jak se rozvíjet a usiluje o naplňování společně stanovených cílů.
+Zřizovatel by se proto měl snažit o minimalizaci nepedagogícké zátěže ředitelů škol, aby měli prostor
+působit jako pedagogičtí lídři, a hlavně by měl zajistit podmínky pro kolegiální sdílení vedení škol za
+účelem profesního růstu. Vhodné je stanovit leadera, který bude zaštiťovat odborné vedení a za tímto
+účelem zvolí vhodnou formu realizace, jako např. intervize, mentoring, workshop, externí vzdělávání,
+hospitace a náslechy atd. Na základě toho ředitelé obdobně vedou profesní růst pedagogických
+pracovníků svého sboru, a to i v kolegiálním sdílení mezi školami. U obcí s jednou školou lze doporučit
+zajistit vedení školy alespoň mentora k pravidelným konzultacím, ideálně se zkušeností v oblasti
+vzdělávání žáků se sociálním znevýhodněním.
+
+                                                                                                                      52
+        Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                            CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                      Strana 57 / 60
+2.3. Komunikace s veřejností
+„V těch nejúspěšnějších vzdělávacích systémech političtí a institucionální leadeři přesvědčili širokou
+veřejnost, že je nutná volba vzdělávání jako té základní hodnoty, která má prioritní význam pro
+budoucnost.“ (OECD, 2010, s. 4).
+Nedílnou součástí úspěšného vedení vzdělávání v území je komunikace zvolených postupů veřejnosti.
+Veřejnost je třeba informovat o vývoji a vysvětlovat zvolené postupy a šířit osvětu, která ozřejmuje
+investice do vzdělávání. Osvětu je třeba postavit na argumentech založených na datech a vysvětlovat
+investice z dlouhodobějšího hlediska, nikoliv pro bezprostřední efekt okamžitých výnosů nebo
+výsledků. Otevřený dialog, umožňující aktivní zapojení občanské společnosti, posiluje důvěru a
+zajišťuje dlouhodobou udržitelnost plánovaných změn. Důležité e zajistit transparentnost v plnění
+plánu, včetně finanční náročnosti, kde veřejnost může získat okamžitou zpětnou vazbu o fázi realizace
+jednotlivých opatření.
+
+
+Koncepci pro vedení vzdělávání v území v návaznosti na vyhodnocení monitoringu indikátorů
+zřizovatel a pod jeho vedením i platforma převezme jako součást dalšího vedení a plánování v území
+ke konci projektu.
+
+
+
+
+                                                                                                                    53
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 58 / 60
+Příloha č. 2 Doporučení k desegregaci ve vzdělávání,
+které vytvořil Poradní sbor pro záležitosti romské
+menšiny
+Romská Rada města Brna (RRB) oceňuje iniciativu MČ Brno sever k plánované de-segregaci romských
+dětí na základních školách. Na základě dlouholetých zkušeností včetně znalosti interního prostředí
+romské komunity, považujeme kvalitní vzdělání romských dětí za klíč k úspěchu.
+S ohledem na dlouholetou a stále trvající segregaci romských dětí ve vzdělávání zároveň důrazně
+upozorňujeme na důsledky této systémové diskriminace související s postavením Romů ve
+společnosti.
+Veškeré kroky by měly vycházet z reálných potřeb romské komunity, která se potýká s anticiganismem,
+sociálním vyloučením a chudobou.
+Na základě těchto skutečností připravili členové RRB doporučení, na která by podle našeho názoru
+nemělo být zapomenuto, pokud chceme dosáhnout skutečného zlepšení ve vzdělávání romských dětí.
+
+
+1. Získání politické podpory na úrovni města Brna, systémové změny ve vzdělávání romských dětí
+vyžadují dlouhodobý proces, který se neobejde bez stabilní politické podpory napříč politickým
+spektrem. V případě města Brna je zásadní podpora politiků a zodpovědných úředníků Magistrátu
+města Brna v kooperaci se samosprávami příslušných městských částí.
+
+
+2. Pravidelná a dlouhodobá setkání zástupců RRB s politickými činiteli z různých politických stran jsou
+klíčová pro zvyšování povědomí o daném problému a podporu dosažení shody - (například přijetí
+deklarace o dlouhodobé odpovědnosti či vytvoření meziresortní pracovní skupiny).
+
+
+3. Kompletní zapojení romských komunit do všech etap procesu de-segregace – od plánování,
+realizace až po monitorování a komunikaci výsledků projektu. Cílem je zahrnout co nejvíce členů
+romské menšiny do komunitních aktivit i do odborných rolí.
+
+
+4. Je nezbytné zajistit rozsáhlou osvětu na toto téma ze strany odpovědných subjektů. To zahrnuje
+například organizaci komunitních setkání pro rodiče, setkání rodičů s odborníky zaměřená na
+budoucnost jejich dětí v segregovaných školách a školách s etnicky smíšenými třídami. Cílem je
+poskytovat informace o významu kvalitního vzdělání a umožnit rodičům svobodně se rozhodnout, zda
+jejich děti budou navštěvovat běžné školy.
+
+
+4. Plánování a shromažďování návrhů přímo od členů romské komunity v rámci komunitních center
+                                                                                           54
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 59 / 60
+6. Podporovat školení a zaměstnávání romských mentorů, pedagogických asistentů a terénních
+pracovníků ve spolupráci s neziskovými organizacemi
+
+
+7. Pořádat informační semináře v komunitních centrech s romskými lektory, kteří mohou rodičům
+přiblížit význam kvalitního vzdělání a sdílet osobní zkušenosti
+
+
+8. Identifikovat klíčové oblasti pro efektivní řešení problému. Využít již dostupné odborné studie a
+výzkumy zaměřené na segregaci romských dětí a strategické dokumenty, které se věnují řešení této
+problematiky. Investovat značné prostředky a úsilí do posílení role pedagogických asistentů, mentorů
+a komunitních pracovníků, kteří budou pracovat s dětmi a jejich rodiči. Sociálně znevýhodněný žák by
+při nástupu do 1. třídy běžné školy měl mít podporu pedagoga, který rozumí i jeho domácí situaci, aby
+se šance na vyrovnání jeho handicapu co nejdříve zvýšily a nerovnosti se neprohlubovaly.
+
+
+9. Navázat spolupráci s Masarykovou univerzitou a jejími fakultami, které již provedly výzkumy
+zaměřené na téma segregace, a využít jejich výsledky, aby se předešlo opakování výzkumů ze strany
+agentur i univerzit.
+
+
+10. Využívat širší spektrum nástrojů k de-segregaci:
+            •         Podpora osvěty a vytváření možností a podpory pro rodiče, kteří chtějí, aby jejich
+                      děti chodily do běžných škol, včetně zajištění nadstandardní či dodatečné péče
+                      pro tyto žáky od začátku školní docházky.
+            •         Nespoléhat se pouze na změnu spádových oblastí.
+            •         Podpora komunitního fungování škol prostřednictvím grantů a školení učitelů v
+                      oblasti inkluze.
+            •         Snahy o zlepšení kvality segregovaných škol, aby přitáhly větší zájem rodičů z
+                      majority, a to i využitím alternativních vzdělávacích programů, jako jsou
+                      Montessori nebo Waldorf.
+
+
+11. Podpora romské identity, sebevědomí romských žáků
+Boj proti stereotypům a anticiganismu, prostřednictvím kulturně-vzdělávacích workshopů, lektoři
+(romské osobnosti, odborníci)
+
+
+12. Univerzitní program pedagogiky by měl zahrnovat témata týkající se historie a kultury Romů,
+včetně sociálních problémů, které reflektují jejich současnou nerovnoprávnou pozici, a také metody,
+jak přistupovat k práci s dětmi znevýhodněnými touto situací.
+                                                                                                55
+      Dokument vznikl v projektu Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním, registrační číslo
+                                          CZ.02.02.04/00/23_018/0008472
+
+
+
+                                                                                                                    Strana 60 / 60
+

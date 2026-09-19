@@ -1,0 +1,1181 @@
+Rada města Brna
+
+Z9/22. zasedání Zastupitelstva města Brna
+konané dne 10.12.2024
+
+
+
+  46. Návrh smlouvy o poskytnutí individuální neinvestiční dotace
+  Czech National Semiconductor Cluster, z.s. na realizaci projektu
+                 „Polovodičové kompetence Brna“
+
+Anotace
+Dne 13. 11. 2024 obdržel Magistrát města Brna žádost Czech National Semiconductor Cluster, z.s. (dále
+jen CNSC) o poskytnutí dotace ve výši 500 000 Kč na realizaci projektu „Polovodičové kompetence Brna
+II“, a to od 1. 1. 2025 do konce roku 2025. Na základě toho je předkládán orgánům města tento materiál.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje
+                                      poskytnutí individuální neinvestiční dotace Czech National Semiconductor
+                                      Cluster, z.s., se sídlem Šumavská 416/15, Ponava, 602 00 Brno, IČO:
+                                      17865859, na projekt „Polovodičové kompetence Brna II“ ve výši 500 000 Kč
+                                      z rozpočtu města Brna,
+                                      smlouvu o poskytnutí individuální neinvestiční dotace Czech National
+                                      Semiconductor Cluster, z.s., se sídlem Šumavská 416/15, Ponava, 602 00
+                                      Brno, IČO: 17865859; na projekt „Polovodičové kompetence Brna II“ ve výši
+                                      500 000 Kč z rozpočtu města Brna, která tvoří přílohu č. ...... tohoto zápisu.
+
+
+2. pověřuje                    vedoucího Odboru strategického rozvoje a spolupráce MMB podpisem smlouvy o
+                               poskytnutí dotace.
+
+
+Stanoviska
+
+Materiál bude projednán na schůzi RMB R9/110 konané dne 4.12.2024.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Mgr. František Kubeš Ph.D.
+  vedoucí odboru - Odbor strategického rozvoje a
+  spolupráce
+  3.12.2024 v 12:40
+  Garance správnosti, zákonnosti materiálu
+
+
+
+
+Sestava vytvořena 3.12.2024 v 14:07                           1/2                              Vygenerováno programem eMMB
+
+
+                                                                                                               Strana 1 / 30
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Ing. Aleš Doležel
+  vedoucí úseku - 2. úsek
+  3.12.2024 v 12:22
+
+
+
+
+Sestava vytvořena 3.12.2024 v 14:07   2/2   Vygenerováno programem eMMB
+
+
+                                                            Strana 2 / 30
+                                   Obsah materiálu
+Návrh usnesení                                         1-2
+Obsah materiálu                                        3-3
+Důvodová zpráva                                        4-5
+Příloha (SEMICOII_OSRS_žádost+prilohy.pdf)            6 - 17
+Příloha k usnesení (Smlouva Cluster II rmb.pdf)      18 - 30
+
+
+
+
+                                                         Strana 3 / 30
+                                         Důvodová zpráva
+
+Dne 13. 11. 2024 obdržel Magistrát města Brna žádost Czech National Semiconductor Cluster, z.s. (dále
+jen CNSC) o poskytnutí dotace ve výši 500 000 Kč na realizaci projektu „Polovodičové kompetence
+Brna II“, a to od 1. 1. 2025 do konce roku 2025.
+Spolek CNSC vznikl v prosinci 2022. Aktuálně sdružuje 37 členů z akademického i privátního sektoru
+(např. Vysoké učení technické v Brně, Ústav přístrojové techniky AV ČR, v. v. i., CEITEC, České vysoké
+učení technické v Praze, Karlova univerzita, Masarykova univerzita, Semiconductor Components
+Industries, LLC, TESCAN GROUP, a.s., Thermo Fisher Scientific Inc., Západočeská univerzita v Plzni,
+UJP PRAHA a.s. atd.). Hlavním účelem spolku je zejména vytvoření uceleného seskupení společností,
+univerzit a dalších institucí, ale i fyzických osob, pokrývajících co nejširší část mikroelektroniky –
+hodnotového řetězce polovodičů a jeho přidružených řetězců, popř. vhodných kompetenčních řetězců
+tak, aby spolek stimuloval vznik efektu přelévání a multiplikace kompetencí.
+
+Činnost CNSC je přímo spojena se zásadním rozvojem polovodičového hodnotového řetězce v ČR.
+Ačkoliv spolek působí na národní úrovni s významným mezinárodním přesahem, má sídlo v Brně a je
+přirozeně napojen na lokální výzkum, vývoj a průmyslové subjekty. Hlavním přínosem jeho činnosti pro
+Brno je účelné zapojení vybraných místních institucí do polovodičových aktivit evropských projektů
+velkého významu, evropského aktu o čipech a zejména pak podpora příležitosti umístění národního
+polovodičového kompetenčního centra nebo pilotní linky do Brna.
+
+Projekt „Polovodičové kompetence Brna II“ spočívá v dalším rozvoji činností CNSC zaměřených na
+posílení pozice a kompetencí ČR v Evropě v oblasti polovodičového hodnotového řetězce CNSC je
+nedílnou součástí Silicon Europe a reprezentuje ČR na zahraničních veletrzích jako jsou Semicon
+Taiwan, Semicon Europe a další. Ve spolupráci s MPO, MŠMT a Úřadem vlády se CNSC podílel na
+návrhu schválenené Národní polovodičové strategie. V rámci evropského zákona o čipech (EU Chips
+Act) je v Evropě budována síť národních polovodičových center. České polovodičové kompetenční
+centrum bude její součástí. Centrum vznikne v souladu s Národní polovodičovou strategií. Přípravu
+Národního polovodičového centra kompetence koordinuje Vysoké učení technické v Brně s přímou
+podporou CNSC.
+CNSC se podílel také podílel na zřízení Centra pro pokročilý návrh a výzkum čipových technologií
+ACDRC, které vzniklo jako konkrétní iniciativa rozvoje vztahů mezi Českou republikou a Tchaj-wanem.
+Centrum představuje jeden z pilířů spolupráce v oblasti polovodičů.
+Dále se CNSC účastní jednání Agentury pro podporu podnikání a investic CzechInvest s potenciálními
+investory do ČR. Zapojení CNSC do dalších aktivit je znázorněno v přiloženém diagramu strategických
+cílů.
+Dotace poskytnutá z rozpočtu statutárního města Brna na projekt „Polovodičové kompetence Brna II“
+bude využita na posílení kapacity organizace CNSC nutné pro pokračování rozvoje strategických směrů
+zaměřených na posílení pozice a polovodičových kompetencí:
+ Vnitřní struktury organizace
+ Vytvoření pracovních skupin, které rozvíjí jednotlivé kompetence clusteru  Vytvoření
+  cluster-point-access pro partnery
+Další aktivity viz přiložený diagram strategických cílů včetně rozvoje průmyslové spolupráce v rámci
+TW incomingu.
+
+
+
+
+                                                                                                  Strana 4 / 30
+Odbor strategického rozvoje a spolupráce MMB doporučuje poskytnutí individuální neinvestiční
+dotace CNSC a schválení smlouvy o této dotaci. Financování poskytnutí individuální neinvestiční
+dotace je zajištěno ze schváleného rozpočtu OSRS MMB na rok 2024 ORJ 1500, §2125, pol. 5222,
+ORG 7150 ve výši 500 tis. Kč.
+
+
+
+
+                                                                                           Strana 5 / 30
+    Žádost o individuální dotaci z rozpočtu města Brna na rok 2025
+Název projektu:
+Polovodičové kompetence Brna II
+
+Oficiální název žadatele/příjmení a jméno fyzické osoby ne/podnikající (jméno a příjmení žadatele, adres
+
+
+Czech National Semiconductor Cluster z.s (dále CNSC), Šumavská 15, 60200 Brno, IČO 17865859
+Kontakt
+Ing. Stanislav Černý, tel. 602548732, cerny@semicz.eu, president
+
+Bankovní spojení
+
+6559039309/0800
+Termín realizace projektu:
+1. 1. 2025 - 31. 12. 2025
+Požadovaná částka (v Kč):
+500 000,-
+Popis žadatele
+
+Český národní polovodičový klastr (CNSC)
+Český národní polovodičový klastr je sdružení, které spojuje přední české akademické instituce, vedoucí
+společnosti, startupy a regionální inovační centra v oblasti polovodičového průmyslu. Klastr je integrován
+do evropské sítě klastrů a nové Aliance evropských polovodičových regionů pro EU ChipsAct - European
+Chips Act (Evropský zákon o čipech).
+
+Kompetence CNSC:
+      1. Výzkum a vývoj (R&D): Klastr se zaměřuje na vývoj nových polovodičových technologií, včetně
+         IP designu a nástrojů EDA - Electronic Design Automation (Automatizace elektronického
+         návrhu). Brno je domovem nejsilnějšího ekosystému RISC V - Reduced Instruction Set
+         Computer V (Počítač s redukovanou instrukční sadou V) v Evropě.
+      2. Výroba a vybavení: Regiony Zlín a Jižní Morava tvoří české Silicon Valley s produkcí více než 3
+         milionů waferů a 3 miliard čipů ročně.
+      3. Analýza a úprava obvodů: Česká republika je významným producentem elektronových
+         mikroskopů, které jsou klíčové pro analýzu a úpravu polovodičových zařízení.
+
+Realizované projekty:
+      1. RISC V platforma: Vývoj nové procesorové platformy RISC V a nástrojů pro návrh a distribuci IP.
+      2. AI a IIoT: Technologie pro adaptivní edge AI a průmyslový internet věcí (IIoT), ověřené v
+         energetických sítích.
+      3. Výrobní technologie: Pokročilé výrobní procesy asistované umělou inteligencí a inovativní
+         vybavení pro výrobu polovodičů.
+
+CNSC také spolupracuje s českou vládou na prioritách EU a ČR pro polovodičový průmysl, jako jsou IPCEI
+Important Projects of Common European Interest (Důležité projekty společného evropského zájmu)
+Microelectronics, ChipsAct -European Chips Act (Evropský zákon o čipech) Chips Joint Undertaking
+(Společný podnik pro klíčové digitální technologie), je jedním ze stakeholderů pro národní polovodičovou
+strategii vedle MPO, MŠMT, MZV, SPČR, MMR,..
+
+                                                                                                      Strana 6 / 30
+Popis projektu
+V uplynulém období Český národní polovodičový klastr (CNSC) dosáhl několika klíčových strategických
+cílů:
+
+       1. Přijetí Národní polovodičové strategie vládou České republiky.
+       2. Etablování TW akademického centra v Brně v rámci megaprojektu ACDRC (Centra pro
+          pokročilý návrh a výzkum čipových technologií).
+       3. Schválení návrhu ChipsAct Pilíř I. Národního kompetenčního centra ze strany národní vlády i
+          Evropské komise, s centrálním vedením v Brně.
+       4. Rozvoj průmyslové spolupráce v rámci TW incomingu, jak je uvedeno v přiloženém diagramu
+          strategických cílů.
+
+Požadovaná dotace bude využita na posílení a další rozvoj:
+
+   ⇨    Vnitřní struktury organizace
+   ⇨    Vytvoření pracovních skupin, které rozvíjí jednotlivé kompetence clusteru
+   ⇨    Vytvoření cluster-point-access pro partnery
+
+
+
+
+                                         Dále viz přílohy projektu
+
+Odůvodnění žádosti - ve smyslu § 10a odst. 3 zákona č. 250/2000 Sb.
+
+Brno, jako centrum českého polovodičového průmyslu, hraje klíčovou roli v technologickém rozvoji země.
+Podpora projektů CNSC, včetně Národního kompetenčního centra, posílí ekonomiku města, přiláká
+investice a vytvoří vysoce kvaliﬁkovaná pracovní místa. Realizace těchto projektů zvýší
+konkurenceschopnost regionu a podpoří inovace, což povede k dlouhodobému růstu a prosperitě Brna.
+
+ Seznam skutečně doložených příloh žadatelem:
+ 1. Položkový rozpočet nákladů a výnosů
+                                                                                                  Strana 7 / 30
+2. Dokumentace k účtu
+3. Zmocnění k účtu
+4. Informační systém evidence skutečných majitelů - Ministerstvo spravedlnosti České republiky - Výpis
+5. Výpis z registru osob
+6. Prohlášení o bezdlužnosti
+7. Popis projektu/činnosti
+
+Ing. Stanislav Černý
+ 13.11.2024                                 Podpis
+
+
+
+
+                                                                                                 Strana 8 / 30
+    Položkový rozpočet nákladů a výnosů - žádost o individuální dotaci z rozpočtu
+                        města Brna na rok/roky 2024 a 2025
+Název žadatele: Czech National Semiconductor Cluster z.s
+Název projektu: Polovodičové kompetence Brna
+Rozpočet musí být vyrovnaný – náklady musí být ve stejné výši jako výnosy.
+
+Druh nákladu např.: materiál, služby (cestovné, přepravné, spoje, ubytování, pronájem, osvětlení, ozvučení, propagace,
+autorské poplatky, např. OSA, honoráře) osobní náklady - dohody o PP a PČ, mzdy a odvody, drobný dlouhodobý
+hmotný majetek (do 40 tis. Kč), drobný dlouhodobý nehmotný majetek (např. software - do 60 tis. Kč)
+
+                             Předpokládané náklady projektu (v tis. Kč)
+                                                             Celkové uznatelné
+                     Druh nákladu                                                           Požadovaná dotace
+                                                                  náklady
+Členství clusteru v Silicon Europe - roční poplatek                           30,0                               30,0
+Mzdy a odvody                                                                470,0                              470,0
+Drobný dlouhodobý majetek hmotný                                               0,0                                0,0
+Drobný dlouhodobý majetek nehmotný                                             0,0                                0,0
+Celkem:                                                                     500,0                               500,0
+                              Předpokládané výnosy projektu (v tis. Kč)
+Požadovaná částka od města Brna                                                                                  500,0
+
+Dotace národní úroveň (upřesněte instituci)
+
+                                                         1000* JMK ( v jednání, bez duplicity s tímto návrhem)
+Dotace JMK
+Dotace - ostatní obce                                                                                              0,0
+Dotace - fondy EU
+Dary                                                                                                               0,0
+Příjmy (vstupenky, prodej)                                                                                         0,0
+               ostatní výnosy specifikujte - např.
+Výnosy z reklamy                                                                                                   0,0
+vlastní vklad )                                          1600 (předpokládané členské příspěvky)
+Celkem:                                                                                                        3100,0
+
+
+
+
+Ing. Stanislav Černý, president CNSC
+13.11.2024
+
+
+
+
+                                                                                                                Strana 9 / 30
+ČESKÁ 5
+spořitelna
+                                                                         MUUK
+ Rámcová               smlouva o finančních službách
+
+Česká Spořitelna, a.s., Praha 4, Olbrachtova 1929/62, PSČ 140 00, IČO: 45 24 47 82,
+zapsáno v obchodním rejstříku vedeném Městským soudem v Praze, sp. zn. B 1171
+(dále jen „Banka“)
+
+ a
+
+ Czech National Semiconductor Cluster, z.s.
+ obchodní firma / název
+ Šumavská 418/15, 602 00 Brno
+sídlo                                                                              o                  :
+ 17865859
+ čo
+ zapsaný/á v obchodním rejstříku vedeném Krajským soudem v Brně, sp. zn. | 28753
+ (dále jen „Klient“)
+
+ uzavírají tuto Rámcovou smlouvu o finančních službách (dále jen „Smlouva“).
+
+ 1.     Na základě této Smlouvy Banka povede Klientovi účet Podnikatelský účet Klasik číslo 6559039309/0800 v CZK
+        a bude Klientoví poskytovat finanční služby uvedené v příloze této Smlouvy.
+ 2.     Klient a Banka sjednávají, že podmínky finančních siužeb touto Smlouvou výslovně neupravené se řídí
+        Všeobecnými obchodnímí podmínkami České spořitelny, a. s. (dále jen „WOP“), ceníkem a dalšími dokumenty, na
+        které tato Smlouva odkazuje. Klient potvrzuje, že se seznámil se systémem pojištění pohledávek z vkladů
+        v rozsahu informačního přehledu, který mu Banka předala. Klient dále potvrzuje, že mu Banka VOP a další
+        dokumenty, na které tato Smlouva odkazuje, předala, že se s jejich obsahem seznámil a Že s ními souhiasí
+        a zavazuje se jimi řídit.
+
+ 3..    Klient se zavazuje, že pokud v souvislosti s touto Smlouvou, předá Bance ke zpracování pro účely naplnění
+        smlouvy osobní údaje fyzických osob (např. z důvodu žádosti o kartu pro jím stanovenou osobu, z důvodu
+        poskytnutí jiné finanční služby jím stanovené osobě, stejně tak i pro přístup do internetového bankovnictví
+        vedeného pro Klienta apod.), bude je neprodleně informovat o zahájení zpracování jejich osobních údajů Bankou
+        a seznámí je s obsahem “Zásad zpracování osobních údajů v České spořitelně, a.s.", které jsou k dispozici na
+        webové stránce Banky (ve složce "Ochrana osobních údajů").
+ 4..    Tato Smlouva nabývá platnosti a účinnosti dnem podpisu a je vyhotovena ve dvou stejnopisech s tím, že Klient
+        i Banka obdrží jeden stejnopis.
+
+ Víe) Boskovicích            M                m                                  dne 24.4.2023
+
+ Česká spořitelna, a.s.
+
+ Titul, jméno, příjmení            Hana Zezulková
+ Funkce                            specialista pro podnikatele
+
+
+
+
+ Klient:
+
+
+
+
+ Czech National Semiconductor Cluster, z.s.
+
+
+
+
+ZAFUSDO1 20211001
+
+
+
+
+                                                                                                                       Strana 10 / 30
+                                                                       *CS41000515337865*
+                                                                                        CS41 0005 1533 7865
+
+
+
+
+Přehled zmocnění k produktu
+
+Produkt                                                                          číslo produktu
+Běžný účet                                                                       6559039309/0800
+
+Majitel produktu
+Obchodní firma / Název              Czech National Semiconductor Cluster, z.s.
+IČ                                  17865859
+
+Majitel produktu / správce disponujících osob zmocňuje níže uvedené disponující osoby k disponování s peněžními
+prostředky a k dalším jednáním v rámci daného produktu způsobem uvedeným v této plné moci (dále jen „Přehled
+zmocnění“).
+
+Disponující osoby a rozsah uděleného zmocnění
+
+
+
+
+Správa disponujících osob     Platby                        Žádost o kartu                Transakční historie / výpisy
+
+Způsob podepisování pro oprávnění Platby
+
+Samostatně                    Toto nastavení umožňuje, aby každá disponující osoba podepisovala samostatně.
+
+Podmínky disponování a další informace zavazující majitele produktu / správce disponujících osob:
+•   Majitel produktu souhlasí s tím, že disponující osoby mohou při jednání využívat všechny komunikační kanály, které
+    Česká spořitelna, a.s. nabízí (včetně osobního jednání na obchodním místě banky, využívání služeb telefonního
+    a elektronického bankovnictví České spořitelny, a.s.). Podmínky využívání služeb elektronického bankovnictví
+    České spořitelny, a.s. jsou stanoveny Všeobecnými obchodními podmínkami České spořitelny, a.s. a majitel
+    produktu odpovídá za jejich dodržování disponujícími osobami.
+•   Majitel produktu / správce disponujících osob určuje rozsah udělovaného zmocnění disponující osobě.
+•   Změna Přehledu zmocnění je platná okamžikem podpisu Přehledu zmocnění majitelem produktu / správcem
+    disponujících osob.
+
+Přehled zmocnění
+•    Platby - majitel produktu / správce disponujících osob zmocňuje disponující osoby k provádění platebních transakcí
+     a požádání o vydání tiskopisů šeků. Zejména se jedná o výběry hotovosti, odchozí úhrady, založení nebo změnu
+     trvalých příkazů, nastavení souhlasu s inkasem, podepisování (vystavení) šeků, změnu režimu účtu v rámci SEPA
+     platebního styku (tzn. povolit automatické čerpání prostředků z účtu prostřednictvím SEPA inkasních příkazů).
+•    Transakční historie / výpisy - majitel produktu / správce disponujících osob zmocňuje disponující osoby
+     k zjišťování zůstatků, transakční historie, osobnímu vyzvedání výpisů z účtu, zobrazení dalších pasivních informací
+     o produktu a k požádání o vydání tiskopisů šeků.
+•    Žádost o kartu - majitel produktu / správce disponujících osob zmocňuje disponující osoby k podání žádosti
+     o poskytnutí debetních karet / kreditních karet a k nakládání s kartou dle sjednaných limitů.
+•    Správce disponujících osob - disponující osoba, kterou majitel produktu zmocnil ke správě disponujících osob.
+•    Správa disponujících osob - oprávnění správce disponujících osob jménem majitele produktu udělovat
+     a odvolávat zmocnění k nakládání s daným produktem stávajícím disponujícím osobám a dalším osobám, které
+     jsou disponující osobou na jiném produktu majitele produktu. Správce disponujících osob může udělovat
+     a odvolávat zmocnění na obchodním místě banky nebo prostřednictvím aplikací elektronického bankovnictví České
+     spořitelny, a.s. Správce disponujících osob není oprávněn udělovat a odvolávat zmocnění ke správě disponujících
+     osob. Správce disponujících osob nemůže přidávat nové disponující osoby, které majitel produktu dříve neurčil jako
+     disponující osoby k jinému svému produktu.
+
+
+
+
+WBLVO005_20230422                                                                                 CS41 0005 1533 7865       1/2
+
+                                                                                                                        Strana 11 / 30
+•      Majitel produktu / správce disponujících osob potvrzuje svým podpisem správnost údajů u uvedených disponujících
+       osob.
+•      Disponující osoba může ve styku s Českou spořitelnou, a.s., zejména na obchodním místě banky, používat vzorový
+       podpis. Ten v souladu s rozsahem svého zmocnění vyhotoví na formuláři České spořitelny, a.s. Vzorový podpis je
+       součástí udělené plné moci majitelem produktu / správcem disponujících osob a sleduje režim tohoto Přehledu
+       zmocnění.
+•      Majitel produktu / správce disponujících osob bere na vědomí, že disponující osoba je oprávněna měnit svůj
+       vzorový podpis nezávisle na majiteli produktu.
+•      Změny disponujících osob a rozsahu jejich oprávnění provádí majitel produktu / správce disponujících osob
+       změnou tohoto Přehledu zmocnění na obchodním místě banky nebo prostřednictvím aplikací elektronického
+       bankovnictví České spořitelny, a.s. Pro disponující osobu, u které majitel produktu / správce disponujících osob
+       zmocnění neodvolal, zůstává v platnosti a účinnosti původní vzorový podpis disponující osoby. Majitel produktu /
+       správce disponujících osob bere na vědomí, že provedené změny rozsahu zmocnění se projeví nejpozději do
+       následujícího pracovního dne od jejich provedení.
+•      Majitel produktu / správce disponujících osob je povinen seznámit všechny osoby uvedené v Přehledu zmocnění
+       s rozsahem jejich oprávnění.
+
+Podpisem tohoto Přehledu zmocnění majitel produktu / správce disponujících osob výslovně odvolává veškerá dříve
+udělená zmocnění, včetně všech omezení a podmínek pro využívání služeb České spořitelny, a.s. jeho zmocněnci.
+
+V případě změny statutárního zástupce majitele produktu / správce disponujících osob nebo jednání na základě plné
+moci si ČS vyhrazuje právo ověření změny dispozičních oprávnění u majitele produktu, jeho původního statutárního
+zástupce.
+
+
+
+V(e)      Brně
+
+
+
+
+         podpis pracovníka České spořitelny, a.s.                podpis majite
+
+
+
+
+WBLVO005_20230422                                                                                CS41 0005 1533 7865       2/2
+
+                                                                                                                       Strana 12 / 30
+10/25/23, 10:13 PM                        Informační systém evidence skutečných majitelů - Ministerstvo spravedlnosti České republiky
+
+
+Grafický náhled na strukturu vztahů
+                                             Částečný výpis platných údajů
+
+                                              z evidence skutečných majitelů vedené
+                                                     Krajským soudem v Brně
+                                                       oddíl L, vložka 28753
+
+Spisová značka:
+L 28753 vedená u Krajského soudu v Brně
+Název:
+Czech National Semiconductor Cluster, z.s.
+Identifikační číslo:
+178 65 859
+Skuteční majitelé:
+   Skutečný majitel:
+automaticky propsáno
+Ing. STANISLAV ČERNÝ, dat. nar. 13.07.1957
+Státní příslušnost: Česká republika
+Adresa místa pobytu: č.p. 169, 680 01 Sudice
+
+Povaha postavení skutečného majitele:
+Přímý skutečný majitel; Skutečný majitel podle § 4 zákona č. 37/2021 Sb.
+
+Údaje o skutečnostech zakládajících postavení skutečného majitele:
+Jiná skutečnost:
+Pozice člena statutárního orgánu, obdobná pozice nebo zástupce člena.
+
+Den, od kterého je fyzická osoba skutečným majitelem:
+22. prosince 2022
+zapsáno 22. prosince 2022
+   Skutečný majitel:
+automaticky propsáno
+prof. RNDr. TOMÁŠ PITNER, Ph.D., dat. nar. 11.02.1972
+Státní příslušnost: Česká republika
+Adresa místa pobytu: Hrázka 614/26, Medlánky, 621 00 Brno
+
+Povaha postavení skutečného majitele:
+Přímý skutečný majitel; Skutečný majitel podle § 4 zákona č. 37/2021 Sb.
+
+Údaje o skutečnostech zakládajících postavení skutečného majitele:
+Jiná skutečnost:
+Pozice člena statutárního orgánu, obdobná pozice nebo zástupce člena.
+
+Den, od kterého je fyzická osoba skutečným majitelem:
+22. prosince 2022
+zapsáno 22. prosince 2022
+   Skutečný majitel:
+automaticky propsáno
+Ing. MILAN SEMMLER, dat. nar. 26.10.1963
+Státní příslušnost: Česká republika
+Adresa místa pobytu: Staročeská 478/33, Suchdol, 165 00 Praha 6
+https://esm.justice.cz/ias/issm/rejstrik-sm.vysledky?subjektId=1190023&typ=PLATNY_CASTECNY_SM                                                        1/3
+                                                                                                                                        Strana 13 / 30
+10/25/23, 10:13 PM                        Informační systém evidence skutečných majitelů - Ministerstvo spravedlnosti České republiky
+
+
+Povaha postavení skutečného majitele:
+Přímý skutečný majitel; Skutečný majitel podle § 4 zákona č. 37/2021 Sb.
+
+Údaje o skutečnostech zakládajících postavení skutečného majitele:
+Jiná skutečnost:
+Pozice člena statutárního orgánu, obdobná pozice nebo zástupce člena.
+
+Den, od kterého je fyzická osoba skutečným majitelem:
+31. srpna 2023
+zapsáno 31. srpna 2023
+   Skutečný majitel:
+automaticky propsáno
+Ing. RADEK HOLÝ, Ph.D., dat. nar. 11.02.1976
+Státní příslušnost: Česká republika
+Adresa místa pobytu: Slévačská 902/11, Hloubětín, 198 00 Praha 9
+
+Povaha postavení skutečného majitele:
+Přímý skutečný majitel; Skutečný majitel podle § 4 zákona č. 37/2021 Sb.
+
+Údaje o skutečnostech zakládajících postavení skutečného majitele:
+Jiná skutečnost:
+Pozice člena statutárního orgánu, obdobná pozice nebo zástupce člena.
+
+Den, od kterého je fyzická osoba skutečným majitelem:
+31. srpna 2023
+zapsáno 31. srpna 2023
+   Skutečný majitel:
+automaticky propsáno
+Ing. KAREL MASAŘÍK, PhD., dat. nar. 12.09.1980
+Státní příslušnost: Česká republika
+Adresa místa pobytu: č.p. 400, 664 05 Tvarožná
+
+Povaha postavení skutečného majitele:
+Přímý skutečný majitel; Skutečný majitel podle § 4 zákona č. 37/2021 Sb.
+
+Údaje o skutečnostech zakládajících postavení skutečného majitele:
+Jiná skutečnost:
+Pozice člena statutárního orgánu, obdobná pozice nebo zástupce člena.
+
+Den, od kterého je fyzická osoba skutečným majitelem:
+31. srpna 2023
+zapsáno 31. srpna 2023
+   Skutečný majitel:
+automaticky propsáno
+Ing. JIŘÍ HÁZE, PhD., dat. nar. 13.03.1979
+Státní příslušnost: Česká republika
+Adresa místa pobytu: Nová 182, 664 84 Babice u Rosic
+
+Povaha postavení skutečného majitele:
+Přímý skutečný majitel; Skutečný majitel podle § 4 zákona č. 37/2021 Sb.
+
+
+https://esm.justice.cz/ias/issm/rejstrik-sm.vysledky?subjektId=1190023&typ=PLATNY_CASTECNY_SM                                                        2/3
+                                                                                                                                        Strana 14 / 30
+10/25/23, 10:13 PM                        Informační systém evidence skutečných majitelů - Ministerstvo spravedlnosti České republiky
+
+Údaje o skutečnostech zakládajících postavení skutečného majitele:
+Jiná skutečnost:
+Pozice člena statutárního orgánu, obdobná pozice nebo zástupce člena.
+
+Den, od kterého je fyzická osoba skutečným majitelem:
+31. srpna 2023
+zapsáno 31. srpna 2023
+   Skutečný majitel:
+automaticky propsáno
+Mgr. MICHAL LORENC, dat. nar. 05.10.1971
+Státní příslušnost: Česká republika
+Adresa místa pobytu: Škarabelova 560, Frýdek, 738 01 Frýdek-Místek
+
+Povaha postavení skutečného majitele:
+Přímý skutečný majitel; Skutečný majitel podle § 4 zákona č. 37/2021 Sb.
+
+Údaje o skutečnostech zakládajících postavení skutečného majitele:
+Jiná skutečnost:
+Pozice člena statutárního orgánu, obdobná pozice nebo zástupce člena.
+
+Den, od kterého je fyzická osoba skutečným majitelem:
+31. srpna 2023
+zapsáno 31. srpna 2023
+Tento výpis je neprodejný a byl pořízen na Internetu (http://www.justice.cz).
+Dne: 25.10.2023 22:12
+Údaje platné ke dni 25.10.2023 03:54
+
+
+
+
+https://esm.justice.cz/ias/issm/rejstrik-sm.vysledky?subjektId=1190023&typ=PLATNY_CASTECNY_SM                                                        3/3
+                                                                                                                                        Strana 15 / 30
+                                      VÝPIS REFERENČNÍCH ÚDAJŮ
+                                  Z REGISTRU OSOB PŘI ZMĚNĚ REFERENČNÍHO ÚDAJE
+          (NA ZÁKLADĚ § 14 ZÁKONA Č. 111/2009 Sb., O ZÁKLADNÍCH REGISTRECH, VE ZNĚNÍ POZDĚJŠÍCH PŘEDPISŮ)
+
+Tento výpis referenčních údajů Vám zasílá bezplatně správce registru osob po změně Vašeho referenčního údaje.
+
+Na výpis neodpovídejte do datové schránky odesílatele, byl vygenerován automatem.
+
+
+                                            Údaje poskytované z registru osob:
+
+1. Výpis z registru osob
+IČO:                       17865859
+
+Právní forma:              706 / Spolek
+                                                                                              Datum změny:   23.12.2022 00:36
+
+Právní stav osoby:
+
+                                                                                              Datum změny:
+
+Datové schránky:           i54bbqi - 20 - datová schránka právnické osoby zapsané v obchodním rejstříku
+                                                                                             Datum změny:    27.1.2023 15:40
+
+
+
+2. Registrace
+OVM registrující:          00215724 - Krajský soud v Brně
+
+Agenda registrující:       A120 - Veřejné rejstříky právnických a fyzických osob
+
+Název osoby:               Czech National Semiconductor Cluster, z.s.
+                                                                                              Datum změny:   23.12.2022 00:36
+
+Místo podnikání/Sídlo: Šumavská 416/15
+                       Ponava
+                       602 00 Brno
+                                                                                              Datum změny:   23.12.2022 00:36
+
+Počátek registrace/        22.12.2022
+Datum vzniku:
+                                                                                              Datum změny:   23.12.2022 00:36
+
+Konec registrace/
+Datum zániku:
+                                                                                              Datum změny:
+
+Přerušení/pozastavení
+činnosti:
+                                                                                              Datum změny:
+
+Doručovací adresa
+
+                                                                                              Datum změny:
+
+
+
+
+                                                                                                                     Strana 16 / 30
+Žádost: 7dc86912-da86-4d8e-9426-4d1ae57c35e5 Fid: AG/2023-004 316 614 Dne: 01.09.2023 01:14:08    Strana: 2 / 2
+
+
+                                                                                                 Strana 17 / 30
+                                          Smlouva č.
+                   o poskytnutí neinvestiční dotace z rozpočtu města Brna
+
+
+uzavřená níže uvedeného dne, měsíce a roku mezi těmito smluvními stranami:
+
+
+statutární město Brno
+se sídlem:          Dominikánské náměstí 196/1, 602 00 Brno
+IČO:                44992785
+DIČ:                   CZ44992785 (plátce DPH)
+zastoupené:         JUDr. Markétou Vaňkovou, primátorkou
+podpisem smlouvy je pověřen: Mgr. František Kubeš, Ph.D., vedoucí Odboru strategického
+                       rozvoje a spolupráce MMB (dále jen „OSRS MMB“)
+kontaktní osoba:       Ing. Lucie Mezníková, +420 542 172 273, meznikova.lucie@brno.cz
+
+č. účtu:               111211222/0800
+(dále jen „poskytovatel“)
+
+
+a
+
+
+Czech National Semiconductor Cluster, z.s.
+zapsaná:           v obch. rejstříku u Krajského soudu v Brně, spisová značka L 28753
+se sídlem:         Šumavská 416/15, 602 00 Brno
+IČO:                   178 65 859
+
+
+
+
+bankovní spojení:      Česká spořitelna, a.s.
+č. účtu:               6559039309/0800
+(dále i „příjemce“ či „CNSC“)
+
+
+
+
+                                                I.
+                               Předmět smlouvy a účel dotace
+1.   Předmětem této smlouvy je poskytnutí účelové neinvestiční finanční podpory z rozpočtu
+     poskytovatele ve formě neinvestiční dotace na realizaci projektu „Polovodičové
+     kompetence Brna II“ (dále i jen „projekt“) specifikovaný v příloze č. 1 této smlouvy, a to na
+     základě žádosti zaevidované pod č. j. MMB/1019618/2024 (dále jen „dotace“).
+2.   Příjemce dotaci přijímá a zavazuje se, že bude projekt realizovat na svou vlastní
+     zodpovědnost, v souladu s právními předpisy a podmínkami této smlouvy. Podrobný popis
+
+
+
+
+                                                                                              Strana 18 / 30
+     účelu projektu a činností pro tento projekt je definován v příloze č. 1, která je nedílnou
+     součástí této smlouvy.
+3.   Poskytnutí dotace je v souladu se zákonem č. 128/2000 Sb., o obcích (obecní zřízení),
+     ve znění pozdějších předpisů, a zákonem č. 250/2000 Sb., o rozpočtových pravidlech
+     územních rozpočtů, ve znění pozdějších předpisů (dále také „zákon o rozpočtových
+     pravidlech územních rozpočtů“).
+4.   Dotace je ve smyslu zákona č. 320/2001 Sb., o finanční kontrole ve veřejné správě a o
+     změně některých zákonů (zákon o finanční kontrole), ve znění pozdějších předpisů,
+     veřejnou finanční podporou a vztahují se na ni všechna ustanovení tohoto zákona.
+5.   Prokáže-li se po poskytnutí dotace, že tato naplňuje znaky veřejné podpory dle čl. 107 až
+     109 Smlouvy o fungování Evropské unie, zavazuje se příjemce poskytnutou dotaci
+     neprodleně vrátit zpět na účet poskytovatele.
+6.   V případě, že příjemce bude poskytovat výhody třetím subjektům a tyto výhody budou
+     naplňovat znaky veřejné podpory, je příjemce povinen postupovat v souladu s příslušnými
+     předpisy v oblasti veřejné podpory.
+
+
+
+
+                                                II.
+                              Výše a podmínky použití dotace
+1. Příjemci je poskytována dotace ve výši 500 000 Kč (slovy: pětset tisíc korun českých) na
+   realizaci projektu.
+2. Dotace bude poukázána jednorázově bankovním převodem na účet příjemce uvedený v
+   záhlaví této smlouvy nejpozději do 30 dnů ode dne účinnosti této smlouvy. Dotace je
+   poskytována formou zálohy s povinností následného vypořádání.
+3. Dotaci lze použít pouze v období od 1. 1. 2025 do 31. 12. 2025 na úhradu způsobilých
+   nákladů příjemce spojených s realizací projektu, které splňují níže uvedené podmínky:
+            a) vznikly a byly příjemcem uhrazeny v období čerpání dotace, tj. od 1. 1.
+               2025 do 31. 12. 2025, případně do 31. 1. 2026 pokud se jedná o mzdové
+               náklady,
+            b) byly vynaloženy v souladu s účelovým určením dle čl. I. odst. 1 a odst. 2 této
+               smlouvy a ostatními podmínkami této smlouvy,
+            c) vyhovují zásadám účelnosti, efektivnosti a hospodárnosti dle zákona č.
+               320/2001 Sb., o finanční kontrole ve veřejné správě a o změně některých
+               zákonů (zákon o finanční kontrole), ve znění pozdějších předpisů.
+4. Způsobilými výdaji projektu se rozumí výdaje vynaložené v souvislosti s naplněním účelu
+   projektu, které nepatří mezi nezpůsobilé výdaje dle odst. 5 tohoto článku, a které jsou v
+   souladu s předloženým rozpočtem projektu, který tvoří přílohu č. 2 této smlouvy.
+5. Dotaci nelze použít na nezpůsobilé výdaje projektu.
+     Nezpůsobilými výdaji projektu se rozumí:
+            a) úhrada výdajů na pohoštění a catering;
+
+
+
+
+                                                                                            Strana 19 / 30
+         b) nákup nemovitostí;
+         c) odpisy dlouhodobého hmotného a nehmotného majetku;
+         d) dotace jiným fyzickým a právnickým osobám;
+         e) úhrada daně z přidané hodnoty v případě, že žadatel má právo na její odpočet;
+         f)   úhrada úvěrů a půjček, penále, pokuty, kurzové ztráty.
+
+
+
+
+                                            III.
+                            Práva a povinnosti smluvních stran
+1.   Příjemce se zavazuje, že:
+         a) nepřevede svá práva a povinnosti z této smlouvy na jinou osobu,
+         b) bude realizovat projekt na vlastní účet a vlastní zodpovědnost, nepřevede
+            poskytnutou dotaci na jiný právní subjekt,
+         c) naplní účelové určení projektu.
+
+
+2.   Příjemce se dále zavazuje:
+         a) realizovat projekt za podmínek této smlouvy a v souladu s právními předpisy,
+         b) použít dotaci k účelu dle této smlouvy a v souladu s podmínkami této smlouvy,
+         c) vést a sledovat odděleně v účetní evidenci čerpání prostředků z dotace,
+         d) kalkulovat všechny náklady bez daně z přidané hodnoty v případě, kdy
+            příjemce má nárok na její odpočet,
+         e) dbát dobrého jména poskytovatele, a to jak při realizaci projektu, tak i po jeho
+            ukončení.
+3.   Příjemce je povinen nejpozději do 31. 3. 2026 splnit následující:
+     I. Předložit poskytovateli celkové vyúčtování poskytnuté dotace nebo toto vyúčtování
+             v této lhůtě předložit k poštovní přepravě. Při doručování datovou schránkou
+             nebo e-mailem se zaručeným elektronickým podpisem je pro zachování lhůty
+             rozhodující datum doručení, u datové schránky je datem doručení myšleno
+             datum dodání do datové schránky. Vyúčtování bude obsahovat:
+              a) závěrečnou zprávu – zhodnocení projektu obsahující stručný popis
+                    realizovaného projektu/realizované činnosti, celkové vyhodnocení
+                    splnění účelu, přínos pro statutární město Brno; doporučená struktura
+                    závěrečné zprávy je následující:
+                        -    stručný popis realizovaného projektu,
+                        -    průběh realizace aktivit financovaných z dotace,
+                        -    celkové vyhodnocení splnění účelu,
+
+
+
+
+                                                                                         Strana 20 / 30
+                   -   finanční vypořádání dotace s potvrzením jeho pravdivosti a
+                       správnosti (bude splněno vyplněním formuláře o vyúčtování
+                       neinvestiční dotace dle bodu níže),
+                   -   shrnutí medializace projektu (např.        tiskové   zprávy,
+                       fotodokumentaci projektu, články apod.);
+      b)     vyplněný formulář „Vyúčtování neinvestiční dotace – formulář“, formulář
+             je uveřejněn na stránkách https://dotace.brno.cz/ (sekce Odbor
+             strategického rozvoje a spolupráce);
+      c)     kopie prvotních dokladů prokazujících využití dotace v příslušném
+             kalendářním roce. Veškeré originály dokladů příjemce a jejich
+             předložené kopie budou označeny textem, ze kterého bude
+             jednoznačně zřejmé, že doklad byl hrazen z konkrétní dotace
+             poskytovatele: „Hrazeno z dotace z rozpočtu města Brna, č. dot.
+             smlouvy …. v částce ….. Kč.“;
+      d)     prokázání úhrady prvotních dokladů:
+              i.   Úhrada plateb v hotovosti – zjednodušený daňový doklad
+                   (paragon), faktura, platby na základě uzavřené smlouvy – nutno
+                   doložit výdajovým pokladním dokladem,
+              ii. Úhrada bezhotovostní – faktura, smlouva – nutno doložit kopií
+                  výpisu z bankovního účtu;
+      e)     fyzické a právnické osoby, které vedou účetnictví v plném nebo
+             zjednodušeném rozsahu, předloží podpisem oprávněné osoby
+             opatřenou část účetního deníku nebo hlavní knihy dokládající
+             zaúčtování veškerých dokladů použitých k vyúčtování dotace.
+             Podmínka „vést a sledovat odděleně v účetní evidenci čerpání
+             prostředků z dotace“ (viz odst. 2 písm. c) tohoto článku smlouvy) bude
+             splněna sledováním čerpání dotace v rámci střediska, zakázky nebo
+             zavedením analytické evidence příslušných účtů;
+      f)     příjemci, kteří vedou daňovou evidenci, nebo příjemci, kteří mohou vést
+             dle § 1f zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších
+             předpisů, jednoduché účetnictví, prokáží zavedení všech dokladů
+             použitých k vyúčtování dotace do peněžního deníku (deník příjmů a
+             výdajů) opatřeného podpisem oprávněné osoby. Příjemci, kteří uplatňují
+             výdajový paušál, nebo příjemci, kteří jsou přihlášeni k platbě paušální
+             daně, nebo příjemci, kteří nevedou účetnictví, doloží čestné prohlášení
+             o této skutečnosti a doklady, kterými bude dotace vyúčtována, vše
+             opatřené podpisem oprávněné osoby;
+      g)     v případě využití dotace na úhradu nájmu bude předložen doklad, popř.
+             kopie dokladu, splňující základní náležitosti nájemní smlouvy dle
+             zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů
+             (zejména vymezení předmětu nájmu, smluvních stran a výše
+             nájemného).
+II. Vrátit na účet poskytovatele uvedený v čl. III odst. 5 této smlouvy případnou
+        nepoužitou část prostředků dotace. Před vrácením dotace nebo její části je
+
+
+
+
+                                                                                 Strana 21 / 30
+             vhodné předem informovat OSRS MMB prostřednictvím formuláře Oznámení
+             o vrácení dotace dostupného na https://dotace.brno.cz/ (sekce Odbor
+             strategického rozvoje a spolupráce).
+4.   OSRS MMB v případě prodlení příjemce s předložením vyúčtování poskytnuté dotace
+     dodatečně stanoví písemným oznámením náhradní termín ne delší než 30
+     kalendářních dnů pro předložení tohoto vyúčtování. Oznámení o stanovení náhradního
+     termínu může být odesláno současně s výzvou k vrácení dotace.
+5.   Příjemce je povinen v případě obdržení výzvy k vrácení dotace či její části z důvodu
+     nepředložení vyúčtování čerpání dotace nebo v případě nedodržení limitu uvedeného
+     v čl. II. odst. 3, 4 a 5 této smlouvy tuto vrátit poskytovateli na účet:
+     a)   č. 111211222/0800, VS číslo smlouvy, pokud se vrácení dotace či její části
+          uskuteční v roce, ve kterém byla příslušná dotace vyplacena,
+     b)   č. 111350222/0800, VS 64022229, pokud se vrácení dotace či její části uskuteční
+          v termínu od 1. 1. do posledního dne měsíce února, v následujících letech po roce
+          vyplacení příslušné dotace,
+     c)   č. 111158222/0800, VS číslo smlouvy, pokud se vrácení dotace či její části
+          uskuteční v termínu od 1. 3. do 31. 12. v následujících letech po roce vyplacení
+          příslušné dotace.
+6.   Poskytovatel je při nakládání s veřejnými prostředky povinen dodržovat ustanovení
+     zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších
+     předpisů (zejména § 9 odst. 2 citovaného zákona).
+7.   Příjemce se zavazuje při čerpání dotace postupovat v souladu se zákonem č. 134/2016
+     Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů.
+
+
+
+
+                                           IV.
+                              Další povinnosti příjemce
+1.   Příjemce se zavazuje uvádět na tištěných i elektronických materiálech souvisejících s
+     realizací projektu (např. publikace, časopisy, noviny, sborníky, propagační materiály
+     všeho druhu, webové stránky, články, sociální sítě):
+     a)   že se projekt uskutečňuje za finanční podpory statutárního města Brna a současně
+
+     b)   logo či znak statutárního města Brna. Použití loga je příjemci povoleno již
+          uzavřením této smlouvy, příjemce je současně povinen používat logo v souladu s
+          Logomanuálem města Brna. V případě použití znaku statutárního města Brna je
+          třeba postupovat dle platného znění Statutu pro užívání znaku a vlajky města Brna
+          a znaků a vlajek městských částí, podrobnosti jsou zveřejněny na
+          https://www.brno.cz/w/pouziti-znaku-a-vlajky-mesta-brna. Logomanuál města
+          Brna je uveřejněn na webových stránkách města Brna https://www.brno.cz/w/logo.
+          V nutných případech může příjemce konzultovat použití loga na adrese
+          logo@brno.cz.
+
+
+
+
+                                                                                        Strana 22 / 30
+2.   Příjemce je povinen předat poskytovateli vzory materiálů uvedených v odst. 1 tohoto
+     článku smlouvy k provedení kontroly splnění povinností příjemce uvedené v odst. 1
+     tohoto článku. Příjemce bude předávat poskytovateli vzory materiálů průběžně,
+     nejpozději však současně s předložením závěrečného vyúčtování čerpání dotace. V
+     případě poskytnutí dotace na vydání publikace (např. časopisu, novin, sborníku) je
+     příjemce povinen předat poskytovateli 3 výtisky publikace (např. časopisu, novin,
+     sborníku). V případě poskytnutí dotace na vydání multimediálního nosiče je příjemce
+     povinen předat poskytovateli 3 kusy multimediálního nosiče. Obojí však nejpozději s
+     předložením vyúčtování dotace.
+3.   Příjemce je povinen průběžně informovat kontaktní osobu za poskytovatele o projektu
+     a zvát ji s dostatečným předstihem na všechny akce a události s tímto projektem
+     spojené.
+4.   Příjemce je povinen oznámit poskytovateli svůj případný zánik, transformaci, sloučení,
+     změnu statutárního orgánu, změnu kontaktu apod., či změnu vlastnického vztahu k
+     věci, na kterou se dotace poskytuje, bez zbytečného odkladu, nejpozději však do 14
+     kalendářních dnů ode dne nabytí účinnosti této změny. V případě přeměny nebo
+     zrušení s likvidací je příjemce povinen tuto skutečnost oznámit poskytovateli bez
+     zbytečného odkladu po vstupu do likvidace.
+5.   Příjemce se zavazuje v případě změny projektu či jeho názvu oproti údajům uvedeným
+     v žádosti o dotaci včetně jejích příloh vyžádat si u poskytovatele písemný souhlas s
+     takovou změnou. Změna může být méně závažná či závažná, míru závažnosti změny
+     projektu či jeho názvu je oprávněn posoudit a určit OSRS MMB.
+6.   Písemný souhlas se závažnou změnou projektu nebo dalších smluvních podmínek
+     uděluje Zastupitelstvo města Brna, a to formou dodatku ke smlouvě. Takovou změnou
+     projektu je zejména změna, která má zásadní dopad na účel poskytnuté dotace (např.
+     změna názvu projektu, převod realizace projektu do roku následujícího) a na termíny
+     stanovené pro čerpání a vyúčtování dotace.
+7.   Méně závažné změny údajů ve smlouvě uvedených (např. změna čísla bankovního
+     účtu, změna kontaktní osoby apod.) nevyžadují uzavření dodatku ke smlouvě. Příjemce
+     je u těchto změn povinen o nich bezodkladně informovat OSRS MMB, a to
+     prostřednictvím kontaktní osoby uvedené v záhlaví této smlouvy.
+
+
+
+
+                                           V.
+                                       Kontrola
+1.   Příjemce je povinen umožnit poskytovateli v souladu se zákonem č. 320/2001 Sb., o
+     finanční kontrole ve veřejné správě a o změně některých zákonů (zákon o finanční
+     kontrole), ve znění pozdějších předpisů, provedení průběžné a následné
+     veřejnosprávní kontroly nakládání s veřejnými prostředky z poskytnuté dotace, jejich
+     použití k účelu, který je vymezen touto smlouvou, a předložit při kontrole všechny
+     požadované doklady. Kontrolu provádí OSRS MMB, případně jiný orgán určený
+     poskytovatelem.
+
+
+
+
+                                                                                        Strana 23 / 30
+2.   Poskytovatel je oprávněn v případě podezření na porušení rozpočtové kázně
+     zjištěného průběžnou veřejnosprávní kontrolou pozastavit či ukončit vyplácení
+     schválené dotace.
+3.   Příjemce je povinen po dobu 10 (deseti) let ode dne účinnosti této smlouvy archivovat
+     následující materiály:
+     a)      žádost včetně povinných příloh,
+     b)      tuto smlouvu,
+     c)      originály dokladů prokazujících čerpání dotace,
+     d)      dokumentaci o zadávání veřejné zakázky, je-li zadávána,
+     e)      závěrečnou zprávu.
+
+
+
+
+                                         VI.
+                                  Sankční ustanovení
+1.   Pokud příjemce v rozporu s touto smlouvou nebo v rozporu s právními předpisy
+     (zejména se zákonem č. 250/2000 Sb., o rozpočtových pravidlech územních rozpočtů,
+     ve znění pozdějších předpisů) poruší rozpočtovou kázeň, tj. neoprávněně použije nebo
+     zadrží poskytnutou dotaci, bude poskytovatel postupovat v souladu s ustanoveními §
+     22 zákona č. 250/2000 Sb., o rozpočtových pravidlech územních rozpočtů, ve znění
+     pozdějších předpisů.
+2.   V případě neoprávněného použití či zadržení poskytnuté dotace bude příjemci uložen
+     odvod za porušení rozpočtové kázně odpovídající výši neoprávněně použitých či
+     zadržených finančních prostředků. Kdy se jedná o neoprávněné použití či zadržení
+     peněžních prostředků, je uvedeno v § 22 odst. 2 a 3 zákona č. 250/2000 Sb., o
+     rozpočtových pravidlech územních rozpočtů, ve znění pozdějších předpisů; jedná se
+     mimo jiné i o porušení povinností stanovených smlouvou o poskytnutí dotace.
+3.   Poskytovatel (OSRS MMB) písemně vyzve příjemce k provedení opatření k nápravě v
+     jím stanovené lhůtě max. 30 kalendářních dnů, domnívá-li se na základě kontrolního
+     zjištění, že příjemce porušil méně závažnou povinnost dle čl. IV. této smlouvy, jejíž
+     povaha umožňuje nápravu v náhradní lhůtě, nebo nepředložil vyúčtování v termínu
+     stanoveném touto smlouvou. V rozsahu, v jakém příjemce provede opatření k nápravě,
+     platí, že nedošlo k porušení rozpočtové kázně.
+4.   Za porušení méně závažné povinnosti stanovené v čl. IV. této smlouvy, u které není
+     možné provést nápravu ani ve stanovené náhradní lhůtě, nebo u které příjemce
+     neprovede nápravu ani ve stanovené náhradní lhůtě, bude příjemci v souladu s
+     ustanovením zákona č. 250/2000 Sb., o rozpočtových pravidlech územních rozpočtů,
+     ve znění pozdějších předpisů, uložen odvod ve výši 1 % z poskytnuté dotace za každé
+     jednotlivé porušení povinnosti. Za předložení vyúčtování čerpání dotace po
+     stanoveném termínu:
+     -    do 5 kalendářních dnů…………………..1 % z poskytnuté dotace
+     -    od 6 do 30 kalendářních dnů……………3 % z poskytnuté dotace.
+
+
+
+
+                                                                                       Strana 24 / 30
+5.   Při porušení několika méně závažných povinností či opakovaném porušení téže méně
+     závažné povinnosti se odvody za porušení rozpočtové kázně sčítají.
+6.   Poskytovatel (OSRS MMB) písemně vyzve příjemce k vrácení dotace nebo její části v
+     jím stanovené lhůtě max. 30 kalendářních dnů, zjistí-li na základě kontroly, že příjemce
+     porušil povinnost stanovenou právním předpisem, která souvisí s účelem, na který byly
+     peněžní prostředky poskytnuty, nedodržel účel dotace nebo podmínku, za které byla
+     dotace poskytnuta, u níž nelze vyzvat k provedení opatření k nápravě. V rozsahu, v
+     jakém příjemce vrátil dotaci nebo její část, platí, že nedošlo k porušení rozpočtové
+     kázně.
+
+
+
+
+                                           VII.
+                                 Závěrečná ustanovení
+1.   Změnit či doplnit tuto smlouvu mohou smluvní strany pouze na základě vzájemné
+     dohody formou písemných vzestupně číslovaných dodatků podepsaných oprávněnými
+     zástupci smluvních stran.
+2.   Smlouva nabývá platnosti dnem jejího podpisu oprávněnými zástupci smluvních stran
+     a doručením či předáním této smlouvy oběma smluvním stranám. Smlouva nabývá
+     účinnosti dnem uveřejnění v souladu se zákonem č. 340/2015 Sb., o zvláštních
+     podmínkách účinnosti některých smluv, uveřejňování těchto smluv a o registru smluv
+     (zákon o registru smluv), ve znění pozdějších předpisů.
+3.   Příjemce výslovně souhlasí s tím, aby tato smlouva byla poskytovatelem v plném
+     rozsahu zveřejněna v souladu se zákonem č. 340/2015 Sb., o zvláštních podmínkách
+     účinnosti některých smluv, uveřejňování těchto smluv a o registru smluv (zákon o
+     registru smluv), ve znění pozdějších předpisů, způsobem umožňujícím dálkový přístup.
+4.   Příjemce podpisem této smlouvy bere na vědomí, že statutární město Brno – Magistrát
+     města Brna zpracovává osobní údaje v souladu s nařízením Evropského parlamentu
+     a
+     Rady (EU) 2016/679 ze dne 27. dubna 2016 o ochraně fyzických osob v souvislosti se
+     zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení směrnice
+     95/46/ES (obecné nařízení o ochraně osobních údajů). Více informací je umístěno na
+     stránkách https://www.brno.cz/w/gdpr/.
+5.   Závazek založený touto smlouvou lze ukončit na základě písemné dohody smluvních
+     stran nebo výpovědí.
+6.   Každá ze smluvních stran je oprávněna závazek z této smlouvy písemně vypovědět
+     bez udání důvodu. Výpovědní lhůta je 14 dní a počíná běžet prvním dnem následujícím
+     po dni doručení výpovědi druhé smluvní straně. V případě pochybností se má za to, že
+     výpověď byla doručena třetím dnem ode dne jejího odeslání. Ve výpovědní lhůtě
+     poskytovatel pozastaví vyplácení finančních prostředků.
+7.   Tato smlouva je vyhotovena v jednom elektronickém vyhotovení podepsaném
+     elektronickými podpisy oprávněných zástupců obou smluvních stran, případně je
+     vyhotovena v listinné podobě ve třech stejnopisech s platností originálu, přičemž
+     poskytovatel obdrží dvě vyhotovení a příjemce obdrží jedno vyhotovení.
+
+
+
+
+                                                                                          Strana 25 / 30
+Přílohy:
+    1. Návrh projektu
+    2. Plánovaný rozpočet projektu
+
+
+Doložka podle § 41 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění
+pozdějších předpisů.
+Poskytnutí dotace a smlouva o poskytnutí dotace mezi statutárním městem Brnem a Czech
+National Semiconductor Cluster, z.s. byly schváleny na Z9/…. zasedání Zastupitelstva města
+Brna konaném dne 10. 12. 2024.
+
+
+
+V Brně dne ………………………                         V Brně dne ………………………
+za poskytovatele:                             za příjemce:
+
+
+
+
+                                                                                       Strana 26 / 30
+Příloha č. 1
+
+
+
+                                                                                       slejufoj
+     Žádost o individuální dotaci z rozpočtu města Brna na rok 2025
+  Název projektu:
+  Polovodičové kompetence Brna I .
+
+  Oficiální název žadatele/příjmení a jméno fyzické osoby ne/podnikající (jméno a příjmení žadatele, adres|
+
+  Czech National Semiconductor Cluster z.s (dále CNSC), Šumavská 15, 60200 Brno, IČO 17865859
+  Kontakt
+  Ing. Stanislav Černý, tel. 602548732, cerny ©semicz.eu, president
+  Bankovní spojení
+  6559039309/0800
+  [Termín realizace projektu:
+  1.1.2025- 31.12.2025
+  Požadovaná částka (v Kč):
+  [500 000,-
+
+ Popis žadatele
+  [Český národní polovodičový klastr (CNSC)
+  [Český národní polovodičový klastr je sdružení, které spojuje přední české akademické instituce, vedoucí
+  [společnosti. startupy a regionální inovační centra v oblasti polovodičového průmyslu. Klastr je integrován
+    lo evropské sítě klastrů a nové Aliance evropských polovodičových regionů pro EU ChipsAct - European
+  |Chips Act (Evropský zákon o čipech),
+  Kompetence CNSC:
+         1 Výzkum a vývoj (RGD): Klastr se zaměřuje na vývoj nových polovodičových technol
+            1P designu a nástrojů EDA- Electronic Design Automation (Automatizace elektronického
+            návrhu). Brno je domovem nejsilnějšího ekosystému RISC V - Reduced Instruction Set
+            ComputerV (Počítač s redukovanou instrukční sadou V) v Evropě.
+         2. Výroba a vybavení: Regiony Zlín a Jižní Morava tvoří české Silicon Valley s produkcí více než 3
+            milionů waferů a 3 miliard čipů ročně.
+         3. Analýzaa úprava obvodů: Česká republika je významným producentem elektronových
+            mikroskopů, které jsou klíčové pro analýzu a úpravu polovodičových zařízení.
+  Realizované projekty:
+             RISC V platforma: Vývoj nové procesorové platformy RISCV a nástrojů pro návrh a distribuci IP|
+         2. Alallof: Technologie pro adaptivní edge Al a průmyslový internet věcí (lloT). ověřené v
+             Snergetckých stích
+         3. Výrobní technologie: Pokročilé výrobní procesy asistované umělou inteligencía inovativní
+             vybavení pro výrobu polova:
+  |CNSC také spolupracuje s českou vládou na prioritách EU a ČR pro polovodičový Průmysl jako jsou IPCEL
+  |mportant Projects of Čommon European Interest (Důležité projekty společného evropského zájmu)
+  IMicroelectronics ChlasAct -European Ch Act (Evropský zákon o ipech) Chips Joint Underaklng
+  |(Společný podnik pro klíčové digitální technologie). je jedním ze stakeholderů pro národní polovodičovou
+  [strategii vedle MPO, MŠMT. MZV, SPČR, MMR..
+
+
+
+
+                                                                                                                Strana 27 / 30
+ Popis projektu
+    uplynulém období Český národní polovodičový klastr (CNSC) dosáhl několika klíčových strategických
+  ilů
+       1. Přijetí Národní polovodičové strategie vládou České republiky.
+       2. Etablování TW akademického centra v Brně v rámci megaprojektu ACDRC (Centra pro.
+          pokročilý návrh a výzkum čipových technologií)
+       3. Schválení návrhu ChipsAct Pilíř 1. Národního kompetenčního centra ze strany národní vlády i
+          Evropské komise, s centrálním vedením v Brně.
+       4. Rozvoj průmyslové spolupráce v rámci TW incomingu, jak je uvedeno v přiloženém diagramu
+          strategických cílů,
+ Požadovaná dotace bude využita na posílení a další rozvoj;
+         Vnitřní struktury organizace
+         Vytvoření pracovních skupin, které rozvíjí jednotlivé kompetence clusteru
+     © | Vytvoření cluster-point-access pro partnery
+
+
+
+
+                                           n)
+                                           PO
+
+
+
+
+                                           Dále viz přílohy projektu
+Odůvodnění žádosti - ve smyslu $ 10a odst. 3 zákona Č. 250/2000 Sb.
+ Brno, jako centrum českého polovodičového průmyslu. hraje klíčovou roli v technologickém rozvoji země.
+ Podpora projektů CNSC, včetně Národního kompetenčního centra, posílí ekonomiku města, přiláká
+ investice a vytvoří vysoce kvalifikovaná pracovní místa. Realizace těchto projektů zvýší
+ konkurenceschopnost regionu a podpoří inovace, což povede k dlouhodobému růstu a prosperitě Brna.
+  Seznam skutečně doložených příloh žadatelem:
+  1. Položkový rozpočet nákladů a výnosů
+
+
+
+
+                                                                                                          Strana 28 / 30
+2. Dokumentace k účtu
+3. Zmocnění k účtu
+4. Informační systém evidence skutečných majitelů - Ministerstvo spravedlnosti eské republiky - Výpis
+5. Výpis z registru osob
+6. Prohlášení o bezdlužnosti
+7. Popis projektu/činnosti
+
+Ing. Stanislav Černý
+13.11.2024                                 Podpis
+
+
+
+
+                                                                                                        Strana 29 / 30
+Příloha č. 2
+
+
+
+
+               Strana 30 / 30
+

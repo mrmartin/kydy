@@ -1,0 +1,1686 @@
+Rada města Brna
+
+Z9/31. zasedání Zastupitelstva města Brna
+konané dne 10.12.2025
+
+
+
+  13. Návrh Vlastnické politiky Koncernu statutárního města Brna
+
+Anotace
+Zastupitelstvu města Brna je předkládán návrh nové Vlastnické politiky Koncernu statutárního města
+Brna (dále také jen „Koncern SMB“), která představuje strategický dokument definující zásady, cíle a
+nástroje řízení obchodních společností začleněných do Koncernu SMB.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. vyslovuje                   předchozí souhlas s Vlastnickou politikou Koncernu statutárního města Brna dle
+                               přílohy č....tohoto zápisu.
+
+
+Stanoviska
+
+Materiál byl předložen na R9/156. schůzi Rady města Brna konanou dne 3. 12. 2025.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Petr Kratochvíl
+  člen RMB - Člen Rady města Brna - předkladatel/ka
+  2.12.2025 v 07:04
+  Garance správnosti, zákonnosti materiálu
+
+
+
+
+Sestava vytvořena 2.12.2025 v 16:07                          1/1                            Vygenerováno programem eMMB
+
+
+                                                                                                            Strana 1 / 37
+                                   Obsah materiálu
+Návrh usnesení                                             1-1
+Obsah materiálu                                            2-2
+Důvodová zpráva                                            3-4
+Příloha k usnesení (Návrh nové Vlastnické politiky.pdf)   5 - 37
+
+
+
+
+                                                             Strana 2 / 37
+                                         Důvodová zpráva
+
+
+Zastupitelstvu města Brna je předkládán návrh nové Vlastnické politiky Koncernu statutárního města
+Brna (dále také jen „Koncern SMB“), která představuje strategický dokument definující zásady, cíle a
+nástroje řízení obchodních společností začleněných do Koncernu SMB.
+Vlastnická politika Koncernu SMB je klíčovým nástrojem pro výkon vlastnických práv statutárního města
+Brna jako řídící osoby vůči řízeným osobám – obchodním společnostem, které jsou součástí
+koncernového uspořádání, resp. které jsou smluvními stranami Deklarace Koncernu SMB.
+Dle odst.1.5. Deklarace Koncernu SMB se řízené osoby zavázaly, že budou plnit cíle stanovené
+průběžně aktualizovanou verzí dokumentu přijatého ze strany SMB a nazvaného Vlastnická politika
+Koncernu SMB, jakož i dodržovat zásady v uvedeném dokumentu stanovené, a dále že budou plnit cíle
+a povinnosti vůči Koncernovému výboru obsažené ve Statutu Koncernového výboru a Podvýborů.
+Vlastnická politika stanovuje koncepčně-strategické zásady, jimiž se statutární orgány řízených osob
+musí řídit v souladu s podmínkami stanovenými příslušnými ustanoveními zákona č. 90/2012 Sb., o
+obchodních společnostech a družstvech (zákon o obchodních korporacích), ve znění pozdějších
+předpisů.
+
+
+Cíle Vlastnické politiky:
+    •   Zajistit transparentní, odpovědnou a efektivní správu řízených osob.
+    •   Vymezit roli statutárního města Brna jako řídící osoby a stanovit jeho přístupy k řízení a kontrole.
+    •   Definovat jednotné politiky a nástroje koncernového řízení.
+    •   Poskytnout řízeným osobám jasný rámec pro jejich fungování v rámci Koncernu SMB.
+
+    •   Informovat veřejnost o způsobu fungování Koncernu SMB a o odpovědném přístupu
+        statutárního města Brna k rozvoji města, kvalitnímu životnímu prostředí a poskytování služeb
+        občanům.
+
+
+Vlastnická politika popisuje mechanismy koncernového řízení a postavení řízených osob, přičemž jejím
+základním účelem je naplňování koncernových zájmů definovaných Deklarací Koncernu SMB. Toho je
+dosahováno prostřednictvím koordinace a koncepčního řízení následujících jednotných politik:
+    •   Auditing
+    •   Controlling, reporting a datová politika
+    •   Investiční činnost
+
+    •   Nákup a prodej zboží a služeb, realizace stavebních prací
+
+    •   Řízení bezpečnosti
+    •   Řízení financování a dividendová politika
+    •   Řízení hmotných a nehmotných aktiv
+    •   Řízení IT
+    •   Řízení lidských zdrojů
+    •   Řízení společenské odpovědnosti
+    •   Řízení udržitelného a environmentálně udržitelného rozvoje
+
+
+
+
+                                                                                                        Strana 3 / 37
+   •   Řízení využívání surovinových zdrojů a energetická bezpečnost
+
+   •   Řízení public relations
+   •   Sdílení zdrojů a služeb
+
+
+Vlastnická politika by měla být nástrojem pro systematické a koordinované řízení Koncernu SMB, který
+přispívá k dosažení strategických cílů města a k efektivnímu fungování obchodních společností v jeho
+vlastnictví.
+Návrh nové Vlastnické politiky je zpracován odlišnou formou než původní dokument. V rámci návrhu
+došlo k následujícím změnám:
+
+   •   Zjednodušení, podstatné zestručnění a zpřehlednění obsahu dokumentu.
+   •   Nové, jednoznačné vymezení hierarchie nástrojů řízení v rámci koncernové struktury
+       (deklarace, koncernový pokyn, závazná rozhodnutí, doporučení, stanoviska a vyjádření,
+       zakladatelské dokumenty, pokyny k obchodnímu vedení, závazné zásady a pokyny).
+
+   •   Zařazení nových politik, a to:
+           o   Politiky udržitelného a environmentálně odpovědného rozvoje.
+           o   Politiky využívání surovinových zdrojů a zajištění energetické bezpečnosti (v souladu s
+               aktuálním zněním Deklarace Koncernu SMB).
+   •   Rozšíření a sjednocení Etického kodexu pro všechny společnosti.
+   •   Zrušení individuálních vlastnických politik jednotlivých společností.
+
+
+Návrh Vlastnické politiky byl zaslán předsedům představenstev jednotlivých společností, přičemž
+připomínky vznesly společnosti Technické sítě Brno, akciová společnost, Dopravní podnik města Brna,
+a.s., Teplárny Brno, a.s. a Energie Teplárny Brno, s.r.o.
+Materiál nepodléhá projednání v komisích Rady města Brna.
+
+
+
+
+                                                                                                  Strana 4 / 37
+       VLASTNICKÁ POLITIKA
+KONCERNU STATUTÁRNÍHO MĚSTA BRNA
+
+
+
+
+                                   Strana 5 / 37
+       KONCERN SMB
+
+      OBSAH
+              I.        OBECNÁ ČÁST ............................................................................................................ 3
+                   1.         Úvod do Vlastnické politiky ......................................................................................... 3
+                   2.         Struktura Koncernu ..................................................................................................... 4
+                   3.         Význam Vlastnické politiky .......................................................................................... 5
+                   4.         Orgány a řízení............................................................................................................. 6
+              II. ZVLÁŠTNÍ ČÁST – Jednotné politiky Koncernu a Etický kodex ..................................... 10
+                   1.         Politika v oblasti auditu ............................................................................................. 10
+                   2.         Personální politika ..................................................................................................... 10
+                   3.         Politika controllingu a reportingu.............................................................................. 12
+                   4.         Investiční politika ....................................................................................................... 12
+                   5.         Politika v oblasti nákupu a prodeje ........................................................................... 14
+                   6.         Bezpečnostní politika ................................................................................................ 14
+                   7.         Finanční politika......................................................................................................... 16
+                   8.         Dividendová politika .................................................................................................. 17
+                   9.         Majetková politika ..................................................................................................... 17
+                   10.        IT politika ................................................................................................................... 18
+                   11.        Politika společenské odpovědnosti (CSR) .................................................................. 19
+                   12.        Politika udržitelného a environmentálně udržitelného rozvoje................................ 20
+                   13.        Politika využívání surovinových zdrojů a energetické bezpečnosti ........................... 20
+                   14.        Politika vztahů s veřejností (PR) a propagace............................................................ 21
+                   15.        Politika sdílených služeb a organizačních útvarů ...................................................... 22
+                   16.        Etický kodex ............................................................................................................... 23
+              III. ZVLÁŠTNÍ ČÁST – Profily řízených osob ..................................................................... 24
+                   1.         ARENA BRNO, a.s. ...................................................................................................... 24
+                   2.         Brněnské komunikace a.s. ......................................................................................... 25
+                   3.         Dopravní podnik města Brna, a.s. ............................................................................. 25
+                   4.         Lesy města Brna, a.s. ................................................................................................. 26
+                   5.         Pohřební a hřbitovní služby města Brna, a.s. ............................................................ 27
+                   6.         Realitní společnost města Brna a.s. ........................................................................... 27
+                   7.         SAKO Brno, a.s. .......................................................................................................... 27
+                   8.         STAREZ – SPORT, a.s. ................................................................................................. 28
+                   9.         Technické sítě Brno, akciová společnost ................................................................... 29
+                   10.        Teplárny Brno, a.s. ..................................................................................................... 30
+                   11.        SAKO Brno SOLAR a.s................................................................................................. 31
+                   12.        Energie Teplárny Brno, s.r.o. ..................................................................................... 31
+              IV. ZÁVĚREČNÁ USTANOVENÍ ........................................................................................ 32
+
+
+
+
+Vlastnická politika Koncernu SMB                                                                                                                       2
+
+                                                                                                                                                           Strana 6 / 37
+           KONCERN SMB
+
+      I.     OBECNÁ ČÁST
+      1.     ÚVOD DO VLASTNICKÉ POLITIKY
+      Statutární město Brno (dále též „SMB“) pečuje o všestranný rozvoj svého území a o potřeby svých
+      občanů, přičemž do samostatné působnosti SMB patří zejména záležitosti, které jsou v zájmu obce
+      a občanů SMB; při plnění svých úkolů chrání SMB též veřejný zájem. Vzhledem k tomu, že SMB k plnění
+      svých úkolů, zejména k hospodářskému využívání svého majetku a k zabezpečení veřejně prospěšných
+      činností, může zakládat rovněž obchodní společnosti (dále jen „městské společnosti“), prozařuje do
+      podnikatelské činnosti těchto subjektů povinnost sledovat též zájem veřejně prospěšný1; tato okolnost
+      je ostatně ve většině případů reflektována v zakladatelských dokumentech městských společností.
+      Koncern statutárního města Brna (dále jen „Koncern“) představuje podnikatelské uskupení osob, které
+      jsou ze strany statutárního města Brna (dále též „řídící osoba“) fakticky podrobeny jednotnému řízení,
+      jímž se ve smyslu ust. § 79 a násl. zákona č. 90/2012 Sb., o obchodních společnostech a družstvech
+      (zákon o obchodních korporacích), v platném znění (dále jen „ZOK“), rozumí vliv řídící osoby na činnost
+      řízené osoby sledující za účelem dlouhodobého prosazování koncernových zájmů v rámci jednotné
+      politiky koncernu koordinaci a koncepční řízení alespoň jedné z významných složek nebo činností
+      v rámci podnikání koncernu.
+      Koncern tedy vzniká fakticky bez potřeby jeho smluvního zřízení. Tato skutečnost vyplývá z postavení
+      řídící osoby coby obce, která může zakládat městské společnosti právě a jen pro plnění svých úkolů,
+      a to zejména za účelem hospodářského využívání majetku obce nebo k zabezpečení veřejně
+      prospěšných činností; z tohoto důvodu by řídící osoba měla z povahy věci takto založené městské
+      společnosti (případně též dcery městských společností) řídit tak, aby dostála své zákonné povinnosti
+      plnit úkoly obce. Faktický koncern však představuje pouze naplnění zákonných znaků existence
+      koncernu, aniž by jeho fungování bylo podrobněji upraveno na smluvní bázi. Tato skutečnost však
+      neznamená, že by řídící osoba a řízené osoby Koncernu měly rezignovat na smluvní zakotvení
+      mechanismů řízení Koncernu. Z tohoto důvodu spolu řídící osoba a řízené osoby uzavřely Deklaraci
+      Koncernu statutárního města Brna a k ní pozdější dodatky (dále jen „Deklarace“), která byla přijata za
+      účelem stvrzení (deklarace) existence Koncernu. Deklarace současně představuje základní smluvní
+      rámec fungování Koncernu, přičemž upravuje základní práva a povinnosti řídící osoby a řízených osob
+      v rámci Koncernu.
+      Na základě Deklarace se řízené osoby Koncernu zavázaly, že budou plnit cíle stanovené na základě
+      průběžně aktualizované verze dokumentu přijatého ze strany SMB a nazvaného jako Vlastnická politika
+      Koncernu statutárního města Brna (dále jen „Vlastnická politika“).
+
+
+
+
+      1 Tento princip se obdobným způsobem uplatní v případech, kdy městské společnosti založí své dceřiné společnosti, tedy
+
+      zájem veřejně prospěšný prozařuje z povahy věci též do podnikatelské činnosti dcer založených městskými společnostmi.
+
+
+
+Vlastnická politika Koncernu SMB                                                                                       3
+
+                                                                                                                           Strana 7 / 37
+       KONCERN SMB
+
+      2.     STRUKTURA KONCERNU
+      2.1.    Členové
+      Členy Koncernu jsou řídící osoba a řízené osoby.
+      Řízenými osobami, jejichž počet se může v průběhu doby měnit, jsou ke dni přijetí Vlastnické politiky:
+      a. obchodní společnosti, jejichž jediným akcionářem je SMB, a ve kterých tak má 100% vliv, což mu
+         umožňuje řídit a ovlivňovat tyto společnosti jako takové, zejména volit jejich orgány:
+           - ARENA BRNO, a.s., IČO: 091 33 267, se sídlem Výstaviště 405/1, Pisárky, 603 00 Brno
+             (dále jen „ARENA“);
+           - Brněnské komunikace a.s., IČO: 607 33 098, se sídlem Renneská třída 787/1a, Štýřice, 639 00
+             Brno (dále jen „BKOM“);
+           - Dopravní podnik města Brna, a.s., IČO: 255 08 881, se sídlem Hlinky 64/151, Pisárky, 603 00 Brno
+             (dále jen „DPMB“);
+           - Lesy města Brna, a.s., IČO: 607 13 356, se sídlem Křížkovského 247/9, 664 34 Kuřim
+             (dále jen „LMB“);
+           - Pohřební a hřbitovní služby města Brna, a.s., IČO: 607 13 330, se sídlem Koliště 1909/7, Černá
+             Pole, 602 00 Brno (dále jen „PHSMB“);
+           - Realitní společnost města Brna a.s., IČO: 073 79 161, se sídlem Panská 361/13, Brno-město,
+             602 00 Brno (dále jen „RSMB“);
+           - SAKO Brno, a.s., IČO: 607 13 470, se sídlem Jedovnická 4247/2, Židenice, 628 00 Brno
+             (dále jen „SAKO“);
+           - STAREZ – SPORT, a.s., IČO: 269 32 211, se sídlem Křídlovická 911/34, Staré Brno, 603 00 Brno
+             (dále jen „STAREZ“);
+           - Technické sítě Brno, akciová společnost, IČO: 255 12 285, se sídlem Barvířská 822/5, Zábrdovice,
+             602 00 Brno (dále jen „TSB“); a
+           - Teplárny Brno, a.s., IČO: 463 47 534, se sídlem Okružní 828/25, Lesná, 638 00 Brno
+             (dále jen „Teplárny Brno“).
+
+      b. další obchodní společnosti:
+           - SAKO Brno SOLAR a.s., IČO: 141 03 320, se sídlem Jedovnická 4247/2, Židenice, 628 00 Brno (dále
+             jen „SBS“), jejímž jediným akcionářem je společnost SAKO, prostřednictvím které je vykonáván
+             vliv ve společnosti SBS, a
+           - Energie Teplárny Brno, s.r.o., IČO: 197 67 447, se sídlem Okružní 828/25, Lesná, 638 00 Brno
+             (dále jen „ETB“), jejímž jediným společníkem je společnost Teplárny Brno, prostřednictvím které
+             je vykonáván vliv ve společnosti ETB.
+
+
+
+
+Vlastnická politika Koncernu SMB                                                                       4
+
+                                                                                                           Strana 8 / 37
+       KONCERN SMB
+
+
+                                                 Vizualizace koncernové struktury
+
+                                                              SMB
+
+           ↑ řídící osoba
+           ↓ řízené osoby
+
+
+
+             ARENA          BKOM   DPMB    LMB      PHSMB       RSMB       SAKO     STAREZ   TSB   Teplárny Brno
+
+
+
+                                                                            SBS                        ETB
+
+
+
+
+      2.2.     Vznik členství
+      Členství řízených osob v Koncernu vzniká dvojím způsobem.
+      Městská společnost se stane členem Koncernu již okamžikem svého vzniku, neboť budou naplněny
+      podmínky dle ust. § 79 ZOK (tzv. faktický vznik členství); ke stejnému okamžiku se stává členem
+      Koncernu i dcera městské společnosti, budou-li naplněny podmínky dle ust. § 79 ZOK. Stranou
+      Deklarace se společnost stane až okamžikem smluvního přistoupení k Deklaraci podle odst. 3.6.
+      Deklarace (tzv. smluvní vznik členství).
+      Všichni členové Koncernu bez ohledu na způsob vzniku jejich členství podléhají jednotnému řízení
+      ze strany řídící osoby.
+
+      3.     VÝZNAM VLASTNICKÉ POLITIKY
+      3.1      Postavení Vlastnické politiky
+      Vlastnická politika představuje koncepčně-strategické zásady schválené Radou města Brna
+      (dále jen „RMB“) za řídící osobu Koncernu, kterými jsou statutární orgány řízených osob povinny
+      se za podmínek stanovených příslušnými ustanoveními ZOK řídit.
+
+      3.2      Smysl Vlastnické politiky
+      Smyslem Vlastnické politiky je transparentním a přehledným způsobem popsat a přiblížit řízeným
+      osobám mechanismy koncernového řízení a jejich postavení v něm, přičemž základním účelem
+      je dosažení a naplňování koncernových zájmů definovaných Deklarací na základě koordinace
+      a koncepčního řízení následujících jednotných politik:
+            - Auditing
+            - Controlling, reporting a datová politika
+            - Investiční činnost
+            - Nákup a prodej zboží a služeb, realizace stavebních prací
+            - Řízení bezpečnosti
+            - Řízení financování a dividendová politika
+            - Řízení hmotných a nehmotných aktiv
+
+
+
+Vlastnická politika Koncernu SMB                                                                               5
+
+                                                                                                                   Strana 9 / 37
+        KONCERN SMB
+
+            - Řízení IT
+            - Řízení lidských zdrojů
+            - Řízení společenské odpovědnosti
+            - Řízení udržitelného a environmentálně udržitelného rozvoje
+            - Řízení využívání surovinových zdrojů a energetická bezpečnost
+            - Řízení public relations
+            - Sdílení zdrojů a služeb
+      Účelem Vlastnické politiky je definovat jasný a konzistentní postup, kterým SMB vykonává jednotné
+      řízení řízených osob. Vlastnická politika proto obsahuje základní cíle a priority SMB ve vztahu k řízeným
+      osobám, stanovuje roli SMB při výkonu řízení a správy řízených osob a v rámci jednotných politik
+      definuje zásady koncernového řízení SMB a celkového uspořádání.
+      V neposlední řadě je cílem Vlastnické politiky vytvořit pro řízené osoby popisný materiál o tom, jakým
+      způsobem může být jejich činnost ze strany SMB řízena, a pro veřejnost informační materiál
+      o fungování Koncernu, sledujícího péči SMB o všestranný rozvoj svého území a o potřeby svých občanů.
+
+      3.3      Přijetí a změny Vlastnické politiky
+      Vlastnickou politiku včetně jejích změn vytváří SMB prostřednictvím RMB ve spolupráci s Koncernovým
+      výborem a statutárními orgány jednotlivých řízených osob. Vlastnickou politiku schvaluje RMB za řídící
+      osobu Koncernu, a to na základě předchozího souhlasu ze strany Zastupitelstva města Brna (dále jen
+      „ZMB“).
+
+      4.     ORGÁNY A ŘÍZENÍ
+      4.1      Orgány řídící osoby
+      V procesu koncernového řízení vystupuje řídící osoba prostřednictvím RMB a ZMB.
+      RMB za řídící osobu vydává koncernové pokyny, doporučení, stanoviska, vyjádření a závazná
+      rozhodnutí řídící osoby, rovněž schvaluje Deklaraci a její změny. Vedle toho RMB rozhoduje
+      v působnosti valné hromady městských společností, tedy nikoliv jako řídící osoba.
+      ZMB pak v některých specifických případech vydává předchozí souhlas k činnostem/úkonům RMB
+      vykonávaným za řídící osobu.2
+
+      4.2      Orgány Koncernu
+      Primárním účelem orgánů Koncernu je zefektivnit a usnadnit činnost řídící osoby.
+      Orgány Koncernu jsou Koncernový výbor, který je neformálním řídícím a poradním orgánem řídící
+      osoby, a který plní zejména iniciativní, informační a poradní funkci, a dále jeho pomocné a poradní
+      orgány v podobě jednotlivých Podvýborů zejména pro klíčové obory či oblasti podnikání osob
+      v Koncernu nebo oblasti jednotných politik; Koncernový výbor a Podvýbor zřizuje řídící osoba.
+
+
+
+      2 V době přijetí Vlastnické politiky uděluje ZMB předchozí souhlas např. se změnou Deklarace nebo s udělením koncernového
+
+      pokynu, pokud se týká alespoň dvou řízených osob nebo jde-li o situace, kdy je koncernovým pokynem předpokládána újma
+      ve výši minimálně 150 000 000 Kč.
+
+
+
+Vlastnická politika Koncernu SMB                                                                                        6
+
+                                                                                                                            Strana 10 / 37
+       KONCERN SMB
+
+      Koncernový výbor může např. rozhodovat o doporučeních či opatřeních, které se týkají prosazování
+      Vlastnické politiky.
+      Organizační a podpůrný útvar Koncernového výboru pak představuje Kancelář koncernového výboru.
+      Podrobná pravidla fungování a personálního obsazení Koncernového výboru, Podvýborů a Kanceláře
+      koncernového výboru jsou obsažena ve Statutu Koncernového výboru a Podvýborů.
+
+      4.3   Orgány řízených osob
+      Orgány řízených osob, kterými jsou statutární orgán, dozorčí rada a valná hromada, a v případě
+      některých řízených osob též výbor pro audit, nejsou nadány pravomocí vystupovat v procesu
+      koncernového řízení, které náleží výlučně řídící osobě.
+      Statutární orgány a dozorčí rady řízených osob jsou však při výkonu koncernového řízení v podobě
+      uplatňování jednotlivých nástrojů řízení ze strany řídící osoby povinny dodržovat péči řádného
+      hospodáře.
+      Valné hromady řízených osob pak mohou schvalovat zásady a pokyny, jimiž se volené orgány musí řídit,
+      pokud jsou v souladu s právními předpisy a zakladatelskými dokumenty. Současně mohou valné
+      hromady řízených osob udílet statutárnímu orgánu k jeho žádosti pokyn týkající se obchodního vedení;
+      tyto pokyny však nepředstavují nástroj koncernového řízení v pravém slova smyslu.
+
+      4.4   Nástroje řízení
+      Řídící osoba má jako nástroje koncernového řízení k dispozici koncernové pokyny, závazná rozhodnutí,
+      stanoviska, doporučení a vyjádření; pravidla využití těchto nástrojů řízení jsou uvedeny v Deklaraci.
+      Řídící osoba může ve vztahu k osobám, u nichž RMB vykonává funkci valné hromady, uplatnit řízení též
+      prostřednictvím závazných zásad a pokynů.
+      Vedle toho je Koncern řízen také na smluvní bázi, a to v podobě Deklarace, jakožto vícestranné smlouvy
+      všech členů Koncernu, a dále pak na základě zakladatelských dokumentů řízených osob.
+
+      a. Deklarace
+      Deklarace je stvrzením existence Koncernu a současně představuje smluvní rámec fungování
+      Koncernu, neboť upravuje základní práva a povinnosti řídící osoby a řízených osob. Na základě
+      Deklarace jsou pak schvalovány další dokumenty, jako tato Vlastnická politika či Statut Koncernového
+      výboru a Podvýborů.
+      Porušení Deklarace ze strany řízené osoby může být vyhodnoceno jako porušení péče řádného
+      hospodáře člena statutárního orgánu nebo dozorčí rady; v takovém případě mohou být členové
+      daného voleného orgánu odpovědní za újmu z toho vzniklou.
+
+      b. Koncernový pokyn
+      RMB za řídící osobu může udělovat statutárnímu orgánu řízené osoby pokyny týkající se obchodního
+      vedení, jsou-li v zájmu Koncernu; koncernový pokyn proto představuje nejsilnější nástroj
+      koncernového řízení.
+
+
+
+
+Vlastnická politika Koncernu SMB                                                                      7
+
+                                                                                                          Strana 11 / 37
+       KONCERN SMB
+
+      Člen kteréhokoliv voleného orgánu řízené osoby, kterým může být statutární orgán i dozorčí rada, není
+      po udělení koncernového pokynu při výkonu své funkce zbaven povinnosti jednat s péčí řádného
+      hospodáře.
+      Vznikne-li výkonem koncernového pokynu řízené osobě újma, může se člen voleného orgánu
+      své odpovědnosti za újmu zprostit, prokáže-li, že mohl rozumně předpokládat, že (i) újma vznikla řízené
+      osobě v zájmu Koncernu a (ii) byla nebo bude v rámci Koncernu vyrovnána. Vyrovnáním se rozumí, že
+      újma byla nebo bude v přiměřené době a v rámci Koncernu vyrovnána přiměřeným protiplněním nebo
+      jinými prokazatelnými výhodami plynoucími z členství v Koncernu. Újma se tedy zásadně nemusí
+      nahrazovat finančním protiplněním ve stejné výši jako byla tato vyčíslena.
+
+      c. Závazná rozhodnutí, doporučení, stanoviska a vyjádření
+      Závazná rozhodnutí, doporučení, stanoviska a vyjádření vydávané řídící osobou představují tzv. měkké
+      nástroje řízení, jejichž účelem je blíže koordinovat činnost řízených osob, a nejsou tak pro ně přímo
+      závazné. Závazná rozhodnutí mají konstitutivní charakter primárně dovnitř fungování Koncernu.
+      Na druhou stranu, členové volených orgánů řízených osob by měli s vědomím členství dané řízené
+      osoby v Koncernu k vydaným závazným rozhodnutím, doporučením, stanoviskům a vyjádřením,
+      jakožto měkkým nástrojům řízení Koncernu, přihlížet do té míry, aby výkon jejich funkce byl v souladu
+      s péčí řádného hospodáře. V opačném případě nemohou řízené osoby v dobré víře očekávat, že jejich
+      činnost (např. příprava nebo realizace investičních projektů) v rozporu s vydaným závazným
+      rozhodnutím, doporučením, stanoviskem či vyjádřením bude ze strany řídící osoby podporována.
+
+      d. Zakladatelské dokumenty
+      Zakladatelské dokumenty jsou závazným pramenem pro všechny orgány příslušné řízené osoby, které
+      mohou být měněny pouze z rozhodnutí valné hromady.
+      Zakladatelské dokumenty řízených osob ve většině případů akcentují založení řízené osoby za účelem
+      podnikání, při němž plní také úkoly svěřené jí SMB či její mateřskou společností, to vše vždy při výkonu
+      péče o všestranný rozvoj území SMB a o potřeby obyvatel SMB. Pokud se pak v konkrétních případech
+      dostane do kolize zájem prospěšný pro řízenou osobu se zájmem veřejně prospěšným, může mít
+      přednost zájem veřejně prospěšný, pokud bude uspokojován na základě koncernového pokynu.
+      Všechny orgány řízené osoby tak musí při výkonu podnikatelské činnosti brát v potaz potenciální
+      přítomnost zájmu veřejně prospěného, který musí při výkonu své činnosti vyhodnocovat
+      a odpovídajícím způsobem zohledňovat; v opačném případě by mohlo dojít k porušení zakladatelských
+      dokumentů řízených osob, a tudíž k porušení péče řádného hospodáře členů volených orgánů.
+
+      e. Pokyn k obchodnímu vedení
+      Pokyn k obchodnímu vedení může udělit valná hromada řízené osoby pouze na základě žádosti
+      statutárního orgánu. Členové statutárního orgánu nicméně nejsou v tomto procesu zbaveni povinnosti
+      péče řádného hospodáře, kterou musí dodržovat nejen při formulaci a podání žádosti o pokyn, ale též
+      při výkonu uděleného pokynu.
+      Pokyn k obchodnímu vedení (který lze udělit pouze na základě žádosti statutárního orgánu) nicméně
+      primárně nepředstavuje nástroj koncernového řízení, neboť se jím nesledují koncernové zájmy. Pokud
+      by totiž statutární orgán řízené osoby žádal valnou hromadu o udělení pokynu, který by ve svém
+
+
+
+Vlastnická politika Koncernu SMB                                                                        8
+
+                                                                                                            Strana 12 / 37
+       KONCERN SMB
+
+      důsledku sledoval jiné zájmy než zájem řízené osoby (např. právě zájem koncernu nebo jiné řízené
+      osoby), nemusel by jednat v souladu s péčí řádného hospodáře.
+      Jestliže by člen statutárního orgánu podal valné hromadě žádost o udělení pokynu k obchodnímu
+      vedení, která by byla v rozporu s dřívějším koncernovým pokynem, nejednal by v souladu s péčí
+      řádného hospodáře.
+      Na druhou stranu, pokud by se následně udělený koncernový pokyn dostal do rozporu s dříve
+      uděleným pokynem k obchodnímu vedení, je součástí péče řádného hospodáře statutárního orgánu
+      řízené osoby na tuto skutečnost upozornit valnou hromadu, případně též RMB, a vyžádat si potvrzení
+      nebo revokaci dříve uděleného pokynu k obchodnímu vedení; pokud by členové statutárního orgánu
+      bez dalšího plnili koncernový pokyn, mohli by se dostat do rozporu s péčí řádného hospodáře.
+
+      f. Závazné zásady a pokyny
+      Volený orgán řídící osoby, kterým je statutární orgán a dozorčí rada, je povinen řídit se zásadami
+      a pokyny schválenými valnou hromadou, pokud jsou v souladu s právními předpisy a společenskou
+      smlouvou; zásadami a pokyny nesmí valná hromada zasahovat do obchodního vedení statutárního
+      orgánu.
+      Porušení zásad a pokynů, schválených v souladu s právními předpisy valnou hromadou řízené osoby,
+      může být porušením péče řádného hospodáře člena voleného orgánu; v takovém případě může být
+      odpovědný za újmu z toho vzniklou.
+
+
+                                   Hierarchie důležitosti jednotlivých nástrojů
+
+
+
+
+                                                   Deklarace
+
+
+                                               Koncernový pokyn
+
+
+                                        Závazná rozhodnutí, doporučení,
+                 ↑ koncernové               stanoviska a rozhodnutí
+                   nástroje
+                 ↓ korporátní
+                   nástroje                Zakladatelské dokumenty
+
+
+                                         Pokyn k obchodnímu vedení
+
+
+                                           Závazné zásady a pokyny
+
+
+
+
+Vlastnická politika Koncernu SMB                                                                  9
+
+                                                                                                      Strana 13 / 37
+       KONCERN SMB
+
+      II. ZVLÁŠTNÍ ČÁST – Jednotné politiky Koncernu a Etický kodex
+      Tato část Vlastnické politiky obsahuje přehled vybraných oblastí (politik) činností řízených osob, které
+      podléhají jednotnému řízení v rámci Koncernu. Je zde je uvedeno, zda daná politika platí pro všechny
+      řízené osoby nebo pouze pro některé z nich. Podrobnosti o realizaci jednotlivých politik řízenými
+      osobami jsou uvedeny v kapitole „Zvláštní část – Profily řízených osob“ Vlastnické politiky.
+
+      1.   POLITIKA V OBLASTI AUDITU
+      Politika v oblasti auditu má za cíl systematicky podporovat transparentnost, zákonnost fungování
+      a správnost realizace procesů řízených osob za současné optimalizace nákladů na interní a externí audit
+      i na fungování výboru pro audit.
+
+                                                 Metody politiky
+      Za realizaci činností v rámci politiky auditu je odpovědný vrcholový management řízené osoby.
+      Předpokládá se, že audity budou prováděny interními zaměstnanci řízených osob či externími subjekty.
+      Řízené osoby provádí účetní audit v souladu s právními předpisy a Vlastnickou politickou.
+      Řízené osoby, které ze zákona povinně zřizují výbor pro audit, tak činí v zakladatelských dokumentech
+      prostřednictvím jednotné úpravy stanovené řízenou osobou. Cílem je, aby počet členů výboru,
+      kompetence výboru včetně procesních pravidel, jimiž se jednání výboru řídí, a funkčního období byly
+      v Koncernu koordinovány a sjednoceny; stejná úprava současně umožňuje jednotné obsazení výboru
+      pro audit u těchto řízených osob. Řízené osoby dodržují požadavky na výbor pro audit a další povinnosti
+      stanovené právními předpisy.
+      Řízené osoby, které jsou středními a vyššími účetními jednotkami, budou splňovat parametry
+      odpovídající certifikovanému systému řízení společnosti podle příslušných norem ČSN EN ISO s tím, že
+      zavedení těchto systémů se u těchto řízených osob preferuje. Řízené osoby, které zavedly certifikovaný
+      systém řízení společnosti, provádějí audit podle příslušných norem ČSN EN ISO.
+      V odůvodněných případech může být na pokyn akcionáře nebo Koncernového výboru realizován
+      individuální jednorázový specializovaný audit v jakékoliv oblasti týkající se činnosti společnosti.
+
+                                       Realizace politiky řízenými osobami
+      Na politice auditu se podílí všechny řízené osoby implementací metod politiky auditu, a to prováděním
+      auditu podle Vlastnické politiky.
+
+      2.   PERSONÁLNÍ POLITIKA
+      Cílem personální politiky je (i) stabilizace personálního obsazení na řídících úrovních řízených osob,
+      (ii) zajištění odborného vedení a řízení řízených osob, (iii) zajištění transparentního a jednotného
+      odměňování managementu řízených osob a transparentního odměňování zaměstnanců řízených osob
+      a (iv) podpora toho, aby řízené osoby byly kvalitním a vyhledávaným zaměstnavatelem ve svém
+      regionu s dobrou pověstí.
+      Personální politika je na úrovni řízených osob řízena s ohledem na strategie, cíle a činnost dané řízené
+      osoby jejím vrcholovým managementem, kterému dále podléhají zaměstnanci řízené osoby podle
+      konkrétní organizační struktury. Personální činnosti, zahrnující zejména nábor zaměstnanců, adaptační
+      proces, vzdělávání, hodnocení a odměňování zaměstnanců, jakož i flexibilitu práce a spolupráci
+
+
+Vlastnická politika Koncernu SMB                                                                        10
+
+                                                                                                          Strana 14 / 37
+       KONCERN SMB
+
+      s vysokými a středními školami či jinými obdobnými institucemi, musí být prováděny v souladu
+      metodami personální politiky Koncernu.
+      Mezi základní zásady personální politiky Koncernu patří spolupráce všech členů na průběžném
+      zvyšování kvalifikace zaměstnanců, rozvoj personálních rezerv, rozšiřování flexibility práce a budování
+      firemní kultury.
+
+                                                  Metody politiky
+      Nábor:
+      Na volné pracovní pozice se zveřejňují výběrová řízení dle podmínek každé řízené osoby za účelem
+      usnadnění spolupráce mezi řízenými osobami při sdílení či uplatňování nadbytečných zaměstnanců; při
+      rušení pracovních pozic každá řízená osoba zajistí proces účinné pomoci při ztrátě zaměstnání. Řízené
+      osoby se vhodným způsobem informují v případě potřeby obsazení nebo rušení pracovních pozic.
+      Adaptace:
+      Řízené osoby dbají na efektivní adaptační proces nových zaměstnanců za účelem jejich zařazení do
+      pracovního týmu a firemní kultury s cílem snížit míru fluktuace zaměstnanců a eliminovat náklady na
+      nábor nových zaměstnanců.
+      Vzdělávání:
+      Všichni zaměstnanci řízených osob se vzdělávají na základě plánů vzdělávání dané obchodní
+      společnosti. Řízené osoby dbají na zaměstnávání odborných kapacit za účelem poskytování a šíření
+      jejich znalostí a zkušeností napříč celou organizací a usilují o sdílení těchto kapacit s jinými řízenými
+      osobami např. formou seminářů či společných setkání.
+      Hodnocení:
+      Podkladem pro hodnocení všech zaměstnanců řízené osoby je jejich individuální pracovní výkon podle
+      systematiky zvolené každou řízenou osobu s přihlédnutím k jejím cílům a potřebám. Hodnocení
+      pracovního výkonu je podkladem pro odměňování.
+      Odměňování:
+      Všichni zaměstnanci mají nárok na mzdu a příplatky ve výši podle platných právních předpisů
+      a případně uzavřené kolektivní smlouvy. Naplňování strategických a dílčích cílů řízené osoby je měřeno
+      klíčovými ukazateli výkonnosti (KPI) tak, že řízená osoba stanoví odpovídající přiřazení úrovní KPI
+      k odpovídajícím úrovním řízení.
+      Flexibilita:
+      Řízené osoby usilují o flexibilitu práce u pracovních pozic, u kterých to neodporuje povaze práce ani
+      nenarušuje její efektivnost, a to zejména prostřednictvím částečných úvazků, pružných pracovních dob
+      a prací z domova.
+      Dokumentace:
+      Řízené osoby k implementaci personální politiky přijímají své řídící dokumenty, jako jsou organizační
+      řád, pracovní řád, podpisový řád, v případě působení odborové organizace kolektivní smlouvy, jakož
+      i další vnitřní předpisy dle potřeby při zohlednění konkrétní činnosti řízené osoby, a důsledně kontrolují
+      jejich dodržování.
+
+
+
+
+Vlastnická politika Koncernu SMB                                                                          11
+
+                                                                                                            Strana 15 / 37
+       KONCERN SMB
+
+      Spolupráce:
+      Řízené osoby spolupracují se středními a vysokými školami či jinými obdobnými institucemi na
+      zkvalitnění vzdělávání na studijních oborech blízkých předmětu činnosti řízené osoby, a to formou
+      stáží, exkurzí či jinou formou placené nebo neplacené podpory mladých talentů.
+
+                                        Realizace politiky řízenými osobami
+      Na personální politice se aktivně podílí všechny řízené osoby, a to implementací metod personální
+      politiky Koncernu do svých interních procesů. Řízené osoby, které jsou v daném kalendářním roce
+      mikro účetní jednotkou, nemusí v následujícím kalendářním roce spolupracovat se středními a
+      vysokými školami či obdobnými institucemi.
+
+      3.   POLITIKA CONTROLLINGU A REPORTINGU
+      Cílem politiky controllingu a reportingu je vytvoření nástrojů řízení ke koordinaci procesů plánování
+      a kontroly a vytvoření datové informační základny Koncernu. Přínosem pro Koncern bude zvýšená
+      efektivita sdílení informací a možnost činit rozhodnutí podložená reálnými daty.
+
+                                                   Metody politiky
+      Předpokladem efektivního koncernového řízení je plnění politiky controllingu a reportingu řízenými
+      osobami. Politika zajišťuje informovanost řídící osoby o potřebách Koncernu a jeho členů, jakož
+      i o příležitostech a rizicích, které se Koncernu týkají. Politika je založena na množině konkrétních
+      měřitelných ukazatelů, využitých v rámci konkrétních pravidelných reportů. Reporty budou vytvořeny
+      tak, aby umožnily kompletní sledování výkonnosti a plnění cílů řízenými osobami.
+      Řízené osoby pravidelně předkládají Koncernovému výboru reporty v rozsahu dle čl. 5 Deklarace na
+      platformě datového prostředí zřízeného řídící osobou.
+
+                                        Realizace politiky řízenými osobami
+      Na politice controllingu a reportingu se podílí všechny řízené osoby implementací metod politiky
+      controllingu a reportingu, zejména pravidelným reportingem údajů.
+
+      4.   INVESTIČNÍ POLITIKA
+      Cílem investiční politiky je zajistit jednotný vliv na investice řízených osob tak, aby investiční činnost
+      byla maximálně efektivní, lépe se využívaly disponibilní zdroje řízených osob, snížila se finanční zátěž
+      rozpočtu SMB, zvýšila se návratnost investic, zabezpečil se dostatek zdrojů na zajištění běžného
+      provozu řízených osob, optimalizovalo se využití volných finančních prostředků. Za tím účelem je řídící
+      osobou každoročně schvalován plán investic jednotlivých řízených osob, včetně jeho změn, nejde-li
+      o změny v kompetenci řízených osob.
+
+                                                   Metody politiky
+      Investice řízených osob vychází z investiční politiky a strategie řídící osoby, s nimiž nesmí být v rozporu.
+      Řízené osoby sledují u každé investice nejen vlastní zájmy, ale také zájmy Koncernu.
+      Řízené osoby se v případě investic do majetku řídící osoby řídí Metodikou investičního procesu
+      statutárního města Brna.
+
+
+
+
+Vlastnická politika Koncernu SMB                                                                            12
+
+                                                                                                              Strana 16 / 37
+       KONCERN SMB
+
+      Finanční prostředky:
+      Řízené osoby financují své investice primárně vlastními zdroji, dále prostřednictvím dotačních titulů či
+      bankovního úvěru. Z tohoto důvodu musí řízené osoby u každé investice vyhodnocovat, zda, případně
+      za jakých podmínek, by na přípravu, realizaci anebo provoz investice bylo možné čerpat finanční
+      prostředky z dotačních titulů či bankovního úvěru.
+      Před financováním investic řízených osob na základě bankovního úvěru se preferuje jejich financování
+      prostřednictvím koncernového financování. Členové Koncernu spolu pravidelně koordinují svoje
+      úvěrové zadlužování, aby přílišné zadlužení Koncernu nebylo v konečném důsledku nevýhodné pro
+      ostatní členy Koncernu.
+      Investiční činnost:
+      Investiční činnost slouží k obnově a rozšíření majetku řízené osoby, jakož i k naplňování cílů dané řízené
+      osoby a řídící osoby. Investiční činnost řízených osob dále slouží k naplňování úkolů stanovených řídící
+      osobě právními předpisy.
+      Řízené osoby u každé investice důsledně sledují, zda realizace investice naplňuje její ekonomický
+      zájem, jakož i zájem veřejně prospěšný, a to alespoň okrajově, je-li to možné. Při hodnocení investice
+      se neposuzují pouze ekonomické aspekty, ale také kladné a záporné externality.
+      Pravidla pro investiční činnost, stanovení návratnosti investice, vyhodnocení klíčových ukazatelů
+      a vyhodnocení veškerých relevantních zájmů stanoví samostatně každá řídící osoba.
+      Investiční činnost řízené osoby běžně zahrnuje
+         - stanovení strategie investičního rozvoje včetně krátkodobých, střednědobých a dlouhodobých
+           cílů,
+         - sestavení investičních plánů s krátkodobým, střednědobým a dlouhodobým horizontem, jakož
+           i pravidla pro jejich revizi,
+         - předinvestiční přípravu, během které se zejména vyhledávají investiční příležitosti, probíhá
+           základní ekonomické a technické vyhodnocení investice a posuzují se dopady investice,
+         - sestavení rozpočtu dle očekávaných výdajů a příjmů včetně možností financování a
+         - zhodnocení výhodnosti investice.
+      Etapy investice:
+      Řízené osoby si podle vlastních potřeb a typu investic stanoví etapy investiční činnosti tak, aby každá
+      investice byla náležitě posouzena a vyhodnocena, jakož i následně připravována a realizována.
+      Mezi základní etapy investičního procesu zpravidla patří předinvestiční příprava investice, která by
+      měla zahrnovat fázi vzniku potřeby investice, zpracování investičního záměru a schválení investice.
+      Realizační fáze investice slouží především k projektové přípravě a vlastní realizaci investice.
+
+                                       Realizace politiky řízenými osobami
+      Na investiční politice se podílí veškeré řízené osoby implementací metod politiky, zejména důslednou
+      přípravou a hodnocením investice.
+
+
+
+
+Vlastnická politika Koncernu SMB                                                                          13
+
+                                                                                                            Strana 17 / 37
+       KONCERN SMB
+
+      5.   POLITIKA V OBLASTI NÁKUPU A PRODEJE
+      Cílem politiky v oblasti nákupu a prodeje je možnost využití společného nákupu, tj. ve své podstatě
+      půjde o realizaci úspor z rozsahu. Lze se zároveň zasadit (za podmínek zachování spravedlivých
+      podmínek pro všechny členy Koncernu a právních předpisů) o to, aby řízené osoby při výběru
+      dodavatelů preferovaly ostatní členy Koncernu. Politika v oblasti realizace stavebních prací se zaměřuje
+      na všestranný rozvoj území i potřeby občanů tak, aby byla zajištěna veškerá občanská vybavenost
+      a zajištěna výstavba strategicky významných projektů v rámci SMB a jeho okolí za využití synergických
+      vazeb působících v rámci Koncernu. Přínosem pro Koncern bude možnost efektivnějšího rozložení
+      nákupu k zajištění dodávek, služeb a stavebních prací, a to jak v rámci členů Koncernu, tak mimo něj.
+
+                                                  Metody politiky
+      Na základě shromažďování informací o potřebách členů Koncernu může být politika v oblasti nákupu
+      a prodeje uplatňována systematickým plánováním na základě koncernového řízení. Řídící osoba může
+      za účelem realizace politiky vydat prováděcí metodiky, zásady nebo standardy, např. v oblasti
+      veřejných zakázek.
+      Řízené osoby za účelem zefektivnění a využívání synergických vazeb před zadáním veřejné zakázky či
+      zahájením zadávacího řízení na veřejnou zakázku vždy, v souladu s doporučením Rady města Brna za
+      řídící osobu dle čl. 4.1 Deklarace, zvažují oslovení jiného člena Koncernu, který poskytuje služby, zboží
+      či stavební práce, k jejichž zadání má dojít.
+      Je-li to možné, je žádoucí, aby řízené osoby v souladu se ZZVZ zastávaly pozici pro uzavření smlouvy
+      v rámci vertikální spolupráce (tzv. in-house dodavatelů zboží, služeb a stavebních prací v rámci
+      Koncernu).
+      Řídící osoba bude provádět analýzu zboží, služeb a stavebních prací, které pořizuje více než jeden člen
+      Koncernu, a podle ní stanoví, jaké nákupy by bylo vhodné realizovat společně, a který člen bude
+      nositelem procesu realizace nákupu, tzv. administrátor. Kritérii pro výběr administrátora budou
+      velikost objemu, zkušenosti na trhu, znalost zboží, služby nebo stavební práce, odborní pracovníci,
+      skladovací možnosti apod. Zároveň budou definovány jedinečné a strategické zboží, služby a stavební
+      práce, jejichž nákup je významný nebo kritický pro členy Koncernu nebo které jsou nakupovány pouze
+      jedním členem Koncernu. U těchto položek bude strategie nákupu řešena pouze na úrovni dané řízené
+      osoby.
+      Při realizaci nákupu budou využívány moderní metody umožňující snížení cen nakupovaného zboží
+      a služeb při zachování transparentnosti.
+
+                                       Realizace politiky řízenými osobami
+      Na politice v oblasti nákupu a prodeje se podílí veškeré řízené osoby implementací metod politiky,
+      zejména při spolupráci za účelem zefektivnění nákupu zboží, služeb a stavebních prací.
+
+      6.   BEZPEČNOSTNÍ POLITIKA
+      Cílem bezpečnostní politiky je sjednocení pravidel a procesů bezpečnosti informací, bezpečnosti ICT
+      infrastruktury, bezpečnosti prvků infrastruktury i ostatních aspektů bezpečnosti, jako například
+      personální, environmentální, bezpečnosti dalších aktiv apod. tak, aby (i) bylo dosaženo souladu se
+
+
+
+
+Vlastnická politika Koncernu SMB                                                                         14
+
+                                                                                                           Strana 18 / 37
+          KONCERN SMB
+
+      všemi zákonnými požadavky, (ii) byla minimalizována rizika v oblasti bezpečnosti a (iii) byl
+      minimalizován dopad případných incidentů nebo událostí.
+
+                                                     Metody politiky
+      Politika se komplexně zabývá problematikou fyzické, kybernetické bezpečnosti a bezpečnosti
+      informací, od definice systému řízení bezpečnosti a systémů řízení rizik, přes analýzy bezpečnostních
+      rizik, návrhů bezpečnostních opatření a jejich implementace až po ověřování funkčnosti formou auditů
+      a stanovením adekvátní doby opakování všech kroků, minimálně však každé dva roky.
+      Řízené osoby provádí politiku a zajišťují bezpečnost v souladu s požadavky stanovenými právními
+      předpisy tak, aby vytvořily systém pro účely realizace bezpečnostních opatření vedoucích k naplnění
+      cílů v jednotlivých oblastech. Řízené osoby proto zavádí systémy s následnou certifikací podle
+      příslušných norem ČSN EN ISO týkajících se fyzické, kybernetické bezpečnosti a bezpečnosti informací,
+      s ohledem na jejich předmět činnosti.
+      Řízené osoby budou na základě analýzy vhodnosti takového postupu uzavírat adekvátní pojištění pro
+      případ jakýchkoliv bezpečnostních incidentů.
+      Kyberbezpečnost:
+      Za účelem plnění kybernetické bezpečnosti probíhá vzájemná spolupráce členů Koncernu podle zákona
+      č. 264/2025 Sb., o kybernetické bezpečnosti (dále jen „ZoKB“), směrnice Evropského parlamentu a
+      Rady 2022/2555 ze dne 14. prosince 2022 o opatřeních k zajištění vysoké společné úrovně
+      kybernetické bezpečnosti v Unii a o změně nařízení (EU) č. 910/2014 a směrnice (EU) 2018/1972 a o
+      zrušení směrnice (EU) 2016/1148 (dále jen „NIS2“) a obdobných tuzemských a evropských předpisů.
+      Řízené osoby jsou vůči řídící osobě ve vztahu významného dodavatele podle odpovídající legislativy a
+      k plnění úkolů v oblasti kybernetické bezpečnosti přistupují minimálně v rozsahu a s vědomím této
+      povinnosti.
+      Zástupci členů Koncernu volí jednu osobu, jež je členem Výboru kybernetické bezpečnosti, a to
+      primárně za účelem plnění všech legislativních požadavků a eliminace kybernetických hrozeb
+      a souvisejících rizik. Cílem kybernetické bezpečnosti je zamezení nebo maximální omezení zneužití,
+      incidentů a událostí týkajících se ICT infrastruktury, řídicích systémů a dat členů Koncernu.
+      Řízené osoby, které jsou povinnými osobami podle ZoKB, důsledně plní povinnosti stanovené jim
+      příslušnou legislativou; ostatní řízené osoby se řídí alespoň minimálním bezpečnostním standardem
+      dle NÚKIB či pokyny, které vydává řídící osoba. Za subjekty povinné podle ZoKB jsou považovány osoby,
+      jejichž hlavní činnost spadá do odvětví podle § 4 ZoKB, jsou středním či velkým podnikem3. Konkrétní
+      seznam služeb a vymezení podmínek významnosti stanoví prováděcí právní předpis dle § 4 odst. 2
+      ZoKB. Tyto subjekty plní povinnosti podle svého samourčení a dále povinnosti, které jim nad tento
+      rámec určí RMB.
+      Fyzická bezpečnost:
+      Řízené osoby vytváří systém, který garantuje maximální ochranu svých aktiv, především přijímáním
+      technických (fyzických) a organizačních opatření, jež snižují rizika jejich neoprávněného odcizení,
+      zpronevěry, poškození či zneužití.
+
+
+
+      3
+          doporučení Komise 2003/361/ES ze dne 6. května 2003 o definici mikropodniků, malých a středních podniků
+
+
+
+Vlastnická politika Koncernu SMB                                                                             15
+
+                                                                                                               Strana 19 / 37
+       KONCERN SMB
+
+      Členové Koncernu formou interní dokumentace stanovují, kdo a jakým způsobem je oprávněn aktiva
+      pořizovat, nakládat s nimi nebo je používat a kdo je oprávněn rozhodnout o prodeji či vyřazení aktiv.
+      Řízené osoby budou navazovat obchodní spolupráci pouze s takovými dodavateli, které podle interních
+      pravidel vyhodnotí jako důvěryhodné.
+      BOZP:
+      Řízené osoby chrání zaměstnance důsledným dodržováním předpisů bezpečnosti a ochrany zdraví při
+      práci a včetně souvisejících předpisů s cílem eliminace nebo minimalizace negativních vlivů na
+      pracovišti (zejména pracovních úrazů a nemocí z povolání). Řízené osoby zajišťují u stanovených
+      zaměstnanců a ve stanovených periodách lékařské prohlídky zaměstnanců včetně jejich školení,
+      kontroly a prověřování znalostí.
+
+                                       Realizace politiky řízenými osobami
+      Na bezpečnostní politice se podílí veškeré řízené osoby, zejména jednotným přístupem ke
+      kybernetické bezpečnosti ve spolupráci s řídící osobou, ochranou svých aktiv a zajištěním bezpečnosti
+      a zdraví při práci, a to nejméně v rozsahu popsaném v této politice.
+
+      7.   FINANČNÍ POLITIKA
+      Cílem finanční politiky je zajistit řídící osobě vliv nad řízením financí v Koncernu tak, aby řízené osoby
+      společně s řídící osobou v oblasti finanční politiky vzájemně spolupracovaly na rozložení dluhového
+      zatížení v rámci Koncernu s cílem zajistit, aby (i) celkové náklady na finanční zdroje Koncernu byly co
+      nejnižší, (ii) došlo k optimálnímu využití zdrojů dostupných v rámci Koncernu prostřednictvím tzv. cash-
+      poolingu, (iii) při sjednávání externího financování byla koordinována vyjednávací pozice členů
+      Koncernu vůči potenciálním věřitelům a (iv) docházelo k využívání a zhodnocení volných finančních
+      zdrojů v rámci Koncernu, a to za podmínky, že tyto zdroje jim budou poskytovány za lepších nebo
+      alespoň obdobných podmínek, které v místě a v čase odpovídají podmínkám finančního trhu.
+
+                                                  Metody politiky
+      Plnění finanční politiky nesmí přivodit žádné řízené osobě Koncernu úpadek či hrozící úpadek ani jiným
+      závažným způsobem ohrozit její finanční stabilitu.
+      Členové Koncernu úzce spolupracují za účelem obstarávání a poskytování finančních zdrojů navzájem,
+      jakož i při zajišťování závazků vznikajících v souvislosti s obstaráváním finančních zdrojů.
+      Řízené osoby optimalizují své disponibilní zdroje na základě cash-poolingu, jehož základní procesní
+      pravidla stanovuje Koncernový výbor. Disponibilní zdroje se v Koncernu poskytují vždy za podmínek
+      lepších nebo alespoň obdobných těm, které nabízí externí poskytovatel nebo které v místě a čase
+      odpovídají podmínkám finančního trhu; úrok za poskytnutí disponibilních zdrojů bude přiměřený.
+      Financování ze strany řídící osoby musí být v souladu s právními předpisy a vnitřními předpisy řídící
+      osobu a je možné pouze tehdy, pokud nebude negativně ovlivňovat hospodaření řídící osoby.
+
+                                       Realizace politiky řízenými osobami
+      Na finanční politice se podílí veškeré řízené osoby dodržování metod finanční politiky, zejména pak
+      spoluprací při vnitro-koncernovém poskytování disponibilních zdrojů.
+
+
+
+
+Vlastnická politika Koncernu SMB                                                                          16
+
+                                                                                                            Strana 20 / 37
+       KONCERN SMB
+
+      8.   DIVIDENDOVÁ POLITIKA
+      Cílem dividendové politiky je zajistit jak stabilní financování činností, obnovy majetku a rozvojových
+      potřeb členů Koncernu, tak i stabilní příjem řídící osoby, a to zejména podílem na vytvořeném zisku
+      z obchodních činností řízených osob.
+
+                                                 Metody politiky
+      O rozdělení zisku nebo jiných vlastních zdrojů a úhradě ztráty řízené osoby rozhoduje zpravidla na
+      návrh statutárního orgánu RMB v postavení valné hromady. Rozdělení a výplata vlastních zdrojů řízené
+      osoby se řídí jejím zakládajícím právním jednáním a právními předpisy.
+      Řídící osoba bude zohledňovat charakter činnosti řízených osoba, jakož i stav rozpracovanosti
+      strategických projektů a podmínky jejich financování, o kterých byla řízenými osobami s předstihem
+      informována.
+      Řízené osoby mohou místo rozdělení zisku či jiných vlastních zdrojů řídící osobě navrhnout jejich
+      nerozdělení a účelové určení k realizaci strategických projektů.
+
+                                       Realizace politiky řízenými osobami
+      Na dividendové politice se podílejí všechny řízené osoby podle toho, zda v jejich činnosti převládá více
+      obchodní prvek nebo zájem veřejně prospěšný. Podle toho se rozlišují tři (3) skupiny řízených osob,
+      kdy do první skupiny spadají společnosti převážně s činností v oblasti zájmu veřejně prospěšného, do
+      druhé skupiny patří společnost s významným podílem obchodní činnost a v poslední skupině jsou
+      společnosti s převážnou obchodní činností.
+
+      9.   MAJETKOVÁ POLITIKA
+      Cílem majetkové politiky je zajistit optimalizaci majetku řízených osob potřebného pro výkon hlavních
+      činností jednotlivých řízených osob, jeho údržbu a obnovu tak, aby byl využíván s maximální efektivitou
+      a byly minimalizovány náklady na jeho údržbu a provoz. Dále je cílem majetkové politiky zajistit
+      možnost majetkových dispozic s hmotným i nehmotným majetkem řízených osob za účelem jejich
+      využití pro přípravu a/nebo realizaci strategických projektů v rámci SMB v případech, kdy je daný
+      majetek řízené osoby pro přípravu a/nebo realizaci takového projektu nezbytný, byť by byl projekt
+      realizován jinou řízenou osobou či řídící osobou, či byl majetek nezbytný pro zajištění protihodnoty
+      třetí osobě za účelem nabytí majetku, práv či jiných hodnot třetí osoby členy Koncernu. Majetková
+      politika jednotlivých řízených osob definuje využívání nehmotného majetku i hmotného majetku
+      zásadní povahy, tj. výrobní prostředky, strojní zařízení, vozový park, nemovité věci, aj. Dalším cílem
+      politiky je také definovat strategii využití a nakládání se zbytným majetkem.
+
+                                                 Metody politiky
+      Řízené osoby při správě a nakládání se svým majetkem důsledně dodržují právní předpisy, zejména
+      povinnost péče řádného hospodáře, jakož i své zakladatelské dokumenty, především pokud jde
+      o plnění povinností ve vztahu k voleným orgánům či akcionáři před provedením majetkových dispozic.
+      Nepotřebný majetek řízené osoby přednostně nabízejí ke koupi nebo k využití ostatním členům
+      Koncernu.
+
+
+
+
+Vlastnická politika Koncernu SMB                                                                        17
+
+                                                                                                          Strana 21 / 37
+       KONCERN SMB
+
+      Řídící osoba v zakladatelských dokumentech řízených osob vhodným způsobem za účelem naplňování
+      majetkové politiky nastavuje interní omezení při zcizování majetku. Řízené osoby zavádí interní
+      procesy za účelem monitoringu a kontroly při nakládání s majetkem řízené osoby.
+      Řízené osoby při nakládání se svým majetkem důsledně dodržují požadavek písemné formy právních
+      jednání.
+      Pokud řízená osoba hodlá použít k zajištění dluhu svůj majetek v takovém rozsahu, který by mohl
+      představovat závod řízené osoby nebo jeho část, musí si k tomu taková řízená osoba opatřit předchozí
+      písemný souhlas svého akcionáře; současně musí být vyhodnoceno, zda by bylo možné opatřit si
+      finanční prostředky od člena Koncernu tak, aby rozsah potřebného zajištění nemohl dosahovat ani části
+      závodu.
+      Obměna nebo rekonstrukce majetku řízené osoby musí být v souladu s dotčenými politikami.
+
+                                      Realizace politiky řízenými osobami
+      Na majetkové politice se podílí veškeré řízené osoby, a to dodržováním metod majetkové politiky.
+
+      10. IT POLITIKA
+      Cílem IT politiky je uplatnění jednotného strategického přístupu v oblasti směřování rozvoje
+      informačních technologií tak, aby byl tento rozvoj v souladu se strategií Koncernu a jednotlivých
+      řízených osob. Cílem IT politiky je zabývat se hardwarovým i softwarovým vybavením, službami,
+      datovými centry i společným výběrem poskytovatele mobilních hlasových a datových služeb.
+
+                                                Metody politiky
+      Cílem politiky je zajistit propojení členů Koncernu a disponovat tak vhodně dimenzovanou, provozně
+      hospodárnou a bezpečnou IT infrastrukturou, která umožňuje bezpečný a spolehlivý přenos dat
+      v rámci Koncernu.
+      S ohledem na celosvětový trend je strategickým cílem poskytovat IT infrastrukturu jako cloudovou
+      službu v modelu kapacity na vyžádání. Jednotně řízená a provozovaná IT infrastruktura umožní
+      propojení všech členů Koncernu, snížení souvisejících nákladů a sdílení dat včetně SW platformy.
+      Oblast ukládání dat bude zaměřena především na zdrojovou část strategického řetězce otevřenosti
+      a elektronizace služeb. S ohledem na rostoucí objem dat a souvisejícím nárokům se podporuje budovat
+      nová datová úložiště v rámci jednotné infrastruktury.
+      Nepřetržitě provozovaná sdílená služba v oblasti hlášení poruch a problémů v oblasti IT infrastruktury
+      a SW platformy povede ke snížení nákladů na servis a poradenství v oblasti IT a umožní další rozvoj IT
+      infrastruktury.
+
+                                      Realizace politiky řízenými osobami
+      Na IT politice se řízené osoby ve spolupráci s řídící osobou podílí aktivním využíváním jednotné ICT
+      infrastruktury a služeb Koncernu. Řídící osoba stanovuje za účelem koordinace a synchronizace
+      pravidla pro informování o projektech informačních a komunikačních technologií řízených osob.
+
+
+
+
+Vlastnická politika Koncernu SMB                                                                      18
+
+                                                                                                         Strana 22 / 37
+       KONCERN SMB
+
+      11. POLITIKA SPOLEČENSKÉ ODPOVĚDNOSTI (CSR)
+      Cílem politiky společenské odpovědnosti (CSR) je všestranný ekonomický, kulturní a společenský rozvoj
+      SMB, podpora občanské sounáležitosti a zvyšování kvality života všech jeho občanů, a to zejména
+      v oblasti sportu, kultury, zdraví a zdravého životního stylu, občanské společnosti, životního prostředí
+      a charitativních projektů.
+
+                                                 Metody politiky
+      Smyslem CSR politiky je projev spoluodpovědnosti za všestranný rozvoj, ekonomickou prosperitu
+      a zlepšování kvality života občanů SMB, potažmo veřejnosti jako takové.
+      Realizace politiky je projevem prosazování zájmu veřejně prospěšného při jejich činnosti, zakotveného
+      v zakladatelských dokumentech.
+      Politika společenské odpovědnosti je realizována prostřednictvím podpory CSR projektů v oblastech,
+      jako jsou zejména zmírňování následků geopolitických situací nebo živelních katastrof, podpora sportu,
+      kultury, zdraví a zdravého životního stylu, životního prostředí, charity a občanské společnosti.
+      Formy podpory CSR projektů mohou být zejména:
+         - Přímá finanční podpora (poskytnutí finanční dotace s jasně definovaným a kontrolovatelným
+           účelem využití finančních prostředků),
+         - Nepřímá finanční podpora (např. nákup vstupenek pro zaměstnance, pronájem prostor pro
+           interní či propagační akce, poskytnutí slev a benefitů apod.),
+         - Poskytnutí techniky a výrobních nástrojů (technická a IT podpora, doprava, zapůjčení nástrojů,
+           ochranné pomůcky, zajištění technických, úklidových a dalších služeb apod.),
+         - Poskytnutí prostor (budovy, konferenční a jednací místnosti, haly, sportoviště, provozy,
+           prostranství ve správě obchodních společností apod.),
+         - Poskytnutí lidských kapacit na realizaci projektu formou vyčlenění lidí z běžného provozu
+           (v rámci náplně práce) nebo na bázi firemního dobrovolnictví,
+         - Poskytnutí médií a mediálního prostoru (využití reklamních ploch, webových stránek, sociálních
+           sítí, informačních stánků a dalších nástrojů v rámci komunikační kampaně).
+      Řízené osoby podporují CSR projekty realizované řízenou osobou nebo svoje vlastní CSR projekty.
+      Koordinovanou podporou CSR projektů řízené osoby budou využity synergické efekty a zdroje řízených
+      osob, bude dosažena výrazná úspora nákladů a maximalizace výsledku projektu. V rámci PR CSR
+      projektu budou uváděny řízené osoby, které se budou podpoře na projektu podílet.
+      CSR projekty řízené osoby jsou zpravidla zaměřeny na oblasti odpovídající předmětu činnosti nebo
+      podnikání řízené osoby. Řízené osoby se pravidelně informují o svých podporovaných CSR projektech
+      za účelem využití společných synergických efektů.
+
+                                       Realizace politiky řízenými osobami
+      Na politice společenské odpovědnosti (CSR) se podílí všechny řízené osoby, a to všeobecnou podporou
+      CSR projektů členů Koncernu.
+
+
+
+
+Vlastnická politika Koncernu SMB                                                                       19
+
+                                                                                                         Strana 23 / 37
+       KONCERN SMB
+
+      12. POLITIKA UDRŽITELNÉHO A ENVIRONMENTÁLNĚ UDRŽITELNÉHO ROZVOJE
+      Politika udržitelného a environmentálně udržitelného rozvoje si klade za cíl efektivně využívat
+      synergické vazby jednotlivých členů Koncernu za účelem jejich vzájemné spolupráce ohledně podpory
+      a integrace ekonomických, sociálních a ekonomických cílů s cílem vytvoření jednotného prostředí,
+      umožňujícího sociálně žádoucí rozvoj SMB, za podmínek ekonomické životaschopnosti a ekologické
+      udržitelnosti. Cílem politiky udržitelného rozvoje a environmentálně udržitelného rozvoje je dále
+      dlouhodobá podpora a vývoj ekologického a efektivního rozvoje kompetencí potřebných pro
+      environmentálně odpovědné jednání příslušných osob, zlepšování kvality životního prostředí jako
+      celku i jeho konkrétních složek, podpora ekologicky udržitelné suburbanizace a příprava jednotné
+      strategie k dodržování prevence znečištění a/nebo narušení životního prostředí a k podpoře výzkumu
+      či technologického vývoje k tomu směřujícímu.
+
+                                                  Metody politiky
+      Řízené osoby při své činnosti vždy usilují o udržitelný a environmentálně udržitelný rozvoj SMB.
+      Řízené osoby při své činnosti (zejména v rámci plánování modernizace podnikatelské činnosti, inovací
+      a realizace investičních záměrů) zohledňují myšlenky, cíle a aktuální trendy komplexní meziodvětvové
+      unijní právní regulace v oblasti ochrany klimatu, životního prostředí a udržitelnosti, a to mj. za účelem
+      podpory technologického vývoje, přechodu na oběhové hospodářství a omezování emisí skleníkových
+      plynů a jiných negativních dopadů činnosti řízených osob na životní prostředí.
+      V rámci snahy o udržitelný a environmentálně odpovědný rozvoj SMB řízené osoby berou v úvahu
+      nejen vytyčené cíle v oblasti udržitelnosti, ale hodnotí též místní poměry a ekonomickou stránku
+      realizace zamýšlených investic. V případě realizace konkrétního projektu tedy řízené osoby mohou
+      zvolit i finančně nákladnější variantu, která lépe přispívá k plnění cílů v oblasti udržitelnosti. Takto
+      zvolená varianta však nesmí být ekonomicky iracionální (v krajním případě až ohrožující finanční
+      stabilitu řízené osoby) v porovnání s jejími potenciálními přínosy. Snaha o udržitelný rozvoj tak spojuje
+      environmentální cíle s odpovědným hospodařením.
+      Politika udržitelného a environmentálně udržitelného rozvoje je aplikována např. při průběžné obnově
+      vozového parku řízených osob. Při nákupu konkrétního vozu řízené osoby přihlédnou zejména k účelu,
+      ke kterému mají být nakupované vozy využívány, jejich předpokládanému nájezdu apod.
+
+                                       Realizace politiky řízenými osobami
+      Na politice udržitelného a environmentálně udržitelného rozvoje se podílí všechny řízené osoby, a to
+      především environmentálně šetrným prováděním své podnikatelské činnosti.
+
+      13. POLITIKA VYUŽÍVÁNÍ SUROVINOVÝCH ZDROJŮ A ENERGETICKÉ BEZPEČNOSTI
+      Cílem politiky využívání surovinových zdrojů a energetické bezpečnosti je zajištění přístupu
+      k dostatečnému množství surovin a energie, za podmínky diverzifikace zdrojů, zdrojových teritorií
+      a přepravních cest a zajištění kapacitně dostatečné, efektivní, spolehlivé technické a energetické
+      infrastruktury včetně kvalifikované obsluhy a zásob strategických komodit s cílem eliminovat krizové
+      stavy a zajistit potřeby občanů SMB. Cílem politiky je dále podpora a rozvoj investičních projektů
+      jednotlivých členů Koncernu zaměřených na naplňování vytyčených cílů v oblasti energetiky
+      a spolupráce jednotlivých členů Koncernu na posílení maximální soběstačnosti v dodávkách vstupních
+      komodit, tj. na přednostním využívání vlastních zdrojů za využití synergických vazeb členů Koncernu
+
+
+Vlastnická politika Koncernu SMB                                                                         20
+
+                                                                                                           Strana 24 / 37
+       KONCERN SMB
+
+      a jejich rozvoji, omezení emisí, dekarbonizaci, posunu SMB a řízených osob směrem k nízkouhlíkovému
+      hospodářství, podpoře výzkumu v oblasti nízkouhlíkových technologií a zajištění
+      konkurenceschopnosti na poli s energetikou.
+
+                                                   Metody politiky
+      Řízené osoby usilují o diverzifikaci zdrojů energie a posílení energetické bezpečnosti a soběstačnosti
+      SMB.
+      Řízené osoby, které působí v energetickém sektoru, usilují o zajištění výroby a distribuce dostatečného
+      množství energie pro potřeby občanů SMB a ostatních řízených osob. Řízené osoby primárně odebírají
+      energie nezbytné pro realizaci vlastní činnosti od ostatních řízených osob, které disponují zařízeními
+      na výrobu energie. Řízené osoby současně rozvíjí vzájemnou spolupráci za účelem dosažení maximální
+      možné míry soběstačnosti v dodávkách energií.
+      Řízené osoby plní klíčovou roli při zajišťování spolehlivosti a stability dodávek elektrické energie. V této
+      souvislosti řízené osoby realizují vhodná opatření předcházejících riziku výpadku (blackoutu) tak, aby
+      byly minimalizovány jeho případné negativní dopady na občany SMB, řízené osoby i samotné SMB.
+      Řízené osoby dále usilují o rozvoj ostrovního provozu (např. využitím menších lokálních zdrojů energie),
+      který umožňuje zvýšení flexibility a odolnosti energetického systému a zabezpečení kontinuity dodávky
+      elektřiny v kritických lokalitách, jakož i o implementaci tzv. startů ze tmy, které umožní rychlé obnovení
+      dodávek energie po výpadku.
+      Součástí politiky využívání surovinových zdrojů a energetické bezpečnosti je také snaha řízených osob
+      o zlepšení energetické účinnosti se zohledněním principu „energetická účinnost v první řadě“. Řízené
+      osoby tedy před vybudováním nových zdrojů nejprve zkoumají a provádějí vhodná opatření vedoucí
+      ke snížení spotřeby energie. Pozitivním důsledkem zvyšování energetické účinnosti činností řízených
+      osob a energetických úspor je snižování vyžívání primárních zdrojů.
+
+                                        Realizace politiky řízenými osobami
+      Na politice využívání surovinových zdrojů a energetické bezpečnosti se podílí všechny řízené osoby, a
+      to implementací metod této politiky.
+
+      14. POLITIKA VZTAHŮ S VEŘEJNOSTÍ (PR) A PROPAGACE
+      Cílem politiky vztahů s veřejností (PR) a propagace je koordinovaný a případně společný způsob
+      komunikace, prezentace členů Koncernu i Koncernu jako celku, spolupráce v oblasti propagace
+      řízených osob a výkonu jejich funkce a prezentace přínosů koncernového uspořádání pro SMB i jeho
+      obyvatele. Politika vztahů s veřejností bude dále zaměřena i na budování a rozšiřování povědomí
+      o činnosti, cílech Koncernu a posilování důvěry v jeho aparát a loajality mezi jednotlivými členy
+      Koncernu a subjekty mimo něj.
+
+                                                   Metody politiky
+      Politika vztahů s veřejností (PR) a propagace je realizována jak uvnitř Koncernu, tak i navenek vůči
+      veřejnost. Politika se realizuje především prostřednictvím tištěných a on-line médií, tiskových zpráv,
+      reklamních ploch, firemních, sportovních a kulturních akcí apod.
+
+
+
+
+Vlastnická politika Koncernu SMB                                                                            21
+
+                                                                                                              Strana 25 / 37
+       KONCERN SMB
+
+      Cílem vnější komunikace je prezentace Koncernu a řízených osob a jejich funkcí v rámci Koncernu, jakož
+      i SMB jako celku. Politika představuje nástroj podpory pro realizované projekty a jejich přínosy tak, aby
+      se jim dostalo celospolečenské podpory od veřejnosti.
+      Politika vnitřní komunikace bude zaměřena dovnitř řízených osob za účelem budování povědomí
+      o příslušnosti ke Koncernu a posilování loajality a sounáležitosti všech osob vykonávajících jakoukoliv
+      činnost v rámci Koncernu.
+      Koordinací a spoluprací mezi členy Koncernu bude zajištěno, aby nebyla vydávána protichůdná nebo
+      nepravdivá stanoviska, zajistila se vysoká úroveň poskytovaných materiálů a informací a tím docházelo
+      ke snižování nákladů na PR a propagaci.
+      Řízené osoby vizuálně sjednocují svoje marketingové výstupy s jednotným vizuálním stylem města
+      Brna podle Zásad sjednocení jednotného vizuálního stylu, které schválí Koncernový výbor.
+
+                                       Realizace politiky řízenými osobami
+      Na politice vztahů s veřejností (PR) a propagace se podílí všechny řízené osoby Koncernu, a to
+      implementací metod politiky.
+
+      15. POLITIKA SDÍLENÝCH SLUŽEB A ORGANIZAČNÍCH ÚTVARŮ
+      Cílem politiky sdílených služeb a organizačních útvarů je podpořit využívání synergií prostřednictvím
+      zásahů do organizace členů Koncernu tak, aby byly odstraněny duplicity, využity synergie a zvýšena
+      efektivita řízení.
+
+                                                  Metody politiky
+      Cílem politiky je vzájemná podpora a koordinace synergických efektů spolupráce řízených osob.
+      Naplňování cílů politiky sdílených služeb a organizačních útvarů zpravidla zajišťuje a na její realizaci
+      dohlíží Koncernový výbor, který v rámci Koncernu detekuje duplicity. Nevhodné duplicity mohou být
+      odstraňovány spojením agend, změnami v organizační struktuře řízených osob nebo outsourcingem
+      služeb.
+      Řízené osoby sdílí s ostatními členy Koncernu služby zejména z oblasti své hlavní činnosti. Sdílením
+      služeb dochází k plnému využití komparativních výhod řízených osob, kdy každá řízená osoba provádí
+      svou hlavní činnost pro ostatní členy Koncernu zpravidla za vnitro-koncernovou cenu za podmínky, že
+      takový postup je pro Koncern jako celek ekonomicky výhodný; vnitro-koncernové ceny včetně
+      metodiky vzájemného vyúčtování poskytnutých služeb členy Koncernu mohou být nastaveny řídící
+      osobou na základě analýzy jejich vhodnosti.
+      Politika sdílených služeb je aplikována i při realizaci CSR a jiných projektů, kdy je podporováno, aby se
+      každá řízená osoba podílela na projektu v oblasti, která se nejvíce blíží předmětu její hlavní činnosti.
+
+                                       Realizace politiky řízenými osobami
+      Na politice sdílených služeb a organizačních útvarů se podílí veškeré řízené osoby Koncernu, a to
+      zejména využíváním synergických vazeb.
+
+
+
+
+Vlastnická politika Koncernu SMB                                                                         22
+
+                                                                                                           Strana 26 / 37
+       KONCERN SMB
+
+      16. ETICKÝ KODEX
+      Řízené osoby vydávají etický kodex, který vymezuje zásady etického chování a jednání zaměstnanců
+      řízených osob. Jedná se o základní vnitřní předpis každé řízené osoby vztahující se k vystupování jejích
+      zaměstnanců, a to především vůči veřejnosti. Jeho hlavním účelem je stanovit jasné etické standardy
+      a poskytnout vodítko pro správné jednání v různých situacích. Z hlediska obsahu etického kodexu jsou
+      pro všechny řízené osoby společné následující zásady:
+      Všeobecná pravidla
+      Řízené osoby se předně zavazují vykonávat podnikatelskou činnost s vysokým morálním a etickým
+      standardem. Jsou otevřené vůči všem subjektům, na které má jejich podnikání dopad. Řízené osoby
+      efektivně komunikují s třetími stranami a včas odpovídají na jejich dotazy nebo požadavky.
+      Vystupuje-li kdokoliv v situaci, v níž může být ze strany třetí osoby důvodně pokládán za zástupce
+      řízené osoby, měl by vyjadřovat a obhajovat stanovisko řízené osoby, a nikoliv své vlastní postoje
+      a/nebo zájmy. Ve vztahu k zákazníkům si zaměstnanci řízených osob udržují profesionální přístup,
+      chovají se k nim vždy s úctou, zdvořile, jakož i s náležitou péčí a pochopením k jejich přáním a/nebo
+      potřebám.
+      Řízené osoby včas zavádí a implementují vhodná strategická, organizační, technická či jiná nezbytná
+      opatření, která jsou způsobilá zajistit splnění požadavků vyplývajících z platných právních předpisů
+      a závazných norem.
+      Vztah k poskytovaným službám
+      Řízené osoby vyvíjí veškeré úsilí k řádnému a efektivnímu zabezpečení služeb, které poskytují pro nebo
+      za řídící osobu, jakož i k plnění svěřených úkolů. Řízené osoby při poskytování služeb v maximálně
+      možné rozsahu zohledňují zájem veřejně prospěšný.
+      Při výkonu podnikatelské činnosti patří mezi prvořadé cíle spokojenost zákazníků. Řízené osoby vždy
+      jednají tak, aby se na ně jejich zákazníci vždy znovu rádi obraceli. Řízené osoby vždy usilují o splnění
+      přání a uspokojení požadavků zákazníků v plném rozsahu, a je-li to v daném případě objektivně možné,
+      usilují o překonání očekávání svých zákazníků. V oblasti jejich podnikatelské činnosti řízené osoby
+      deklarují, že budou průběžně realizovat taková vhodná opatření, která přispívají ke zvýšení kvality
+      poskytovaných služeb a udržitelnosti vykonávané činnosti.
+      Vztah k obchodním partnerům
+      Řízené osoby navazují s obchodními partnery férové, transparentní a dlouhodobé vztahy, založené na
+      vzájemné důvěře a respektu. V každém případě jednají s nejvyšší mírou integrity a poctivosti, přičemž
+      se vyvarují jakýchkoli forem korupce, úplatkářství nebo nekalé soutěže.
+      V procesu výběru obchodních partnerů řízené osoby vždy uplatňují objektivní a nediskriminační kritéria
+      zajišťující rovné příležitosti a rozhodnutí o výběru obchodního partnera činí transparentně na podkladě
+      posouzení jejich důvěryhodnosti. Dbají na dodržování všech smluvních závazků a s partnery komunikují
+      otevřeně a včas, poskytují jim relevantní informace a reagují na jejich dotazy a požadavky s náležitou
+      péčí.
+      Řízené osoby podporují obchodní partnery v dodržování obdobných etických a morálních standardů,
+      které samy uplatňují. Usilují o společný růst a inovace, které přinášejí oboustranný prospěch a přispívají
+      k udržitelnému rozvoji. Konflikty nebo spory s obchodními partnery řeší řízené osoby konstruktivně
+      a smírně, s cílem nalézt spravedlivé a vzájemně přijatelné řešení.
+
+
+Vlastnická politika Koncernu SMB                                                                          23
+
+                                                                                                            Strana 27 / 37
+       KONCERN SMB
+
+      Péče o životní prostředí
+      Řízené osoby průběžně měří, posuzují a vyhodnocují dopady vykonávané činnosti na životní prostředí
+      a v zájmu udržitelnosti se snaží zjištěné negativní dopady minimalizovat. Řízené osoby kladou důraz na
+      realizaci opatření k vyloučení nebo alespoň omezení znečišťovaní životního prostředí, a to v rámci
+      běžného provozu i při přípravě a realizaci nových projektů, a proto dbají zejména na rozvoj
+      preventivních opatření a již ve fázi přípravy investičních záměrů zohledňují environmentální hledisko
+      využívaných technologií.
+      Řízené osoby nepomíjejí ani bezpečnostní hledisko a vytvářejí bezpečné a zdraví neohrožující pracovní
+      prostředí a usilují o jeho průběžné zlepšování.
+      Vztah k zaměstnancům
+      Řízené osoby poskytují rovné příležitosti všem lidem bez ohledu na jejich rasu, barvu pleti, pohlaví,
+      národnost, náboženství, víru, etnický původ nebo jiné odlišující charakteristiky. Řízené osoby usilují
+      o průběžné zlepšování schopností a dovedností svých zaměstnanců. Aktivně vyhledávají, umožňují
+      a zprostředkovávají zaměstnancům účast na školeních a vzděláváních programech, které podporují
+      jejich aktuální pracovní zaměření a předpokládaný pracovní rozvoj.
+      Řízeným osobám záleží na dobrých mezilidských vztazích mezi zaměstnanci. Usilují proto o udržování
+      dobré pracovní atmosféry a korektní vztahy mezi svými zaměstnanci horizontálně (mezi zaměstnanci
+      stejné úrovně pracovního zařazení) i vertikálně (mezi nadřízenými a podřízenými zaměstnanci).
+
+      III. ZVLÁŠTNÍ ČÁST – Profily řízených osob
+      Tato část Vlastnické politiky obsahuje bližší informace o jednotlivých řízených osobách, a to včetně
+      přehledu politik, na nichž se daná řízená osoba primárně podílí. Informace zde uvedené jsou aktuální
+      ke dni schválení Vlastnické politiky a vycházejí ze stanov řízených osob, koncernových pokynů,
+      uzavřených smluv a dalších dokumentů. Pokud dojde ke změně stanov, koncernových pokynů, smluv
+      či dalších dokumentů (případně k jejich ukončení), která ovlivní rozsah činností řízených osob, projeví
+      se tato změna až při nejbližší novelizaci Vlastnické politiky (těmto změnám tedy nepředchází schválení
+      změny Vlastnické politiky). Odpovídající úpravy se provedou v kapitole „Zvláštní část – Profily řízených
+      osob“ Vlastnické politiky.
+
+      1.    ARENA BRNO, a.s.
+      ARENA se v Koncernu aktivně podílí především na realizaci následujících specifických politik:
+           - Majetková politika;
+           - Politika společenské odpovědnosti (CSR);
+           - Politika vztahů s veřejností (PR) a propagace.
+      ARENA je účelově založená společnost zvláštního určení, jejímž hlavním posláním je zajištění výstavby,
+      provozování a údržby (správy) moderní multifunkční haly umožňující konání významných tuzemských
+      a zahraničních kulturních či sportovních akcí (vč. přípravy, koordinace a podpory věcně souvisejících
+      činností). Po uvedení multifunkční haly do provozu bude ARENA poskytovat příležitost pro kulturní,
+      sportovní a společenské vyžití, jakož i usilovat o průběžné zvyšování standardu poskytovaných služeb
+      a rozšiřování jejich portfolia.
+      Cíle ve vztahu k řídící osobě Koncernu:
+           - dokončení výstavby multifunkční haly a její následné provozování a údržba;
+
+
+Vlastnická politika Koncernu SMB                                                                        24
+
+                                                                                                          Strana 28 / 37
+       KONCERN SMB
+
+           - zvyšování standardu poskytovaných služeb a rozšiřování jejich portfolia;
+           - optimalizace hospodaření (dosažení kladeného výsledku EBITDA);
+           - využívání a rozvoj moderních technologií měření a regulace pro dosažení energetických úspor
+             (vč. postupné obměny energeticky náročných technologií).
+
+      2.    Brněnské komunikace a.s.
+      BKOM se v Koncernu aktivně podílí především na realizaci následujících specifických politik:
+           - Investiční politika;
+           - Majetková politika;
+           - Politika společenské odpovědnosti (CSR);
+           - Politika udržitelného a environmentálně udržitelného rozvoje;
+           - Politika využívání surovinových zdrojů a energetické bezpečnosti;
+           - Politika sdílených služeb a organizačních útvarů.
+      Hlavním posláním BKOM v rámci Koncernu je průběžné zajišťování správy, údržby a rozvoje dopravní
+      infrastruktury a souvisejících služeb na území SMB. Konkrétně se jedná o poměrně široké spektrum
+      činností zahrnující mj. údržbu a opravu komunikací, správu komunikací, dopravních staveb, světelné
+      signalizace a dopravního značení, centrální řízení dopravy, stavební činnost v dopravě, inženýrskou
+      činnost (vč. projektování a majetkoprávní přípravy), pronájem nemovitého majetku apod.
+      BKOM současně koordinuje svou činnost s DPMB a Teplárny Brno v souvislosti s realizací dopravních
+      a infrastrukturních projektů, přičemž řízeným osobám poskytuje mimo jiné služby správce stavby.
+      Cíle ve vztahu k řídící osobě Koncernu:
+           - zvyšování kvality života občanů prostřednictvím správy, opravy a údržby dopravní infrastruktury
+             SMB a podpory zelené infrastruktury;
+           - rozvoj cyklostezek, modernizace veřejného osvětlení a rozšiřování pěších zón;
+           - realizace dopravních a infrastrukturních projektů;
+           - rozvoj nízkoemisní a bezemisní dopravy;
+           - využívání úsporných technologií a realizace vhodných opatření ke zvýšení energetické účinnosti
+             a bezpečnosti.
+
+      3.    Dopravní podnik města Brna, a.s.
+      DPMB se v Koncernu aktivně podílí především na realizaci následujících specifických politik:
+           - Investiční politika;
+           - Personální politika;
+           - Politika controllingu a reportingu;
+           - Majetková politika;
+           - Politika v oblasti nákupu a prodeje
+           - Politika společenské odpovědnosti (CSR);
+           - Politika udržitelného a environmentálně udržitelného rozvoje;
+           - Politika využívání surovinových zdrojů a energetické bezpečnosti;
+
+
+
+Vlastnická politika Koncernu SMB                                                                      25
+
+                                                                                                        Strana 29 / 37
+       KONCERN SMB
+
+           - Politika sdílených služeb a organizačních útvarů.
+      Hlavním posláním DPMB je zajišťování bezpečné, spolehlivé a dostupné veřejné hromadné dopravy
+      pro obyvatele a návštěvníky města Brna a jeho okolí, jakož i udržování a zvyšování zájmu o využívání
+      městské hromadné dopravy jako preferovaného způsobu cestování. Za tímto účelem DPMB neustále
+      rozšiřuje a modernizuje vozový park a dopravní infrastrukturu, aby se přizpůsobil rostoucím potřebám
+      města. Kromě pravidelných autobusových, tramvajových a trolejbusových linek DPMB provozuje také
+      např. lodní dopravu na Brněnské přehradě a udržuje sbírku historických vozidel.
+      Preferencí ekologických paliv při zachování diverzifikace zdrojů energie DPMB přispívá k postupnému
+      snižování emisí skleníkových plynů s cílem dosažení maximálně nízkoemisní, resp. bezemisní, městské
+      hromadné dopravy. DPMB současně spolupracuje s BKOM a Teplárny Brno v souvislosti s realizací
+      dopravních a infrastrukturních projektů a koordinuje s nimi svou činnost.
+      Cíle ve vztahu k řídící osobě Koncernu:
+           - zajišťování bezpečné, spolehlivé a dostupné městské hromadné dopravy, vč. zabezpečení
+             přepravních výkonů v požadovaném rozsahu při poskytnutí přiměřené kompenzace pokrývající
+             provozní ztrátu a přiměřený zisk;
+           - modernizace vozového parku a dopravní infrastruktury;
+           - rozvoj nízkoemisní a bezemisní dopravy;
+           - minimalizace negativních dopadů vykonávané činnosti na životní prostředí;
+           - využívání úsporných technologií a realizace vhodných opatření ke zvýšení energetické účinnosti
+             a bezpečnosti.
+
+      4.    Lesy města Brna, a.s.
+      LMB se v Koncernu aktivně podílí především na realizaci následujících specifických politik:
+           - Politika společenské odpovědnosti (CSR);
+           - Politika udržitelného a environmentálně udržitelného rozvoje.
+      Hlavním posláním LMB je zajišťovat komplexní správu lesního majetku, která zahrnuje jak hospodářské,
+      tak environmentální a společenské aspekty. To zahrnuje mj. odbornou správu městských lesů a rozvoj
+      lesního majetku udržitelným způsobem pro jeho zachování budoucím generacím, jakož i vzdělávání
+      dětí i dospělých o lesním prostředí a jeho významu pro ochranu životního prostředí.
+      Cíle ve vztahu k řídící osobě Koncernu:
+           - údržba a zlepšování stavu městských lesů za účelem zajištění zdravého a prosperujícího lesního
+             ekosystému na území SMB;
+           - ekonomicky udržitelné hospodaření s městskými lesy při zachování jejich ekologické a rekreační
+             funkce;
+           - rozvoj rekreačního potenciálu brněnských městských lesů (budování naučných stezek, dětských
+             hřišť, altánů apod.) a souvisejících služeb;
+           - podpora vzdělávání o významu lesního prostředí pro ochranu životního prostředí;
+           - využívání úsporných technologií a realizace vhodných opatření ke zvýšení energetické účinnosti
+             a bezpečnosti.
+
+
+
+
+Vlastnická politika Koncernu SMB                                                                     26
+
+                                                                                                       Strana 30 / 37
+       KONCERN SMB
+
+      5.    Pohřební a hřbitovní služby města Brna, a.s.
+      PHSMB se v Koncernu aktivně podílí především na realizaci následujících specifických politik:
+           - Politika společenské odpovědnosti (CSR).
+      Hlavním posláním PHSMB je zajišťování komplexních důstojných pietních služeb souvisejících s úmrtím
+      a pohřbíváním zejm. pro obyvatele SMB a jeho blízkého okolí. Jedná se široké spektrum služeb, které
+      zahrnují zajišťování péče o zemřelé, provozování pohřební služby a krematoria, provozování a správě
+      veřejných pohřebišť (hřbitovů) na území SMB, udržování pietních míst v souladu s platnými právními
+      předpisy a pietními a etickými zásadami, jakož i poskytování veřejné služby pozůstalým v citlivé životní
+      situaci.
+      Cíle ve vztahu k řídící osobě Koncernu:
+           - zajišťování dostupného přístupu k pohřebním a hřbitovním službám;
+           - přispívání k zachování historické a kulturní hodnoty hřbitovů a pietních míst;
+           - zkvalitňování a rozšiřování portfolia poskytovaných pietních služeb;
+           - efektivní využívání svěřených prostředků ke splnění požadavků SMB jako řídící osoby.
+
+      6.    Realitní společnost města Brna a.s.
+      RSMB se v Koncernu aktivně podílí především na realizaci následujících specifických politik:
+           - Politika v oblasti nákupu a prodeje;
+           - Majetková politika;
+           - Politika společenské odpovědnosti (CSR);
+           - Politika sdílených služeb a organizačních útvarů.
+      Hlavním posláním RSMB je správa a efektivní hospodaření s městským majetkem, optimalizace jeho
+      využití a podpora rozvoje města v oblasti bydlení. Za tímto účelem RSMB zejm. zprostředkovává prodej
+      nepotřebného městského majetku prostřednictvím elektronických dražeb, podílí se na správě
+      městského majetku, jeho pasportizaci, zajišťování pronájmu nebytových prostor (vč. parkovacích míst),
+      jakož i na přípravě a realizaci projektů zaměřených na zajištění dostupného bydlení pro obyvatele SMB
+      (např. rozšířením městského bytového fondu o družstevní bytové domy).
+      Cíle ve vztahu k řídící osobě Koncernu:
+           - zhodnocování a zpeněžování zbytného městského majetku, efektivní správa portfolia;
+           - péče o pronajímané nemovitosti a jejich údržba za účelem udržení a zvýšení jejich hodnoty;
+           - podpora rozvoje dostupného bydlení pro obyvatele SMB a řešení bytové krize;
+           - poskytování poradenských služeb v realitní oblasti.
+
+      7.    SAKO Brno, a.s.
+      SAKO se v Koncernu aktivně podílí především na realizaci následujících specifických politik:
+           - Investiční politika;
+           - Finanční politika;
+           - Majetková politika;
+           - Politika společenské odpovědnosti (CSR);
+
+
+
+Vlastnická politika Koncernu SMB                                                                        27
+
+                                                                                                          Strana 31 / 37
+       KONCERN SMB
+
+           - Politika udržitelného a environmentálně udržitelného rozvoje;
+           - Politika využívání surovinových zdrojů a energetické bezpečnosti;
+           - Politika sdílených služeb a organizačních útvarů.
+      Hlavním posláním SAKO je poskytování komplexních, spolehlivých a dlouhodobě udržitelných služeb
+      v oblasti odpadového hospodářství pro SMB, právnické osoby (zejm. obchodní společnosti) a obyvatele
+      SMB zahrnující mj. svoz a sběr odpadu (vč. provozování sběrných středisek), využívání odpadu
+      v souladu s hierarchií nakládání s odpady (podpora třídění s cílem maximalizovat recyklaci
+      a materiálové využití jednotlivých složek odpadu). SAKO tedy usiluje o moderní a ekologicky
+      odpovědný systém nakládání s odpady.
+      SAKO je rovněž vlastníkem a provozovatelem zařízení na energetické využívání odpadů, kterým vyrábí
+      tepelnou a elektrickou energii, čímž snižuje objem skládkovaného odpadu a zároveň produkuje energii,
+      což SAKO umožňuje dodávat teplo do SZTE v rámci Koncernu. Předmětné zařízení je současně záložním
+      zdrojem energie SMB, které zajišťuje energetickou bezpečnost pro případ výpadků dodávek fosilních
+      paliv. SAKO při energetickém využívání odpadu dbá, aby se výsledky ze spalování s co nejvyšší přidanou
+      hodnotou v maximálním možné rozsahu využívaly ve formě certifikace produktů (např. škváry).
+      SAKO současně podle koncernových pokynů udělených řídící osobou zajišťuje prostřednictvím dceřiné
+      společnosti SBS realizaci projektu „Realizace fotovoltaických systémů na území a v rámci statutárního
+      města Brna“ spočívajícího v instalaci FVE na střechy budov ve vlastnictví členů Koncernu o celkovém
+      instalovaném výkonu ve výši cca 12 MWp (Projekt FVE) a za tímto účelem mj. sdílí s SBS svou personální
+      kapacitu.
+      Cíle ve vztahu k řídící osobě Koncernu:
+           - podpora a rozvoj systémů pro třídění a recyklaci odpadu za účelem maximalizace materiálového
+             využití odpadních surovin, certifikace produktů, a snížení spotřeby primárních zdrojů;
+           - svoz odpadu z území SMB a bezprostředního okolí;
+           - výroba tepla pro potřeby SZTE;
+           - minimalizace negativních dopadů vykonávané činnosti na životní prostředí;
+           - usilování o co nejvyšší dekarbonizaci, maximální snížení emisí znečišťujících látek a celkovou
+             minimalizaci negativních dopadů vykonávané činnosti na životní prostředí;
+           - využívání úsporných technologií a realizace vhodných opatření ke zvýšení energetické účinnosti
+             a bezpečnosti;
+           - osvětová činnosti pro obyvatele SMB v oblasti správného třídění a nakládání s odpady.
+
+      8.    STAREZ – SPORT, a.s.
+      STAREZ se v Koncernu aktivně podílí především na realizaci následujících specifických politik:
+           - Investiční politika;
+           - Majetková politika;
+           - Politika společenské odpovědnosti (CSR);
+           - Politika vztahů s veřejností (PR) a propagace.
+      Hlavním posláním STAREZ je správa a provozování sportovních a rekreačních zařízení ve vlastnictví SMB
+      s cílem poskytovat a sportovním klubům kvalitní zázemí, zajisti, že brněnská sportovní infrastruktura
+
+
+
+Vlastnická politika Koncernu SMB                                                                       28
+
+                                                                                                        Strana 32 / 37
+       KONCERN SMB
+
+      bude odpovídat standardům pro pořádání významných sportovních akcí a umožnit široké veřejnosti
+      přístup k široké škále sportovních, rekreačních a volnočasových aktivity a tím přispívat k jejich zdraví
+      a kvalitě života. STAREZ se rovněž podílí na pořádání sportovních událostí, turnajů, soutěží (zejm. pro
+      děti a mládež). Spolu se správou a provozováním sportovních zařízení STAREZ poskytuje též související
+      a přidružené služeb, ve kterých cenově zvýhodňuje děti, seniory, rodiny a těžce zdravotně postižené
+      osoby.
+      Cíle ve vztahu k řídící osobě Koncernu:
+           - podpora sportu a aktivního životního stylu;
+           - rozvoj sportovních a rekreačních zařízení;
+           - rozvoj spolupráce na investičních projektech ve sportovní a sportovně rekreační oblasti;
+           - zvyšování standardu poskytovaných služeb a rozšiřování jejich portfolia;
+           - využívání a rozvoj moderních technologií měření a regulace pro dosažení energetických úspor
+             (vč. postupné obměny energeticky náročných technologií).
+
+      9.    Technické sítě Brno, akciová společnost
+      TSB se v Koncernu aktivně podílí především na realizaci následujících specifických politik:
+           - Investiční politika;
+           - Bezpečnostní politika;
+           - Majetková politika;
+           - IT politika;
+           - Politika společenské odpovědnosti (CSR);
+           - Politika udržitelného a environmentálně udržitelného rozvoje;
+           - Politika využívání surovinových zdrojů a energetické bezpečnosti;
+           - Politika vztahů s veřejností (PR) a propagace;
+           - Politika sdílených služeb a organizačních útvarů.
+      Hlavním posláním TSB je zajišťování správy, údržby provozování a průběžné modernizace veřejného
+      osvětlení a telekomunikační infrastruktury v SMB a jeho okolí, a dále zasíťování města optickými
+      kabely, provoz a rozvoj ICT infrastruktury vč. datového centra a kyberbezpečnosti pro členy Koncernu,
+      příspěvkové organizace a další subjekty na základě uzavřených smluv. V oblasti kybernetické
+      bezpečnosti jde zejména o analytické a konzultační práce, implementaci a provoz bezpečnostních
+      nástrojů. Podílí se na přípravě výkonu dohledu v souladu s požadavky SMB. Jednotnou ICT
+      infrastrukturu a služby Koncernu spravují a poskytují TSB formou poskytování služeb datového centra,
+      virtualizovaných služeb, konektivity a správy ICT.
+
+
+      TSB se stará o bezpečný a svižný chod datových sítí města Brna, jakož i o bezpečí, dostupnost a rychlý
+      přenos dat mezi strategickými brněnskými institucemi a organizacemi, a provozuje, spravuje a pomáhá
+      budovat metropolitní síť Brno – vysokorychlostní komunikační infrastrukturu města.
+      TSB dále spravuje a provozuje pro své potřeby geografický informační systém (GIS), ve kterém jsou
+      vedeny informace o stavu veřejného osvětlení, kolektorové sítě, reklamních zařízení.
+
+
+
+
+Vlastnická politika Koncernu SMB                                                                        29
+
+                                                                                                          Strana 33 / 37
+       KONCERN SMB
+
+      TSB provozuje platformu Brno iD pro nákup jízdenek DPMB a rezervaci a nákup vstupenek na
+      společenské akce a zabezpečuje konektivitu provozem Brno public WIFI.
+      TSB jsou též součástí systému krizového řízení Jihomoravského kraje, ve kterém garantují přednostní
+      zásobování technologií záložního napájení datacenter a snižují tak riziko nedostupnosti služeb
+      v případě mimořádných událostí.
+      Cíle ve vztahu k řídící osobě Koncernu:
+         - modernizace veřejného osvětlení (využívání úsporných svítidel a inteligentních řídicích systémů)
+           a datových a kolektorových sítí na území SMB;
+         - poskytování služeb kybernetické bezpečnosti jednotlivým členům Koncernu, vč. spolupráce
+           s ostatními členy Koncernu na přístupu ke kybernetické bezpečnosti v souladu s pravidly
+           stanovenými řídící osobou.
+         - rozvoj elektromobility, projektu SMART City (chytré energetické sítě s využitím obnovitelných
+           zdrojů) a dalších projektech usilující o trvalou udržitelnost;
+         - využívání úsporných technologií a realizace vhodných opatření ke zvýšení energetické účinnosti
+           a bezpečnosti;
+         - pronájem reklamních ploch na stožárech veřejného osvětlení, výduších z kolektorů a reklamních
+           rondelech.
+
+      10. Teplárny Brno, a.s.
+      Teplárny Brno se v Koncernu aktivně podílí především na realizaci následujících specifických politik:
+         - Investiční politika;
+         - Finanční politika;
+         - Majetková politika;
+         - Politika společenské odpovědnosti;
+         - Politika udržitelného a environmentálně udržitelného rozvoje;
+         - Politika využívání surovinových zdrojů a energetické bezpečnosti;
+         - Politika vztahů s veřejností (PR) a propagace;
+         - Politika sdílených služeb a organizačních útvarů.
+
+      Teplárny Brno jsou vlastníkem a provozovatelem soustavy zásobování tepelnou energií včetně zdrojů
+      energie na území SMB.
+      Hlavním posláním Teplárny Brno je výroba, distribuce a prodej tepelné energie a výroba a prodej
+      elektrické energie, čímž mají být zajištěny komplexní a spolehlivé dodávky tepla a elektřiny zákazníkům
+      za co nejnižší cenu s cílem zkvalitnění jejich života. Teplárny Brno svými projekty významným způsobem
+      přispívají k dekarbonizaci nejen brněnského regionu, ale celého Jihomoravského kraje, a napomáhají
+      tak plnit cíle stanovené České republice – jedná se především o biomasový zdroj na dřevní štěpku
+      a horkovodní napáječ z elektrárny Dukovany do Brna nebo o fotovoltaické elektrárny. Teplárny Brno
+      certifikují popel z biomasy jako hnojivo za účelem jeho dalšího prodeje.
+      Teplárny Brno rovněž ve spolupráci s TSB nezanedbatelným způsobem přispívají rozvoji
+      elektromobility na území SMB výstavbou a provozováním sítě dobíjecích stanic.
+
+
+
+
+Vlastnická politika Koncernu SMB                                                                        30
+
+                                                                                                          Strana 34 / 37
+       KONCERN SMB
+
+      Cíle ve vztahu k řídící osobě Koncernu:
+         - zajištění stabilních a bezpečných dodávek tepelné energie za co nejnižší cenu;
+         - usilování o co nejvyšší dekarbonizaci, maximální snížení emisí znečišťujících látek a celkovou
+           minimalizaci negativních dopadů vykonávané činnosti na životní prostředí;
+         - soustavná modernizace a rozvoj SZTE s ohledem na aktuální trendy;
+         - rozvoj v oblasti obnovitelných zdrojů energie a elektromobility;
+         - využívání úsporných technologií a realizace vhodných opatření ke zvýšení energetické účinnosti
+           a bezpečnosti;
+         - mediální a marketingový partner řídící osoby.
+
+      11. SAKO Brno SOLAR a.s.
+      SBS se v Koncernu aktivně podílí především na realizaci následujících specifických politik:
+         - Investiční politika;
+         - Finanční politika;
+         - Majetková politika;
+         - Politika společenské odpovědnosti (CSR);
+         - Politika udržitelného a environmentálně udržitelného rozvoje;
+         - Politika využívání surovinových zdrojů a energetické bezpečnosti;
+         - Politika sdílených služeb a organizačních útvarů.
+      SBS je účelově založená společnost zvláštního určení, jejímž hlavním posláním je realizace Projektu FVE
+      spočívajícího v instalaci FVE na střechy budov ve vlastnictví členů Koncernu (zejm. škol, zdravotnických
+      zařízení, domovů pro seniory) o celkovém instalovaném výkonu ve výši cca 12 MWp. Úspěšná realizace
+      tohoto projektu povede k nárůstu objemu výroby elektrické energie z obnovitelných zdrojů, čímž dojde
+      k posílení energetické soběstačnosti SMB (v důsledku snížení závislosti na fosilních zdrojích energie)
+      a ke snížení emisí skleníkových plynů. Přebytkovou energii vyrobenou z FVE SBS prodává ETB k dalšímu
+      ekonomickému využití.
+      Cíle ve vztahu k řídící osobě Koncernu:
+         - instalace FVE na střechy budov ve vlastnictví členů Koncernu (realizace Projektu FVE);
+         - efektivní využívání energie vyrobené z obnovitelných zdrojů;
+         - využívání úsporných technologií a realizace vhodných opatření ke zvýšení energetické účinnosti
+           a bezpečnosti;
+         - rozvoj solární infrastruktury (FVE), komunitní energetiky a sdílení elektrické energie;
+         - snížení nákladů členů Koncernu na nákup elektřiny (finanční úspory);
+         - podpora splnění cíle dosažení uhlíkové neutrality SMB do roku 2030.
+
+      12. Energie Teplárny Brno, s.r.o.
+      ETB se v Koncernu podílí především na realizaci následujících politik:
+         - Politika v oblasti nákupu a prodeje;
+         - Politika využívání surovinových zdrojů a energetické bezpečnosti;
+
+
+
+
+Vlastnická politika Koncernu SMB                                                                        31
+
+                                                                                                          Strana 35 / 37
+       KONCERN SMB
+
+         - Politika vztahů s veřejností (PR) a propagace;
+         - Politika sdílených služeb a organizačních útvarů.
+      Hlavním posláním ETB je zajišťovat prostřednictvím centrálního nákupu energií výhodné a spolehlivé
+      dodávky elektřiny a plynu pro členy Koncernu s důrazem na efektivní využití zdrojů a inovace a podílet
+      se tak na energetické bezpečnosti SMB. ETB snižuje administrativu a náklady Koncernu tím, že pomáhá
+      subjektům SMB v řešení jejich energetických potřeb bez nutnosti vyhledávat dodavatele přes výběrová
+      řízení, což umožňuje optimalizovat jejich výdaje za energie.
+      Cíle ve vztahu k řídící osobě Koncernu:
+         - zajišťování výhodných a spolehlivých dodávek elektřiny a plynu pro členy Koncernu;
+         - dosažení úspor členů Koncernu při nákupu energií;
+         - spolupráce s členy Koncernu při řešení jejich energetických potřeb;
+         - propagace dodávek tepla a nízké ceny dodávek energií.
+
+      IV. ZÁVĚREČNÁ USTANOVENÍ
+      Jestliže Vlastnická politika požaduje nebo předpokládá, že řídící osoba má něco vykonat nebo se
+      něčeho zdržet, jedná se v rámci péče řádného hospodáře o povinnost statutárního orgánu dané řízené
+      osoby, který je v souladu s právními předpisy oprávněn příslušné činnosti delegovat na jiné osoby.
+      Vlastnická politika nahrazuje předchozí Vlastnickou politiku Koncernu schválenou R8/227. schůzí RMB
+      konanou dne 29. 6. 2022, bod č. 9.
+      Vlastnická politika ruší předchozí individuální Vlastnické politiky řízených osob schválené Radou města
+      Brna v působnosti řídící osoby Koncernu:
+         - Vlastnickou politiku obchodní společnosti ARENA BRNO, a.s., schválenou R8/227. schůzí RMB
+           konanou dne 29. 6. 2022, bod č. 9,
+         - Vlastnickou politiku obchodní společnosti Brněnské komunikace a.s., schválenou R7/180. schůzí
+           RMB konanou dne 7. 8. 2018, bod č. 148,
+         - Vlastnickou politiku obchodní společnosti Dopravní podnik města Brna, a.s., schválenou R7/180.
+           schůzí RMB konanou dne 7. 8. 2018, bod č. 151,
+         - Vlastnickou politiku obchodní společnosti Lesy města Brna, a.s., schválenou R7/170. schůzí RMB
+           konanou dne 22. 5. 2018, bod č. 102,
+         - Vlastnickou politiku obchodní společnosti Pohřební a hřbitovní služby města Brna, a.s.,
+           schválenou R7/180. schůzí RMB konanou dne 7. 8. 2018, bod č. 152,
+         - Vlastnickou politiku obchodní společnosti SAKO Brno, a.s., schválenou R8/064. schůzí RMB
+           konanou dne 12. 2. 2020, bod č. 8,
+         - Vlastnickou politiku obchodní společnosti SAKO Brno SOLAR a.s., schválenou R8/227. schůzí
+           RMB konanou dne 29. 6. 2022, bod č. 9,
+         - Vlastnickou politiku obchodní společnosti STAREZ – SPORT, a.s., schválenou R7/180. schůzí RMB
+           konanou dne 7. 8. 2018, bod č. 150,
+         - Vlastnickou politiku obchodní společnosti Technické sítě Brno, akciová společnost, schválenou
+           R8/123. schůzí RMB konanou dne 22. 12. 2020, bod č. 4,
+
+
+
+
+Vlastnická politika Koncernu SMB                                                                       32
+
+                                                                                                         Strana 36 / 37
+       KONCERN SMB
+
+         - Vlastnickou politiku obchodní společnosti Teplárny Brno, a.s., schválenou R8/021. schůzí RMB
+           konanou dne 10. 4. 2019, bod č. 4.
+
+
+
+
+                                              Schvalovací doložky:
+      Dne … přijalo ZMB na Z9/… zasedání usnesení pod bodem č. …, kterým vyslovilo předchozí souhlas s
+                                           Vlastnickou politikou.
+          Dne … RMB za řídící osobu Koncernu na R9/… schůzi přijala usnesení pod bodem č. …, kterým
+                                        Vlastnickou politiku schválila.
+
+
+
+
+                                                 Nabytí účinnosti:
+      Tato Vlastnická politika nabývá účinnosti dnem 1. 1. 2026.
+
+
+
+
+Vlastnická politika Koncernu SMB                                                                 33
+
+                                                                                                      Strana 37 / 37
+

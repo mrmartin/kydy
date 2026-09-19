@@ -1,0 +1,1768 @@
+Rada města Brna
+
+Z9/37. zasedání Zastupitelstva města Brna
+konané dne 15.9.2026
+
+
+
+     303. Návrh Zásad pro spolupráci s investory na rozvoji veřejné
+       infrastruktury statutárního města Brna - aktualizace č. 2
+
+Anotace
+Předmětem aktualizace Zásad je doplnění podmínek pro napojování staveb na soustavu zásobování
+teplem.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                    aktualizaci Zásad pro spolupráci s investory na rozvoji veřejné infrastruktury
+                                statutárního města Brna, vč. přílohy č. 1 zásad - Vzor plánovací smlouvy, které tvoří
+                                přílohu č. ... tohoto zápisu.
+
+
+Stanoviska
+
+Materiál byl projednán na R9/192. schůzi Rady města Brna konané dne 9. 9. 2026.
+Stanovisko bude sděleno.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Tomáš Pivec MBA
+  vedoucí odboru - Odbor investiční
+  8.9.2026 v 12:20
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  8.9.2026 v 12:28
+
+
+
+
+Sestava vytvořena 8.9.2026 v 12:28                             1/1                              Vygenerováno programem eMMB
+
+
+                                                                                                                Strana 1 / 35
+                                    Obsah materiálu
+Návrh usnesení                                                                  1-1
+Obsah materiálu                                                                 2-2
+Důvodová zpráva                                                                 3-3
+Příloha k usnesení (Zásady pro spolupráci s investory aktualizace č. 2.pdf)    4 - 16
+Příloha k usnesení (Příloha č. 1 - Vzor Plánovací smlouvy.pdf)                17 - 35
+
+
+
+
+                                                                                  Strana 2 / 35
+                                      Důvodová zpráva
+
+Předkládaný materiál navrhuje aktualizaci č. 2 Zásad pro spolupráci s investory na rozvoji veřejné
+infrastruktury statutárního města Brna, jejímž cílem je doplnění podmínek a doporučení ve vztahu
+k připojování nových staveb na soustavu zásobování tepelnou energií (SZTE), dříve označovanou
+jako centrální zásobování teplem (CZT).
+
+Statutární město Brno dlouhodobě podporuje rozvoj efektivních, ekologických a ekonomicky
+udržitelných systémů zásobování energií. V zájmu města proto je, aby energetický zdroj nově
+budovaných staveb, případně staveb procházejících významnou rekonstrukcí, byl připojen na
+soustavu zásobování tepelnou energií všude tam, kde je to technicky možné a ekonomicky účelné.
+Jedná se zejména o lokality, ve kterých je již vybudována distribuční síť tepelné energie
+s dostatečnou kapacitou nebo kde lze její rozšíření realizovat za přiměřených ekonomických
+podmínek.
+
+Důvody podpory připojování staveb na SZTE jsou environmentální, ekonomické, provozní
+i technické. Využívání několika centrálních tepelných zdrojů s moderními technologiemi
+a kvalitním čištěním spalin představuje z pohledu ochrany ovzduší zpravidla vhodnější řešení než
+provoz velkého množství individuálních lokálních zdrojů tepla. Současně dochází
+k efektivnějšímu využití existující energetické infrastruktury na území města.
+
+Na území města Brna výrobu a distribuci tepelné energie zajišťuje společnost Teplárny Brno, a.s.,
+jejímž jediným akcionářem je statutární město Brno. Město má proto legitimní zájem na
+dlouhodobé ekonomické stabilitě a prosperitě této společnosti. Teplárny Brno, a.s., průběžně
+investují významné finanční prostředky do modernizace výrobních zdrojů i distribuční soustavy.
+V případech, kdy jsou v lokalitách obsluhovaných existující tepelnou sítí realizovány alternativní
+individuální zdroje tepla, dochází ke snižování využití již vybudované infrastruktury. Tento stav
+může mít negativní technické i ekonomické dopady, včetně zhoršování efektivity provozu
+soustavy a návratnosti uskutečněných investic.
+
+Platná legislativa neumožňuje městu obecně a bez dalšího ukládat stavebníkům povinnost připojit
+nové stavby na soustavu zásobování tepelnou energií. Připojení na SZTE však lze řešit smluvně,
+zejména v rámci plánovacích smluv uzavíraných mezi městem a investory. Navrhovaná úprava
+Zásad proto vytváří podmínky pro zohlednění této problematiky v rámci jednání s investory
+a podporuje využívání SZTE v případech, kdy je takové řešení technicky realizovatelné
+a v souladu s veřejným zájmem města.
+
+Cílem navrhované aktualizace je promítnout do Zásad preference statutárního města Brna
+směřující k využívání soustavy zásobování tepelnou energií u nových rozvojových záměrů, a to
+s ohledem na ochranu životního prostředí, efektivní využívání veřejné infrastruktury,
+energetickou koncepci města a zachování ekonomické stability městské společnosti Teplárny
+Brno, a.s.
+
+Materiál nebyl z časových důvodů projednán v Komisi investiční RMB.
+Materiál byl projednán na R9/192. schůzi rady města Brna konané dne 9. 9. 2026.
+Stanovisko bude sděleno.
+
+
+                                                                                             Strana 3 / 35
+       Zásady pro spolupráci s investory na rozvoji veřejné infrastruktury
+                   statutárního města Brna – aktualizace č. 2
+                                       1. Preambule
+1.1.    Město v samostatné působnosti pečuje o všestranný rozvoj svého území a o potřeby
+        svých občanů, při plnění svých úkolů chrání veřejný zájem, pečuje
+        o vytváření podmínek pro uspokojování potřeby bydlení, ochrany a rozvoje Veřejné
+        infrastruktury, občanské vybavenosti a Veřejných služeb, které slouží jak obyvatelům
+        Města, tak jeho návštěvníkům.
+1.2.    Město dbá o rozvoj stabilizovaných, transformačních a rozvojových ploch na svém
+        území, dbá o kvalitu veřejného prostoru a životního prostředí. Město jako vlastník
+        pozemků, vybrané Veřejné infrastruktury a účastník řízení o povolení záměrů na svém
+        území usiluje o co nejvyšší kvalitu vystavěného městského prostředí.
+   1.3. Panuje veřejný zájem na tom, aby celkové energetické řešení Investičního záměru včetně
+        vybudování příslušné technické infrastruktury bylo Investorem realizováno způsobem
+        přispívajícím k ochraně kvality ovzduší a životního prostředí na území Města v souladu
+        s Územní energetickou koncepcí statutárního města Brna na roky 2024 – 2028.
+1.4.    Účelem těchto Zásad je navázat spolupráci s Investory, nastavit pravidla pro jednání
+        s nimi, nastavit právní rámec pro přípravu a realizaci jejich Investičních záměrů
+        a koordinaci se záměry výstavby Veřejné infrastruktury Města, za transparentních,
+        jednotných, nediskriminačních podmínek. Cílem je dohoda mezi Investory a Městem
+        na spoluúčasti Investorů na zvýšených nákladech Města na Vyvolanou Veřejnou
+        infrastrukturu a Vyvolané Veřejné služby v důsledku realizace Investičních záměrů.
+1.5.    Postup podle Zásad je pro Investory doporučený a dobrovolný. Cílem je, aby postup dle
+        Zásad byl výhodný jak pro Investory, tak pro Město.
+1.6.    Postup dle Zásad nenahrazuje správní řízení či jiné řízení dle příslušných právních
+        předpisů. Město postupuje dle Zásad v rámci výkonu veřejné správy ve své samostatné
+        působnosti a nemůže jakkoliv zasahovat do rozhodování orgánů vykonávajících státní
+        správu, ani ovlivňovat rozhodování odborů Města v rámci jejich přenesené působnosti.
+
+                                2. Hlavní zásady a principy
+2.1.    Předvídatelnost: Zásady stanoví jednotná pravidla, podle kterých bude Město při
+        spolupráci s Investory v rámci přípravy a realizace jejich Investičních záměrů
+        postupovat. Od pravidel v Zásadách se Město nebude bezdůvodně odchylovat. Tím je
+        zajištěna co nejvyšší možná míra předvídatelnosti jeho postupu s Investory.
+2.2.    Transparentnost: Jednání mezi Městem a Investory probíhá podle pravidel obsažených
+        v Zásadách, které jsou veřejně přístupné na webových stránkách Města.
+2.3.    Dobrovolnost: Investoři vstupují do jednání s Městem dobrovolně, neboť je v jejich
+        zájmu nalezení dohody s Městem na parametrech Investičních záměrů a zkvalitnění
+        Veřejné infrastruktury a Veřejných služeb ve Městě.
+2.4.    Nediskriminační postup: Zásady stanovují postupy a pravidla pro spolupráci Města
+        s Investory, přičemž pro všechny Investiční záměry se použijí stejná pravidla. Vůči
+        všem Investorům bude postupováno podle předem jasně daných, jednotných pravidel.
+
+
+
+
+                                              1
+
+
+
+                                                                                           Strana 4 / 35
+2.5.    Spolupráce v rámci samostatné působnosti: Město vystupuje v jednáních s Investory
+        v mezích výkonu veřejné správy pouze v rozsahu samostatné působnosti a nezasahuje
+        do rozhodovací pravomoci správních orgánů při výkonu státní správy.
+2.6.    Princip volného mandátu při rozhodování členů volených orgánů Města: Zásady a
+        postup dle Zásad nezasahují do svobodného hlasování členů volených orgánů Města
+        v rámci jejich zaručeného volného mandátu, ani je individuálně nezavazuje.
+2.7.    Rozvoj území a uspokojení potřeb občanů: Město realizuje zájem na rozvoji svého
+        území a uspokojování potřeb jeho obyvatel postupy dle těchto Zásad.
+2.8.    Účelová vázanost Investičního příspěvku: Investiční příspěvek Investora bude
+        Městem použit zejména na Veřejnou infrastrukturu či Veřejné služby zpravidla na území
+        příslušné městské části, ve které je Investiční záměr realizován.
+
+                                    3. Pojmy
+Pojmy uvedené v Zásadách nenahrazují pojmy dané platnou legislativou. Není-li v těchto
+Zásadách uvedeno jinak, pak platí:
+3.1.    Městem se rozumí statutární město Brno, IČO: 449 92 785, se sídlem
+        Dominikánské náměstí 196/1, Brno-město, PSČ 602 00.
+3.2.    Energetickou společností se rozumí společnost, která je přímo nebo nepřímo ovládána
+        Městem ve smyslu ust. § 74 a násl. zákona č. 90/2012 Sb., o obchodních společnostech
+        a družstvech (zákon o obchodních korporacích), ve znění pozdějších předpisů, a jejíž
+        předmět podnikání nebo činnosti se týká energetické oblasti.
+3.3.    Statutem se rozumí obecně závazná vyhláška statutárního města Brna č. 20/2001,
+        kterou se vydává Statut města Brna, ve znění pozdějších obecně závazných vyhlášek
+        statutárního města Brna.
+3.4.    Územním plánem města Brna (ÚPmB) se rozumí opatření obecné povahy č. 1/2025,
+        kterým se vydává Územní plán města Brna, které nabylo účinnosti dne 31. 1. 2025
+        včetně všech jeho budoucích změn.
+3.5.    Investorem se rozumí každý stavebník dle § 14 písm. a) Stavebního zákona, s výjimkou
+        níže uvedených subjektů, které se pro účely těchto Zásad za Investora nepovažují:
+        a)   veřejní zadavatelé dle § 4 odst. 1 písm. e) Zákona o zadávání veřejných zakázek;
+        b)   Město a jeho příspěvkové organizace;
+        c)   obchodní společnosti s majetkovou účastí Města;
+        d)   Jihomoravský kraj a jeho příspěvkové organizace;
+        e)   obchodní společnosti s majetkovou účastí Jihomoravského kraje;
+        f)   stát, jeho organizační složky a jeho příspěvkové organizace;
+        g)   obchodní společnosti, jejichž společníky jsou pouze obce; a
+        h)   obchodní společnosti s majetkovou účastí dobrovolného svazku obcí.
+3.6.    Investičním záměrem se rozumí:
+        a)   každá nově umísťovaná nebo stavebními úpravami vytvořená stavba (bytový nebo
+             nebytový prostor); a
+        b)   výstavba dopravní a technické infrastruktury za účelem přípravy pozemků pro
+             budoucí výstavbu.
+       Za Investiční záměr se nepovažují:
+
+                                              2
+
+
+
+                                                                                          Strana 5 / 35
+       a) drobná stavba dle přílohy č. 1 Stavebního zákona;
+         b) stavba rodinného domu za účelem uspokojení vlastní bytové potřeby, která
+            obsahuje nejvýše tři bytové jednotky, jejímž stavebníkem je fyzická osoba;
+         c) stavba pro individuální rodinnou rekreaci;
+         d) změna dokončené stavby rodinného domu a/nebo stavby pro individuální rodinnou
+            rekreaci, při které nevznikne bytový dům;
+         e) změna dokončené stavby bytového domu, kdy nevzniká nová bytová jednotka;
+         f) změna dokončené památkově chráněné stavby, není-li tato změna komerčního
+            charakteru;
+         g) kancelář, dílna a drobná provozovna do 100 m² HPP;
+         h) garáž do 50 m²;
+         i) parkovací dům; a
+         j) Veřejní nekomerční stavba.
+3.7.    Veřejnou infrastrukturou se rozumí dopravní, technická a zelená infrastruktura,
+        občanské vybavení a veřejná prostranství dle § 10 Stavebního zákona.
+3.8.    Veřejnými službami se rozumí služby, které Město poskytuje při péči o všestranný
+        rozvoj svého území a o potřeby svých občanů a ochraně veřejného zájmu ve smyslu
+        § 2 odst. 2 Zákona o obcích.
+3.9.    Nezbytnou veřejnou infrastrukturou se rozumí veškerá veřejná infrastruktura
+        potřebná pro zajištění fungování Investičního záměru, bez jejíhož vybudování nebo
+        úpravy nelze Investiční záměr povolit.
+3.10. Vyvolanou Veřejnou infrastrukturou nebo Vyvolanými Veřejnými službami se
+      rozumí veřejná infrastruktura nebo veřejné služby, jejichž potřeba vznikla v důsledku
+      výstavby Investičního záměru (tj. např. mateřské školy, veřejné rekreační plochy,
+      zkapacitnění dopravní a technické infrastruktury atd.). Vyvolanou Veřejnou
+      infrastrukturou nebo Vyvolanými Veřejnými službami nemůže být Nezbytná veřejná
+      infrastruktura.
+   3.11. Stacionárním zdrojem se rozumí ucelená technicky dále nedělitelná stacionární
+         technická jednotka nebo činnost, které znečišťují nebo by mohly znečišťovat ovzduší
+         dle § 2 písm. e) zákona č. 201/2012 Sb., o ochraně ovzduší, ve znění pozdějších
+         předpisů.
+3.12. Investičním příspěvkem se rozumí Peněžní a/nebo Nepeněžní plnění Investora
+      uskutečněné za účelem realizace nové či úpravy stávající Vyvolané Veřejné
+      infrastruktury a na zajištění Vyvolaných Veřejných služeb, a to zpravidla na území
+      příslušné městské části, ve které je Investiční záměr realizován.
+       Investiční příspěvek není místním poplatkem ve smyslu zákona č. 565/1990 Sb.,
+       o místních poplatcích, ve znění pozdějších předpisů.
+3.13. Základní sazbou se rozumí sazba pro výpočet Investičního příspěvku, jejíž aktuální
+      výše je zveřejňovaná na internetových stránkách Města dle čl. 5.2 Zásad.
+3.14. Peněžním plněním se rozumí peněžní plnění Investora ve výši tvořící rozdíl mezi
+      konečnou výší Investičního příspěvku a hodnotou Nepeněžního plnění, je-li Nepeněžní
+      plnění Investorem Městu poskytováno. V případě, že Investor poskytuje pouze Peněžní
+      plnění, odpovídá jeho výše konečné výši Investičního příspěvku.
+
+
+
+                                             3
+
+
+
+                                                                                         Strana 6 / 35
+3.15. Nepeněžním plněním se rozumí jiné než Peněžní plnění Investičního příspěvku
+      Investorem dle konkrétních podmínek dohodnutých v Plánovací smlouvě.
+      Nepeněžním plněním mohou být zejména:
+       a)   stavby a pozemky Veřejné infrastruktury;
+       b)   projektová dokumentace v rozsahu stanoveném Stavebním zákonem a vyhláškou
+            č. 131/2024 Sb., o dokumentaci staveb, ve znění pozdějších předpisů;
+       c)   organizace architektonických soutěží;
+       d)   podporované bydlení;
+       e)   jiná nemovitá či movitá věc;
+       f)   provoz a údržba veřejného prostranství;
+     to vše za podmínky, že takové plnění nebude v rozporu s právními předpisy, zejména se
+     Zákonem o obcích a Zákonem o zadávání veřejných zakázek.
+     Hodnota Nepeněžního plnění je v konkrétním případě stanovena dle odborného odhadu
+     nebo znaleckého posudku.
+     Nepeněžním plněním není závazek Investora k financování přípravy a realizace Nezbytné
+     veřejné infrastruktury.
+3.16. Plánovací smlouvou se rozumí plánovací smlouva uzavřená mezi Investorem
+      a Městem dle § 130 a násl. Stavebního zákona. Vzor Plánovací smlouvy tvoří přílohu
+      těchto Zásad a může být upraven podle konkrétních okolností a specifik Investičního
+      záměru.
+3.17. Hrubou podlažní plochou (HPP) se rozumí součet ploch vymezených vnějším
+      obrysem konstrukcí jednotlivých podlaží budovy kromě otevřených a částečně
+      otevřených částí zejména balkonů, lodžií, průchodů nebo střešních teras, v podlažích se
+      šikmými stěnami či šikmým stropem se započítává vnější obrys konstrukcí v úrovni 1,2
+      m nad úrovní podlahy. Do HPP se nezapočítávají plochy garáží, sklepů, technických a
+      pomocných prostor a objektů technické infrastruktury.
+3.18. Využitelnou plochou pozemku (VPP) se rozumí plocha pozemků, kterou je možné
+      podle regulativů ÚPmB využít pro umístění jednotlivých staveb.
+3.19. Dokumentací pro povolení záměru (DPZ) se rozumí projektová dokumentace pro
+      povolení Investičního záměru, resp. jeho jednotlivých etap, jak je tato definována v §
+      157 odst. 1 písm. a) Stavebního zákona a ve vyhlášce č. 131/2024 Sb., o dokumentaci
+      staveb, ve znění pozdějších předpisů;
+     případně v souladu s § 329 Stavebního zákona i dokumentace zpracovaná dle zákona
+     č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon) a jeho
+     prováděcích předpisů, tj. (i) dokumentace pro vydání rozhodnutí o umístění stavby,
+     doplněná o architektonicko-stavební řešení a stavebně konstrukční řešení zpracované
+     podle vyhlášky č. 131/2024 Sb., o dokumentaci staveb, ve znění pozdějších předpisů,
+     (ii) dokumentace pro vydání stavebního povolení, (iii) dokumentace pro vydání
+     společného povolení a (iv) dokumentace pro ohlášení stavby.
+3.20. Dokumentací skutečného provedení (DSP) se rozumí Dokumentace pro povolení
+      záměru (DPZ) Investičního záměru s vyznačením odchylek (došlo-li k nepodstatné
+      odchylce oproti ověřené projektové dokumentaci), která se v souladu s § 232 odst. 2
+      písm. a) Stavebního zákona přikládá k žádosti o vydání kolaudačního rozhodnutí.
+
+
+
+                                             4
+
+
+
+                                                                                          Strana 7 / 35
+3.21. Základními parametry se rozumí sjednané vlastnosti Investičního záměru, které
+      Investor musí dodržet a respektovat v každé fázi realizace a existence Investičního
+      záměru.
+3.22. OPS se rozumí Oddělení plánování staveb Odboru investičního magistrátu Města.
+3.23. Veřejnou nekomerční stavbou se rozumí stavby občanského vybavení nekomerčního
+      charakteru sloužící zejména pro vzdělávání a výchovu, sport, sociální služby a péči pro
+      rodinu, zdravotní služby, kulturu, veřejnou správu či ochranu obyvatelstva.
+3.24. Fondem developerských projektů se rozumí peněžní fond Města zřízený v souladu
+      s § 5 zákona č. 250/2000 Sb., o rozpočtových pravidlech územních rozpočtů, ve znění
+      pozdějších předpisů, za účelem financování Veřejné infrastruktury a Veřejných služeb
+      Města.
+3.25. Stavebním zákonem se rozumí zákon č. 283/2021 Sb., stavební zákon, ve znění
+      pozdějších předpisů.
+3.26. Správním řádem se rozumí zákon č. 500/2004 Sb., správní řád, ve znění pozdějších
+      předpisů.
+3.27. Občanským zákoníkem se rozumí zákon č. 89/2012 Sb., občanský zákoník, ve znění
+      pozdějších předpisů.
+3.28. Zákonem o obcích se rozumí zákon č. 128/2000 Sb., o obcích, ve znění pozdějších
+      předpisů.
+3.29. Zákonem o zadávání veřejných zakázek se rozumí zákon č. 134/2016 Sb., o zadávání
+      veřejných zakázek, ve znění pozdějších předpisů.
+3.30. Zásadami se rozumí tyto Zásady pro spolupráci s investory na rozvoji veřejné
+      infrastruktury statutárního města Brna.
+
+                                  4. Investiční příspěvek
+4.1.   Investor dobrovolně poskytuje Městu v souvislosti s Investičním záměrem
+       Investiční příspěvek na základě uzavřené Plánovací smlouvy. Investor může poskytnout
+       Investiční příspěvek Městu ve formě Nepeněžního plnění nebo Peněžního plnění,
+       přičemž Investor je oprávněn požadovat poskytnutí Investičního příspěvku z jeho strany
+       výlučně ve formě Peněžního plnění. Právním titulem pro poskytnutí Investičního
+       příspěvku Městu je závazek Investora vyjádřený v Plánovací smlouvě.
+4.2.   Výše Investičního příspěvku (včetně výše splátek případného Peněžního plnění) se
+       počítá dle výpočtů:
+       a)   uvedených v čl. 5 Zásad pro Investiční záměry, jejichž předmětem je nově
+            umísťovaná nebo stavebními úpravami vytvořená stavba (Investiční záměry dle
+            čl. 3.6 písm. a) Zásad); a
+       b)   uvedených v čl. 6 Zásad pro Investiční záměry, jejichž předmětem je výstavba
+            dopravní a technické infrastruktury za účelem přípravy pozemků pro budoucí
+            výstavbu (Investiční záměry dle čl. 3.6 písm. b) Zásad).
+4.3.   Investor uhradí Peněžní plnění na účet Fondu developerských projektů. Peněžní plnění
+       je splatné ve dvou splátkách, a to:
+       a)   první splátka je splatná do 60 dní ode dne nabytí právní moci povolení Investičního
+            záměru;
+
+
+                                              5
+
+
+
+                                                                                            Strana 8 / 35
+         b)    druhá splátka je splatná do 60 dní ode dne nabytí právní moci kolaudačního
+               rozhodnutí, příp. jiného rozhodnutí, kterým bude povoleno užívání Investičního
+               záměru.
+       V odůvodněných případech může Město s Investorem dohodnout jiný termín splatnosti
+       Peněžního plnění, zejména pokud bude Investor povolovat či realizovat výstavbu
+       Investičního záměru po etapách.
+4.4.    Popis Nepeněžního plnění, způsob výpočtu jeho hodnoty, splatnost, podmínky pro
+        převod Nepeněžního plnění na Město a další podmínky budou dohodnuty v Plánovací
+        smlouvě. V případě, že hodnota Nepeněžního plnění bude vyšší než konečná výše
+        Investičního příspěvku, jde rozdíl k tíži Investora, tzn. že Město vzniklý rozdíl
+        Investorovi nebude hradit ani nijak kompenzovat.
+
+5. Výpočet Investičního příspěvku a splátek Peněžního plnění pro Investiční záměry dle
+                                 čl. 3.6 písm. a) Zásad
+5.1.    Předpokládaná výše Investičního příspěvku pro Investiční záměry dle čl. 3.6 písm. a)
+        Zásad se vypočte dle níže uvedeného vzorce:
+                                           IP = SPS x HPPDPZ
+       Pro účely tohoto výpočtu se výše uvedenými proměnnými rozumí:
+         a)    IP = předpokládaná výše Investičního příspěvku;
+         b)    SPS = Základní sazba ve výši ke dni uzavření Plánovací smlouvy;
+         c)    HPPDPZ = hrubá podlažní plocha Investičního záměru v m² určená dle
+               Dokumentace pro povolení záměru.
+5.2.    Výše Základní sazby se každoročně zvyšuje o roční míru inflace1, vyjádřenou
+        přírůstkem průměrného ročního indexu cen stavebních děl podle klasifikace CZ-CC
+        (souhrnné položky stavební díla) za uplynulý kalendářní rok vydávaným Českým
+        statistickým úřadem. Aktuální výši Základní sazby zveřejňuje Město na internetových
+        stránkách Města, a to vždy s účinností od 1. května.
+5.3.    Výše první splátky Investičního příspěvku ve formě Peněžního plnění bude vypočtena
+        jako stanovené procento z předpokládané výše Investičního příspěvku ve formě
+        Peněžního plnění valorizované ke dni nabytí právní moci povolení záměru Investičního
+        záměru o roční míru inflace, vyjádřenou přírůstkem průměrného ročního indexu cen
+        stavebních děl podle klasifikace CZ-CC (souhrnné položky stavební díla) za dobu od
+        uzavření Plánovací smlouvy vydávaným Českým statistickým úřadem, přičemž pokud
+        bude předpokládaná výše Investičního příspěvku vypočtená dle čl. 5.1 Zásad:
+         a)    méně než 5 mil Kč, bude výše první splátky vypočtena jako 20 % z výše
+               uvedeného výpočtu;
+         b)    méně než 50 mil Kč, bude výše první splátky vypočtena jako 10 % z výše
+               uvedeného výpočtu;
+         c)    více než 50 mil Kč, bude výše první splátky vypočtena jako 5 % z výše uvedeného
+               výpočtu.
+5.4.    Výše druhé splátky Investičního příspěvku ve formě Peněžního plnění bude vypočtena
+        jako násobek Základní sazby ve výši ke dni uzavření Plánovací smlouvy a počtu m² HPP
+
+1
+  K aktuální výši Základní sazby viz internetové stránky Města zde: (doplnit). Blíže k metodě výpočtu Investičního
+příspěvku a splátek viz Modelový příklad výpočtu, který tvoří přílohu těchto Zásad.
+
+                                                        6
+
+
+
+                                                                                                              Strana 9 / 35
+        Investičního záměru podle Dokumentace skutečného provedení, od kterého se odečte
+        výše první splátky bez valorizace, tj. příslušné procento z předpokládané výše
+        Investičního příspěvku ve formě Peněžního plnění. Výsledek bude valorizován ke dni
+        podání žádosti o vydání kolaudačního rozhodnutí o roční míru inflace, vyjádřenou
+        přírůstkem průměrného ročního indexu cen stavebních děl podle klasifikace CZ-CC
+        (souhrnné položky stavební díla) za dobu od uzavření Plánovací smlouvy vydávaným
+        Českým statistickým úřadem.
+5.5.    Vzorec pro výpočet výše jednotlivých splátek Investičního příspěvku ve formě
+        Peněžního plnění je následující:
+                                  1. splátka = (p x IPPP) x iPZ
+                        2. splátka = [(HPPDSP x SPS) – (p x IPPP)] x iKR
+       Pro účely tohoto výpočtu se výše uvedenými proměnnými rozumí:
+        a)  IPPP = předpokládaná výše Investičního příspěvku ve formě Peněžního plnění;
+        b)  SPS = Základní sazba ve výši ke dni uzavření Plánovací smlouvy;
+        c)  HPPDSP = hrubá podlažní plocha Investičního záměru v m² určená dle
+            Dokumentace skutečného provedení;
+        d) iPZ = kumulovaná roční míra inflace ke dni nabytí právní moci povolení záměru
+            Investičního záměru, vyjádřená přírůstkem průměrného ročního indexu cen
+            stavebních děl podle klasifikace CZ-CC (souhrnné položky stavební díla) za dobu
+            od uzavření Plánovací smlouvy vydávaným Českým statistickým úřadem;
+        e) iKR = kumulovaná roční míra inflace ke dni podání žádosti o vydání kolaudačního
+            rozhodnutí, vyjádřená přírůstkem průměrného ročního indexu cen stavebních děl
+            podle klasifikace CZ-CC (souhrnné položky stavební díla) za dobu od uzavření
+            Plánovací smlouvy vydávaným Českým statistickým úřadem;
+        f) p = procentuální podíl pro výpočet výše první splátky podle předpokládané výše
+            Investičního příspěvku, konkrétně:
+           • p = 0,20 (20 %) při IP ≤ 5 000 000 Kč;
+           • p = 0,10 (10 %) při IP > 5 000 000 Kč a ≤ 50 000 000 Kč;
+           • p = 0,05 (5 %) při IP > 50 000 000 Kč.
+5.6.    V případě, že se bude lišit HPP uvedená v Dokumentaci pro povolení záměru a
+        Dokumentaci skutečného provedení, bude toto zohledněno v rámci výpočtu druhé
+        splátky Investičního příspěvku.
+5.7.    V případě, že realizaci Investičního záměru bude předcházet demolice původního
+        objektu či jeho části, bude pro výpočet Investičního příspěvku (respektive HPP
+        Investičního záměru – tzn. HPPDPZ a HPPDSP) relevantní pouze rozdíl mezi nově
+        realizovanou HPP a zdemolovanou HPP, a to při splnění podmínek stanovených
+        Městem.2
+
+2
+  Předpokládá se povinnost splnění následujících podmínek:
+(i) demolovaná HPP by měla mít stejné funkční využití jako nově realizovaná HPP (např. pokud dojde k demolici
+nebytového prostoru a bude nově realizován bytový prostor, nelze této výjimky využít), a
+(ii) demolovaná HPP by měla být doposud aktivně užívána, tj. aby měla by pro ni existovat dostatečná Vyvolaná
+Veřejná infrastruktura a Vyvolané Veřejné služby a realizace nových HPP namísto demolovaných HPP nenavýší
+požadavky na Vyvolanou Veřejnou infrastrukturu a Vyvolané Veřejné služby (např. u nefunkčních brownfieldů
+nelze zpravidla této výjimky využít).
+Město může stanovit i další podmínky dle konkrétních okolností případu.
+
+                                                     7
+
+
+
+                                                                                                         Strana 10 / 35
+5.8.    Investor předloží Městu Dokumentaci skutečného provedení nejpozději společně
+        s podáním žádosti o vydání kolaudačního rozhodnutí Investičního záměru. Na základě
+        předložené Dokumentace skutečného provedení zašle Město Investorovi písemně
+        výpočet druhé splátky Investičního příspěvku ve formě Peněžního plnění. Pokud se
+        Dokumentace skutečného provedení v průběhu řízení o vydání kolaudačního rozhodnutí
+        změní, bude výpočet druhé splátky Investičního příspěvku ve formě Peněžního plnění
+        upraven dle finální Dokumentace skutečného provedení ověřené stavebním úřadem.
+5.9.    Konečná výše Investičního příspěvku bude v případě, kdy bude Investiční příspěvek
+        poskytován:
+        a)    pouze formou Peněžního plnění, dosahovat součtu jednotlivých splátek Peněžního
+              plnění, jejichž jednotlivá výše bude určena postupem dle čl. 5.5 Zásad a Plánovací
+              smlouvy;
+        b)    pouze formou Nepeněžního plnění, dosahovat minimálně hodnoty Nepeněžního
+              plnění uvedené v Plánovací smlouvě;3 a
+        c)    kombinací Peněžního plnění a Nepeněžního plnění, dosahovat minimálně součtu
+              splátek Peněžního plnění určených dle písm. a) tohoto článku a hodnoty
+              Nepeněžního plnění určeného dle písm. b) tohoto článku.
+
+6. Výpočet Investičního příspěvku a splátek Peněžního plnění pro Investiční záměry dle
+                                 čl. 3.6 písm. b) Zásad
+6.1.    Předpokládaná výše Investičního příspěvku pro Investiční záměry dle čl. 3.6 písm. b)
+        Zásad se vypočte dle níže uvedeného vzorce:
+                                           IP = SPS x VPP
+       Pro účely tohoto výpočtu se výše uvedenými proměnnými rozumí:
+        a)    IP = předpokládaná výše Investičního příspěvku;
+        b)    SPS = Základní sazba v aktuální výši ke dni uzavření Plánovací smlouvy;
+        c)    VPP = využitelná plocha pozemku v m².
+6.2.    Vzorec pro výpočet výše jednotlivých splátek Investičního příspěvku ve formě
+        Peněžního plnění je následující:
+                                   1. splátka = (p x IPPP) x iPZ
+                       2. splátka = [(VPP x SPS) – (p x IPPP)] x iKR
+       Pro účely tohoto výpočtu se výše uvedenými proměnnými rozumí:
+        a)    IPPP = předpokládaná výše Investičního příspěvku ve formě Peněžního plnění;
+        b)    SPS = Základní sazba v aktuální výši ke dni uzavření Plánovací smlouvy;
+        c)    VPP = využitelná plocha pozemku v m²;
+        d)    iPZ = kumulovaná roční míra inflace ke dni nabytí právní moci povolení záměru
+              Investičního záměru, vyjádřená přírůstkem průměrného ročního indexu cen
+
+
+
+3
+  Bude-li Investiční příspěvek poskytován pouze formou Nepeněžního plnění a bude-li se lišit HPP uvedená
+v Dokumentaci pro povolení záměru a Dokumentaci skutečného provedení, je vhodné v Plánovací smlouvě upravit
+mechanismus, jakým bude případně reflektována změna HPP v návaznosti na konečnou výši Investičního
+příspěvku.
+
+                                                    8
+
+
+
+                                                                                                       Strana 11 / 35
+           stavebních děl podle klasifikace CZ-CC (souhrnné položky stavební díla) za dobu
+           od uzavření Plánovací smlouvy vydávaným Českým statistickým úřadem;
+       e) iKR = kumulovaná roční míra inflace ke dni podání žádosti o vydání kolaudačního
+           rozhodnutí, vyjádřená přírůstkem průměrného ročního indexu cen stavebních děl
+           podle klasifikace CZ-CC (souhrnné položky stavební díla) za dobu od uzavření
+           Plánovací smlouvy vydávaným Českým statistickým úřadem;
+       f) p = procentuální podíl pro výpočet výše první splátky podle výše Investičního
+           příspěvku, konkrétně:
+          • p = 0,20 (20 %) při IP ≤ 5 000 000 Kč;
+          • p = 0,10 (10 %) při IP > 5 000 000 Kč a ≤ 50 000 000 Kč;
+          • p = 0,05 (5 %) při IP > 50 000 000 Kč.
+6.3.   V případě, že bude na shodných pozemcích, na kterých byl realizován Investiční záměr
+       dle čl. 3.6 písm. b) Zásad, později realizován navazující Investiční záměr dle čl. 3.6
+       písm. a) Zásad (např. výstavba bytových domů apod.), bude Investiční příspěvek
+       uhrazený za Investiční záměr dle čl. 3.6 písm. b) Zásad odečten od Investičního
+       příspěvku vypočteného pro navazující Investiční záměr dle čl. 3.6 písm. a) Zásad.
+       Podrobnosti budou upraveny v Plánovací smlouvě k Investičnímu záměru dle čl. 3.6
+       písm. a) Zásad.
+6.4.   Ve zbytku platí pro Investiční příspěvek pro Investiční záměry dle čl. 3.6 písm. b) Zásad
+       obdobně příslušné články v kapitole 5 Zásad.
+
+                        7. Postup při uzavírání Plánovací smlouvy
+7.1.   Město má zájem o spolupráci s Investory a co nejefektivnější a transparentní proces
+       výstavby na svém území. Předpokladem pro úspěšný rozvoj jsou aktivní vztahy mezi
+       Městem a Investory. Předpokládá se proto, že Investoři informují Město o svých
+       Investičních záměrech již ve fázi jejich přípravy, tedy před zpracováním Dokumentace
+       pro povolení záměru tak, aby případné otázky mohly být vyřešeny ještě před zahájením
+       správních řízení vedoucích k povolení Investičního záměru.
+7.2.   Postup podle Zásad může Investorům usnadnit realizaci Investičního záměru, jelikož se
+       Investor vzájemnou koordinací předem seznámí se stanovisky Města a dalších subjektů
+       (zejména provozovatelů, správců veřejné infrastruktury Města) k zamýšlenému
+       Investičnímu záměru.
+7.3.   Investor před zahájením řízení o povolení záměru dle Stavebního zákona kontaktuje
+       OPS a předloží OPS předběžnou dokumentaci k Investičnímu záměru (např. studii
+       stavby), která předchází DPZ.
+7.4.   OPS bude Investora informovat o předmětu Plánovací smlouvy, závazcích z této
+       smlouvy vyplývajících a Investičním příspěvku. OPS seznámí Investora s postupy
+       potřebnými pro projednání DPZ, na které dotčené subjekty Města se má obrátit a jaká
+       stanoviska a vyjádření bude potřebovat k uzavření Plánovací smlouvy.
+7.5.   OPS podle konkrétního případu svolá jednání, na kterém bude představen Investiční
+       záměr příslušným odborům magistrátu Města, příslušné městské části, městským
+       organizacím a provozovatelům a správcům Veřejné infrastruktury Města. V rámci
+       tohoto jednání bude Investor seznámen se základními požadavky Města zejména
+       z hlediska ÚPmB, urbanisticko-architektonického, Veřejné infrastruktury Města,
+       majetkoprávních vztahů, technických požadavků, případnými doporučeními
+       energetického řešení Investičního záměru v oblasti dodávek tepelné energie. apod.
+
+                                               9
+
+
+
+                                                                                             Strana 12 / 35
+       Smyslem jednání je zjednodušení přípravy DPZ a snížení rizika změn DPZ po zahájení
+       řízení o povolení záměru.
+7.6.   Na základě konzultace a jednání s Městem zajistí Investor zpracování DPZ a požádá
+       o stanoviska a vyjádření příslušné orgány státní správy a samosprávy a provozovatele
+       a správce Veřejné infrastruktury. Na doporučení Města požádá Investor o stanoviska a
+       vyjádření i příslušnou městskou část a Kancelář architekta Města. Městská část a
+       Kancelář architekta Města vydají své stanovisko a vyjádření bezodkladně, nejpozději
+       však do 60 dní ode dne doručení žádosti Investora. OPS v případě potřeby svolá další
+       jednání, na kterém budou prodiskutovány problematické záležitosti a dohodnut další
+       postup.
+7.7.   Investor na základě získaných stanovisek a vyjádření vypracuje finální verzi DPZ,
+       kterou předloží, s potřebnými předem dohodnutými stanovisky a vyjádřeními, OPS.
+       OPS následně vypracuje návrh Plánovací smlouvy a v případě potřeby svolá jednání
+       s Investorem, na kterém budou konkretizovány závazky Investora a Města.
+       Strany se mohou v Plánovací smlouvě dohodnout, je-li to technicky možné a ekonomicky
+       přijatelné, na závazcích Investora v oblasti dodávek tepelné energie spočívajících
+       v povinnosti Investora využít pro dodávky tepelné energie do Investičního záměru teplo
+       ze soustavy zásobování tepelnou energií (např. provozované některou z Energetických
+       společností) nebo zdroje, který není Stacionárním zdrojem, pokud tento zdroj nevykazuje
+       v přepočtu na jednotku dodaného užitečného tepla a při zohlednění výroby, přeměny,
+       akumulace a distribuce tepelné energie vyšší emisní zátěž než zdroj tepla ze soustavy
+       zásobování tepelnou energií.
+       Strany vyhodnotí, zda je pro realizaci Investičního záměru důvodné požadovat dodávky
+       tepelné energie do Investičního záměru ze soustavy zásobování tepelnou energií nebo
+       ze zdroje, který není Stacionárním zdrojem, za výše uvedených podmínek, přičemž
+       zohlední konkrétní ekonomické nebo technické důvody týkající se celkového
+       energetického řešení Investičního záměru; jako podklad pro toto posouzení může
+       Investor předložit Městu zejména energetický posudek Investičního záměru zpracovaný
+       podle příslušných právních předpisů nebo jiný dokument, kterým Investor doloží, že
+       emisní zátěž jiného zdroje tepelné energie, který není Stacionárním zdrojem, není vyšší
+       než emisní zátěž zdroje tepla ze soustavy zásobování tepelnou energií, popř. doloží
+       konkrétní ekonomické nebo technické důvody pro realizaci dodávek tepelné energie
+       jiným způsobem než ze soustavy zásobování tepelnou energií.
+       Strany se mohou v Plánovací smlouvě dohodnout na závazcích Investora spočívajících
+       ve vybudování příslušné technické infrastruktury, zejména v rámci zvoleného
+       energetického řešení Investičního záměru, prostřednictvím subjektu splňujícího
+       technické podmínky stanovené provozovatelem příslušné soustavy a příslušné technické
+       normy; tyto požadavky splňují mimo jiné Energetické společnosti.
+7.8.   Po vzájemném odsouhlasení návrhu Plánovací smlouvy předloží OPS tento návrh ke
+       schválení příslušným orgánům Města (včetně zastupitelstva Města). Součástí
+       předkládaných materiálů bude stanovisko příslušné městské části. Součástí stanoviska
+       bude vyjádření k zajištění správy příslušných stavebních objektů v souladu se Statutem.
+7.9.   Po uzavření Plánovací smlouvy zašle OPS Plánovací smlouvu příslušné městské části.
+       Plánovací smlouva bude uveřejněna v registru smluv a Národním geoportálu územního
+       plánování.
+
+
+
+
+                                             10
+
+
+
+                                                                                           Strana 13 / 35
+7.10. Město (včetně OPS) se zavazuje vynaložit odpovídající úsilí k tomu, aby veškeré kroky
+      v rámci postupu při vyjednávání a uzavírání Plánovací smlouvy činilo včas a bez
+      zbytečných prodlev.
+7.11. V odůvodněných případech může být Plánovací smlouva uzavřena již na základě
+      předběžné dokumentace k Investičnímu záměru (např. studie stavby). Výše uvedený
+      postup a vzor Plánovací smlouvy se pro takové případy použijí obdobně.
+
+                                    8. Závazky Města
+8.1.   Postupy Města a uzavření konkrétní Plánovací smlouvy jsou výkonem veřejné správy
+       v mezích samostatné působnosti Města. Město nemůže ovlivňovat rozhodování ani
+       zasahovat do správních řízení vedených orgány Města v přenesené působnosti při
+       výkonu státní správy.
+8.2.   Město se může v konkrétní Plánovací smlouvě uzavírané ve veřejném zájmu dle § 130
+       Stavebního zákona zavázat k tomu, že v rámci samostatné působnosti Investorovi
+       poskytne ve smyslu § 131 Stavebního zákona za podmínek stanovených v Plánovací
+       smlouvě potřebnou součinnost k realizaci Investičního záměru, zejména:
+       a)   poskytne v samostatné působnosti nezbytné souhlasy v navazujících správních
+            řízeních nutných k povolení a realizaci Investičního záměru;
+       b)   po sjednanou dobu nevydá nebo nezmění územně plánovací dokumentaci nebo
+            neučiní jiný úkon, který by ztížil nebo vyloučil uskutečnění Investičního záměru;
+       c)   po dobu trvání Plánovací smlouvy nebude ve správních nebo soudních řízeních
+            týkajících se povolení Investičního záměru uplatňovat návrhy, vyjádření a opravné
+            prostředky, které by byly v rozporu s obsahem Plánovací smlouvy;
+       d)   zachová po dohodnutou dobu vlastnické vztahy Města v území, ve kterém má být
+            umístěn Investiční záměr, k datu uzavření Plánovací smlouvy;
+       e)   převezme do svého vlastnictví a zajistí správu, provozování a údržbu Nezbytné
+            veřejné infrastruktury, popř. Nepeněžního plnění; a
+       f)   zajistí využití Investičního příspěvku (včetně Peněžního plnění) v souladu
+            s účelem stanoveným v Plánovací smlouvě.
+
+                                  9. Závazky Investora
+9.1.   Investor se v konkrétní Plánovací smlouvě může zavázat zejména k tomu, že za
+       podmínek stanovených v Plánovací smlouvě:
+       a)   vybuduje Investiční záměr v souladu se Základními parametry, tj. v podobě
+            konkretizované v Plánovací smlouvě;
+       b)   vybuduje Investiční záměr ve sjednaném termínu;
+       c)   vybuduje Nezbytnou veřejnou infrastrukturu na své náklady;
+       d)   převede do vlastnictví Města Nezbytnou veřejnou infrastrukturu;
+       e)   poskytne Městu Investiční příspěvek, a to jako Peněžní plnění a/nebo Nepeněžní
+            plnění;
+       f)   bude spolupracovat a poskytne součinnost při koordinaci svého Investičního
+            záměru s investičními záměry Města, především při přípravě a výstavbě Vyvolané
+            Veřejné infrastruktury; a
+       g)   bude informovat OPS o průběhu přípravy a realizace Investičního záměru.
+
+
+
+
+                                             11
+
+
+
+                                                                                          Strana 14 / 35
+            10. Zajištění a utvrzení závazků obsažených v Plánovací smlouvě
+10.1. Závazky Investora v Plánovací smlouvě budou odpovídajícím způsobem zajištěny.
+      Forma zajištění bude dohodnuta mezi Městem a Investorem dle konkrétního
+      Investičního záměru a podmínek v dotčeném území.
+10.2. Investor může své závazky zajistit zejména:
+       a)   ručením ve smyslu § 2018 Občanského zákoníku;
+       b)   kaucí (tj. složením finanční částky na účet Města);
+       c)   zástavním právem ve smyslu § 1309 Občanského zákoníku; a/nebo
+       d)   bankovní zárukou či finanční zárukou ve smyslu§ 2029 Občanského zákoníku.
+10.3. Vybrané závazky Investora v Plánovací smlouvě budou odpovídajícím způsobem
+      utvrzeny smluvní pokutou ve smyslu § 2048 Občanského zákoníku.
+
+                                11. Závěrečná ustanovení
+11.1. Postup podle Zásad je podmíněný tím, že realizace a právní jednání na jejich základě
+      budou možné a dovolené právními předpisy, zejména Zákonem o obcích a Zákonem
+      o zadávání veřejných zakázek, přičemž v případě jejich rozporu s právními předpisy se
+      odpovídající část Zásad neuplatní.
+11.2. Zásady neobsahují výčet konkrétních záměrů Vyvolané Veřejné infrastruktury či
+      Vyvolaných Veřejných služeb, na které Město hodlá Investiční příspěvky použít.
+      Peněžní plnění bude příjmem Fondu developerských projektů.
+11.3. Zásady mohou být měněny pouze usnesením zastupitelstva Města na základě
+      předchozího vyhodnocení praxe používání Zásad či změny právních předpisů, které
+      budou mít dopad na uzavírání Plánovacích smluv.
+11.4. Město se může v odůvodněných a výjimečných případech odchýlit od postupu
+      stanoveného těmito Zásadami, pokud to vyžaduje veřejný zájem nebo specifické
+      okolnosti konkrétního Investičního záměru.
+11.5. Tato aktualizace Zásad nahrazuje původní verzi Zásad schválenou Zastupitelstvem
+      města Brna na Z8/25. zasedání konaném dne 23. 3. 2021. Tato aktualizace Zásad nabývá
+      platnosti a účinností dnem schválení Zastupitelstvem města Brna na Z9/31. zasedání
+      konaném dne 10. 12. 2025.
+11.6. Přílohy Zásad:
+       1) Vzor Plánovací smlouvy;
+       2) Modelový příklad výpočtu.
+11.7. Dokumenty Města uveřejněné na www.brno.cz:
+       a)   Obecně závazná vyhláška statutárního města Brna č. 20/2001, kterou se vydává
+            Statut města Brna, ve znění pozdějších obecně závazných vyhlášek statutárního
+            města Brna;
+       b)   Opatření obecné povahy č. 1/2025, kterým se vydává Územní plán města Brna,
+            které nabylo účinnosti dne 31. 1. 2025;
+       c)   Nařízení č. 14/2024, o požadavcích na výstavbu ve statutárním městě Brně
+            (brněnské stavební předpisy);
+       d)   Standardy pro kanalizační zařízení města Brna;
+       e)   Standardy pro vodovodní síť města Brna;
+
+
+                                            12
+
+
+
+                                                                                        Strana 15 / 35
+f)   Městské standardy pro veřejné osvětlení města Brna.
+
+
+
+
+                                     13
+
+
+
+                                                           Strana 16 / 35
+Příloha č. 1 Zásad – Vzor Plánovací smlouvy
+
+
+                                    Plánovací smlouva
+   uzavřená dle § 130 a násl. zákona č. 283/2021 Sb., stavební zákon, ve znění pozdějších
+předpisů a dle Zásad pro spolupráci s investory na rozvoji veřejné infrastruktury statutárního
+                                         města Brna
+
+
+Smluvní strany:
+Statutární město Brno
+se sídlem Dominikánské náměstí 196/1, Brno-město, 602 00 Brno
+IČO: 449 92 785
+zastoupené (doplnit), primátorem/primátorkou města Brna
+pověřen k podpisu smlouvy: (doplnit)
+(dále také jako Město)
+a
+
+(Název Investora)
+se sídlem (doplnit)
+IČO: (doplnit)
+společnost zapsaná v obchodním rejstříku vedeném u (doplnit) soudu v (doplnit), pod sp. zn.
+(doplnit)
+zastoupená (doplnit)
+(dále také jako Investor)
+
+(Město a Investor dále společně jako Smluvní strany)
+
+                                    1. Úvodní ustanovení
+    1.1. Investor hodlá realizovat Investiční záměr (jak je podrobněji definován dále v této
+         smlouvě). Smluvní strany si jsou vědomy, že Investiční záměr vyvolá v dotčeném
+         území zvýšené nároky na Veřejnou infrastrukturu, které bude nezbytné uspokojit.
+         Podpora nové výstavby je v zájmu Města a Investor má zájem se na rozvoji území
+         dotčeného Investičním záměrem podílet.
+    1.2. Zasazovat se o všestranný rozvoj svého území a zvyšování jeho kvality a nabídky
+         příležitostí pro život lidí je základní povinností Města v jeho samostatné působnosti
+         vyplývající z ústavně zaručeného práva na samosprávu podle čl. 8 a čl. 100 Ústavy
+         České republiky. O tento rozvoj se může Město zasazovat rovněž prostřednictvím
+         spolupráce s Investorem v souvislosti s Investičním záměrem.
+    1.3. Tato smlouva je uzavřena podle pravidel obsažených v Zásadách pro spolupráci
+         s investory na rozvoji veřejné infrastruktury statutárního města Brna, aktuálně platnými
+         v době uzavření této smlouvy (dále jen Zásady). Pojmy užívané s velkým písmenem
+         nedefinované v této smlouvě, mají stejný význam jako v Zásadách.
+    1.4. Město před uzavřením této smlouvy posoudilo její zamýšlený obsah a konstatuje, že
+         uzavření této smlouvy naplňuje podmínky dle § 130 a násl. Stavebního zákona, jakož
+         i § 159 odst. 2 Správního řádu, jelikož uzavření této smlouvy je v souladu s veřejným
+         zájmem. Soulad s veřejným zájmem plyne především z dále uvedeného:
+        a) smlouva byla sjednána v rámci předvídatelného, transparentního a rovného postupu
+             podle Zásad při respektování jejich principů;
+
+                                                1
+
+
+
+                                                                                             Strana 17 / 35
+Příloha č. 1 Zásad – Vzor Plánovací smlouvy
+
+       b) Město prostřednictvím této smlouvy a spolupráce z ní vyplývající získalo možnost
+          vyjádřit se k základním aspektům a podobě Investičního záměru, přičemž postoje a
+          vyjádření Města Investor zohlednil a reflektoval v podobě Investičního záměru, což
+          přispělo k participaci Města a spolupráci s Investorem na budoucí podobě území
+          Města;
+       c) Investiční příspěvek byl sjednán na základě Zásad jako spoluúčast Investora na
+          zvýšených nákladech Města na Veřejnou infrastrukturu nebo Veřejné služby.
+
+                                    2. Předmět smlouvy
+   2.1. Předmětem této smlouvy je stanovení podmínek spolupráce Smluvních stran při
+        přípravě a realizaci Investičního záměru, úprava práv a povinností Smluvních stran pro
+        zajištění budoucího vlastnictví, správy, provozování a údržby Nezbytné veřejné
+        infrastruktury a stanovení podmínek poskytnutí a rozsahu Investičního příspěvku.
+   2.2. Investor se touto smlouvou zavazuje za podmínek stanovených níže zejména:
+       a) dodržet Základní parametry Investičního záměru;
+       b) vybudovat a převést do vlastnictví Města Nezbytnou veřejnou infrastrukturu;
+       c) zřídit Služebnost veřejného užívání k Veřejnému prostranství Investičního záměru;
+            a
+       d) poskytnout Městu Investiční příspěvek.
+   2.3. Město se touto smlouvou zavazuje za podmínek stanovených níže zejména:
+       a) nezměnit ÚPmB či nepřijmout nový územní plán, v jejichž důsledku by nebylo
+          možné realizovat Investiční záměr;
+       b) nepodávat opravné prostředky proti Investičnímu záměru z důvodů, které jsou
+          v souladu se Základními parametry; a
+       c) poskytnout Investorovi nezbytnou součinnost v rámci samostatné působnosti při
+          povolení a realizaci Investičního záměru.
+
+                                    3. Investiční záměr
+   3.1. Investor hodlá realizovat v městské části města Brna Brno-(doplnit) v lokalitě (doplnit)
+        Investiční záměr pod názvem „(doplnit)“.
+       (Doplnit popis Investičního záměru)
+   3.2. Pro Investiční záměr byla (doplnit kým, kdy) zpracována Dokumentace pro povolení
+        záměru (dále jen Dokumentace). Koordinační situace a katastrální situační výkres,
+        které jsou součástí Dokumentace, tvoří přílohy č. 1 a č. 2 této smlouvy.
+   3.3. Smluvní strany se dohodly, že Investor je povinen dodržet a respektovat v každé fázi
+        realizace a existence Investičního záměru následující základní parametry Investičního
+        záměru, které byly stanoveny na základě Dokumentace (dále jen Základní
+        parametry):
+       a) rozsah HPP Investičního záměru může činit maximálně (doplnit);
+       b) výška Investičního záměru může činit maximálně (doplnit);
+       c) Investiční záměr může obsahovat maximálně (doplnit) bytových jednotek a
+            maximálně (doplnit) nebytových jednotek;
+       d) Investiční záměr musí obsahovat minimálně/maximálně (doplnit) parkovacích
+            stání;
+
+                                               2
+
+
+
+                                                                                            Strana 18 / 35
+Příloha č. 1 Zásad – Vzor Plánovací smlouvy
+
+       e) (doplnit či upravit dle konkrétního Investičního záměru).
+  3.4. Smluvní strany se dohodly, že Investor je za účelem ochrany kvality ovzduší a životního
+       prostředí na území města Brna povinen využít pro dodávky tepelné energie do
+       Investičního záměru teplo ze soustavy zásobování tepelnou energií [BUDE DOPLNĚN
+       PROVOZOVATEL].
+   3.5. Nestanoví-li tato smlouva jinak, je možné povolit odchylku od Základních parametrů
+        na základě písemné odůvodněné žádosti Investora adresované Městu, přičemž
+        odchylka se povoluje na základě písemného souhlasu uděleného souhlasem vydaným
+        primátorem Města či jeho náměstkem na základě rozhodnutí (souhlasu) rady Města.
+        Změna Základních parametrů dle předchozí věty nabývá účinnosti k okamžiku, kdy je
+        souhlas Města doručen Investorovi, o čemž musí Investor následně Město bez
+        zbytečného odkladu informovat. V případě, že bude povolena odchylka od Základního
+        parametru spočívajícím v rozsahu HPP Investičního záměru, bude součástí souhlasu i
+        informace o navýšení Investičního příspěvku a zohlednění tohoto navýšení ve druhé
+        splátce Peněžního plnění. (Pokud by bylo předmětem smlouvy pouze Nepeněžní plnění,
+        musí být toto ustanovení upraveno; Nepeněžní plnění není možné jednostranně měnit
+        bez dodatku k této smlouvě.) Realizace Investičního záměru v souladu s povolenou
+        odchylkou není porušením Základních parametrů.
+   3.6. Smluvní strany se ve smyslu § 130 Stavebního zákona zavazují poskytnout si vzájemně
+        součinnost při přípravě a uskutečňování Investičního záměru a dále postupovat při jeho
+        uskutečňování ujednaným způsobem, to vše v rozsahu a za podmínek uvedených dále
+        v této smlouvě.
+       Zahájení a ukončení výstavby Investičního záměru
+   3.7. Investor předpokládá zahájení výstavby Investičního záměru do (doplnit měsíců/let) od
+        nabytí právní moci rozhodnutí o povolení Investičního záměru.
+   3.8. Investor se zavazuje dokončit výstavbu Investičního záměru nejpozději do (doplnit
+        měsíců/let) od nabytí právní moci rozhodnutí o povolení Investičního záměru.
+        Dokončením výstavby se rozumí nabytí právní moci kolaudačního rozhodnutí pro
+        Investiční záměr včetně Nezbytné veřejné infrastruktury.
+       Provádění Investičního záměru
+   3.9. Investor je povinen zpracovat veškerou stavebně technickou dokumentaci potřebnou
+        pro Investiční záměr a zajistit vydání veškerých povolení a rozhodnutí příslušných
+        orgánů potřebných k provedení Investičního záměru v souladu se Standardy Města
+        (doplnit název) a Základními parametry. Investor je povinen provést výstavbu
+        Investičního záměru v souladu se Standardy Města (doplnit název), Základními
+        parametry, vydanými rozhodnutími a obecně závaznými právními předpisy
+        upravujícími provádění výstavby.
+   3.10.       Investor se zavazuje informovat Město o průběhu provádění výstavby
+        Investičního záměru a předložit Městu pravomocné povolení pro Investiční záměr do
+        30 dní ode dne nabytí právní moci.
+   3.11.       Investor se zavazuje provést nezbytná opatření na pozemcích dotčených
+        výstavbou Investičního záměru zabraňující ohrožení veřejných zájmů. Pro účely této
+        smlouvy se nezbytným opatřením zabraňujícím ohrožení veřejných zájmů rozumí
+        zejména umožnění vjezdu zdravotnických vozidel, vozidel hasičů apod.
+   3.12.       Investor se zavazuje, že Investičním záměrem nedojde ke znečištění
+        povrchových ani podzemních vod a že stavební odpad bude z místa vzniku
+        bezodkladně odstraňován tak, aby nedocházelo k nepříznivému a nepřiměřenému
+
+                                              3
+
+
+
+                                                                                           Strana 19 / 35
+Příloha č. 1 Zásad – Vzor Plánovací smlouvy
+
+       estetickému či hygienickému dopadu na životní prostředí. Při provádění stavebních
+       prací bude dbáno na to, aby negativní vlivy na přilehlé okolí, zejména dočasná hlučnost
+       a prašnost, byly minimalizovány a Investor odpovídá za veškerou újmu vzniklou při
+       provádění výstavby.
+
+                           4. Nezbytná veřejná infrastruktura
+   4.1. V rámci Investičního záměru bude vybudována nezbytná veřejná infrastruktura, která
+        bude převedena do vlastnictví Města. Vypsat stavební objekty se stručným popisem dle
+        technické zprávy z Dokumentace a s odkazem přílohy č. 1 a č. 2 a uvést pozemky, na
+        kterých bude umístěna. Doplnit definici: (dále jen Nezbytná veřejná infrastruktura).
+   4.2. Financování výstavby Nezbytné veřejné infrastruktury zajistí Investor na své náklady.
+       Dopravní infrastruktura
+   4.3. Investor se zavazuje nejpozději do (bude doplněno dle konkrétního Investičního
+        záměru) ode dne nabytí právní moci kolaudačního rozhodnutí pro stavební objekty
+        dopravní infrastruktury (doplnit konkrétní SO) (dále jen Dopravní infrastruktura)
+        doručit Městu písemnou žádost o uzavření smlouvy o převodu Dopravní infrastruktury
+        do vlastnictví Města, a to včetně částí pozemků dotčených Dopravní infrastrukturou,
+        které nebudou ke dni takové žádosti ve vlastnictví Města. V případě, že Investor včas
+        nedoručí Městu řádnou žádost dle tohoto odstavce, je Město oprávněno takovou žádost
+        zaslat Investorovi, a to nejpozději do (bude doplněno dle konkrétního Investičního
+        záměru) ode dne, kdy se dozví o nabytí právní moci kolaudačního rozhodnutí pro
+        Dopravní infrastrukturu.
+   4.4. Investor se zavazuje uzavřít smlouvu o převodu Dopravní infrastruktury nejpozději do
+        (bude doplněno dle konkrétního Investičního záměru) od nabytí právní moci
+        kolaudačního rozhodnutí pro Dopravní infrastrukturu.
+   4.5. Město se zavazuje zaplatit Investorovi za převod Dopravní infrastruktury a příslušné
+        části pozemků pod Dopravní infrastrukturou celkem částku ve výši 1.000 Kč včetně
+        DPH.
+   4.6. Investor se zavazuje na své náklady zajistit zpracování geometrického plánu
+        skutečného zaměření Dopravní infrastruktury, resp. pozemků pod Dopravní
+        infrastrukturou, a zajistit jeho potvrzení příslušným katastrálním úřadem. Investor se
+        zavazuje zajistit do doby převodu Dopravní infrastruktury do vlastnictví Města na své
+        náklady její správu a údržbu.
+       Veřejné osvětlení
+   4.7. Investor se zavazuje nejpozději do (bude doplněno dle konkrétního Investičního
+        záměru) ode dne nabytí právní moci kolaudačního rozhodnutí pro stavební objekt
+        veřejného osvětlení (doplnit konkrétní SO) (dále jen Veřejné osvětlení) doručit Městu
+        písemnou žádost o uzavření smlouvy o převodu Veřejného osvětlení do vlastnictví
+        Města. V případě, že Investor včas nedoručí Městu řádnou žádost dle tohoto odstavce,
+        je Město oprávněno takovou žádost zaslat Investorovi, a to nejpozději do (bude
+        doplněno dle konkrétního Investičního záměru) ode dne, kdy se dozví o nabytí právní
+        moci kolaudačního rozhodnutí pro Veřejné osvětlení.
+   4.8. Investor se zavazuje uzavřít smlouvu o převodu Veřejného osvětlení nejpozději do
+        (bude doplněno dle konkrétního Investičního záměru) od nabytí právní moci
+        kolaudačního rozhodnutí pro Veřejné osvětlení.
+   4.9. Město se zavazuje zaplatit Investorovi za převod Veřejného osvětlení částku ve výši
+        1.000 Kč včetně DPH.
+
+                                              4
+
+
+
+                                                                                           Strana 20 / 35
+Příloha č. 1 Zásad – Vzor Plánovací smlouvy
+
+   4.10.       V případě, že se v době převodu Veřejného osvětlení do vlastnictví Města, bude
+       Veřejné osvětlení nacházet na pozemcích jiného vlastníka než Města, je Investor
+       povinen zajistit uzavření bezúplatné smlouvy o zřízení služebnosti mezi Městem,
+       provozovatelem Veřejného osvětlení a vlastníkem pozemku. V případě požadavku
+       vlastníka pozemku na úhradu úplaty za zřízení služebnosti se zavazuje Investor
+       poskytnout bezúplatně na účet Města částku požadovanou vlastníkem takových
+       pozemků za zřízení služebnosti. Investor je povinen na své náklady zajistit zpracování
+       geometrického plánu pro vyznačení věcného břemene k části pozemku, na kterém se
+       nachází Veřejné osvětlení, a zajistit jeho potvrzení příslušným katastrálním úřadem.
+       Investor se zavazuje, že do doby převodu Veřejného osvětlení do vlastnictví Města
+       zajistí na své náklady provoz, správu a údržbu Veřejného osvětlení.
+      Vodovodní a kanalizační síť
+   4.11.       Investor se zavazuje v dostatečném předstihu, nejpozději 20 dnů před podáním
+       žádosti o vydání kolaudačního rozhodnutí pro stavební objekt (doplnit konkrétní SO
+       vodovodu, kanalizace pro veřejnou potřebu) (dále jen Vodovodní a kanalizační síť)
+       doručit Městu písemnou žádost o uzavření smlouvy o převodu Vodovodní a kanalizační
+       sítě do vlastnictví Města. V případě, že Investor včas nedoručí Městu řádnou žádost dle
+       tohoto odstavce, je Město oprávněno takovou žádost zaslat Investorovi, a to nejpozději
+       do (bude doplněno dle konkrétního Investičního záměru) ode dne, kdy se dozví o nabytí
+       právní moci kolaudačního rozhodnutí pro Vodovodní a kanalizační síť.
+   4.12.       Investor se zavazuje uzavřít smlouvu o převodu Vodovodní a kanalizační sítě
+       nejpozději do (bude doplněno dle konkrétního Investičního záměru) od nabytí právní
+       moci kolaudačního rozhodnutí pro Vodovodní a kanalizační síť.
+   4.13.       Město se zavazuje zaplatit Investorovi za převod Vodovodní a kanalizační sítě
+       částku ve výši 1.000 Kč včetně DPH za každý stavební objekt Vodovodní a
+       kanalizační sítě.
+   4.14.       V případě, že se v době převodu Vodovodní a kanalizační sítě do vlastnictví
+       Města bude Vodovodní a kanalizační síť nacházet na pozemcích jiného vlastníka než
+       Města, je Investor povinen zajistit uzavření bezúplatné smlouvy o zřízení služebnosti
+       mezi Městem, provozovatelem Vodovodní a kanalizační sítě a vlastníkem pozemku.
+       V případě požadavku vlastníka pozemku na úhradu úplaty za zřízení služebnosti se
+       zavazuje Investor poskytnout bezúplatně na účet Města částku požadovanou
+       vlastníkem takového pozemku za zřízení služebnosti. Investor je povinen na své
+       náklady zajistit zpracování geometrického plánu pro vyznačení věcného břemene
+       k části pozemku, na kterém se nachází Vodovodní a kanalizační síť, a zajistit jeho
+       potvrzení příslušným katastrálním úřadem.
+   4.15.       V případě, že Vodovodní a kanalizační síť nebude z jakýchkoliv důvodů
+       převedena do vlastnictví Města se Investor zavazuje uzavřít s Městem, v dohodnuté
+       lhůtě, dohodu mezi vlastníky provozně souvisejících vodovodů a kanalizací pro
+       veřejnou potřebu dle ust. § 8 zákona č. 274/2001 Sb., zákona o vodovodech
+       a kanalizacích pro veřejnou potřebu, ve znění pozdějších předpisů.
+      Společná ustanovení
+   4.16.       Převody Nezbytné veřejné infrastruktury budou realizovány dle platných
+       podmínek pro převody novostaveb do vlastnictví Města.
+   4.17.       Město se zavazuje převzít Nezbytnou veřejnou infrastrukturu do svého
+       vlastnictví a zajistit její provozování, správu a údržbu za těchto podmínek:
+
+
+
+                                              5
+
+
+
+                                                                                           Strana 21 / 35
+Příloha č. 1 Zásad – Vzor Plánovací smlouvy
+
+       a) Nezbytná veřejná infrastruktura bude vybudována v souladu se Standardy Města
+          (doplnit název) a povoleními příslušných správních orgánů a bude pro ni vydáno
+          pravomocné kolaudační rozhodnutí;
+       b) Investor poskytne Městu záruku na Nezbytnou veřejnou infrastrukturu v délce
+          alespoň 24 měsíců od převzetí Nezbytné veřejné infrastruktury Městem nebo
+          v délce sjednané ve smlouvě o převodu dané Nezbytné veřejné infrastruktury;
+       c) Investor Městu předá dokumenty související s Nezbytnou veřejnou infrastrukturou,
+          zejména dokumentaci skutečného provedení Nezbytné veřejné infrastruktury
+          zpracovanou podle účinných právních předpisů, geometrický plán, záruční listy,
+          technické listy, prohlášení o shodě a další související dokumentaci Nezbytné
+          veřejné infrastruktury, a to pro řádné, nerušené a bezpečné užívání předmětu
+          Nezbytné veřejné infrastruktury;
+       d) bude zajištěna funkčnost celého systému vybudované Nezbytné veřejné
+          infrastruktury;
+       e) bude zajištěn právní vztah Města a příslušného provozovatele či správce Nezbytné
+          veřejné infrastruktury k pozemkům, na nichž bude Nezbytná veřejná infrastruktura
+          umístěna (podle konkrétního případu budou převedeny pozemky, resp. části
+          pozemků pod stavebními objekty příslušné Nezbytné veřejné infrastruktury na
+          Město, příp. uzavřeny smlouvy o zřízení věcného břemene ve prospěch Města).
+   4.18.      Pokud nebude Nezbytná veřejná infrastruktura převedena z jakéhokoliv důvodu
+       do vlastnictví Města, zavazuje se Investor uzavřít s Městem nejpozději do 3 let ode dne
+       nabytí právní moci kolaudačního rozhodnutí pro příslušnou Nezbytnou veřejnou
+       infrastrukturu smlouvu o zřízení služebnosti k pozemkům ve vlastnictví Investora dle
+       „Metodiky pro uzavírání smluv o zřízení služebnosti k služebným pozemkům ve
+       vlastnictví statutárního města Brna dotčeným stavbami inženýrských sítí“ (nestanoví-li
+       tato smlouva u konkrétní Nezbytné veřejné infrastruktury jinak). Za tím účelem zajistí
+       Investor na svůj náklad zpracování potřebného počtu geometrických plánů pro
+       vyznačení rozsahu věcného břemene k části pozemku a jejich potvrzení příslušným
+       katastrálním úřadem.
+   4.19.      Investor zajistí, aby převáděné pozemky pod Nezbytnou veřejnou
+       infrastrukturou v době převodu do vlastnictví Města nebyly zatíženy exekucí nebo
+       soudním výkonem rozhodnutí, služebností (s výjimkou služebností zřízených ve
+       prospěch Města a jednotlivých vlastníků, správců a provozovatelů inženýrských sítí),
+       dále aby nebyly zatíženy zejména zástavním právem, předkupním právem či jinými
+       právy třetích osob.
+   4.20.      Smluvní strany shodně prohlašují, že Nezbytná veřejná infrastruktura bude
+       sloužit obecnému užívání. Je proto ve veřejném zájmu, aby tato mohla být užívána
+       občany obvyklým způsobem. Smluvní strany se výslovně dohodly, že v souvislosti s
+       výstavbou, převodem a správou Nezbytné veřejné infrastruktury, a dalšími činnostmi s
+       těmito souvisejícími, které jsou předpokládány touto smlouvou či zvyklostmi, nebude
+       Investorovi a ani jeho právním nástupcům náležet jakákoliv úplata, náhrada nákladů či
+       jakékoliv jiné plnění, vyjma plnění předpokládaných touto smlouvou, a Investor se
+       tímto jakýchkoliv takovýchto nároků, kdyby v budoucnu i přes toto ujednání vznikly,
+       předem vzdává.
+
+
+
+
+                                              6
+
+
+
+                                                                                           Strana 22 / 35
+Příloha č. 1 Zásad – Vzor Plánovací smlouvy
+
+                                  5. Veřejné prostranství
+       Budoucí zřízení služebnosti užívání veřejného prostranství jako veřejného statku:
+       ustanovení tohoto článku se použije v případě, že v rámci Investičního záměru vzniknou
+       veřejně přístupné plochy na pozemcích, které se nebudou převádět do vlastnictví Města,
+       tj. zůstanou ve vlastnictví Investora či se převedou na budoucí vlastníky např. bytových
+       jednotek a současně tyto plochy budou mít charakter veřejného prostranství.
+   5.1. V rámci Investičního záměru bude na pozemcích parc. č. (doplnit), k. ú. (doplnit)
+        realizována výstavba (doplnit název a konkrétní SO) (dále jen Veřejné prostranství),
+        jak je zakreslena v příloze č. (doplnit) smlouvy. Jedná se o plochy, které budou mít
+        charakter veřejného prostranství.
+   5.2. Smluvní strany souhlasně prohlašují, že Veřejné prostranství je veřejně přístupný
+        prostor, který bude sloužit obecnému užívání, tj. veřejnému užívání, užívání širokou
+        veřejností, předem neomezeným okruhem subjektů, a který nebude převeden do
+        vlastnictví Města. Smluvní strany souhlasně prohlašují, že je ve veřejném zájmu, zájmu
+        Města i zájmu Investora, aby Veřejné prostranství mohli užívat všichni občané
+        obvyklým, dovoleným a majetek nepoškozujícím způsobem a obě Smluvní strany s
+        tímto užíváním širokou veřejností souhlasí.
+   5.3. Město a Investor se touto smlouvou zavazují uzavřít mezi sebou smlouvu o zřízení
+        služebnosti užívání Veřejného prostranství jako veřejného statku, jejímž předmětem
+        bude veřejné užívání Veřejného prostranství s tím, že po veřejně přístupných
+        průchodech lze chodit a dopravovat se po nich lidskou silou, zdržovat se na nich, a to
+        nepřetržitě a bez jakéhokoliv omezení, dvacet čtyři hodin denně (dále jen Služebnost
+        veřejného užívání). Služebnost veřejného užívání bude zřízena k celému pozemku
+        nebo k jeho části dle geometrického plánu, který nechá zpracovat a zajistí jeho
+        potvrzení příslušným katastrálním úřadem na své náklady Investor (případně bude
+        přílohou smlouvy zákres).
+   5.4. Služebnost veřejného užívání bude ve prospěch Města zřízena bezúplatně a na dobu
+        neurčitou.
+   5.5. Veškeré náklady na údržbu Veřejného prostranství ponese Investor a v souvislosti s
+        užíváním Veřejného prostranství nebude Investorovi náležet jakákoliv úplata, náhrada
+        nákladů či jakékoliv jiné plnění a Investor se tímto jakýchkoliv takovýchto nároků,
+        kdyby v budoucnu i přes toto ujednání vznikly, předem vzdává.
+   5.6. Smluvní strany se zavazují uzavřít smlouvu o zřízení Služebnosti veřejného užívání
+        nejpozději do dne vydání kolaudačního rozhodnutí pro Investiční záměr nebo jeho části
+        zahrnující některou z částí Veřejného prostranství. Nedohodnou-li se Smluvní strany
+        jinak, účinnost smlouvy o zřízení Služebnosti veřejného užívání bude odložena na
+        okamžik nabytí právní moci kolaudačního rozhodnutí pro Investiční záměr či jeho část
+        zahrnující Veřejné prostranství či jeho část. Investor se zavazuje, že Město o plánované
+        kolaudaci dopředu vyrozumí a předá Městu všechny nezbytné podklady pro přípravu
+        návrhu smlouvy. Návrh smlouvy připraví Město.
+   5.7. V případě, kdy by z jakýchkoliv právních či faktických důvodů v době, kdy by
+        Služebnost veřejného užívání měla být zřízena, nebylo možné využít institut
+        Služebnosti veřejného užívání, zavazuje se Investor uzavřít s Městem jinou smlouvu či
+        učinit jiné jednání, které zajistí, aby Veřejné prostranství mohly bez omezení a
+        bezúplatně užívat všechny fyzické osoby po dobu neurčitou. Jestliže Služebnost
+        veřejného užívání nebude z jakéhokoliv důvodu zřízena ke dni vydání kolaudačního
+        rozhodnutí pro Investiční záměr, zavazuje se Investor strpět bezúplatné užívání
+
+
+                                               7
+
+
+
+                                                                                            Strana 23 / 35
+Příloha č. 1 Zásad – Vzor Plánovací smlouvy
+
+        Veřejného prostranství ze strany veřejnosti na základě závazku sjednaného touto
+        smlouvou a stejný závazek sjednat i pro své právní nástupce.
+   5.8. Investor se zavazuje, že se v době ode dne uzavření této smlouvy až do dne uzavření
+        smlouvy o zřízení Služebnosti veřejného užívání zdrží jakéhokoliv jednání (právního i
+        faktického), které by zmařilo či jen bylo způsobilé zmařit zřízení Služebnosti veřejného
+        užívání.
+
+                              6. Závazky a součinnost Města
+   6.1. Město touto smlouvou přebírá v dále uvedeném rozsahu a za dále uvedených podmínek
+        závazky dle § 131 odst. 1 Stavebního zákona.
+   6.2. Město se podle § 131 odst. 1 písm. c) Stavebního zákona po dobu trvání této smlouvy,
+        nejdéle však po dobu (doplnit) let od nabytí účinnosti této smlouvy, zavazuje
+        nepřijmout změnu ÚPmB ani jakoukoliv jinou změnu územně plánovací dokumentace
+        či novou územně plánovací dokumentaci nebo jiné opatření obecné povahy, v jejichž
+        důsledku by nebylo možné realizovat Investiční záměr. Za porušení závazku dle tohoto
+        odstavce se nepovažuje změna či přijetí nové územně plánovací dokumentace, která
+        byla vyvolaná nadřazenou územně plánovací dokumentací ve smyslu § 73 odst. 3 a §
+        112 Stavebního zákona, nebo jinak postupem Města dle veřejnoprávních předpisů, od
+        kterých se Město nemůže odchýlit.
+   6.3. Město se podle § 131 odst. 1 písm. d) Stavebního zákona zavazuje, že po dobu trvání
+        této smlouvy nebude ve správních nebo soudních řízeních týkajících se povolení
+        Investičního záměru uplatňovat návrhy, vyjádření a opravné prostředky, z důvodů
+        takových vlastností Investičního záměru, které jsou v souladu se Základními
+        parametry. Město je však oprávněno v jednotlivých řízeních uplatňovat návrhy,
+        vyjádření a opravné prostředky v případě:
+       a) že projednávaný Investiční záměr bude v předmětných řízeních v rozporu se
+            sjednanými Základními parametry;
+       b) z důvodu jiných vlastností Investičního záměru než těch, které byly projednány a
+            odsouhlaseny jako Základní parametry; v takovém případě bude Město vždy
+            postupovat v dobré víře a musí o důvodech svého postupu vždy bezodkladně
+            informovat Investora a jednat s ním o řešení vzniklé situace; nebo
+       c) že vyjdou najevo nové významné skutečnosti, které se mohou dotýkat zájmů
+            hájených Městem nebo veřejného zájmu, a které nebyly ke dni uzavření této
+            smlouvy Městu známy, a to zejména, nikoliv však výlučně, skutečnosti vyplývající
+            ze stanovisek dotčených orgánů či předložených znaleckých posudků.
+   6.4. Město poskytne Investorovi další nezbytnou součinnost v rámci samostatné působnosti
+        pro povolení, provedení a dokončení Investičního záměru v souladu se Základními
+        parametry. Součinnost dle předchozí věty Město poskytne v rámci svých možností na
+        základě předchozí výzvy Investora bez zbytečného odkladu po doručení takové výzvy
+        a v rozsahu nezbytném a/nebo vhodném k naplnění účelu této smlouvy.
+   6.5. Město si vyhrazuje možnost odmítnout plnění svých závazků vůči Investorovi dle této
+        smlouvy, v případech a rozsahu, ve kterém:
+       a) by bylo poskytnutí součinnosti v rozporu s právními předpisy;
+       b) Investor při povolování nebo realizaci Investičního záměru nedodrží Základní
+            parametry;
+       c) Investor podstatným způsobem porušuje tuto smlouvu.
+
+                                               8
+
+
+
+                                                                                            Strana 24 / 35
+Příloha č. 1 Zásad – Vzor Plánovací smlouvy
+
+        Město je v takovém případě oprávněno vyjádřit nesouhlas s Investičním záměrem,
+        neposkytovat Investorovi součinnost a neplnit další závazky podle této smlouvy, dokud
+        nebude zjednána náprava. V takovém případě Město musí o důvodech pro odepření
+        součinnosti nebo neplnění svých závazků Investora bezodkladně písemně informovat.
+
+                                        7. Investiční příspěvek
+    7.1. Smluvní strany se dohodly, že Investor poskytne Městu, v souladu s ustanoveními
+         Zásad, Investiční příspěvek v předběžné výši (doplnit) Kč. Předběžná výše
+         Investičního příspěvku byla stanovena v souladu se Zásadami jako násobek počtu m2
+         HPP dle Dokumentace pro povolení záměru Investičního záměru, tj. (doplnit počet m2
+         HPP) m2 a Základní sazby v aktuální výši ke dni uzavření této smlouvy, tj. částky ve
+         výši (doplnit aktuální Základní sazbu rozhodnou pro tuto smlouvu) Kč.
+    7.2. Investor poskytne Investiční příspěvek Městu ve formě Peněžního plnění a
+         Nepeněžního plnění za podmínek stanovených níže.
+        (V případě, že Investor nebude poskytovat Nepeněžní plnění je nutné zažlucené smazat
+        společně s částí níže týkající se Nepeněžního plnění.)
+        Peněžní plnění
+    7.3. Investor poskytne Městu do Fondu developerských projektů Peněžní plnění
+         v předběžné celkové výši (doplnit) Kč, upravené o inflaci dle čl. 7.7 smlouvy.
+         Konečná výše Peněžního plnění bude určena jako součet jednotlivých splátek
+         Peněžního plnění dle čl. 7.5 smlouvy.1
+    7.4. Peněžní plnění je Městu poskytováno za účelem (doplnit konkrétní účel, pokud je to
+         vhodné).
+    7.5. Splatnost Peněžního plnění sjednávají Smluvní strany ve dvou splátkách, a to
+         následovně:
+        a) 1. splátka - část Peněžního plnění ve výši 5/10/20 % z předpokládané výše
+            Investičního příspěvku ve formě Peněžního plnění, tj. částku ve výši (doplnit) Kč,
+            poskytne Investor Městu do 60 dnů od nabytí právní moci povolení Investičního
+            záměru; částka bude k datu nabytí právní moci povolení Investičního záměru
+            upravena o inflaci dle čl. 7.7 smlouvy;
+        b) 2. splátka - zbývající část Peněžního plnění ve výši vypočtené jako násobek (i)
+            Základní sazby ve výši ke dni uzavření této smlouvy a (ii) počtu m2 HPP
+            Investičního záměru podle Dokumentace skutečného provedení, od kterého se
+            odečte (i) výše 1. splátky bez valorizace, tj. příslušné procento z předpokládané
+            výše Investičního příspěvku ve formě Peněžního plnění, a (ii) hodnota Nepeněžního
+            plnění poskytovaného dle této smlouvy upravená o inflaci obdobně dle čl. 7.7
+            Smlouvy, poskytne Investor Městu do 60 dnů od nabytí právní moci kolaudačního
+            rozhodnutí Investičního záměru; částka bude k datu podání žádosti o vydání
+            kolaudačního rozhodnutí Investičního záměru upravena o inflaci dle čl. 7.7
+            smlouvy.
+
+
+
+1
+  Město uzavírá tuto smlouvu jako osoba nepovinná k dani ve smyslu § 5 odst. 4 zákona č. 235/2004 Sb., o dani z
+přidané hodnoty, ve znění pozdějších předpisů. Pro případ, že by došlo k takové změně výkladu zákona nebo k
+jiné skutečnosti, v jejímž důsledku by Městu vznikla povinnost uplatnit daň z přidané hodnoty, není tato daň
+zahrnuta ve výši Investičního příspěvku a Investor je povinen Městu příslušnou částku daně doplatit na základě
+daňového dokladu vystaveného Městem.
+
+                                                      9
+
+
+
+                                                                                                           Strana 25 / 35
+Příloha č. 1 Zásad – Vzor Plánovací smlouvy
+
+   7.6. Investor je povinen předložit Městu Dokumentaci skutečného provedení nejpozději
+        společně s podáním žádosti o vydání kolaudačního rozhodnutí Investičního záměru. Na
+        základě předložené Dokumentace skutečného provedení zašle Město Investorovi
+        písemně výpočet druhé splátky Investičního příspěvku ve formě Peněžního plnění.
+        Pokud se Dokumentace skutečného provedení v průběhu řízení o vydání kolaudačního
+        rozhodnutí změní, bude výpočet druhé splátky Investičního příspěvku upraven dle
+        finální Dokumentace skutečného provedení ověřené stavebním úřadem.
+   7.7. Smluvní strany se dohodly, že výše dosud neposkytnuté části Peněžního plnění se vždy
+        ke dni 1. května každého kalendářního roku automaticky zvyšuje o míru inflace
+        vyjádřenou podle indexu vypočteného dle pravidel této smlouvy za uplynulý
+        kalendářní rok (dále jen Inflační index). Částky, které jsou předmětem valorizace
+        podle tohoto článku, se vždy zvýší o tolik procentních bodů, kolik činí výše Inflačního
+        indexu; nejvýše však v souhrnu o 20 procentních bodů za celou dobu trvání této
+        smlouvy pro každou částku, která je předmětem valorizace podle tohoto článku. Takto
+        valorizované částky nahrazují původní částky v příslušných ustanoveních této smlouvy
+        a stávají se základem pro případnou další indexaci v příštích letech.
+       Inflační index za uplynulý kalendářní rok se rovná výši roční míry inflace vyjádřené
+       v procentech podle přírůstku průměrného ročního indexu cen stavebních děl podle
+       klasifikace CZ-CC (souhrnné položky stavební díla) za uplynulý kalendářní rok
+       vydávaným Českým statistickým úřadem. Pokud by výsledná hodnota dle uvedeného
+       výpočtu Inflačního indexu byla nižší než nula, pak se Inflační index daného
+       kalendářního roku rovná nule.
+       Nepeněžní plnění
+   7.8. Investor převede do vlastnictví Města pozemky pro [doplnit výstižný název/definici
+        daného plnění, např. „Pozemky pro park“] v hodnotě určené dle (doplnit, jak byla
+        hodnota daného Nepeněžního plnění určena) ve výši (doplnit) Kč v souladu
+        s následujícími podmínkami:
+       a) [Ve smlouvě bude zvolena jedna či více z níže uvedených variant:]
+            [varianta se známou polohou pozemků] pozemky o výměře cca […] m2, jejichž
+            poloha je stanovena v situačním zákresu, který je přílohou č. […] smlouvy a jejichž
+            přesná poloha a výměra budou určeny na základě geometrického plánu potvrzeného
+            příslušným katastrálním úřadem, který předloží Investor Městu ve lhůtě […]. Pokud
+            Investor nepředloží geometrický plán ve lhůtě dle předchozí věty, je Město
+            oprávněno zajistit vypracování geometrického plánu a jeho potvrzení příslušným
+            katastrálním úřadem namísto Investora a na jeho náklady;
+            [varianta s polohou k upřesnění] pozemky o výměře […] m2, jejichž přesnou
+            polohu určí Investor v rámci území, které je stanoveno v situačním zákresu v
+            příloze č. […] smlouvy; Investor zajistí vypracování geometrického plánu
+            vymezujícího pozemky a jeho potvrzení příslušným katastrálním úřadem;
+       b) Investor vyzve Město k uzavření smlouvy o převedení vlastnického práva
+            k pozemkům a k převzetí pozemků do: (i) 3 měsíců od nabytí právní moci povolení
+            záměru/kolaudačního rozhodnutí Investičního záměru nebo nejpozději do
+            (ii) [doplnit pevné nejzazší datum], a to podle toho, který z uvedených okamžiků
+            nastane nejdříve. Nevyzve-li Investor včas, může výzvu k uzavření smlouvy učinit
+            i Město, a to kdykoli za trvání této smlouvy;
+
+
+
+                                              10
+
+
+
+                                                                                           Strana 26 / 35
+Příloha č. 1 Zásad – Vzor Plánovací smlouvy
+
+       c) Smluvní strany se zavazují uzavřít kupní smlouvu, na základě které Investor
+          převede vlastnické právo k pozemkům na Město a předá pozemky Městu, a to vše
+          do […] od doručení výzvy k uzavření smlouvy;
+       d) Investor převede vlastnické právo k pozemkům za cenu ve výši (doplnit) Kč.
+   7.9. Investor poskytne Městu projektovou dokumentaci [doplnit výstižný název/definici
+        daného plnění, např. „projektová dokumentace pro mateřskou školu“] v hodnotě určené
+        dle (doplnit, jak byla hodnota daného Nepeněžního plnění určena) ve výši (doplnit) Kč
+        v souladu s následujícími podmínkami:
+       a) ve stupni […]; příprava projektové dokumentace dle Stavebního zákona a jeho
+            prováděcích právních předpisů bude pravidelně konzultována s Městem, jehož
+            připomínky mají pouze doporučující charakter;
+       b) projektová dokumentace bude připravena v souladu s [definovat obecné požadavky
+            jakosti zde nebo odkazem na přílohu, např.: „projektová dokumentace ve stupni
+            […] pro mateřskou školu pro 100 žáků, s plochou HPP nejméně […] m2, a
+            v souladu s dalšími požadavky uvedenými v příloze č. […] smlouvy“; nesmí se však
+            jednat o tak konkrétní požadavky, které by mohly představovat zadání na veřejnou
+            zakázku na stavební práce, což bude posouzeno v každém jednotlivém případě
+            samostatně];
+       c) Investor se zavazuje zajistit spolu s vypracováním projektové dokumentace
+            inženýring stavby včetně získání pravomocného povolení záměru pro výše
+            uvedenou stavbu;
+       d) Investor předá Městu projektovou dokumentaci ve strojově čitelném formátu a ve
+            (doplnit počet) paré v papírové podobě [variantně: i originály pravomocných
+            rozhodnutí] k převzetí v dostatečném předstihu, a to nejpozději do [konkrétní
+            okamžik bude stanoven dle specifik každého případu];
+       e) Investor poskytne Městu výhradní postupitelnou licenci k autorskému dílu
+            projektové dokumentace, která bude v územně a množstevně neomezeném rozsahu
+            umožňovat užití projektové dokumentace všemi známými způsoby včetně
+            oprávnění Města udílet podlicence, a to na celou dobu trvání autorských
+            majetkových práv, a uzavře k tomu příslušnou licenční smlouvu nejpozději do […],
+            za cenu ve výši (doplnit) Kč;
+       f) projektová dokumentace musí splňovat minimálně kvalitu odpovídající, resp.
+            požadovanou dle vyhlášky č. 264/2020 Sb., o energetické náročnosti budov, ve
+            znění pozdějších předpisů.
+   7.10.     Město se zavazuje poskytnout Investorovi nezbytnou součinnost v souvislosti
+       s převzetím a převodem řádně a v souladu s touto smlouvou provedeného Nepeněžního
+       plnění (nebo jeho části) do vlastnictví Města. Pokud taková součinnost nebude
+       Investorovi řádně a včas poskytnuta (např. Město z důvodů na své straně neoprávněně
+       neuzavře smlouvu o převodu vlastnického práva k Nepeněžnímu plnění), není Investor
+       v prodlení s plněním jeho povinností předat Městu konkrétní Nepeněžní plnění, anebo
+       převést vlastnické právo na Město ke konkrétnímu Nepeněžnímu plnění, ve lhůtách
+       stanovených touto smlouvou.
+   7.11.     Není-li v této smlouvě stanoveno jinak, Město se zavazuje převzít Nepeněžní
+       plnění nebo jeho část bez zbytečného odkladu, nejpozději však do 12 (dvanácti)
+       kalendářních měsíců ode dne, kdy (i) bude předmět dílčí části Nepeněžního plnění
+       řádně dokončen a (ii) Investor písemně vyzve Město ke kontrole a převzetí dané části
+
+                                              11
+
+
+
+                                                                                          Strana 27 / 35
+Příloha č. 1 Zásad – Vzor Plánovací smlouvy
+
+       Nepeněžního plnění a předloží za tímto účelem Městu veškerou potřebnou
+       dokumentaci. Město poskytne Investorovi za účelem převzetí a přijetí Nepeněžního
+       plnění do vlastnictví nezbytnou součinnost.
+   7.12.     Pro případ, že by Nepeněžní plnění nebo jeho dílčí část:
+      a) nebylo Investorem poskytnuto v souladu s touto smlouvou; nebo
+      b) nemohlo být pro porušení smlouvy Investorem řádně užíváno nebo využito;
+       je Město oprávněno takové Nepeněžní plnění nebo jeho část nepřevzít a/nebo
+       nepřijmout do vlastnictví a/nebo neuzavřít k tomu příslušné realizační smlouvy, a to až
+       do doby nápravy a uvedení Nepeněžního plnění nebo jeho části do souladu s touto
+       smlouvou.
+
+                             8. Utvrzení závazků ze smlouvy
+       (Výše a rozsah smluvních pokut bude vždy sjednána dle konkrétních okolností případu.)
+       Nezbytná veřejná infrastruktura
+   8.1. Poruší-li Investor svou povinnost převést Nezbytnou veřejnou infrastrukturu do
+        vlastnictví Města dle sjednaných podmínek a ve lhůtách dle této smlouvy a nezjedná
+        nápravu ani v dodatečné lhůtě (doplnit) dnů od doručení písemného upozornění ze
+        strany Města, je povinen uhradit Městu smluvní pokutu ve výši (doplnit) Kč za každý
+        jednotlivý případ porušení.
+   8.2. Poruší-li Investor svou povinnost zajistit správu, údržbu či provozování Nezbytné
+        veřejné infrastruktury do doby jejího převodu do vlastnictví Města a nezjedná nápravu
+        ani v dodatečné lhůtě (doplnit) dnů od doručení písemného upozornění ze strany Města,
+        je povinen uhradit Městu smluvní pokutu ve výši (doplnit) Kč za každý jednotlivý
+        případ porušení. V případě, že Investor poruší závazek zajistit správu, údržbu a
+        provozování Nezbytné veřejné infrastruktury, je Město oprávněno dle vlastní úvahy
+        zajistit správu, údržbu a provozování dané Nezbytné veřejné infrastruktury na náklady
+        a nebezpečí Investora.
+   8.3. Poruší-li Investor svůj závazek uzavřít s Městem za sjednaných podmínek dohodu mezi
+        vlastníky provozně souvisejících vodovodů a kanalizací pro veřejnou potřebu dle ust.
+        § 8 zákona č. 274/2001 Sb., zákona o vodovodech a kanalizacích pro veřejnou potřebu,
+        ve znění pozdějších předpisů a nezjedná nápravu ani v dodatečné lhůtě (doplnit) dnů
+        od doručení písemného upozornění ze strany Města, je povinen uhradit Městu smluvní
+        pokutu ve výši (doplnit) Kč za každý jednotlivý případ porušení.
+       Služebnost veřejného užívání
+   8.4. Poruší-li Investor svou povinnost uzavřít smlouvu o zřízení Služebnosti veřejného
+        užívání dle čl. 5.3 smlouvy a nezjedná nápravu ani v dodatečné lhůtě (doplnit) dnů od
+        doručení písemného upozornění ze strany Města, pak uhradí Městu smluvní pokutu ve
+        výši (doplnit) Kč za každý jednotlivý případ porušení.
+       Nedodržení Základních parametrů
+   8.5. Poruší-li Investor svou povinnost dodržet při realizaci Investičního záměru sjednané
+        Základní parametry dle čl. 3.3 smlouvy a nezjedná nápravu ani v dodatečné lhůtě
+        (doplnit) dnů od doručení písemného upozornění ze strany Města, pak uhradí Městu
+        smluvní pokutu ve výši (doplnit) Kč za každý jednotlivý případ porušení. Dojde-li
+        jedním jednáním nebo opomenutím Investora nebo více jednáními či opomenutími
+        Investora, které jsou spojeny blízkou časovou, věcnou a místní souvislostí k porušení
+        více Základních parametrů (např. v rámci výstavby jedné budovy v rozporu s více
+
+                                              12
+
+
+
+                                                                                           Strana 28 / 35
+Příloha č. 1 Zásad – Vzor Plánovací smlouvy
+
+        Základními parametry), považují se všechna taková porušení pro účely úhrady smluvní
+        pokuty za jeden případ porušení.
+       Nepředložení Dokumentace skutečného provedení
+   8.6. Poruší-li Investor svou povinnost předložit Městu Dokumentaci skutečného provedení
+        nejpozději s podáním žádosti o vydání kolaudačního rozhodnutí Investičního záměru,
+        pak uhradí Městu smluvní pokutu ve výši (doplnit) Kč za každý jednotlivý případ
+        porušení.
+       Prodlení s úhradou finanční částky
+   8.7. Bude-li Investor v prodlení se splněním jeho závazků (kteréhokoli z nich) k zaplacení
+        jakékoliv finanční částky dle této smlouvy, je povinen uhradit Městu úrok z prodlení
+        ve výši 0,1 % z dlužné částky, s jejímž zaplacením je Investor v prodlení, za každý
+        započatý den prodlení. Bude-li však sazba úroku z prodlení stanovená nařízením vlády
+        podle § 1970 Občanského zákoníku kdykoli během prodlení Investora vyšší než shora
+        smluvená sazba, použije se v takovém období tato vyšší sazba úroku z úroku prodlení
+        dle nařízení vlády.
+       Nepeněžní plnění
+   8.8. Poruší-li Investor svou povinnost převést vlastnické právo či sjednat jiné právo (např.
+        licenční oprávnění k projektové dokumentaci) k Nepeněžnímu plnění ve prospěch
+        Města ve sjednané lhůtě a nezjedná nápravu ani v dodatečné lhůtě (doplnit) dnů od
+        doručení písemného upozornění ze strany Města, je Město oprávněno požadovat
+        namísto Nepeněžního plnění náhradní finanční plnění, ve výši násobku předpokládané
+        hodnoty konkrétního Nepeněžního plnění, kterou je Město oprávněno navýšit o inflaci
+        obdobně postupem dle čl. 7.7 smlouvy a sankčního koeficientu ve výši (doplnit dle
+        okolností případu).
+   8.9. Požádalo-li Město o náhradní finanční plnění dle čl. 8.8 smlouvy, pak okamžikem
+        úhrady takového plnění zaniká závazek Investora poskytnout konkrétní Nepeněžní
+        plnění. Investor je povinen uhradit náhradní finanční plnění do Fondu developerských
+        projektů ve lhůtě stanovené Městem v písemné výzvě.
+       [V případě požadavku Města můžou být sjednány další smluvní pokuty, zejména smluvní
+       pokuta za prodlení se zřízením zajištění.]
+       Společná ustanovení
+   8.10.       Investor se zavazuje zaplatit Městu smluvní pokutu do 30 dní poté, co mu bude
+        doručena výzva Města k jejímu uhrazení.
+   8.11.       Zaplacením kterékoli smluvní pokuty nezaniká závazek, který smluvní pokuta
+        zajišťuje, není-li v konkrétním případě výslovně stanoveno jinak.
+   8.12.       Zaplacením smluvní pokuty současně není dotčeno právo Města na náhradu
+        škody v rozsahu, v jakém tato není kryta nárokem ze smluvní pokuty. Investor je
+        povinen takto uplatněnou náhradu škody na první výzvu Městu uhradit.
+   8.13.       Ujednáním ani zaplacením smluvní pokuty za porušení povinnosti Investora
+        v souvislosti s výstavbou Nezbytné veřejné infrastruktury není dotčeno právo Města na
+        náhradu škody Městu vzniklé v plné výši a Město má právo uplatnit vůči Investorovi
+        právo na náhradu škody, která Městu vznikla v souvislosti s výstavbou Nezbytné
+        veřejné infrastruktury a Investor je povinen takto uplatněnou náhradu škody na první
+        výzvu Městu uhradit.
+   8.14.       Smluvní strany konstatují, že smluvní pokuty sjednané v této smlouvě považují
+        za přiměřené s přihlédnutím k hodnotě a významu zajišťovaných povinností. Funkcí
+
+                                              13
+
+
+
+                                                                                           Strana 29 / 35
+Příloha č. 1 Zásad – Vzor Plánovací smlouvy
+
+       sjednaných smluvních pokut je především funkce preventivní a sankční, a to zejména
+       u smluvních pokut, které zajišťují právní jistotu a zájmy Města, které nemají pouze
+       majetkový význam.
+
+                             9. Zajištění závazků ze smlouvy
+   9.1. Za účelem řádného a včasného plnění všech povinností Investora dle této smlouvy se
+        zavazuje Investor poskytnout níže uvedené zajištění, které bude udržovat jako platné
+        po celou dobu trvání této smlouvy až do úplného splnění svých povinností.
+       (Výběr konkrétního zajišťovacího institutu bude proveden v rámci vyjednávání
+       konkrétní Plánovací smlouvy s ohledem na velikost, typ, lokalitu Investičního záměru.
+       Např. ručení, kauce, bankovní záruka, zástavní právo.)
+       Ručitelské prohlášení
+   9.2. Za účelem řádného a včasného splnění všech povinností Investora podle této smlouvy
+        zajistí Investor vystavení ručitelského prohlášení (dále jen Ručitelské prohlášení) ze
+        strany (doplnit identifikaci Ručitele) (dále jen Ručitel) v souladu s § 2018 a násl.
+        Občanského zákoníku, a jeho doručení Městu do (doplnit termín zřízení zajištění), ve
+        kterém se Ručitel zaváže splnit veškeré dluhy (povinnosti) Investora z této smlouvy.
+   9.3. Ručitelské prohlášení bude ve všech podstatných ohledech odpovídat vzorovému znění
+        Ručitelského prohlášení, které tvoří přílohu č. (doplnit) této smlouvy. Ručitelské
+        prohlášení bude vystaveno ve prospěch Města s tím, že bude omezeno nejvyšší možnou
+        částkou plnění ve prospěch Města, a to do výše: (částka by měla být stanovena ve vazbě
+        na výši Investičního příspěvku) Kč (dále jen Částka ručení). Částka ručení se průběžně
+        automaticky snižuje o částku řádně uhrazeného Peněžního plnění.
+   9.4. Částka ručení bude upravována o inflaci obdobně podle pravidel v čl. 7.7 smlouvy.
+        Investor je povinen nejpozději do 31. května každého kalendářního roku doručit Městu
+        aktualizované Ručitelské prohlášení s Částkou ručení upravenou o inflaci obdobně
+        podle pravidel v čl. 7.7 smlouvy.
+
+                            10. Odpovědnost Smluvních stran
+   10.1.      Ani jedna ze Smluvních stran není odpovědná za své prodlení, a/nebo následky
+       porušení svých povinností dle této smlouvy, a za takové prodlení či porušení proti ní
+       nelze uplatňovat žádné smluvní sankce, prokáže-li, že prodlení či porušení povinností
+       jsou důsledkem události vyšší moci. Za vyšší moc se pro účely této smlouvy považuje:
+      a) mimořádná nepředvídatelná a nepřekonatelná překážka vzniklá nezávisle na vůli
+           příslušné Smluvní strany, tj. zejména epidemie, ozbrojené konflikty a přírodní
+           katastrofy, a to pouze za podmínky, že splňují předpoklady uvedené v této větě;
+           nebo
+      b) nezákonné rozhodnutí nebo nesprávný úřední postup orgánů veřejné moci;
+      pokud jsou zároveň příčinou prodlení nebo porušení povinnosti Smluvní stranou a v
+      případě Investora taktéž současně pouze za podmínky, že žádnou z výše uvedených
+      okolností nezpůsobil, byť zčásti, Investor svým jednáním, opomenutím či jakýmkoli
+      jiným konáním Investora (např. podáním podnětu k orgánu veřejné moci apod.).
+   10.2.      Každá Smluvní strana je povinna bez zbytečného odkladu poté, co zjistí, že
+       událost vyšší moci způsobí její prodlení s plněním povinnosti dle této smlouvy nebo
+       porušení jejích smluvních povinností, tuto skutečnost písemně oznámit druhé Smluvní
+       straně. Smluvní strana, která svoji oznamovací povinnost dle předchozí věty řádně a
+       včas nesplní, nemůže se již této události vyšší moci dovolávat.
+
+                                              14
+
+
+
+                                                                                           Strana 30 / 35
+Příloha č. 1 Zásad – Vzor Plánovací smlouvy
+
+   10.3.      Město nenese odpovědnost za nesplnění povinnosti z této smlouvy v důsledku
+       zákonem vynuceného jednání (např. na základě výsledku místního referenda, které
+       bylo iniciováno přípravným výborem). V takovém případě vstoupí Smluvní strany
+       v dobré víře do vzájemných jednání, a to za účelem nalezení řešení takto vzniklé
+       situace. Výsledkem těchto jednání bude uzavření dodatku k této smlouvě, kterým
+       Smluvní strany upraví svá vzájemná práva a povinnosti v návaznosti na dotčené
+       zákonem vynucené jednání při zachování smyslu a účelu této smlouvy.
+   10.4.      Na základě dohody Smluvních stran se tímto vylučuje právo kterékoli ze
+       Smluvních stran na náhradu ušlého zisku, který by jinak mohla Smluvní strana
+       požadovat za porušení povinností uvedených v této smlouvě a Smluvní strany se tímto
+       vzdávají práva na náhradu ušlého zisku.
+
+                    11. Převod pozemků a změny v osobě Investora
+      Informování o existenci smlouvy
+   11.1.      Investor se zavazuje, že bude své případné právní nástupce vč. případných
+       nabyvatelů pozemků, na nichž hodlá realizovat Investiční záměr, tj. pozemků parc. č.
+       (doplnit)/pozemků označených v příloze č. (doplnit) smlouvy (dále jen Pozemky),
+       nebo jejich části, prokazatelně informovat o existenci a obsahu této smlouvy ve znění
+       případných pozdějších dodatků a dále se zavazuje, že smluvně zaváže své případné
+       právní nástupce nebo nabyvatele Pozemků k tomu, že i tito budou mít povinnost
+       informovat své případné právní nástupce o existenci a obsahu této smlouvy ve znění
+       případných pozdějších dodatků.
+      Převod Pozemků
+   11.2.      Investor je oprávněn převést Pozemky nebo jejich část na třetí osobu bez
+       předchozího souhlasu Města, přičemž převod Pozemků na třetí osobu není důvodem
+       pro zánik jakýchkoli závazků nebo povinností Investora dle této smlouvy. Pro případ,
+       že Investor převede vlastnické právo k Pozemkům nebo jejich části na třetí osobu,
+       zavazuje se zajistit a odpovídá za to, že nový vlastník Pozemků bude postupovat tak,
+       aby byly včas a řádně splněny všechny povinnosti Investora dle této smlouvy (zejména
+       závazek dodržet Základní parametry při výstavbě na převedených Pozemcích nebo
+       závazek uhradit Peněžní plnění aj.). Nebudou-li povinnosti Investora dle této smlouvy
+       splněny z důvodu konání či opomenutí nového vlastníka Pozemků nebo jejich části,
+       považuje se takové jednání nebo opomenutí za porušení povinností Investora dle této
+       smlouvy a Investor odpovídá, jako by tuto smlouvu porušil sám, včetně případných
+       sankcí, a to bez ohledu na převod Pozemků na třetí osobu.
+      Postoupení smlouvy
+   11.3.      Tato smlouva, jednotlivá práva a povinnosti z této smlouvy vyplývající nebo
+       jejich část nesmí být souladu s § 130 odst. 2 Stavebního zákona postoupeny na třetí
+       osobu bez předchozího písemného souhlasu druhé Smluvní strany.
+   11.4.      Bude-li mít Investor zájem, např. v souvislosti se zcizením Pozemků na jinou
+       osobu,
+       o postoupení této smlouvy na třetí osobu, oznámí tuto skutečnost Městu. Investor
+       specifikuje subjekt potenciálního postupníka a poskytne dostatek informací o svém
+       záměru ve vztahu k naplnění účelu této smlouvy. Město se zavazuje vstoupit
+       s Investorem a zamýšleným postupníkem do jednání ohledně uzavření smlouvy o
+       postoupení této smlouvy bezodkladně od doručení oznámení podle předchozího
+       odstavce. Město uzavření smlouvy o postoupení bez rozumného důvodu neodmítne.
+       Město je oprávněno odepřít udělení souhlasu zejména v případě důvodných
+
+                                              15
+
+
+
+                                                                                         Strana 31 / 35
+Příloha č. 1 Zásad – Vzor Plánovací smlouvy
+
+       pochybností, že zamýšlený postupník bude schopen dostát svým závazkům vůči Městu
+       plynoucích z této smlouvy. Investor při postupu dle tohoto odstavce poskytne plnou
+       součinnost v souvislosti s jednáním o uzavření smlouvy o postoupení a zajistí plnou
+       součinnost zamýšleného postupníka.
+      [Bude-li mít Investor, v souvislosti s postoupením této smlouvy nebo její části na jinou
+      osobu, zájem o nahrazení původního zajištění zcela nebo částečně jiným zajištěním
+      (např. poskytnutým nabyvatelem Pozemků), je nutné sjednat podmínky pro změnu a
+      nahrazení zajištění.]
+      Přeměny
+   11.5.     Pro případ, že má být provedena přeměna obchodní společnosti Investora ve
+       smyslu zákona č. 125/2008 Sb., o přeměnách obchodních společností a družstev, ve
+       znění pozdějších předpisů, popř. dle jiného obdobného právního předpisu, nebo pokud
+       Investor zamýšlí převést svůj obchodní závod nebo jeho část, je Investor vždy povinen
+       oznámit tuto skutečnost bezodkladně Městu.
+
+                              12. Trvání a ukončení smlouvy
+   12.1.     Tato smlouva (nejde-li o trvalé povinnosti podle čl. 12.2 smlouvy níže) je
+       uzavřena na dobu určitou, a to do:
+      a) splnění veškerých závazků a transakcí předpokládaných touto smlouvou (a
+          navazujícími smlouvami) včetně poskytnutí celého Investičního příspěvku,
+          dokončení veškeré výstavby a zprovoznění veškerých staveb v rámci Investičního
+          záměru;
+      b) řádného zřízení a vzniku všech služebností a věcných či jiných práv dle této
+          smlouvy, navazujících smluv nebo v souvislosti s nimi;
+      c) vypořádání veškerých práv a povinností mezi Smluvními stranami vyplývajících
+          z této smlouvy a navazujících smluv;
+      podle toho, která z výše uvedených skutečností nastane později.
+   12.2.      Smluvní strany berou na vědomí, že některé povinnosti Investora podle této
+       smlouvy jsou sjednány trvale, přičemž se jedná především o povinnosti, které podle
+       své povahy a účelu mají trvat po neomezenou dobu, tedy i po poskytnutí Investičního
+       příspěvku a po provedení a zprovoznění veškerých staveb v rámci Investičního záměru
+       (např. povinnost Investora dodržet Základní parametry) a/nebo které mají zůstat
+       v platnosti i po jakémkoli předčasném ukončení této smlouvy.
+   12.3.      Tato smlouva může být ukončena pouze:
+      a) výpovědí, a to výpovědí Města výhradně z důvodů uvedených v čl. 12.5 smlouvy
+           nebo výpovědí Investora výhradně z důvodů uvedených v čl. 12.6 smlouvy;
+      b) zrušením této smlouvy nebo její části při přezkumu dle § 165 odst. 2 nebo 3
+           Správního řádu, pokud bylo zjištěno, že byla uzavřena v rozporu s právními
+           předpisy;
+      c) zrušením této smlouvy k návrhu některé ze Smluvních stran postupem a z důvodů
+           dle § 167 Správního řádu; nebo
+      d) dohodou Smluvních stran.
+   12.4.    Od této smlouvy není možné v souladu s § 170 Správního řádu odstoupit.
+       Smluvní strany z opatrnosti vylučují použití všech dispozitivních ustanovení
+       Občanského zákoníku zakládajících právo na výpověď, odstoupení či jiné jednostranné
+
+                                              16
+
+
+
+                                                                                           Strana 32 / 35
+Příloha č. 1 Zásad – Vzor Plánovací smlouvy
+
+       ukončení této smlouvy a vzdávají se práva domáhat se zrušení závazků ze smlouvy
+       soudem, a to s výjimkou jejího ukončení sjednaným postupem v dále výslovně
+       sjednaných případech.
+   12.5.      Město je oprávněno vypovědět tuto smlouvu výhradně z následujících důvodů:
+      a) poruší-li Investor povinnost dodržet při přípravě a realizaci Investičního záměru
+           Základní parametry, a toto porušení nenapraví ani v dodatečně stanovené lhůtě
+           (doplnit) dnů od doručení písemného upozornění ze strany Města;
+      b) poruší-li Investor povinnost uhradit Investiční příspěvek ve sjednaných lhůtách
+           splatnosti, a toto porušení nenapraví ani v dodatečně stanovené lhůtě (doplnit) dnů
+           od doručení písemné výzvy ze strany Města;
+      c) Město nenabude vlastnické či jiné sjednané právo k Nepeněžnímu plnění a
+           Nezbytné veřejné infrastruktuře ve lhůtách a za podmínek této smlouvy, a toto
+           porušení Investor nenapraví ani v dodatečně stanovené lhůtě (doplnit) dnů od
+           doručení písemného upozornění ze strany Města;
+      d) povolení Investičního záměru nenabude právní moci nejpozději do (doplnit);
+      e) kolaudační rozhodnutí pro Investiční záměr nenabude právní moci nejpozději do
+           (doplnit).
+   12.6.    Investor je oprávněn vypovědět tuto smlouvu výhradně z následujících důvodů:
+      a) poruší-li Město své povinnosti dle čl. 6.2 smlouvy, a toto porušení nenapraví ani
+         v dodatečně stanovené lhůtě 12 měsíců od doručení písemného upozornění ze
+         strany Investora;
+      b) poruší-li Město své povinnosti dle čl. 6.3 smlouvy, a toto porušení nenapraví ani
+         v dodatečně stanovené lhůtě 60 dnů od doručení písemného upozornění ze strany
+         Investora a zároveň toto porušení významně ztíží přípravu nebo realizaci
+         Investičního záměru.
+   12.7.      Výpověď vyvolá účinky, je-li řádně doručena druhé Smluvní straně. Smluvní
+       strany sjednávají výpovědní dobu v délce trvání dvou měsíců. Výpovědní doba začne
+       běžet prvního dne kalendářního měsíce následujícího po kalendářním měsíci, v němž
+       došlo k doručení písemné výpovědi druhé Smluvní straně a končí uplynutím
+       posledního dne příslušného kalendářního měsíce. Uplynutím výpovědní doby zanikají
+       všechna práva a povinnosti obou Smluvních stran z této smlouvy, s výjimkou
+       ustanovení, která na základě dohody Smluvních stran, právních předpisů nebo podle
+       své povahy a účelu mají přetrvat i po ukončení této smlouvy.
+   12.8.      Výpovědí nejsou dotčeny nároky na smluvní pokuty nebo náhradu škody
+       v důsledku porušení této smlouvy, které vznikly před ukončením smlouvy.
+   12.9.      Smluvní strany se dohodly, že v případě ukončení této smlouvy výpovědí ze
+       sjednaných výpovědních důvodů:
+      a) ze strany Města, se dosud Investorem poskytnutá část Investičního příspěvku dle
+           této smlouvy nevrací;
+      b) ze strany Investora, je Město povinno vrátit Investorovi dosud poskytnutý
+           Investiční příspěvek, a to na účet, ze kterého Investor Investiční příspěvek poskytl
+           (neurčí-li Investor písemně jinak).
+   12.10.    Smluvní strany se dále dohodly, že v případě ukončení této smlouvy výpovědí
+       z důvodů uvedených v čl. 12.5 písm. a) a b) smlouvy nastává splatnost dosud
+       neuhrazeného Peněžního plnění k okamžiku doručení výpovědi Investorovi.
+
+                                              17
+
+
+
+                                                                                           Strana 33 / 35
+Příloha č. 1 Zásad – Vzor Plánovací smlouvy
+
+   12.11.     Investor prohlašuje, že na sebe přebírá nebezpečí změn okolností, pokud tato
+       změna spočívá ve změně tržních podmínek souvisejících s financováním nebo realizací
+       developerských projektů, změně poptávky po koupi bytových a nebytových jednotek
+       či jejich nájmu, v nepříznivém vlivu souběžné realizace jiných developerských
+       projektů na území Města, ve změně cenové úrovně nájemného za nebytové prostory či
+       cenové úrovně nemovitých věcí, ve změně ceny stavebních prací nebo materiálů nebo
+       změny ceny lidské práce. Investor prohlašuje, že uvedené skutečnosti pro něj proto
+       nejsou rozhodující při stanovení obsahu této smlouvy ve smyslu § 167 odst. 1 písm. b)
+       Správního řádu. Tyto okolnosti nebudou mít vliv na plnění povinností Investora dle této
+       smlouvy.
+   12.12.     Bude-li kterékoli ustanovení této smlouvy zrušeno nebo bude-li dán důvod pro
+       jeho zrušení, nedotýká se tato skutečnost ostatních ustanovení této smlouvy, která jsou
+       plně oddělitelná a mají podle vůle Smluvních stran přetrvat i samostatně.
+   12.13.     Dojde-li k pravomocnému zrušení části této smlouvy, zavazují se Smluvní
+       strany, že bez zbytečného odkladu zahájí jednání o řešení této situace a nahradí
+       zrušenou část této smlouvy nebo celou smlouvu novou plánovací smlouvou ve smyslu
+       § 130 a násl. Stavebního zákona nebo dodatkem k této smlouvě tak, aby nová plánovací
+       smlouva či dodatek k této smlouvě co nejlépe odpovídaly původně zamýšlenému účelu
+       Smluvních stran a původnímu obsahu této smlouvy a tak, aby byl zajištěn soulad
+       s právními předpisy (dále jen Nová smlouva).
+   12.14.     Do uzavření Nové smlouvy se Smluvní strany zavazují postupovat ve vzájemné
+       koordinaci a součinnosti tak, aby neohrozily účel této smlouvy a možnost jeho
+       naplnění, zejména pak nahrazení zrušené části smlouvy nebo zrušené smlouvy Novou
+       smlouvou. Smluvní strany si do uzavření Nové smlouvy nejsou povinny vracet jakákoli
+       plnění poskytnutá podle této smlouvy, i kdyby byla zrušena ustanovení této smlouvy,
+       která zakládala původní právní titul pro dané plnění.
+
+                                 13. Závěrečná ustanovení
+   13.1.      Investor bude doručovat veškerá oznámení, informace a rozhodnutí dle této
+       smlouvy prostřednictvím e-mailu na adresu: (doplnit) a/nebo datové schránky.
+   13.2.      Není-li v této smlouvě stanoveno jinak, lze tuto smlouvu měnit pouze na základě
+       písemné dohody Smluvních stran, formou písemných dodatků. Jiná forma změn této
+       smlouvy je vyloučena. Za písemnou formu nebude pro účely této smlouvy považována
+       výměna e-mailových či jiných elektronických zpráv.
+   13.3.      Smluvní strany prohlašují, že skutečnosti uvedené v této smlouvě nepovažují za
+       obchodní tajemství dle § 504 Občanského zákoníku a udělují souhlas k jejich užití a
+       zveřejnění bez stanovení jakýchkoli dalších podmínek.
+   13.4.      Jakékoli smlouvy uzavřené na základě této smlouvy zůstávají v platnosti i
+       v případě pozbytí platnosti, ukončení či zrušení této smlouvy a všechny tyto smlouvy
+       jsou na sobě vzájemně nezávislé.
+   13.5.      Tato smlouva, smlouvy na ni navazující, jakož i veškeré právní vztahy z nich
+       vzniklé nebo s nimi související, se řídí českým právem. K přezkumu souladu této
+       smlouvy s právními předpisy dle § 165 Správního řádu a k rozhodování sporů z této
+       smlouvy je v souladu s § 132 Stavebního zákona příslušný Krajský úřad
+       Jihomoravského kraje.
+   13.6.      Tato smlouva je uzavřena a nabývá platnosti dnem jejího podpisu druhou
+       Smluvní stranou. Město zašle bezodkladně po uzavření této smlouvy tuto příslušnému
+
+
+                                              18
+
+
+
+                                                                                           Strana 34 / 35
+Příloha č. 1 Zásad – Vzor Plánovací smlouvy
+
+       úřadu územního plánování, který zajistí její vložení do národního geoportálu územního
+       plánování.
+   13.7.      Tato smlouva bude uveřejněna v registru smluv ve smyslu zákona č. 340/2015
+       Sb., o zvláštních podmínkách účinnosti některých smluv, uveřejňování těchto smluv a
+       o registru smluv (zákon o registru smluv), ve znění pozdějších předpisů. Tato smlouva
+       nabyde účinnosti dnem jejího uveřejnění v registru smluv.
+   13.8.      Doložka: Tato smlouva byla schválena na Z…../…….. zasedání Zastupitelstva
+       města Brna, konaném dne ……………………..
+   13.9.      Smluvní strany uzavírají tuto smlouvu dobrovolně, dle jejich pravé, vážné a
+       svobodné vůle.
+   13.10.     Přílohy této smlouvy tvoří:
+      a) Příloha č. 1: Koordinační situace Investičního záměru
+      b) Příloha č. 2: Katastrální výkres Investičního záměru
+      c) Příloha č. 3: Situace Nezbytné veřejné infrastruktury
+      d) Příloha č. 4: (Vzor Ručitelského prohlášení)
+      e) Příloha č. 5: (doplnit)
+
+
+
+
+ V Brně dne ………………………                              V Brně dne ………………………
+
+ Město:                                            Investor:
+
+
+
+ ___________________________                       ___________________________
+ Statutární město Brno                             (Název Investora)
+ (doplnit), primátor/ka                            (Jednající osoba, funkce)
+
+
+
+
+                                              19
+
+
+
+                                                                                         Strana 35 / 35
+

@@ -1,0 +1,2869 @@
+Rada města Brna
+
+Z9/36. zasedání Zastupitelstva města Brna
+konané dne 23.6.2026
+
+
+
+ 19. Zajištění provozu vodohospodářské infrastruktury města Brna
+   - Veřejný návrh smlouvy na odkup akcií společnosti Brněnské
+                     vodárny a kanalizace, a.s.
+
+Anotace
+V souvislosti se zajištěním provozu vodohospodářské infrastruktury statutárního města Brna (SMB) a v
+návaznosti na rozhodnutí o odkupu drobných akcionářů byl zpracován znalecký posudek, kterým byla
+stanovena cena akcií společnosti Brněnské vodárny a kanalizace, a.s. (BVK). Na základě tohoto
+znaleckého posudku byla stanovena hodnota akcií ve veřejném návrhu smlouvy na koupi akcií BVK,
+jehož návrh je nyní předkládán.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   veřejný návrh smlouvy na koupi akcií, včetně jeho přílohy č. 1, dopisu akcionářům a
+                               jejich uveřejnění, dle přílohy č….tohoto zápisu.
+
+
+Stanoviska
+
+Materiál projednala Rada města Brna na schůzi R9/180, konané dne 10.6. 2026 a doporučila
+Zastupitelstvu města Brna přijmout výše uvedený návrh usnesení.
+
+
+
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Tomáš Pivec MBA
+  vedoucí odboru - Odbor investiční
+  16.6.2026 v 10:54
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  16.6.2026 v 11:03
+
+
+
+
+Sestava vytvořena 16.6.2026 v 11:03                          1/1                             Vygenerováno programem eMMB
+
+
+                                                                                                             Strana 1 / 71
+                                 Obsah materiálu
+Návrh usnesení                                                        1-1
+Obsah materiálu                                                       2-2
+Důvodová zpráva                                                       3-4
+Příloha (Znalecký posudek.pdf)                                      5 - 57
+Příloha k usnesení (BVK_Akceptace_07042026_revCYRR[20] .pdf)        58 - 61
+Příloha k usnesení (BVK_Veřejný návrh_07042026_revCYRR.pdf)      62 - 69
+Příloha k usnesení (BVK_dopis akcionářům_07042026_revCYRR.pdf)   70 - 71
+
+
+
+
+                                                                        Strana 2 / 71
+                                Důvodová zpráva
+
+V rámci projektu zajištění správy a provozu vodohospodářské infrastruktury města Brna po
+roce 2025 a na základě dosavadního průběhu jednání mezi statutárním městem Brnem (dále
+jen „SMB“) a společností SUEZ International S.A.S., id. č: 569 800 873, se sídlem R.C.S.
+Nanterre, 16 Place de l´Iris Tour CB 21, 920 40 Paris la Défense CEDEX, Francie (dále jen
+„SUEZ“), ekonomické situace společnosti Brněnské vodárny a kanalizace, a.s. (dále jen
+„BVK“) a průběhu Valné hromady BVK za rok 2024 byl navržen výkup drobných akcionářů
+BVK.
+
+
+VEŘEJNÝ NÁVRH SMLOUVY NA KOUPI AKCIÍ BVK
+
+Jako vhodné řešení realizace odkupu akcií od drobných akcionářů byla vyhodnocena varianta
+veřejného návrhu smlouvy na koupi cenných papírů ve smyslu ustanovení § 322 a násl.
+zákona č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních
+korporacích), ve znění pozdějších předpisů („Veřejný návrh“).
+V uplynulém období byl proto společností BDO Valuation s.r.o. zpracován znalecký posudek
+č. 084940/2025, a to za účelem stanovení hodnoty (ceny obvyklé) akcií BVK k datu 31. 12.
+2024 pro účely odkupu akcií drobných akcionářů.
+
+Hlavním úkolem posudku bylo určit hodnotu jedné zaknihované akcie BVK, přičemž
+společnost BVK emitovala celkem 984 942 akcií na majitele v zaknihované podobě
+s nominální hodnotou jedné akcie 500 Kč. Pro ocenění byla použita výnosová metoda,
+konkrétně dividendový diskontní model, protože běžná metoda porovnání s trhem nebyla
+vzhledem ke specifikům BVK a absenci relevantních obchodů na trhu využitelná.
+Na základě provedených analýz a předpokladů byla hodnota jedné akcie BVK ke dni 31. 12.
+2024 stanovena na 720,6069 Kč. Tato částka již zohledňuje srážkovou daň ve výši 15 %
+a bude pro účely veřejného návrhu zaokrouhlena na 720,61 Kč.
+Stanovená hodnota akcie slouží jako podklad pro veřejný návrh smlouvy na koupi akcií BVK
+a souvisejícího určení výše protiplnění nabízeného za každou akcii ve smyslu § 323 odst. 2
+písm. a) zákona č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon
+o obchodních korporacích), ve znění pozdějších předpisů („ZoK“).
+
+Zastupitelstvu města Brna je na základě výše uvedeného předkládán návrh veřejného návrhu
+smlouvy na koupi akcií BVK. Veřejný návrh se vztahuje na všechny akcie společnosti BVK,
+které jsou vydány jako akcie na majitele v zaknihované podobě a mají jmenovitou hodnotu
+500 Kč za kus (ISIN CZ0009096509). Počet a jmenovitá hodnota akcií, kterých se veřejný
+návrh týká, bude omezen celkovou maximální částkou. Je navrhováno omezit veřejný návrh
+na koupi maximálně 30 000 ks zaknihovaných akcií na majitele o jmenovité hodnotě jedné
+akcie 500 Kč, tedy celkovou výši součtu jmenovitých hodnot nabývaných akcií částkou
+15 000 000 Kč, což při ceně 720,61 Kč za jednu akcii představuje celkovou maximální kupní
+cenu při odkupu akcií ve výši 21 618 300 Kč v úhrnu.
+
+Veřejný návrh je časově omezený do konce lhůty závaznosti, která nepřekročí 6 měsíců ode
+dne uveřejnění veřejného návrhu, přičemž po tuto dobu mohou akcionáři nabídku města
+přijmout. Vypořádání převodu akcií, u nichž dojde k přijetí veřejného návrhu akcionářem,
+bude zajištěno prostřednictvím Centrálního depozitáře cenných papírů, a.s. (CDCP), a to
+způsobem „dodání proti platbě“. Pro technické a administrativní zajištění převodů byla
+
+
+
+
+                                                                                       Strana 3 / 71
+vybrána společnost CYRRUS CORPORATE SOLUTIONS, a.s., která bude zajišťovat
+komunikaci s akcionáři v definovaném rozsahu i samotný proces převodu akcií a výplaty kupní
+ceny.
+K veřejnému návrhu smlouvy na koupi akcií předloží v souladu s § 324 ZoK své stanovisko
+představenstvo BVK.
+
+
+Materiál nepodléhá projednání v komisích Rady města Brna.
+
+
+Zastupitelstvu města Brna je tedy navrhováno, aby schválilo obsah a uveřejnění veřejného
+návrhu smlouvy na koupi cenných papírů a souvisejících dokumentů.
+
+
+Rada města Brna na své schůzi č. R9/180 konané dne 10.6.2026 doporučila Zastupitelstvu
+města Brna schválit Veřejný návrh.
+Schváleno jednomyslně 9 členy.
+Vaňková
+JUDr.
+
+          Černý
+          Mgr.
+
+                  Ph.D.
+                  RNDr. Chvátal
+
+
+                                  Kerndl
+                                  JUDr.
+                                           Karasová
+                                           Podivinská
+                                           Ing.
+
+
+                                                        Aberl
+                                                        Bc.
+
+
+                                                                Bořecký
+                                                                Ing. arch.
+
+
+                                                                              Petr Bořecký
+
+
+                                                                                             Kratochvíl
+                                                                                             Ing.
+
+
+                                                                                                          Matonohová
+                                                                                                          JUDr.
+
+                                                                                                                       Oliva
+                                                                                                                       JUDr.
+  ---     pro      pro            ---         pro       pro     pro          pro             pro          pro          pro
+
+
+
+
+                                                                                                                           Strana 4 / 71
+                                                                     Strana 6 / 71
+
+
+
+
+Shrnutí
+Tento znalecký posudek byl vyhotoven dle objednávky ze dne 15.10.2025.
+
+Úkolem znaleckého posudku je stanovení hodnoty (ceny obvyklé) akcií emitovaných společností
+Brněnské vodárny a kanalizace, a.s., se sídlem Pisárecká 555/1a, Pisárky, 603 00 Brno, Identifikační
+číslo: 463 47 275.
+
+Datum, ke kterému se akcie oceňují, je 31.12.2024.
+
+Účelem zhotovení znaleckého posudku je ocenění akcie pro veřejný návrh smlouvy na koupi akcií
+činěný zadavatelem a související určení výše protiplnění nabízeného za každou akcii ve smyslu § 323
+odst. 2 písm. a), zákona č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních
+korporacích), ve znění pozdějších předpisů, a to jako ceny v daném místě a čase obvyklé ve smyslu § 39
+zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů.
+
+Způsob ocenění akcie
+Předmětem ocenění je 1ks akcie emitované společností Brněnské vodárny a kanalizace, a.s. Společnost
+vydala 984 942 ks akcií na majitele v zaknihované podobě, každá v nominální hodnotě 500 Kč.
+
+Porovnávací způsob je dle zákona určující a je obecně vnímán za nejvhodnější způsob oceňování,
+přičemž porovnání se může odehrávat na úrovni oceňovaného aktiva (akcie) nebo na úrovni
+srovnatelných společností, od nichž se pak odvíjí odvození hodnoty akcie. V daném případě nelze použít
+metodu ocenění porovnáním, neboť spolehlivá informace o hodnotě akcií srovnatelných společností není
+k dispozici. Akcie společnosti jsou obchodovány prostřednictvím RM Systému, obchody však nejsou
+cenotvorné. Dalším upřednostňovaným způsobem ocenění je výnosový způsob ocenění založený na
+výnosech spojených s konkrétní akcií, tento způsob ocenění je považován za vhodný a odůvodněný.
+Ocenění akcie vychází z výše příjmu připadajícího na akcii v jednotlivých letech.
+
+Hodnota stanovená prostřednictvím dividendového diskontního modelu je považovaná za přiměřené
+protiplnění a cenu obvyklou za akcii pro daný účel.
+
+Závěrečný výrok
+Zadaná odborná otázka zadavatele:
+
+Stanovení hodnoty akcií emitovaných společností Brněnské vodárny a kanalizace, a.s., se sídlem
+Pisárecká 555/1a, Pisárky, 603 00 Brno, Identifikační číslo: 463 47 275 pro účely veřejného návrhu
+smlouvy na koupi akcií činěného zadavatelem a souvisejícího určení výše protiplnění nabízeného za
+každou akcii ve smyslu § 323 odst. 2 písm. a) zákona č. 90/2012 Sb., o obchodních společnostech a
+družstvech (zákon o obchodních korporacích), ve znění pozdějších předpisů, a to jako ceny v daném
+místě a čase obvyklé ve smyslu § 39 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění
+pozdějších předpisů, k datu 31.12.2024.
+
+Odpověď na zadanou odbornou otázku:
+
+Hodnota jedné akcie emitované společností Brněnské vodárny a kanalizace, a.s., se sídlem Pisárecká
+555/1a, Pisárky, 603 00 Brno, Identifikační číslo: 463 47 275, k datu 31.12.2024, která odpovídá v místě
+a čase obvyklé ceně a protiplnění za danou akcii v souladu s § 323 odst. 2 písm. a) č. 90/2012 Sb., o
+obchodních společnostech a družstvech (zákon o obchodních korporacích), ve znění pozdějších
+předpisů, činí na základě získaných informací, provedených analýz a přijatých předpokladů částku:
+
+                                             720,6069 Kč
+                 (slovy: sedm set dvacet korun českých šest tisíc šedesát devět haléřů)
+
+Jedná se o hodnotu po zohlednění srážkové daně 15%.
+
+V Praze dne 22.4.2026
+
+
+                                                                                             Strana 2 z 43
+                                                                                  Strana 7 / 71
+
+
+
+
+Obsah
+A. ZADÁNÍ ............................................................................................................... 5
+
+1. Zadavatel ............................................................................................................ 5
+
+2. Odborná otázka zadavatele ...................................................................................... 5
+
+3. Účel použití znaleckého posudku ............................................................................... 5
+
+4. Datum ocenění ..................................................................................................... 5
+
+5. Definice pojmů a zkratek ........................................................................................ 5
+
+6. Předpoklady a omezující podmínky znaleckého posudku .................................................. 6
+
+B. VÝČET PODKLADŮ.................................................................................................. 7
+
+1. Popis postupu znalce při výběru zdrojů dat .................................................................. 7
+
+2. Použité podklady a literatura ................................................................................... 7
+     2.1. Data předaná Zadavatelem/Společností .................................................................7
+     2.2. Podklady získané Zpracovatelem .........................................................................8
+     2.3. Literatura ....................................................................................................8
+
+3. Data, u kterých nemohl znalec ověřit věrohodnost zdroje ................................................ 8
+
+4. Ověření věrohodnosti zdroje .................................................................................... 8
+
+C. NÁLEZ ................................................................................................................ 9
+
+1. Popis postupu znalce při sběru nebo tvorbě dat a při jejich zpracování ............................... 9
+
+2. Výčet dat ............................................................................................................ 9
+
+3. Předmět ocenění................................................................................................... 9
+     3.1. Akcie ..........................................................................................................9
+     3.2. Identifikace Společnosti emitenta ........................................................................9
+     3.3. Účetní stav ................................................................................................. 11
+     3.4. Ostatní skutečnosti ....................................................................................... 13
+
+4. Definice hodnoty, metody ocenění ............................................................................ 15
+     4.1. Definice hodnoty .......................................................................................... 15
+     4.2. Obecně o způsobech ocenění ............................................................................ 15
+     4.3. Dividendový diskontní model ............................................................................ 16
+     4.4. Diskontní míra ............................................................................................. 16
+     4.5. Posouzení významnosti akciového balíku .............................................................. 18
+
+D. POSUDEK .......................................................................................................... 19
+
+1. Popis postupu při analýze dat a výsledky analýzy dat ..................................................... 19
+
+2. Finanční analýza Společnosti ................................................................................... 19
+     2.1. Analýza položek rozvahy a výkazy zisků a ztrát ...................................................... 19
+     2.2. Poměrové ukazatele ...................................................................................... 24
+     2.3. Závěr finanční analýzy ................................................................................... 27
+
+3. Strategická analýza ............................................................................................... 28
+
+
+                                                                                                             Strana 3 z 43
+                                                                                 Strana 8 / 71
+
+
+
+
+      3.1. Makroekonomické ukazatele ............................................................................ 28
+      3.2. Odvětvová analýza ........................................................................................ 31
+         3.2.1. Trendy spotřeby vody a zásobování obyvatel .................................................... 31
+         3.2.1. Infrastruktura a investice ........................................................................... 32
+         3.2.2. Environmentální a klimatické výzvy ............................................................... 32
+      3.3. Závěr strategické analýzy ................................................................................ 33
+
+4. Volba způsobu ocenění .......................................................................................... 34
+
+5. Přímé ocenění z dat kapitálového trhu ....................................................................... 34
+
+6. Ocenění akcie ..................................................................................................... 35
+     6.1. Dividendová politika ...................................................................................... 35
+     6.2. Příjem z dividendy ........................................................................................ 35
+     6.3. Diskontní sazba ............................................................................................ 36
+     6.4. Kalkulace hodnoty ........................................................................................ 38
+     6.5. Neprovozní majetek ...................................................................................... 39
+     6.6. Ocenění akcie ............................................................................................. 39
+
+E. ODŮVODNĚNÍ...................................................................................................... 40
+
+1. Interpretace výsledků analýz ................................................................................... 40
+
+2. Kontrola postupu znalce......................................................................................... 40
+
+3. Přesnost závěrů ................................................................................................... 40
+
+F. ZÁVĚR .............................................................................................................. 41
+
+G. PŘÍLOHY ........................................................................................................... 42
+
+H. NÁLEŽITOSTI POSLEDNÍ STRANY POSUDKU.................................................................. 43
+
+I. ZNALECKÁ DOLOŽKA ............................................................................................. 43
+
+
+
+
+                                                                                                             Strana 4 z 43
+                                                                 Strana 10 / 71
+
+
+
+
+Definice zkratek:
+
+ČNB                          Česká národní banka
+HDP                          Hrubý domácí produkt
+nVK                          náklady vlastního kapitálu
+WACC                         weighted average cost of capital / vážené průměrné náklady kapitálu
+Zákon o oceňování            zákon č. 151/1997 Sb. Zákon o oceňování majetku
+Rf                           bezriziková sazba
+ß                            beta, míra systematického rizika
+RPZ                          riziková prémie země
+RPKT                         riziková prémie kapitálového trhu
+T                            daňová sazba
+VK nebo E                    vlastní kapitál
+D                            úročené cizí zdroje společnosti
+RM Systém                    RM-SYSTÉM, česká burza cenných papírů a.s.
+CF                           consensus forecasts
+
+6. Předpoklady a omezující podmínky znaleckého posudku
+
+Ocenění bude provedeno na základě podkladů poskytnutých Společností či Zadavatelem, kteří
+odpovídají za jejich správnost a úplnost, Znalec tyto podklady dále nepřezkoumává.
+
+Analýzy, názory a závěry jsou platné pouze za vymezených podmínek a předpokladů uvedených v tomto
+posudku a představují osobní, nezaujaté odborné analýzy, názory a závěry Znalce.
+
+Znalec nemá žádné současné ani budoucí zájmy na majetku, který je předmětem ocenění, a nemá ani
+žádný osobní zájem nebo zaujatost s ohledem na výsledek znaleckého posudku.
+
+Ocenění je platné pouze k uvedenému datu ocenění a pro stanovený účel.
+
+
+
+
+                                                                                        Strana 6 z 43
+                                                                   Strana 12 / 71
+
+
+
+
+ 2.2. Podklady získané Zpracovatelem
+
+   1. Výpis z obchodního rejstříku společnosti Brněnské vodárny a kanalizace, a.s.
+   2. Účetní závěrka včetně výroční zprávy, zprávy o vztazích a rozdělení zisku společnosti Brněnské
+      vodárny a kanalizace, a.s. za roky 2021-2024, získané ze Sbírky listin
+   3. Stanovy společnosti Brněnské vodárny a kanalizace, a.s. přijaté valnou hromadou dne 9.6.2023
+      a 20.6.2025
+   4. Smlouva o pachtu a provozování vodovodů a kanalizací mezi statutárním městem Brno a
+      společností Brněnské vodárny a kanalizace, a.s. získaná z Registru smluv
+   5. Údaje dostupné na internetu, zejména na www.pages.stern.nyu.edu/~adamodar/, www.cnb.cz,
+      www.mfcr.ct, www.czso.cz, www.bvk.cz a další zdroje uvedené v textu.
+
+ 2.3. Literatura
+
+   1. Mařík, M.: Určování hodnoty firem, Praha, Ekopress 1998, ISBN 80-86119-09-2
+   2. Mařík, M. a kolektiv: Metody oceňování podniku – proces ocenění, základní metody a postupy,
+       Ekopress 2003, ISBN 80-86119-57-2.
+   3. Mařík, M. a kolektiv: Metody oceňování podniku – proces ocenění, základní metody a postupy,
+       Ekopress 2007, 2.upravené a rozšířené vydání, ISBN 80-86929-00-0.
+   4. Mařík, M. a kolektiv: Metody oceňování podniku - proces ocenění, základní metody a postupy,
+       Ekopress 2011, 3.upravené a rozšířené vydání, ISBN 978-80-86929-67-5.
+   5. Mařík, M. a kolektiv: Metody oceňování podniku - proces ocenění, základní metody a postupy,
+       Ekopress 2018, 4.upravené a rozšířené vydání, ISBN 978-80-87865-38-5.
+   6. Kislingerová, E.: Oceňování podniku, 2. přepracované a doplněné vydání, C. H. Beck v Praze
+       roku 2001, ISBN 80-7179-529-1.
+   1. The European Group of Valuers‘ Associations: European Valuation Standards 2020, 9th Edition,
+       ISBN 9789081906050
+   7. International Valuation Standards 2022, International Valuation Standards Council, 20 St
+       Dunstan’s Hill, LONDON, EC3R 8HL, UK, ISBN: 978-0-9931513-4-7
+   8. Zákon č. 89/2012 Sb., občanský zákoník, v platném znění
+   9. Zákon č. 586/1992 Sb., o daních z příjmu, v platném znění
+   10. Zákon č. 151/1997 Sb., o oceňování majetku a o změně některých zákonů (Zákon o oceňování
+       majetku)
+   11. Zákon č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních
+       korporacích
+
+3. Data, u kterých nemohl znalec ověřit věrohodnost zdroje
+
+Ocenění bude provedeno na základě podkladů získaných od Společnosti nebo Zadavatele, kteří
+zodpovídají za správnost a úplnost podkladů, Znalec tyto podklady dále nepřezkoumává.
+
+4. Ověření věrohodnosti zdroje
+
+Čerpali jsme data zejména z veřejných zdrojů, od Zadavatele a Společnosti. Neověřovali jsme
+věrohodnost dat (§ 41 vyhlášky č. 503/2020 Sb.), a to zejména z toho důvodu, že jde především o
+interní odhady a účetní informace Společnosti.
+
+
+
+
+                                                                                          Strana 8 z 43
+                                                                      Strana 14 / 71
+
+
+
+
+Předmět podnikání:
+
+        Vodoinstalatérství
+        projektová činnost ve výstavbě
+        podnikání v oblasti nakládání s nebezpečnými odpady
+        opravy silničních vozidel
+        provádění staveb, jejich změn a odstraňování
+        výroba elektřiny
+        zámečnictví, nástrojářství
+        výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona, obory činnosti:
+              o vydavatelské činnosti, polygrafická výroba, knihařské a kopírovací práce,
+              o provozování vodovodů a kanalizací a úprava a rozvod vody,
+              o nakládání s odpady (vyjma nebezpečných),
+              o přípravné a dokončovací stavební práce, specializované stavební činnosti,
+              o velkoobchod a maloobchod,
+              o ubytovací služby,
+              o testování, měření, analýzy a kontroly,
+              o služby v oblasti administrativní správy a služby organizačně hospodářské povahy,
+              o poskytování technických služeb,
+              o výroba měřících, zkušebních, navigačních, optických a fotografických přístrojů a
+                  zařízení,
+              o opravy a údržba potřeb pro domácnost, předmětů kulturní povahy, výrobků jemné
+                  mechaniky, optických přístrojů a měřidel.
+        silniční motorová doprava - nákladní provozovaná vozidly nebo jízdními soupravami o největší
+         povolené hmotnosti přesahující 3,5 tuny, jsou-li určeny k přepravě zvířat nebo věcí, - nákladní
+         provozovaná vozidly nebo jízdními soupravami o největší povolené hmotnosti nepřesahující 3,5
+         tuny, jsou-li určeny k přepravě zvířat nebo věcí
+        čištění a praní textilu a oděvů
+        úřední ověřování měřidel
+        poskytování služeb v oblasti bezpečnosti a ochrany zdraví při práci
+
+Hlavní ekonomická činnost Společnosti dle klasifikace ekonomických činností – CZ-NACE:
+     36000 - Shromažďování, úprava a rozvod vody
+
+Akcie:                          984 942 ks akcie na majitele ve jmenovité hodnotě 500,- Kč
+                                v zaknihované podobě
+
+Základní kapitál:               492 471 000,- Kč
+                                Splaceno: 492 471 000,- Kč
+
+Hlavními akcionáři Společnosti jsou Statutární město Brno a SUEZ International S.A.S. se sídlem 16 Place
+de 1´Iris, Tour CB21, 92040 Paris la Défense CEDEX, Francie, IČ: 569 800 873. Akcie jsou obchodovány
+prostřednictvím společnosti RM-SYSTÉM, česká burza cenných papírů a.s.
+
+Brněnské vodárny a kanalizace, a.s. provozují vodovody a kanalizace pro veřejnou potřebu, vyrábějí a
+dodávají pitnou vodu, zajišťují odvádění a čištění odpadních a dešťových vod včetně likvidace kalů.
+
+Společnost spravuje rozsáhlou infrastrukturu na základě dlouhodobých smluv s vlastníky, provozuje
+vlastní laboratoře pro rozbory vod, provádí opravy sítí, měření vody a inženýrskou činnost. Zaměstnává
+přes 550 pracovníků. V roce 2024 investovala do rozvoje, zejména projektu Kalové hospodářství ČOV
+Brno-Modřice, a uzavřela významné úvěrové smlouvy na financování investic.
+
+Společnost v roce 2024 působila nejen na celém území statutárního města Brna, ale i pro město Kuřim,
+Modřice, Březová nad Svitavou, obce Lelekovice, Českou, Moravany, Vranov, Měnín, Moutnice
+Želešice, Koroužné Skorotice, Dolní Loučky, Černvír, pro městys Doubravník a Štěpánov nad Svratkou
+a pro Vírský oblastní vodovod, sdružení měst, obcí a svazků obcí.
+
+
+
+
+                                                                                             Strana 10 z 43
+                                                                     Strana 15 / 71
+
+
+
+
+Společnost provozuje:
+
+Vodovod pro veřejnou potřebu na území:
+města Brna, Kuřim, Modřice, Březová nad Svitavou, městyse Štěpánov nad Svratkou, Doubravník, obce
+Lelekovice, Moravany, Česká, Vranov, Měnín, Švařec, Koroužné, Želešice, Skorotice, Dolní Loučky,
+Černvír a pro Vírský oblastní vodovod, sdružení měst, obcí a svazků obcí.
+
+Kanalizaci pro veřejnou potřebu na území:
+města Brna, Kuřim, Modřice, městyse Štěpánov nad Svratkou, obce Česká, Švařec, Želešice.
+
+ 3.3. Účetní stav
+
+Pro ocenění Společnosti je rozhodující datum, ke kterému se ohodnocení provádí, v daném případě
+k 31.12.2024. K tomuto datu byla použita účetní závěrka Společnosti za rok 2024 získána Zpracovatelem
+ze sbírky listin.
+
+Účetní závěrka Společnosti je sestavena v souladu s účetními předpisy platnými v České republice pro
+velké účetní jednotky a je sestavena v historických cenách.
+
+Aktiva společnosti Brněnské vodárny a kanalizace, a.s. k 31.12.2024 (uvedeny jsou jen nenulové řádky):
+
+    Rozvaha společnosti Brněnské vodárny a kanalizace, a.s. k datu            Běžné účetní období
+                         31.12.2024 v tis. Kč                          Brutto      Korekce        Netto
+AKTIVA CELKEM                                                         5 351 003 2 358 393 2 992 610
+Dlouhodobý majetek                                                    4 545 458 2 347 672 2 197 786
+Dlouhodobý nehmotný majetek                                             106 434       98 111         8 323
+Software                                                                  79 123       72 885        6 238
+Jiný dlouhodobý nehmotný majetek                                          25 857       25 226          631
+Nedokončený dlouhodobý nehmotný majetek                                    1 454                     1 454
+Dlouhodobý hmotný majetek                                             4 439 024 2 249 561 2 189 463
+Pozemky                                                                  337 905                   337 905
+Stavby                                                                 1 895 289      805 219   1 090 070
+Samostatné hmotné movité věci a soubory hmotných movitých věcí         1 821 175    1 444 342      376 833
+Jiný dlouhodobý hmotný majetek                                               535                       535
+Nedokončený dlouhodobý hmotný majetek                                    384 120                   384 120
+Oběžná aktiva                                                           778 619       10 721      767 898
+Zásoby                                                                   32 545         1 302      31 243
+Materiál                                                                  32 545        1 302       31 243
+Krátkodobé pohledávky                                                   570 053         9 419     560 634
+Pohledávky z obchodních vztahů                                           206 112        9 419      196 693
+Stát - daňové pohledávky                                                   3 596                     3 596
+Krátkodobé poskytnuté zálohy                                               7 459                     7 459
+Dohadné účty aktivní                                                     345 507                   345 507
+Jiné pohledávky                                                            7 379                     7 379
+Krátkodobý finanční majetek                                             176 021             0     176 021
+Peníze                                                                       712                       712
+Účty v bankách                                                           175 309                   175 309
+Časové rozlišení                                                         26 926             0      26 926
+Náklady příštích období                                                   24 957                    24 957
+Příjmy příštích období                                                     1 969                     1 969
+
+Aktiva Společnosti dosahují k datu ocenění netto hodnoty 2 992 610 tis. Kč. Převážnou část (73 %) tvoří
+dlouhodobý majetek, zejména dlouhodobý hmotný majetek, kde největší položky představují stavby
+(1 090 070 tis. Kč). Samostatné hmotné movité věci a jejich soubory, pozemky a nedokončený
+dlouhodobý hmotný majetek tvoří druhou nejvýznamnější část dlouhodobého hmotného majetku,
+přičemž každá zastupuje zhruba 12 % celkových aktiv. Nedokončený dlouhodobý hmotný majetek
+
+
+
+                                                                                             Strana 11 z 43
+                                                                    Strana 16 / 71
+
+
+
+
+představuje v aktuálním i srovnatelném období investice do obnovy a rozvoje ČOV Brno – Modřice a
+provozního majetku.
+
+Dlouhodobý nehmotný majetek je zastoupen zejména softwarem a ostatním nehmotným majetkem,
+jejichž netto hodnota je však nízká (celkem 8 323 tis. Kč).
+
+Oběžná aktiva činí 767 898 tis. Kč, což představuje přibližně 26 % celkových aktiv. Největší položkou
+oběžných aktiv jsou krátkodobé pohledávky (560 634 tis. Kč), kde dominují dohadné účty aktivní
+(nevyfakturované výnosy – aktivní dohad nevyfakturované dodané a odvedené vody během roku, jejíž
+spotřeba bude změřena a vyfakturována během následujícího roku) a pohledávky z obchodních vztahů.
+Zásoby tvoří 31 243 tis. Kč, přičemž se jedná převážně o materiál určený pro opravy a provoz.
+Krátkodobý finanční majetek dosahuje 176 021 tis. Kč, z čehož většinu tvoří peněžní prostředky na
+bankovních účtech. Časové rozlišení, zejména náklady příštích období, představuje 26 926 tis. Kč.
+
+Pasiva společnosti Brněnské vodárny a kanalizace, a.s. k 31.12.2024 (uvedeny jsou jen nenulové řádky):
+
+                                                                            Běžné účetní období
+Položky (v tis. Kč)                                                                 31.12.2024
+PASIVA CELKEM                                                                        2 992 610
+Vlastní kapitál                                                                      2 190 427
+Základní kapitál                                                                       492 471
+Základní kapitál                                                                        492 471
+Kapitálové fondy                                                                           1 488
+Ostatní kapitálové fondy                                                                   1 488
+Rezervní fondy, nedělitelný fond a ostatní fondy ze zisku                              101 074
+Zákonný rezervní fond / Nedělitelný fond                                                  98 494
+Statutární a ostatní fondy                                                                 2 580
+Výsledek hospodaření minulých let                                                    1 490 039
+Nerozdělený zisk minulých let                                                         1 490 039
+Výsledek hospodaření běžného účetního období / + - /                                   105 355
+Cizí zdroje                                                                            799 289
+Rezervy                                                                                  16 551
+Ostatní rezervy                                                                           16 551
+Dlouhodobé závazky                                                                     105 451
+Závazky z obchodních vztahů                                                               20 021
+Odložený daňový závazek                                                                   85 430
+Krátkodobé závazky                                                                     419 287
+Závazky z obchodních vztahů                                                             116 028
+Závazky ke společníkům, členům družstva a k účastníkům sdružení                            1 399
+Závazky k zaměstnancům                                                                    30 896
+Závazky se sociálního zabezpečení a zdravotního pojištění                                 17 350
+Stát - daňové závazky a dotace                                                             4 145
+Krátkodobé přijaté zálohy                                                               153 334
+Dohadné účty pasivní                                                                      96 135
+Bankovní úvěry a výpomoci                                                              258 000
+Bankovní úvěry dlouhodobé                                                               258 000
+Časové rozlišení                                                                           2 894
+Výdaje příštích období                                                                         4
+Výnosy příštích období                                                                     2 890
+
+Pasiva Společnosti tvoří převážně vlastní kapitál ve výši 2 190 427 tis. Kč, což odpovídá zhruba 73 %
+celkových pasiv. Vlastní kapitál tvoří zejména nerozdělený zisk a zisk minulých let a výsledek běžného
+účetního období v celkové ve výši 1 595 394 tis. Kč. Základní kapitál činí 492 471 tis. Kč. Zbylé složky
+vlastního kapitálu představují ostatní rezervní fondy a statutární a ostatní fondy.
+
+
+
+
+                                                                                             Strana 12 z 43
+                                                                    Strana 19 / 71
+
+
+
+
+4. Definice hodnoty, metody ocenění
+
+ 4.1. Definice hodnoty
+
+Báze hodnoty je závislá na účelu ocenění a také na subjektu z hlediska, kterého je určována. V daném
+případě jde o dobrovolný veřejný návrh smlouvy na koupi akcií ve smyslu § 322 až § 326 zákona č.
+90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních korporacích), ve znění
+pozdějších předpisů.
+
+V daném případě, kdy zadavatelem je územní samosprávný celek, který je vázán zákonem o obcích a
+požadavky na stanovení ceny v místě a čase obvyklé, hledáme výši protiplnění za akcii, která bude
+odpovídat požadavkům dle § 39 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších
+předpisů.
+
+ 4.2. Obecně o způsobech ocenění
+
+Způsob ocenění je důležitým faktorem při stanovení hodnoty. Oceňovatel může při ocenění použít
+portfolio metod používaných standardně při oceňování. Metody oceňování se dle finanční literatury dělí
+do tří základních částí:
+
+Metody substanční se někdy nazývají také metodami statickými. Do této skupiny náleží:
+
+           metoda účetních cen
+           metoda ocenění substanční hodnotou
+           metoda likvidační
+
+Metoda účetních cen je založena na ocenění majetku a závazků cenami účetními - historickými. S tímto
+oceněním se setkáme v účetních výkazech společností.
+
+Metoda substanční hodnoty na bázi reprodukčních cen oceňuje majetek při použití vybraných
+auditorských postupů s přihlédnutím k zásadě opatrnosti a se zohledněním opravných položek. Majetek
+je oceňován s ohledem na současné ceny na trhu majetku a jeho možnosti prodejnosti při znalostech
+oceněného majetku. Závazky jsou obvykle oceněny v účetních hodnotách.
+
+Likvidační metodu můžeme považovat za podmnožinu metody ocenění substanční hodnotu. Při této
+metodě odhadujeme, za jakou částku je možné jednotlivá aktiva zpeněžit při zohlednění jejich stáří a
+opotřebení.
+
+Metody výnosové se někdy nazývají také metodami dynamickými a rozeznáváme následující:
+
+           metoda diskontovaného peněžního toku
+           metoda kapitalizovaných zisků
+
+Metoda diskontovaného peněžního toku vychází z budoucích ekonomických výsledků, které se diskontují
+k příslušnému datu ocenění.
+
+Metoda kapitalizovaných zisků stojí na předpokladech stabilní ekonomiky bez výkyvů a na stabilních
+ziscích firmy. Základem je časová řada zisků minulých let a z této řady je pak odhadnut zisk v
+následujících obdobích.
+
+Metody srovnávací se někdy nazývají také metodami tržních hodnot, i když toto označení není přesné.
+Do této skupiny metod náleží:
+
+           metody srovnávací
+           metoda nákladového přístupu
+           metoda administrativní ceny
+
+
+
+
+                                                                                          Strana 15 z 43
+                                                                      Strana 20 / 71
+
+
+
+
+Metody srovnávací se odvíjejí od ceny srovnatelných statků daného zboží na trhu. Při srovnání statků je
+nutno vzít do úvahy opotřebení fyzické, morální i změnu technických parametrů.
+
+Metoda nákladového přístupu se odvíjí od nákladů, které musí kupující uhradit. Cena stanovená touto
+metodou je nejvyšší cena, kterou je investor za daný statek ochoten zaplatit.
+
+Metoda administrativní ceny se používá pro daňové účely. Výpočet vychází z technických parametrů
+statku.
+
+ 4.3. Dividendový diskontní model
+
+Dividendový diskontní model vychází z předpokladu, že hodnota jednotlivé akcie je dána současnou
+hodnotou budoucích dividend, které bude akcionář inkasovat. Tento model je vhodný zejména tehdy,
+pokud společnost vyplácí stabilní dividendy a existuje předpoklad jejich dalšího vývoje. Výpočet vychází
+z odhadu budoucích dividend, které jsou diskontovány pomocí nákladů vlastního kapitálu (Cost of
+Equity), obvykle stanovených dle modelu CAPM (Capital Asset Pricing Model).
+
+Dividendový model s konstantním růstem dividendy se nazývá Gordonův model. Model předpokládá
+peněžní tok (dividendu D) rostoucí v každém období udržitelným tempem g a náklad vlastního kapitálu
+ik.
+
+Cena akcie P je za předpokladu, že známe:
+    dlouhodobý růst dividend g,
+    požadovanou výnosnost ik
+    odhad dividendy pro příští rok Dt+1 = Dt . (1+g),
+       dána vztahem
+
+                                                      𝐷
+                                               𝑃 =
+                                                     𝑖 −𝑔
+
+Vícestupňový dividendový diskontní model rozděluje budoucí růst dividend do několika fází, aby
+přesněji ocenil akcii. Na rozdíl od jednoduchého jedno-fázového modelu, model diskontuje budoucí
+dividendy (D1, D2, D3...) zpět na současnou hodnotu s použitím požadované míry výnosu (ik), přičemž
+každá fáze má jinou míru růstu dividend (g).
+
+
+                                             𝐷 . (1 + 𝑔)      𝑃
+                                    𝑃 =                  +
+                                              (1 + 𝑖 )     (1 + 𝑖 )
+
+
+Dividendový diskontní model vychází z cash flow pro akcionáře (dividendy), nikoli z hodnoty aktiv.
+Pokud společnost vlastní významný neprovozní majetek, jeho hodnota se obvykle přičítá dodatečně k
+výsledku dividendového diskontního modelu, protože tento majetek může být zpeněžen nebo generovat
+dodatečný výnos.
+
+ 4.4. Diskontní míra
+
+Důležitým krokem je stanovení diskontní míry použité pro diskontování budoucích dividend. Základním
+účelem diskontní sazby je určení snižování hodnoty budoucích peněžních toků z důvodu jejich časové
+vzdálenosti a rizika spojeného s jejich dosažením.
+
+Diskontní míra – je definována americkou asociací American Society of Appraisers jako „výnosová míra
+používaná pro přepočtení peněžní částky splatné nebo přijatelné v budoucnu na současnou hodnotu“.
+Diskontní sazba se v oceňovací praxi používá ke stanovení částky, kterou by potenciální investor zaplatil
+dnes a za očekávané peněžní toky v budoucnosti.
+
+
+
+
+                                                                                            Strana 16 z 43
+                                                                                Strana 21 / 71
+
+
+
+
+Stanovení nákladů vlastního kapitálu
+Pokud nejsou k dispozici spolehlivé údaje o požadované míře výnosnosti vlastního kapitálu ze strany
+společnosti, lze po stanovení těchto nákladů použít metodu:
+
+Ocenění kapitálových aktiv metodou známou jako CAPM
+
+                                            Re = Rf + β (Rm – Rf)
+
+Re              požadovaný výnos z vlastního kapitálu (střední očekávaná výnosnost)
+Rf              bezriziková míra
+β               tzv. základní Beta – je měřítkem pro systematické riziko
+Rm              tržní výnos resp. (Rm – Rf) … tržní prémie, jde o částku, která by u výnosů z kmenových
+                akcií na veřejných trzích převyšovala bezrizikové výnosy.
+
+Střední očekávaná výnosnost z akcie je zároveň z pohledu společnosti nákladem na vlastní kapitál.
+Očekávaná výnosnost cenného papíru závisí na bezrizikové úrokové míře, prémii za tržní riziko a faktoru
+β. Beta je zde jediný faktor, který se váže ke konkrétní společnosti. Výsledná očekávaná výnosnost
+(vyjádřená v procentech) je pak použita jako hledaný náklad vlastního kapitálu.
+
+Modifikace modelu CAPM pro stanovení nákladů vlastního kapitálu na české podmínky:
+
+Základní náklady kapitálu pro investora s možností vytvářet diverzifikované portfolio.
+
+                             nVK = Rf (ČR) +  x RPKT(USA) + RPZ + přirážky
+Použito:
+kde Rf(ČR)      aktuální výnosnost státních obligací ČR
+ß               údaje odvětvových beta vybraných společností, přičemž ßunlevered (tj. beta
+                nezadlužená) je třeba přepočítat podle konkrétního zadlužení na ßlevered (tj. beta
+                zadlužená) vzorcem:
+                                                                          D
+                                 Levered  Unlevered  1  1  T      
+kde:                                                                      E
+T               daňová sazba
+D               úročené cizí zdroje společnosti
+E               vlastní kapitál
+
+RPKT(USA)       riziková prémie kapitálového trhu
+RPZ             riziková prémie země
+
+Přirážky
+a) přirážka za zhoršenou likviditu oproti společnosti na kapitálovém trhu
+b) přirážka za specifické riziko – v rámci specifického rizika společnosti jsou hodnoceny následující
+faktory rizikovosti:
+
+I. Rizika oboru podnikání
+Růst poptávky
+Závislost na hosp. cyklu
+Struktura odběratelů
+Kapitálová náročnost
+Životní prostředí, hygienické předpisy
+
+II. Rizika trhu
+Kapacita trhu
+Riziko dosažení tržeb
+Stálí zákazníci
+Konkurence
+Konkurenceschopnost výrobků
+Ceny
+Distribuce
+
+                                                                                                 Strana 17 z 43
+                                                                            Strana 22 / 71
+
+
+
+
+III. Management
+Schopnost vedení
+Organizační struktura
+
+IV. Výrobní proces
+Vlastní výrobky, opakované prodeje
+Využití kapacit
+Pracovní síla
+Dodavatelé
+
+V. Finanční rizika
+Zadluženost
+Likvidita
+Dosavadní vývoj tržeb
+Rentabilita
+Doba obratu dluhů
+Doba obratu pohledávek
+Doba obratu zásob
+Přístup k finančním zdrojům
+
+ 4.5. Posouzení významnosti akciového balíku1
+
+Diskonty a prémiemi při ocenění závodu se zabývá rozsáhlá, zejména však zahraniční, literatura. Podle
+toho, zda prémie a diskonty ovlivňují hodnotu závodu jako celku nebo je naopak jejich účelem
+zohlednění specifik určitého akcionáře, dělíme diskonty a prémie na:
+
+    −   diskonty na úrovni podniku jako celku
+    −   diskonty a prémie na úrovni akcionáře.
+
+Výše diskontů není v České republice systematicky a transparentně monitorována, je obvykle
+předmětem obchodního tajemství a leckdy zohledňuje subjektivní pocity prodávajícího či kupujícího
+konkrétního obchodního podílu v konkrétním čase a za konkrétních podmínek. Obecně se lze v literatuře
+dozvědět, že výše diskontů dosahuje výše 0 – 40 % ze základny ocenění.
+
+Vzhledem k tomu, že je stanovována hodnota akcie na úrovni ceny obvyklé, nejsou aplikovány diskonty
+za minoritní podíl ani prémie za kontrolní vliv.
+
+Závěr:
+Předmětem ocenění je jeden kus akcie emitované Společností. Hodnota této akcie na úrovni ceny
+obvyklé je stanovena prostřednictvím dividendového diskontního modelu.
+
+
+
+
+1 Diskonty a prémie jsou používány jak při ocenění akciových společností, tak při ocenění společností s ručením
+
+ omezeným. Obecná problematika diskontů a prémií je pro všechny obchodní společnosti stejná, proto pokud
+ hovoříme o akcionáři, můžeme analogicky uvažovat obecně o podílníkovi obchodní společnosti.
+
+
+                                                                                                     Strana 18 z 43
+                                                                        Strana 24 / 71
+
+
+
+
+Aktiva společnosti Brněnské vodárny a kanalizace, a.s. od roku 2021 do 2024 (uvedeny jsou jen nenulové
+řádky):
+
+Položky v tis. Kč                                              2021      2022      2023                 2024
+AKTIVA CELKEM                                                2 381 573 2 505 657 2 632 872            2 992 610
+Dlouhodobý majetek                                           1 704 707 1 827 540 2 038 416            2 197 786
+Dlouhodobý nehmotný majetek                                       6 947     6 098     7 256                8 323
+Software                                                          5 788     4 994     6 139                6 238
+Jiný dlouhodobý nehmotný majetek                                    114     1 084       835                  631
+Nedokončený dlouhodobý nehmotný majetek                           1 045        20       282                1 454
+Dlouhodobý hmotný majetek                                    1 697 760 1 821 442 2 031 160            2 189 463
+Pozemky                                                         337 905   337 905   337 905              337 905
+Stavby                                                          974 777   940 356   907 250            1 090 070
+Samostatné hmotné movité věci a soubory hmotných movitých
+                                                                294 943         291 075    287 674      376 833
+věcí
+Jiný dlouhodobý hmotný majetek                                      535             535         535         535
+Nedokončený dlouhodobý hmotný majetek                            89 600         251 571     497 796     384 120
+Oběžná aktiva                                                  666 249         660 812     571 845     767 898
+Zásoby                                                          21 573          25 885      30 440      31 243
+Materiál                                                         21 573          25 885      30 440      31 243
+Krátkodobé pohledávky                                          473 785         475 055     539 748     560 634
+Pohledávky z obchodních vztahů                                  116 428         140 550     182 561     196 693
+Stát - daňové pohledávky                                          9 484          11 712      12 646       3 596
+Krátkodobé poskytnuté zálohy                                      8 141           6 170       8 527       7 459
+Dohadné účty aktivní                                            339 443         316 109     335 667     345 507
+Jiné pohledávky                                                     289             514         347       7 379
+Krátkodobý finanční majetek                                    170 891         159 872        1 657    176 021
+Peníze                                                              767             828         641         712
+Účty v bankách                                                  170 124         159 044       1 016     175 309
+Časové rozlišení                                                10 617          17 305      22 611      26 926
+Náklady příštích období                                           7 261          13 532      22 051      24 957
+Příjmy příštích období                                            3 356           3 773         560       1 969
+
+Aktiva Společnosti v letech 2021–2024 vykazují stabilní růst, přičemž klíčovou složkou zůstává
+dlouhodobý hmotný majetek (zejména stavby, pozemky a movité věci), který tvoří přes 60 % celkových
+aktiv. Výrazný nárůst v roce 2023 a 2024 je spojen s investicemi do infrastruktury, zejména s projektem
+Kalové hospodářství ČOV Brno-Modřice, což se projevilo růstem nedokončeného dlouhodobého
+hmotného majetku až na 498 mil. Kč v roce 2023, následně však v roce 2024 tato položka klesla na
+384 mil. Kč v důsledku zařazení části investic do užívání. Oběžná aktiva kolísala, v roce 2023 došlo k
+poklesu hotovosti, v roce 2024 naopak k jejímu výraznému navýšení díky čerpání úvěrů. Krátkodobé
+pohledávky mírně rostly, přičemž hlavní položkou jsou dohadné účty aktivní (nevyfakturované výnosy).
+Zásoby i materiál zůstávají dlouhodobě stabilní a tvoří jen malou část aktiv. Celkově je patrný investiční
+trend s důrazem na obnovu a rozvoj infrastruktury.
+
+Vývoj aktiv společnosti Brněnské vodárny a kanalizace, a.s. mezi lety 2021 a 2024 ukazuje následující
+tabulka a graf:
+
+Položky v tis. Kč                                            2021           2022           2023         2024
+AKTIVA CELKEM                                               2 381 573      2 505 657      2 632 872   2 992 610
+meziroční změna                                                     -           5,2%           5,1%       13,7%
+Dlouhodobý majetek                                          1 704 707      1 827 540      2 038 416   2 197 786
+meziroční změna                                                     -           7,2%          11,5%        7,8%
+Oběžná aktiva                                                 666 249        660 812        571 845     767 898
+meziroční změna                                                     -          -0,8%         -13,5%       34,3%
+
+
+
+
+                                                                                                  Strana 20 z 43
+                                                                       Strana 25 / 71
+
+
+
+
+             Vývoj aktiv Společnosti v tis. Kč
+ 3 500 000
+ 3 000 000
+ 2 500 000
+ 2 000 000                                                                 Oběžná aktiva
+
+ 1 500 000                                                                 Dlouhodobý majetek
+
+ 1 000 000                                                                 Aktiva celkem
+
+   500 000
+         0
+                2021          2022         2023         2024
+
+
+Pasiva společnosti Brněnské vodárny a kanalizace, a.s. od roku 2021 do 2024 (uvedeny jsou jen nenulové
+řádky):
+
+Položky (v tis. Kč)                                               2021      2022      2023               2024
+PASIVA CELKEM                                                  2 381 573 2 505 657 2 632 872           2 992 610
+Vlastní kapitál                                                1 991 527 2 026 843 2 087 350           2 190 427
+Základní kapitál                                                 492 471   492 471   492 471             492 471
+Základní kapitál                                                  492 471   492 471   492 471             492 471
+Kapitálové fondy                                                     1 488     1 488     1 488              1 488
+Ostatní kapitálové fondy                                             1 488     1 488     1 488              1 488
+Rezervní fondy, nedělitelný fond a ostatní fondy ze zisku        101 335   101 181   100 852             101 074
+Zákonný rezervní fond / Nedělitelný fond                            98 494    98 494    98 494             98 494
+Statutární a ostatní fondy                                           2 841     2 687     2 358              2 580
+Výsledek hospodaření minulých let                              1 295 926 1 323 802 1 375 031           1 490 039
+Nerozdělený zisk minulých let                                   1 295 926 1 323 802 1 375 031           1 490 039
+Výsledek hospodaření běžného účetního období / + - /             100 307   107 901   117 508             105 355
+Cizí zdroje                                                      390 042   478 810   545 514             799 289
+Rezervy                                                            25 679    21 786    16 563             16 551
+Rezerva na daň z příjmu                                              6 939     5 792        12                  0
+Ostatní rezervy                                                     18 740    15 994    16 551             16 551
+Dlouhodobé závazky                                                 75 677    72 882    82 053            105 451
+Závazky z obchodních vztahů                                                                                20 021
+Odložený daňový závazek                                           75 677        72 882        82 053       85 430
+Krátkodobé závazky                                              288 686       384 142       446 898      419 287
+Závazky z obchodních vztahů                                        8 898        99 886       137 384      116 028
+Závazky ke společníkům, členům družstva a k účastníkům
+                                                                   1 667          1 457       1 419        1 399
+sdružení
+Závazky k zaměstnancům                                            24 043        25 769       33 212       30 896
+Závazky se sociálního zabezpečení a zdravotního pojištění         12 773        14 252       18 413       17 350
+Stát - daňové závazky a dotace                                     3 057         3 448        4 783        4 145
+Krátkodobé přijaté zálohy                                        153 861       150 079      151 446      153 334
+Dohadné účty pasivní                                              84 387        89 251      100 241       96 135
+Bankovní úvěry a výpomoci                                              0             0            0     258 000
+Bankovní úvěry dlouhodobé                                                                                258 000
+Časové rozlišení                                                       4                4         8        2 894
+Výdaje příštích období                                                 4                4         8            4
+Výnosy příštích období                                                                                     2 890
+
+
+
+
+                                                                                                   Strana 21 z 43
+                                                                           Strana 26 / 71
+
+
+
+
+Pasiva Společnosti v letech 2021–2024 vykazují stabilní převahu vlastního kapitálu, který tvoří přibližně
+70–75 % celkových zdrojů. Vlastní kapitál roste zejména díky ziskům minulých let a pravidelně
+dosahovanému kladnému výsledku hospodaření. Základní kapitál a fondy zůstávají beze změn.
+Významný růst cizích zdrojů nastal v roce 2024 v souvislosti s čerpáním dlouhodobých bankovních úvěrů
+na financování investic, a tedy nově vykázanými úvěry ve výši 258 mil. Kč. Rezervy zůstávají nízké a
+stabilní. Krátkodobé závazky mírně rostly, přičemž hlavní položkou jsou přijaté zálohy od odběratelů a
+závazky z obchodních vztahů. Struktura pasiv tak odráží konzervativní financování s důrazem na vlastní
+zdroje a v posledních letech i na externí financování investic.
+
+Vývoj pasiv společnosti Brněnské vodárny a kanalizace, a.s. mezi lety 2021 a 2024 ukazuje následující
+tabulka a graf:
+
+Položky v tis. Kč                                               2021           2022            2023        2024
+PASIVA CELKEM                                                  2 381 573      2 505 657       2 632 872   2 992 610
+Základní kapitál                                                 492 471        492 471         492 471     492 471
+Vlastní kapitál                                                1 991 527      2 026 843       2 087 350   2 190 427
+Meziroční změna vlastního kapitálu                                     -           1,8%            3,0%        4,9%
+Cizí zdroje                                                      390 042        478 810         545 514     799 289
+Meziroční změna cizích zdrojů                                          -          22,8%           13,9%       46,5%
+
+
+
+                               Vývoj pasiv Společnosti v tis. Kč
+3 500 000
+3 000 000
+2 500 000
+                                                                                Cizí zdroje
+2 000 000
+                                                                                Vlastní kapitál
+1 500 000
+1 000 000                                                                       Celková pasiva
+
+  500 000
+         0
+                    2021        2022         2023       2024
+
+
+Výkazu zisku a ztráty společnosti Brněnské vodárny a kanalizace, a.s v letech 2021 až 2024 (uvedeny
+jsou jen nenulové řádky):
+
+Položky v tis. Kč                                                 2021            2022         2023        2024
+Výkony                                                          2 098 010       2 185 670     2 510 866   2 612 882
+Tržby za prodej vlastních výrobků a služeb                      2 094 767       2 181 844     2 506 773   2 608 091
+Aktivace                                                            3 243           3 826         4 093       4 791
+Výkonová spotřeba                                               1 489 809       1 544 251     1 771 873   1 848 307
+Spotřeba materiálu a energie                                      223 250         279 545       303 182     298 375
+Služby                                                          1 266 559       1 264 706     1 468 691   1 549 932
+Přidaná hodnota                                                  608 201          641 419      738 993    764 575
+Osobní náklady                                                    376 858          416 314     453 937     480 912
+Mzdové náklady                                                    271 508          300 482     328 033     347 778
+Náklady na sociální zabezpečení a zdravotní pojištění              91 320          101 184     110 532     116 886
+Ostatní náklady                                                    14 030           14 648      15 372      16 248
+Daně a poplatky                                                     1 534            1 157       1 043       1 126
+Odpisy dlouhodobého nehmotného a hmotného majetku                 102 567          105 454     111 353     122 034
+Tržby z prodeje dlouhodobého majetku a materiálu                    2 309             6 633       4 474      7 638
+
+
+                                                                                                      Strana 22 z 43
+                                                                      Strana 27 / 71
+
+
+
+
+Položky v tis. Kč                                              2021            2022            2023         2024
+Zůstatková cena prodaného dlouhodobého majetku a materiálu         996           1 348           1 650         5 313
+Prodaný materiál                                                   931           1 348           1 650
+Změna stavu rezerv a opr.položek v prov.oblasti a
+                                                                 4 441          -3 141             865        -1 386
+kompl.nákl.př.obd.
+Ostatní provozní výnosy                                         21 081          20 775           4 152        11 360
+Ostatní provozní náklady                                        18 712          21 398          25 520        38 680
+Provozní výsledek hospodaření                                  126 483         126 297         153 251      136 894
+Výnosové úroky                                                     327           9 446           3 733         2 882
+Nákladové úroky                                                                                    263         2 141
+Ostatní finanční výnosy                                                                             16            12
+Ostatní finanční náklady                                         1 754           1 903           1 878         2 656
+Finanční výsledek hospodaření                                   -1 427           7 543           1 608        -1 903
+Daň z příjmů za běžnou činnost                                  24 749          25 939          37 351        29 636
+splatná                                                         27 118          28 734          28 180        26 259
+odložená                                                        -2 369          -2 795           9 171         3 377
+Výsledek hospodaření za běžnou činnost                         100 307         107 901         117 508      105 355
+Výsledek hospodaření za účetní období                          100 307         107 901         117 508      105 355
+
+Hospodaření Společnosti v letech 2021–2024 ukazuje stabilní růst tržeb z prodeje vlastních výrobků a
+služeb (z 2,09 mld. Kč v roce 2021 na 2,61 mld. Kč v roce 2024). Přidaná hodnota i provozní výsledek
+hospodaření se v čase zvyšují, což odráží efektivní řízení nákladů i růst výkonů. Významnou nákladovou
+položkou zůstávají služby a osobní náklady, které v posledních letech mírně rostou. Odpisy
+dlouhodobého majetku jsou stabilní a odpovídají investiční aktivitě. V roce 2024 došlo k nárůstu
+finančních nákladů v souvislosti s čerpáním úvěrů, což se projevilo záporným finančním výsledkem
+hospodaření. Daňová zátěž je stabilní. Čistý zisk Společnosti se pohybuje v rozmezí 100–117 mil. Kč
+ročně, přičemž v roce 2024 činil 105 mil. Kč. Celkově je patrný trend růstu výkonů a udržení ziskovosti i
+při zvýšených investicích. Další vývoj hospodaření a ziskovosti je ovlivněn novou provozní smlouvou.
+
+Vývoj tržeb a přidané hodnoty společnosti Brněnské vodárny a kanalizace, a.s mezi lety 2021 a 2024
+ukazuje následující tabulka a graf:
+
+Položky v tis. Kč                                                  2021            2022          2023         2024
+Tržby za prodej vlastních výrobků a služeb                       2 094 767 2 181 844 2 506 773 2 608 091
+Výkony                                                           2 098 010 2 185 670 2 510 866 2 612 882
+Meziroční změna                                                            -           4,18%     14,88%        4,06%
+Přidaná hodnota                                                    608 201        641 419        738 993     764 575
+Meziroční změna                                                            -            5,5%      15,2%         3,5%
+
+
+
+
+                                                                                                        Strana 23 z 43
+                                                                     Strana 28 / 71
+
+
+
+
+              Vývoj tržeb za prodej vlastních výrobků a služeb, přidané hodnoty a
+                                 výsledku hospodaření v tis. Kč
+ 3 000 000
+
+ 2 500 000
+
+ 2 000 000                                                                   Tržby za prodej vlastních
+                                                                             výrobků a služeb
+                                                                             Přidaná hodnota
+ 1 500 000
+                                                                             Výsledek hospodaření za účetní
+ 1 000 000                                                                   období
+
+
+   500 000
+
+          0
+                  2021        2022         2023          2024
+
+
+ 2.2. Poměrové ukazatele
+
+Dále bude provedena analýza poměrových ukazatelů. Ukazatele je třeba hodnotit v kontextu s
+provozovanou činností (dosahované hodnoty obecně velmi kolísají podle oboru činnosti, popř. v
+závislosti na sezónních výkyvech hospodaření) a spíše z pohledu jejich celkového vývojového trendu než
+z pohledu jejich absolutních hodnot.
+
+Ukazatele likvidity
+
+Ukazatele likvidity měří schopnost společnosti dostát svým finančním závazkům. Ukazatele se používají
+k porovnání zdrojů, které jsou k dispozici, se závazky, které má společnost v určité době zaplatit. Nízké
+hodnoty signalizují napětí ve finančních zdrojích, vysoké hodnoty pak špatné hospodaření s finančními
+prostředky, resp. nepřiměřeně vysoké hodnoty zásob nebo pohledávek.
+
+Obecně je považováno za optimální rozmezí běžné likvidity mezi 1,6 a 2,5 (tedy 160 % až 250 %).
+Hodnota pod 100 % indikuje situaci, kdy krátkodobé závazky není možné z oběžných aktiv uhradit a je
+nutné je hradit z dlouhodobých zdrojů financování.
+
+Ukazatel běžné likvidity je kalkulován jako: oběžná aktiva/krátkodobý cizí kapitál; ukazatel rychlé
+likvidity pak: (oběžná aktiva-zásoby)/krátkodobý cizí kapitál. Okamžitá likvidita je kalkulována jako
+krátkodobý finanční majetek dělený krátkodobými závazky.
+
+Likvidita                                                  2021        2022            2023          2024
+Likvidita běžná                                             230,8%      172,0%          128,0%        183,1%
+Likvidita rychlá                                            223,3%      165,3%          121,1%        175,7%
+Likvidita okamžitá                                           59,2%       41,6%            0,4%         42,0%
+Čistá pracovní aktiva na % tržeb                             17,8%       12,4%            5,0%         13,2%
+Finanční majetek na % aktiv                                   7,2%        6,4%            0,1%          5,9%
+Pohledávky z obchodního styku na % tržeb                      5,5%        6,3%            7,2%          7,5%
+Dodavatelsko odběrat.financování v %                          7,6%       71,1%           75,3%         59,0%
+
+
+
+
+                                                                                                 Strana 24 z 43
+                                                                      Strana 29 / 71
+
+
+
+
+Likvidita Společnosti v letech 2021–2024 vykazuje výrazné kolísání. Běžná likvidita zůstávala v celém
+období nad doporučovanou hranicí 100 %, v roce 2021 dosáhla maxima 230,8 %, v roce 2023 klesla na
+128,0 % a v roce 2024 opět vzrostla na 183,1 %. Podobný vývoj sledujeme i u rychlé likvidity, která se
+pohybovala v rozmezí 121,1–223,3 %. Okamžitá likvidita byla v roce 2023 extrémně nízká (0,4 %), v
+ostatních letech se pohybovala kolem 40–59 %. Čistá pracovní aktiva na tržbách i finanční majetek na
+aktivech v roce 2023 výrazně poklesly, v roce 2024 se však částečně zotavily. Podíl pohledávek z
+obchodního styku na tržbách mírně rostl, zatímco podíl dodavatelsko-odběratelského financování byl v
+letech 2022–2023 výrazně vyšší než v roce 2021, v roce 2024 opět mírně poklesl. Celkově ukazatele
+signalizují, že Společnost si udržuje vysokou platební schopnost, i když v roce 2023 došlo k dočasnému
+snížení likvidity.
+
+Ukazatele aktivity
+
+Ukazatele aktivity hodnotí schopnost firmy využívat vložených prostředků, tj. rychlost obratu
+jednotlivých složek majetku, resp. vázanost kapitálu v určitých formách aktiv. Kratší obrátka je
+pozitivní a trend prodlužování je vesměs negativní.
+
+Aktivita                                                    2021         2022          2023          2024
+Doba obratu aktiv ve dnech                                    404,1        405,9         375,6         408,9
+Doba obratu oběžných aktiv ve dnech                           113,0        107,0          81,6         104,9
+Doba obratu krátk.pohl. z obch.st.ve dnech                     19,8         22,9          26,1          26,9
+Doba obratu krátk.záv. z obch.st.ve dnech                       2,1         23,0          27,5          22,1
+Doba obratu zásob ve dnech                                      5,2          6,0           6,2           6,1
+
+Doba obratu aktiv se v letech 2021–2024 pohybovala v rozmezí 375–409 dní, což ukazuje na stabilní
+efektivitu využití celkových aktiv. Doba obratu oběžných aktiv se v roce 2023 snížila na 81,6 dne, v
+ostatních letech se držela kolem 105–113 dní. Doba inkasa krátkodobých pohledávek z obchodního styku
+se postupně prodlužovala z 19,8 dne v roce 2021 na 26,9 dne v roce 2024, což může naznačovat mírné
+zpomalení platební morálky odběratelů. Doba obratu krátkodobých závazků z obchodního styku vzrostla
+v roce 2022 a 2023 na více než 23 dní, v roce 2024 se snížila na 22,1 dne. Doba obratu zásob zůstává
+dlouhodobě velmi nízká a stabilní, v rozmezí 5–6 dní. Celkově ukazatele aktivity potvrzují stabilní řízení
+pracovního kapitálu, pouze s mírným prodloužením doby inkasa pohledávek v posledních letech.
+
+Ukazatele zadluženosti
+
+Ukazatelé zadluženosti měří dlouhodobější finanční rovnováhu, která se buď porovnává s
+doporučovanými hodnotami, nebo alespoň podává informaci o tom, zda je možné firmu dále zadlužit.
+Míra zadlužení a podíl vlastního kapitálu je však nutné posuzovat s ohledem na strukturu aktiv a pasiv,
+které následují.
+
+Zadluženost                                                2021         2022           2023          2024
+Celková zadluženost v %                                      12,1%        15,3%          17,0%         23,4%
+Dlouhodobá zadluženost                                        3,8%         3,6%           3,9%         16,6%
+Zadluženost                                                  15,8%        20,0%          22,2%         32,6%
+
+Celková zadluženost Společnosti v letech 2021–2024 postupně rostla z 12,1 % na 23,4 %. Výrazný nárůst
+je patrný zejména v roce 2024, kdy došlo k navýšení cizích zdrojů v souvislosti s čerpáním bankovních
+úvěrů na financování investic. Dlouhodobá zadluženost byla v letech 2021–2023 stabilní a nízká (kolem
+3,8–3,9 %), v roce 2024 však vzrostla na 16,6 %. Celkový ukazatel zadluženosti (součet krátkodobých a
+dlouhodobých závazků k aktivům) se zvýšil z 15,8 % v roce 2021 na 32,6 % v roce 2024. Přesto zůstává
+zadluženost společnosti na konzervativní úrovni a podíl vlastního kapitálu na financování aktiv je stále
+vysoký. Vývoj ukazatelů odráží přechod k vyššímu využití externího financování v posledním roce,
+zejména v souvislosti s investičními projekty.
+
+
+
+
+                                                                                                 Strana 25 z 43
+                                                                      Strana 30 / 71
+
+
+
+
+Ukazatele rentability a výnosnosti
+
+Rentabilita společnosti a měření její úrovně patří k nejdůležitějším oblastem hodnocení společnosti.
+Smyslem podnikání je vyprodukovat zisk. Úroveň produkovaného zisku by měla být úměrná vloženému
+kapitálu (celkového nebo vlastního) a měla by být srovnatelná nebo vyšší než výnosnost jiného použití
+tohoto kapitálu.
+
+Rentabilita a výnosnost                                    2021          2022           2023           2024
+Čistá rentabilita tržeb v %                                   4,7%          4,9%           4,7%           4,0%
+Čistá rentabilita aktiv celkem v %                            4,2%          4,3%           4,5%           3,5%
+Rentabilita investovaného kapitálu                               -          4,5%           4,7%           4,0%
+Čistá rentabilita vlastního jmění v %                         5,0%          5,3%           5,6%           4,8%
+Nákladová rentabilita v %                                     5,0%          5,1%           4,9%           4,2%
+Nákladovost výkonů celková v %                               95,3%         95,1%          95,3%          96,0%
+
+Rentabilita Společnosti zůstávala v letech 2021–2024 stabilní, s mírným poklesem v roce 2024. Čistá
+rentabilita tržeb se pohybovala mezi 4,7 % a 4,9 % v letech 2021–2023, v roce 2024 klesla na 4,0 %. Čistá
+rentabilita aktiv celkem byla nejvyšší v roce 2023 (4,5 %), v roce 2024 se snížila na 3,5 %. Rentabilita
+investovaného kapitálu se pohybovala v rozmezí 4,0–4,7 %. Čistá rentabilita vlastního jmění dosahovala
+v letech 2021–2023 hodnot 5,0–5,6 %, v roce 2024 klesla na 4,8 %. Nákladová rentabilita byla v roce 2021
+na úrovni 5,0 % a v dalších letech mírně rostla až na 5,6 %, v roce 2024 poklesla na 4,2 %. Celková
+nákladovost výkonů se pohybovala mezi 95-96 %. Celkově ukazatele potvrzují dlouhodobě stabilní
+ziskovost společnosti, v roce 2024 je však patrný mírný pokles všech hlavních rentabilitních ukazatelů.
+
+Ukazatele struktury
+
+Struktura                                                  2021         2022            2023           2024
+Leverage v %                                                 13,2%        16,2%           17,6%          23,9%
+Bankovní úvěry v % cizích zdrojů                              0,0%         0,0%            0,0%          32,3%
+Bankovní úvěry v % pasiv                                      0,0%         0,0%            0,0%           8,6%
+Bankovní úvěry v % tržeb                                      0,0%         0,0%            0,0%           9,8%
+Úrokové zatížení výnosů v %                                   0,0%         0,0%            0,0%           0,1%
+Úrokové krytí z čistého zisku v %                             0,0%         0,0%        44679,8%        4920,8%
+Pružnost aktiv v %                                          112,2%       112,7%          104,3%         113,6%
+Zlaté bilanční pravidlo v %                                  85,6%        90,2%           97,7%          89,0%
+Stálá aktiva na % vlastního jmění                            85,6%        90,2%           97,7%         100,3%
+
+Ukazatel leverage, tedy podíl cizích zdrojů na aktivech, v letech 2021–2024 postupně rostl z 13,2 % na
+23,9 %. Výrazná změna nastala v roce 2024, kdy se bankovní úvěry poprvé objevily ve struktuře
+financování a tvořily 32,3 % cizích zdrojů, 8,6 % pasiv a 9,8 % tržeb. Úrokové zatížení výnosů i úrokové
+krytí z čistého zisku byly v letech 2021–2023 nulové, v roce 2024 se objevují v souvislosti s novým
+úvěrovým financováním, přičemž krytí zůstává velmi vysoké. Pružnost aktiv se pohybovala kolem 104–
+113 %. Zlaté bilanční pravidlo bylo ve všech letech naplněno, což znamená, vlastní kapitál a dlouhodobé
+závazky převyšují stálá aktiva. Podíl stálých aktiv na vlastním jmění v roce 2024 dosáhl 100,3 %. Celkově
+ukazatele struktury odrážejí přechod k vyššímu využití úvěrového financování.
+
+Ukazatele nákladovosti a produktivity
+
+Nákladovost a produktivita                                 2021          2022           2023           2024
+Obchodní marže v %                                            28,7%         28,9%          29,3%          29,0%
+Nákladovost výkonové spotřeby v %                             71,1%         70,7%          70,6%          70,8%
+Nákladovost výkonů provozní v %                               94,0%         94,3%          93,9%          94,8%
+Obchodně výrobní tržby na prac.v tis.CZK                    3 835,5       4 017,8        4 524,1        4 742,1
+Přidaná hodnota na pracovníka v tis.CZK                     1 111,9       1 179,1        1 331,5        1 387,6
+
+
+                                                                                                   Strana 26 z 43
+                                                                      Strana 31 / 71
+
+
+
+
+Obchodní marže Společnosti v letech 2021–2024 mírně rostla, z 28,7 % v roce 2021 na 29,3 % v roce
+2023, v roce 2024 se ustálila na 29,0 %. Nákladovost výkonové spotřeby zůstává stabilní kolem 70–71 %.
+Nákladovost výkonů provozní se pohybuje v rozmezí 93,9–94,8 %, což ukazuje na efektivní kontrolu
+provozních nákladů. Obchodně výrobní tržby na pracovníka i přidaná hodnota na pracovníka v tisících Kč
+každoročně rostou, v roce 2024 dosáhla přidaná hodnota na pracovníka 1 387,6 tis. Kč. Celkově
+ukazatele potvrzují stabilní úroveň nákladovosti a zvyšující se produktivitu práce.
+
+Ukazatele kapitálového trhu
+
+Kapitálový trh                                             2021         2022           2023          2024
+Dividenda na akcii v Kč                                       71,00        55,00           0,00         54,82
+Čistý zisk na akcii v Kč (EPS)                               102,00       110,00         119,00        107,00
+Ziskový výnos v %                                              3,4%         3,6%           4,3%          4,3%
+Ukazatel P/E                                                  29,41        27,46          23,53         23,36
+Účetní hodnota akcie v Kč                                  2 021,97     2 057,83       2 119,26      2 223,91
+Tržní cena akcie2 v % účetní hodnoty akcie                    1,48%        1,47%          1,32%         1,12%
+Tržní cena akcie3 v % nominální ceny akcie                    6,00%        6,04%          5,60%         5,00%
+
+Dividenda na akcii v letech 2021–2024 kolísala, v roce 2021 činila 71 Kč, v roce 2022 poklesla na 55 Kč, v
+roce 2023 nebyla vyplacena a v roce 2024 dosáhla 54,82 Kč. Čistý zisk na akcii (EPS) se pohyboval v
+rozmezí 102–119 Kč, v roce 2024 činil 107 Kč. Ziskový výnos se v posledních dvou letech ustálil na 4,3 %.
+Ukazatel P/E v průběhu sledovaného období klesal z 29,41 na 23,36. Účetní hodnota akcie stabilně
+rostla a v roce 2024 dosáhla 2 223,91 Kč. Tržní cena akcie v poměru k účetní hodnotě akcie klesala, v
+roce 2024 činila 1,12 %. Tržní cena akcie v % nominální ceny akcie se v roce 2024 snížila na 5,00 %.
+Celkově ukazatele kapitálového trhu ukazují na stabilní výnosnost pro akcionáře a mírný pokles tržního
+ocenění akcie vůči účetní hodnotě.
+
+ 2.3. Závěr finanční analýzy
+
+Společnost Brněnské vodárny a kanalizace, a.s. v období let 2021 až 2024 vykazovala stabilní a
+dlouhodobě udržitelnou ekonomickou výkonnost. Tržby z prodeje výrobků a služeb v průběhu
+sledovaného období rostly a v roce 2024 dosáhly 2,61 mld. Kč. Provozní výsledek hospodaření i čistý zisk
+zůstávaly stabilní, s mírným poklesem v posledním roce, přičemž čistý zisk se pohyboval v rozmezí 100–
+117 mil. Kč ročně.
+
+Rozvaha společnosti ukazuje na konzervativní strukturu financování s převahou vlastního kapitálu, i když
+v roce 2024 došlo k výraznějšímu zapojení externího financování v souvislosti s investičními projekty.
+Likvidita Společnosti zůstává na velmi dobré úrovni, krátkodobé závazky jsou bezpečně kryty oběžnými
+aktivy. Zadluženost společnosti je i přes nárůst v roce 2024 stále přiměřená a nevykazuje rizikové
+hodnoty. Rentabilita a produktivita práce jsou dlouhodobě stabilní, s mírným poklesem rentability v
+roce 2024. Nákladovost výkonů i provozní nákladovost zůstávají pod kontrolou. Ukazatele aktivity
+potvrzují efektivní řízení pracovního kapitálu, pouze s mírným prodloužením doby inkasa pohledávek v
+posledních letech. Ukazatele kapitálového trhu ukazují na stabilní výnosnost pro akcionáře, dividendová
+politika je konzistentní a účetní hodnota akcie dlouhodobě roste.
+
+Na základě provedené finanční analýzy lze konstatovat, že společnost vykazuje stabilní výkonnost,
+schopnost dlouhodobě generovat zisk, přiměřenou kapitálovou vybavenost a vysokou likviditu. Provozní i
+finanční výsledky jsou pozitivní a nevykazují známky finanční tísně. Princip trvání účetní jednotky je
+potvrzen i pro následující období.
+
+
+
+
+2 Cena akcie v RM Systému na konci daného roku
+3 Cena akcie v RM Systému na konci daného roku
+
+
+
+
+                                                                                                  Strana 27 z 43
+                                                                      Strana 32 / 71
+
+
+
+
+3. Strategická analýza
+
+ 3.1. Makroekonomické ukazatele
+
+Vývoj globální ekonomiky – k datu ocenění
+
+Pozvolné hledání způsobu ukončení války na Ukrajině pokračuje, zatím ale stále za „zavřenými dveřmi“.
+Odborníci uvádějí, že povolení k použití amerických zbraní v hloubi ruského území a zvýšená pomoc USA
+Ukrajině od končící administrativy prezidenta J. Bidena dává nově příchozímu prezidentovi D. Trumpovi
+několik trumfů, které mohou být významné při společném vyjednávání příměří. Na počátku prosince
+vláda USA oznámila, že připravila pro Ukrajinu nový balík vojenské pomoci v hodnotě 725 mil. USD (od
+počátku konfliktu již astronomických 60 mld. USD), aby mohl být co nejefektivněji zpomalen ruský
+postup na frontě.
+
+Podle aktualizovaného výhledu OECD vzroste letos globální ekonomika o 3,2 %. OECD dále předpokládá,
+že růst světového HDP v příštím roce mírně posílí na 3,3 % a na této úrovni zůstane stabilní až do roku
+2026. V ekonomikách OECD se předpokládá mírný růst HDP ve srovnání s obdobím před pandemií, a to
+na úrovni 1,9 % v letech 2025 i 2026. Rizikem globálního růstu je sílící protekcionismus v mezinárodním
+obchodě. Celková inflace se ve většině zemí do roku 2024 nadále snižovala, a to v důsledku dalšího
+poklesu inflace cen potravin, energií a zboží. Inflace cen služeb je však stále perzistentní a pohybuje se
+v zemích OECD kolem 4 %.
+
+Měnová politika ECB pokračuje v holubičím letu. Prosincové zasedání ECB přineslo třetí po sobě jdoucí
+snížení sazeb o 25 b. b., a také potvrzení, že s koncem letošního roku ukončí ECB i reinvestice jistin
+maturujících cenných papírů v rámci programu PEPP. V případě amerického Fedu je situace obdobná, v
+prosinci došlo dle očekávání snížení sazeb o 25 b. b. Prosincové snížení sazeb o 50 b. b. provedla
+Kanadská (BoC) i Švýcarská centrální banka (SNB), která trhy svou razancí překvapila.
+
+
+
+
+Zdroj: Globální ekonomický výhled ČNB, prosinec 2024
+
+
+
+
+                                                                                             Strana 28 z 43
+                                                                     Strana 33 / 71
+
+
+
+
+Evropská unie
+
+Ekonomika eurozóny se v posledních měsících potýká s výraznými výzvami. Průmyslová produkce v říjnu
+meziročně poklesla téměř o 5 %, což odráží dlouhodobé strukturální problémy, včetně vysokých nákladů
+na energie a slabé globální poptávky. Politická nestabilita ve Francii a Německu navíc zvyšuje nejistotu,
+což negativně ovlivňuje investice i spotřebitelskou důvěru. Analytici CF očekávají, že hospodářský růst
+eurozóny dosáhne v roce 2024 pouze 0,8 %, přičemž nejvýraznější zpomalení růstu se předpokládá ve
+Francii, kde politické problémy komplikují schválení rozpočtu a zhoršují fiskální stabilitu. Trh práce v
+eurozóně zůstává relativně napjatý, a to navzdory slabé ekonomické aktivitě. Firmy stále drží
+pracovníky, což odráží obavy z obtížného náboru v budoucnu. Avšak s klesajícími zisky a rostoucími
+mzdovými náklady dochází k omezení náborů a očekává se, že nezaměstnanost v roce 2025 mírně
+vzroste. Tento vývoj by mohl přinést krátkodobé zlepšení produktivity, ale zároveň zvýšit rizika pro
+celkový ekonomický výkon.
+
+Inflace se v listopadu udržela nad cílovou úrovní ECB, přičemž jádrová inflace dosahuje 2,7 %.
+Zpomalení cenového růstu se očekává díky slabé poptávce, ale vyšší ceny energií a náklady na služby by
+mohly udržet tlak na cenovou hladinu i v nadcházejícím roce. To vytváří složitou situaci pro měnovou
+politiku, která se snaží podpořit ekonomiku bez dopadu na inflační očekávání. Evropská centrální banka
+plánuje pokračovat ve snižování úrokových sazeb, přičemž se očekává snížení depozitní sazby o 25 b. b.
+již v prosinci. Prostor pro další uvolňování politiky je ale omezený, což zdůrazňuje nutnost zvýšených
+fiskálních stimulů, zejména v zemích jako Německo, kde investiční deficit brzdí dlouhodobý růst.
+
+Výhled pro rok 2025 zůstává smíšený. Jižní státy jako Španělsko a Portugalsko těžily z výrazných investic
+z fondů NextGen, ale i nadále vykazují nadprůměrný růst. Naopak severní část eurozóny, zejména
+Německo a Francie, čelí strukturálním problémům a politickým překážkám, které oslabují jejich
+ekonomickou výkonnost. Celkově lze očekávat jen mírné zotavení v rámci celé eurozóny, podle
+analytiků CF dosáhne růst HDP 1,0 %. Inflace se jen pozvolna vrátí k 2 %.
+
+
+
+
+Zdroj: Globální ekonomický výhled ČNB, prosinec 2024
+
+Česká republika – stav a očekávání k datu ocenění 31.12.2024
+
+Česká ekonomika v roce 2023 stagnovala. Hrubý domácí produkt klesl o 0,1 %, letos však podle predikce
+vzroste o 1,1 % a v roce 2025 o 2,5 %. Meziroční inflace by se kromě závěru letošního roku měla
+pohybovat poblíž 2 %. Díky přetrvávající silné poptávce po práci a poklesu inflace porostou reálné mzdy.
+Podle předběžného odhadu Českého statistického úřadu se reálný hrubý domácí produkt ČR, očištěný o
+sezónní a kalendářní vlivy, ve 3. čtvrtletí 2024 zvýšil mezičtvrtletně o 0,3 % a meziročně o 1,3 %. Ve 2.
+čtvrtletí 2024, pro které jsou k dispozici detailní údaje o struktuře růstu, HDP meziročně (bez očištění)
+vzrostl o 0,9 %.
+
+
+
+
+                                                                                            Strana 29 z 43
+                                                                             Strana 34 / 71
+
+
+
+
+V roce 2024 by se HDP mohl zvýšit o 1,1 %, hlavně zásluhou obnoveného růstu spotřeby domácností.
+Ekonomiku by mělo významně podpořit také saldo zahraničního obchodu, a to především v souvislosti s
+oslabením dynamiky dovozně náročné investiční poptávky a očekávaným vývojem zásob. V roce 2025 by
+česká ekonomika díky posílení spotřeby i investic a příznivějšímu hospodářskému vývoji v zahraničí
+mohla vzrůst o 2,5 %, robustnější oživení domácí poptávky však zároveň podpoří dovoz.
+
+Meziroční inflace se na počátku letošního roku po třech letech dostala do blízkosti 2 % inflačního cíle
+České národní banky a v tolerančním pásmu by se kromě samého závěru letošního roku měla pohybovat
+po celý horizont predikce. Proinflační zahraniční nabídkové faktory výrazně oslabily a domácí
+poptávkové tlaky jsou dále tlumeny zvýšenými měnověpolitickými sazbami, k čemuž letos navíc přispívá
+restriktivní působení fiskálního konsolidačního balíčku. Průměrná míra inflace by tak letos mohla
+klesnout na 2,4 % a v roce 2025 dále na 2,3 %.
+
+Na trhu práce se nadále projevují nerovnováhy související s nedostatkem pracovníků. Navzdory slabé
+hospodářské dynamice by se tak míra nezaměstnanosti v roce 2024 mohla udržet na 2,6 %, v příštím
+roce by pak díky růstu ekonomiky mohla nepatrně klesnout na 2,5 %. Přetrvávající nerovnováhy na trhu
+práce nedovolí výraznější zpomalení růstu nominálních mezd. Výdělky po dvou letech poklesu porostou i
+v reálném vyjádření.
+
+Běžný účet platební bilance skončil ve 2. čtvrtletí 2024 přebytkem ve výši 1,4 % HDP. Za výrazným
+meziročním zlepšením bilance vnější rovnováhy stojí především zvýšení přebytku bilance zboží, k němuž
+přispěl růst výroby motorových vozidel, nižší objem dovážených energetických komodit a slabší domácí
+investiční aktivita. V rámci prvotních důchodů se pak snížil odliv důchodů z investic (především ve
+formě dividend). Tyto faktory by přitom měly být směrodatné i ve zbytku letošního roku. Je očekáváno,
+že běžný účet platební bilance letos dosáhne přebytku 1,4 % HDP a v roce 2025 bude vlivem oživení
+domácí poptávky vyrovnaný.
+
+Hospodaření sektoru vládních institucí by mělo v roce 2024 i navzdory navýšeným výdajům na obranu,
+vyšším důchodům či nákladům na odstraňování povodňových škod skončit s meziročně o 1 p. b. nižším
+deficitem. Očekávaný schodek 2,8 % HDP snižuje konsolidační balíček, ukončená opatření související s
+energetickou krizí i ekonomické oživení. V příštím roce by pak mělo dojít k další konsolidaci veřejných
+financí a snížení deficitu na 2,3 % HDP. Zadlužení sektoru vládních institucí by při nižší dynamice
+nominálního HDP mělo v letošním roce dosáhnout 43,9 % HDP a dále vzrůst na 44,8 % HDP v roce 2025.
+
+Hlavní makroekonomické indikátory:
+
+                                                           2019     2020     2021        2022        2023       2024     2025
+                                                                                                              Aktuální predikce
+Nominální hrubý domácí produkt            mld. Kč, b.c.    5 889    5 828    6 308      7 050        7 619     7 988     8 410
+                                          růst v %, b.c.      7,5     -1,0      8,2      11,8           8,1       4,8       5,3
+
+Reálný hrubý domácí produkt               růst v %, s.c.     3,6     -5,3       4,0           2,8     -0,1        1,1      2,5
+  Spotřeba domácností                     růst v %, s.c.     3,1     -6,4       4,2           0,5     -2,8        1,9      3,7
+  Spotřeba vládních institucí             růst v %, s.c.     2,6      4,1       1,5           0,4      3,5        3,7      1,8
+  Tvorba hrubého fixního kapitálu         růst v %, s.c.     7,5     -4,8       6,7           6,3      2,5        0,9      3,6
+  Příspěvek čistých vývozů k růstu HDP        p.b., s.c.     0,1     -0,6      -2,8           -0,3     2,6        0,9      -1,3
+  Příspěvek změny zásob k růstu HDP           p.b., s.c.    -0,4     -1,2       2,8           1,2     -2,7       -1,6      0,7
+Deflátor HDP                                   růst v %      3,8      4,5       4,0           8,7      8,2        3,7      2,7
+Míra inflace spotřebitelských cen           průměr v %       2,8      3,2       3,8       15,1        10,7        2,4      2,3
+Zaměstnanost (VŠPS)                            růst v %     -0,1     -2,3       1,0           1,0      1,0        0,3      0,2
+Míra nezaměstnanosti (VŠPS)                 průměr v %       2,0      2,6       2,8           2,2      2,6        2,6      2,5
+Objem mezd a platů (dom. koncept)         růst v %, b.c.     7,9      0,4       7,2           9,1      7,7        6,2      6,3
+Saldo běžného účtu                               % HDP       0,3      1,8      -2,1       -4,7         0,3        1,4      0,0
+Saldo sektoru vládních institucí                 % HDP       0,3     -5,6      -5,0       -3,1        -3,8       -2,8     -2,3
+Dluh sektoru vládních institucí                  % HDP      29,6     36,9     40,7        42,5        42,4       43,9     44,8
+
+
+
+
+                                                                                                                Strana 30 z 43
+                                                                            Strana 35 / 71
+
+
+
+
+                                                              2019   2020   2021        2022       2023     2024     2025
+                                                                                                          Aktuální predikce
+Předpoklady:
+Měnový kurz CZK/EUR                                           25,7   26,4    25,6        24,6      24,0      25,1     24,9
+Dlouhodobé úrokové sazby                            % p.a.     1,5    1,1      1,9           4,3    4,4       3,9      3,5
+Ropa Brent                                     USD/barel       64     42        71           101    82         81       72
+HDP eurozóny                                 růst v %, s.c.    1,6   -6,2      6,3           3,6    0,5       0,8      1,2
+
+Zdroj: Makroekonomická predikce, Ministerstvo financí ČR, listopad 2024
+
+ 3.2. Odvětvová analýza
+
+Společnost Brněnské vodárny a kanalizace, a.s. je klíčovým podnikem v odvětví vodárenství, který
+zajišťuje výrobu a dodávku pitné vody a odvádění a čištění odpadních vod pro statutární město Brno a
+okolní obce. Hlavní činnost společnosti spočívá v provozování rozsáhlé vodovodní sítě (přes 1,4 tisíce
+km) a stokové sítě (přes 1,2 tisíce km) v regionu, včetně řízení vodních zdrojů a provozu centrální
+čistírny odpadních vod v Brně-Modřicích. Společnost patří dlouhodobě mezi nejvýkonnější české
+vodohospodářské společnosti, dosahuje velmi nízkých ztrát vody v síti, vysoké účinnosti čištění
+odpadních vod a uplatňuje moderní technologie. Společnost obsluhuje kromě Brna i okolní města a obce
+a celkem zásobuje pitnou vodou zhruba 430 tisíc obyvatel regionu. Společnost každoročně investuje
+značné prostředky do obnovy infrastruktury a rozvoje služeb. Mezi největší nedávné projekty patří
+modernizace kalového hospodářství na ČOV Modřice s plánovanými náklady kolem 3,5 mld. Kč.
+Společnost úzce spolupracuje s městem Brnem, které je nejen vlastníkem části infrastruktury, ale i
+hlavním odběratelem služeb, a s odbornými orgány v oblasti plánování rozvoje vodovodů a kanalizací.
+Níže jsou rozebrány tři strategické oblasti, které jsou pro odvětví vodárenství, a tím i pro Společnost,
+zásadní.
+
+    3.2.1. Trendy spotřeby vody a zásobování obyvatel
+
+Spotřeba pitné vody v českých domácnostech dlouhodobě vykazuje úsporný trend. V roce 2023 činila
+průměrná denní spotřeba na osobu 86,7 litru, což je o 2,7 litru méně než v roce předchozím. Snižování
+spotřeby je patrně důsledkem kombinace růstu cen vodného a osvěty v oblasti šetření vody. Naproti
+tomu odběry vody v průmyslu a od jiných velkoodběratelů mírně vzrostly (v roce 2023 o ~1,5 % na
+celkem 152 mil. m³). Celkový podíl nefakturované vody (zejména ztráty v sítích) v ČR činil loni 14,8 %
+vyrobené vody. Pro srovnání – Brněnské vodárny dosahují díky systematickému monitoringu a
+modernizaci sítí ztrát okolo 10–11 %, což potvrzuje jejich nadprůměrnou efektivitu.
+
+Zdroj: https://csu.gov.cz/produkty/domacnosti-vodou-nadale-setri-v-prumyslu-jeji-spotreba-mirne-roste
+
+Pokrytí obyvatelstva pitnou vodou z veřejných vodovodů je v České republice velmi vysoké a dále se
+zlepšuje. V roce 2023 bylo z vodovodů zásobováno 94,5 % obyvatel ČR, tj. 10,279 milionu lidí. V
+některých krajích (Karlovarský, Praha) je dosahováno téměř 100% pokrytí, naopak nejnižší podíl
+zásobovaných obyvatel mají kraje Plzeňský (85,6 %) a Středočeský (86,1 %). Podobně roste i napojení na
+kanalizace. Ke konci roku 2023 bylo na kanalizační síť připojeno 86,7 % obyvatel ČR. Drtivá většina
+těchto odpadních vod (97,7 %) je navíc čištěna na čističkách, což svědčí o vysokém standardu služeb a
+plnění přísných norem kvality. V Jihomoravském kraji je napojení na vodovod i kanalizaci nad
+celostátním průměrem. Specifická spotřeba vody v brněnské aglomeraci se pohybuje okolo 100 litrů na
+osobu za den. Do budoucna lze očekávat pokračování úsporných trendů v domácnostech a zároveň důraz
+na udržení vysoké úrovně zásobování, a to vše na pozadí pozvolného růstu populace v městských
+oblastech.
+
+Zdroj: https://voda.tzb-info.cz/27412-ceske-domacnosti-mezirocne-snizily-spotrebu-vody-o-2-7-litru-na-86-7-
+litru-na-osobu-a-den
+
+
+
+
+                                                                                                            Strana 31 z 43
+                                                                        Strana 36 / 71
+
+
+
+
+    3.2.1. Infrastruktura a investice
+
+Jedním z největších úkolů vodárenského odvětví je správa a obnova rozsáhlé infrastruktury vodovodů a
+kanalizací. Vodovodní síť v ČR měřila koncem roku 2023 81 426 km (meziroční nárůst o 421 km díky
+novým výstavbám). Část potrubí i technologií přitom pochází z poloviny 20. století, takže nemalý díl
+infrastruktury již přesáhl svou projektovanou životnost. To se projevuje v poruchovosti i ve zmíněných
+ztrátách vody. Ročně uniká z potrubí přes 85 milionů m³ vody. Identifikace a řešení stárnoucí
+infrastruktury patří mezi hlavní priority vodního hospodářství, což mj. potvrzuje i vládní Koncepce
+ochrany před následky sucha 2023–2027, která za jeden z klíčových problémů označuje stav
+vodohospodářských sítí a navrhuje opatření pro jejich obnovu a efektivnější provoz. Vodárenské
+společnosti proto významně investují do rekonstrukcí potrubí, výměny technologií a zavádění smart
+prvků (např. dálkový monitoring tlaků a průtoků), aby snížily ztráty a zvýšily spolehlivost dodávek.
+
+Financování těchto investic představuje strategickou výzvu. Většina vodárenských projektů je hrazena z
+kombinace vlastních zdrojů firem (tržby z vodného a stočného) a veřejné podpory. V roce 2023
+směřovalo do vodního hospodářství celkem téměř 11 miliard Kč veřejných prostředků. Z toho zhruba
+třetinu (3,5 mld. Kč) poskytlo Ministerstvo zemědělství formou dotací. Dotace putovaly zejména do
+výstavby a obnovy vodovodů a kanalizací, na protipovodňovou ochranu a na údržbu vodních toků a
+nádrží. Dalších cca 7 miliard Kč bylo investováno prostřednictvím Ministerstva životního prostředí (např.
+na projekty zlepšující jakost vod a adaptaci na změny klimatu) a menší část přispělo i Ministerstvo
+dopravy. Vodárenské společnosti vedle toho vynakládají značné sumy z vybraného vodného a stočného.
+Například společnost Brněnské vodárny a kanalizace, a.s. investovala v roce 2023 zhruba 322 milionů Kč
+z vlastních zdrojů do obnovy infrastruktury a zařízení. Mnohé strategické projekty však vyžadují
+jednorázově ještě větší kapitál, a proto se realizují s podporou úvěrů a evropských fondů. Příkladem je
+zmíněné nové kalové hospodářství ČOV Modřice, jehož výstavba odstartovala v roce 2024 s rozpočtem
+~3,5 mld. Kč a financováním z kombinace bankovních úvěrů (včetně Evropské investiční banky) a
+dotačních titulů Operačního programu Životní prostředí. Celkově lze říci, že udržitelnost odvětví bude
+do budoucna záviset na schopnosti generovat dostatečné zdroje pro investice, a to ať už z plateb
+odběratelů, nebo ze státních a evropských programů, aby bylo možné nahradit zastarávající
+infrastrukturu a rozvíjet nové kapacity.
+
+Zdroj: https://www.databaze-strategie.cz/cz/mzp/strategie/koncepce-ochrany-pred-nasledky-sucha-pro-uzemi-
+cr-pro-obdobi-2023-2027, https://mze.gov.cz/public/portal/mze/-a52982---T_okw9lF/zprava-o-stavu-vodniho-
+hospodarstvi-ceske-republiky-v-roce-2023?_linka=a597886, https://csu.gov.cz/produkty/vodovody-kanalizace-a-
+vodni-toky-2023
+
+3.2.2. Environmentální a klimatické výzvy
+
+Odvětví vodárenství je úzce provázáno s podmínkami životního prostředí a klimatickými změnami. Česká
+republika se v posledních letech opakovaně potýká se suchými epizodami, které lokálně vedou k
+nedostatku vodních zdrojů. V reakci na to vláda přijala strategii pro zvládání sucha (Koncepce ochrany
+před následky sucha 2023–2027), jež identifikuje hlavní problémy vodního hospodářství v éře klimatické
+změny a navrhuje jejich řešení. Tato koncepce klade důraz na zajištění dostatku vody v odpovídající
+kvalitě i množství pro všechny potřeby a zahrnuje proto opatření ke zvýšení akumulace vody v krajině
+(budování nádrží, obnova mokřadů), propojování vodárenských soustav mezi regiony, recyklaci a
+opětovné využití vody a také osvětu ke snižování plýtvání. Souběžně je posilována legislativa na ochranu
+vodních zdrojů. Od roku 2022 platí přísnější pravidla pro hospodaření v povodích (např. omezení
+znečištění nitrátů ze zemědělství), což má dlouhodobě zlepšit odolnost zdrojů pitné vody vůči suchu i
+znečištění.
+
+Vysoké standardy v oblasti čištění odpadních vod a ochrany vodních toků patří mezi významné úspěchy
+českého vodárenství, avšak do budoucna přinášejí nové nároky. Jak bylo zmíněno, téměř 97,7 %
+odpadních vod z veřejné kanalizace je již čištěno na čistírnách. Pozornost se tak přesouvá k dalším
+aspektům, a to například k nakládání s čistírenskými kaly, snižování energetické náročnosti provozů a
+omezování emisí skleníkových plynů. Česká i evropská legislativa se v oblasti likvidace kalů zpřísňuje a
+motivuje provozovatele k inovacím. Společnost Brněnské vodárny a kanalizace, a.s. na tyto trendy
+reaguje investicí do moderní sušárny kalů a vyhnívacích nádrží, která umožní efektivnější zpracování
+kalu a jeho využití v cementárnách. Podobné projekty probíhají i jinde v republice, často s podporou
+Operačního programu Životní prostředí. Neméně důležité je udržování kvality pitné vody. V Brně
+
+
+                                                                                               Strana 32 z 43
+                                                                        Strana 37 / 71
+
+
+
+
+například laboratoře Společnosti kontinuálně monitorují kvalitu surové vody z prameniště Březová nad
+Svitavou a provádějí stovky rozborů ročně, aby zachytily sebemenší změny. Lze očekávat, že tlak na
+ekologickou udržitelnost povede v příštích letech k dalším inovacím, zejména širšímu zavádění „smart“
+technologií (např. řízení sítí podle aktuální potřeby a prevence havárií), většímu energetickému využití
+bioplynu z čistíren a celkově k zelenějšímu provozu vodárenských systémů. Odvětví tak bude nadále
+balancovat mezi zajištěním spolehlivých služeb pro obyvatele a naplňováním přísných
+environmentálních cílů.
+
+Zdroj: https://www.databaze-strategie.cz/cz/mzp/strategie/koncepce-ochrany-pred-nasledky-sucha-pro-uzemi-
+cr-pro-obdobi-2023-2027, https://mze.gov.cz/public/portal/mze/-a52982---T_okw9lF/zprava-o-stavu-vodniho-
+hospodarstvi-ceske-republiky-v-roce-2023?_linka=a597886, https://csu.gov.cz/produkty/vodovody-kanalizace-a-
+vodni-toky-2023
+
+ 3.3. Závěr strategické analýzy
+
+Stále přetrvává válka na Ukrajině, jež ovlivňuje v ekonomice mnohé. Vzhledem k datu ocenění je nutné
+se na ocenění dívat z pohledu známých skutečností v té době, kdy bylo otázkou, jak bude jednat
+administrativa prezidenta D. Trumpa, jež v roce 2025 převezme úřad po J. Bidenovi, a zda bude
+nastolena cesta k ukončení konfliktu.
+
+Výhled OECD očekává růst globální ekonomiky v roce 2024 o 3,2 %, v roce 2025 a 2026 pak 3,3 %.
+V ekonomikách OECD je očekáván mírnější růst tempem 1,9 % v letech 2025 a 2026. Rizikem v globálním
+obchodě je sílící protekcionismus, pozitivem je klesající inflace, jež se však stále pohybuje v zemích
+OECD okolo 4 %.
+
+Prosincové zasedání ECB přineslo další snížení úrokových sazeb. Průmyslová produkce v roce 2024
+v eurozóně poklesla o 5 %, přičemž příčinami jsou slabá globální poptávka, vyšší ceny energií a
+strukturální problémy. Nejistotu zvyšuje i politická nestabilita v Německu, což opět narušuje
+spotřebitelskou důvěru. Podle analytiků z CF lze očekávat růst HDP eurozóny o 1 % a pozvolný návrat
+inflace k 2 %.
+
+V České republice je předpokládán růst HDP v roce 2025 o 2,5 %. Meziroční inflace se po třech letech
+dostává do blízkosti inflačního cíle ČNB a v roce 2025 by mohla dále klesnout. Přetrvávající nerovnováha
+na trhu práce nedovolí výraznější zpomalení růstu nominálních mezd a výdělky porostou i v reálném
+vyjádření.
+
+Odvětví vodního hospodářství v České republice se vyznačuje stabilní poptávkou, vysokou mírou pokrytí
+obyvatelstva a silnou regulací. Spotřeba vody v domácnostech dlouhodobě mírně klesá, což je důsledkem
+úsporného chování spotřebitelů i technologického pokroku. Přesto zůstává poskytování vodárenských
+služeb klíčovou veřejnou infrastrukturou s nízkou mírou substituce.
+
+Hlavní výzvou sektoru je technický stav rozsáhlé infrastruktury, která je v mnoha regionech za hranicí
+životnosti. Obnova sítí a zařízení vyžaduje značné investice, často s podporou veřejných zdrojů. Do
+budoucna bude odvětví čelit i klimatickým rizikům, zejména suchu, což zvyšuje důraz na diverzifikaci
+zdrojů a efektivní hospodaření s vodou.
+
+Společnost Brněnské vodárny a kanalizace, a.s. působí jako stabilní regionální poskytovatel
+vodohospodářských služeb s pevnou zákaznickou základnou. Její provozní efektivita a kvalita služeb ji
+řadí mezi přední hráče v oboru, přičemž vlastnická struktura s majoritním podílem města Brna
+potvrzuje její strategický význam pro region.
+
+Hlavní výzvou zůstává technický stav infrastruktury, která vyžaduje kontinuální obnovu. Společnost
+aktivně investuje do modernizace a zároveň reaguje na klimatické výzvy prostřednictvím inovací a
+spolupráce s veřejnými institucemi. Společnost tak disponuje předpoklady pro udržení své pozice i v
+dlouhodobém horizontu.
+
+
+
+
+                                                                                               Strana 33 z 43
+                                                                      Strana 39 / 71
+
+
+
+
+Ačkoli jsou akcie Brněnské vodárny a kanalizace, a.s. dostupné na veřejném trhu, omezený počet
+transakcí a nízké objemy způsobují, že z uskutečněných obchodů nelze odvodit tržní hodnotu. Obchody
+tedy nejsou cenotvorné v ekonomickém ani oceňovacím smyslu.
+
+6. Ocenění akcie
+
+ 6.1. Dividendová politika
+
+Součástí výhledu poskytnutého Společností je předpoklad výplaty dividend do výše 40 % ze zisku před
+zdaněním v souladu s podmínkami uzavřených úvěrových smluv.
+
+Stanovy společnosti Brněnské vodárny a kanalizace, a.s. upravují rozdělování zisku společnosti a jiných
+vlastních zdrojů v článku 34:
+
+1) O rozdělení zisku a jiných vlastních zdrojů společnosti rozhoduje valná hromada na návrh
+   představenstva po přezkoumání tohoto návrhu dozorčí radou. O vyplacení podílu na zisku a na
+   jiných vlastních zdrojích rozhoduje představenstvo společnosti.
+
+2) O rozdělení zisku a jiných vlastních zdrojů lze rozhodnout jen, jsou-li dány podmínky stanovené
+   zákonem. Zisk lze po přídělu do fondů společnosti a po rozdělení zisku na další účely schválené
+   valnou hromadou rozdělit mezi akcionáře. Jiné vlastní zdroje lze rozdělit mezi akcionáře. Valná
+   hromada při rozhodování o rozdělení zisku přihlíží k podmínkám vyplývajícím z přijatých úvěrových,
+   dotačních či jiných závazků společnosti spojených se zajištěním financování investic do majetku
+   společnosti.
+
+3) Tím není vyloučeno, aby valná hromada rozhodla, že se zisk nebo část zisku použije na zvýšení
+   základního kapitálu společnosti nebo bude převedena na účet nerozděleného zisku. Valná hromada
+   může zisk nerozdělit nebo jeho rozdělení omezit zejména v případě nutnosti tvorby zdrojů na
+   obnovu a rozvoj majetku společnosti.
+
+ 6.2. Příjem z dividendy
+
+Uvedená výše historických dividend vychází z výkazu cash flow, který je součástí účetní závěrky
+Společnosti. Účetní závěrka Společnosti je ověřována auditorem. Výše dividendy uvedená v dokumentu
+„rozdělení zisku“ se mírně liší. V tabulkách níže je uvedena modře. V roce 2024, tzn. za rok 2023,
+nebyla dividenda vyplacena.
+
+Historická výplata podílu na zisku v letech 2019-2024:
+
+tis. Kč                                 2019        2020       2021           2022       2023        2024
+Dividendy v roce výplaty                  44 322     66 408     69 435          70 141    54 210            0
+Vyplacené dividendy dle "rozdělení
+                                          44 322     65 006     69 931          69 931    54 172            0
+zisku"
+Čistý zisk                                91 453     57 333    100 307        107 901    117 508
+podíl na čistém zisku                    48,46%     115,83%     69,22%         65,00%    46,13%
+Zisk před zdaněním                       112 210     70 513    125 056        133 840    154 859     134 991
+podíl na zisku před zdaněním             39,50%      94,18%     55,52%         52,41%    35,01%        0,00%
+
+Historická výplata dividend ukazuje na stabilní schopnost společnosti generovat volné peněžní toky na
+výplatu dividend dle dividendové politiky Společnosti (viz výše). Společnost Brněnské vodárny a
+kanalizace, a.s. v letech 2019–2023 stabilně vyplácela dividendy, přičemž jejich výše se pohybovala
+mezi 44,3 mil. Kč až 70,1 mil. Kč ročně. Nejvyšší dividendy byly vyplaceny v roce 2022 (70,1 mil. Kč),
+zatímco v roce 2024 k výplatě nedošlo. Výplaty dividend se v jednotlivých letech lišily zejména podle
+disponibilního zisku, avšak ve většině období představovaly významnou část vytvořeného výsledku
+hospodaření. Payout ratio se nejvíce zvýšilo v roce 2020, kdy dividenda dosáhla 66,4 mil. Kč, což
+odpovídá 115,8 % čistého zisku – společnost tak vyplácela více, než kolik v daném roce vydělala. Naopak
+
+
+                                                                                                Strana 35 z 43
+                                                                        Strana 41 / 71
+
+
+
+
+ß              = průměr vybraných odvětvových beta Evropa, upravených o hotovost, data k 01/2025
+
+Použito Zdroj:                                Druh odvětví (průměr)
+   0,44 http://pages.stern.nyu.edu/~adamodar/ Utility (Water)
+
+Pro účely dalšího použití je beta nezadlužená přepočtena následujícím vzorcem na betu zadluženou.
+
+                                                            D
+                   Levered  Unlevered  1  1  T      
+                                                            E
+
+RPKT(USA)      = riziková prémie kapitálového trhu
+RPZ            = riziková prémie země
+
+Zkratka Použito Zdroj:                                            Země Data
+RPZ          0,80 http://pages.stern.nyu.edu/~adamodar/ ČR             01/2025
+RPKT         4,33 http://pages.stern.nyu.edu/~adamodar/ USA            01/2025
+
+Daňová sazba
+
+Zkratka Použito Zdroj      Země
+T          21 % skutečnost ČR
+
+Diskontní sazba k datu ocenění:
+
+Rf, české dluhopisy (19 let)                                                  4,37 %
+Riziková prémie země ČR                                                       0,80 %
+RPKT (USA)                                                                    4,33 %
+Beta (nezadlužené) oborové                                                    0,44
+Daňová sazba k datu ocenění                                                     21 %
+Přirážka za zhoršenou likviditu menší společnosti oproti spol.
+na kap.trhu (-5 až 5% b.)                                                      0,0
+Náklady VK oborové tzn. jen systematické riziko                              7,3%
+Náklady na VK, včetně spec.rizika (p.a.)                                    7,30%
+
+Diskontní sazba není navýšená o přirážku za specifická rizika. Žádná specifická rizika nebyla u
+Společnosti identifikována.
+
+
+
+
+                                                                                             Strana 37 z 43
+                                                                     Strana 43 / 71
+
+
+
+
+ 6.5. Neprovozní majetek
+
+V rámci dividendového diskontního modelu se neprovozní majetek zohledňuje, pokud má významný
+charakter a jeho hodnota v případě zpeněžení může ovlivnit hodnotu akcie, tím, že by byl výnos
+z prodeje zahrnut do dividend. V případě Společnosti je za neprovozní majetek považován:
+
+
+
+
+Tento majetek nepovažujeme za významný, aby ovlivnil hodnotu společnosti Brněnské vodárny a
+kanalizace, a.s., resp. aby mohl ovlivnit hodnotu akcie emitované Společností.
+
+ 6.6. Ocenění akcie
+
+Základní kapitál společnosti Brněnské vodárny a kanalizace, a.s. je tvořen 984 942 ks akcií. Hodnota
+akcie je stanovena jako hodnota jmění Společnosti vydělená počtem akcií.
+
+Hodnota jmění společnosti              709 756 000 Kč
+Počet emitovaných akcií                984 942 ks
+Hodnota jedné akcie                    720,6069 Kč/akcii
+
+Hodnota jedné akcie emitované společností Brněnské vodárny a kanalizace, a.s. činí 720,6069 Kč. Jedná
+se o hodnotu po zohlednění srážkové daně 15%.
+
+
+
+                                                                                           Strana 39 z 43
+                                                                      Strana 46 / 71
+
+
+
+
+G. PŘÍLOHY
+    1) Rozvaha a výkaz zisku a ztráty Společnosti k datu 31.12.2024
+    2) Přehled z RM-Systém
+
+
+Celkem 10 stran příloh včetně krycích listů.
+
+
+
+
+                                                                                       Strana 42 z 43
+                                          Strana 47 / 71
+
+
+
+
+Příloha č. 1
+Rozvaha a výkaz zisku a ztráty Společnosti k datu 31.12.2024
+Strana 48 / 71
+Strana 49 / 71
+Strana 50 / 71
+                      Strana 51 / 71
+
+
+
+
+Příloha č. 2
+Přehled z RM-Systém
+                   Kurz
+                počátek                           Kurz konec
+Celkem           období    Minimum    Maximum         období   Změna v %    Objem v tis.ks   Objem v tis.CZK
+31.12.2023 -   2 800,00    2 500,00    2 900,00     2 500,00       -10,71            0,22             586,92
+31.12.2024
+               Otevírací                          Závěrečný
+Datum              kurz    Minimum    Maximum          kurz    Změna v %    Objem v tis.ks   Objem v tis.CZK
+31.12.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+30.12.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                2,5
+27.12.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+23.12.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+20.12.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+19.12.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+18.12.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+17.12.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+16.12.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+13.12.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+12.12.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+11.12.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+10.12.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+09.12.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+06.12.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+05.12.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+04.12.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+03.12.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+02.12.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+29.11.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+28.11.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+27.11.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+26.11.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+25.11.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+22.11.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+21.11.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+20.11.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+19.11.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+18.11.2024     2 500,00    2 500,00    2 520,00     2 500,00           0                0                 0
+15.11.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+14.11.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+13.11.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+12.11.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+11.11.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+08.11.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+07.11.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+06.11.2024     2 500,00    2 500,00    2 500,00     2 500,00           0             0,02                40
+05.11.2024     2 520,00    2 500,00    2 500,00     2 500,00        -0,79            0,02               37,5
+04.11.2024     2 520,00    2 520,00    2 520,00     2 520,00           0                0                 0
+01.11.2024     2 520,00    2 520,00    2 520,00     2 520,00           0                0                 0
+31.10.2024     2 520,00    2 520,00    2 520,00     2 520,00           0                0                 0
+30.10.2024     2 520,00    2 520,00    2 520,00     2 520,00           0                0                 0
+29.10.2024     2 520,00    2 520,00    2 520,00     2 520,00           0                0                 0
+25.10.2024     2 520,00    2 520,00    2 520,00     2 520,00           0                0                 0
+24.10.2024     2 520,00    2 520,00    2 520,00     2 520,00           0                0                 0
+23.10.2024     2 520,00    2 520,00    2 520,00     2 520,00           0                0                 0
+22.10.2024     2 520,00    2 520,00    2 520,00     2 520,00           0                0                 0
+21.10.2024     2 520,00    2 520,00    2 520,00     2 520,00           0                0                 0
+18.10.2024     2 520,00    2 520,00    2 520,00     2 520,00           0                0                 0
+17.10.2024     2 520,00    2 520,00    2 520,00     2 520,00           0                0                 0
+16.10.2024     2 520,00    2 520,00    2 520,00     2 520,00           0                0                 0
+15.10.2024     2 500,00    2 520,00    2 520,00     2 520,00          0,8               0                 0
+14.10.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+11.10.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+10.10.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+09.10.2024     2 500,00    2 500,00    2 500,00     2 500,00           0                0                 0
+
+
+
+
+                                                                                                               Strana 52 / 71
+             Otevírací                          Závěrečný
+Datum            kurz    Minimum    Maximum          kurz   Změna v %    Objem v tis.ks   Objem v tis.CZK
+08.10.2024   2 500,00    2 500,00    2 500,00    2 500,00           0                0                 0
+07.10.2024   2 500,00    2 500,00    2 500,00    2 500,00           0                0                 0
+04.10.2024   2 500,00    2 500,00    2 500,00    2 500,00           0                0                 0
+03.10.2024   2 500,00    2 500,00    2 500,00    2 500,00           0                0                 0
+02.10.2024   2 500,00    2 500,00    2 500,00    2 500,00           0                0                 0
+01.10.2024   2 500,00    2 500,00    2 500,00    2 500,00           0                0                 0
+30.09.2024   2 840,00    2 500,00    2 840,00    2 500,00       -11,97            0,01              28,52
+27.09.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+26.09.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+25.09.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+24.09.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+23.09.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+20.09.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+19.09.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+18.09.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+17.09.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+16.09.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+13.09.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+12.09.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+11.09.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+10.09.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+09.09.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+06.09.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+05.09.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+04.09.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+03.09.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+02.09.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+30.08.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+29.08.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+28.08.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+27.08.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+26.08.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+23.08.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+22.08.2024   2 800,00    2 800,00    2 840,00    2 840,00        1,43                0                 0
+21.08.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+20.08.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+19.08.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+16.08.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+15.08.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+14.08.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+13.08.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+12.08.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+09.08.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+08.08.2024   2 700,00    2 800,00    2 800,00    2 800,00          3,7               0                5,6
+07.08.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+06.08.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+05.08.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+02.08.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+01.08.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+31.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+30.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+29.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+26.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+25.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+24.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+23.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+22.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+19.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+18.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+17.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+
+
+
+
+                                                                                                            Strana 53 / 71
+             Otevírací                          Závěrečný
+Datum            kurz    Minimum    Maximum          kurz   Změna v %    Objem v tis.ks   Objem v tis.CZK
+16.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+15.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+12.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+11.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0             0,03               75,6
+10.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+09.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+08.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+04.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+03.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+02.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+01.07.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+28.06.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+27.06.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+26.06.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+25.06.2024   2 700,00    2 700,00    2 700,00    2 700,00           0                0                 0
+24.06.2024   2 780,00    2 700,00    2 780,00    2 700,00        -2,88            0,01               38,6
+21.06.2024   2 780,00    2 780,00    2 780,00    2 780,00           0                0                 0
+20.06.2024   2 780,00    2 780,00    2 780,00    2 780,00           0                0                 0
+19.06.2024   2 780,00    2 780,00    2 780,00    2 780,00           0                0                 0
+18.06.2024   2 780,00    2 780,00    2 780,00    2 780,00           0                0                 0
+17.06.2024   2 780,00    2 780,00    2 780,00    2 780,00           0                0                 0
+14.06.2024   2 780,00    2 780,00    2 780,00    2 780,00           0                0                 0
+13.06.2024   2 780,00    2 780,00    2 780,00    2 780,00           0                0                 0
+12.06.2024   2 780,00    2 780,00    2 780,00    2 780,00           0                0                 0
+11.06.2024   2 700,00    2 720,00    2 780,00    2 780,00        2,96                0                 0
+10.06.2024   2 800,00    2 700,00    2 800,00    2 700,00        -3,57            0,02                50
+07.06.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+06.06.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+05.06.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+04.06.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+03.06.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+31.05.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+30.05.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+29.05.2024   2 900,00    2 800,00    2 800,00    2 800,00        -3,45            0,01                28
+28.05.2024   2 900,00    2 900,00    2 900,00    2 900,00           0                0                 0
+27.05.2024   2 900,00    2 900,00    2 900,00    2 900,00           0                0                 0
+24.05.2024   2 900,00    2 900,00    2 900,00    2 900,00           0                0                 0
+23.05.2024   2 900,00    2 900,00    2 900,00    2 900,00           0                0                 0
+22.05.2024   2 900,00    2 900,00    2 900,00    2 900,00           0                0                 0
+21.05.2024   2 900,00    2 900,00    2 900,00    2 900,00           0                0                 0
+20.05.2024   2 900,00    2 900,00    2 900,00    2 900,00           0                0                 0
+17.05.2024   2 900,00    2 900,00    2 900,00    2 900,00           0                0                 0
+16.05.2024   2 900,00    2 900,00    2 900,00    2 900,00           0                0                 0
+15.05.2024   2 900,00    2 900,00    2 900,00    2 900,00           0                0                 0
+14.05.2024   2 900,00    2 900,00    2 900,00    2 900,00           0                0                 0
+13.05.2024   2 900,00    2 900,00    2 900,00    2 900,00           0                0                 0
+10.05.2024   2 900,00    2 900,00    2 900,00    2 900,00           0                0                 0
+09.05.2024   2 900,00    2 900,00    2 900,00    2 900,00           0                0                 0
+07.05.2024   2 900,00    2 900,00    2 900,00    2 900,00           0                0                 0
+06.05.2024   2 900,00    2 900,00    2 900,00    2 900,00           0                0                 0
+03.05.2024   2 900,00    2 900,00    2 900,00    2 900,00           0                0                 0
+02.05.2024   2 900,00    2 900,00    2 900,00    2 900,00           0                0                 0
+30.04.2024   2 900,00    2 900,00    2 900,00    2 900,00           0                0                 0
+29.04.2024   2 900,00    2 900,00    2 900,00    2 900,00           0                0                 0
+26.04.2024   2 900,00    2 900,00    2 900,00    2 900,00           0                0                 0
+25.04.2024   2 860,00    2 860,00    2 900,00    2 900,00         1,4                0                 0
+24.04.2024   2 860,00    2 860,00    2 860,00    2 860,00           0                0                 0
+23.04.2024   2 860,00    2 860,00    2 860,00    2 860,00           0                0                 0
+22.04.2024   2 860,00    2 860,00    2 860,00    2 860,00           0                0                 0
+19.04.2024   2 860,00    2 860,00    2 860,00    2 860,00           0                0                 0
+
+
+
+
+                                                                                                            Strana 54 / 71
+             Otevírací                          Závěrečný
+Datum            kurz    Minimum    Maximum          kurz   Změna v %    Objem v tis.ks   Objem v tis.CZK
+18.04.2024   2 860,00    2 860,00    2 860,00    2 860,00           0                0                 0
+17.04.2024   2 860,00    2 860,00    2 860,00    2 860,00           0                0                 0
+16.04.2024   2 840,00    2 840,00    2 860,00    2 860,00         0,7                0                 0
+15.04.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+12.04.2024   2 840,00    2 840,00    2 840,00    2 840,00           0             0,01               28,4
+11.04.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+10.04.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+09.04.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+08.04.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+05.04.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+04.04.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+03.04.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+02.04.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+28.03.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+27.03.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+26.03.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+25.03.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+22.03.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+21.03.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+20.03.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+19.03.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+18.03.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+15.03.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+14.03.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+13.03.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+12.03.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+11.03.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+08.03.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+07.03.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+06.03.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+05.03.2024   2 840,00    2 840,00    2 840,00    2 840,00           0                0                 0
+04.03.2024   2 800,00    2 800,00    2 840,00    2 840,00        1,43                0                 0
+01.03.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+29.02.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+28.02.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+27.02.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+26.02.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+23.02.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+22.02.2024   2 800,00    2 800,00    2 800,00    2 800,00           0             0,05               140
+21.02.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+20.02.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+19.02.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+16.02.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+15.02.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+14.02.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+13.02.2024   2 820,00    2 800,00    2 800,00    2 800,00        -0,71            0,01               39,2
+12.02.2024   2 820,00    2 820,00    2 820,00    2 820,00           0                0                 0
+09.02.2024   2 820,00    2 820,00    2 820,00    2 820,00           0             0,01               28,2
+08.02.2024   2 820,00    2 820,00    2 820,00    2 820,00           0                0                 0
+07.02.2024   2 820,00    2 820,00    2 820,00    2 820,00           0                0                 0
+06.02.2024   2 820,00    2 820,00    2 820,00    2 820,00           0                0                 0
+05.02.2024   2 800,00    2 800,00    2 820,00    2 820,00        0,71                0                 0
+02.02.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+01.02.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+31.01.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+30.01.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+29.01.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+26.01.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+25.01.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+24.01.2024   2 800,00    2 800,00    2 800,00    2 800,00           0                0                 0
+
+
+
+
+                                                                                                            Strana 55 / 71
+             Otevírací                          Závěrečný
+Datum            kurz    Minimum    Maximum          kurz   Změna v %   Objem v tis.ks   Objem v tis.CZK
+23.01.2024   2 800,00    2 800,00    2 800,00    2 800,00          0                0                 0
+22.01.2024   2 800,00    2 800,00    2 800,00    2 800,00          0                0                 0
+19.01.2024   2 800,00    2 800,00    2 800,00    2 800,00          0                0                 0
+18.01.2024   2 800,00    2 800,00    2 800,00    2 800,00          0                0                2,8
+17.01.2024   2 800,00    2 800,00    2 800,00    2 800,00          0                0                2,8
+16.01.2024   2 800,00    2 800,00    2 800,00    2 800,00          0                0                 0
+15.01.2024   2 800,00    2 800,00    2 800,00    2 800,00          0                0                 0
+12.01.2024   2 800,00    2 800,00    2 800,00    2 800,00          0                0                 0
+11.01.2024   2 800,00    2 800,00    2 800,00    2 800,00          0                0                 0
+10.01.2024   2 800,00    2 800,00    2 800,00    2 800,00          0             0,01               39,2
+09.01.2024   2 800,00    2 800,00    2 800,00    2 800,00          0                0                 0
+08.01.2024   2 800,00    2 800,00    2 800,00    2 800,00          0                0                 0
+05.01.2024   2 800,00    2 800,00    2 800,00    2 800,00          0                0                 0
+04.01.2024   2 800,00    2 800,00    2 800,00    2 800,00          0                0                 0
+03.01.2024   2 800,00    2 800,00    2 800,00    2 800,00          0                0                 0
+02.01.2024   2 800,00    2 800,00    2 800,00    2 800,00          0                0                 0
+
+
+
+
+                                                                                                           Strana 56 / 71
+                                                Příloha č. 1
+           OZNÁMENÍ O PŘIJETÍ VEŘEJNÉHO NÁVRHU SMLOUVY NA KOUPI AKCIÍ
+               SPOLEČNOSTI BRNĚNSKÉ VODÁRNY A KANALIZACE, A.S.
+
+Vyplněné a podepsané Oznámení zašlete:
+   1) poštou na adresu Na Florenci 2116/15, Nové Město, 110 00 Praha 1, k rukám společnosti
+       CYRRUS CORPORATE SOLUTIONS, a.s.
+   2) e-mailem na adresu BVK@cyrrus.cz;
+   3) datovou zprávou do datové schránky ID DS: d9iwfw9, adresát CYRRUS CORPORATE
+       SOLUTIONS, a.s.
+
+Údaje Akcionáře:
+Jméno a příjmení / název
+Akcionář doplní svoje jméno a příjmení/nebo
+název
+
+Jméno a příjmení manžela doplní Akcionář,
+jsou-li Akcie ve společném jmění manželů
+
+Jméno a příjmení nebo název všech
+spoluvlastníků doplní Akcionář, jsou-li Akcie
+v podílovém spoluvlastnictví
+
+Rodné číslo / IČ
+Akcionář doplní svoje rodné číslo/IČ
+
+Rodné číslo manžela doplní Akcionář, jsou-li
+Akcie ve společném jmění manželů
+
+Rodné číslo nebo IČ všech spoluvlastníků
+doplní Akcionář, jsou-li Akcie v podílovém
+spoluvlastnictví
+Adresa trvalého pobytu / sídla
+Akcionář doplní adresu svého trvalého pobytu
+/sídlo
+
+Adresu trvalého pobytu manžela doplní
+Akcionář, jsou-li Akcie ve společném jmění
+manželů
+
+Adresu trvalého pobytu /sídlo
+všech spoluvlastníků doplní Akcionář, jsou-li
+Akcie v podílovém spoluvlastnictví
+Údaj, zda Akcie jsou předmětem
+společného jmění manželů
+
+Akcionář doplní ANO/NE
+Údaj, zda Akcie jsou v podílovém
+spoluvlastnictví
+
+Akcionář doplní ANO/NE
+Kontaktní telefon
+Kontaktní e-mail
+
+
+
+
+                                                                                        Strana 58 / 71
+Majetkový účet v CDCP
+
+Akcionář může požádat účastníka CDCP
+(banku, obchodníka s cennými papíry), u
+něhož je majetkový účet veden, o výpis ze
+svého majetkového účtu
+
+Pokud Akcionář údaj neuvede, zjistí jej
+Zprostředkovatel na základě plné moci
+obsažené v tomto Oznámení
+Účastník CDCP nebo údaj, že majetkový
+účet v CDCP není zařazen pod
+účastníka CDCP
+
+Pokud Akcionář údaj neuvede, zjistí jej
+Zprostředkovatel na základě plné moci
+obsažené v tomto Oznámení
+Bankovní účet pro zaslání kupní ceny
+Počet ks prodávaných akcií
+Celková kupní cena
+(Počet prodávaných akcií * 720,61)
+
+Navrhovatel, Statutární město Brno, IČ 449 92 785, se sídlem Dominikánské náměstí 196/1,
+Brno-město, 602 00 Brno, v souladu s § 322 ZOK učinil veřejný návrh smlouvy na koupi akcií
+společnosti Brněnské vodárny a kanalizace, a.s., se sídlem Pisárecká 555/1a, Pisárky, 60300
+Brno, IČ: 463 47 275, zapsané v obchodním rejstříku vedeném Krajským soudem v Brně pod
+spisovou značkou B 783 (dále jen „Cílová společnost“).
+Akcionář tímto bezpodmínečně přijímá Veřejný návrh, a to ve vztahu k výše uvedenému počtu
+prodávaných Akcií Cílové společnosti Brněnské vodárny a kanalizace, a.s., o jmenovité hodnotě
+500,- Kč/akcie, ISIN: CZ0009096509 (dále jen „Převáděné Akcie“), vedených na výše uvedeném
+majetkovém účtu Akcionáře podřazeném pod výše uvedeným Účastníkem CDCP (v případě
+zařazených účtů), za kupní cenu 720,61 Kč za jednu každou Převáděnou Akcii.
+Akcionář současně uděluje souhlas a plnou moc:
+   a) Zprostředkovateli, společnosti CYRRUS CORPORATE SOLUTIONS, a.s., se sídlem Na
+      Florenci 2116/15, Nové Město, 11000 Praha 1, IČ: 079 11 084, zapsané v obchodním
+      rejstříku vedeném Městským soudem v Praze pod spisovou značkou C 309674 (dále jen
+      „Zprostředkovatel“), a
+   b) a sesterské společnosti Zprostředkovatele, společnosti CYRRUS, a.s., se sídlem Veveří
+      3163/111, Žabovřesky, 616 00 Brno, IČ: 639 07 020, zapsaná v obchodním rejstříku
+      vedeném Krajským soudem v Brně pod spisovou značkou B 3800 (dále jen „CYRRUS“),
+k provedení následujících úkonů:
+   -   k převodu Převáděných Akcií z nezařazeného majetkového účtu, pokud Akcionář nemá
+       majetkový účet podřazený pod Účastníka CDCP, a to na majetkový účet Navrhovatele;
+   -   ke zjištění čísla majetkového účtu Akcionáře (včetně zjištění obsahu tohoto majetkového
+       účtu a zajištění výpisu), pokud jej Akcionář nezná, a tedy jej v tomto oznámení nevyplnil.
+Akcionář podpisem tohoto Oznámení současně uděluje Zprostředkovateli a společnosti CYRRUS
+pokyn k provedení veškerých úkonů nezbytných k realizaci prodeje Převáděných Akcií ve
+prospěch Navrhovatele, zejména k podání příkazu k převodu Převáděných Akcií, k zajištění jejich
+vypořádání v evidenci vedené CDCP a k provedení souvisejících úkonů směřujících k dokončení
+převodu vlastnického práva k Převáděným Akciím na Navrhovatele.
+
+
+
+
+                                                                                             Strana 59 / 71
+Akcionář bere na vědomí a souhlasí s tím, že tento pokyn je udělen v souvislosti s přijetím
+Veřejného návrhu a je závazný okamžikem doručení řádně vyplněného a podepsaného Oznámení
+Zprostředkovateli.
+Zprostředkovatel byl Navrhovatelem pověřen vypořádáním převodu Převáděných Akcií,
+komunikací s Akcionáři a k poskytnutí součinnosti s převodem Převáděných akcií. Akcionář bere
+na vědomí, že je povinen poskytnout Zprostředkovateli veškerou součinnost nezbytnou k převodu
+Převáděných Akcií na majetkový účet Navrhovatele v co nejkratší možné době, a to zejména
+podat Příkaz k vypořádání svému Účastníkovi CDCP, pod kterým má svůj účet podřazen (pokud
+je podřazen).
+Akcionář je povinen vyplnit toto Oznámení a opatřit jej úředně ověřeným podpisem v souladu
+a dle instrukcí uvedených ve Veřejném návrhu. Úřední ověření podpisu se nevyžaduje, pokud je
+Oznámení odesláno z datové schránky Akcionáře.
+Akcionář k Oznámení přiloží výpis ze svého majetkového účtu, na kterém jsou evidovány akcie
+Cílové společnosti, pokud jej má k dispozici. Tento dokument slouží jako podklad pro ověření
+vlastnictví akcií a identifikaci Akcionáře.
+Akcionář podpisem tohoto Oznámení prohlašuje, že toto Oznámení o přijetí veřejného návrhu
+smlouvy na koupi akcií činí na základě veřejného návrhu Navrhovatele uveřejněného dne DEN
+(dále jen „Veřejný návrh“). Akcionář dále prohlašuje, že se s Veřejným návrhem řádně seznámil,
+jeho obsahu plně rozumí a bez výhrad jej přijímá v rozsahu uvedeném v tomto Oznámení.
+Akcionář současně prohlašuje, že:
+   -   je oprávněn s Převáděnými Akciemi nakládat, Převáděné Akcie nejsou dotčeny právem
+       třetí osoby či omezením nakládání, které by bránilo jejich převodu;
+   -   údaje uvedené v tomto Oznámení jsou pravdivé, úplné a aktuální;
+   -   je si vědom, že doručením řádného a úplného Oznámení Zprostředkovateli dochází
+       k uzavření kupní smlouvy o prodej Převáděných Akcií, a to za podmínek uvedených ve
+       Veřejném návrhu.
+   -   Akcionář je vlastníkem Převáděných Akcií,
+   -   k žádné z Převáděných Akcií neexistuje pozastavení výkonu práva nakládat
+       s Převáděnými Akciemi,
+   -   všechny Převáděné Akcie jsou ke dni jejich převodu na Navrhovatele bez právních a jiných
+       vad,
+   -   na žádné z Převáděných Akcií neváznou věcná nebo obligační práva třetích osob,
+       s Převáděnými Akciemi nesouvisí žádné dluhy, které by převodem Akcie přešly nebo byly
+       převedeny na Navrhovatele,
+   -   k žádné z Převáděných Akcií není zřízeno zástavní právo,
+   -   se všemi Převáděnými Akciemi lze volně nakládat bez souhlasu třetí osoby a není smluvně
+       ani jinak vyloučeno nebo omezeno právo jejich zcizení,
+   -   žádná z Převáděných Akcií není Akcionářem poskytnuta jako předmět zajišťovacího
+       převodu vlastnického práva,
+   -   žádná z Převáděných Akcií není Akcionářem poskytnuta jako jistota k zajištění pohledávky
+       třetí osoby,
+   -   žádná z Převáděných Akcií není předmětem předkupního práva, práva zpětné koupě,
+       omezení převoditelnosti vlastnického práva,
+   -   se všemi Převáděnými Akciemi jsou spojena všechna práva, která s nimi spojují právní
+       předpisy, od žádné z Převáděných Akcií není odděleno, nebo odděleno a převedeno
+       žádné ze samostatně převoditelných práv vymezených právními předpisy (zejména § 281
+       a násl. ZOK) nebo stanovami Cílové společnosti.
+
+
+
+
+                                                                                           Strana 60 / 71
+Akcionář bere na vědomí, že Navrhovatel, Zprostředkovatel a společnost CYRRUS budou
+ve smyslu Nařízení Evropského parlamentu a Rady (EU) 2016/679 ze dne 27. dubna 2016
+o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto
+údajů a o zrušení směrnice 95/46/ES (obecné nařízení o ochraně osobních údajů) zpracovávat
+osobní údaje Akcionáře na základě a pro účely splnění povinností z Kupní smlouvy uzavřené
+přijetím Veřejného návrhu, vypořádání převodu Převáděných akcií ve vypořádacím systému
+CDCP a vypořádání úhrady kupní ceny, plnění dalších povinností vyplývajících z Kupní smlouvy,
+jakož i na základě a pro účely plnění povinností stanovených právními předpisy. Akcionář dále
+bere na vědomí, že jeho osobní údaje mohou být poskytnuty CDCP, ČNB, zaměstnancům
+Zprostředkovatele a zpracovatelům, s nimiž má Zprostředkovatel uzavřenu smlouvu o zpracování
+osobních údajů, a to v nezbytně nutném rozsahu ve spojitosti s plněním Kupní smlouvy uzavřené
+přijetím Veřejného návrhu. Podrobné informace o zpracování osobních údajů, včetně informací
+o právu Akcionáře na přístup k osobním údajům a dalších právech, jsou uvedeny v dokumentu
+„Zásady zpracování osobních údajů“, dostupném na webových stránkách Dokumenty | CYRRUS.
+
+DATUM
+
+
+______________________
+Akcionář
+(Ověřený podpis)
+
+
+
+
+                                                                                          Strana 61 / 71
+                             VEŘEJNÝ NÁVRH SMLOUVY NA KOUPI AKCIÍ
+                                              společnosti
+                                Brněnské vodárny a kanalizace, a.s.
+                                ze strany Statutárního města Brna
+Statutární město Brno, IČ 449 92 785, se sídlem Dominikánské náměstí 196/1, Brno-město, 602
+00 Brno (dále jen „Navrhovatel“ nebo „Město Brno“), v souladu s § 322 a násl. zákona č. 90/2012
+Sb., o obchodních společnostech a družstvech, v účinném znění (dále jen „ZOK“), tímto všem
+vlastníkům akcií vydaných společností Brněnské vodárny a kanalizace, a.s., se sídlem Pisárecká
+555/1a, Pisárky, 603 00 Brno, IČ: 463 47 275, zapsané v obchodním rejstříku vedeném Krajským
+soudem v Brně pod spisovou značkou B 783 (dále jen „Cílová společnost“) činí veřejný návrh
+smlouvy na odkoupení akcií (dále jen „Veřejný návrh“), a to za účelem (kterým Navrhovatel také
+odůvodňuje tento Veřejný návrh) zvýšení majetkového podílu Navrhovatele v Cílové společnosti
+a nabídnutí akcionářům Cílové společnosti možnost prodeje jejich akcií v situaci, kdy s ohledem
+na investiční projekty Cílové společnosti a s nimi souvisejícím úvěrovým ﬁnancováním lze
+očekávat, že rozsah a možnosti výplaty dividend akcionářům Cílové společnosti mohou být
+v budoucnu omezeny.
+
+1.     Akcie, které jsou předmětem Veřejného návrhu
+     1.1. Tento Veřejný návrh se vztahuje na odkoupení níže speciﬁkovaných akcií:
+       Emitent:                 Brněnské vodárny a kanalizace, a.s.
+       ISIN:                    CZ0009096509
+       Forma:                   na majitele
+       Převoditelnost:          neomezená
+       Podoba:                  zaknihované
+       Jmenovitá hodnota:       500,- Kč/1 ks
+       (dále jen „Akcie“).
+
+     1.2. Na Akciích převáděných na Navrhovatele osobami, které Veřejný návrh přijmou, nesmí
+          váznout žádné zástavní právo, předkupní právo ani žádné jiné faktické nebo právní
+          zatížení nebo omezení jakékoli povahy ve prospěch třetí osoby. Akcie musí být převedeny
+          společně se všemi právy, která jsou nebo s nimi mají být spojena podle příslušných
+          právních předpisů a/nebo stanov Cílové společnosti.
+     1.3. Akcie jsou vedeny v centrální evidenci zaknihovaných cenných papírů, kterou vede
+          Centrální depozitář cenných papírů, a.s., se sídlem Rybná 682/14, Staré Město, 110 00
+          Praha 1, IČ: 250 81 489 (dále jen „CDCP“).
+     1.4. Aniž je tím dotčen článek 1.2. tohoto Veřejného návrhu, předmětem koupě, resp. prodeje
+          na základě Kupní smlouvy (jak je deﬁnována níže), jsou pouze Akcie, které v okamžiku
+          převodu Akcií na Navrhovatele splňují níže uvedené požadavky Navrhovatele na jejich
+          právní bezvadnost:
+         a) Akcionář je vlastníkem Akcií,
+         b) jestliže jsou Akcie předmětem společného jmění manželů, oba manželé souhlasí
+            s prodejem Akcií,
+
+
+
+
+                                                                                             Strana 62 / 71
+         c) jestliže jsou Akcie předmětem spoluvlastnictví, všichni podíloví spoluvlastníci
+            prodávaných Akcií oznámí přijetí Veřejného návrhu společně, nebo prostřednictvím
+            společného zmocněnce, a společně, nebo prostřednictvím společného zmocněnce,
+            udělí Příkaz k vypořádání převodu Akcií na Navrhovatele,
+         d) k žádné z prodávaných Akcií neexistuje pozastavení výkonu práva nakládat s Akciemi,
+         e) žádná z prodávaných Akcií nemá ke dni převodu na Navrhovatele právní ani jiné vady,
+         f)   na žádné z prodávaných Akcií neváznou věcná nebo obligační práva třetích osob,
+              s žádnou z prodávaných Akcií nesouvisí žádné dluhy, které by převodem Akcie přešly
+              nebo byly převedeny na Navrhovatele,
+         g) k žádné z prodávaných Akcií není zřízeno zástavní právo,
+         h) s každou z prodávaných Akcií lze volně nakládat bez souhlasu třetí osoby a není
+            smluvně ani jinak vyloučeno nebo omezeno právo jejího zcizení,
+         i)   žádná z prodávaných Akcií není Akcionářem poskytnuta jako předmět zajišťovacího
+              převodu vlastnického práva,
+         j)   žádná z prodávaných Akcií není Akcionářem poskytnuta jako jistota k zajištění
+              pohledávky třetí osoby,
+         k) žádná z prodávaných Akcií není předmětem předkupního práva, práva zpětné koupě,
+            omezení převoditelnosti vlastnického práva,
+         l)   s každou z prodávaných Akcií jsou spojena všechna práva, která s ní spojují právní
+              předpisy, od žádné z prodávaných Akcií není odděleno, nebo odděleno a převedeno
+              žádné ze samostatně převoditelných práv vymezených právními předpisy (zejména
+              § 281 a násl. ZOK) nebo stanovami Cílové společnosti.
+
+
+
+2.     Adresáti Veřejného návrhu
+     2.1. Veřejný návrh je určen všem osobám, které vlastní Akcie Cílové společnosti (dále jen
+          „Akcionář“).
+     2.2. Maximální počet a jmenovitá hodnota Akcií, kterých se Veřejný návrh týká: celková výše
+          součtu jmenovitých hodnot nabývaných Akcií nesmí přesáhnout částku 15 000 000 Kč
+          (slovy patnáct milionů korun českých) sestávající z celkem: 30 000 ks akcií na majitele
+          v zaknihované podobě o jmenovité hodnotě jedné akcie 500 Kč.
+
+3.     Kupní cena Akcií
+     3.1. Navrhovatel prohlašuje, že za podmínek stanovených v tomto Veřejném návrhu odkoupí
+          Akcie za kupní cenu:
+       720,61 Kč za jeden kus Akcie
+
+       (dále jen „Kupní cena“).
+
+     3.2. Celková kupní cena prodávaných Akcií sjednaná v každé jednotlivé Kupní smlouvě je
+          rovna součinu jednotkové ceny za 1 kus Akcie a celkového počtu všech kusů Akcií, které
+          Akcionář Kupní smlouvou převádí na Navrhovatele a jejichž převáděný počet doplní do
+          Oznámení.
+
+
+
+
+                                                                                             Strana 63 / 71
+         Kupní cena byla stanovena na základě znaleckého posudku č. 084940/2025
+         vypracovaného znalcem BDO Valuation s.r.o., se sídlem Nádražní 344/23, Smíchov, 150
+         00 Praha 5, IČ 19410786, zapsaným v seznamu znalců vedeném Ministerstvem
+         spravedlnosti České republiky (dále jen „Znalecký posudek“). Navrhovatel prohlašuje,
+         že při stanovení Kupní ceny vycházel ze závěrů Znaleckého posudku, kdy Kupní cena
+         odpovídá ceně stanovené Znaleckým posudkem. Znalecký posudek je po dobu
+         závaznosti tohoto Veřejného návrhu zpřístupněn k nahlédnutí na webových stránkách
+         Cílové společnosti na adrese https://www.bvk.cz/, a to po dobu Lhůty závaznosti tohoto
+         Veřejného návrhu.
+
+4.     Lhůta závaznosti Veřejného návrhu
+     4.1. Veřejný návrh je závazný ode dne jeho uveřejnění na webových stránkách Cílové
+          společnosti do dne:
+       [KONEČNÉ DATUM = DATUM UVEŘEJNĚNÍ + 6 MĚSÍCŮ]
+
+         (dále jen „Lhůta závaznosti“). Lhůta závaznosti může být Navrhovatelem prodloužena.
+         Ve Lhůtě závaznosti mohou vlastníci Akcií Veřejný návrh přijmout.
+
+5.     Přijetí Veřejného návrhu, uzavření Kupní smlouvy
+     5.1. Tento Veřejný návrh představuje nabídku Navrhovatele na uzavření smlouvy o koupi Akcií,
+          na základě které Akcionář úplatně převede na Navrhovatele své Akcie a Navrhovatel za
+          převod těchto Akcií zaplatí Akcionáři Kupní cenu stanovenou v tomto Veřejném návrhu
+          (dále jen „Kupní smlouva“).
+     5.2. Navrhovatel pověřil společnost, obchodníka s cennými papíry CYRRUS CORPORATE
+          SOLUTIONS, a.s., se sídlem Na Florenci 2116/15, Nové Město, 11000 Praha 1, IČ: 079 11
+          084, zapsanou v obchodním rejstříku vedeném Městským soudem v Praze pod spisovou
+          značkou C 309674 (dále jen „Zprostředkovatel“), aby zastupovala Navrhovatele při
+          přijímání Oznámení, a kontrole formální úplnosti tohoto Oznámení a dále k vypořádání
+          a převodu Akcií a k souvisejícím právním jednáním. Zprostředkovatel není vázán závazky,
+          které mohou vznikat z Kupních smluv uzavřených na základě tohoto Veřejného návrhu,
+          a nepřebírá ani neručí za závazky či povinnosti Navrhovatele vyplývající z tohoto
+          Veřejného návrhu. Provedením některých technických a administrativních úkonů může
+          Zprostředkovatel pověřit svoji sesterskou společnost CYRRUS, a.s., se sídlem Veveří
+          3163/111, Žabovřesky, 616 00 Brno, IČ: 639 07 020.
+     5.3. Akcionář přijme Veřejný návrh doručením řádně vyplněného a podepsaného (tam, kde je
+          podpis vyžadován) oznámení o přijetí veřejného návrhu smlouvy na koupi akcií se všemi
+          náležitostmi a přílohami, jehož vzor je přílohou č. 1 tohoto Veřejného návrhu (dále jen
+          „Oznámení“), k rukám Zprostředkovatele. Oznámení musí být úplně vyplněno na
+          místech k tomu určených, a v ostatním nesmí být Oznámení nijak měněno či doplňováno.
+          Za správnost údajů uvedených v Oznámení odpovídá Akcionář. V Oznámení musí
+          Akcionář uvést počet Akcií, ohledně kterých přijímá tento Veřejný návrh, v opačném
+          případě se má za to, že prodává všechny jím vlastněné Akcie. V případě, že Akcionář
+          uvede větší počet Akcií, než kolik jich vlastní, má se za to, že převádí počet Akcií, které
+          skutečně vlastní. Oznámení musí být Zprostředkovateli doručeno před uplynutím Lhůty
+          závaznosti, tj. do DATUM = DATUM UVEŘEJNĚNÍ + 6 MĚSÍCŮ.
+
+
+
+
+                                                                                                 Strana 64 / 71
+5.4. Oznámení musí být opatřeno úředně ověřeným podpisem Akcionáře, příp. osoby za něj
+     jednající. V případě, že ověření nebylo provedeno v České republice, musí být opatřeno
+     apostilou, případně superlegalizováno (pokud příslušná mezinárodní smlouva uzavřená
+     s Českou republikou nestanoví jinak) tak, aby mělo v České republice povahu úředního
+     ověření podpisu.
+5.5. Jsou-li prodávané Akcie ve společném jmění manželů, podepíšou Oznámení oba
+     manželé. Jsou-li Akcie v podílovém spoluvlastnictví, podepíšou Oznámení všichni
+     podíloví spoluvlastníci.
+5.6. Je-li Akcionář právnickou osobou, podepíší Oznámení členové statutárního orgánu
+     Akcionáře oprávnění za Akcionáře jednat.
+5.7. K Oznámení je nutné přiložit následující přílohy:
+  a) výpis z majetkového účtu Akcionáře, na kterém jsou evidovány Akcie (pokud jej má
+     Akcionář k dispozici),
+  b) v případě, že je Oznámení učiněno a podepsáno prostřednictvím zmocněnce - plná
+     moc opatřená úředně ověřeným podpisem (originál nebo úředně ověřená kopie); a
+  a) v případě, že je Akcionář zahraniční právnickou osobou (se sídlem mimo ČR) - výpis
+     z obchodního rejstříku ne starší tří měsíců, opatřený apostilou nebo superlegalizační
+     doložkou (pokud příslušná mezinárodní smlouva uzavřená s Českou republikou
+     nestanoví jinak) tak, aby měl v České republice povahu veřejné listiny.
+5.8. Řádně vyplněné a Akcionářem podepsané Oznámení                  musí   být   doručeno
+     Zprostředkovateli jedním z následujících způsobů:
+  a) v listinné podobě - na adresu Na Florenci 2116/15, Nové Město, 110 00 Praha 1,
+     k rukám Zprostředkovatele, společnosti CYRRUS CORPORATE SOLUTIONS, a.s.;
+  b) v elektronické podobě e-mailem - Oznámení musí být předloženo ve formě
+     elektronického dokumentu vzniklého autorizovanou konverzí dokumentu z listinné do
+     elektronické podoby a na e-mailovou adresu Zprostředkovatele BVK@cyrrus.cz;
+     variantou je také zaslání Oznámení podepsaného elektronickým podpisem
+     s náležitostmi dle § 6 zákona č. 12/2020 Sb., o právu na digitální služby a o změně
+     některých zákonů, ve znění pozdějších předpisů, a současně přílohy takového
+     Oznámení musí být vzniklé autorizovanou konverzí dokumentu z listinné do elektronické
+     podoby (v případě, že přílohou je plná moc, je možné, aby byla podepsána
+     elektronickým podpisem s náležitostmi dle § 6 zákona č. 12/2020 Sb., o právu na
+     digitální služby a o změně některých zákonů, ve znění pozdějších předpisů);
+  c) v elektronické podobě datovou schránkou Akcionáře - v takovém případě se
+     nevyžaduje úřední ověření podpisu Akcionáře na Oznámení, pokud je Oznámení
+     odesláno z datové schránky Akcionáře do datové schránky Zprostředkovatele.
+     Oznámení zaslané z datové schránky jiné osoby (včetně zmocněnce) se považuje za
+     řádně doručené pouze tehdy, je-li k němu přiložena plná moc udělená Akcionářem
+     opatřená úředně ověřeným podpisem (v elektronické podobě s doložkou autorizované
+     konverze) nebo plná moc podepsána elektronickým podpisem s náležitostmi dle § 6
+     zákona č. 12/2020 Sb., o právu na digitální služby a o změně některých zákonů, ve znění
+     pozdějších předpisů.
+
+
+
+
+                                                                                        Strana 65 / 71
+         Úřední ověření podpisu na Oznámení (případně na plné moci), ověřenou kopii
+         a autorizovanou konverzi dokumentů z listinné do elektronické podoby je možné provést
+         na kontaktních místech veřejné správy Czech POINT (typicky na pracovištích České
+         pošty, obecních úřadech nebo v notářských kancelářích).
+     5.9. V případě, že Akcionář doručí Zprostředkovateli neúplné a/nebo nesprávné Oznámení,
+          a toto brání Zprostředkovateli vypořádat převod Akcií, a/nebo doručí Oznámení, u kterého
+          chybí některé požadované přílohy, a/nebo Oznámení, ve kterém je přijetí Veřejného
+          návrhu vázáno na splnění podmínky, není takové Oznámení přijetím Veřejného návrhu.
+          Zprostředkovatel může Akcionáře vyzvat k doplnění nebo opětovnému podání Oznámení
+          a/nebo příloh, které mají být s Oznámením Zprostředkovateli doručeny, a/nebo obdobně
+          k doplnění nebo opětovnému podání Příkazu (jak je deﬁnován níže).
+     5.10.     Okamžikem doručení řádně vyhotoveného a podepsaného (tam, kde je podpis
+         vyžadován) Oznámení společně se všemi požadovanými náležitostmi a přílohami
+         Zprostředkovateli v průběhu Lhůty závaznosti je uzavřena Kupní smlouva. Pořadí uzavření
+         Kupních smluv se řídí okamžikem doručení Oznámení Zprostředkovateli. V případě, že
+         z důvodu limitu uvedeného v čl. 2.2. Veřejného návrhu dochází k poměrnému uspokojení
+         Akcionáře, je Kupní smlouva uzavřena až k okamžiku doručení oznámení Akcionáři
+         o poměrném uspokojení způsobem a ve lhůtě uvedené v čl. 10.1 Veřejného návrhu.
+     5.11.     Akcionář nese veškeré své náklady vynaložené v souvislosti s přijetím Veřejného
+         návrhu a převodem Akcií. Tyto náklady nebudou proplaceny Navrhovatelem.
+     5.12.                                                                                ́ návrh
+                Pro vyloučení jakýchkoliv pochybností se výslovně stanoví, že tento Veřejný
+         je nedílnou součástí každé Kupní smlouvy.
+
+6.     Převod Akcií a úhrada Kupní ceny
+     6.1. Převody Akcií budou vypořádány prostřednictvím CDCP. Vypořádání proběhne způsobem
+          DVP (Delivery Versus Payment), což znamená vypořádání „dodání oproti platbě“, kdy se
+          převod Akcií na účet Navrhovatele provede současně s úhradou Kupní ceny Akcionáři,
+          kdy tedy žádná ze stran neplní bez současného protiplnění druhé strany.
+     6.2. Převod Akcií podle Kupní smlouvy bude v CDCP vypořádán ve vypořádacím cyklu, v němž
+          dojde ke spárování a vypořádání nepodmíněného DVP příkazu k prodeji Akcií (dále jen
+          „Příkaz“), který bude CDCP předán brokerem, obchodníkem s cennými papíry,
+          zástupcem nebo jiným účastníkem CDCP příslušného Akcionáře (dále jen „Účastník
+          CDCP“) se shodným nepodmíněným příkazem DVP k nákupu Akcií předaným CDCP
+          Zprostředkovatelem.
+     6.3. Akcionář zajistí, aby jeho Účastník CDCP nejpozději do konce Lhůty závaznosti předal
+          CDCP Příkaz k vypořádání převodu Akcií. Ke spárování takového Příkazu v CDCP
+          s příkazem k nákupu Akcií předaným CDCP Zprostředkovatelem (jednajícím dle pokynu
+          Navrhovatele) dojde při nebo po řádném uzavření Kupní smlouvy a k vypořádání převodu
+          dojde 30. pracovní den po ukončení Lhůty závaznosti. Akcionář zajistí, aby Příkaz:
+       a) obsahoval všechny údaje vyžadované pravidly CDCP, mimo jiné
+              a. ISIN Akcie;
+              b. účastnické registrační číslo Zprostředkovatele;
+              c. den vypořádání, kterým je 30. pracovní den po uplynutí Lhůty závaznosti;
+
+
+
+
+                                                                                              Strana 66 / 71
+       b) byl vyhotoven v souladu s tímto Veřejným návrhem; a
+       c) byl plně v souladu s Oznámením.
+     6.4. Pokud dojde ze strany Akcionáře k porušení jakékoliv povinnosti uvedené v článku 6.3
+          výše:
+       a) bude Navrhovatel oprávněn (nikoliv však povinen) pověřit Zprostředkovatele, aby
+          nepředal CDCP příkaz k vypořádání nákupu Akcií od příslušného Akcionáře; a
+       b) bude Navrhovatel oprávněn odstoupit od Smlouvy (což však nijak neomezí žádná jiná
+          práva, které v této souvislosti Navrhovatel má).
+       V případě vzniku jakékoliv škody na straně Navrhovatele důsledkem neúplnosti nebo
+       nesprávnosti údajů uvedených v Příkazu, nebo v důsledku podání Příkazu, který není plně
+       v souladu s údaji v Oznámení, bude Akcionář povinen takovou škodu Navrhovateli v plné
+       výši nahradit.
+
+     6.5. V souladu s pravidly CDCP a způsobem vypořádání DVP bude převod Akcií proveden ve
+          vypořádacím cyklu současně proti zaplacení odpovídajícího peněžního protiplnění
+          (Kupní ceny).
+
+7.     Prohlášení a záruky Akcionáře
+     7.1. Podpisem Oznámení Akcionář prohlašuje a zaručuje Navrhovateli a Zprostředkovateli, že
+          ke dni podpisu Oznámení:
+       a) jsou všechny informace v Oznámení a ve všech přílohách, které mají být
+          Zprostředkovateli doručeny spolu s Oznámením, úplné, správné a nejsou zavádějící;
+       b) Akcionář řádně existuje a je plně způsobilý k tomu, aby přijal Veřejný návrh, vyhotovil
+          Oznámení a převedl Akcie ve vztahu k nimž Veřejný návrh přijal;
+       c) jsou závazky plynoucí pro Akcionáře z Kupní smlouvy platné, účinné, pro Akcionáře
+          závazné a vůči němu právně vymahatelné;
+       d) Akcionář je a ke dni převodu Akcií na Navrhovatele bude majitelem všech Akcií ve vztahu
+          k nimž Veřejný návrh přijal, a jako takový je evidován v evidenci CDCP;
+       e) jsou Akcie ve vztahu k nimž byl Veřejný návrh přijat plně splaceny a nevázne na nich a ke
+          dni převodu Akcií na Navrhovatele na nich nebude váznout žádné zástavní právo,
+          předkupní právo ani žádné jiné faktické nebo právní zatížení nebo omezení jakékoli
+          povahy ve prospěch třetí osoby, a jsou převáděny společně se všemi právy, která jsou
+          nebo s nimi mají být spojena podle příslušných právních předpisů a stanov Cílové
+          společnosti;
+       f)   je Příkaz vyhotoven plně v souladu s Oznámením.
+     7.2. Akcionář, který učinil prohlášení a záruky podle předchozího článku, se v případě vzniku
+          škody způsobené porušením jakéhokoliv takového prohlášení nebo záruky uvedené
+          v předchozím článku a v souvislosti s takovým porušením zavazuje nahradit Navrhovateli
+          a Zprostředkovateli vzniklou škodu, a to v plné výši.
+
+8.     Odvolání přijetí Veřejného návrhu, odstoupení od Kupní smlouvy ze strany Akcionáře
+     8.1. Akcionář, který přijal Veřejný návrh týkající se Akcií, je oprávněn toto přijetí odvolat do
+          doby, než dojde k řádnému doručení Oznámení Zprostředkovateli dle čl.5.8
+
+
+
+
+                                                                                                 Strana 67 / 71
+      8.2. Akcionář, který přijetím Veřejného návrhu uzavře Kupní smlouvu, je oprávněn od takové
+           Smlouvy do konce Lhůty závaznosti odstoupit za předpokladu, že Zprostředkovateli před
+           uplynutím Lhůty závaznosti doručí oznámení o odstoupení. Pro formu a doručování
+           oznámení o odstoupení se obdobně použijí pravidla uvedená v článcích 5.4 až 5.9 pro
+           Oznámení. Na odstoupení, které bylo učiněno v rozporu s předcházející větou, nebude
+           brán zřetel a platnost a účinnost Kupní smlouvy jím nebude jakkoli dotčena.
+      8.3. V případě poměrného uspokojení Akcionáře (z důvodu limitu uvedeného v čl. 2.2.
+           Veřejného návrhu), může Akcionář od Kupní smlouvy odstoupit do 15 pracovních dnů ode
+           dne doručení oznámení o poměrném uspokojení dle č. 10.1 Veřejného návrhu.
+      8.4. Pokud dojde k platnému odstoupení od Kupní smlouvy, bude zrušení vypořádání převodu
+           příslušných Akcií podléhat pravidlům CDCP. V případě, že před platným odstoupením od
+           Smlouvy již k vypořádání převodu Akcií došlo nebo zrušení vypořádání již není možné,
+           jsou Navrhovatel, Zprostředkovatel a Akcionář povinni spolupracovat tak, aby došlo bez
+           zbytečného odkladu ke zpětnému vypořádání takových Akcií. V takovém případě nese
+           Navrhovatel a Akcionář náklady, jež jim vzniknou v důsledku provedení těchto úkonů.
+      8.5. Navrhovatel upozorňuje Akcionáře, že nelze využít odstoupení od Kupní smlouvy podle
+           ust. § 1829, ani podle ust. § 1846 zákona č. 89/2012 Sb., neboť uzavření Kupní smlouvy
+           přijetím tohoto Veřejného návrhu a plnění z Kupní smlouvy se řídí zvláštními právními
+           předpisy, zejména ZOK a zákonem č. 104/2008 Sb., o nabídkách převzetí, ve znění
+           pozdějších předpisů.
+
+9.      Odstoupení od Kupní smlouvy ze strany Navrhovatele
+      9.1. Navrhovatel je oprávněn od jednotlivých Kupních smluv odstoupit v následujících
+           případech:
+        a) Akcionář poruší jakoukoliv povinnost upravenou výše v článku 6.3; nebo
+        b) jakékoliv prohlášení či záruka Akcionáře uvedená v článku 7.1 se ukáže být nepravdivá,
+           neúplná nebo zavádějící; nebo
+        c) jestliže prodávané Akcie nesplňují požadavky na jejich bezvadnost uvedené v čl. 1.4.
+      9.2. Odstoupení od Kupní smlouvy ze strany Navrhovatele bude provedeno písemným
+           oznámením, které bude doručeno Akcionáři na poštovní adresu nebo e-mailovou adresu
+           (pokud byla uvedena) uvedené v příslušném Oznámení nebo do datové schránky
+           Akcionáře.
+
+10.     Závěrečná ustanovení
+      10.1.      Oznámení o uzavření Kupní smlouvy, od které nebylo v průběhu Lhůty závaznosti
+          odstoupeno, nebo oznámení Navrhovatele o neplatnosti a neúčinnosti přijetí Veřejného
+          návrhu, nebo oznámení o poměrném uspokojení Akcionáře a jeho výši při přesažení
+          akceptace Veřejného návrhu nad limit objemu Akcií uvedený v čl. 2.2 Veřejného návrhu,
+          bude příslušnému Akcionáři zasláno Navrhovatelem písemně poštou na jeho adresu
+          nebo na e-mailovou adresu uvedenou v Oznámení nebo do datové schránky Akcionáře,
+          a to nejpozději do 20. pracovních dní po uplynutí Lhůty závaznosti. Navrhovatel je
+          oprávněn pověřit Cílovou společnost k rozeslání oznámení dle předchozí věty tohoto čl.
+          10.1. Dohodne-li se tak Navrhovatel s Cílovou společností, Cílová společnost zveřejní po
+          stanovení poměru krácení oznámení o poměrném uspokojení Akcionářů, včetně
+          stanoveného poměru krácení, na svých webových stránkách.
+
+
+
+
+                                                                                              Strana 68 / 71
+   10.2.    Nabytí Akcií v rámci Veřejného návrhu bude hrazeno z vlastních zdrojů
+       Navrhovatele.
+   10.3.     Akcionářům se doporučuje, aby se ve věci daňových dopadů spojených s přijetím
+       Veřejného návrhu a převodem Akcií na Navrhovatele obrátili na své daňové poradce.
+   10.4.      Spory vyplývající ze závazkového vztahu založeného Kupní smlouvou uzavřenou
+       přijetím Veřejného návrhu budou projednávány a rozhodovány v prvním stupni
+       u Krajského soudu v Brně.
+   10.5.      Navrhovatel ani Zprostředkovatel neodpovídají za jakoukoliv újmu způsobenou
+       porušením jakékoliv jejich povinnosti vyplývající z tohoto Veřejného návrhu nebo
+       z jakýchkoli Kupních smluv, s výjimkou případů, kdy by taková újma byla způsobena
+       úmyslně nebo z hrubé nedbalosti.
+
+V Brně dne DATUM
+Statutární město Brno
+
+Navrhovatel
+
+
+
+
+                                                                                       Strana 69 / 71
+            INFORMACE K VEŘEJNÉMU NÁVRHU NA ODKUP AKCIÍ SPOLEČNOSTI
+                              Brněnské vodárny a kanalizace, a.s.
+Vážení akcionáři,
+obracíme se na Vás s nabídkou na odkoupení Vašich akcií společnosti Brněnské vodárny
+a kanalizace, a.s., se sídlem Pisárecká 555/1a, Pisárky, 60300 Brno, IČ: 463 47 275 (dále jen
+„Společnost“). Tuto nabídku činí Statutární město Brno jako většinový akcionář Společnosti.
+Technickým zajištěním odkupu a převodu akcií byla pověřena společnost CYRRUS CORPORATE
+SOLUTIONS, a.s., která disponuje povolením k činnosti obchodníka s cennými papíry uděleným
+Českou národní bankou (dále jen „Zprostředkovatel“).
+Nabídková odkupní cena činí 720,61 Kč za 1 kus každé Vaší akcie. Tato cena byla stanovena na
+základě znaleckého posudku.
+Tato nabídka je zcela dobrovolná. Pokud ji nevyužijete, nemusíte činit žádný další krok a zůstáváte
+akcionářem Společnosti bez jakékoliv změny.
+
+Jak postupovat, pokud budete chtít nabídku přijmout:
+1) Oznámení o přijetí nabídky
+V příloze tohoto dopisu naleznete Oznámení o přijetí veřejného návrhu smlouvy na koupi akcií
+(dále jen „Oznámení“). V tomto Oznámení prosím vyplňte požadované osobní a kontaktní údaje,
+včetně počtu kusů akcií, ohledně kterých nabídku na odkup přijímáte.
+
+2) Podpis Oznámení
+Svůj podpis na Oznámení si nechte prosím úředně ověřit. Pokud však Oznámení budete odesílat
+ze své datové schránky, úřední ověření podpisu není vyžadováno.
+Jsou-li prodávané akcie ve společném jmění manželů podepíšou Oznámení oba manželé.
+Jsou-li akcie v podílovém spoluvlastnictví, podepíšou Oznámení všichni podíloví spoluvlastníci.
+
+3) Odeslání Oznámení
+Oznámení doručte Zprostředkovateli nejpozději do konce lhůty závaznosti Veřejného návrhu, tj.
+do DATUM [DATUM UVEŘEJNĚNÍ + 6 MĚSÍCŮ], a to jedním z těchto způsobů:
+
+  a) V listinné podobě (poštou) s úředně ověřeným podpisem/podpisy, na adresu:
+      CYRRUS CORPORATE SOLUTIONS, a.s.
+      Na Florenci 2116/15
+      Nové Město, 110 00 Praha 1
+
+  b) Elektronicky e-mailovou zprávou:
+      Na e-mail: BVK@cyrrus.cz
+      Oznámení musí být přiloženo jako elektronický dokument opatřený doložkou autorizované
+      konverze z listinné do elektronické podoby. Prostý scan/foto bez autorizované konverze se
+      nepovažuje za řádné doručení.
+      Oznámení lze zaslat e-mailovou zprávou také podepsané elektronickým podpisem
+      s náležitostmi dle § 6 zákona č. 12/2020 Sb., o právu na digitální služby a o změně některých
+      zákonů, ve znění pozdějších předpisů, a současně přílohy takového Oznámení musí být
+
+
+
+
+                                                                                               Strana 70 / 71
+      vzniklé autorizovanou konverzí dokumentu z listinné do elektronické podoby (v případě, že
+      přílohou je plná moc, je možné, aby byla podepsána elektronickým podpisem s náležitostmi
+      dle § 6 zákona č. 12/2020 Sb., o právu na digitální služby a o změně některých zákonů, ve
+      znění pozdějších předpisů);
+
+  c) Elektronicky datovou schránkou:
+      ID datové schránky: d9iwfw9
+      V takovém případě se nevyžaduje úřední ověření podpisu, pokud je Oznámení odesláno
+      z datové schránky akcionáře. Je-li Oznámení zasláno z datové schránky jiné osoby (včetně
+      zmocněnce), považuje se za řádně doručené pouze tehdy, je-li přiložena plná moc udělená
+      akcionářem s úředně ověřeným podpisem (v elektronické podobě s doložkou autorizované
+      konverze) nebo plná moc podepsána elektronickým podpisem s náležitostmi dle § 6 zákona
+      č. 12/2020 Sb., o právu na digitální služby a o změně některých zákonů, ve znění pozdějších
+      předpisů.
+Úřední ověření podpisu a autorizovanou konverzi lze provést na pobočkách Czech POINT - typicky
+Česká pošta, obecní úřady, notářské kanceláře.
+
+4) Povinné přílohy Oznámení
+K Oznámení je nutné přiložit následující přílohy:
+      •    výpis z Vašeho majetkového účtu, na kterém jsou evidovány Vaše akcie Společnosti
+           (pokud jej máte k dispozici),
+      •    jedná-li za Vás zmocněnec: plná moc s úředně ověřeným podpisem (originál nebo
+           úředně ověřená kopie),
+      •    je-li akcionář zahraniční právnickou osobou (se sídlem mimo ČR): výpis
+           z obchodního rejstříku (nebo obdobná listina) ne starší 3 měsíců, opatřený apostilou
+           nebo superlegalizační doložkou tak, aby měl v ČR povahu veřejné listiny.
+
+5) Vypořádání převodu a úhrada kupní ceny
+Převody akcií budou vypořádány prostřednictvím Centrálního depozitáře cenných papírů (dále jen
+„CDCP“). Vypořádání proběhne způsobem DVP (Delivery versus Payment), tj. „dodání proti
+platbě“, kdy se převod akcií provede pouze současně oproti úhradě kupní ceny akcionáři.
+Máte-li majetkový účet u CDCP podřazen pod některého z účastníků CDCP (typicky banka,
+obchodník s cennými papíry), bude z Vaší strany nutné podat rovněž odpovídající pokyn/příkaz
+k převodu akcií u tohoto účastníka. Případné poplatky za podání příkazu k převodu akcií nese
+akcionář. Podrobnosti k praktickému postupu při převodu akcií Vám případně sdělí
+Zprostředkovatel.
+Pro případné dotazy a pomoc při vyplnění Oznámení či při podání pokynu k převodu
+kontaktujte Zprostředkovatele na těchto kontaktech v pracovní dny od 9:00 do 16:30 hod:
+E-mail:         BVK@cyrrus.cz
+Telefon:        TEL
+
+S pozdravem
+za Statutární město Brno
+JMÉNO
+
+
+
+
+                                                                                             Strana 71 / 71
+

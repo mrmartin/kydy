@@ -1,0 +1,330 @@
+Rada města Brna
+
+Z9/28. zasedání Zastupitelstva města Brna
+konané dne 9.9.2025
+
+
+
+     48. Návrh na navýšení a změnu účelu investičních příspěvků
+    Knihovně Jiřího Mahena v Brně, příspěvkové organizaci - návrh
+                       rozpočtového opatření
+
+Anotace
+Příspěvková organizace Knihovna Jiřího Mahena v Brně žádá o navýšení investičního příspěvku na
+Obnovu vybavení serverovny ve výši 2 000 tis. Kč, přičemž částku 1 817 tis. Kč pokryje z vlastního
+rozpočtu změnou účelu investičních příspěvků a částku 183 tis. Kč žádá dofinancovat od zřizovatele. V
+souvislosti s touto změnou žádá i o změnu účelu dalšího schváleného investičního příspěvku z
+„Interaktivní panely a stůl na 3 pobočky“ ve výši 460 tis. Kč na „Interaktivní panely“ ve výši 300 tis. Kč v
+roce 2025.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                    1. Změny investičních příspěvků schválených Knihovně Jiřího Mahena v Brně,
+                                příspěvkové organizaci, v roce 2025:
+
+                                     „Komunikační systém UNIFY Open Scape Business a úpravy napojení
+                                     telefonní kabeláže vč. nových tel. aparátů na KJM Kobližná 4 a přepojení
+                                     poboček na ústřední knihovnu vč. dodávky nových IP telefonů“ - snížení o 457
+                                     tis. Kč;
+                                     „Návratné boxy na 2 pobočky“ - snížení o 200 tis. Kč;
+                                     „Interaktivní panely a stůl na 3 pobočky“ - snížení o 160 tis. Kč;
+                                     „Obnova vybavení serverovny - servery pro klíčové aplikace" - zvýšení o 1 000
+                                     tis. Kč;
+
+                                2. Změnu účelu investičního příspěvku schváleného Knihovně Jiřího Mahena v Brně,
+                                příspěvkové organizaci, v roce 2025 z „Interaktivní panely a stůl na 3 pobočky“
+                                na „Interaktivní panely" ;
+                                3. Rozpočtové opatření dle tabulky, které tvoří přílohu č. ...... tohoto zápisu;
+
+
+
+Stanoviska
+
+Materiál projednala Rada města Brna na R9/141. schůzi konané dne 27.8.2025 a doporučila
+Zastupitelstvu města Brna přijmout výše uvedený návrh usnesení.
+Materiál byl předložen na schůzi Finančního výboru Zastupitelstva města Brna konanou dne
+3.9.2025.
+
+
+
+
+Sestava vytvořena 1.9.2025 v 12:27                           1/2                             Vygenerováno programem eMMB
+
+
+                                                                                                             Strana 1 / 8
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Kateřina Vorlíčková
+  vedoucí odboru - Odbor kultury
+  1.9.2025 v 12:27
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Jiří Kučera
+  vedoucí úseku - 1. úsek
+  29.8.2025 v 10:22
+
+
+
+
+Sestava vytvořena 1.9.2025 v 12:27           2/2   Vygenerováno programem eMMB
+
+
+                                                                   Strana 2 / 8
+                                  Obsah materiálu
+Návrh usnesení                                         1-2
+Obsah materiálu                                        3-3
+Důvodová zpráva                                        4-5
+Příloha (KJM_zadost_07_2025.pdf)                       6-7
+Příloha k usnesení (RO_investicni prispevek KJM.pdf)   8-8
+
+
+
+
+                                                        Strana 3 / 8
+                                                                                 Důvodová zpráva
+
+    1. Navýšení investičního příspěvku na Obnovu vybavení serverovny ve výši 1 000 tis. Kč
+Knihovna Jiřího Mahena v Brně, příspěvková organizace, (dále KJM) zaslala dne 10.7.2025 na Odbor
+kultury MMB (dále OK MMB) žádost o dofinancování investičního příspěvku na Obnovu vybavení
+serverovny (servery pro klíčové aplikace).
+
+Na zasedání Zastupitelstva města Brna Z9/22 dne 10.12.2024 byl příspěvkové organizaci KJM schválen
+investiční příspěvek na Obnovu vybavení serverovny (servery pro klíčové aplikace) ve výši 1 000 tis.
+Kč. Původní odhad investičních nákladů na pořízení severů pro klíčové aplikace vycházel z parametrů
+a cen nynějších serverů. Aktuálně využívá KJM poštovní server a server s diskovým polem pro provoz
+knihovního systému, ekonomického systému a dalších aplikací – cílem je obnovit stávající hardwarové
+vybavení.
+
+Po odborných konzultacích a upřesnění optimální specifikace serverů pro aplikace ze strany dodavatelů
+byly upřesněny požadované parametry. Nové řešení serverovny bude robustnější, předpokládá provoz
+dvou serverů v tzv, clustru, čímž bude zajištěna vyšší bezpečnost provozu a rychlejší kapacita. Náklady
+na komplexní řešení jsou v předpokládané výši 2 500 tis. Kč, kterou chce KJM rozdělit do dvou etap:
+1. etapa v roce 2025 – předpokládané náklady 2 000 tis. Kč – nákup serveru a diskového pole;
+2. etapa v roce 2026 – předpokládané náklady 500 tis. Kč – nákup druhého serveru a jeho zapojení
+    do clustru;
+
+Vzhledem k očekávanému navýšení tohoto investičního transferu na Obnovu vybavení serverovny
+navrhuje KJM financovat investici odložením níže uvedených investičních příspěvků schválených
+v rozpočtu organizace KJM na rok 2025 do roku 2026 ve prospěch Obnovy vybavení serveru, a to:
+    • Nákup komunikačního systému INIFY OpenScape Business a úpravy napojení telefonní
+        kabeláže vč. nových tel. aparátů (přechod na IP telefony) v částce 457 tis. Kč;
+    • Návratové boxy na 2 pobočky v částce 200 tis. Kč;
+    • Interaktivní stůl na pobočku v částce 160 tis. Kč (ze schválené částky 460 tis. Kč na nestavební
+        investici Interaktivní panely a stůl na 3 pobočky);
+
+Z výše uvedeného vyplývá, že KJM si touto změnou účelu zafinancuje investiční příspěvek na Obnovu
+vybavení serverovny v částce 1 817 tis. Kč ze svého rozpočtu, zbývající částku 183 tis. Kč žádá
+dofinancovat od zřizovatele.
+Odbor kultury MMB souhlasí s dofinancováním a se změnou účelu u výše uvedených nestavebních
+investic ve prospěch Obnovy vybavení serverovny. Finanční krytí navržené částky ve výši 183 tis. Kč
+bude provedeno přesunem z položky Služby v rámci schváleného rozpočtu Odboru kultury MMB na rok
+2025 a zapojením příjmů roku 2025 (sankční platby a vratky z poskytnutých dotací z roku 2024).
+
+
+    2. Změna účelu u investičního příspěvku Interaktivní panely a stůl na 3 pobočky
+V souvislosti s výše uvedeným žádá organizace KJM o schválení změny účelu u dalšího již schváleného
+investičního příspěvku z “Interaktivní panely a stůl na 3 pobočky“ v částce 460 tis. Kč na „Interaktivní
+panely“ ve výši 300 tis. Kč. Investiční příspěvek na rok 2025 byl schválen KJM na zasedání
+Zastupitelstva města Brna Z9/22 dne 10.12.2024.
+Částkou 160 tis. Kč z této investice plánuje organizace pokrýt Obnovu vybavení serverovny – viz výše.
+
+Komise kulturní RMB projednala dne 19.8.2025
+Hlasování: 12 pro, 0 proti, 0 se zdrželi/ ze 13 členů
+Komise doporučuje ke schválení.
+                                                                                    Zdeněk Helbich
+
+
+
+
+                                                                                                                                     Tomáš Skřička,
+                                                                                                                   Spilková, Ph.D.
+                                                  Kristýna Černá
+                                Jiřina Bočková
+ Ing. Stanislav
+
+
+
+
+                                                                   MUDr. Alena
+
+
+
+
+                                                                                                                                      doc. MUDr.
+                                                                                                                   Mgr. Monika
+
+
+
+
+                                                                                                                                                                                     Bohuňovská
+                                                                                                     Mgr. Miriam
+
+
+
+
+                                                                                                                                                                     Petr Šafařík
+                                                                                                                                                       David Řepa
+
+
+
+
+                                                                                                                                                                                                   Mgr. Luděk
+                                                                   Gruberová
+                  Sedláková
+                  Mgr. Ilona
+
+
+
+
+                                                                                                                   Lukášová
+
+
+
+
+                                                                                                                                                                                     Ing. Jana
+                                                                                                     Kolářová
+
+
+
+
+                                                                                                                                                                                                   Kocman
+ Michalík
+
+
+
+
+                                                                                                                                     CSc.
+
+
+
+
+ Pro              Pro          Pro               Pro               Pro             Pro               Pro           Pro               --------         Pro           Pro             Pro           Pro
+
+
+
+
+                                                                                                                                                                                             Strana 4 / 8
+Rada města Brna na schůzi č.R9/141 projednala dne 27.8.2025
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                                                Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                   Kratochvíl
+                                                            Ing. arch.
+  Vaňková
+
+
+
+
+                                                            Bořecký
+
+
+                                                                         Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                JUDr.
+
+
+                                                                                                             JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                             Oliva
+            Mgr.
+
+
+
+
+                                       Ing.
+
+
+
+
+                                                                                   Ing.
+                                                    Bc.
+    ---      pro     pro       pro       pro         pro      pro        pro         pro          pro         pro
+
+
+Materiál byl předložen na schůzi Finančního výboru Zastupitelstva města Brna konanou dne 3.9.2025.
+
+
+
+
+                                                                                                                     Strana 5 / 8
+Strana 6 / 8
+Strana 7 / 8
+                                                                                     Rozpočtové opatření
+                                                                                                                                                                                                  v tis. Kč
+Příjmy - zvýšení
+                                                                                                                                                         Upr. rozpočet      Úprava            Rozpočet
+   ORJ         §         pol.         ÚZ    ORG                                                 Věcná náplň
+                                                                                                                                                         k 29.07.2025     rozpočtu + -        po změně
+  7300        3311       2229                        Ostatní přijaté vratky transferů a podobné příjmy                                                                4                   8              12
+  7300        3312       2229                        Ostatní přijaté vratky transferů a podobné příjmy                                                                0                   5               5
+  7300        3316       2212                        Příjem sankčních plateb přijatých od jiných osob                                                                 0                  40              40
+  7300        3316       2229                        Ostatní přijaté vratky transferů a podobné příjmy                                                                1                  73              74
+  7300        3317       2229                        Ostatní přijaté vratky transferů a podobné příjmy                                                              31                    1              32
+  7300        3319       2229                        Ostatní přijaté vratky transferů a podobné příjmy                                                              19                    1              20
+Běžné a kapitálové výdaje - zvýšení
+                                                                                                                                                         Upr. rozpočet      Úprava            Rozpočet
+   ORJ         §         pol.         ÚZ    ORG                                                 Věcná náplň
+                                                                                                                                                         k 29.07.2025     rozpočtu + -        po změně
+   7300       3319       5169                        Nákup ostatních služeb                                                                                       3 905              -55            3 850
+                                                     z toho:
+                                             6142    j.n. Činnost odboru                                                                                           546               -55              491
+                                                    Investiční transfery zřízeným příspěvkovým organizacím - Knihovna Jiřího Mahena v Brně,
+   7300       3314       6351              30069120
+                                                    p.o.                                                                                                          3 047              183            3 230
+                                                     z toho:
+                                                     Obnova vybavení serverovny - servery pro klíčové aplikace                                                    1 000            1 000            2 000
+                                                     Návratné boxy na 2 pobočky                                                                                    200              -200                 0
+                                                     Komunikační systém UNIFY Open Scape Business X5 R a úpravy napojení telefonní kabeláže vč.
+                                                     nových tel. aparátů na KJM Kobližná 4 a přepojení poboček na ústřední knihovnu vč. dodávky nových
+                                                     IP telefonů                                                                                                   457              -457                0
+                                                     Interaktivní panely                                                                                           460              -160              300
+
+
+
+
+                                                                                                                                                                                                     Strana 8 / 8
+

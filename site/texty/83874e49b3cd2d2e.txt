@@ -1,0 +1,1903 @@
+Rada města Brna
+
+Z9/33. zasedání Zastupitelstva města Brna
+konané dne 3.3.2026
+
+
+
+       8. Návrh aktualizace dokumentu "Energetická politika
+     statutárního města Brna" a návrh aktualizace dokumentu
+  "Směrnice energetického managementu dle ČSN EN ISO 50001"
+
+Anotace
+„Energetická politika statutárního města Brna“ je základním pilířem Systému managementu
+hospodaření s energií (EnMS). Byla schválena zastupitelstvem města Brna na zasedání Z8/25 konaném
+23. 3. 2021 a podepsána paní primátorkou jakožto vrcholovým vedením EnMS. Na zasedání
+zastupitelstva Z9/21 konaném 12. 11. 2024 byla schválena každoročně aktualizovaná verze. Na tento
+dokument navazuje dokument „Směrnice energetického managementu dle ČSN EN ISO 50001“, který
+vznikl v souvislosti s aktuálními podmínkami pro provedení a udržení certifikace EnMS. Byl schválen
+zastupitelstvem města Brna na zasedání Z8/21 konaném 12. 11. 2024.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   aktualizované znění "Energetické politiky statutárního města Brna" a aktualizované
+                               znění "Směrnice energetického managementu dle ČSN EN ISO 50001", které tvoří
+                               přílohy č. ... zápisu.
+
+
+Stanoviska
+
+Materiál byl předložen na schůzi Rady města Brna č. R9/164 dne 11. 2 .2026. Materiál byl schválen
+jednomyslně 7 členy.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  18.2.2026 v 13:08
+  Garance správnosti, zákonnosti materiálu
+
+
+
+
+Sestava vytvořena 18.2.2026 v 13:08                          1/1                             Vygenerováno programem eMMB
+
+
+                                                                                                             Strana 1 / 40
+                                  Obsah materiálu
+Návrh usnesení                                                         1-1
+Obsah materiálu                                                        2-2
+Důvodová zpráva                                                        3-4
+Příloha k usnesení (Energetická politika SMB_1. 4. 2026_final.pdf)    5 - 13
+Příloha k usnesení (Směrnice ISO 50001_SMB_k 1. 4. 2026_final.pdf)   14 - 40
+
+
+
+
+                                                                         Strana 2 / 40
+                                      Důvodová zpráva
+
+        „Energetická politika statutárního města Brna“ je základním pilířem Systému
+managementu hospodaření s energií (EnMS). Byla schválena zastupitelstvem města Brna
+na zasedání Z8/25 konaném 23. 3. 2021 a podepsána paní primátorkou jakožto vrcholovým
+vedením EnMS. Na zasedání zastupitelstva Z9/21 konaném 12. 11. 2024 byla schválena každoročně
+aktualizovaná verze. Energetickou politiku města Brna prosazuje a pravidelně aktualizuje
+představitel vedení města a energetický manažer SMB, který je odpovědný za zavedení systému
+řízení a jeho uplatňování.
+        Předkládaný dokument „Energetická politika statutárního města Brna“ je tvořen hlavní
+částí, kde jsou definovány cíl, hranice systému, zdroje, informační systém a závazek. Dále
+je k dokumentu přiložena jedna příloha. Tuto přílohu č. 1 tvoří Seznam organizací zahrnutých
+do EnMS.
+        V rámci předkládané aktualizace dokumentu „Energetická politiky statutárního města
+Brna“ došlo k rozšíření hranic systému o vybrané obchodní společnosti statutárního města Brna,
+vybrané obchodní společnosti jeho městských částí a Městskou policii Brno. Došlo také
+k odstranění jedné příspěvkové organizace města Brna z důvodu jejího zániku a ke sloučení
+několika příspěvkových organizací na městských částech v seznamu organizací v příloze č. 1.
+        Na výše zmíněný dokument navazuje dokument „Směrnice energetického managementu
+dle ČSN EN ISO 50001“, který vznikl v souvislosti s aktuálními podmínkami pro provedení
+a udržení certifikace EnMS. Byl schválen zastupitelstvem města Brna na zasedání Z8/21 konaném
+12. 11. 2024. Tento dokument obsahuje informace o jeho účelu, další části tvoří definice důležitých
+pojmů, kontext organizace, vedení, plánování, podpora, provoz, hodnocení výkonnosti, zlepšování
+a výčet související dokumentace k této Směrnici.
+        V rámci předkládané aktualizace dokumentu „Směrnice energetického managementu
+dle ČSN EN ISO 50001“ byla rozšířena jeho závaznost pro vybrané obchodní společnosti
+statutárního města Brna, vybrané obchodní společnosti jeho městských částí a Městskou policii
+Brno, došlo také k aktualizaci bodů 4.3 Určení rozsahu systému managementu hospodaření
+s energií, 6.4 Ukazatele energetické hospodárnosti (EnPI – energy performance indicator), 9.1.2.
+Hodnocení souladu s požadavky právních předpisů a jinými požadavky, 9.3 Přezkoumání systému
+managementu, 10.1 Neshoda a nápravné opatření a 11 Související dokumentace z důvodů změny
+požadavků dle normy ČSN EN ISO 50001.
+        Oba předkládané dokumenty patří mezi klíčové dokumenty energetického managementu
+statutárního města Brna. Jsou velice důležité především z toho důvodu, že v souvislosti s nimi
+se v roce 2024 významně rozšířil seznam objektů pro certifikaci EnMS dle ČSN EN ISO 50001
+především z řad městských částí, jejich příspěvkových organizací a Městské policie Brno.
+Na základě novely zákona č. 406/2000 Sb., o hospodaření energií z 25. ledna 2020, se totiž ukládá
+povinnost zajistit provedení energetického auditu na celé energetické hospodářství nebo zavést
+a akreditovanou osobou certifikovat systém hospodaření s energií podle harmonizované technické
+
+
+
+
+                                                                                           Strana 3 / 40
+normy ČSN EN ISO 50001. Certifikace systému hospodaření s energií je dle průzkumu trhu cestou
+výrazně finančně výhodnější, systematičtější a komplexnější.
+
+
+
+
+Materiál byl projednán na 25. zasedání Komise energetiky RMB č. R9/KE/25 konaném 23. 1. 2026.
+Materiál byl schválen jednomyslně 12 členy.
+                    Drápalová
+
+
+
+
+                                                                                                                                                 Pazderová
+                                                                         Koudela
+                                                   Koláčný
+Herman
+
+
+
+
+                                 Hruška
+
+
+
+
+                                                                                                                          Novák
+
+
+                                                                                                                                        Vižďa
+                                                                Kopál
+                                           Hrůza
+          Leder
+
+
+
+
+                                                                                                            Musil
+                                                                                           Kříž
+ pro      ---       pro          pro       pro     pro          pro      pro               pro              pro           pro           pro      pro
+
+
+
+
+Materiál byl předložen na schůzi Rady města Brna R9/164 dne 11. 2. 2026.
+Materiál byl schválen jednomyslně 7 členy.
+
+
+
+
+                                                                                                                                  Matonohová
+                                                   Podivinská
+
+
+
+
+                                                                                                                    Kratochvíl
+                                                                              Ing. arch.
+Vaňková
+
+
+
+
+                                                                              Bořecký
+
+                                                                                                  Bořecký
+                           Chvátal
+
+
+
+
+                                          Kerndl
+                           RNDr.
+            Černý
+JUDr.
+
+
+
+
+                                          JUDr.
+
+
+
+
+                                                                                                                                  JUDr.
+
+
+
+                                                                                                                                                JUDr.
+                                                                 Aberl
+                           Ph.D.
+
+
+
+
+                                                                                                                                                Oliva
+            Mgr.
+
+
+
+
+                                                   Ing.
+
+
+
+
+                                                                                                                    Ing.
+                                                                 Bc.
+
+
+
+
+ ---        pro            ---            pro      pro            pro         pro                 pro               ---           ---           pro
+
+
+
+
+                                                                                                                                                Strana 4 / 40
+                                                                          statutární město Brno
+                                                                          Platnost od: 1. 4. 2026
+
+
+                            ENERGETICKÁ POLITIKA
+                          STATUTÁRNÍHO MĚSTA BRNA
+
+  Pro zajištění trvalých efektů při zvyšování energetické účinnosti implementujeme
+   a budeme provozovat systém řízení, který vychází z normy ČSN EN ISO 50001
+                     Systémy managementu hospodaření s energií.
+
+Cíl
+Cílem je plné využití potenciálu energetických úspor statutárního města Brna a jeho organizací.
+
+Hranice systému
+Systém managementu hospodaření s energií se týká spotřeb energie ve veškerém vlastněném
+energetickém hospodářství v majetku statutárního města Brna. Tento majetek může být svěřen
+k hospodaření příspěvkovým organizacím města, městským částem, příspěvkovým organizacím
+městských částí, Městské policii Brno či do užívání obchodním společnostem, jejichž jediným
+společníkem je město či jeho městské části.
+
+Zdroje
+Pro dosažení stanovených cílů budou vytvářeny podmínky zajišťující všechny lidské a finanční
+zdroje potřebné k vytváření, zavedení, udržování a zlepšování Systému energetického
+managementu. Významná část finančních zdrojů bude zajištěna cíleně připravovanými projekty.
+
+Informační systém
+Jedním z nástrojů pro dosažení energetických úspor bude efektivně fungující sdílený informační
+systém, se kterým budou prostřednictvím vzdáleného připojení pracovat pověření pracovníci.
+Systém bude trvale a dlouhodobě udržován, spravován a zdokonalován.
+
+Závazek
+Statutární město Brno a jeho městské části se zavazují:
+
+- k přijímání opatření zaměřených na neustálé zlepšování energetické hospodárnosti, jejímu
+  monitorování, měření výsledků a tvoření plánů na efektivnější využívání energií,
+- k podpoře nákupu energeticky úsporných produktů a služeb a přijímání návrhů ke zlepšování
+  energetické hospodárnosti organizace,
+- k zajištění poskytování a dostupnosti všech informací a zdrojů nezbytných k dosahování
+  stanovených cílů a cílových hodnot a postupům v souladu s platnou legislativou České republiky
+  během celého procesu,
+- k pravidelné aktualizaci dokumentu „Energetická politika“, pravidelnému seznamování všech
+  organizačních úrovní s tímto dokumentem a vytvoření rámce pro stanovování a přezkoumávání
+  energetických cílů a cílových hodnot,
+- k systematickému seznamováni zaměstnanců města s energetickým závazkem organizace
+  a průběžnému vzděláváni v oblasti energetického managementu tak, aby povědomí
+  zaměstnanců směřovalo k naplňování stanovených cílů a bylo aktivně podporováno trvalé
+  zlepšování energetické bilance organizace.
+
+Tento dokument byl schválen Zastupitelstvem města Brna dne ……….
+
+Seznam příloh:
+Příloha č. 1 – Seznam organizací zahrnutých do EnMS (str. 2–9)
+
+
+
+
+                                                                  JUDr. Markéta Vaňková
+                                                                    primátorka města
+Příloha č. 1
+                                               Strana 1 z 9
+                                                                                          Strana 5 / 40
+                                                                             statutární město Brno
+                                                                             Platnost od: 1. 4. 2026
+
+
+
+                            Seznam organizací a objektů zahrnutých do EnMS
+ pro zajištění Systému managementu hospodaření s energiemi pro statutární město Brno a jeho zřízené
+                příspěvkové organizace či vybrané obchodní společnosti dle ČSN ISO 50001
+
+
+    •   Odbor správy majetku Magistrátu města Brna
+    •   Městská policie Brno
+    •   Příspěvkové organizace statutárního města Brna
+
+Centrum experimentálního divadla, příspěvková organizace
+Centrum sociálních služeb, příspěvková organizace
+Divadlo Radost, příspěvková organizace
+Domov pro seniory Foltýnova, příspěvková organizace
+Domov pro seniory Holásecká, příspěvková organizace
+Domov pro seniory Kociánka, příspěvková organizace
+Domov pro seniory Koniklecová, příspěvková organizace
+Domov pro seniory Kosmonautů, příspěvková organizace
+Domov pro seniory Mikuláškovo nám., příspěvková organizace
+Domov pro seniory Okružní, příspěvková organizace
+Domov pro seniory Podpěrova, příspěvková organizace
+Domov pro seniory Věstonická, příspěvková organizace
+Domov pro seniory Vychodilova, příspěvková organizace
+DROM, romské středisko
+Dům umění města Brna, příspěvková organizace
+Filharmonie Brno, příspěvková organizace
+Hvězdárna a planetárium Brno, příspěvková organizace
+Chovánek - dětské centrum rodinného typu, příspěvková organizace
+Kancelář architekta města Brna, příspěvková organizace
+Knihovna Jiřího Mahena v Brně, příspěvková organizace
+Mateřská škola Brno, Štolcova 51, příspěvková organizace
+Mateřská škola Brno, Veslařská 256, příspěvková organizace
+Městské divadlo Brno, příspěvková organizace
+Muzeum města Brna, příspěvková organizace
+Národní divadlo Brno, příspěvková organizace
+Nemocnice Milosrdných bratří, příspěvková organizace
+Sdružení zdravotnických zařízení II Brno, příspěvková organizace
+Správa hřbitovů města Brna, příspěvková organizace
+TIC BRNO, příspěvková organizace
+Úrazová nemocnice v Brně
+Veřejná zeleň města Brna, příspěvková organizace
+                                                     Strana 2 z 9
+                                                                                           Strana 6 / 40
+                                                                                         statutární město Brno
+                                                                                         Platnost od: 1. 4. 2026
+
+Waldorfská škola Brno – střední škola, základní škola a mateřská škola, příspěvková organizace
+Základní škola Brno, Čejkovická 10, příspěvková organizace
+Zoo Brno a stanice zájmových činností, příspěvková organizace
+
+
+    •   Městské části statutárního města Brna
+Městská část Brno – Bohunice
+Městská část Brno – Bosonohy
+Městská část Brno – Bystrc
+Městská část Brno – Černovice
+Městská část Brno – Chrlice
+Městská část Brno – Ivanovice
+Městská část Brno – Jehnice
+Městská část Brno – jih
+Městská část Brno – Jundrov
+Městská část Brno – Kníničky
+Městská část Brno – Kohoutovice
+Městská část Brno – Komín
+Městská část Brno – Královo Pole
+Městská část Brno – Líšeň
+Městská část Brno – Maloměřice a Obřany
+Městská část Brno – Medlánky
+Městská část Brno – Nový Lískovec
+Městská část Brno – Ořešín
+Městská část Brno – Řečkovice a Mokrá Hora
+Městská část Brno – sever
+Městská část Brno – Slatina
+Městská část Brno – Starý Lískovec
+Městská část Brno – střed
+Městská část Brno – Tuřany
+Městská část Brno – Útěchov
+Městská část Brno – Vinohrady
+Městská část Brno – Žabovřesky
+Městská část Brno – Žebětín
+Městská část Brno – Židenice
+
+
+
+
+                                                     Strana 3 z 9
+                                                                                                       Strana 7 / 40
+                                                                                  statutární město Brno
+                                                                                  Platnost od: 1. 4. 2026
+
+    •   Příspěvkové organizace a vybrané obchodní společnosti městských částí statutárního
+        města Brna
+Městská část Brno – střed
+Kávéeska, příspěvková organizace
+Mateřská škola Brno, Bílého 24, příspěvková organizace
+Mateřská škola Brno, Francouzská 50, příspěvková organizace
+Mateřská škola Brno, Kamenná 21, příspěvková organizace
+Mateřská škola Brno, Křenová 76a, příspěvková organizace
+Mateřská škola Brno, Nádvorní 3, příspěvková organizace
+Mateřská škola ZDISLAVA, Brno, Pellicova 4, příspěvková organizace
+Mateřská škola Brno, Pšeník 18, příspěvková organizace
+Mateřská škola Brno, Skořepka 5, příspěvková organizace
+Mateřská škola Brno, Soukenická 8, příspěvková organizace
+Mateřská škola Brno, Tučkova 36, příspěvková organizace
+Mateřská škola POD ŠPILBERKEM, Brno, Údolní 9a, příspěvková organizace
+Mateřská škola Brno, Údolní 68, příspěvková organizace
+Mateřská škola Brno, Úvoz 57, příspěvková organizace
+Mateřská škola Brno, Vídeňská 39a, příspěvková organizace
+Mateřská škola Brno, Vinařská 4, příspěvková organizace
+Mateřská škola Brno, Všetičkova 19, příspěvková organizace
+Sportovní a rekreační areál Kraví hora, příspěvková organizace
+Školní jídelna Brno, Bakalovo nábřeží 8, příspěvková organizace
+Školní jídelna Brno, Horní 16, příspěvková organizace
+Školní jídelna Brno, Kounicova 30, příspěvková organizace
+Školní jídelna Brno, Nádvorní 1, příspěvková organizace
+Školní jídelna Brno, Úvoz 55, příspěvková organizace
+Základní škola a mateřská škola Brno, Antonínská 3, příspěvková organizace
+Základní škola a mateřská škola Brno, Horní 16, příspěvková organizace
+Základní škola a mateřská škola Brno, Husova 17, příspěvková organizace
+Základní škola a mateřská škola Brno, Kotlářská 4, příspěvková organizace
+Základní škola a mateřská škola Brno, Křenová 21, příspěvková organizace
+Základní a mateřská škola Brno, Křídlovická 30b, příspěvková organizace
+Základní škola a mateřská škola Brno, nám. 28. října 22, příspěvková organizace
+Základní škola Brno, Bakalovo nábřeží 8, příspěvková organizace
+Základní škola Brno, Hroznová 1, příspěvková organizace
+Základní škola Brno, nám. Míru 3, příspěvková organizace
+Základní škola Brno, Úvoz 55, příspěvková organizace
+
+
+
+
+                                                        Strana 4 z 9
+                                                                                                Strana 8 / 40
+                                                                                         statutární město Brno
+                                                                                         Platnost od: 1. 4. 2026
+
+Městská část Brno – Žabovřesky
+Mateřská škola, Brno, Fanderlíkova 9a, příspěvková organizace
+Mateřská škola, Brno, Gabriely Preissové 8, příspěvková organizace
+Mateřská škola Beruška, Brno, Plovdivská 6, příspěvková organizace
+Mateřská škola, Brno, Žižkova 57, příspěvková organizace
+Společensko-kulturní centrum Rubín, příspěvková organizace
+Školní jídelna, Brno, Jana Babáka 1, příspěvková organizace
+Školní jídelna nám. Svornosti 7, příspěvková organizace
+Základní škola a Mateřská škola Brno, nám. Svornosti 7, příspěvková organizace
+Základní škola Brno, Jana Babáka 1, příspěvková organizace
+Základní škola Brno, Sirotkova 36, příspěvková organizace
+Městská část Brno – Královo Pole
+Mateřská škola, Brno, Božetěchova 65, příspěvková organizace
+Mateřská škola, Brno, Bulharská 62, příspěvková organizace
+Mateřská škola, Brno, Dobrovského 66, příspěvková organizace
+Mateřská škola Rozárka, Brno, Herčíkova 12, příspěvková organizace
+Mateřská škola, Brno, Herčíkova 21, příspěvková organizace
+Mateřská škola, Brno, Chodská 5, příspěvková organizace
+Mateřská škola, Brno, Chodská 15, příspěvková organizace
+Mateřská škola, Brno, Purkyňova 21, příspěvková organizace
+Mateřská škola, Brno, Vackova 70, příspěvková organizace
+Základní škola a Mateřská škola, Brno, Staňkova 14, příspěvková organizace
+Základní škola, Brno, Herčíkova 19, příspěvková organizace
+Základní škola, Brno, Košinova 22, příspěvková organizace
+Základní škola, Brno, Slovanské nám.2, příspěvková organizace
+Městská část Brno – sever
+Kulturní středisko Omega, příspěvková organizace
+Masarykova základní škola a Mateřská škola Brno, Zemědělská 29, příspěvková organizace
+Mateřská škola Brno, Bieblova 16, příspěvková organizace
+Mateřská škola Brno, Brechtova 6, příspěvková organizace
+Mateřská škola Brno, Černopolní 3a, příspěvková organizace
+Mateřská škola Brno, Jugoslávská 70, příspěvková organizace
+Mateřská škola Brno, Kohoutova 6, příspěvková organizace
+Mateřská škola Brno, Marie Majerové 14, příspěvková organizace
+Mateřská škola Brno, nám. SNP 25a, příspěvková organizace
+Mateřská škola Brno, Síčka 1a, příspěvková organizace
+Mateřská škola Brno, Slavíčkova 1, příspěvková organizace
+Mateřská škola Brno, Šrámkova 14, příspěvková organizace
+Mateřská škola Brno, Tišnovská 169, příspěvková organizace
+Základní škola a Mateřská škola Brno, Blažkova 9, příspěvková organizace
+                                                      Strana 5 z 9
+                                                                                                       Strana 9 / 40
+                                                                                       statutární město Brno
+                                                                                       Platnost od: 1. 4. 2026
+
+Základní škola a Mateřská škola Brno, Merhautova 37, příspěvková organizace
+Základní škola a Mateřská škola Brno, Milénova 14, příspěvková organizace
+Základní škola J. A. Komenského a Mateřská škola Brno, nám. Republiky 10, příspěvková organizace
+Základní škola Brno, Janouškova 2, příspěvková organizace
+Základní škola Brno, Zeiberlichova 49, příspěvková organizace
+Městská část Brno – Židenice
+Masarykova základní škola, Brno, Kamenačky 3591/4
+Mateřská škola PASTELKY, Brno, Jamborova 11
+Mateřská škola, Brno, Kamenačky 28
+Mateřská škola NA OSADĚ, Brno, Koperníkova 6
+Mateřská škola, Brno, Letní 3
+Mateřská škola FAMILY, Brno, Mazourova 2
+Mateřská škola, Brno, Nopova 15
+Mateřská škola, Brno, Šaumannova 20
+Mateřská škola Sedmikráska, Brno, Zengrova 3
+Technické služby Židenice, příspěvková organizace
+Tyršova základní škola, Brno, Kuldova 38
+Základní škola, Brno, Gajdošova 3
+Základní škola, Brno, Krásného 24
+Městská část Brno – Černovice
+Mateřská škola, Brno, Elišky Krásnohorské 15, příspěvková organizace
+Mateřská škola, Brno, Kneslova 7, příspěvková organizace
+Mateřská škola, Brno, Štolcova 21, příspěvková organizace
+Pískovna Černovice, spol. s r.o.
+Základní škola, Brno, Kneslova 28, příspěvková organizace
+Základní škola, Brno, Řehořova 3, příspěvková organizace
+Městská část Brno – jih
+Koupaliště Brno-jih, příspěvková organizace
+Mateřská škola Brno, Hněvkovského 62, příspěvková organizace
+Mateřská škola Brno, Klášterského 14, příspěvková organizace
+Mateřská škola Brno, Kšírova 3, příspěvková organizace
+Mateřská škola Brno, Slunná 25, příspěvková organizace
+Mateřská škola Brno, Záhumenice 1, příspěvková organizace
+Mateřská škola Brno, Zelná 70, příspěvková organizace
+Základní škola Brno, Bednářova 28, příspěvková organizace
+Základní škola Brno, Tuháčkova 25, příspěvková organizace
+Městská část Brno – Bohunice
+Mateřská škola Brno, Amerlingova 4, příspěvková organizace
+Mateřská škola POHÁDKA, Brno, Běloruská 4, příspěvková organizace
+Mateřská škola Brno, Švermova 11, příspěvková organizace
+                                                   Strana 6 z 9
+                                                                                                     Strana 10 / 40
+                                                                                       statutární město Brno
+                                                                                       Platnost od: 1. 4. 2026
+
+Mateřská škola Brno, Uzbecká 30, příspěvková organizace
+Základní škola a mateřská škola Brno, Vedlejší 10, příspěvková organizace
+Základní škola Brno, Arménská 21, příspěvková organizace
+Městská část Brno – Starý Lískovec
+Mateřská škola, Brno, Bosonožská 4, příspěvková organizace
+Mateřská škola, Brno, ulice Kosmonautů 2, příspěvková organizace
+Mateřská škola, Brno, Labská 7, příspěvková organizace
+Mateřská škola, Brno, Oderská 2, příspěvková organizace
+Základní škola a Mateřská škola, Brno, Elišky Přemyslovny 10, příspěvková organizace
+Základní škola, Brno, Bosonožská 9, příspěvková organizace
+Základní škola, Brno, Labská 27, příspěvková organizace
+Městská část Brno – Nový Lískovec
+Mateřská škola Kamarád, Brno, Čtvrtě 3, příspěvková organizace
+Mateřská škola Pomněnky, Brno, Oblá 51, příspěvková organizace
+Mateřská škola Vážka, Brno, Rybnická 45, příspěvková organizace
+Základní škola Brno, Kamínky 5, příspěvková organizace
+Základní škola Brno, Svážná 9, příspěvková organizace
+Městská část Brno – Kohoutovice
+Mateřská škola Brno, Libušina třída 29, příspěvková organizace
+Mateřská škola Adélka, Brno, U Velké ceny 8, příspěvková organizace
+MOP BRNO, spol. s r.o.
+Základní škola a Mateřská škola Brno, Chalabalova 2, příspěvková organizace
+Základní škola a Mateřská škola Brno, Pavlovská 16, příspěvková organizace
+Městská část Brno – Jundrov
+Mateřská škola Brno, Dubová 2, příspěvková organizace
+Základní škola, Brno, Jasanová 2, příspěvková organizace
+Městská část Brno – Bystrc
+Mateřská škola SLUNÍČKO, Brno, Štouračova 23, příspěvková organizace
+Mateřská škola DUHA, Brno, Kachlíkova 21, příspěvková organizace
+Mateřská škola KAMECHY, Brno, Kavčí 3, příspěvková organizace
+Mateřská škola MAXÍK, Brno, Nad Dědinou 23, příspěvková organizace
+Mateřská škola SKŘIVÁNEK, Brno, Kachlíkova 19, příspěvková organizace
+Mateřská škola ZVÍDÁLEK, Brno, Kachlíkova 17, příspěvková organizace
+Mateřská škola Laštůvkova 57, Brno-Bystrc, příspěvková organizace
+Základní škola Brno, Heyrovského 32, příspěvková organizace
+Základní škola Brno, Laštůvkova 77, příspěvková organizace
+Základní škola Brno, Vejrostova 1, příspěvková organizace
+Školní jídelna Heyrovského 32, 635 00 Brn, příspěvková organizace
+Školní jídelna Laštůvkova 77, 635 00 Brno, příspěvková organizace
+Školní jídelna Vejrostova 1, 635 00 Brno, příspěvková organizace
+                                                      Strana 7 z 9
+                                                                                                     Strana 11 / 40
+                                                                                       statutární město Brno
+                                                                                       Platnost od: 1. 4. 2026
+
+Městská část Brno – Kníničky
+Mateřská škola Studánka, Brno, Ondrova 25, příspěvková organizace
+Městská část Brno – Komín
+Mateřská škola Brno, Absolonova 20a, příspěvková organizace
+Mateřská škola Brno, Řezáčova 3, příspěvková organizace
+Základní škola a Mateřská škola Brno, Pastviny 70, příspěvková organizace
+Městská část Brno – Medlánky
+Mateřská škola Brno, Hudcova 435/47, příspěvková organizace
+Základní škola Brno, Hudcova 35, příspěvková organizace
+Městská část Brno – Řečkovice a Mokrá Hora
+Mateřská škola Brno, Kárníkova 4, příspěvková organizace
+Mateřská škola Brno, Měřičkova 46, příspěvková organizace
+Mateřská škola Brno, Novoměstská 1, příspěvková organizace
+Mateřská škola Paraplíčko Brno, Tumaňanova 59, příspěvková organizace
+Mateřská škola Brno, Škrétova 2, příspěvková organizace
+Základní škola Brno, Horácké náměstí 13, příspěvková organizace
+Základní škola Brno, Novoměstská 21, příspěvková organizace
+Městská část Brno – Maloměřice a Obřany
+Mateřská škola Brno, Cihelní 1a, příspěvková organizace
+Mateřská škola Brno, Proškovo nám. 6, příspěvková organizace
+Základní škola Brno, Hamry 12, příspěvková organizace
+Městská část Brno – Vinohrady
+Kulturní, vzdělávací a informační centrum městské části Brno-Vinohrady, příspěvková organizace
+Mateřská škola Bořetická 7, Brno, příspěvková organizace
+Mateřská škola Sněhurka Bořetická 26, Brno, příspěvková organizace
+Mateřská škola Prušánecká 8, Brno, příspěvková organizace
+Mateřská škola Velkopavlovická 15, Brno, příspěvková organizace
+Základní škola, Brno, Mutěnická 23, příspěvková organizace
+Městská část Brno – Líšeň
+Kulturní centrum Líšeň, příspěvková organizace
+Mateřská škola, Brno, Hochmanova 25, příspěvková organizace
+Mateřská škola, Brno, Neklež 1a, příspěvková organizace
+Mateřská škola, Brno, Puchýřova 13a, příspěvková organizace
+Mateřská škola, Brno, Synkova 24, příspěvková organizace
+Mateřská škola, Brno, Trnkova 81, příspěvková organizace
+Mateřská škola POHÁDKA, Brno, Bratří Pelíšků 7, příspěvková organizace
+Mateřská škola RADOST, Brno, Michalova 2, příspěvková organizace
+Mateřská škola SLUNÍČKO, Brno, Strnadova 13, příspěvková organizace
+Správa majetku Líšeň, příspěvková organizace
+Školní jídelna, Brno, Masarova 11, příspěvková organizace
+                                                     Strana 8 z 9
+                                                                                                     Strana 12 / 40
+                                                                                    statutární město Brno
+                                                                                    Platnost od: 1. 4. 2026
+
+Školní jídelna, Brno, Novolíšeňská 10, příspěvková organizace
+Základní škola a mateřská škola, Brno, Horníkova 1, příspěvková organizace
+Základní škola, Brno, Holzova 1, příspěvková organizace
+Základní škola, Brno, Masarova 11, příspěvková organizace
+Základní škola, Brno, Novolíšeňská 10, příspěvková organizace
+Městská část Brno – Slatina
+Mateřská škola Brno, Jihomoravské nám. 5, příspěvková organizace
+TECHNICKÉ SLUŽBY Brno-Slatina, příspěvková organizace
+Základní škola a mateřská škola Brno, Jihomoravské nám. 2, příspěvková organizace
+Základní a mateřská škola Brno, Přemyslovo nám. 1, příspěvková organizace
+Zařízení školního stravování Brno, Jihomoravské nám. 2, příspěvková organizace
+Městská část Brno – Tuřany
+Mateřská škola Brno, Holásecká 11, příspěvková organizace
+Základní škola Brno, Měšťanská 21, příspěvková organizace
+Městská část Brno – Chrlice
+Mateřská škola Brno, Šromova 55, příspěvková organizace
+Základní škola a Mateřská škola, Brno, Jana Broskvy 3, příspěvková organizace
+Městská část Brno – Bosonohy
+Základní škola a Mateřská škola Brno, Bosonožské nám. 44, příspěvková organizace
+Městská část Brno – Žebětín
+Mateřská škola Žabka, Brno, příspěvková organizace
+Základní škola Brno, Otevřená 20a, příspěvková organizace
+Městská část Brno – Ivanovice
+Mateřská škola, Brno, Hatě 19, příspěvková organizace
+Městská část Brno – Jehnice
+Základní škola a mateřská škola Brno, Blanenská 1, příspěvková organizace
+Městská část Brno – Ořešín
+Mateřská škola Oříšek Brno, Drozdí 210/2c, příspěvková organizace
+
+
+Konkrétní hranice EnMS (seznam zapojených budov a informace o autodopravě) jsou uvedeny
+v pravidelně aktualizovaném dokumentu uloženém v informačním systému EnergyBroker.
+
+
+
+
+                                                     Strana 9 z 9
+                                                                                                  Strana 13 / 40
+                                                         Platnost od: 1. 4. 2026
+
+
+
+
+Směrnice energetického managementu dle
+ČSN EN ISO 50001
+
+
+
+
+Garant      Oddělení městské energetiky Magistrátu města Brna
+
+Zpracoval   ENSYTRA s.r.o.
+            se sídlem nám. Svobody 931/22, 789 85 Mohelnice
+            IČO: 28582136, DIČ: CZ28582136
+            Kontaktní osoba: Ing. Ondřej Grohar, jednatel
+
+Schválil    Zastupitelstvo města Brna na svém zasedání č…. konaného
+            dne….
+
+Závaznost   Zaměstnanci statutárního města Brna a jeho příspěvkových organizací
+            Zaměstnanci vybraných obchodních společností statutárního města Brna
+            Zaměstnanci městských částí a jejich příspěvkových organizací
+            Zaměstnanci vybraných obchodních společností městských částí
+            Zaměstnanci Městské policie Brno
+
+Účinnost    od 1. 4. 2026
+
+
+
+
+                                                      Ing. Jiří Šamánek
+                                          vedoucí Oddělení městské energetiky MMB
+
+
+
+
+                                   1/27                                        Strana 14 / 40
+OBSAH
+
+  1     Zkratky a definice................................................................................................................................... 4
+  2     Účel ........................................................................................................................................................ 5
+  3     Definice důležitých pojmů ..................................................................................................................... 5
+  4     Kontext organizace ................................................................................................................................ 6
+      4.1        Porozumění organizaci a jejímu kontextu ................................................................................... 6
+      4.2        Porozumění potřebám a očekáváním zainteresovaných stran ................................................... 7
+      4.3        Určení rozsahu systému managementu hospodaření s energií .................................................. 8
+      4.4        Systém managementu hospodaření s energií (EnMS)................................................................. 9
+  5     Vedení .................................................................................................................................................. 10
+      5.1        Vedení a závazek města ............................................................................................................. 10
+      5.2        Energetická politika ................................................................................................................... 11
+      5.3        Role, odpovědnosti a pravomoci ............................................................................................... 11
+  6     Plánování ............................................................................................................................................. 13
+      6.1        Opatření pro řešení rizik a příležitostí ....................................................................................... 13
+         6.1.1       Příležitosti a rizika .................................................................................................................. 13
+         6.1.2       Plánování města a organizací ................................................................................................ 14
+      6.2        Cíle a cílové hodnoty v oblasti energie a akční plány EnMS ...................................................... 14
+      6.3        Přezkoumání spotřeby energie .................................................................................................. 15
+         6.3.1 Zpráva o přezkoumání spotřeb ................................................................................................. 16
+         6.3.2 Významné užití energie (SEU) ................................................................................................... 16
+      6.4        Ukazatele energetické hospodárnosti (EnPI – energy performance indicator)......................... 17
+      6.5        Výchozí stav spotřeby energie (EnB – energy baseline) ............................................................ 17
+      6.6        Plánování sběru energetických dat............................................................................................ 18
+         6.6.1       Vstupy do plánování .............................................................................................................. 18
+  7     Podpora ............................................................................................................................................... 18
+      7.1        Zdroje ......................................................................................................................................... 18
+      7.2        Kompetence ............................................................................................................................... 19
+      7.3        Povědomí ................................................................................................................................... 19
+         7.3.1       Školení týmu EnMS ................................................................................................................ 19
+             7.3.1.1          Školení osob majících přímý vliv na spotřebu energie ................................................. 19
+             7.3.1.2          Školení týmu EnMS ....................................................................................................... 20
+             7.3.1.3          Ostatní školení .............................................................................................................. 20
+      7.4        Komunikace ............................................................................................................................... 20
+         7.4.1       Interní komunikace................................................................................................................ 20
+
+
+
+
+                                                                              2/27                                                                           Strana 15 / 40
+           7.4.1.1         Osobní kontakt.............................................................................................................. 20
+           7.4.1.2         Porady ........................................................................................................................... 21
+      7.4.2        Externí komunikace ............................................................................................................... 21
+      7.4.3        Dokumentace komunikace .................................................................................................... 21
+    7.5        Dokumentované informace ....................................................................................................... 21
+      7.5.1        Řízení dokumentovaných informací ...................................................................................... 22
+8    Provoz .................................................................................................................................................. 22
+    8.1        Plánování a řízení provozu ......................................................................................................... 22
+      8.1.1        Zásady hospodárného využívání energie .............................................................................. 22
+    8.2        Návrh ......................................................................................................................................... 22
+    8.3        Nákup ......................................................................................................................................... 23
+9    Hodnocení výkonnosti ......................................................................................................................... 23
+    9.1        Monitorování, měření a analýza a vyhodnocování energetické hospodárnosti a EnMS .......... 23
+      9.1.1        Měřící plán............................................................................................................................. 23
+      9.1.2        Hodnocení souladu s požadavky právních předpisů a jinými požadavky .............................. 23
+    9.2        Interní audit ............................................................................................................................... 24
+    9.3        Přezkoumání systému managementu ....................................................................................... 24
+      9.3.1        Vstup pro přezkoumání EnMS ............................................................................................... 24
+      9.3.2        Výstup z přezkoumání EnMS ................................................................................................. 24
+10         Zlepšování ...................................................................................................................................... 25
+    10.1       Neshoda a nápravné opatření ................................................................................................... 25
+    10.2       Neustálé zlepšování ................................................................................................................... 26
+11         Související dokumentace ................................................................................................................ 27
+12         Seznam obrázků ............................................................................................................................. 27
+13         Zdroj ............................................................................................................................................... 27
+
+
+
+
+                                                                           3/27                                                                          Strana 16 / 40
+1   Zkratky a definice
+
+EA            energetický audit
+EH            energetické hospodářství
+EMm           Energetický manažer města
+EMmč          Energetický manažer městské části
+EMo           Energetický manažer organizace
+EnB           výchozí stav spotřeby energie (z anglického originálu „Energy Baseline“)
+EnMS          systém managementu hospodaření s energií (z anglického originálu „Energy Management System“)
+EnPI          ukazatel energetické hospodárnosti (z anglického originálu „Energy Performance Indicator“)
+IA            interní audit
+IS EB         informační systém EnergyBroker
+Kmč           Koordinátor městské části
+OM            odběrné místo
+PDCA          Plánuj – Dělej – Kontroluj – Jednej (z anglického originálu „Plan – Do – Check – Act“)
+PENB          průkaz energetické náročnosti budovy
+PP            Provozní pracovník
+PVm           Představitel vedení města
+PVmč          Představitel vedení městské části
+PVo           Představitel vedení organizace
+RM            Rada města
+SEU           významné užití energie (z anglického originálu „Significant Energy Use“)
+SMB           statutární město Brno
+VVm           vrcholové vedení města
+ZM            Zastupitelstvo města
+
+
+
+
+                                                  4/27                                               Strana 17 / 40
+2    Účel
+
+Tento dokument specifikuje požadavky pro vytváření, zavádění, udržování a zlepšování systému
+managementu hospodaření s energií (dále také „EnMS“).
+
+EnMS statutárního města Brna (dále také „SMB“) zahrnuje:
+                                            Statutární město Brno a jím zřízené organizace
+                                            Městské části a jimi zřízené organizace
+                                            Městskou policii Brno
+
+
+EnMS SMB je popsán v dokumentu „Energetická politika statutárního města Brna“ a v této směrnici. Směrnice
+je k dispozici v elektronické podobě, spolu s ostatní dokumentací EnMS v informačním systému EnergyBroker
+(dále také „IS EB“).
+
+3    Definice důležitých pojmů
+
+Akční plán (dále také „AP“)
+Akční plán je dokument, který specifikuje konkrétní úkoly, pověřené subjekty, odpovědné osoby, časové
+rámce a potřebné zdroje k dosažení stanovených energetických cílů.
+
+Energetická hospodárnost
+Dříve „energetická náročnost“.
+Měřitelný výsledek týkající se energetické účinnosti, využití energie a spotřeby energie. Energetická
+hospodárnost budovy představuje množství energie spojené s užíváním budovy, zejména při vytápění,
+chlazení, větrání, úpravě vlhkosti vzduchu, přípravě teplé vody a osvětlení. Lze si představit ještě širší význam
+pojmu: energetickou hospodárnost zvýšíme i tehdy, když v soutěži vybereme dodavatele energie s nižší
+cenou za dodávku.
+
+Energetická politika
+Prohlášení města týkající se jejího celkového záměru, nasměrování závazku ve vztahu k energetické
+hospodárnosti, které je formálně vyjádřeno vrcholovým vedením.
+
+Energetická účinnost
+Energetická účinnost je rovna podílu užitečné energie (práce) vykonané strojem (systémem) k celkové energii
+do stroje (systému) dodané. Část dodané energie se vždy přemění v teplo, energetická účinnost je proto vždy
+menší než jedna. Jinak řečeno, energetická účinnost je podíl využité energie k vložené energii. Často se uvádí
+v procentech.
+
+Energetický cíl (dále také „EC“)
+Výsledky, kterých se má dosáhnout. Energetický cíl je výslednicí procesů popsaných v akčním plánu, stejně
+tak jako energetická cílová hodnota. Dosažení energetického cíle tedy musí být řízeno jako proces.
+
+Hranice systému
+Na samém začátku implementace je důležité vymezit hranice energetického systému. Jsou to fyzická nebo
+organizační vymezení. Hranici systému tvoří ve většině případů budova nebo soubor budov uvnitř areálu.
+Budovou se rozumí pevná, nikoliv dočasná, stavba s objemem uzavřeným svými stěnami, podlahou sklepa
+
+
+
+
+                                                      5/27                                                Strana 18 / 40
+a střechou, určená k trvalému užívání, přičemž je k úpravě jejího vnitřního prostředí používaná energie
+(na osvětlení, vytápění, výměnu vzduchu atd.).
+
+Spotřeba energie
+Spotřeba energie představuje množství dodané energie. Energii spotřebováváme při jakékoli činnosti,
+dokonce i při nečinnosti.
+
+Systém managementu hospodaření s energií (EnMS)
+Jedná se o systém managementu, který definuje, rozpracovává a zajištuje provádění schválené energetické
+politiky. Stanovuje cíle, cílové hodnoty v oblasti energie. Pomocí akčních plánů a procesů tyto cíle a cílové
+hodnoty v oblasti energie realizuje.
+
+Ukazatel energetické hospodárnosti (dále také „EnPI“)
+Organizací stanovené měřítko nebo jednotka energetické hospodárnosti. EnPI může být vyjádřen pomocí
+jednoduchého měřítka, poměru nebo modelu, v závislosti na charakteru měřených činností.
+
+Výchozí stav spotřeby energie (dále také „EnB“)
+Kvantitativní údaje poskytující základ pro porovnání energetické hospodárnosti. Je založen na údajích
+z určitého časového období a/nebo podle podmínek určených organizací.
+
+Významné užití energie (dále také „SEU“)
+Užití energie představující podstatnou část spotřeby energie a/nebo poskytující značný potenciál pro
+zlepšování energetické hospodárnosti.
+
+4     Kontext organizace
+
+4.1     Porozumění organizaci a jejímu kontextu
+Certifikace normy ČSN EN ISO 50001 v plném rozsahu nahrazuje legislativní povinnost provedení
+energetického auditu (dále také „EA“).
+
+Statutární město Brno vzniklo jako právnická osoba – veřejnoprávní korporace na základě zákona č. 367/1990
+Sb., o obcích ve znění pozdějších předpisů a podle tohoto zákona vystupuje v právních vztazích svým jménem
+pod vlastní majetkovou odpovědností. Posláním města je zajištění veřejné správy na svém území, případně
+výkon státní správy v územním obvodu za podmínek stanovených závaznými právními předpisy. Do EnMS
+jsou zapojeny i další organizace, které SMB zřizuje a majetkově ovládá. I tyto další organizace převážně
+zajišťují poskytování služeb veřejnosti.
+
+SMB určuje externí a interní záležitosti, které jsou relevantní pro jeho účel a které ovlivňují jeho schopnost
+dosahovat zamýšleného výstupu EnMS a zlepšovat jeho energetickou hospodárnost. SMB bude pravidelně
+monitorovat a přezkoumávat informace o těchto externích a interních záležitostech.
+
+Mezi nejvýznamnější externí záležitosti město zařazuje:
+   • Právní předpisy (viz. Registr legislativních požadavků)
+   • Dotační a nedotační politika, resp. schopnost využití jiných zdrojů
+   • Veřejnost
+   • Dostupnost a kvalita zaměstnanců
+   • Dostupné finanční prostředky
+   • Fiskální politika státu
+   • Komunikace a zapojení veřejnosti
+
+
+
+                                                    6/27                                               Strana 19 / 40
+      •   Dostupnost externích expertů a firem pro dodání služeb či investic
+      •   Schopnost sledovat a zapracovávat trendy, inovace a technologický pokrok
+      •   Geopolitická situace na EU/globální úrovni
+      •   Vývoj energetických trhů
+
+Mezi nejvýznamnější interní záležitosti město zařazuje:
+   • Vnitřní organizační normy a stanovené postupy
+   • Sestavení a koordinace týmu EnMS (viz. Členové týmu EnMS)
+   • Stav budov a klíčových zařízení
+   • Znalost a dovednosti zaměstnanců
+   • Politické rozhodnutí a přijetí závazků
+   • Strategie a implementace
+   • Kvantifikace cílů, milníky, a průběžný monitoring a hodnocení
+   • Status památkově chráněných budov a omezení z toho plynoucí
+   • Ochota zaměstnanců, motivační systém organizace
+   • Finanční prostředky – na motivaci, na úpravy apod.
+
+4.2       Porozumění potřebám a očekáváním zainteresovaných stran
+SMB určuje zainteresované strany pro energetickou hospodárnost a EnMS a relevantní požadavky těchto
+zainteresovaných stran. Zainteresovanými jsou strany, které mohou mít vliv na rozhodnutí nebo činnost,
+nebo jimi může být organizace ovlivněna.
+
+Zainteresované strany a jejich požadavky/očekávání:
+    • Zastupitelstvo města (dále také „ZM“) – schvalování strategických otázek a projektů v oblasti
+        energetiky zejména s ohledem na plánování rozpočtu a právní záležitosti, snížení administrativní
+        náročnosti, chování zaměstnanců v souladu s principy EnMS
+    • Rada města (dále také „RM“) – efektivní hospodaření finanční i energetické, kvalitní a fungující
+        EnMS, soulad s legislativou
+    • Statutární město Brno a jeho MČ – nižší výdaje za energie a vodu, snížení administrativní náročnosti,
+        chování zaměstnanců v souladu s principy EnMS
+    • Příspěvkové a zřizované organizace – nižší výdaje za energie a vodu, snížení administrativní
+        náročnosti, chování zaměstnanců v souladu s principy EnMS
+    • Zaměstnanci – zápis požadovaných dat do IS EB, plnění pracovních povinností, získaná mzda a určitý
+        komfort při práci
+    • Veřejnost využívající služeb organizací – poskytování kvalitních služeb, úspory nákladů organizací
+    • Orgány státní správy, úřady – dodržování legislativy ve všech oblastech, poskytnutí součinnosti,
+        snižování spotřeby energií a vody, snižování produkce emisí
+    • Evropská komise – dodržování legislativy, snižování spotřeby energií a vody, snižování produkce
+        emisí
+    • Poskytovatelé dotací – dodržování podmínek pro příjemce dotací
+    • Dodavatelé/distributoři/výrobci energií – dosažení zisku, poskytnutí kvalitních služeb
+    • Dodavatelé výrobků a služeb – dosažení zisku, dodání kvalitních služeb a výrobků
+
+SMB a jím zřízené organizace identifikují, zavádějí a mají přístup k příslušným požadavkům právních předpisů
+ve vztahu k užití a spotřebě energie a energetické účinnosti. K tomuto účelu je vytvořen související dokument
+
+
+
+
+                                                    7/27                                              Strana 20 / 40
+Registr legislativních požadavků, který obsahuje výčet příslušných právních předpisů vztahujících se k užití
+a spotřebě energie a energetické účinnosti v objektech SMB. Registr slouží pro identifikaci legislativních
+požadavků a jejich naplňování. Je uložen v IS EnMS a za jeho aktualizaci odpovídá Energetický manažer města
+(dále také „EMm“), který také navrhuje opatření potřebná pro plnění legislativních požadavků. Aktualizace
+probíhá v roční periodě.
+
+SMB určuje zainteresované strany pro energetickou hospodárnost a EnMS a relevantní požadavky těchto
+zainteresovaných stran.
+
+4.3     Určení rozsahu systému managementu hospodaření s energií
+SMB určuje hranice a aplikovatelnost EnMS, a tím vymezuje jeho rozsah. Energetické hospodářství města
+(dále také „EH“) je tvořeno zejména budovami ve vlastnictví města, ve kterých se energie užívá pro zajištění
+kvality vnitřního prostředí – vytápění, chlazení, ohřev teplé vody, nucené větrání, osvětlení, úprava vlhkosti.
+V budovách je dále energie užívána pro provoz drobných spotřebičů a zajištění doprovodných služeb. Mimo
+energie v budovách energetické hospodářství města tvoří také pohonné hmoty a ostatní adresy místa
+spotřeby (např. semafor, radar, parcela atd.).
+
+SMB zahrnuje do systému managementu hospodaření energií své energetické hospodářství, které je uvedeno
+v souvisejícím dokumentu Hranice energetického hospodářství.
+
+Rozhodujícím při vymezení energetického hospodářství jsou následující faktory:
+   • kdo je vlastníkem budovy (zda SMB nebo organizace),
+   • jaký je podíl města ve vlastnické struktuře v případě vlastnictví organizací,
+   • zda má organizace sama o sobě povinnost zpracovávat energetický audit.
+
+SMB do svého energetického hospodářství zahrnuje spotřeby energie, které jsou realizovány prostřednictvím
+odběrných míst v budovách, které vlastní a u kterých má přímý smluvní vztah s dodavatelem, nebo
+prostřednictvím své zřízené organizace.
+
+
+
+
+                                                     8/27                                               Strana 21 / 40
+Hranice systému EnMS zahrnují všechny formy energie, typicky se jedná o:
+ Komodita                                             Jednotka
+          Elektrická energie                          MWh
+ NEOBNOVITELNÉ ZDROJE
+
+
+          Zemní plyn                                  MWh
+          Tepelná energie                             GJ s přepočtem na MWh
+          Uhlí                                        t s přepočtem na MWh
+       ENERGIE
+
+
+
+
+          Topný olej                                  t s přepočtem na MWh
+          Benzín                                      l s přepočtem na MWh
+          Nafta                                       l s přepočtem na MWh
+          LPG                                         l s přepočtem na MWh
+          CNG                                         kg s přepočtem na MWh
+          Energie slunečního záření                   MWh
+     OBNOVITELNÉ ZDROJE ENERGIE
+
+
+
+
+          Energie půdy                                MWh
+          Energie vzduchu                             MWh
+          Energie větru                               MWh
+          Energie vody                                MWh
+          Energie biomasy                             MWh
+          Energie bioplynu                            MWh
+          Energie kalového plynu                      MWh
+          Energie skládkového plynu                   MWh
+          Geotermální energie                         MWh
+
+                                    Odpadní teplo z technologie                MWh
+ZDROJE ENERGIE
+  DRUHOTNÉ
+
+
+
+
+                                    Odpady                                     t s přepočtem na MWh
+
+                                    Rekuperace elektřiny                       MWh
+
+
+
+4.4                               Systém managementu hospodaření s energií (EnMS)
+Účelem je umožnit městu a jeho organizacím vytvářet systémy a procesy nezbytné pro zlepšování energetické
+hospodárnosti, zlepšování energetické účinnosti, využívání a spotřeby energie.
+
+Tento systém je použitelný pro všechny typy a velikosti organizací. Úspěšnost zavedení závisí
+na angažovanosti všech úrovní a funkcí organizace, zejména pak vrcholového vedení.
+Požadavky na EnMS jsou jasně specifikovány a na jejich základě může město vytvářet a zavádět energetickou
+politiku, vytvářet cíle, cílové hodnoty a akční plány, které berou v úvahu právní požadavky a informace
+související s významným využitím energie. EnMS umožňuje městu dostát závazkům uvedeným v dokumentu
+„Energetická politika statutárního města Brna“ a provádět opatření nezbytná pro snižování energetické
+hospodárnosti.
+
+Systém EnMS je založen na přístupu vedoucímu k neustálému zlepšování díky koncepci „Plánuj – Dělej –
+Kontroluj – Jednej“ (dále také „PDCA“ z anglického originálu „Plan – Do – Check – Act“) a začleňuje
+management hospodaření s energií do každodenních procesů města a zainteresovaných organizací.
+V kontextu managementu hospodaření s energií může přístup PDCA vypadat následovně:
+
+
+
+
+                                                                        9/27                          Strana 22 / 40
+Plánuj: porozumění kontextu organizace, vytvoření energetické politiky a týmu pro management
+hospodaření s energií, zvažování opatření pro řešení rizik a příležitostí, provádění přezkoumání spotřeby
+energie, identifikování významného užití energie (SEU) a stanov ukazatele energetické hospodárnosti (EnPI),
+výchozího stavu spotřeb energie, cíle a cílové hodnoty v oblasti energie a akčních plánů potřebných pro
+dosažení výsledků, které zlepší energetickou hospodárnost v souladu s energetickou politikou organizace.
+Dělej: zavádění akčních plánů, řízení provozu a údržby, komunikaci, zajišťování kompetence a zvažování
+energetické hospodárnosti v návrhu a nákupu.
+Kontroluj: monitorování, měření, analyzování, vyhodnocení, provádění auditů a přezkoumání energetické
+hospodárnosti a EnMS.
+Jednej: podnikání opatření k řešení neshod a k neustálému zlepšování energetické hospodárnosti
+a zlepšování EnMS.
+
+
+
+
+      Obrázek č. 1: Znázornění konceptu PDCA
+
+
+EnMS přispívá k vyšší účinnosti využívání dostupných zdrojů energie, zvyšování konkurenceschopnosti
+a snižování emisí skleníkových plynů a souvisejících dopadů na životní prostředí. Tento systém je použitelný
+na všechny druhy energie.
+
+5     Vedení
+
+5.1     Vedení a závazek města
+Vrcholové vedení statutárního města Brna pro EnMS je Rada města a Zastupitelstvo města, jejichž
+představitelem je primátor města.
+
+Vrcholové vedení SMB prokazuje svou angažovanost v podpoře EnMS a neustálého zlepšování jeho
+efektivnosti především:
+
+
+
+
+                                                   10/27                                             Strana 23 / 40
+      •   zajištěním, že jsou stanoveny rozsah, hranice EnMS, energetická politika, cíle, cílové hodnoty v oblasti
+          energie v souladu se strategickým zaměřením organizace,
+      •   jmenováním a schvalováním týmu EnMS,
+      •   poskytováním zdrojů potřebných pro vytváření, zavedení, udržování a zlepšování EnMS.
+
+Veškerá usnesení RM týkající se EnMS jsou uložena v IS EB v sekci Dokumenty EnMS. Důležitou roli má také
+ZM, které schvaluje strategické otázky a projekty v oblasti energetiky zejména s ohledem na plánování
+rozpočtu a právní záležitosti.
+
+5.2       Energetická politika
+Energetickou politiku schvaluje ZM jako související dokument „Energetická politika statutárního města
+Brna“ tak, aby s ní mohli být seznámeni a srozuměni všichni zaměstnanci, případně i veřejnost. Její originál je
+uložen u Představitele vedení města (dále také „PVm“). S Energetickou politikou je seznamován při příchodu
+každý nový zaměstnanec, který se svou pracovní činností podílí v této oblasti. Její vhodnost vzhledem
+k záměrům EnMS přezkoumává PVm společně s EMm.
+
+Dokument „Energetická politika statutárního města Brna“ organizace je základním pilířem EnMS. Energetická
+politika je zveřejněna na webových stránkách města a dále také v IS EB.
+
+Energetickou politiku prosazuje a pravidelně aktualizuje PVm a EMm, který je odpovědný za zavedení
+systému řízení a jeho uplatňování.
+
+5.3       Role, odpovědnosti a pravomoci
+Vrcholové vedení města zajišťuje, aby odpovědnosti a pravomoci byly přiděleny a sděleny týmu EnMS.
+
+Tým EnMS:
+   • zajišťuje, aby byl EnMS vytvořen, zaveden, zlepšován, neustále udržován a odpovídal požadavkům
+      tohoto dokumentu
+   • zavádí akční plány k neustálému zlepšování energetické hospodárnosti a předkládá zprávy
+      vrcholovému vedení o výkonnosti EnMS
+   • předkládá jednou ročně zprávu vrcholovému vedení o výkonnosti EnMS a zlepšování energetické
+      hospodárnosti
+   • stanovuje kritéria a metody potřebné k zajištění efektivního provozu a řízení EnMS
+
+Základní informaci o odpovědnostech, pravomocích a vztazích mezi jednotlivými pracovníky dává jejich
+organizační schéma, kde jsou také uvedeny všeobecná práva a povinnosti pracovníků, jejich vzájemné vztahy
+v oblasti organizace práce a pracovní kázně. S popisem pracovní činnosti je každý pracovník seznámen při
+nástupu do organizace nebo při změně pracovního zařazení.
+
+Tým EnMS tvoří pozice:
+   • Vrcholové vedení města (VVm)
+   • Představitel vedení města (PVm)
+   • Energetický manažer města (EMm)
+   • Představitel vedení městské části (PVmč)
+   • Koordinátor městské části (Kmč)
+   • Energetický manažer městské části (EMmč)
+   • Představitel vedení organizace (PVo)
+   • Energetický manažer organizace (EMo)
+
+
+
+                                                      11/27                                                Strana 24 / 40
+    •    Provozní pracovník (PP)
+
+
+
+
+                                                  JUDr. Markéta Vaňková
+                                                    vrcholové vedení města
+
+
+
+
+                                                        Ing. Jiří Šamánek
+                                                   představitel vedení města
+
+
+
+
+                                                  Mgr. Veronika Kovářová
+                                                     Ing. Jan Solčány
+                                                     Bc. Michal Lepka
+                                                  energetický manažer města
+
+
+
+
+                                                                        Organizační struktura zapojených
+                    Organizační struktura zapojených                            městských částí
+                     příspěvkových organizací SMB                               představitel vedení MČ
+                      představitel vedení organiztace                          energetický manažer MČ
+                      energetický manažer organizace                              provozní pracovník
+                            provozní pracovník
+                                                                        *KOORDINÁTOR MĚSTSKÉ ČÁSTI
+
+
+
+
+                                                                                  *Organizační struktura zapojených
+                                                                                    příspěvkových organizací MČ
+                                                                                      představitel vedení organiztace
+                                                                                      energetický manažer organizace
+                                                                                            provozní pracovník
+
+
+Obrázek č. 2: Organizační struktura týmu EnMS
+
+
+
+Seznam členů tým EnMS je uveden v souvisejícím dokumentu Členové týmu EnMS.
+
+Každý představitel organizace je povinen stanovit odpovědnost a povinnost svých podřízených v oblasti
+hospodaření s energií. Důležité je, aby v každé organizaci byly tyto činnosti přiděleny a bylo zajištěno jejich
+plnění.
+Odpovědní zaměstnanci mají povinnost informovat EMm o provedených Energetických posudcích, nových
+Průkazech energetické náročnosti budovy, kontrolách účinností kotlů, revizích atd.
+Vrcholové vedení města si je plně vědomo důležitosti dodržování EnMS, a proto:
+    • stanovuje energetickou politiku a energetické cíle (viz. kapitola 5.2. a 6.2. této směrnice EnMS)
+
+
+
+
+                                                                12/27                                                   Strana 25 / 40
+      •   vytváří systém řízení EnMS (stávající EnMS je vymezen touto směrnicí, týmem EnMS, odpovědnostmi
+          a pravomocemi týmu EnMS, akčním plánem EnMS, prováděcími pokyny, případně později příkazy
+          tajemníka či ředitele atd.)
+      •   bude přezkoumávat EnMS (viz. kapitola 9.3 této směrnice EnMS)
+
+6       Plánování
+
+SMB a jím zřízené organizace vykonávají a dokumentují proces energetického plánování. Energetické
+plánování je v souladu s energetickou politikou a musí vést k opatřením, která směrují k neustálému
+zlepšování energetické hospodárnosti. Dále určuje rizika, která jsou potřeba v této oblasti řešit.
+
+6.1       Opatření pro řešení rizik a příležitostí
+
+6.1.1     Příležitosti a rizika
+
+SMB a jeho organizace určují rizika a příležitosti, které řeší tak, aby se:
+   • prokázalo, že EnMS je schopen dosáhnout svého zamýšleného výstupu včetně zlepšování energetické
+       hospodárnosti,
+   • předešlo nežádoucím účinkům nebo aby se zmírnily,
+   • dosáhlo neustálého zlepšování energetické hospodárnosti a zlepšování EnMS.
+
+SMB stanovuje následující příležitosti:
+   • Technologický vývoj – členové týmu EnMS průběžně sledují možnosti zlepšování, které přináší
+       technologický vývoj.
+   • Dotační a nedotační příležitosti – město sleduje aktuálně vyhlášené dotační tituly a využívá finančních
+       možností; stejně tak využívá nedotačních možností (poradenství, prostředky na budování kapacity
+       apod.).
+   • Rozvoj lidských zdrojů a znalostí – díky průběžnému tlaku na energetiku a klima by mělo město
+       vybudovat kvalitní odborný tým, který je základem pro úspěšnou misi nejen v rámci plnění EnMS.
+       Důležitý je zde průběžný rozvoj dovedností, komunikace a zapojování dalších externích subjektů
+       do rozvoje města.
+   • Zvyšující se znalost městské infrastruktury – město eviduje informace o svém majetku a tím se zvyšuje
+       pravděpodobnost dosažení kvalitnějších rozhodnutí a tvorby vhodných projektů.
+
+SMB stanovuje následující rizika/hrozby:
+   • Finanční návratnost a efektivnost projektů – navrhované projekty musí mít návratnost maximálně
+       do 10 let a mít maximální efektivitu (ekonomické hodnocení se provádí v rámci prvku 6.2).
+   • Výkyvy ve spotřebách – pro tyto účely jsou v IS EB funkcionality „Tolerance spotřeby“ a „EnPI“, které
+       slouží k automatickému vyhodnocení spotřeby daného odběrného místa (dále také „OM“) či celé
+       budovy. V případě překročení mimo stanovenou toleranci poskytuje IS EB uživateli tuto informaci
+       a žádá ho o zdůvodnění odchylky.
+   • Legislativa – neplnění norem a závazků plynoucích z evropské i české legislativy, nedostatečná
+       akomodace těchto norem v prostředí rozvoje území města – každoroční kontrola novelizací a nových
+       zákonů a vyhlášek.
+   • Rozvoj lidských zdrojů a znalostí – nedostatečná podpora a posilování týmu EnMS a dalších
+       spolupracujících subjektů – pravidelné školení členů týmu EnMS.
+
+
+
+
+                                                     13/27                                           Strana 26 / 40
+      •   Klimatická změna – riziko extrémních povětrnostních jevů a dlouhodobých změn klimatu, které
+          mohou negativně ovlivnit energetickou infrastrukturu, spotřebu energie a vyžadovat dodatečné
+          investice do adaptace – zpracování dokumentu adaptace na změnu klimatu.
+      •   Nedostupnost externích expertů a firem pro dodání služeb či investic – zadávání veřejných zakázek
+          s dostatečným časovým předstihem a plněním v řádu měsíců.
+      •   Neplnění úkolů a závazků EnMS zaměstnanci/uživateli městských budov a další infrastruktury (vozový
+          park) – organizace pravidelných projektových schůzek a zavedení manažerského řízení.
+      •   Nevhodná politická rozhodnutí, nízká priorita pro oblast energetiky a EnMS – jmenování radního pro
+          oblast energetiky, který bude za oblast zodpovídat a bude manažersky řídit tým EnMS.
+
+6.1.2     Plánování města a organizací
+
+SMB a jeho organizace plánují opatření pro řešení rizik a příležitostí. Dále také určují způsob, jak tato opatření
+integrovat a zavádět do svého systému řízení energie (EnMS) a jak hodnotit efektivnost těchto opatření.
+Tento proces je podrobně popsán v souvisejícím dokumentu Registr provozních rizik.
+
+6.2       Cíle a cílové hodnoty v oblasti energie a akční plány EnMS
+Jsou stanovovány jako nástroj pro dosažení Energetické politiky a jsou pravidelně vyhodnoceny, a to vždy
+jednou ročně. Energetické cíle a akční plány jsou stanovovány na základě návrhu EMm, dle zjištěné EnB
+a EnPI. SMB pro příslušné funkce a úrovně stanovuje cíle a cílové hodnoty v oblasti energie.
+
+SMB vytváří a udržuje akční plány k dosažení cílů a cílových hodnot v oblasti energie, které zahrnují:
+   • Vymezení rozsahu akčního plánu
+   • Požadované zdroje
+   • Seznam odpovědných osob
+   • Termín dokončení
+   • Metodiku pro zhodnocení výsledků, včetně metody používané k ověření zlepšování energetické
+       hospodárnosti.
+
+Akční plány zohledňují externí a interní záležitosti zohledňující kontext organizace, s důrazem zejména na:
+    • Soulad s právními předpisy a vnitřními organizačními normami a stanovenými postupy
+    • Dotační politiku – aby nebyla opomenuta možnost získání dotace
+    • Veřejnost – její požadavky a připomínky
+    • Dostupnost zaměstnanců
+    • Fiskální politiku státu
+    • Vývoj energetických trhů
+    • Soulad s energetickou politikou, cíli a strategií města
+Energetické cíle a akční plány jsou popsány v souvisejícím dokumentu Přehled Energetických cílů a Akčních
+plánů, kde jsou uvedeny EC a AP aktuálně řešené, splněné, případně zrušené. Tento dokument každoročně
+zpracuje EMm a následně jej předloží ke schválení vedení města.
+
+Dokumenty jsou uloženy v IS EB. Investiční opatření vyplývající ze stanoveného akčního plánu, jsou dále
+zakomponovány k realizaci prostřednictvím investičních plánů, resp. programů. V rámci tohoto plánování je
+řešeno i financování realizace těchto opatření včetně využití úspor plynoucích z jejich realizace.
+
+
+
+
+                                                      14/27                                                Strana 27 / 40
+6.3    Přezkoumání spotřeby energie
+SMB definuje způsob přezkoumání spotřeby energie. Přezkoumání energie pro jednotlivé objekty je
+k dispozici online v IS EB. EMm a EMmč ve spolupráci s Energetickými managery organizací (dále také „EMo“)
+zajišťuje sběr údajů o spotřebě energie. K tomuto přezkoumání jsou využívány samoodečty měřidel
+a vyúčtování dodavatelů. Tyto údaje jsou průběžně zadávány do IS EB, kde jsou identifikovány užívané druhy
+energie a vyhodnocovány minulé i současné užití energie a její spotřeba.
+
+Evidence úsporných opatření je možná v IS EB, a to pro každou budovu zvlášť. Seznam úsporných opatření
+ze všech budov se nachází v modulu EnMS. Prioritizaci opatření na daném objektu je možné stanovit
+na základě jeho energetické hospodárnosti.
+
+Sledování a vyhodnocování dat je k dispozici on-line v IS EB. EMm a EMmč díky informacím z IS EB:
+    • Eviduje veškeré měřiče
+    • Má ucelený přehled o všech odběrných místech, jejich označeních, tarifech, sazbách atd.
+    • Zajišťuje analýzu užití energie a její spotřebu
+    • Určuje současnou energetickou hospodárnost budov
+    • Odhaduje budoucí spotřebu energie
+    • Sleduje významné užití a spotřebu energií
+    • Zjišťuje spotřeby energií a nákladů pro každou organizaci a její budovy
+    • Zjišťuje množství produkce CO2 pro danou komoditu
+
+K vyhodnocování energetických dat slouží v IS EB několik modulů a funkcí. Primárně se jedná o:
+    • Export budov a odběrných míst do xlsx – EMm si z IS EB exportuje data k odběrným místům, případně
+       budovám dle svých požadavků do formátu xlsx, který si poté může upravit dle potřeby. Získává tak
+       ucelený přehled o spotřebách, nákladech, technických údajích, legislativních požadavcích atd.
+    • EnPI – Nastavení a vyhodnocení EnPI lze provést v detailu budovy na záložce EnPI, případně v modulu
+       EnMS, sekci EnPI.
+    • Záložka Tolerance – v detailu odběrného místa na záložce Tolerance je možné nastavení tolerance
+       spotřeb z faktur a tolerance spotřeb samoodečtů ve vztahu k predikci jednotlivých odběrných míst.
+       Pokud se spotřeba odchýlí mimo toleranční pásmo, je potřeba tuto skutečnost zdůvodnit.
+    • Analýza a výpočty – v IS EB v modulu Analýzy a výpočty lze jednoduše vytvořit grafy (spotřeb, nákladů,
+       emisí CO2 a energeticky vztažné plochy) a zobrazit rozpočtové přehledy, a to na základě historických,
+       případně predikovaných dat.
+    • V detailu každého odběrného místa je k zobrazení graf (viz obrázek č. 2), kde je zobrazeno porovnání
+       spotřeb z faktur (zelená linka), ze samoodečtů (oranžová linka) a predikovaných spotřeb (modrá
+       linka).
+
+
+
+
+                                                   15/27                                             Strana 28 / 40
+Obrázek č. 3: Detail OM v IS EB
+
+ Kromě pravidelného přezkoumávání spotřeby energie v rámci IS EB je spotřeba energie přezkoumána
+ v souvisejícím dokumentu Zpráva o přezkoumání spotřeb, tu zpracovává EMm ve spolupráci s EMmč, PVo
+ a EMo v minimálně roční periodě.
+
+ 6.3.1 Zpráva o přezkoumání spotřeb
+
+ Přezkoumání zahrnuje analýzu druhů energie, jejich minulého i současného užití a spotřeby na základě
+ dostupných měření a dat. Na základě této analýzy jsou identifikována významná užití energie (SEU), pro která
+ jsou stanovovány relevantní proměnné, ukazatele energetické hospodárnosti (EnPI), vyhodnocena současná
+ energetická hospodárnost a určeny odpovědné osoby ovlivňující tato užití.
+
+ Součástí přezkoumání je rovněž stanovení prioritních příležitostí ke zlepšování energetické hospodárnosti
+ a odhad budoucího užití energie a její spotřeby. Výsledky přezkoumání tvoří podklad pro plánování
+ energetických cílů, akčních plánů a další zlepšování EnMS. Přezkoumání systému EnMS se dále věnuje
+ kapitola 9.3 této Směrnice.
+
+ 6.3.2 Významné užití energie (SEU)
+
+ Užití energie je jednou ročně analyzováno v souvisejícím dokumentu Zpráva o přezkoumání spotřeb.
+ Významným užitím energie se rozumí užití energie, které představuje podstatnou část spotřeby energie nebo
+ poskytuje značný potenciál pro zlepšování energetické hospodárnosti.
+
+ V rámci Vstupní analýzy EnMS byla skupina SEU stanovena následovně: Objekty a oblasti byly seřazeny podle
+ jejich procentuálního podílu na celkové spotřebě energie v energetickém hospodářství, od nejvyššího podílu
+ k nejnižšímu. Budovy a oblasti, jejichž souhrnná spotřeba představuje přibližně 80 % z celkové spotřeby
+ energie, byly zařazeny do skupiny SEU. Doporučuje se začít s hledáním potenciálních úspor energie a nákladů
+ právě u těchto objektů a oblastí.
+
+ Seznam budov, které byly zařazeny do skupiny SEU, je uveden v souvisejícím dokumentu Budovy SEU.
+
+
+
+
+                                                    16/27                                             Strana 29 / 40
+Každý rok je pro snadnější filtraci vytvořena v IS EB modulu Budovy skupina, která obsahuje objekty zahrnuté
+do SEU pro daný kalendářní rok. Přehled SEU je k dispozici také v modulu EnMS, sekci Dokumenty EnMS.
+V modulu Budovy je u SEU evidován přehled následujících údajů:
+    • přehled energie a jejich souhrn za určené období
+    • legislativní požadavky
+    • údaje z aktuálního průkazu energetické náročnosti budovy
+    • realizace energeticky úsporných opatření
+    • významné energetické spotřebiče
+    • EnPI
+    • vytápění a přepočet na denostupně
+    • současná energetická hospodárnost
+    • dokumenty
+    • poznámky
+
+Pro každé významné užití energie je potřeba určit relevantní proměnné ovlivňující spotřebu energie.
+Významné proměnné lze rozčlenit do následujících kategorií:
+    • jednotky produkce (např. množství produkce, kapacita…)
+    • klimatické podmínky (např. vnější teplota, denostupně…)
+    • provozní parametry (např. vnitřní teplota, užívaná plocha, provozní hodiny, ujetá vzdálenost…)
+
+V IS EB je možné v detailu budovy a na záložce EnPI evidovat tyto proměnné – energeticky vztažná plocha,
+počet zaměstnanců, počet uživatelů a produkce.
+
+Spotřebu na vytápění lze porovnávat mezi jednotlivými roky pomocí denostupňové metody, a to vůči
+dlouhodobému teplotnímu průměru. V IS EB je možné stahovat data z nejbližší meteorologické stanice. EMm
+má přístup k denním teplotám a k měsíčním průměrným teplotám potřebných k výpočtu denostupňů.
+
+Provozní parametry jsou definovány pro každou budovu v souvisejícím dokumentu Provozní kritéria, který
+zpracovává EMo ve spolupráci PV a Emm. Dokument je uložen v IS EB v detailu budovy na záložce Dokumenty.
+
+6.4    Ukazatele energetické hospodárnosti (EnPI – energy performance indicator)
+Jednotlivé EnPI, příslušné hodnoty a grafy, jsou dokumentovány v IS EB, kde jsou stanoveny základní vstupní
+energetické bilance pro danou organizaci.
+
+SMB tyto informace dokumentuje, uchovává a průběžně aktualizuje. Zajišťuje, aby významné EnPI byly vzaty
+v úvahu při vytváření, zavádění a udržování systému EnMS a byla každoročně přezkoumávána jejich
+vhodnost.
+
+EnPI jsou stanoveny jako:
+   - v případě budov: podíl spotřeby na energeticky vztažnou plochu, u vytápění je počítáno
+        s denostupňovou metodou;
+   - v případě vozového parku: podíl spotřeby na 100 km.
+
+6.5    Výchozí stav spotřeby energie (EnB – energy baseline)
+SMB stanovuje EnB v IS EB na základě informací z přezkoumání spotřeby energie, přičemž data ohledně EnB
+jsou normalizována, a vždy zohledňuje nové časové období. Tímto způsobem je zajištěno, že srovnání
+a analýzy spotřeby energie jsou co nejpřesnější a zohledňují změny v podmínkách, jako jsou klimatické vlivy
+nebo změny v provozních hodinách.
+
+
+
+
+                                                   17/27                                             Strana 30 / 40
+6.6       Plánování sběru energetických dat
+Energetická data jsou pravidelně shromažďována v IS EB minimálně v měsíční periodě formou měsíční
+fakturace na základě průběhového měření nebo formou samoodečtů u neprůběhového měření. Samoodečty
+jsou zaznamenávány na základě měřícího plánu, který stanovuje četnost jejich záznamů a odpovědnost
+za jejich zaznamenávání. Budovám jsou přiřazeny meteostanice, ze kterých jsou získávána data o relevantních
+proměnných, které ovlivňují spotřebu energie na vytápění. Jednou za čtvrtletí je odpovědným osobám
+automaticky zasílán email s přehledem a stavem dat v IS EB s požadavkem, aby případná chybějící data
+doplnili. Tento přehled mají odpovědné osoby k zobrazení v IS EB v modulu Individuální péče.
+
+6.6.1     Vstupy do plánování
+
+V rámci vstupů do energetického plánování organizace jsou realizovány tyto činnosti:
+    • zpřístupnění IS EB vybraným uživatelům
+    • sběr dat – nahrávání faktur za spotřeby energie, paliv a nahrávání dalších dokumentů (Průkazy
+        energetické náročnosti budovy (dále také „PENB“), EA, dodavatelských smluv apod.) do IS EB
+    • zjištění významných spotřebičů, zařízení, technických přístrojů, jejich revizí, technických zpráv,
+        kontaktů
+    • zjištění druhu energie pro každou budovu, seznam veškerých OM v budově
+    • zjištění spotřeb energie a nákladů za poslední rok pro každou budovu a druh paliva
+    • zjištění současných spotřeb a nákladů
+    • zjištění energetické hospodárnosti budov
+    • zjištění stávajícího systému on-line monitoringu
+    • pohyb ceny energie na velkoobchodním trhu
+
+Při plánování jsou vždy zohledněny již schválené, ale i zamýšlené investiční záměry mající vliv na spotřebu
+energie.
+
+7       Podpora
+
+7.1       Zdroje
+SMB a jím zřízené organizace určují a poskytují zdroje potřebné pro stanovení, zavedení, udržování a neustálé
+zlepšování energetické hospodárnosti a zlepšování EnMS.
+
+Vedení města se zabývá potřebami jednotlivých zdrojů a plánuje jejich poskytování na zajištění EnMS.
+U příspěvkových organizací předkládá návrh na poskytnutí finančních prostředků na zajištění EnMS PVo
+ve spolupráci s odborem, pod který příslušná organizace spadá. Požadavek je konzultován s EMm. Samotné
+vyčlenění finančních prostředků spadá do kompetence RM. Možnosti financování jsou závislé na výši
+potřebných výdajů, nezbytných pro realizaci úsporných opatření.
+
+Zdroje jsou pravidelně schvalovány ZM formou rozpočtu. Pro stanovení rozpočtu probíhají schůzky nejen
+na úrovni radnice a jeho odborů, ale pravidelně v průběhu roku dochází i k interakci se správci budov města
+či organizacemi zajišťující chod budov. Interakcí jsou myšleny obhlídky budov, příprava plánu renovací
+a obměny havarijního vybavení a finální zhodnocení, co je možné z rozpočtu v dalším roce realizovat
+(i v kombinaci se souvisejícími akcemi či možností získání dotací).
+
+Finanční hospodaření SMB se řídí ročním rozpočtem, který je zpracován na základě zákona č. 250/2000 Sb.
+o rozpočtových pravidlech územních rozpočtů, ve znění pozdějších předpisů. Návrh rozpočtu na příslušný rok
+
+
+
+
+                                                   18/27                                              Strana 31 / 40
+je každoročně předkládán SMB ke schválení zpravidla na prosincovém jednání. Při návrhu rozpočtu se vychází
+z rozpočtového výhledu, které město zpracovává na období 5 let, ze skutečnosti plnění příjmů daného roku
+a také z predikce Ministerstva financí k vývoji daňových příjmů. Schválený rozpočet je zveřejněn
+na internetových stránkách města do 30 dnů ode dne jeho schválení v SMB.
+
+7.2       Kompetence
+Pro řádnou realizaci EnMS je nezbytné disponovat týmem motivovaných, proškolených a odpovědných osob.
+Dále je důležité zapojit do systému kromě vedoucích pracovníků také správce objektů, účetní, správce
+počítačové sítě, uklízečky, vedoucí kuchyně, obsluhu vzduchotechniky atd. Ti všichni mohou mít vliv
+na hospodárné nakládání s energií. Tyto osoby se při výkonu své pracovní činnosti řídí dokumentem Zásady
+hospodárného využívání energie. Za jeho aktualizaci odpovídá EMm.
+
+
+
+Jejich kompetence jsou blíže popsány v souvisejícím dokumentu Členové týmu EnMS.
+
+Motivace zaměstnanců zapojených do EnMS hraje klíčovou roli v úspěšné implementaci tohoto systému,
+z tohoto důvodu SMB k motivaci zaměstnanců zapojených do EnMS využívá následující metody:
+    • Vzdělávání a školení – pravidelná školení umožňují zaměstnancům lépe porozumět procesu a cílům
+    • Zapojení zaměstnanců – zaměstnanci města mají možnost přispět svými nápady a iniciativami
+        ke zlepšení energetické hospodárnosti
+    • Komunikace, zpětná vazba a uznání – PVm, Emm, PVmč, Kmč a EMmč otevřeně a pravidelně
+        komunikují s dalšími členy týmu EnMS ohledně pokroku v implementaci EnMS, zdůrazňují důležitost
+        úspor energie pro organizaci a uznávají úsilí a úspěchy členů týmu EnMS.
+    • Kontinuální zlepšování – vedení zaměstnancům ukazuje, že implementace EnMS a úspory energie
+        jsou dlouhodobým procesem a povzbuzuje zaměstnance k neustálému zlepšování a inovacím.
+
+7.3       Povědomí
+Osoby, jejichž práce je řízena organizací, mají povědomí o energetické politice, svém přínosu k efektivnosti
+EnMS včetně dosažení cílů a cílových hodnot v oblasti energie, o přínosech zlepšování energetické
+hospodárnosti, o dopadech jejich činností nebo chování na energetickou hospodárnost a dopadech nesplnění
+požadavků EnMS.
+
+7.3.1     Školení týmu EnMS
+
+Školení je potřeba zaměřit tak, aby odpovídalo aktuální situaci. Mělo by být orientováno na oblast úspor
+provozních nákladů realizací energeticky úsporných opatření s nulovými nebo minimálními náklady.
+Tým EnMS řeší identifikaci požadavků na školení a zabývá se otázkami, jaká je současná úroveň znalostí osob
+majících vliv na hospodaření s energií, jaký má být přínos školení, kdo bude proškolen, obsah školení atd.
+Veškeré prezenční listiny a prezentace ze školení jsou uložena u EMm. V případě potřeby organizace využívá
+pro školení a metodické vedení osob také možnost online schůzek, online chat v IS EB, případně telefonické
+individuální proškolení.
+
+7.3.1.1    Školení osob majících přímý vliv na spotřebu energie
+
+      •   pravidelná školení uživatelů v oblasti hospodaření s energií
+      •   hledání příležitostí pro snížení spotřeb a nákladů
+      •   zvýšení povědomí o nutnosti šetření energií
+
+
+
+                                                       19/27                                         Strana 32 / 40
+      •    průběžné seznamování s nově instalovanými technologiemi a zařízeními
+
+Školení se týká především investičních techniků, správců budov, provozních pracovníků, vedoucích organizací
+atd.)
+
+7.3.1.2       Školení týmu EnMS
+
+      •    systém managementu hospodaření s energií
+      •    hledání příležitostí pro snížení spotřeb a nákladů
+      •    legislativa ve vztahu k užití energie
+      •    práce s výstupy z informačního systému pro energetický management
+      •    tvorba rozpočtu na výdaje energií pro organizace města
+
+7.3.1.3       Ostatní školení
+
+      •    všeobecné kurzy v oblasti nakládání s energií
+      •    individuální školení stávajících uživatelů informačního systému prostřednictvím on-line chatu
+           či telefonicky
+      •    individuální školení nových uživatelů informačního systému
+      •    individuální školení v oblasti Systému managementu hospodaření při změně týmu EnMS
+
+7.4        Komunikace
+SMB a jím zřízené organizace určují interní a externí komunikaci v rámci EnMS. Při vytváření procesů
+komunikace organizace zajistí, aby sdělované informace byly v souladu s EnMS a aby byly spolehlivé,
+relevantní a dostupné pro všechny zúčastněné strany. Pro školení a komunikaci využívá SMB také možnost
+online schůzek.
+
+7.4.1      Interní komunikace
+
+SMB a jím zřízené organizace interně komunikují o své energetické výkonnosti a EnMS. Organizace musí
+zavést a udržovat proces, prostřednictvím kterého mohou osoby zapojené do EnMS předkládat návrhy
+na zlepšení.
+
+          •       Předmět interní komunikace: Zahrnuje energetickou politiku, cíle, úkoly, plány, výsledky měření
+                  a monitorování energetické výkonnosti, významné odchylky ve spotřebě energie, návrhy
+                  na úsporná opatření, a výsledky interních a externích auditů.
+          •       Kdy interně komunikovat: Komunikace probíhá pravidelně, například při schůzkách Týmu EnMS,
+                  během pracovních porad a školení, a ad-hoc při identifikaci významných změn nebo problémů.
+          •       Kdo komunikuje: EMm (Energetický manažer), členové Týmu EnMS, zaměstnanci města
+                  a zřízených organizací.
+          •       Způsob komunikace: Schůzky Týmu EnMS, osobní kontakt, e-maily, interní školení, porady
+                  a využití interních informačních systémů.
+
+        7.4.1.1       Osobní kontakt
+
+        V případě řešení jakéhokoliv problému souvisejícího s pracovní činností se pracovník obrací nejdříve
+        na svého nejbližšího přímého nadřízeného. Každý pracovník má právo obrátit se svým dotazem, prosbou,
+        žádostí o pomoc či v jiné záležitosti na člena vedení organizace a EMm.
+
+
+
+
+                                                         20/27                                            Strana 33 / 40
+        7.4.1.2       Porady
+
+        V rámci vnitřní komunikace se schází užší tým EnMS SMB v rámci interních porad min. 2x ročně,
+        minimálně 1 x ročně proběhne porada koordinátorů/manažerů MČ se zástupci organizací MČ, které
+        svolává EMm nebo EMmč/Kmč. Poradou se rozumí oficiální osobní či videokonferenční setkání
+        pozvaných pracovníků v předem sjednaném termínu za účelem prodiskutování společného tématu.
+
+          •       Účel porad: Diskutovat a hodnotit energetickou výkonnost, cíle a výsledky EnMS, řešit významné
+                  odchylky ve spotřebě energie, plánovat úsporná opatření a hodnotit efektivitu zavedených
+                  opatření.
+          •       Kdy probíhají: Minimálně dvakrát ročně, a dále nepravidelně nebo v okamžiku, kdy je třeba
+                  projednat společný postup zainteresovaných stran při řešení problému.
+          •       Zodpovědná osoba: PVm nebo EMm svolává porady a zajišťuje, aby o poradách byl proveden
+                  zápis, který je distribuován elektronickou cestou všem zúčastněným osobám a archivován v IS EB
+                  v modulu Dokumenty EnMS.
+
+7.4.2      Externí komunikace
+
+SMB a jím zřízené organizace využívají v oblasti energetiky poradenských služeb externích společností.
+
+      •    Předmět externí komunikace: Zahrnuje sdílení informací o energetické výkonnosti, výsledky
+           energetických auditů, plánovaných zlepšeních, úsporných opatřeních a plnění legislativních a jiných
+           závazků.
+      •    Kdy komunikovat: Pravidelně dle potřeby, například při uzavírání smluv s externími poskytovateli
+           služeb, při sdílení výsledků energetických auditů nebo změnách v energetické politice.
+      •    Kdo komunikuje: EMm a pověření zástupci města nebo organizací.
+      •    Způsob komunikace: E-maily, formální setkání, online schůzky, oficiální zprávy a reporty.
+
+7.4.3      Dokumentace komunikace
+
+Všechny komunikační procesy musí být zdokumentovány a pravidelně přezkoumávány, aby byly aktuální
+a odpovídaly potřebám organizace. Dokumentace zahrnuje záznamy o schůzkách, zápisy z porad, interní
+a externí komunikaci, a další relevantní dokumenty.
+
+7.5        Dokumentované informace
+Veškeré činnosti tvořící součást systému EnMS jsou dokumentovány – mají elektronickou i písemnou podobu
+a je zajištěna jejich pravidelná aktualizace.
+
+Změny ve směrnici vyvolané vnitřní potřebou (organizační změny, nebo změny jednotlivých postupů,
+energetických zařízení atd.) i externími vlivy (změna legislativy nebo technických norem), jsou prováděny
+energetickým manažerem (EMm).
+
+Hlavním úložištěm veškeré dokumentace EnMS v elektronické podobě je IS EB, do něhož mají přístup všechny
+odpovědné osoby. Při přihlášení do systému je veškerá dokumentace uložena v sekci Dokumenty – EnMS.
+
+Dokumentaci EnMS udržuje, aktualizuje a distribuuje Emm ve spolupráci s PVm. Dokumentaci systému
+schvaluje PVm svým podpisem na základě pověření RM. Dokumentace systému je k dispozici také
+v elektronické formě (pracovníkům, kteří mají přístup k počítači), v IS EB, případně dle zvyklostí organizace
+
+
+
+
+                                                        21/27                                            Strana 34 / 40
+na interním sdíleném prostředí (intranet, sdílené složky atd..). PVo uchovává neplatné dokumenty a revize
+(historii systému).
+
+7.5.1     Řízení dokumentovaných informací
+
+Dokumentované informace musí být řízeny tak, aby byla zajištěna jejich:
+         • dostupnost a vhodnost pro použití, kde a kdy je to zapotřebí,
+         • aktuálnost a použitelnost pro všechny relevantní účastníky implementace EnMS,
+         • přiměřená ochrana (např. proti ztrátě důvěrnosti, nevhodnému použití nebo ztrátě integrity).
+
+Dokumentované informace externího původu určené organizací jako potřebné pro plánování a fungování
+EnMS musí být odpovídajícím způsobem označeny a musí být řízeny.
+
+8       Provoz
+
+8.1       Plánování a řízení provozu
+SMB a jím zřízené organizace plánují, zavádí a řídí procesy, které mají vztah k významným užitím energie,
+potřebné k plnění požadavků a k realizaci opatření.
+
+Hlavní činností organizace je poskytování služeb. Organizace identifikuje a plánuje provozní činnosti a činnosti
+údržby, které mají vztah k významným užitím energie a které jsou v souladu s energetickou politikou, cíli
+a stanovenými cílovými hodnotami. Všichni pracovníci mající vliv na významné užití energií byli seznámeni
+s dokumentem Zásady hospodárného využívání energie a naplňují jeho dodržování při výkonu své pracovní
+činnosti. Zvláště se to týká provozních pracovníků a představitelů vedení organizací.
+
+8.1.1     Zásady hospodárného využívání energie
+
+Zásady jsou určeny všem zaměstnancům SMB a jeho organizacím, dále MČ a jejich organizacím. Zásady
+upravují pravidla chování všech osob majících vliv na spotřebu energií při těchto činnostech:
+    • pobytu a užívání budov a dalších technických a technologických zařízení,
+    • plánování opatření, projektů a modernizace,
+    • užívání energetických spotřebičů, veřejného osvětlení a všech komponent energetického
+        hospodářství města.
+
+Dále definují povinnosti správců technických zařízení budov, vedoucích organizací, pracovníků investičních
+a nákupních oddělení, odborných a pedagogických pracovníků.
+
+Dokument Zásady hospodárného využívání energie je uložen v IS EB a byli s ním seznámeni všichni
+zúčastnění (tedy i zaměstnanci) formou školení, ze kterého je vykázána prezenční listina, která je uložena v IS
+EB.
+
+
+
+8.2       Návrh
+SMB přes svůj energetický tým plánuje nákupy nových zařízení, renovaci zařízení a vybavení vždy s ohledem
+na vliv spotřeby energie a vždy zvažuje příležitosti ke zvyšování energetické hospodárnosti.
+O těchto návrzích jsou pořízeny záznamy při poradách energetického týmu.
+
+
+
+
+                                                     22/27                                               Strana 35 / 40
+8.3       Nákup
+Při nakupování výrobků, vybavení a služeb spotřebovávajících energii s potenciálním vlivem na významná
+užití energie, organizace informuje dodavatele o tom, že jejich energetická hospodárnost je při nákupu
+jedním z hodnotících kritérií. Týká se to například pořízení nových technologií pro vytápění, chlazení,
+přístrojového vybavení kuchyní atd. Dále je tato oblast řešena v dokumentu Zásady hospodárného užití
+energie.
+
+
+9       Hodnocení výkonnosti
+
+9.1       Monitorování, měření a analýza a vyhodnocování energetické hospodárnosti a EnMS
+SMB pro energetickou hospodárnost a EnMS určuje, co je potřeba monitorovat a měřit, včetně minimálně
+následujících základních informací:
+    • efektivnost akčních plánů a dosahování cílů a cílových hodnot v oblasti energie
+    • ukazatele EnPI
+    • provoz významných užití energie
+    • skutečnou spotřebu energie oproti očekávané spotřebě
+    • nové možnosti rozvoje, trendy, inovace a jejich možné užití v rámci městského energetického
+       hospodářství
+
+9.1.1     Měřící plán
+
+EMo jsou povinni veškerá energetická data průběžně zadávat do IS EB. Spotřeby jsou do IS EB zadávány
+z faktur ve lhůtě do deseti pracovních dnů od obdržení faktury.
+
+Při roční, kvartální či jiné fakturaci se u odběrného místa provádí i fyzický samoodečet měřidla, a to vždy
+poslední pracovní den v měsíci a stav se k tomuto dni zapíše do IS EB. Při měsíční fakturaci energií se zjišťuje,
+zda k fakturaci dochází na základě průběhového měření nebo na základě odhadu spotřeby dodavatelem.
+Pokud dochází pouze k odhadu spotřeby, provádí se u odběrného místa i fyzický samoodečet měřidla viz.
+výše.
+
+Samoodečty budou prováděny na:
+      a) stávajících měřičích (tzv. fakturačních), tedy stanovených měřičích, které jsou vlastněny
+          distributorem energie a které slouží k účtování dodávek energie,
+      b) podružných měřičích, které budou nově instalovány.
+
+Odečty měřičů jsou prováděny v souladu se souvisejícím dokumentem Měřící plán, který je dostupný online
+v IS EB. Odpovědní PVo jsou seznámeni s měřícím plánem, který je poslán elektronicky a je vyžadován podpis
+odpovědnosti za plnění povinností dle členů týmu.
+
+9.1.2     Hodnocení souladu s požadavky právních předpisů a jinými požadavky
+
+SMB a jím zřízené organizace v plánovaných intervalech hodnotí shodu s právními požadavky a dalšími
+požadavky, ke kterým se organizace zavázala ve vztahu k energetické účinnosti, EnMS, užití a spotřebě
+energie. EMm pravidelně ročně aktualizuje Registr legislativních požadavků. Za naplnění právních požadavků
+odpovídají příslušní zástupci organizací. Hodnocení souladu je prováděno v rámci Zprávy o přezkoumání
+systému EnMS.
+
+
+
+
+                                                     23/27                                                Strana 36 / 40
+9.2       Interní audit
+K hodnocení efektivnosti EnMS, ale také k odhalování možných problémů a oblastí pro zlepšení slouží Interní
+audit (dále také „IA“). V rámci auditu se zjišťuje, zda EnMS:
+    • odpovídá vlastním požadavkům organizace na její EnMS
+    • je v souladu s energetickou politikou, cílem a cílovými hodnotami v oblasti energie
+    • je efektivně zaveden a udržován
+    • zlepšuje energetickou hospodárnost
+
+IA je v organizaci prováděn dle programu IA a týká se objektů zahrnutých do SEU na určité periodické období.
+Audit konkrétního objektu je realizován osobou, která má následující kompetence a kvalifikace:
+     • je proškolena k auditování EnMS
+     • je oprávněna kontrolovat práci EMm/EMmč, PVo/PVmč, EMo/EMmč a PP
+     • rozumí dokumentaci a má znalosti v oblasti energetiky
+
+SMB vybírá a provádí IA s ohledem na zajištění objektivity a nestrannosti procesu auditu.
+
+9.3       Přezkoumání systému managementu
+Pro posouzení trvalé vhodnosti, přiměřenosti, efektivnosti a souladu se strategickým směrováním města je
+EnMS pravidelně přezkoumáváno v minimálně roční periodě. Kromě pravidelného přezkoumání EnMS
+mohou proběhnout i mimořádná přezkoumání na základě rozhodnutí vedení, kdykoliv to situace vyžaduje.
+EMm ve spolupráci s PVmč, Kmč, EMmč, PVo, EMo zpracovává každoročně Zprávu o přezkoumání systému
+EnMS.
+
+9.3.1     Vstup pro přezkoumání EnMS
+
+Zpráva o přezkoumání systému EnMS obsahuje:
+    • Stav opatření z předchozích přezkoumání, včetně jejich realizace a účinnosti.
+    • Změny externích a interních záležitostí a s nimi spojená rizika a příležitosti vztahující se k EnMS.
+    • Informace o výkonnosti EnMS, zejména přehled trendů týkajících se:
+            o neshod a nápravných opatření,
+            o výsledků monitorování a měření,
+            o výsledků interních a externích auditů,
+            o hodnocení souladu s právními a ostatními požadavky.
+    • Příležitosti k neustálému zlepšování, včetně oblastí kompetence.
+    • Vyhodnocení energetické politiky a její aktuálnosti.
+    • Plnění energetických cílů a cílových hodnot.
+    • Energetickou hospodárnost a její zlepšování na základě měření a ukazatelů EnPI.
+    • Stav akčních plánů a jejich průběžné výsledky
+
+
+9.3.2     Výstup z přezkoumání EnMS
+
+      Zpráva o přezkoumání systému dále obsahuje rozhodnutí a závěry týkající se:
+          • Příležitostí ke zlepšování energetické hospodárnosti.
+          • Aktualizace energetické politiky.
+          • Změn ukazatelů EnPI nebo výchozí hodnoty EnB.
+          • Úprav energetických cílů, cílových hodnot a akčních plánů, včetně opatření při jejich nesplnění.
+          • Zlepšení integrace EnMS do procesů organizace.
+
+
+
+
+                                                     24/27                                              Strana 37 / 40
+       •   Potřeb přidělení nebo úpravy zdrojů.
+       •   Zlepšení kompetence, povědomí a komunikace v oblasti energetického managementu.
+
+Zprávu o přezkoumání systému EnMS připravuje EMm a předkládá je ke schválení PVm a VVm. Dokumenty
+jsou uloženy u EMm a dále v elektronické podobě v IS EB dostupné všem členům týmu EnMS.
+
+10 Zlepšování
+
+10.1    Neshoda a nápravné opatření
+Organizace řeší existující i potenciální neshody prováděním náprav, nápravných a preventivních opatření,
+za které je odpovědný EMm.
+
+Zjištění dělíme na:
+     1. Neshoda
+         Nesplnění požadavku, například nesplnění určitých potřeb zákazníka anebo interních požadavků
+         společnosti.
+         1.1. Velká neshoda (MAN)
+              Ze systémového hlediska závažná neshoda – může vést až k odepření vystavení certifikátu nebo
+              pozastavení jeho platnosti; nutno odstranit bez zbytečného prodlení
+         1.2. Malá neshoda (MIN)
+              Méně závažná neshoda, která nesvědčí o selhání systému; nutno odstranit do 3 měsíců
+     2. Doporučení
+         Nepředstavuje žádnou odchylku od požadavků normy, pouze identifikuje možné oblasti pro
+         zlepšování systému a energetické hospodárnosti.
+     3. Konstatování
+         Zdůrazněné silné stránky realizace systému
+
+Stanovená nápravná a preventivní opatření jsou přiměřená významu existujících i potenciálních problémů
+a dalším souvisejícím okolnostem energetické hospodárnosti. Odhalování neshod, potenciálních neshod
+a jejich řešení je jednou z hlavních odpovědností EMm, PVmč, EMmč, PVo, EMo a PP.
+
+Neshody jsou zaznamenávány v IS EB funkcí v detailu budovy ve formuláři „Návrhy a opatření“ a seznam
+všech evidovaných záznamů je uveden v modulu EnMS v sekci Registr návrhů a opatření.
+
+Mezi zdroje informací pro identifikaci neshod patří:
+   • výsledky měření a porovnávání spotřeb
+   • výsledky IA
+   • závěry z přezkoumání EnMS
+   • informace od partnerů, dodavatelů
+   • informace od zaměstnanců
+
+Ve formuláři „Návrhy a opatření“ odpovědní pracovníci (EMm, PVmč, EMmč, PVo, EMo a PP) uvedou:
+    • zda se jedná o návrh, příležitost, neshodu nebo nápravné, či preventivní opatření
+    • popis neshody
+    • příčinu neshody
+    • analýzu a návrh řešení
+    • termín realizace řešení a odpovědnost
+
+
+
+
+                                                   25/27                                           Strana 38 / 40
+   •   po provedené realizaci provede zápis o přezkoumání
+   •   přidělí stavu požadavku příznak „zamítnuto/vyřízeno“
+
+Pokud neshodu odhalí jakýkoliv pracovník, bez zbytečného odkladu ji oznámí PVo a EMm. Přezkoumání
+neshody provádí PVo nebo jím pověřená osoba. Závažnost neshody posuzuje dle těchto kritérií:
+   • neshoda má vliv na efektivní provoz organizace, případně negativní vliv na životní prostředí
+   • neshoda se již v minulosti vyskytla, případně hrozí, že by se mohla opakovat
+   • nejsou známy příčiny neshody
+
+Rozhodnutí o závažnosti neshody zahrnuje:
+   • vyhodnocení neshody jako méně závažné, které lze řešit operativně (tímto rozhodnutím je postup
+      ukončen)
+   • rozhodnutí o přijetí nápravného či preventivního opatření – v tomto případě dále vyplňuje EMm
+      formulář „Návrhy a příležitosti“ v IS EB až do stavu „vyřízeno“.
+
+Seznam neshod a nápravných opatření je uveden v samostatném dokumentu Registr neshod
+a nápravných opatření. Do tohoto registru jsou zapisovány neshody, které vzejdou z interních
+a externích auditů, z pravidelného přezkoumávání nebo jsou odhaleny během provozu některým z členů
+týmu EnMS. Ke každé neshodě se eviduje její popis, odpovědná osoba a nápravné opatření, které vede k její
+minimalizaci nebo úplnému odstranění.
+
+10.2   Neustálé zlepšování
+Příslušná organizace neustále zlepšuje vhodnost, přiměřenost a efektivnost EnMS a energetické
+hospodárnosti.
+
+
+
+
+                                                 26/27                                            Strana 39 / 40
+11 Související dokumentace
+
+Budovy SEU
+Členové týmu EnMS
+Energetická politika statutárního města Brna
+Hranice energetického hospodářství
+Měřící plán
+Provozní kritéria
+Přehled Energetických cílů a Akčních plánů
+Příručka EnMS
+Registr legislativních požadavků
+Registr neshod a nápravných opatření
+Registr provozních rizik
+Zásady hospodárného využívání energie
+
+Tyto dokumenty lze nalézt on-line v IS EB v sekci Dokumenty EnMS.
+
+
+12 Seznam obrázků
+
+   Obrázek č. 1: Znázornění konceptu PDCA .................................................................................................. 10
+   Obrázek č. 2: Organizační struktura týmu EnMS........................................................................................ 12
+   Obrázek č. 3: Detail OM v IS EB .................................................................................................................. 16
+
+
+13 Zdroj
+
+ISO 50001:2018 Systémy managementu hospodaření s energií – Požadavky s návodem k použití
+
+
+
+
+                                                                       27/27                                                                   Strana 40 / 40
+

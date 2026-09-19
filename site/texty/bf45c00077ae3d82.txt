@@ -1,0 +1,724 @@
+Rada města Brna
+
+Z9/24. zasedání Zastupitelstva města Brna
+konané dne 25.2.2025
+
+
+
+   9. Návrh aktualizovaného znění Zásad participativního rozpočtu
+      statutárního města Brna a aktualizovaného znění Metodiky
+          participativního rozpočtu statutárního města Brna
+
+Anotace
+Orgánům statutárního města Brna se předkládá ke schválení aktualizované znění Metodiky a Zásad
+participativního rozpočtu statutárního města Brna související s tím, že nově Rada města Brna může v
+průběhu posuzování stáhnout projekt, který prokazatelně navrhl člen zastupitelstva městské části Brna
+nebo člen Zastupitelstva města Brna.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   - aktualizované znění Zásad participativního rozpočtu statutárního města Brna, které
+                               tvoří přílohu č.....tohoto zápisu
+                               - aktualizované znění Metodiky participativního rozpočtu statutárního města Brna,
+                               které tvoří přílohu č......tohoto zápisu
+
+
+Stanoviska
+
+Materiál je předložen na R9/119. schůzi Rady města Brna konané dne 19. 2. 2025.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Marco Banti LL.M., vz. Ing. Linda
+  Seitlerová
+  vedoucí odboru - Odbor participace
+  12.2.2025 v 08:57
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Ing. Aleš Doležel
+  vedoucí úseku - 2. úsek
+  12.2.2025 v 08:22
+
+
+
+
+Sestava vytvořena 12.2.2025 v 08:57                          1/1                             Vygenerováno programem eMMB
+
+
+                                                                                                             Strana 1 / 16
+                                 Obsah materiálu
+Návrh usnesení                                       1-1
+Obsah materiálu                                      2-2
+Důvodová zpráva                                      3-3
+Příloha k usnesení (Zásady PARO 2025.pdf)            4-9
+Příloha k usnesení (Metodika 2025 PARO.pdf)        10 - 16
+
+
+
+
+                                                       Strana 2 / 16
+                                             Důvodová zpráva
+
+Úprava Zásad participativního rozpočtu statutárního města Brna spočívá v úpravě role navrhovatele.
+Od vzniku participativního rozpočtu města Brna bylo možné, aby se fáze navrhování projektů účastnil
+jakýkoli obyvatel města Brna starší 15 let. Předkládaný materiál upravuje roli navrhovatele tak, že nově Rada
+města Brna může v průběhu posuzování stáhnout projekt, který prokazatelně navrhl člen zastupitelstva
+městské části Brna nebo člen Zastupitelstva města Brna.
+
+Kompetenci stáhnout projekt z procesu posuzování má pouze Rada města Brna, která v současné době
+schvaluje také celoměstské projekty. Je to z toho důvodu, že proces posuzování projektů probíhá ze strany
+odborů MMB a rad městských částí, popř. Rady města Brna, a Odbor participace zajišťuje pouze koordinaci
+stanovisek a formální kontrolu projektů – samotný Odbor participace projekty neposuzuje.
+
+ V praxi by tak každý navrhovatel při podávání projektu odsouhlasí čestné prohlášení, že není v době podání
+členem zastupitelstva městské části Brna nebo Zastupitelstva města Brna. V případě „nezatržení“ souhlasu
+s čestným prohlášením nebude možné podat projekt. V případě, že nastane situace, kdy během posuzování
+Odbor participace prokazatelně zjistí, že navrhovatelem projektu je člen zastupitelstva, dojde ke zpracování
+materiálu Radě města Brna s návrhem na stažení projektu.
+
+Vítězné projekty, které byly navrženy zastupiteli MČ nebo MMB v jednotlivých ročnících PARO:
+
+    •   2024    3 projekty
+    •   2023    žádný projekt
+    •   2022    1 projekt
+    •   2020    3 projekty
+    •   2019    žádný projekt
+    •   2018    3 projekty
+    •   2017    1 projekt
+
+
+
+Od roku 2017 do roku 2024 obyvatelé Brna navrhli 1061 projektů, které prošly formální kontrolou, a do
+celoměstského hlasování se zapojilo 128 697 Brňanů. Díky participativnímu rozpočtu Dáme na vás
+se podařilo zrealizovat 54 projektů za celkovou částku 121 mil. korun a dalších 23 projektů za 84 milionů je
+v realizaci.
+
+Materiál byl projednán a schválen na Poradě vedení dne 5. 2. 2025.
+
+
+
+
+                                                                                                    Strana 3 / 16
+         STATUTÁRNÍ MĚSTO BRNO
+
+
+
+
+ZÁSADY PARTICIPATIVNÍHO ROZPOČTU
+    STATUTÁRNÍHO MĚSTA BRNA
+
+
+
+
+                                   Strana 4 / 16
+1. POJMY
+
+ 1. Participativní rozpočet je proces, ve kterém je občanům města Brna umožněno rozhodovat o části
+     rozpočtu města Brna.
+ 2. Občan města Brna je fyzická osoba, která má trvalý pobyt v Brně a dosáhla věku 18 let.
+ 3. Obyvatel města Brna je fyzická osoba starší 15 let, která se v Brně zdržuje.
+ 4. Město je pro účely těchto Zásad statutární město Brno, jeho městské části a obchodní společnosti
+     zařazené v Koncernu Brno (dále jen „obchodní společnosti“).
+ 5. Majetek města je pro účely těchto Zásad majetek ve vlastnictví statutárního města Brna, jeho městských
+     částí a obchodních společností.
+ 6. Projekt je investiční či neinvestiční akce realizovaná na území a majetku města:
+           a. investiční projekt – je zaměřen zejména na pořízení hmotného i nehmotného majetku. Investiční
+              neboli „tvrdý“ projekt zahrnuje jak náklady na jeho pořízení, tak i provozní náklady po dobu 3 let.
+              Provozní náklady není možné využít k jinému účelu.
+           b. neinvestiční projekt – je zaměřen na tzv. „měkké“ aktivity, při kterých nedochází k pořizování,
+              budování nebo rekonstrukcím majetku města. Náklady neinvestičního projektu jsou určeny
+              pouze na jeho realizaci.
+ 7. Odbor participace Magistrátu města Brna (dále jen „PARO“) – do jeho kompetence spadá koordinace
+     celého procesu participativního rozpočtu včetně dohledu nad realizací projektu a následná kontrola.
+ 8. Realizátor projektu je PARO, popřípadě jiný subjekt, který byl pověřen realizací projektu Radou města Brna
+     (dále jen „RMB“) na základě doporučení PARO.
+ 9. Správce projektu zajišťuje u investičních projektů provoz majetku, jenž je výstupem zrealizovaného
+     projektu, jeho údržbu a případné opravy.
+ 10. Navrhovatel projektu je obyvatel města, který návrh projektu podal.
+ 11. Výzva je dokument schválený RMB obsahující základní informace k zahajovanému ročníku participativního
+     rozpočtu.
+
+
+2. PRŮBĚH PROCESU
+
+  1. Participativní rozpočet se skládá z několika navazujících a pravidelně se opakujících fází:
+           a. zahájení ročníku RMB,
+           b. podávání návrhů projektů obyvateli,
+           c. posuzování proveditelnosti projektů,
+           d. hlasování občanů,
+           e. realizace projektů.
+  2. Termíny pro jednotlivé fáze participativního rozpočtu stanovuje RMB v souladu s článkem 3 těchto Zásad.
+
+
+3. ROČNÍKY
+
+  1. Participativní rozpočet probíhá v jednotlivých ročnících.
+  2. Každý ročník zahajuje RMB schválením Výzvy, která obsahuje především:
+            a. objem finančních prostředků vyčleněných z rozpočtu města,
+            b. tematické okruhy pro projekty,
+            c. harmonogram participativního rozpočtu.
+
+
+4. PODÁVÁNÍ NÁVRHŮ PROJEKTŮ
+
+ 1. Navrhovat projekty může obyvatel města Brna starší 15 let. V případě, že navrhovatel bude v době podání
+    projektu členem zastupitelstva městské části Brna nebo členem Zastupitelstva města Brna, může RMB
+    rozhodnout o stažení tohoto projektu ve fázi posuzování.
+
+
+
+
+                                                                                                             Strana 5 / 16
+ 2. Každý obyvatel města může podat návrh na nejvýše pět projektů.
+ 3. Projekt musí obsahovat minimálně tyto informace:
+         a. název projektu,
+         b. popis návrhu projektu a stručné shrnutí,
+         c. veřejný přínos projektu,
+         d. umístění projektu (nebo informaci o jeho nevázanosti na místo),
+         e. předpokládaná finanční náročnost,
+         f. kontakt na navrhovatele,
+         g. tematický okruh projektu.
+ 4. Kontakty pro podávání projektů budou uvedeny ve Výzvě vydané RMB.
+
+
+5. VHODNÉ PROJEKTY
+
+ 1. Podané projekty musí vyhovět následujícím omezením:
+         a. projekt je veřejně prospěšný,
+         b. doba přípravy projektu by neměla přesáhnout 24 měsíců,
+         c. doba fyzické realizace projektu by neměla překročit 12 měsíců,
+         d. město má kompetenci projekt realizovat,
+         e. projekt musí být na majetku a území města,
+         f. celkové předpokládané náklady na realizaci projektu včetně jeho provozních nákladů po dobu
+             3 let nepřekračují 5 mil. Kč (včetně DPH),
+              i. do návrhu rozpočtu projektu musí být zahrnuty veškeré (investiční i provozní) výdaje projektu,
+                 bez ohledu na případné příjmy,
+             ii. veškeré příjmy generované projektem budou náležet do rozpočtu realizátora/správce
+                 (města),
+            iii. finanční prostředky alokované na projekty participativního rozpočtu nesmí být použity
+                 k jinému účelu,
+         g. projekt nesměřuje do bytového fondu města,
+         h. projekt nesmí propagovat produkty, služby, činnosti či stanoviska subjektů komerčního
+             i nekomerčního charakteru, zejména náboženského či politického,
+         i. cílem projektu nesmí být přímé poskytování finančních prostředků (například formou dotací,
+             výher či darů),
+         j. u investičních projektů, které nejsou vázány na jedno konkrétní místo, ale mají být realizovány
+             na území více městských částí, je nutný souhlas všech městských částí, do jejichž území realizace
+             projektu zasahuje,
+         k. u investičních projektů, které nejsou vázány na jedno konkrétní místo, ale mají být realizovány
+             na majetku více městských společností, je nutný souhlas všech městských společností, do jejichž
+             majetku realizace projektu zasahuje,
+         l. projekty, které nejsou vázány na konkrétní místo ani městské části a mají tzv. celoměstský
+             charakter budou předloženy RMB,
+         m. projektem není – návrh na změnu legislativy, návrh na zavedení, změnu či rušení regulačního
+             omezení (zákazy, dopravní značky), materiál předkládaný orgánům města ke schválení apod.,
+         n. projekty, které budou shledány rasistickými, hanlivými, sexistickými apod. budou označeny jako
+             nevhodné,
+         o. projekty, které byly označeny jako nevhodné, jsou uvedeny na webových stránkách
+             participativního rozpočtu.
+ 2. Na provozních výdajích se může finančně podílet městská část nebo obchodní společnost:
+         a. zapojení městské části nebo obchodní společnosti musí být uvedeno navrhovatelem v návrhu
+             projektu,
+         b. závazné stanovisko městské části nebo obchodní společnosti o finanční účasti na provozních
+             výdajích musí být vydáno před ukončením posuzování proveditelnosti projektu,
+         c. případné poskytnuté prostředky se nezapočítávají do limitu dle článku 5. odst. 1 bodu f. těchto
+             Zásad.
+
+
+
+
+                                                                                                           Strana 6 / 16
+6. POSOUZENÍ PROVEDITELNOSTI PROJEKTU
+ 1. U každého podaného návrhu projektu bude městem posouzena jeho proveditelnost, a to především se
+    zřetelem na:
+          a. formální náležitosti projektu (k tomu blíže článek 4 odst. 2 těchto Zásad),
+          b. soulad projektu s požadavky stanovenými v těchto Zásadách pro vhodné projekty,
+          c. přiměřenost předpokládaných nákladů projektu,
+          d. přiměřenost předpokládané časové náročnosti projektu,
+          e. skutečnost, zda projekt není v rozporu s plánovanými investičními či neinvestičními akcemi
+             města,
+          f. soulad se zákony, jinými právními předpisy a s veřejným zájmem.
+ 2. Proveditelnost projektu je podmíněna souhlasem městské části, na jejímž území má být projekt
+    realizován, o který žádá PARO.
+ 3. V případech, kdy projekt zasahuje do majetku obchodní společnosti, je vyžadován také souhlas příslušné
+    obchodní společnosti s realizací projektu, o který žádá PARO.
+ 4. Navrhovatel projektu bude vyrozuměn, zda je jím navržený projekt:
+          a. proveditelný, či
+          b. neproveditelný.
+ 5. Navrhovatel bude průběžně informován ze strany PARO o stavu posuzování jeho projektu.
+ 6. Ve fázi podávání a posuzování projektů bude mít navrhovatel možnost provést dílčí úpravy, zejména aby
+    vyhověl požadavkům na proveditelnost.
+ 7. Do hlasování postupují pouze proveditelné projekty, které prošly posouzením.
+
+
+7. HLASOVÁNÍ
+ 1. Hlasovat může každý občan města.
+ 2. Termín pro zahájení a ukončení hlasování vyhlašuje RMB ve Výzvě.
+ 3. Hlasování probíhá následujícími způsoby:
+          a. v elektronické podobě na webových stránkách,
+          b. osobně na veřejných setkáních nebo na PARO.
+ 4. Každý občan může využít obě z výše uvedených možností, v případě pochybností o platnosti
+    elektronického hlasování je závazné osobní hlasování.
+ 5. Podporu projektu občan vyjadřuje kladnými hlasy, kterých má k dispozici 5 (z toho maximálně dva na
+    jeden projekt).
+ 6. Nesouhlas s projektem občan vyjadřuje zápornými hlasy, které má 2 (z toho maximálně jeden na projekt).
+ 7. Počet kladných i záporných hlasů pro jednotlivé projekty, včetně jejich pořadí bude průběžně zveřejňován
+    na webových stránkách paro.damenavas.cz.
+ 8. Hlasování je tajné.
+ 9. Platná budou ta hlasování, která budou v souladu s těmito Zásadami.
+
+
+8. VÝBĚR PROJEKTŮ K REALIZACI
+ 1. Po ukončení hlasování budou sečteny všechny platné kladné hlasy.
+ 2. Projekty, pro které bude hlasovat více občanů záporně než kladně, nebudou zahrnuty.
+ 3. Projekty budou seřazeny dle počtu dosažených kladných hlasů, v případě shody rozhodují doplňující
+    kritéria v následujícím pořadí: počet záporných hlasů, počet hlasujících.
+ 4. Projekty budou dle dosaženého pořadí zařazovány do seznamu vítězných projektů, a to až do vyčerpání
+    finanční částky na příslušný ročník participativního rozpočtu určené ve Výzvě.
+ 5. Vítězné projekty se stanou součástí návrhu rozpočtu města na následující rok.
+ 6. Výsledky hlasování a vítězné projekty budou zveřejněny.
+
+
+
+
+                                                                                                        Strana 7 / 16
+9. REALIZACE PROJEKTŮ
+  1. Realizace vítězných projektů bude financována a realizována městem.
+  2. Realizátorem je PARO, popřípadě jiný subjekt, který byl pověřen realizací projektu RMB na základě
+      doporučení PARO.
+  3. Pokud skutečné náklady na realizaci projektu překročí předpokládanou částku o maximálně 20 %
+      z celkové ceny na daný projekt, budou městem dofinancovány. Při vyšším překročení bude ze strany
+      PARO předložen do RMB materiál obsahující možné následné postupy.
+  4. Pokud skutečné náklady nedosáhnou předpokládané částky, zůstane úspora PARO.
+  5. Pokud jsou dva nebo více vítězných projektů neslučitelné (místně nebo časově) je realizován ten s větším
+      počtem hlasů.
+  6. Pokud dojde zásahem vyšší moci k prodloužení realizace projektu nad 12 měsíců, bude projekt dokončen.
+  7. Pokud dojde zásahem vyšší moci k nerealizovatelnosti projektu, nebude projekt dokončen.
+  8. Na realizaci projektu není právní nárok.
+  9. Průběh realizace bude zveřejňován na webových stránkách paro.damenavas.cz.
+  10. Projekty realizované v rámci participativního rozpočtu budou viditelně označeny logem Dáme na vás.
+
+
+10. SETKÁNÍ S VEŘEJNOSTÍ
+  1. V průběhu procesu participativního rozpočtu probíhají veřejná setkání s obyvateli města Brna.
+  2. Setkání jsou svolávána prostřednictvím PARO s dostatečným časovým předstihem.
+
+
+11. ODBOR PARTICIPACE
+  1. O průběh participativního rozpočtu se starají pracovníci Magistrátu města Brna zařazení v PARO.
+  2. PARO se věnuje zejména:
+          a. komunikaci s obyvateli, občany a navrhovateli projektů,
+          b. spolupráci na tvorbě a realizaci komunikační kampaně participativního rozpočtu,
+          c. navrhování termínů zahájení a ukončení jednotlivých fází participativního rozpočtu,
+          d. posuzování proveditelnosti projektů včetně komunikace s městskými částmi, volenými orgány
+             města Brna a dalšími subjekty města,
+          e. zveřejňování podaných projektů, výsledků hlasování, průběhu realizace projektů,
+          f. realizaci projektů.
+  3. PARO provádí formální kontrolu navržených projektů a spolupracuje s navrhovateli při odstranění jejich
+     nedostatků.
+
+
+12. INFORMOVANOST
+  1. Informování veřejnosti probíhá průběžně ve všech fázích procesu.
+  2. Město využívá všechny vhodné dostupné komunikační kanály, zejména pak:
+           a. webové stránky participativního rozpočtu,
+           b. sociální sítě,
+           c. tištěná média, letáky,
+           d. kontaktní místa a kampaň ve veřejném prostoru.
+  3. Informace o časovém harmonogramu, setkáních, hlasování, projektech a průběhu jejich realizace jsou
+     zveřejňovány na webových stránkách participativního rozpočtu.
+
+
+
+
+                                                                                                         Strana 8 / 16
+13. VYHODNOCENÍ PROCESU PARTICIPATIVNÍHO ROZPOČTU
+ 1. Celý proces participativního rozpočtu bude pravidelně vyhodnocován a zlepšován.
+ 2. Hodnotit se bude především:
+          a. dostupnost procesu pro veřejnost,
+          b. splnění cílů komunikační kampaně participativního rozpočtu,
+          c. kvalita uskutečněných setkání,
+          d. zatížení úřadu,
+          e. úspěšnost realizace projektů.
+
+
+ZÁVĚREČNÁ USTANOVENÍ
+ 1. Toto aktualizované znění Zásad bylo schváleno Zastupitelstvem města Brna dne xx. xx. 2025 na jeho xx/xx
+    zasedání a nabývá účinnosti dne xx. xx. 2025.
+
+
+
+
+                                                                                                       Strana 9 / 16
+          STATUTÁRNÍ MĚSTO BRNO
+
+
+
+
+METODIKA PARTICIPATIVNÍHO ROZPOČTU
+    STATUTÁRNÍHO MĚSTA BRNA
+
+
+
+
+                                     Strana 10 / 16
+1. ÚVODNÍ USTANOVENÍ
+   1. Metodika participativního rozpočtu statutárního města Brna (dále jen „Metodika“) upravuje role,
+      postupy, práva a povinnosti jednotlivých subjektů města, které do procesu participativního rozpočtu
+      vstupují.
+   2. Pro účely této Metodiky se za subjekt považují také útvary Magistrátu města Brna (dále jen „MMB“).
+   3. Metodika je závazná pro útvary Magistrátu města Brna, městské části statutárního města Brna (dále
+      jen „městské části“), příspěvkové organizace a společnosti zařazené v Koncernu Brno.
+   4. Město je pro účely této Metodiky statutární město Brno, jeho městské části a obchodní společnosti
+      zařazené v Koncernu Brno.
+   5. Majetek města je pro účely této metodiky majetek ve vlastnictví statutárního města Brna, jeho
+      městských částí a obchodních společností zařazených v Koncernu Brno.
+   6. Městskou společností je pro účely této metodiky obchodní společnost zařazená v Koncernu Brno.
+   7. Metodika nepodléhá Metodice investičního procesu MMB.
+
+
+2. POJMY
+   1. Participativní rozpočet je proces, v rámci kterého je občanům města Brna umožněno rozhodovat
+      o části rozpočtu.
+   2. Občan města je fyzická osoba, která má trvalý pobyt v Brně a dosáhla věku 18 let.
+   3. Obyvatel města je fyzická osoba starší 15 let, která se v Brně zdržuje.
+   4. Projekt je investiční či neinvestiční akce realizovaná na území a majetku města:
+         a. investiční projekt – je zaměřen zejména na pořízení hmotného i nehmotného majetku.
+             Investiční neboli „tvrdý“ projekt zahrnuje jak náklady na jeho pořízení, tak i provozní náklady
+             po dobu 3 let. Provozní náklady není možné využít k jinému účelu.
+         b. neinvestiční projekt – je zaměřen na tzv. „měkké“ aktivity, při kterých nedochází k pořizování,
+             budování nebo rekonstrukcím majetku města. Náklady neinvestičního projektu jsou určeny
+             pouze na jeho realizaci.
+   5. Odbor participace MMB (dále jen „PARO“) – do jeho kompetence spadá koordinace celého procesu
+      participativního rozpočtu včetně dohledu nad realizací projektu a následná kontrola.
+   6. Realizátor projektu je PARO, popřípadě jiný subjekt, který byl pověřen realizací projektu Radou města
+      Brna (dále jen „RMB“) na základě doporučení PARO.
+   7. Správce projektu zajišťuje u investičních projektů provoz majetku, jenž je výstupem zrealizovaného
+      projektu, jeho údržbu a případné opravy.
+   8. Navrhovatel projektu je obyvatel města starší 15 let, který návrh projektu podal a zároveň není v době
+      podání projektu členem zastupitelstva městské části Brna nebo členem Zastupitelstva města Brna.
+   9. Výzva participativního rozpočtu statutárního města Brna (dále jen „Výzva“) je dokument schválený
+      RMB obsahující základní informace k zahajovanému ročníku participativního rozpočtu.
+
+
+3. SUBJEKTY A JEJICH ROLE
+   1. PARO:
+        a. řídí celou agendu participativního rozpočtu,
+        b. propojuje jednotlivé fáze participativního rozpočtu,
+        c. předává informace mezi všemi subjekty,
+        d. zodpovídá za komunikaci s veřejností,
+        e. provádí formální kontrolu, kontrolu vhodnosti projektu a souladu s Výzvou,
+        f. vyhodnocuje hlasování,
+        g. provádí vyhodnocení uplynulých ročníků participativního rozpočtu,
+        h. řídí činnost Stálé pracovní skupiny (dále jen „SPS“), vede zápisy z jednání a evidenci stavu
+           posuzování,
+        i. realizuje vítězné projekty, neurčí-li RMB jinak.
+   2. SPS:
+        a. je jmenována RMB a skládá se ze zaměstnanců města,
+        b. provádí prvotní zhodnocení projektů,
+
+
+
+
+                                                                                                        Strana 11 / 16
+              c. určuje, které subjekty města budou zpracovávat odborná posouzení,
+              d. doporučuje vhodné realizátory,
+              e. doporučuje vhodné správce projektů,
+              f. v případě sporných projektů při posuzování proveditelnosti kolektivně rozhoduje o dalším
+                  postupu,
+              g. spolupracuje s PARO na kontrole vhodnosti projektu.
+       3. Útvary MMB:
+              a. na základě požadavku PARO zpracovávají (dílčí) odborná posouzení projektů,
+              b. vyjadřují se k možnosti být realizátorem či správcem projektu,
+              c. realizují jim svěřené vítězné projekty,
+              d. spravují jim svěřené projekty.
+       4. Městské části:
+              a. na základě žádosti PARO poskytují souhlas s proveditelností projektu,
+              b. na základě vlastní žádosti mohou být určeny jako realizátor projektu,
+              c. na základě souhlasu rady příslušné městské části spravují projekty na svém území.
+       5. Městské společnosti:
+              a. na základě žádosti PARO poskytují souhlas s proveditelností projektu,
+              b. na základě vlastní žádosti mohou být určeny jako realizátor projektu,
+              c. spravují jim svěřené projekty.
+       6. Správce:
+              a. zajišťuje u investičních projektů provoz majetku, jenž je výstupem zrealizovaného projektu, jeho
+                  údržbu a případné opravy.
+       7. RMB:
+              a. jmenuje SPS,
+              b. schvaluje Výzvu pro daný ročník.
+              c. při překročení nákladů na realizaci projektu o více než 20 % z celkové navržené ceny doporučuje
+                  RMB možné následné postupy, předložené PARO.
+       8. Zastupitelstvo města Brna:
+              a. schvaluje zařazení vítězných projektů do rozpočtu,
+       9. Odbor rozpočtu a financování MMB (dále jen „ORF“):
+              a. spolupracuje při zařazování finančních prostředků do rozpočtu,
+              b. spolu s realizátorem a správcem sleduje čerpání prostředků na jednotlivé projekty.
+       10. Tiskové středisko MMB:
+              a. spolupracuje na přípravě a realizaci komunikační kampaně.
+       11. Navrhovatelé z řad obyvatel města:
+              a. navrhují a předkládají projekty pro participativní rozpočet,
+              b. na žádost PARO opravují formální nedostatky podaných projektů, aby se projekty staly
+                  vhodnými,
+              c. na základě výstupů odborných posouzení mohou své projekty v rámci daných termínů upravit.
+       12. Příslušný člen rady, do jehož působnosti patří participativní rozpočet města Brna:
+              a. zaštiťuje celý proces participativního rozpočtu,
+              b. spolupracuje s PARO při řešení složitějších situací,
+              c. spolupracuje s PARO na návrhu Výzvy.
+
+
+4. FÁZE PROCESU PARTICIPATIVNÍHO ROZPOČTU
+4.1. ZAHÁJENÍ ROČNÍKU
+       1. Ročník je zahájen schválením Výzvy stanovující částku vyčleněnou z rozpočtu města, časový
+          harmonogram, způsob podávání projektů, oblasti projektů a další podmínky.
+       2. Výzvu schvaluje RMB.
+       3. Návrh podmínek Výzvy zpracovává PARO ve spolupráci s příslušným členem rady, do jehož působnosti
+          patří participativní rozpočet města Brna.
+
+4.2. PODÁVÁNÍ PROJEKTŮ OBYVATELI
+       1. Projekty je možné podávat prostřednictvím webových stránek paro.damenavas.cz nebo osobně
+
+
+
+
+                                                                                                             Strana 12 / 16
+         u koordinátorek participativního rozpočtu.
+      2. Všechny podané projekty jsou po formální kontrole zpřístupněny členům SPS.
+
+4.3. POSUZOVÁNÍ PROVEDITELNOSTI PROJEKTŮ
+        4.3.1. FORMÁLNÍ KONTROLA
+        1. Je uskutečňována PARO.
+        2. Spočívá v prověření, zda podaný projekt obsahuje všechny předepsané náležitosti a zda projekt není
+           ve zřejmém rozporu s právními předpisy.
+        3. Po úspěšné formální kontrole projekt postupuje k dalšímu posouzení.
+
+        4.3.2. KONTROLA VHODNOSTI PROJEKTU A SOULADU S VÝZVOU
+        1. Je uskutečňována PARO ve spolupráci se SPS.
+        2. Spočívá v prověření, zda podaný projekt splňuje požadavky uvedené v Zásadách na vhodné projekty
+           participativního rozpočtu a Výzvě.
+        3. Po úspěšné kontrole je projekt zveřejněn a postupuje k prvotnímu zhodnocení.
+        4. Informace o projektu, který neprošel kontrolou, bude zveřejněna na webových stránkách
+           participativního rozpočtu.
+
+        4.3.3. PRVOTNÍ ZHODNOCENÍ
+        1. Je prováděné SPS.
+        2. Spočívá v prvotním kvalifikovaném odhadu, zda je projekt alespoň teoreticky realizovatelný.
+        3. SPS určí útvary způsobilé k dílčím odborným posouzením.
+        4. SPS doporučí realizátora a správce majetku.
+        5. Výběr posuzovatelů je zveřejněn na webových stránkách participativního rozpočtu.
+
+        4.3.4. ODBORNÉ POSOUZENÍ
+        1. Je uskutečňováno útvary MMB.
+        2. Je zahájeno, jakmile je projekt podaný.
+        3. Oslovené útvary posuzují projekt v oblasti své kompetence dle žádosti PARO.
+        4. Posouzení spočívá v kvalifikovaném odhadu, zda je projekt v předložené podobě proveditelný.
+        5. Posuzováno je zejména:
+                a. ověření majetkoprávních poměrů,
+                b. prověření možných kolidujících aktivit města,
+                c. prověření právních a technických aspektů realizace projektu,
+                d. prověření souladu s územním plánem a územním rozvojem města,
+                e. prověření předpokládaných nákladů projektu,
+                f. určení případných rizikových faktorů a omezujících podmínek realizace projektu.
+        6. Výstupem odborného posouzení je sdělení, zda je projekt proveditelný či neproveditelný.
+        7. Posouzení obsahuje zdůvodnění, návrh na úpravu či doplnění, popřípadě i popis doporučení k fázi
+            realizace.
+        8. Posouzení je provedeno bez zbytečného odkladu.
+        9. Projekt, který byl navržen na tzv. zbytný majetek je vhodný, nestanoví-li RMB v rámci posuzování
+            jinak.
+        10. Požadavky na výstupy jiných subjektů města (útvarů, městských částí, …) si útvary MMB vyžádají ve
+            spolupráci s PARO.
+        11. Dílčí výstupy posouzení jsou zveřejňovány na webových stránkách participativního rozpočtu.
+
+      4.3.5. VYJÁDŘENÍ MĚSTSKÉ ČÁSTI
+        1. Je uskutečňováno městskou částí, na jejímž území se projekt nachází.
+        2. Probíhá souběžně s odborným posouzením.
+        3. Spočívá ve vyslovení souhlasu či nesouhlasu městské části s projektem.
+        4. Součástí negativního vyjádření by mělo být i jeho zdůvodnění.
+        5. Může obsahovat i vyjádření k případné roli realizátora, správce či finanční účasti na provozních
+            výdajích.
+        6. V případě neudělení souhlasu do termínu ukončení posuzování je projekt neproveditelný.
+        7. Vyjádření městské části je zveřejněno na webových stránkách participativního rozpočtu.
+
+
+
+
+                                                                                                         Strana 13 / 16
+      4.3.6. VYJÁDŘENÍ MĚSTSKÉ SPOLEČNOSTI
+        1. Je uskutečňováno městskou společností, na jejímž majetku se projekt nachází.
+        2. Probíhá souběžně s odborným posouzením.
+        3. Spočívá ve vyslovení souhlasu či nesouhlasu městské společnosti s projektem.
+        4. Součástí negativního vyjádření by mělo být i jeho zdůvodnění.
+        5. Může obsahovat i vyjádření k případné roli realizátora, správce či finanční účasti na provozních
+            výdajích.
+        6. V případě neudělení souhlasu do termínu ukončení posuzování je projekt neproveditelný.
+        7. Vyjádření městské společnosti je zveřejněno na webových stránkách participativního rozpočtu.
+
+      4.3.7. VYHODNOCENÍ PROVEDITELNOSTI
+        1. Jako proveditelné jsou vyhodnoceny pouze ty projekty, které do termínu ukončení posuzování
+            úspěšně prošly všemi fázemi hodnocení.
+        2. Seznam všech proveditelných projektů bude předložen RMB před hlasováním o projektech, a to
+            včetně tzv. celoměstských projektů.
+        3. Výsledky vyhodnocení proveditelnosti jsou průběžně zveřejňovány na webových stránkách
+            participativního rozpočtu.
+        4. Proveditelné projekty postupují do hlasování.
+
+      4.3.8. PŘERUŠENÍ/UKONČENÍ VYHODNOCENÍ PROVEDITELNOSTI
+        1. V případě, že některý z posuzujících útvarů vydá nezvratné negativní stanovisko, může být další
+            vyhodnocování na základě pokynu SPS pozastaveno nebo ukončeno.
+        2. Rozhodnutí o přerušení/ukončení posuzování je zveřejněno na webových stránkách participativního
+            rozpočtu.
+
+4.4. VYHODNOCENÍ HLASOVÁNÍ
+       1. Spočívá ve vyhodnocení pořadí projektů a stanovení vítězných projektů algoritmem dle této Metodiky
+          a Výzvy (tedy označování vítězných projektů dle dosaženého pořadí až do okamžiku, kdy následuje
+          první projekt, který nelze plně finančně pokrýt).
+       2. Pořadí projektů je zveřejněno a vítězné projekty jsou označeny na webových stránkách
+          participativního rozpočtu.
+
+4.5. REALIZACE PROJEKTŮ
+       1. Vítězné projekty jsou přiděleny jednotlivým realizátorům.
+       2. Realizátor projektu je PARO, popřípadě jiný subjekt, který byl pověřen realizací projektu RMB na
+           základě doporučení PARO nebo SPS.
+       3. Průběh realizace je zveřejňován na webových stránkách participativního rozpočtu.
+       4. Finanční prostředky na realizaci jsou hrazeny z prostředků PARO a jsou zařazovány do rozpočtu ve
+           spolupráci s ORF.
+
+4.6. VEŘEJNÁ SETKÁNÍ
+       1. Probíhají v průběhu celého procesu participativního rozpočtu podle schváleného harmonogramu.
+       2. Veřejná setkání připravuje a organizuje PARO, ve spolupráci s příslušným členem rady, do jehož
+          působnosti patří participativní rozpočet města Brna.
+
+4.7. VYHODNOCENÍ ROČNÍKU
+       1. Je prováděno PARO.
+       2. Spočívá v základní rekapitulaci průběhu ročníku (počtu navržených a vítězných projektů, počtu
+          zapojených obyvatel a občanů města, …).
+
+
+5. REALIZACE A SPRÁVA PROJEKTŮ (mimo PARO)
+5.1. REALIZÁTOR PROJEKTU
+       1. V případě, že realizátorem není PARO, je určený subjekt povinen dodržovat zejména článek 5. této
+
+
+
+
+                                                                                                        Strana 14 / 16
+         Metodiky.
+      2. Realizátor projektu zodpovídá v souladu s Výzvou a touto Metodikou za kompletní realizaci vítězného
+         projektu a je povinen spolupracovat s PARO. Do jeho kompetence spadá zejména:
+            a. přípravná fáze projektu,
+            b. výběr zhotovitele v souladu s právními předpisy, zákony České republiky a přiměřeně interními
+                normativními akty Magistrátu města Brna,
+            c. spolupráce s úřady, zejména na zajišťování potřebných stanovisek a povolení,
+            d. komunikace s navrhovatelem projektu.
+      3. Realizátor zajistí vyvedení do majetku města a předání hotového díla správci.
+      4. Realizátor je povinen za účelem ověřování plnění povinností vztahujících se k danému projektu
+         uchovávat podklady (v originálech) způsobem dle zákona č. 563/1991 Sb., o účetnictví, ve znění
+         pozdějších předpisů, a to minimálně po dobu 10 let, která počíná běžet prvním dnem kalendářního
+         roku následujícího po kalendářním roce, ve kterém byla provedena poslední platba za daný projekt.
+      5. V případě nedodržování této Metodiky ze strany realizátora předloží PARO orgánům statutárního
+         města Brna návrh na změnu realizátora.
+
+5.2. ŽÁDOST O REALIZACI PROJEKTU
+       1. V případě zájmu o realizaci zašle daný subjekt bez odkladu žádost PARO.
+       2. Žádost musí obsahovat:
+             a. časový harmonogram realizace projektu,
+             b. zdůvodnění převzetí realizace projektu,
+             c. kontaktní údaje na osobu zodpovědnou za realizaci (zpravidla investiční manažer).
+       3. Časový harmonogram realizace projektu musí obsahovat:
+             a. termíny zahájení výběrových řízení,
+             b. termín vyhotovení projektové dokumentace, je-li třeba,
+             c. předpokládanou dobu přípravy projektu, která by neměla překročit 24 měsíců,
+             d. dobu fyzické realizace projektu, která by neměla překročit 12 měsíců.
+       4. Na základě předložené a ze strany PARO schválené žádosti doporučí PARO RMB pověřit daný subjekt
+          realizací projektu.
+       5. Realizátor má povinnost písemně nebo e-mailem informovat PARO v případě jakýchkoliv změn údajů
+          uvedených v žádosti.
+
+5.3. PRŮBĚH REALIZACE
+       1. Realizátor zahájí práce na projektu bezodkladně a v souladu s navrženým harmonogramem.
+       2. Před vyhlášením výběrového řízení podléhá příslušná zadávací dokumentace odsouhlasení ze strany
+          PARO.
+       3. V případě, že je vyhotovena projektová dokumentace, předá realizátor vždy jedno její vyhotovení
+          PARO. Projektovou dokumentaci zasílá realizátor PARO k připomínkám.
+       4. Realizátor má povinnost PARO písemně nebo e-mailem informovat o kontrolních dnech, jsou-li
+          s ohledem na povahu projektu konány, a to minimálně 3 pracovní dny před konáním kontrolního dne.
+          Kontrolní den probíhá zpravidla za přítomnosti vedoucího PARO nebo jím pověřeného zaměstnance
+          PARO a rozumí se jím osobní setkání za účelem kontroly průběhu realizace projektu.
+       5. Účast zaměstnanců PARO na kontrolních dnech musí být realizátorem uvedena ve smlouvě se
+          zhotovitelem.
+       6. U ostatních dokumentů realizátor pořídí kopii, nejsou-li v elektronické verzi. Rozsah dokladů je
+          přiměřený rozsahu a charakteru díla. Jedná se například o tyto dokumenty:
+             a. zadávací dokumentace, protokoly o průzkumu trhu,
+             b. veškeré smlouvy a objednávky,
+             c. zákresy v katastrální mapě,
+             d. kopie usnesení orgánů města anebo městských částí,
+             e. závěrečný předávací protokol včetně soupisu vad a nedodělků ke dni převzetí díla, včetně
+                 termínů jejich odstranění,
+             f. projekt skutečného provedení stavby včetně seznamu dokumentace,
+             g. geodetické zaměření skutečného provedení stavby,
+             h. atesty, certifikáty, prohlášení o shodě, záruční listy,
+             i. protokoly o provedených zkouškách a revizích,
+
+
+
+
+                                                                                                        Strana 15 / 16
+              j. písemné záznamy o zaškolení obsluhy,
+              k. manipulační a provozní řády, návody k obsluze,
+              l. doklady o odvozu a likvidaci odpadů,
+              m. kopie stavebního/montážního deníku.
+      7. Kopie výše uvedených dokumentů odevzdá realizátor PARO, případně je odešle v elektronické verzi,
+          a to nejpozději 15. den po předání díla.
+      8. Realizátor má dále povinnost bezodkladně informovat PARO v případě, že se projekt bude lišit od
+          původně schváleného návrhu nebo projektové dokumentace, a tuto skutečnost odůvodnit.
+      9. Změny v projektové dokumentaci nebo realizaci projektu je nutné písemně odsouhlasit ze strany
+          PARO.
+      10. Při zadávání zakázky nebo provádění průzkumu trhu na zpracování projektové dokumentace musí být
+          dodržen maximální finanční limit projektu, tj. částka určená na realizaci projektu. Tento limit
+          nezahrnuje částku určenou na udržitelnost.
+      11. V případě potřeby navýšení investičních či neinvestičních nákladů na realizaci projektu upozorní
+          bezodkladně realizátor na tuto skutečnost PARO a požádá o navýšení, včetně zdůvodnění. K navýšení
+          může dojít pouze do výše 20 % od původně navrženého rozpočtu, při překročení o více jak 20 % bude
+          ze strany PARO předložen do RMB materiál obsahující možné následné postupy.
+      12. Pokud skutečné náklady nedosáhnou předpokládané částky, zůstane úspora statutárnímu městu Brnu.
+      13. Realizátor je povinen viditelně označit projekty logem Dáme na vás.
+      14. Realizátor zodpovídá za dodržování všech účinných právních předpisů, zejména zákonů České
+          republiky a technických norem.
+
+5.4. PŘEDÁNÍ DÍLA
+       1. O termínu předání díla má realizátor povinnost vyrozumět PARO.
+       2. Předání se zúčastní vedoucí PARO, případně jím pověřený zaměstnanec PARO.
+       3. O předání díla bude sepsán předávací protokol.
+       4. Součástí předávacího protokolu bude přehled konečného finančního vyúčtování, které bude
+          obsahovat soupis vydaných faktur a bude předán PARO.
+
+5.5. PRAVIDLA PRO SPRÁVCE
+       1. Zrealizované projekty mohou být svěřeny jednotlivým správcům rozhodnutím Zastupitelstva města
+          Brna (na základě doporučení RMB).
+       2. Správce je povinen jednat s péčí řádného hospodáře; řádně se o svěřený majetek starat, opravovat ho
+          a udržovat stále v provozu.
+       3. Provoz a údržba je po první 3 roky udržitelnosti projektu financována z rozpočtu PARO, popř. městské
+          části nebo městské společnosti, a v následujících letech přechází tato povinnost financování na
+          správce.
+       4. Do uplynutí doby udržitelnosti projektu je správce povinen spolupracovat s PARO.
+
+
+ZÁVĚREČNÁ USTANOVENÍ
+      1. Toto aktualizované znění Metodiky bylo schváleno Zastupitelstvem města Brna dne xx. xx. 2025 na
+         jeho xx/xx zasedání a nabývá účinnosti dne xx. xx. 2025.
+
+
+
+
+                                                                                                          Strana 16 / 16
+

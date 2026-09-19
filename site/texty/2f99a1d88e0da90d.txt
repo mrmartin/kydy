@@ -1,0 +1,1028 @@
+Rada města Brna
+
+Z9/22. zasedání Zastupitelstva města Brna
+konané dne 10.12.2024
+
+
+
+     7. Územní plán města Brna – návrh na vydání formou opatření
+                           obecné povahy
+
+Anotace
+Odbor územního plánování a rozvoje MMB předkládá materiál týkající se vydání nového ÚPmB formou
+opatření obecné povahy samosprávným orgánům města Brna k projednání. Příloha usnesení (OOP) je
+uložena na sdíleném úložišti eMMB. Pro snadnější orientaci v tomto rozsáhlém materiálu byla vytvořena
+webová stránka, která obsahuje kompletní neanonymizovaný materiál, interaktivní prohlížení a
+vyhodnocení uplatněných námitek, připomínek a dále stanovisek dotčených orgánů ze všech fází
+projednání ÚPmB. Odkaz společně s přístupovým heslem bude členům orgánů města rozeslán
+samostatným mailem. Anonymizovaná verze pro veřejnost je dostupná na Portálu územního plánování
+města Brna na adrese: https://upmb.brno.cz/pripravovany-uzemni-plan/upmb-navrh-oop-2024/ Listinná
+verze bude dostupná v zasedací místnosti RMB. Výsledky dohodovacího řízení podle Statutu města Brna
+s městskými částmi, které jsou přílohou důvodové zprávy, jsou uloženy na sdíleném úložišti eMMB.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   rozhodnutí o námitkách uplatněných k Územnímu plánu města Brna, které je
+                               součástí odůvodnění opatření obecné povahy.
+
+2. vydává                      Územní plán města Brna formou opatření obecné povahy v návaznosti na ust. § 54
+                               odst. 2 zákona č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební
+                               zákon), ve znění účinném ke dni 31.12.2023, ve spojení s § 323 odst. 9 zákona č.
+                               283/2021 Sb., stavební zákon, ve znění pozdějších předpisů, které tvoří přílohu č. ...
+                               tohoto zápisu. Ověřená příloha bude pro velký rozsah uložena na Odboru územního
+                               plánování a rozvoje MMB.
+
+
+Stanoviska
+
+Materiál byl předložen na schůzi RMB konanou dne 27.11.2024.
+
+Záznam hlasování je uveden v příloze.
+
+
+Materiál byl předložen na schůzi Komise územního plánování a rozvoje RMB konanou dne
+19.11.2024.
+
+Záznam hlasování je obsažen v příloze.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Sestava vytvořena 3.12.2024 v 14:07                           1/2                               Vygenerováno programem eMMB
+
+
+                                                                                                                Strana 1 / 18
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Viktor Poledník
+  vedoucí odboru - Odbor územního plánování a rozvoje
+  2.12.2024 v 14:35
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel                                       Spolupodepisovatel
+
+  Elektronicky podepsáno                                      Elektronicky podepsáno
+
+  Ing. arch. Petr Bořecký                                     Ing. Aleš Doležel
+  člen RMB - Člen Rady města Brna - předkladatel/ka           vedoucí úseku - 2. úsek
+  2.12.2024 v 15:05                                           2.12.2024 v 14:33
+
+
+
+
+Sestava vytvořena 3.12.2024 v 14:07                     2/2                             Vygenerováno programem eMMB
+
+
+                                                                                                        Strana 2 / 18
+                                  Obsah materiálu
+Návrh usnesení                                        1-2
+Obsah materiálu                                       3-3
+Důvodová zpráva                                      4 - 16
+Stanovisko (Hlasování RMB.pdf)                      17 - 17
+Stanovisko (Hlasování KÚPR.pdf)                     18 - 18
+
+
+
+
+                                                        Strana 3 / 18
+                                                              Důvodová zpráva
+Odbor územního plánování a rozvoje MMB (dále jen „Pořizovatel“) pro efektivnější,
+přehlednější a komfortnější seznámení se členů samosprávných orgánů města s tímto
+materiálem zpracoval nad rámec běžné důvodové zprávy obsah s prokliky na jednotlivé
+kapitoly, ve kterých jsou podrobněji vysvětleny podstatné skutečnosti a samostatné úvodní
+shrnutí s podstatnými, obecnějšími informacemi.
+
+
+1.Úvodní shrnutí.................................................................................................................................... 2
+2.Legislativní rámec pořizování nového Územního plánu města Brna ........................................ 3
+3.Postup pořízení nového Územního plánu města Brna od roku 2002 do roku 2024 ............... 3
+   Záměr (2002) ......................................................................................................................................3
+   Zadání (2007) .....................................................................................................................................3
+   Koncept (2011) ...................................................................................................................................4
+   Návrh (2020).......................................................................................................................................4
+   I. Upravený Návrh (2021) .................................................................................................................5
+   II. upravený Návrh (2021) .................................................................................................................7
+   Pokyny ZMB (2022)...........................................................................................................................8
+   Společné jednání (2024) ..................................................................................................................9
+   Veřejné projednání (2024) ................................................................................................................9
+4.Dohodovací řízení podle Statutu města Brna s městskými částmi ......................................... 11
+5.Možnosti projednání nového Územního plánu města Brna v orgánech města Brna............ 12
+   Vydat ................................................................................................................................................. 12
+   Vrátit .................................................................................................................................................. 12
+   Zamítnout ......................................................................................................................................... 12
+6.Závěr ................................................................................................................................................. 13
+
+
+
+
+                                                                   Stránka 1 z 13
+
+
+                                                                                                                                                         Strana 4 / 18
+   1. Úvodní shrnutí
+
+- Statutární město Brno, jako druhé největší město v České republice, má jeden z vůbec
+  nejstarších územních plánů z roku 1994, který již nemůže adekvátně reagovat na potřeby
+  velkoměsta v 21. století.
+
+- Od roku 2002 je proto pořizován nový Územní plán města Brna (dále jen „ÚPmB“), který je
+  aktuálně historicky nejvíce projednaným územním plánem v České republice, kdy bylo
+  všeobecnou snahou všech aktérů na straně města vyhovět maximu požadavků,
+  a dosáhnout tak stavebním zákonem kýžené shody v uspořádání území.
+
+- Důkazem naplňování tohoto cíle je postupně se snižující počet uplatněných podání,
+  kdy vůči Návrhu nového ÚPmB (dále také „Návrh“ nebo „Návrh ÚPmB“) z roku 2020 bylo
+  vzneseno 8 140 podání (čítajících 35 626 samostatných požadavků), v 06/2021 bylo
+  vzneseno 3 052 podání (čítajících cca 8 071 požadavků) a v 12/2021 bylo vzneseno pouze
+  209 podání (čítajících cca 270 požadavků). V rámci společného jednání 2024 bylo
+  uplatněno 1 042 podání (čítajících cca 3 179 požadavků) a v rámci veřejného projednání
+  2024 pak 1 043 podání (čítajících cca 3 083 požadavků).
+
+- Pokyny ZMB (2022) byly jednotlivě prověřeny a v maximální možné míře zapracovány,
+  navržené řešení odůvodněno a projednáno.
+
+- Návrh nového ÚPmB prošel znovu projednáním s dotčenými orgány, samosprávou,
+  sousedními obcemi, širokou veřejností a dalšími subjekty a navržené řešení je základním
+  kompromisem v území, které bylo po jednotlivých projednáních dohodnuto napříč všemi
+  zúčastněnými subjekty, dotčenými orgány, samosprávou a veřejností.
+
+- Dohodovací řízení podle Statutu města Brna s městskými částmi proběhlo na schůzi Rady
+  města Brna (dále také „RMB“) dne 25.09.2024, kdy vzala RMB připomínky městských částí
+  na vědomí a vyjádřila shodu s návrhem způsobu a výsledku zohlednění zájmů městských
+  částí na základě vyhodnocení uplatněných nesouhlasných připomínek k Návrhům nového
+  ÚPmB.
+
+- Nový ÚPmB je moderním, koncepčním, rozvojovým dokumentem, který v sobě snoubí
+  udržitelný rozvoj území, komplexní protipovodňovou ochranu obyvatel, ochranu hodnot
+  a stávající výstavby a aspekty modrozelené infrastruktury reagující na změny klimatu
+  s důrazem na vytváření předpokladů pro výsadbu nové zeleně, ochranu stávající zeleně
+  a budování veřejných prostranství na úrovni 21. století.
+
+- Nový ÚPmB je nadstandardně zpracován v tzv. jednotném standardu.
+
+- Nový ÚPmB byl nadstandardně podroben nezávislým, externím právním analýzám,
+  které shodně potvrzují jeho bezvadnost a soudní udržitelnost jako celku.
+
+- Nový ÚPmB je výsledkem práce desítek odborníků zahrnujících širokou škálu
+  autorizovaných profesí.
+
+- Celkové náklady na pořízení ÚPmB, bez započítání platů úředníků MMB, dosáhly za 22 let
+  pořizování částku 100 miliónů Kč.
+
+
+
+                                      Stránka 2 z 13
+
+
+                                                                                      Strana 5 / 18
+- Výsledný Návrh územního plánu je po 22 letech nejlepší možnou dohodnutou verzí,
+  přičemž další dílčí úpravy lze do budoucna činit dílčími změnami v souladu s platnou
+  legislativou.
+
+   2. Legislativní rámec pořizování nového Územního plánu města Brna
+
+Pořízení nového ÚPmB postupovalo nejprve dle zákona č. 50/1976 Sb., o územním plánování
+a stavebním řádu (pozbyl účinnosti dne 31.12.2006), a následně dle stavebního zákona
+č. 183/2006 Sb. (dále také „stavební zákon“), který je aktuálně aplikován na základě
+§ 323 odst. 9 zákona č. 283/2021 Sb., ve znění pozdějších předpisů (dále také „zákon
+č. 283/2021 Sb.).
+Aspekt termínu platnosti stávajícího ÚPmB je stanoven v ust. § 322 odst. 1 zákona č. 283/2021
+Sb., tj. stávající ÚPmB pozbude platnosti nejpozději dne 31.12.2028.
+
+
+
+   3. Postup pořízení nového Územního plánu města Brna od roku 2002
+      do roku 2024
+
+Záměr (2002)
+Záměr pořídit nový ÚPmB schválilo Zastupitelstvo města Brna (dále také „ZMB“) na svém
+zasedání Z3/038. konaném ve dnech 25. a 26.06.2002 usnesením č. ZM3/3430. Výběr
+zpracovatele nového ÚPmB probíhal v letech 2002 až 2004 a byl řešen formou veřejné
+obchodní soutěže na zpracovatele veřejné zakázky. Nejvýhodnější nabídku vybrala Rada
+města Brna na své R4/052. schůzi dne 12.02.2004 – zpracovatelem dokumentace se stala
+firma Arch.Design-Atelier DOS, s.r.o. V přípravné fázi, v letech 2004 a 2005, byly zpracovány
+průzkumy a rozbory, které analyzovaly stav řešeného území a detekovaly jeho problémy. Byly
+podkladem pro sestavení Zadání nového ÚPmB (dále také „Zadání“) i vlastní řešení nového
+ÚPmB.
+Zadání (2007)
+Zadání bylo zveřejněno na webové stránce města Brna a jeho projednání bylo oznámeno
+veřejnou vyhláškou od 01.09.2005 do 31.10.2005. Veřejné projednání návrhu Zadání
+se konalo 06.10.2005 (další jednání s odborným výkladem se konala také 15.09.2005
+a 22.09.2005). Dotčeným orgánům, Krajskému úřadu Jihomoravského kraje (dále
+také „krajský úřad“), městským částem a orgánům územního plánování obcí sousedních
+správních obvodů byl návrh Zadání dodán a jeho projednání oznámeno jednotlivě. Současně
+byly uspořádány prezentace s odborným výkladem v termínech 15.09.2005 a 22.09.2005.
+Krajský úřad Jihomoravského kraje, odbor životního prostředí, jako úřad příslušný k posouzení
+vlivů koncepce na životní prostředí z hlediska zákona č. 100/2001 Sb., o posuzování vlivů na
+životní prostředí a o změně některých souvisejících zákonů, ve znění pozdějších předpisů
+(dále jen „SEA“) a současně jako dotčený orgán ochrany přírody a krajiny příslušný
+k hodnocení vlivů koncepce na evropsky významné lokality a ptačí oblasti dle zákona
+č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů ve svém stanovisku
+uložil povinnost zpracovat vyhodnocení vlivů Územního plánu města Brna na životní prostředí.
+Dle výsledků projednání bylo znění dokumentu upraveno. ZMB na svém Z4/033. zasedání dne
+11.04.2006 schválilo Zadání nového ÚPmB usnesením ZM4/4521.
+Dne 19.12.2006 rozhodlo ZMB o změně již schváleného Zadání nového ÚPmB – požadavku
+uložit zpracování třetí varianty Konceptu nového ÚPmB (dále také „Koncept“), která bude řešit
+
+                                       Stránka 3 z 13
+
+
+                                                                                          Strana 6 / 18
+rozvoj města bez rychlostní komunikace R43. Proces projednání změny Zadání probíhal již dle
+nové právní úpravy, tj. dle zákona č. 183/2006 Sb., o územním plánování a stavebním řádu.
+Změna Zadání nového ÚPmB byla zveřejněna na webové stránce města a byla oznámena
+veřejnou vyhláškou vyvěšenou od 03.04.2007 do 02.05.2007. Veřejná projednání se konala
+10.04.2007, 11.04.2007 a 12.04.2007. Dotčeným orgánům, krajskému úřadu, městským
+částem a sousedním obcím bylo oznámení o veřejném projednání spolu s textem návrhu
+změny Zadání zasláno jednotlivě. Zástupci sousedních obcí byli pozváni na samostatné
+projednání, které se uskutečnilo 25.04.2007. Podle výsledků projednání byla dokumentace
+upravena. ZMB schválilo změnu Zadání nového ÚPmB na svém Z5/007 zasedání dne
+26.06.2007 usnesením ZM5/0703.
+Koncept (2011)
+Společnost Arch.Design, s.r.o., následně zpracovala Koncept nového ÚPmB ve třech
+variantách. Koncept nového ÚPmB byl vystaven k nahlédnutí od 15.11.2010 do 07.02.2011,
+s řešením se mohli všichni seznámit při neformálních besedách spojených s výkladem
+zpracovatele. Konání veřejného projednání Konceptu nového ÚPmB včetně Vyhodnocení
+vlivů na udržitelný rozvoj území bylo oznámeno veřejnou vyhláškou od 21.01.2011
+do 11.03.2011. Veřejná projednání se uskutečnila 22.02.2011 a 23.02.2011. Připomínky
+ke Konceptu bylo možné uplatnit do 10.03.2011. Dotčené orgány mohly uplatnit svá stanoviska
+do 15 dnů od veřejného projednání s možností prodloužení lhůty o 30 dnů, tzn. do 09.04.2011.
+Krajský úřad jako nadřízený orgán územního plánování dodal své stanovisko ve lhůtě 30 dnů
+ode dne veřejného projednání. Ve stanovené lhůtě doručily své připomínky také subjekty hájící
+veřejný zájem a orgány veřejné správy, které nemají v procesu pořízení územního plánu
+postavení dotčeného orgánu. V zákonné lhůtě bylo k řešení Konceptu (krom výše uvedených)
+uplatněno 2 156 námitek dotčených osob a vzneseno 500 připomínek. Koncept byl zpracován
+v souladu se Zásadami územního rozvoje Jihomoravského kraje, které byly ale zrušeny
+rozsudkem Nejvyššího správního soudu v červnu 2012. Krajský úřad jako nadřízený orgán
+územního plánování následně ve svém stanovisku ke Konceptu nového ÚPmB ze dne
+09.03.2011 sdělil, že rozhodnout o výsledné variantě Konceptu lze až po vydání Zásad
+územního rozvoje Jihomoravského kraje. A proto ZMB na svém Z6/020 zasedání dne
+11.12.2012 ve věci rozpracovaného Konceptu nového ÚPmB (usnesením ZM6/1955 v bodě
+95), schválil následující usnesení.: „ZMB bere na vědomí první verzi Návrhu 2 Pokynů
+pro zpracování Návrhu nového ÚPmB. ZMB schvaluje pozastavení procesu pořízení nového
+ÚPmB.“ Na základě metodického doporučení krajského úřadu jako nadřízeného orgánu
+územního plánování byl proces pořízení opět zahájen po rozhodnutí ZMB ze dne 18.06.2013
+(usnesení ZM6/2313, bod 140), cit.: „ZMB schvaluje pokračování v procesu pořízení nového
+Územního plánu města Brna dalšími úkony v mezích stavebního zákona.“ V souladu
+s usnesením ZMB bylo následně doplněno Vyhodnocení vlivů tří variant Konceptu nového
+ÚPmB na životní prostředí a vyhodnocení synergických a kumulativních vlivů, a zpracován
+oponentní posudek k tomuto Vyhodnocení vlivů. (Dle názoru pořizovatele žádné další úkony
+stavební zákon v té době neumožňoval.) Nové Zásady územního rozvoje Jihomoravského
+kraje nabyly účinnosti dne 03.11.2016. Pořizovatel poté dokončil vypořádání projednání
+Konceptu a pokračoval v dopracování Pokynů pro zpracování Návrhu nového ÚPmB (dále
+rovněž jako „Pokyny“.)
+Koncept ÚPmB byl posouzen z hlediska vlivů na udržitelný rozvoj území v období 2007
+až 2009. Jako nejpříznivější z hlediska udržitelného rozvoje byla vyhodnocena
+varianta II Konceptu, ke které bylo vydáno souhlasné stanovisko dle SEA. ZMB na svém Z7/40
+zasedání konaném dne 19.06.2018 přijalo následující usnesení ZM7/3871, v bodě 182,
+cit.: „ZMB schvaluje Pokyny pro zpracování Návrhu Územního plánu města Brna, které tvoří
+přílohu č. 135 těchto usnesení. Ověřená příloha je uložena pro velký rozsah na Odboru
+územního plánování a rozvoje MMB.“
+
+                                       Stránka 4 z 13
+
+
+                                                                                          Strana 7 / 18
+Návrh (2020)
+Následně došlo k výběru nového zpracovatele a Rada města Brna na své R7/182 schůzi dne
+28.08.2018 schválila smlouvu č. 4118174182 Smlouvu o vzájemné spolupráci na zpracování
+Návrhu ÚPmB uzavřenou mezi statutárním městem Brnem a Kanceláří architekta města Brna,
+p.o. (dále také „KAM“) KAM poté vypracovala dle schválených Pokynů invariantní Návrh
+nového ÚPmB a současně zajistila doplnění Vyhodnocení vlivů na udržitelný rozvoj. Kompletní
+Návrh nového ÚPmB a doplnění Vyhodnocení vlivů na udržitelný rozvoj předal zpracovatel
+pořizovateli dne 19.12.2019. Projednání Návrhu dle ustanovení § 52 a souvisejících paragrafů
+stavebního zákona zahájil pořizovatel v březnu 2020. Pro zvýšení informovanosti byla ještě
+předtím uspořádána celá řada neformálních setkání (8 v městských částech, 3 se zástupci
+politických klubů a s odbornou veřejností) a tištěná verze Návrhu ÚPmB byla vystavena
+na terase Magistrátu města Brna, na Kounicově ulici č. p. 67. Kvůli epidemii COVID-19 bylo
+veřejné projednání několikrát odsunuto – uskutečnilo se až 22.06.2020 a 23.06.2020.
+Veřejnou vyhláškou č.j. MMB/022272/2020 vyvěšenou na úřední desce města Brna
+od 21.05.2020 do 01.07.2020 byla oznámena veřejná projednání, která se uskutečnila,
+a to v pondělí 22.06.2020 a v úterý 23.06.2020 vždy od 15:00 hod kombinovanou formou,
+jak prezenčně v Kongresovém centru v areálu Veletrhy a.s., na adrese Výstaviště č.p. 405/1,
+tak distančně formou online přenosu. Obě veřejná projednání byla rovnocenná a samostatná,
+s obsahově stejným průběhem. Určený zastupitel, dotčené orgány, krajský úřad a sousední
+obce byli k veřejnému projednání přizváni jednotlivě. Stanoviska, námitky i připomínky bylo
+možné uplatnit od 24.03.2020 až do 30.06.2020. Ve stanovené lhůtě pořizovatel obdržel 14
+stanovisek dotčených orgánů, 1 koordinované stanovisko dotčených orgánů, 7 námitek
+oprávněných investorů, 6 144 námitek dotčených osob, 89 námitek zástupců veřejnosti, 33
+připomínek městských částí, 4 připomínky sousedních obcí a 1880 dalších připomínek.
+Nad zákonem stanovená veřejná projednání se Určený zastupitel, zástupci pořizovatele
+a zpracovatele účastnili neformálních prezentací územního plánu s názvem „Plán jede k vám“.
+Prezentace se konaly celkem čtyřikrát v různých částech města Brna a předcházely jim tři
+prezentace a diskuze online formou. Dále se zmíněný tým účastnil jednání zastupitelstev
+městských částí (na základě pozvání) a dalších setkání pořádaných samosprávou městských
+částí, kterých bylo celkem deset.
+Pořizovatel zaslal dne 27.10.2020 kopie stanovisek, námitek, připomínek Odboru životního
+prostření Krajského úřadu Jihomoravského kraje a vyzval jej, aby jako úřad příslušný
+k posouzení vlivů na životní prostředí doplnil své předchozí stanovisko k Vyhodnocení vlivů
+na udržitelný rozvoj území. Příslušný úřad vydal dne 05.01.2021 vyjádření, ve kterém doplnil
+své předchozí požadavky. Pořizovatel ve spolupráci s Určeným zastupitelem (a s využitím
+odborného úsudku zpracovatele) vyhodnotil výsledky projednání Návrhu nového ÚPmB,
+výsledky dohod s dotčenými orgány a vyhodnocení vlivů na udržitelný rozvoj území.
+Vyhodnocení souladu Návrhu nového ÚPmB se stanovisky dotčených orgánů, výsledky dohod
+i souhrnné informace o projednání s dotčenými orgány jsou obsaženy v textové části
+odůvodnění ÚPmB kap.14.2 Vyhodnocení souladu se stanovisky dotčených orgánů podle
+zvláštních předpisů, popřípadě s výsledkem řešení rozporů v samostatném svazku
+(viz. textová část odůvodnění ÚPmB, Příloha č. 3).
+V rámci veřejných projednání byly uplatněny námitky a připomínky veřejnosti, námitky
+oprávněných investorů či zástupců veřejnosti, připomínky okolních obcí, městských částí,
+občanských sdružení a ostatních zainteresovaných subjektů. Tyto námitky a připomínky byly
+pořizovatelem ve spolupráci s Určeným zastupitelem postupně vyhodnoceny a výsledky
+vyhodnocení byly konzultovány se zpracovatelem.
+
+
+
+                                       Stránka 5 z 13
+
+
+                                                                                         Strana 8 / 18
+I. Upravený Návrh (2021)
+Na základě usnesení Rady města Brna R8/127 ze dne 20.01.2021 a 25.01.2021 uplatnil
+Určený zastupitel RNDr. Filip Chvátal, Ph.D. u pořizovatele jednotlivá doporučení úprav
+pro řešení sporných otázek k Návrhu nového ÚPmB. Dále pak dopisem
+č.j. MMB/0207349/2021 ze dne 29.04.2021 uplatnil požadavky na prověření úprav regulace
+související s posílením ochrany zeleně a modrozelené infrastruktury v novém ÚPmB.
+V souladu s výsledky projednání pořizovatel následně zajistil u zpracovatele úpravu Návrhu
+nového ÚPmB a úpravu Vyhodnocení vlivů na základě požadavku stanoviska Odboru
+životního prostředí Krajského úřadu Jihomoravského kraje č.j. JMK 66081/2021 ze dne
+05.05.2021 dle ustanovení § 53 odst. 2 stavebního zákona.
+K podstatné úpravě Návrhu nového ÚPmB po veřejném projednání v 06/2020 došlo v obou
+výrokových (regulačních) částech Návrhu nového ÚPmB pro opakované veřejné projednání,
+tj. v textové i grafické části. Některé z těchto úprav měly dosah na celé území města Brna.
+Následkem podstatné úpravy výrokové části bylo upraveno a doplněno také Odůvodnění
+Návrhu nového ÚPmB pro opakované veřejné projednání. Odpovídající úpravu doznalo
+i Vyhodnocení vlivů na udržitelný rozvoj území. Součástí zveřejněných dokumentů byly návrhy
+čistopisů jednotlivých částí podstatně upraveného Návrhu nového ÚPmB.
+Pořizovatel s ohledem na rozsah úprav vyhodnotil jako transparentnější a procesně
+efektivnější způsob dalšího postupu pořízení projednat upravený Návrh pro opakované
+veřejné projednání v celém rozsahu dokumentace, tj. nikoli jen v rozsahu provedených
+podstatných úprav. Pro jednodušší práci s upravenou dokumentací zveřejnil aktérům
+územního plánování také tzv. „interaktivní prohlížení“, kde si každý mohl pomocí funkce
+„prolínání“ porovnat grafickou část Návrhu z roku 2020 a upraveného Návrhu z roku 2021.
+Stejně tak byly dostupné kompletní textové části, které si mohl každý porovnat a jednotlivé
+texty připomínkovat.
+Upravený Návrh Územního plánu města Brna včetně upraveného vyhodnocení vlivu
+na udržitelný rozvoj území bylo nutné ve smyslu § 53 odst. 2 stavebního zákona opakovaně
+projednat. Dne 13.05.2021 oznámil pořizovatel veřejnou vyhláškou č.j. MMB/0233240/2021
+opakovaná veřejná projednání ve dnech 21. a 22.06.2021.
+Upravený Návrh ÚPmB i upravené Vyhodnocení vlivů na udržitelný rozvoj území byly
+od 14.05.2021 vystaveny k veřejnému nahlédnutí v budově Magistrátu města Brna, Kounicova
+67 v zasedací místnosti č. 426 a elektronické verze byly dálkově dostupné na webových
+stránkách pořizovatele www.brno.cz. Oznámení (o zveřejnění dokumentace, informace
+o konání opakovaných veřejných projednání i poučení o možnosti uplatnit k návrhu stanovisko,
+námitku či připomínku) bylo doručeno veřejnou vyhláškou vyvěšenou na úřední desce města
+Brna.
+Opakovaná veřejná projednání se uskutečnila v pondělí 21.06.2021 a v úterý 22.06.2021
+od 15:00 hod kombinovanou formou, jak prezenčně v Kongresovém centru v areálu Veletrhy
+a.s., na adrese Výstaviště čp. 405/1, tak distančně formou online přenosu. Obě opakovaná
+veřejná projednání byla rovnocenná a samostatná, s obsahově stejným průběhem. Určený
+zastupitel, dotčené orgány, krajský úřad, sousední obce a oprávnění investoři byli
+k opakovaným veřejným projednáním přizváni jednotlivě. Stanoviska, námitky i připomínky
+bylo možné uplatnit od 14.05.2021 do 29.06.2021.
+Nad zákonem stanovená veřejná projednání se opět konaly neformální prezentace
+upraveného návrhu územního plánu s názvem „Plán jede k vám 2“ (pořádané celkem dvakrát)
+a účasti na zasedání zastupitelstev městských částí, ve kterých byl územní plán na programu
+jednání, kterých bylo celkem čtrnáct.
+
+                                       Stránka 6 z 13
+
+
+                                                                                         Strana 9 / 18
+Ve stanovené lhůtě pořizovatel obdržel 10 stanovisek dotčených orgánů, 9 námitek
+oprávněných investorů, 2 896 námitek dotčených osob, 47 námitek zástupců veřejnosti,
+58 námitek občanských sdružení, 28 připomínek městských částí, 4 připomínky sousedních
+obcí.
+II. upravený Návrh (2021)
+Na základě usnesení Rady města Brna R8/168 ze dne 01.09.2021 uplatnil určený zastupitel
+RNDr. Filip Chvátal, Ph.D. u pořizovatele podnět na zohlednění požadavků místních
+samospráv městských části a statutárního města Brna.
+Z uplatněných stanovisek dotčených orgánů, podnětu Určeného zastupitele a dalších,
+vyplynuly požadavky na podstatnou úpravu Návrhu ÚPmB, které vedly k postupu
+dle ustanovení § 53 odst. 2 stavebního zákona. Pořizovatel proto zajistil u zpracovatele úpravu
+Návrhu ÚPmB v souladu s výsledky projednání. Ze stanoviska Odboru životního prostředí
+Krajského úřadu Jihomoravského kraje č.j. JMK 154763/2021 ze dne 29.10.2021
+dle ustanovení § 53 odst.2 stavebního zákona vyplynulo, že upravený Návrh ÚPmB není
+nutné z hlediska vlivů na životní prostředí posuzovat; z tohoto důvodu úprava či doplnění
+Vyhodnocení vlivů nebylo zpracováno.
+Ve smyslu § 53 odst. 2 stavebního zákona byl upravený Návrh v rozsahu provedených úprav
+předmětem tzv. druhého opakovaného veřejného projednání. Rozsah podstatných úprav
+podstatně upraveného Návrhu ÚPmB pro tzv. druhé opakované veřejné projednání byl oproti
+podstatně upravenému Návrhu ÚPmB pro tzv. první opakované veřejné projednání významně
+užší.
+Pořizovatel s ohledem na významně užší rozsah úprav, jejich jednodušší identifikovatelnost
+a možnost jejich lokalizace, vyhodnotil jako se zákonem souladné a zákonem předpokládané
+řešení projednat oproti předchozímu projednání dokumentaci již jen v rozsahu provedených
+podstatných úprav. Toto řešení, mimo to, že je zákonem předpokládané, je efektivnější,
+srozumitelnější a celkově vhodnější.
+Jednotlivé podstatné úpravy byly popsány a pro identifikaci opatřeny specifickým kódem a byly
+podrobně popsány v příslušných změnových přílohách Návrhu pro tzv. druhé opakované
+veřejné projednání. Jednalo se především o úpravy v rámci grafické části lokálního charakteru
+– úpravy funkčního využití, nastavené výškové úrovně apod., v rámci textové části se jednalo
+rovněž především o úpravy s lokálním dopadem; to vše s cílem umožnit projednávání pouze
+v rozsahu podstatných úprav nemajících celoměstský dopad. Z tohoto důvodu nebyly
+kupříkladu měněny základní regulativy, ať už funkční nebo prostorové, stejně tak nedocházelo
+k podstatným úpravám v rámci jednotlivých systémů.
+Druhé opakované veřejné projednání se uskutečnilo v úterý 07.12.2021 od 15:00 hod.
+kombinovanou formou, jak prezenčně v Kongresovém centru v areálu Veletrhy a.s., na adrese
+Výstaviště č. p. 405/1, tak distančně formou online přenosu. Určený zastupitel, dotčené
+orgány, krajský úřad, sousední obce a oprávnění investoři byli k druhému opakovanému
+veřejnému projednání přizváni jednotlivě. Stanoviska, námitky i připomínky bylo možné uplatnit
+od 05.11.2021 do 14.12.2021.
+Ve stanovené lhůtě pořizovatel obdržel 6 stanovisek dotčených orgánů, 2 námitky
+oprávněných investorů, 189 námitek dotčených osob, 3 námitky zástupců veřejnosti, 1 námitku
+občanského sdružení, 7 připomínek městských částí a 1 připomínku sousední obce.
+K připomínkám podaným jednotlivými městskými částmi proběhla za účasti Určeného
+zastupitele v souladu s článkem 3 odst. 1 písm. c) Statutu města Brna (obecně závazná
+vyhláška č. 20/2001) tzv. dohodovací řízení. Rada města Brna vzala připomínky městských
+
+                                        Stránka 7 z 13
+
+
+                                                                                            Strana 10 / 18
+částí na vědomí a souhlasila s návrhem způsobu a výsledku zohlednění zájmů městských
+částí na základě vyhodnocení uplatněných nesouhlasných připomínek k návrhům ÚPmB
+zpracovaným pořizovatelem (zápis z Rady města Brna č. R8/196 ze dne 02.02.2022).
+Pořizovatel vyhodnotil ve spolupráci s Určeným zastupitelem výsledky druhého opakovaného
+veřejného projednání, rovněž po konzultacích se zpracovatelem, a s ohledem na veřejné
+zájmy návrh rozhodnutí o námitkách a návrh vyhodnocení připomínek a tyto návrhy
+za všechna kola veřejných projednání včetně projednání Konceptu doručil dne 22.02.2022
+dotčeným orgánům a krajskému úřadu jako nadřízenému orgánu s výzvou k uplatnění
+stanovisek podle § 53 odst. 1 stavebního zákona. Následně z důvodů několika nesrovnalostí
+zejména formálního rázu v rámci zaslaných podání a jejich vypořádání pořizovatel doručil
+doplnění žádosti dne 10.03.2022. Ve stanoveném termínu pět dotčených orgánů uplatnilo
+souhlasná stanoviska a vzhledem k tomu, že ostatní dotčené orgány ani krajský úřad
+stanoviska neuplatnily, má se dle § 53 odst. 1 stavebního zákona za to, že s rozhodnutím
+o námitkách a s vyhodnocením připomínek souhlasí.
+Výsledky projednání Návrhu nového ÚPmB pro 2. opakované veřejné projednání
+a vyhodnocení stanovisek dotčených orgánů a krajského úřadu k návrhům rozhodnutí
+o námitkách a návrhům vyhodnocení připomínek za všechna kola veřejného projednání
+nevedly k podstatné úpravě Návrhu nového ÚPmB, která by musela být předmětem nového
+projednání, a proto bylo možné předložit ZMB návrh na vydání nového ÚPmB s jeho
+Odůvodněním.
+V souladu s § 53 odst. 4 pořizovatel přezkoumal, že nový ÚPmB je v souladu s Politikou
+územního rozvoje, s nadřazenou územně plánovací dokumentací, se stavebním zákonem
+a jeho prováděcími předpisy, s cíli a úkoly územního plánování, s požadavky zvláštních
+právních předpisů a se stanovisky dotčených orgánů. Výsledek přezkoumání souladu nového
+ÚPmB dle § 53 odst. 4 písm. a) – d) stavebního zákona byl obsažen v příslušných kapitolách
+textové části Odůvodnění.
+Pokyny ZMB (2022)
+Zastupitelstvo města Brna dne 21. června 2022, v souladu s ust. § 54 odst. 3 stavebního
+zákona, ve znění tehdy účinném, tj. do 23.01.2023, nesouhlasilo s předloženým Návrhem
+ÚPmB nebo s výsledky jeho projednání, a proto vrátilo předložený návrh pořizovateli se svými
+pokyny k úpravě a novému projednání.
+
+Jednotlivé pokyny:
+1) Zpřesnění a doplnění regulace zástavby ve stabilizovaných plochách, především
+ve vnitroblocích a včetně definování jejich chráněných hodnot po lokalitách.
+
+
+2) Rozčlenit typ ploch s rozdílným způsobem využití PLOCHY BYDLENÍ – B, a to na plochy
+vymezované pro „bydlení individuální“ (v rodinných domech) a plochy pro „bydlení hromadné“
+(v bytových domech).
+
+3) Doplnění „Vyhodnocení vlivů ÚPmB na udržitelný rozvoj území“ o posouzení zvýšené
+intenzity zátěže ve stabilizovaných plochách; případně doplnění dokumentace o řádné
+odůvodnění, které dostatečně zdůvodní proč není toto zvýšení v Návrhu ÚPmB posouzeno.
+
+4) Uvedení do souladu (1) způsobu vymezení pozemků bezúplatně převedených z majetku
+České republiky do majetku města Brna se (2) stanovenými podmínkami těchto převodů,
+kterými je město Brno smluvně i legislativně vázáno.
+
+
+
+                                       Stránka 8 z 13
+
+
+                                                                                         Strana 11 / 18
+5) Prověřit opodstatněnost a přiměřenost změn stavebních ploch na nestavební.
+
+6) Důkladné opakované posouzení připomínek městských částí z veřejného projednání.
+
+
+Společné jednání (2024)
+RMB na svém R9/019 zasedání dne 15.02.2023 schválila dodatek č. 3 ke smlouvě o vzájemné
+spolupráci na zpracování Návrhu nového Územního plánu města Brna.
+Pořizovatel na základě uplatněných Pokynů ZMB zajistil u zpracovatele, kterým je KAM,
+úpravu Návrhu ÚPmB a úpravu Vyhodnocení vlivů na udržitelný rozvoj území, ke kterému
+si vyžádal stanovisko Odboru životního prostředí Krajského úřadu Jihomoravského kraje
+č.j. JMK 62266/2023 ze dne 09.05.2023.
+KAM poté vypracovala dle schválených Pokynů, zákonných požadavků a aktuálních změn
+Návrh ÚPmB pro společné jednání 2024 a současně zajistila doplnění Vyhodnocení vlivů
+na udržitelný rozvoj. Projednání návrhu dle § 50 a souvisejících paragrafů stavebního zákona
+zahájil pořizovatel v únoru 2024.
+Nad zpracovaným Návrhem ÚPmB pro společné jednání 2024 bylo vedeno společné jednání
+s dotčenými orgány, krajským úřadem a sousedními obcemi pro zajištění koordinace jejich
+požadavků ve veřejnoprávní rovině (bez osobní účasti veřejnosti). Veřejnost měla v této fázi
+možnost u pořizovatele uplatnit písemné připomínky ke zveřejněnému Návrhu ÚPmB.
+Společné jednání bylo oznámeno veřejnou vyhláškou č.j. MMB/0076027/2024 vyvěšenou
+na úřední desce města Brna od 20.02.2024 do 09.04.2024. Společné jednání se uskutečnilo
+01.04.2024 v budově Nové radnice, Dominikánské nám. 1, Brno, ve Velkém zasedacím sále
+(sál ZMB). Určený zastupitel, dotčené orgány, krajský úřad a sousední obce byli
+ke společnému jednání přizváni jednotlivě. Stanoviska i připomínky bylo možné uplatnit
+od 20.02.2024 až do 08.04.2024. Ve stanovené lhůtě pořizovatel obdržel 17 stanovisek
+dotčených orgánů, 33 připomínek městských částí, 2 připomínky sousedních obcí,
+9 připomínek oprávněných investorů a 981 připomínek veřejnosti.
+Tato podání byla 15.04.2024 poskytnuta jako podklad pro vydání stanoviska dle ust. § 50 odst.
+5 stavebního zákona k návrhu koncepce podle § 10g zákona o posuzování vlivů na životní
+prostředí (tzv. expertní SEA stanovisko); dále pak k vydání stanoviska dle ust. § 50 odst. 7
+stavebního zákona z hlediska zajištění koordinace využívání území s ohledem na širší územní
+vztahy, souladu s politikou územního rozvoje, územním rozvojovým plánem a souladu
+s územně plánovací dokumentací vydanou krajem (tzv. stanovisko nadřízeného orgánu).
+Stanovisko SEA bylo vydáno Krajským úřadem Jihomoravského kraje, odborem životního
+prostředí dne 29.05.2024 pod č.j. JMK 71205/2024. Stanovisko nadřízeného orgánu bylo
+vydáno Krajským úřadem Jihomoravského kraje, odborem územního plánování dne
+16.05.2024 pod č.j. JMK 71962/2024.
+V souladu s ust. § 51 odst. 1 stavebního zákona pořizovatel ve spolupráci s Určeným
+zastupitelem Ing. arch. Petrem Bořeckým vyhodnotil výsledky projednání a zajistil
+u zpracovatele, kterým je KAM, úpravu Návrhu ÚPmB včetně vyhodnocení vlivů na udržitelný
+rozvoj území v souladu s výsledky projednání. Vyhodnocení souladu návrhu ÚPmB
+se stanovisky dotčených orgánů, výsledky dohod i souhrnné informace o projednání
+s dotčenými orgány jsou obsaženy v textové části odůvodnění ÚPmB.
+
+
+
+
+                                       Stránka 9 z 13
+
+
+                                                                                          Strana 12 / 18
+Veřejné projednání (2024)
+KAM poté vypracovala upravený Návrh ÚPmB pro veřejné projednání 2024 a současně
+zajistila doplnění Vyhodnocení vlivů na udržitelný rozvoj.
+Upravený a posouzený Návrh ÚPmB pro veřejné projednání 2024 včetně Vyhodnocení vlivů
+na udržitelný rozvoj území byl předložen k veřejnému projednání.
+Veřejné projednání s odborným výkladem zpracovatelů se konalo ve středu 31. července 2024
+v budově Nové radnice, Dominikánské nám. 1, Brno, ve Velkém zasedacím sále (sál
+Zastupitelstva města Brna).
+Určený zastupitel, dotčené orgány, krajský úřad, sousední obce a oprávnění investoři byli
+k veřejnému projednání přizváni jednotlivě. Stanoviska, námitky i připomínky bylo možné
+uplatnit od 26.06.2024 do 07.08.2024.
+Ve stanovené lhůtě pořizovatel obdržel 7 stanovisek dotčených orgánů, 11 námitek
+oprávněných investorů, 920 námitek dotčených osob, 17 evidovaných podání od 9-ti
+městských částí, 3 připomínky sousedních obcí a 85 připomínek veřejnosti.
+Pořizovatel vyhodnotil ve spolupráci s Určeným zastupitelem výsledky veřejného projednání,
+zpracoval s ohledem na veřejné zájmy návrh rozhodnutí o námitkách a návrh vyhodnocení
+připomínek a tyto návrhy za všechna kola veřejných projednání včetně projednání Konceptu
+doručil dne 25.09.2024 dotčeným orgánům a krajskému úřadu, jako nadřízenému orgánu,
+s výzvou k uplatnění stanovisek podle ust. § 53 odst. 1 stavebního zákona. Vyhodnocení
+souladu návrhu ÚPmB se stanovisky dotčených orgánů, výsledky dohod i souhrnné informace
+o projednání s dotčenými orgány jsou obsaženy v textové části odůvodnění nového ÚPmB.
+Výsledky projednání a vyhodnocení stanovisek dotčených orgánů a krajského úřadu
+k návrhům rozhodnutí o námitkách a návrhům vyhodnocení připomínek za všechna kola
+veřejného projednání nevedly k podstatné úpravě Návrhu ÚPmB, která by musela být
+předmětem nového projednání.
+Dne 28.08.2024 vydala vláda České republiky první územní rozvojový plán. Dále
+pak po veřejném projednání Návrhu ÚPmB došlo dne 26.10.2024 k nabytí účinnosti
+Aktualizace č.3b Zásad územního rozvoje Jihomoravského kraje (Aktualizace). Obě tyto nové
+skutečnosti byly posouzeny nadřízeným orgánem Krajského úřadu Jihomoravského kraje
+a výsledky posouzení nevedly k podstatné úpravě Návrhu ÚPmB pro veřejné projednání 2024.
+Výsledný Návrh ÚPmB ve formě Opatření obecné povahy (dále také „OOP“), upravený KAM
+na základě výsledků projednání, je tak možné předložit Zastupitelstvu města Brna (ZMB)
+k vydání. Provedené úpravy směřovaly pouze do části Odůvodnění.
+V souladu s § 53 odst. 4 stavebního zákona pořizovatel přezkoumal, že Návrh Územního plánu
+města Brna je v souladu s politikou územního rozvoje (PÚR ČR), územním rozvojovým plánem
+(ÚRP), s nadřazenou územně plánovací dokumentací vydanou krajem (ZÚR JMK),
+se stavebním zákonem a jeho prováděcími předpisy, s cíli a úkoly územního plánování,
+s požadavky zvláštních právních předpisů a se stanovisky dotčených orgánů. Výsledek
+přezkoumání souladu nového ÚPmB dle § 53 odst. 4 písm. a) – d) stavebního zákona
+je obsažen v příslušných kapitolách textové části Odůvodnění. Vyhodnocení souladu Návrhu
+ÚPmB 2024 s PÚR ČR je obsahem kap. 2.3., vyhodnocení souladu s ÚRP je obsahem
+kap. 2.6., soulad se ZÚR JMK je obsahem kap. 2.4. a se stanoviskem Krajského úřadu
+Jihomoravského kraje v kap. 2.5., vše ve svazku 1 textové části Odůvodnění. Ve svazku
+1 textové části Odůvodnění je v kap. 3 vyhodnocen soulad s cíli a úkoly územního plánování.
+Soulad Návrhu ÚPmB 2024 se stavebním zákonem a jeho prováděcími předpisy je obsahem
+
+
+                                      Stránka 10 z 13
+
+
+                                                                                        Strana 13 / 18
+kap. 13, soulad s požadavky zvláštních právních předpisů pak kap.14.1., vše ve svazku
+4 textové části Odůvodnění. Vyhodnocení souladu se stanovisky dotčených orgánů
+je předmětem kap. 14.2., která je zpracována v samostatné Příloze č. 5. Rozpor mezi
+dotčenými orgány nebyl veden. Tímto přezkumem pořizovatel poskytuje Zastupitelstvu města
+Brna souhrn informací pro ověření dle ust. § 54 odst. 2 stavebního zákona.
+Opatření obecné povahy je v plném rozsahu vzhledem k velikosti souboru uloženo
+na sdíleném úložišti eMMB.
+
+
+
+   4. Dohodovací řízení podle Statutu města Brna s městskými částmi
+
+Na schůzi Rady města Brna č. R9/084 konané dne 25. 09. 2024 byl předložen materiál týkající
+se dohodovacího řízení s městskými částmi (dále také „MČ“) podle Statutu města Brna.
+„Podle čl. 3 odst. 2 písm. b) Obecně závazné vyhlášky statutárního města Brna č. 20/2001,
+kterou se vydává Statut města Brna, v platném znění, v případě, že město prostřednictvím
+Odboru územního plánování a rozvoje MMB obdrží v rámci veřejného projednání
+nesouhlasnou připomínku městské části, proběhne dohodovací řízení za účasti určeného
+zastupitele, starosty či jím pověřené osoby, pořizovatele a zpracovatele územně plánovací
+dokumentace. Výsledek dohodovacího řízení je vždy součástí materiálů předkládaných
+Zastupitelstvu města Brna (ZMB). V případě sporu ohledně pořizované územně plánovací
+dokumentace ve smyslu čl. 3 odst.2 písm. b) tohoto Statutu rozhoduje s konečnou platností
+Zastupitelstvo města Brna (ZMB), přičemž dohodovací jednání proběhne u dohodovacího
+orgánu, kterým je Rada města Brna, jejíž stanovisko má doporučující charakter
+pro rozhodování ZMB ve věci vydání nového ÚPmB.“
+V souladu s ustanovením Statutu města Brna byl tedy RMB předložen materiál obsahující
+samotný Návrh způsobu a výsledku zohlednění zájmů městských částí na základě
+vyhodnocení uplatněných nesouhlasných připomínek městských částí k jednotlivým Návrhům
+Územního plánu města Brna zpracovaný Odborem územního plánování a rozvoje MMB
+ve spolupráci s určeným zastupitelem a po konzultacích s KAM a přehled jednotlivých
+nesouhlasných připomínek městských částí. Dohodovací řízení bylo vedeno k těm částem
+připomínky, ve které vyjádřila MČ výslovný nesouhlas v souladu s výše uvedeným
+ustanovením Statutu města Brna, a to k Návrhu ÚPmB pro veřejné projednání 06/2020,
+k upravenému Návrhu ÚPmB pro „první“ opakované veřejné projednání 06/2021,
+k upravenému Návrhu ÚPmB pro „druhé“ opakované veřejné projednání 12/2021 a k návrhu
+pro veřejné projednání (2024), pokud se MČ k těmto Návrhům ÚPmB vyjádřila. Pro zajištění
+celistvosti dokumentu byl v materiálu nad rámec požadavků stanovených Statutem města Brna
+zahrnut také způsob zohlednění připomínek městských částí uplatněných v rámci společného
+jednání (2024). Výslovně nesouhlasné připomínky podalo 25 městských částí.
+Součástí předloženého materiálu pro maximální formální „čistotu“ postupu dohodovacího
+řízení byly předloženy veškeré nesouhlasy „ze všech kol projednání“, tzn. i ty, kde bylo
+na základě konzultací MČ následně vyhověno a upravené řešení bylo zapracováno. Dále
+pak, pro možnost se s nimi seznámit, byly součástí předkládaného materiálu předloženy
+všechny kompletní připomínky městských částí uplatněné k jednotlivým Návrhům Územního
+plánu města Brna.
+Výsledek dohodovacího řízení je samostatnou přílohou této důvodové zprávy. Vzhledem
+k velikosti souboru je materiál uložen na sdíleném úložišti eMMB
+
+
+                                      Stránka 11 z 13
+
+
+                                                                                        Strana 14 / 18
+Rada města Brna vzala dne 25.09.2024 připomínky městských částí na vědomí a vyjádřila
+shodu s návrhem způsobu a výsledku zohlednění zájmů městských částí na základě
+vyhodnocení uplatněných nesouhlasných připomínek k návrhům ÚPmB, který byl zpracován
+pořizovatelem ve spolupráci s Určeným zastupitelem a po konzultacích se zpracovatelem
+(zápis z RMB č. R9/098 ze dne 25.09.2024).
+
+   5. Možnosti projednání nového Územního plánu města Brna v
+      orgánech města Brna
+
+Samosprávné orgány města Brna, resp. ZMB, mohou podle ust. § 54 stavebního zákona:
+
+Vydat územní plán po ověření, že není v rozporu s politikou územního rozvoje, územním
+rozvojovým plánem, s územně plánovací dokumentací vydanou krajem nebo výsledkem
+řešení rozporů a se stanovisky dotčených orgánů nebo stanoviskem krajského úřadu,
+      I. OOP bude zasláno primátorce a 1. nám. primátorky na podpis, následně bude
+vyvěšeno na úřední desce MMB pro nabytí účinnosti (15dní) – celková doba cca 1-2 měsíce
+od vydání OOP v ZMB. Po nabytí účinnosti je nový ÚPmB způsobilý regulovat území,
+      II. Proces pořízení je úspěšně dokončen.
+                                              ***
+
+Vrátit v případě, že nesouhlasí s předloženým návrhem územního plánu nebo s výsledky jeho
+projednání, předložený návrh se pořizovateli vrátí s POKYNY K ÚPRAVĚ a novému
+projednání,
+      I. Na jednání ZMB nebo na některém následujícím je schváleno usnesení o vrácení
+      návrhu ÚP a současně jsou schváleny pokyny k úpravě Návrhu ÚPmB,
+       II. Následuje zpracování upraveného Návrhu ÚPmB a jeho opětovné veřejné
+projednání, vyhodnocení výsledků projednání a příprava nového OOP,
+      III. Proces pořízení není ukončen a pokračuje.
+                                              ***
+
+Zamítnout ÚPmB.
+      I. Jedná se o ukončení procesu pořizování územního plánu bez dalšího.
+Vzhledem ke skutečnosti, že byl platný ÚPmB vydán před rokem 2007, pak je nutno nový
+ÚPmB vydat do 31.12.2028, v opačném případě pozbude platnosti a město Brno bude bez
+platné územně plánovací dokumentace.
+• viz ust. § 322 odst. 1 zákona č. 283/2021 Sb., nový stavební zákon, v platném znění:
+„Územně plánovací dokumentace sídelního útvaru nebo zóny, územní plán obce a regulační
+plán, schválené přede dnem 1. ledna 2007, pozbývají platnosti dnem nabytí účinnosti nové
+územně plánovací dokumentace, která je nahrazuje, nejpozději však 31. prosince 2028.“
+
+   6. Závěr
+
+Na základě výše uvedených skutečností pořizovatel konstatuje, že splnil svoji povinnost
+a zajistil výsledný Návrh ÚPmB, který byl řádně zpracován a projednán, byl ověřen soulad
+
+                                     Stránka 12 z 13
+
+
+                                                                                      Strana 15 / 18
+Návrhu ÚPmB s požadavky uvedenými v ust. § 54 odst. 2 stavebního zákona a nebyl shledán
+rozpor, který by bránil vydání ÚPmB.
+Odbor územního plánování a rozvoje Magistrátu města Brna, jako pořizovatel ÚPmB,
+tímto předkládá materiál týkající se vydání nového Územního plánu města Brna formou
+opatření obecné povahy s jeho odůvodněním samosprávným orgánům města Brna
+k projednání.
+
+
+Hlasování RMB
+
+RMB hlasovala o uvedeném materiálu na schůzi č. R9/108 konané dne 27.11.2024.
+
+O materiálu bylo hlasováno následujícím způsobem:
+
+
+
+
+                                                                                                                                                                                                    Matonohová
+                                                                                    Podivinská
+
+
+
+
+                                                                                                                                                                              Kratochvíl
+                                                                                                                                           Ing. arch.
+  Vaňková
+
+
+
+
+                                                                                                                                           Bořecký
+
+
+                                                                                                                                                              Bořecký
+                                       Chvátal
+
+
+
+                                                     Kerndl
+                                       RNDr.
+                        Černý
+  JUDr.
+
+
+
+
+                                       Ph.D.
+                                                     JUDr.
+
+
+
+
+                                                                                                                                                                                                    JUDr.
+
+
+
+
+                                                                                                                                                                                                                         JUDr.
+                                                                                                                Aberl
+
+
+
+
+                                                                                                                                                                                                                         Oliva
+                        Mgr.
+
+
+
+
+                                                                                    Ing.
+
+
+
+
+                                                                                                                                                                              Ing.
+                                                                                                                Bc.
+
+
+
+
+             ---                 ---          pro      pro                             ---                       pro                         pro             pro                   pro                     pro            pro
+
+
+Schváleno jednomyslně 8 členy.
+
+
+
+
+Stanoviska komisí RMB:
+
+Komise územního plánování a rozvoje RMB hlasovala dne 19.11.2024 o materiálu následujícím
+způsobem:
+
+Přítomno 11 členů komise / 11 pro – 0 proti – 0 se zdrželo / ze 13 členů
+   Ing. Drápalová
+
+
+
+
+                                                                                                                                                                                           JUDr. Svoboda
+                                                                                                                       Akad. arch. Kotas
+                                                                 Ing. arch. Holas
+                    Ing. Folprecht
+
+
+
+
+                                                                                                                                                            Mgr. Maleček
+                                                                                                 MgA. Kořínek
+
+
+
+
+                                                                                                                                                                                                                                 Mgr. Štefan
+                                                                                                                                                                            Mikulášek
+                                       Ing. Hanuš
+
+
+
+
+                                                                                                                                                                                                                 Ing. arch.
+                                                                                                                                                                                                                 Sychrová
+                                                    Hoffmann
+                                                    Ing. arch.
+
+
+
+
+                                                                                                                                                                           Ing. arch.
+                                                                                                                                                Ing. Kříž
+
+
+
+
+        Pro              Pro           Pro           Pro                    Pro                    Pro              Pro                          Nepř       Nepř               Pro                 Pro             Pro               Pro
+
+
+
+
+Usnesení bylo přijato.
+
+
+
+
+Příloha DZ: materiál nazvaný „Připravovaný územní plán města Brna – způsob a výsledky
+zohlednění zájmů městských částí na základě vyhodnocení uplatněných nesouhlasných
+připomínek“ – jedná se o dohodovací řízení podle Statutu města Brna, je uložen na sdíleném
+úložišti eMMB
+
+
+
+
+                                                                                             Stránka 13 z 13
+
+
+                                                                                                                                                                                                                              Strana 16 / 18
+Hlasování Rady města Brna na schůzi konané dne 27.11.2024.
+
+
+
+
+                                                                                               Matonohov
+                                      Podivinská
+
+
+
+
+                                                                                  Kratochvíl
+                                                           Ing. arch.
+ Vaňková
+
+
+
+
+                                                           Bořecký
+
+
+                                                                        Bořecký
+                   Chvátal
+
+
+
+                             Kerndl
+                   RNDr.
+           Černý
+ JUDr.
+
+
+
+
+                             JUDr.
+
+
+
+
+                                                                                               JUDr.
+
+
+
+
+                                                                                                           JUDr.
+                   Ph.D.
+
+
+
+
+                                                   Aberl
+
+
+
+
+                                                                                                           Oliva
+           Mgr.
+
+
+
+
+                                      Ing.
+
+
+
+
+                                                                                  Ing.
+                                                   Bc.
+
+
+
+
+                                                                                               á
+     ---     ---     pro       pro     ---          pro    pro          pro             pro         pro     pro
+
+
+Schváleno jednomyslně 8 členy.
+
+
+
+
+                                                                                                               Strana 17 / 18
+Komise územního plánování a rozvoje - hlasování na schůzi konané dne
+19.11.2024
+
+
+Přítomno 11 členů komise / 11 pro – 0 proti – 0 se zdrželo / ze 13 členů
+
+
+
+
+                                                                                                    Mikulášek
+                                                                          Akad.arch.
+                         Ing. Hanuš
+ Drápalová
+
+
+
+
+                                      Hoffmann
+             Folprecht
+
+
+
+
+                                      Ing. arch.
+
+
+
+
+                                                                                                   Ing. arch.
+                                                   Ing. arch.
+
+
+
+
+                                                                                                                          Ing. arch.
+                                                                                                                          Sychrová
+                                                                                                                Svoboda
+                                                                                       Ing. Kříž
+
+
+
+                                                                                                   Maleček
+                                                                Kořínek
+
+
+
+
+                                                                                                                                       Štefan
+                                                                          Kotas
+                                                   Holas
+
+
+
+
+                                                                                                                JUDr.
+
+
+
+
+                                                                                                                                       Mgr.
+                                                                MgA.
+
+
+
+
+                                                                                                   Mgr.
+ Ing.
+
+
+             Ing.
+
+
+
+
+   Pro          Pro      Pro             Pro           Pro       Pro      Pro              Nepř    Nepř   Pro      Pro       Pro         Pro
+
+
+Usnesení bylo přijato.
+
+
+
+
+                                                                                                                                            Strana 18 / 18
+

@@ -1,0 +1,1024 @@
+Rada města Brna
+
+Z9/36. zasedání Zastupitelstva města Brna
+konané dne 23.6.2026
+
+
+
+    69. Návrh dodatku č. 1 ke smlouvě o poskytnutí dobrovolného
+       peněžitého příplatku ze dne 29.08.2023 a dodatku č. 1 k
+    patronátní smlouvě ze dne 30.08.2023 - Výstavba Multifunkční
+                   sportovní a kulturní haly v Brně
+
+Anotace
+Zastupitelstvu města Brna je ke schválení předkládán dodatek č. 1 ke smlouvě o poskytnutí
+dobrovolného peněžitého příplatku mimo základní kapitál ze dne 29.08.2023, uzavřené mezi statutárním
+městem Brnem a společností ARENA BRNO, a.s. a dodatek č. 1 k patronátní smlouvě ze dne 30.08.2023
+uzavřené mezi statutárním městem Brnem, společností ARENA BRNO, a.s. a společností Česká
+spořitelna, a.s., v souvislosti s financováním projektu multifunkční sportovní a kulturní haly v Brně
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. bere na vědomí dokument označený jako „Aktualizovaný finanční model výstavby a provozu
+                  multifunkční haly ARENA BRNO (stav k 04/2026)“ zpracovaný obchodní společností
+                  NEWTON Business Development, a.s. v dubnu 2026, který tvoří přílohu č. … tohoto
+                  zápisu;
+
+2. schvaluje                   a) návrh dodatku č. 1 patronátní smlouvy ze dne 30.08.2023, uzavíraného mezi
+                               Českou spořitelnou, a.s. IČO: 452 44 782, se sídlem Olbrachtova 1929/62, 140 00
+                               Praha 4, jakožto bankou, obchodní společností ARENA BRNO, a.s. IČO: 091 33 267,
+                               se sídlem Výstaviště 405/1, 603 00 Brno, jakožto dlužníkem, a statutárním městem
+                               Brnem, jakožto akcionářem, který tvoří přílohu č. … tohoto zápisu,
+                               b) návrh dodatku č. 1 smlouvy o poskytnutí dobrovolného peněžitého příplatku mimo
+                               základní kapitál ze dne 29.08.2023, uzavíraného mezi statutárním městem Brnem,
+                               jakožto akcionářem, a obchodní společností ARENA BRNO, a.s. IČO: 091 33 267, se
+                               sídlem Výstaviště 405/1, 603 00 Brno, jakožto společností, který tvoří přílohu č. …
+                               tohoto zápisu;
+
+3. pověřuje                    primátorku města Brna podpisem dodatku č. 1 patronátní smlouvy a dodatku č. 1
+                               smlouvy o poskytnutí dobrovolného peněžitého příplatku mimo základní kapitál po
+                               vydání rozhodnutí Evropské komise, z něhož vyplyne, že veřejná podpora, která má
+                               být obchodní společnosti ARENA BRNO, a.s. poskytnuta ze strany statutárního
+                               města Brna prostřednictvím navýšení Maximálního ročního limitu pro rok 2026 v
+                               návaznosti na uzavření dodatku č. 1 smlouvy o poskytnutí dobrovolného peněžitého
+                               příplatku mimo základní kapitál je slučitelná s vnitřním trhem, nebo nepředstavuje
+                               veřejnou podporu ve smyslu čl. 107 odst. 1 Smlouvy o fungování EU, a po zajištění
+                               souhlasu České spořitelny, a.s. s obsahem a formou dodatku č. 1 smlouvy o
+                               poskytnutí dobrovolného peněžitého příplatku mimo základní kapitál.
+
+
+Stanoviska
+
+
+Sestava vytvořena 16.6.2026 v 08:27                          1/2                             Vygenerováno programem eMMB
+
+
+                                                                                                             Strana 1 / 32
+Materiál projednala Rada města Brna na schůzi R9/180, konané dne 10.6.2026 a doporučila
+Zastupitelstvu města Brna přijmout výše uvedený návrh usnesení.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Petr Kratochvíl
+  člen RMB - Člen Rady města Brna - předkladatel/ka
+  16.6.2026 v 08:27
+  Garance správnosti, zákonnosti materiálu
+
+
+
+
+Sestava vytvořena 16.6.2026 v 08:27                   2/2                  Vygenerováno programem eMMB
+
+
+                                                                                           Strana 2 / 32
+                                   Obsah materiálu
+Návrh usnesení                                                   1-2
+Obsah materiálu                                                  3-3
+Důvodová zpráva                                                  4-9
+Příloha k usnesení (Aktualizovaný finanční model.pdf)          10 - 19
+Příloha k usnesení (Dodatek č. 1 k patronátní smlouvě.pdf)     20 - 24
+Příloha k usnesení (Dodatek č. 1 ke smlouvě o příplatku.pdf)   25 - 32
+
+
+
+
+                                                                   Strana 3 / 32
+                                          Důvodová zpráva
+
+Zastupitelstvu města Brna (dále jen „ZMB“) se předkládá materiál týkající se dodatku ke smlouvě o
+poskytnutí dobrovolného peněžitého příplatku mimo základní kapitál uzavřené dne 29.08.2023 mezi
+statutárním městem Brnem, IČO: 449 92 785, se sídlem Dominikánské nám. 196/1, 602 00 Brno (dále
+jen „SMB“), jakožto Akcionářem, a obchodní společností ARENA BRNO, a.s., IČO: 091 33 267, se
+sídlem Výstaviště 405/1, 603 00 Brno (dále jen „Společnost ARENA“), jakožto Společností (dále jen
+„Příplatková smlouva“) a úprav související úvěrové dokumentace v návaznosti na vývoj projektu a
+výstavby Multifunkční sportovní a kulturní haly v Brně (dále jen „MFH“, projekt výstavby MFH dále jen
+„Projekt“). Ze související úvěrové dokumentace vyvolává změna Příplatkové smlouvy potřebu úprav
+pouze patronátní smlouvy uzavřené dne 30.08.2023 mezi obchodní společností Česká spořitelna, a.s.,
+IČO: 452 44 782, se sídlem Praha 4, Olbrachtova 1929/62, PSČ 14000 (dále jen „Banka“), jakožto
+Bankou, Společností ARENA, jakožto Dlužníkem, a SMB, jakožto Akcionářem (dále jen „Patronátní
+smlouva“).
+
+
+V rámci tohoto materiálu se ZMB předkládá k projednání:
+     1. návrh dodatku č. 1 Příplatkové smlouvy (dále jen „Dodatek příplatkové smlouvy“),
+     2. návrh dodatku č. 1 Patronátní smlouvy (dále jen „Dodatek patronátní smlouvy“),
+     3. dokument označený jako „Aktualizovaný finanční model výstavby a provozu multifunkční haly
+     ARENA BRNO (stav k 04/2026)“ zpracovaný obchodní společností NEWTON Business
+     Development, a.s. v dubnu 2026 (dále jen „Aktualizovaný finanční model“).
+
+
+Níže v důvodové zprávě jsou podrobně popsány
+   • obsah předkládaných dodatků, včetně důvodů úprav smluvní dokumentace,
+   • problematika projednání dodatků v jednotlivých orgánech.
+
+
+
+I.   Dodatek příplatkové smlouvy
+SMB jako jediný akcionář Společnosti ARENA a poskytovatel veřejné podpory zajišťuje
+spolufinancování realizace Projektu, kdy zásadním zdrojem financí (a současně nástrojem poskytnutí
+veřejné podpory) je dobrovolný peněžitý příplatek mimo základní kapitál (dále jen „Příplatek“)
+poskytovaný na základě Příplatkové smlouvy. Na základě Příplatkové smlouvy se SMB zavázalo
+poskytnout Společnosti postupně na základě žádostí Společnosti ARENA Příplatek až do celkové výše
+7.285.661.502,- Kč s tím, že Společnost ARENA je oprávněna každý rok požádat o poskytnutí části
+Příplatku do výše maximálního ročního limitu uvedeného v harmonogramu, který tvoří přílohu č. 1 této
+smlouvy. O nevyčerpané části příplatku se navyšuje maximální roční limit následujícího roku.
+
+
+
+K obsahu předkládaného Dodatku příplatkové smlouvy
+Prostřednictvím Dodatku příplatkové smlouvy dochází k navýšení celkové výše Příplatku, který se SMB,
+jakožto Akcionář, zavazuje poskytnout Společnosti ARENA, a to o 570 mil. Kč. Nová celková výše
+Příplatku po navýšení činí částku 7.855.661.502,- Kč. V návaznosti na toto navýšení se dále upravuje
+harmonogram čerpání příplatku uvedený v příloze č. 1 Příplatkové smlouvy, a to tak, že se o celkovou
+navyšovanou částku navyšuje maximální roční limit čerpání pro rok 2026.
+K celkové výši Příplatku se uvádí, že Aktualizovaný finanční model, který je popsán níže v této důvodové
+zprávě, předpokládá, že v důsledku budoucí zvýšené schopnosti Společnosti ARENA splácet úvěr,
+bude docházet k postupnému snižování ročně poskytovaných Příplatků, pročež celkové navýšení
+Příplatku za celou dobu trvání Projektu nemá překročit částku 455 mil. Kč, která má být notifikována
+Evropské komisi. Tedy navýšení Příplatku o 570 mil. Kč nominálně v roce 2026 neznamená celkové
+navýšení Příplatku v této výši, ale podle vývoje Projektu bude Evropská komise rozhodovat
+pravděpodobně i o celkovém rámci Příplatku za celé období, tedy nikoliv staticky k roku 2026, ale až do
+rok 2050. V tomto období bude vycházet z předpokladů uvedených v Aktualizovaném finančním modelu
+a z nichž je očekáváno, že by mohlo dojít právě k celkovému efektivnímu navýšení podpory ze zdrojů
+Příplatku jen o 455 mil. Kč pro celé období čerpání. Tato skutečnost, tj. průběžný vývoj ekonomických
+
+
+
+
+                                                                                                    Strana 4 / 32
+ukazatelů v čase, je předvídána Příplatkovou smlouvou, a to v jejím článku 1.4, který jako základní
+imperativ při čerpání Příplatku stanovuje právě podmínky Evropské komise, které mají přednost před
+ujednáními smlouvy, resp. Příplatková smlouva musí být plněna jen v jejich rozsahu, jak je veřejná
+podpora dovolena. Podrobněji o odst. 1.4. níže v této důvodové zprávě.
+Notifikace (ať již původní nebo nyní žádaná její úprava) představuje stanovení rámce pro čerpání
+jakýchkoliv prostředků od SMB či státu. Bez ohledu na ujednané smlouvy (příplatky, dotace, atp.) je
+notifikace korektivem jejich obsahu. Plnění z takovýchto smluv tak musí být poskytováno jen v rozsahu
+odpovídajícím podmínkám stanoveným notifikací. I po uzavření Dodatku příplatkové smlouvy platí, že
+odst. 1.4. Příplatkové smlouvy zavazuje smluvní strany postupovat při čerpání Příplatku tak, aby byla
+dodržována pravidla veřejné podpory. Byť prostřednictvím uzavření Dodatku příplatkové smlouvy
+dochází k navýšené celkové výše Příplatku, jedná se toliko o smluvní ujednání, které je nutné vnímat v
+kontextu celé Příplatkové smlouvy, a to i v kontextu odst. 1.4., který zavazuje dodržovat pravidla veřejné
+podpory, tj. mimo jiné původní rozhodnutí Evropské komise. Toto doplňuje odst. 3.1 Dodatku příplatkové
+smlouvy, který tuto povinnost vztahuje i na navýšenou část Příplatku a rozšiřuje povinnost i na
+dodržování nového rozhodnutí Evropské komise o dodatečné notifikaci.
+Dále se doplňuje ustanovení o oprávnění a povinnosti Společnosti ARENA v každém roce požádat SMB
+o úhradu části Příplatku odpovídající „aktuální potřebě Společnosti“. Dodatkem se pro vyloučení
+pochybností výslovně potvrzuje, že aktuální potřebou se rozumí zejména náklady očekávané a
+předpokládané v období do dalšího termínu čerpání uvedeného v harmonogramu čerpání. Společnost
+ARENA tedy bude moci čerpat Příplatek i „do rezervy“ na nadcházející období; mechanismus odpovídá
+zavedené praxi posledních let.
+V návrhu Dodatku příplatkové smlouvy je také reflektována problematika veřejné podpory dle původního
+rozhodnutí Evropské komise, která je blíže popsána níže v této důvodové zprávě.
+
+
+
+K předkládanému Aktualizovanému finančnímu modelu
+Jedná se o aktualizaci předchozího finančního modelu, která reflektuje časové posuny v Projektu.
+Číselné údaje uvedené v rámci tohoto Aktualizovaného finančního modelu jsou podkladem pro
+odůvodnění úprav smluvní dokumentace popsané níže v této důvodové zprávě, tj. informace uvedené
+v důvodové zprávě slouží jako textový výklad změn, které jsou kvantifikovány v Aktualizovaném
+finančním modelu.
+
+
+
+K důvodům úprav smluvní dokumentace
+V průběhu realizace Projektu se postupně ukázalo, že původní výše Příplatku nepokrývá skutečné
+investiční potřeby Projektu a vznikl tzv. aktualizovaný investiční deficit (funding gap), jehož příčiny lze
+shrnout do následujících navzájem souvisejících okruhů:
+    •   Postupná specifikace fit-outu a jeho integrace do hrubé stavby. Při přípravě původní notifikace
+        veřejné podpory Evropské komisi a finančního modelu v letech 2022–2023 byl Projekt ve fázi,
+        v níž byla jeho stavební část (shell-and-core) již vysoutěžena a její cena dostatečně známa,
+        avšak vybavení Projektové budovy (fit-out) bylo založeno pouze na předběžných koncepčních
+        odhadech. Postupné upřesňování prováděcí dokumentace a praktického provozního zadání
+        ukázalo, že fit-out nelze provést jako samostatnou vrstvu navazující na dokončenou stavbu –
+        jeho podstatná část musí být integrována přímo do konstrukce hrubé stavby. Týká se to zejména
+        audiovizuální techniky, zabezpečovacích systémů a kontroly přístupu, IT infrastruktury,
+        distribuce elektrické energie, vzduchotechniky a gastronomického zázemí. Integrace fit-outu si
+        vyžádala dodatečné úpravy hrubé stavby a investice do indukované infrastruktury, čímž vznikly
+        náklady přesahující původní rozpočtové předpoklady. Tyto náklady by však velmi
+        pravděpodobně byly významně vyšší, pokud by ke shora uvedené integraci nedošlo v průběhu
+        výstavby hrubé stavby, ale bylo by nutné provádět úpravy až po dokončení a předání shell-and-
+        core ze strany zhotovitele a navazovala by realizace fit-outů.
+    •   Změna provozního modelu. Původní finanční model předpokládal, že provoz Projektu zajistí
+        soukromý provozovatel se zkušenostmi v komerčním a technickém provozu obdobných
+        multifunkčních hal, který by zároveň přispěl k podrobné specifikaci technologických požadavků
+        a fit-outu, a případně se na Projektu i finančně podílel. SMB se opakovaně pokoušelo zajistit
+        takového externího provozovatele formou veřejné zakázky, avšak vzhledem k tržním
+
+
+
+
+                                                                                                       Strana 5 / 32
+        podmínkám ovlivněným pandemií COVID-19 nevzbudila vypsaná zadávací řízení dostatečný
+        zájem trhu. V důsledku toho byla realizace a provoz Projektu nakonec svěřeny přímo
+        Společnosti ARENA, která následně paralelně budovala interní expertízu. Specifikace
+        technologických a provozních požadavků tak probíhala až v průběhu vlastní realizace, což
+        přispělo k postupnému zpřesňování investičních nákladů.
+    •   Vývoj technických standardů a tržních cen ověřených zadávacími řízeními. Mezi koncepční fází
+        Projektu a fází realizace došlo k vývoji odvětvových standardů (CCTV, zabezpečení, ovládání
+        osvětlení, AV technologie, konektivita), který se promítl do dodatečných technických požadavků
+        nezbytných pro to, aby hala zůstala dlouhodobě plně funkční a komerčně konkurenceschopná.
+        Skutečnou tržní cenu integrovaných fit-outových dodávek odhalily až výsledky pěti otevřených
+        zadávacích řízení vedených počátkem roku 2026 (technologické vybavení, ICT a kybernetická
+        bezpečnost, osvětlení dominantních zón, interiérový mobiliář a gastronomické vybavení).
+        Původní odhady byly připraveny s odbornou péčí a dle informací a míry poznání dostupného v
+        letech 2022–2023, přičemž tyto nereflektovaly (a reflektovat nemohly) komplexnost a
+        propojenost jednotlivých prvků, jež byly identifikovány až v průběhu samotné realizace.
+    •   Zhoršení podmínek financování a inflační dopady. V průběhu realizace došlo nejprve k
+        přechodnému zlepšení podmínek financování (pokles dlouhodobých sazeb IRS), avšak v
+        období fixace úrokové sazby Projektu (březen 2026) se podmínky finančních trhů vlivem
+        mezinárodního vývoje opět zhoršily a konečná úroková sazba byla fixována blíže
+        konzervativním předpokladům původního modelu. Současně se v důsledku technicky
+        náročnějších fit-outových řešení a navazujících úprav hrubé stavby část výstavby protáhla do
+        roku 2026, což vyvolalo dodatečné inflační navýšení nákladů (cca 143 mil. Kč na základě
+        inflační doložky).
+
+
+K odůvodnění časového rámce
+Společnost ARENA a SMB ohledně případného navyšování rámce veřejné podpory přistupovali k této
+problematice s maximální obezřetností, kdy skutečnosti nasvědčovaly tomu, že nárůst nákladů bude
+možné financovat interními prostředky:
+    •   Veřejné dotace byly čerpány dříve, než předpokládal původní finanční model, což umožnilo
+        odložit část bankovního čerpání a snížit úrokové náklady během výstavby (do března 2026 bylo
+        účtováno pouze 24 mil. Kč úroků oproti modelovým 228 mil. Kč).
+    •   Společnost ARENA hradila úroky během výstavby průběžně s podporou SMB, čímž
+        nedocházelo ke kapitalizaci úroků do jistiny úvěru v původně předpokládaném rozsahu. Tím se
+        zlepšil dluhový profil Projektu a uvolnila se část úvěrové kapacity (původně rezervované pro
+        kapitalizaci úroků) na přímé financování investičních výdajů (úvěrová kapacita byla navýšena z
+        1 950 mil. Kč na 2 179 mil. Kč).
+    •   Dlouhodobé sazby IRS relevantní pro financování Projektu se v určité fázi snížily na úroveň
+        3,5–4,0 % p. a. oproti modelovým 5,7 % p. a., což budilo přiměřené očekávání nižší dluhové
+        služby (rozdíl by činil přibližně 30 mil. Kč ročně, pokud by se tato úroveň udržela do fixace
+        sazby).
+    •   Vyjednávání o komerčních smlouvách (naming-rights, exkluzivita gastronomického provozu,
+        reklama, hospitality, akce) probíhala úspěšněji, než předpokládal původní model – výnosy z
+        těchto smluv se efektivně ztrojnásobily (z 11 mil. Kč na 35 mil. Kč ročně) a počet pre-
+        bookovaných akcí překonal očekávání pro počáteční fázi provozu.
+Postupně se však ukázalo, že tyto kompenzační faktory nedokáží absorbovat skutečný rozsah nárůstu
+CAPEX. Teprve výsledky zadávacích řízení na fit-out, jakožto nástroje hájícího veřejný zájem a
+reflektujícího skutečnou tržní situaci, ukázaly celkový rozsah nárůstu investičních nákladů (překročení
+rozpočtu o 87 mil. Kč u fit-outu; o 1 317 mil. Kč u navazujících úprav hrubé stavby a technologií a o cca
+950 tis. Kč u soft costs). Současně komerční přínos bude do velké míry vyvažován vyššími provozními
+náklady (zejména energetickou náročností pokročilých technologií – o 15-25 mil. Kč ročně). Konečná
+fixace úrokové sazby v březnu 2026 (4,495 % IRS, celková sazba cca 5 %) přiblížila reálnou dluhovou
+službu konzervativním předpokladům původního modelu.
+Pokud by nedošlo k uzavření Dodatku příplatkové smlouvy, a tedy k získání dodatečných prostředků
+pro rok 2026 v rámci navýšení Maximálního ročního limitu čerpání, hrozí částečné zmaření stávajících
+investic, neboť by to znamenalo faktické zastavení dalších prací.
+
+
+
+
+                                                                                                     Strana 6 / 32
+Nedokončený objekt by nebyl schopen generovat plánované výnosy a přispívat ke splácení úvěru.
+Pokud by došlo k dokončení Projektu ve zmenšené podobě (downsize realizace), obchodní model
+projektu by nebyl realistický, neboť taková realizace by paralelně přinesla snížení očekávaných výnosů,
+čímž by se čistý ekonomický přínos významně omezil. Možnost získat dodatečné financování za tržních
+podmínek již byla vyčerpána.
+Navýšení Maximálního ročního limitu čerpání pro rok 2026 o 570 000 000 Kč proto představuje
+ekonomicky racionální a věcně odůvodněné opatření nezbytné pro dokončení Projektu, jeho
+uvedení do provozu a generování očekávaných výnosů přispívajících ke splácení dluhové služby
+a naplnění veřejných cílů, pro něž byla podpora Projektu schválena. Z obsahu Aktualizovaného
+finančního modelu je patrná predikce, že částku navýšení celého rozsahu Příplatku bude
+představovat 455 mil. Kč, tedy nejde jen o přesunutí položek v čase, ale zčásti o plné navýšení
+Příplatku jako dovolené podpory ze strany SMB, což osvědčuje složitost situace a objektivnost
+požadavků na navýšení Příplatku.
+K závazku SMB jakožto Akcionáře vůči Bance se poznamenává, že dle čl. 6.2 Patronátní smlouvy se
+SMB zavázalo poskytnout Společnosti ARENA finanční prostředky v takové výši, aby byly zajištěny
+dostatečné zdroje potřebné pro včasnou a řádnou úhradu veškerých nákladů potřebných na realizaci a
+následný provoz Projektu. Tento závazek byl od počátku vymezen jako základní požadavek Banky na
+zajištění financování Projektu, přičemž tento byl sjednán právě pro situace, kdy by se v průběhu
+realizace Projektu ukázalo, že stávající rozsah Příplatku zakotveného v Příplatkové smlouvě nebude
+postačovat k pokrytí všech investičních potřeb Projektu. Čl. 6.2 Patronátní smlouvy přitom počítá
+výslovně mimo jiné s variantou poskytnutí dalšího peněžitého příplatku mimo základní kapitál, a to za
+podmínky, že takové poskytnutí bude v souladu s pravidly veřejné podpory. Navýšení Příplatku formou
+Dodatku příplatkové smlouvy je z tohoto pohledu plněním závazků SMB vůči Bance.
+
+
+
+K problematice veřejné podpory
+Navýšení Maximálního ročního limitu čerpání pro rok 2026 o 570 mil. Kč představuje veřejnou podporu
+nad rámec původního rozhodnutí Evropské komise ze dne 13. 7. 2023, č. j. SA.58891 (2023/N) – Česko,
+jímž byla schválena původní celková výše čerpatelného rozsahu Příplatku. Z tohoto důvodu jsou v době
+přípravy tohoto materiálu připravovány dokumenty pro zahájení samostatného řízení u Evropské komise
+o dodatečné notifikaci, v jehož rámci bude posuzována slučitelnost navýšení Maximálního ročního limitu
+čerpání pro rok 2026 a s tím související problematiky čerpatelné výše Příplatku s vnitřním trhem dle čl.
+107 odst. 1 Smlouvy o fungování EU.
+Aktualizovaný finanční model Projektu (Funding gap analysis), který bude předložen Evropské komisi
+pro účely řízení o nové notifikaci, potvrzuje, že výše dodatečné veřejné podpory v podobě navýšení
+Maximálního ročního limitu čerpání pro rok 2026 vyjádřená v současné hodnotě nepřesahuje
+aktualizovaný investiční deficit (funding gap) Projektu, Projekt nadále vykazuje omezenou pozitivní
+provozní výkonnost přispívající ke splácení dluhu a nedochází k nadměrné kompenzaci. Tyto závěry
+budou předmětem posouzení Evropské komise v rámci řízení o nové notifikaci.
+Podmínkou uzavření Dodatku příplatkové smlouvy je předchozí vydání rozhodnutí Evropské komise, z
+něhož vyplyne, že veřejná podpora poskytovaná Společnosti ARENA prostřednictvím navýšení
+Maximálního ročního limitu čerpání pro rok 2026 je slučitelná s vnitřním trhem (případně nepředstavuje
+veřejnou podporu ve smyslu čl. 107 odst. 1 Smlouvy o fungování EU). Proto se navrhuje pověřit
+primátorku statutárního města Brna k podpisu Dodatku příplatkové smlouvy a Dodatku patronátní
+smlouvy za podmínky vydání tohoto rozhodnutí.
+
+
+
+II.   K Dodatku patronátní smlouvy
+Patronátní smlouva je součástí smluvní dokumentace k financování Projektu. Patronátní smlouva
+obsahuje zejména závazky SMB vůči Bance týkající se podřízenosti pohledávek SMB za Společností
+ARENA ve prospěch zajištěných pohledávek Banky z úvěrového vztahu se Společností ARENA, dále
+tzv. patronátní povinnosti SMB ve vztahu ke Společnosti ARENA a Projektu, a další ujednání posilující
+pozici Banky jako věřitele Společnosti ARENA. Patronátní smlouva v rámci svých definic rovněž přímo
+odkazuje na Příplatkovou smlouvu, včetně uvedení konkrétní celkové výše Příplatku, pročež navýšení
+celkové výše Příplatku podle Dodatku příplatkové smlouvy vyvolává nezbytnost odpovídající úpravy
+Patronátní smlouvy.
+
+
+
+
+                                                                                                    Strana 7 / 32
+Patronátní smlouva byla uzavřena souběžně se Smlouvou o úvěru uzavřenou dne 28.08.2023 mezi
+Bankou a Společností ARENA jako Dlužníkem, přičemž znění Patronátní smlouvy doposud reflektuje
+stav smluvního vztahu Banky a Společnosti ARENA ke dni uzavření Smlouvy o úvěru. Od té doby však
+byly ke Smlouvě o úvěru uzavřeny dva dodatky, a to dodatek č. 1 ze dne 24.06.2025 a dodatek č. 2 ze
+dne 26.03.2026, jimiž došlo k dílčím změnám smluvního vztahu mezi Bankou a Společností ARENA.
+Při uzavření Dodatku patronátní smlouvy vyvolaného navýšením Příplatku se proto navrhuje provést
+rovněž další dílčí úpravy Patronátní smlouvy, jež reflektují změny smluvního vztahu mezi Bankou a
+Společností ARENA ze Smlouvy o úvěru ve znění jejích dodatků č. 1 a č. 2, a uvádějí tak Patronátní
+smlouvu věcně do souladu s aktuálním stavem úvěrové dokumentace. Tyto úpravy mají povahu dílčích
+aktualizací a nepředstavují podstatnou změnu závazků žádné ze Smluvních stran Patronátní smlouvy.
+
+
+
+K obsahu předkládaného Dodatku patronátní smlouvy
+Prostřednictvím Dodatku patronátní smlouvy dochází k úpravě definice Příplatkové smlouvy („Smlouvy
+o příplatku“), která reflektuje uzavření Dodatku příplatkové smlouvy a novou celkovou výši Příplatku.
+Touto úpravou dochází k doplnění podřízených pohledávek o pohledávku na vrácení navýšené části
+Příplatku. Tato úprava byla výslovným požadavkem Banky a současně povinnost této úpravy pro
+Společnost ARENA a SMB vychází přímo z Patronátní smlouvy.
+Další úpravou je doplnění obchodní společnosti Energie Teplárny Brno, s.r.o. (dále jen „ETB“), jakožto
+dodavatele elektrické energie do ustanovení Patronátní smlouvy obsahující závazky SMB a Společnosti
+ARENA v souvislosti se zajištěním dodávek energií a médií pro provoz Projektu. Toto rovněž reflektuje
+dříve provedené úpravy Smlouvy o úvěru. Pro vysvětlení se uvádí, že Smlouva o úvěru byla uzavírána
+za stavu, kdy bylo plánováno, že dodavatele služeb do budovy MFH bude pouze obchodní společnost
+Teplárny Brno, a.s. (dále jen „TB“) a případně jiný dodavatel písemně odsouhlasený bankou. Takto byl
+v orgánech Společnosti ARENA schválen i návrh smlouvy o dodávkách služeb. V mezidobí od schválení
+a uzavření této smlouvy o dodávkách služeb však došlo ke změně, kdy TB zůstalo dodavatelem
+veškerých služeb vyjma služeb elektrické energie, které měly nově dodávat ETB. Smlouva o dodávkách
+služeb byla v rozsahu těchto úprav v orgánech Společnosti ARENA přeschválena a takto i uzavřena a
+uveřejněna v registru smluv. Změnu této smlouvy oproti původní schválené verzi pak reflektoval dodatek
+č. 1 Smlouvy o úvěru a nyní tuto reflektuje i Dodatek patronátní smlouvy.
+Dále dochází k vypuštění ustanovení popisujícího povinnosti v souvislosti s vyčerpáním tzv. Sublimitu
+B, kdy tato úprava toliko reflektuje vypuštění možnosti čerpat Sublimit B ze Smlouvy o úvěru
+prostřednictvím uzavření dodatku č. 2 Smlouvy o úvěru.
+Rovněž dochází k úpravě pravidel pro doručování písemností souvisejících s Patronátní smlouvou, a to
+tak, že původně přísná pravidla pro účinné doručení se rozvolňují, a to po vzoru úprav pravidel
+doručování upravených ve Smlouvě o úvěru, která byla zasmluvněna prostřednictvím dodatku č. 2
+Smlouvy o úvěru.
+
+
+
+III.   K projednání Dodatku příplatkové smlouvy a Dodatku patronátní smlouvy v orgánech SMB
+V případě projednání Patronátní smlouvy a Příplatkové smlouvy byl postup projednání následující:
+RMB rozhodla usnesením přijatým na své R9/036. schůzi konané dne 12.06.2023 pod bodem č. 1 tak,
+že vzala na vědomí mimo jiné Patronátní smlouvu a Příplatkovou smlouvu, doporučila ZMB tyto smlouvy
+schválit a pověřit primátorku podpisem těchto smluv po vydání rozhodnutí Evropské komise o
+slučitelnosti veřejné podpory s vnitřním trhem. ZMB následně rozhodlo na svém Z9/08. zasedání
+konaném dne 20.06.2023 pod bodem č. 24 tak, že schválilo Patronátní smlouvu (vyjma prohlášení a
+závazků akcionáře, u nichž je k rozhodnutí příslušná RMB v souladu s ust. § 102 odst. 3 zákona o
+obcích) a Příplatkovou smlouvu a pověřilo primátorku podpisem Patronátní smlouvy a Příplatkové
+smlouvy teprve po vydání rozhodnutí Evropské komise.
+Nyní se při projednání dodatků k těmto smlouvám navrhuje postupovat obdobně. Navrhovaný Dodatek
+patronátní smlouvy spadá výlučně do působnosti ZMB, proto se nyní při projednávání dodatků
+předkládá ZMB Dodatek patronátní smlouvy ke schválení bez omezení.
+Předkládané dodatky, jakož i Aktualizovaný finanční model již byly projednány ze strany RMB, která
+doporučila ZMB schválit tyto dodatky a vzít na vědomí Aktualizovaný finanční model. Dále RMB
+doporučila ZMB pověřit primátorku města Brna podpisem předkládaných dodatků, a to po:
+
+
+
+
+                                                                                                   Strana 8 / 32
+            •   vydání shora popsaného rozhodnutí Evropské komise;
+            •   zajištění souhlasu Banky s obsahem a formou Dodatku příplatkové smlouvy.
+
+
+         K souhlasu Banky s obsahem a formou Dodatku příplatkové smlouvy se uvádí, že tento byl v mezidobí
+         ze strany Banky již udělen, nicméně s ohledem na doporučující výrok RMB se tato podmínka pro forma
+         ponechává.
+
+
+         Stanoviska dotčených orgánů:
+
+         Rada města Brna materiál projednala na své R9/180. schůzi konané 10.06.2026.
+
+         Schváleno jednomyslně 9 členy.
+
+
+JUDr.        Mgr.    RNDr.     JUDr.                   Bc.                         Ing.         JUDr.        JUDr.
+Vaňková      Černý   Chvátal   Kerndl     Ing.         Aberl   Ing.                Kratochvíl   Matonohová   Oliva
+                     Ph.D.                                               Petr
+                                          Podivinská           arch.
+                                                                         Bořecký
+                                          Karasová             Bořecký
+
+------       pro     pro       ------     pro          pro     pro        pro      pro          pro          pro
+
+
+         Materiál nepodléhá projednání v komisích RMB a ve výborech ZMB.
+
+
+
+
+                                                                                                         Strana 9 / 32
+   DODATEK Č. 1 K
+PATRONÁTNÍ SMLOUVĚ
+
+
+           uzavřený
+
+             mezi
+
+     Česká spořitelna, a.s.
+
+          jako bankou
+
+               a
+
+      ARENA BRNO, a.s.
+
+        jako dlužníkem
+
+               a
+
+     Statutární město Brno
+
+        jako akcionářem
+
+
+
+
+                              Strana 20 / 32
+                        DODATEK Č. 1 K PATRONÁTNÍ SMLOUVĚ
+                                    (dále jen "Dodatek")
+
+                                          uzavřený
+
+mezi
+
+Česká spořitelna, a.s., se sídlem Praha 4, Olbrachtova 1929/62, PSČ 14000, IČO: 45244782,
+zapsanou v obchodním rejstříku vedeném Městským soudem v Praze, sp. zn. B 1171
+
+                                                                          (dále jen "Banka")
+
+a
+
+ARENA BRNO, a.s., se sídlem Výstaviště 405/1, Pisárky, 603 00 Brno, IČO: 09133267,
+zapsanou v obchodním rejstříku vedeném Krajským soudem v Brně, sp. zn. B 8383
+
+                                                                         (dále jen "Dlužník")
+
+a
+
+Statutární město Brno, se sídlem Dominikánské náměstí 196/1, Brno-město, 602 00 Brno,
+IČO: 44992785
+                                                                 (dále jen "Akcionář")
+
+
+
+VZHLEDEM K TOMU, ŽE
+
+(A)    Na základě smlouvy o úvěru uzavřené mezi Bankou jako úvěrujícím, původním
+       věřitelem, agentem úvěrů a agentem pro zajištění a Dlužníkem jako dlužníkem a
+       úvěrovaným dne 28.8.2023, ve znění pozdějších dodatků, (dále jen "Smlouva o úvěru")
+       se Banka zavázala za podmínek stanovených ve Smlouvě o úvěru poskytnout Dlužníkovi
+       úvěr až do celkové výše CZK 2.205.000.000,- (dále jen "Úvěr");
+(B)    Jednou z podmínek poskytnutí Úvěru podle Smlouvy o úvěru bylo uzavření patronátní
+       smlouvy upravující mimo jiné podřízenost určitých pohledávek Akcionáře vůči
+       pohledávkám Banky ze Smlouvy o úvěru a určité patronátní povinnosti Akcionáře vůči
+       Bance;
+(C)    Dne 30.8.2023 uzavřeli Banka, Dlužník a Akcionář patronátní smlouvu (dále jen
+       "Patronátní smlouva") jako podmínku pro poskytnutí Úvěru.
+(D)    Smluvní strany si přejí změnit některá ustanovení Patronátní smlouvy.
+
+DOHODLY SE SMLUVNÍ STRANY NA NÁSLEDUJÍCÍCH ZMĚNÁCH PATRONÁTNÍ
+SMLOUVY:
+1.     Definice a výklad
+
+1.1    Výrazy používané v tomto Dodatku s velkým počátečním písmenem mají, pokud není
+       v tomto Dodatku výslovně uvedeno jinak, význam definovaný v Patronátní smlouvě.
+
+2.     Změny v Patronátní smlouvě
+
+2.1    Definice "Smlouvy o příplatku" v článku 1.2 (Definice a výklad) Patronátní smlouvy se
+       nahrazuje tímto novým zněním:
+
+
+
+
+                                                                                          Strana 21 / 32
+      k rukám:                       primátorky/primátora statutárního města Brna
+      e-mail:                        posta@brno.cz
+
+      Oznámení Bance:
+      Česká spořitelna, a.s.
+      Adresa                         Praha 4, Budějovická 1518/13a, PSČ 14000
+      e-mail:                                          ,
+      K rukám:
+
+2.6   Do článku 13 Patronátní smlouvy (Oznámení) se vkládá článek 13.6 následujícího znění:
+
+      Veškerá komunikace týkající se této Smlouvy se považuje za řádně doručenou i přes
+      nedodržení formy, doručovacích údajů či jiných požadavků uvedených výše v Článku 13
+      v případě, že smluvní strana, která je adresátem oznámení (komunikace), písemně
+      potvrdí prostřednictvím kontaktních osob uvedených v Článku 13.1 doručení. Písemné
+      potvrzení dle tohoto odstavce bude řádně doručeno, bude-li provedeno v souladu
+      s požadavky Článku 13.1. V případě řádného potvrzení doručení dle tohoto odstavce se
+      původní oznámení (komunikace) považuje za účinně doručené okamžikem, jakým by
+      bylo účinně doručeno v případě, že by byly dodrženy veškeré požadavky na komunikaci
+      dle Článku 13, nepotvrdí-li adresát v potvrzení dle tohoto odstavce účinné doručení jinak.
+      Potvrdit doručení oznámení (komunikace) dle tohoto odstavce je adresát oprávněn na
+      jakékoli oznámení (komunikaci) doručované kdykoli po dobu účinnosti této Smlouvy.
+
+3.    Závěrečná ustanovení
+
+3.1   Tento Dodatek se stává platným podpisem všech smluvních stran, a to poslední z nich.
+
+3.2   Smluvní strany jsou povinnými osobami podle zákona č. 340/2015 Sb., zákon o
+      zvláštních podmínkách účinnosti některých smluv, uveřejňování těchto smluv a o registru
+      smluv, ve znění pozdějších předpisů (zákon o registru smluv) ("ZRS"), a mají tedy
+      povinnost uveřejňovat smluvní ujednání v registru smluv pod sankcí nenabytí účinnosti
+      takového právního jednání. Povinnost uveřejňovat smlouvy v registru smluv nenastane
+      v případě, kdy se na dané právní jednání uplatní některá z výjimek uvedená v zákoně o
+      registru smluv. Uveřejnění v registru smluv v souladu se ZRS zajistí Dlužník.
+
+3.3   Strany berou na vědomí a souhlasí s uveřejněním tohoto Dodatku v Registru smluv v
+      plném znění, a to s výjimkou osobních údajů, s tím, že takové uveřejnění nepředstavuje
+      porušení povinnosti mlčenlivosti Bankou, respektive Věřiteli.
+
+3.4   Ostatní ustanovení Patronátní smlouvy, která nejsou výslovně dotčena tímto Dodatkem,
+      zůstávají beze změny.
+
+3.5   Strany si ve smyslu § 630 odst. 1 zákona č. 89/2012 Sb., občanský zákoník, ve znění
+      pozdějších předpisů, sjednávají promlčecí lhůtu 10 let ve vztahu ke každému právu
+      z tohoto Dodatku.
+
+3.6   Tento Dodatek je vyhotoven ve 3 stejnopisech v českém jazyce. Každá ze smluvních
+      stran obdrží po jednom vyhotovení.
+
+3.7   Tento Dodatek byl schválen na Z9/[.]. zasedání Zastupitelstva města Brna dne [.] pod
+      bodem č. [.].
+
+3.8   Tento Dodatek je Finančním dokumentem.
+
+
+
+
+                                                                                            Strana 23 / 32
+                                        *        *      *
+
+NA DŮKAZ VÝŠE UVEDENÉHO podepsaly smluvní strany tento Dodatek.
+
+V Praze dne dle data elektronického podpisu
+
+Česká spořitelna, a.s.
+
+
+
+Podpis:                                       Podpis:
+Jméno:     [.]                                Jméno:    [.]
+Funkce:    [.]                                Funkce:   [.]
+
+
+
+
+V Brně dne dle data elektronického podpisu
+
+ARENA BRNO, a.s.
+
+
+
+Podpis:                                       Podpis:
+Jméno:     [.]                                Jméno:    [.]
+Funkce:    [.]                                Funkce:   [.]
+
+
+
+V Brně dne dle data elektronického podpisu
+
+Statutární město Brno
+
+
+
+Podpis:
+Jméno:      [.]
+Funkce:     [.]
+
+
+
+
+                                                                  Strana 24 / 32
+         DODATEK Č. 1 KE SMLOUVĚ O POSKYTNUTÍ DOBROVOLNÉHO PENĚŽITÉHO
+                         PŘÍPLATKU MIMO ZÁKLADNÍ KAPITÁL
+
+
+
+Smluvní strany:
+
+Statutární město Brno
+Zastoupené:     [*], [primátorem/primátorkou]
+Se sídlem:      Dominikánské nám. 196/1, 602 00 Brno
+IČO:            44992785
+DIČ:            CZ44992785
+
+číslo dodatku: 5623093826/1
+(dále jen „Akcionář“)
+
+
+
+a
+
+
+ARENA BRNO, a. s.
+Zastoupená:     [*], předsedou představenstva a [*], místopředsedou představenstva
+Se sídlem:      Výstaviště 405/1, Pisárky, 603 00 Brno
+Zapsaná v obchodním rejstříku vedeném u Krajského soudu v Brně, oddíl B, vložka č. 8383
+IČO:            09133267
+DIČ:            CZ09133267
+
+(dále jen „Společnost“)
+
+(Akcionář a Společnost dále společně jen jako „Smluvní strany“)
+
+
+
+Smluvní strany uzavřely níže uvedeného dne, měsíce a roku tento Dodatek č. 1 ke Smlouvě o
+    poskytnutí dobrovolného peněžitého příplatku mimo základní kapitál (dále jen „Dodatek“):
+
+
+                                1    Preambule a účel Smlouvy
+
+1.1     Smluvní strany uzavřely dne 29.08.2023 ve stejném postavení Smlouvu o poskytnutí
+        dobrovolného peněžitého příplatku mimo základní kapitál, č. smlouvy Akcionáře
+        5623093826, č. smlouvy obchodní společnosti Česká spořitelna, a.s., IČO: 45244782, se
+        sídlem Praha 4, Olbrachtova 1929/62, PSČ 14000, jakožto úvěrující banky Společnosti,
+        CS47000000430442 (dále jen „Smlouva“). Smlouva nabyla účinnosti dnem jejího
+        uveřejnění v registru smluv dle zákona č. 340/2015 Sb., o zvláštních podmínkách
+        účinnosti některých smluv, uveřejňování těchto smluv a o registru smluv (zákon o registru
+        smluv), ve znění pozdějších předpisů (dále jen „Zákon o registru smluv“).
+
+
+
+ 354712/v9                                      1                                 93410/0016/001
+
+
+
+
+                                                                                              Strana 25 / 32
+1.2   Smluvní strany se tímto Dodatkem dohodly na navýšení celkové výše Příplatku dle odst.
+      3.1 Smlouvy o 570.000.000,- Kč (slovy: pět set sedmdesát milionů korun českých) a na
+      odpovídající aktualizaci Harmonogramu dle Přílohy č. 1 Smlouvy.
+1.3   Smluvní strany berou na vědomí, že
+      a) navýšení celkové výše Příplatku dle odst. 1.2 tohoto Dodatku a odpovídající navýšení
+         Maximálního ročního limitu čerpání pro rok 2026 dle odst. 2.3 tohoto Dodatku může
+         představovat veřejnou podporu nad rámec rozhodnutí Evropské komise dle odst. 1.4
+         Smlouvy (dále jen „Původní rozhodnutí EK“),
+      b) v souvislosti s navýšením Maximálního ročního limitu čerpání pro rok 2026 a s tím
+         související problematiky celkové čerpatelné výše Příplatku vedla Evropská komise
+         samostatné řízení o další notifikaci pod sp. zn. [*] zahájené dopisem ze dne
+         [*].[*].202[*], na jehož základě vydala Evropská komise dne [*].[*].202[*] rozhodnutí
+         č. j. [*], z nějž vyplývá, že veřejná podpora poskytovaná Společnosti ze strany
+         Akcionáře prostřednictvím navýšení Maximálního ročního limitu čerpání pro rok 2026
+         je slučitelná s vnitřním trhem (příp. že tato podpora nepředstavuje veřejnou podporu)
+         ve smyslu čl. 107 odst. 1 Smlouvy o fungování EU (dále jen „Rozhodnutí EK o další
+         notifikaci“).
+
+
+                                   2   Předmět Dodatku
+
+2.1   Smluvní strany se dohodly, že odstavec 3.1 Smlouvy se mění a nově zní:
+      „Akcionář se touto Smlouvou zavazuje poskytnout Společnosti dobrovolný peněžitý
+      příplatek Akcionáře mimo základní kapitál až do celkové výše 7.855.661.502,- Kč (slovy:
+      sedm miliard osm set padesát pět milionů šest set šedesát jeden tisíc pět set dvě korun
+      českých) (dále jen „Příplatek“), a to postupem dle odst. 3.4 a násl. této Smlouvy.“
+2.2   Smluvní strany se dohodly, že do odst. 3.10 Smlouvy se za poslední větu doplňuje:
+      „Pro vyloučení všech pochybností Smluvní strany potvrzují, že za aktuální potřebu
+      Společnosti dle tohoto odstavce se považuje zejména potřeba úhrady nákladů souvisejících
+      s Projektem, a to nákladů očekávaných a předpokládaných v období do dalšího termínu
+      čerpání uvedeného v Harmonogramu.“
+2.3   Příloha č. 1 Smlouvy (Harmonogram čerpání dobrovolného peněžitého příplatku
+      Akcionáře) se v plném rozsahu nahrazuje novým zněním Přílohy č. 1, která tvoří přílohu
+      a nedílnou součást tohoto Dodatku. Pro úplnost Smluvní strany uvádějí, že nové znění
+      Přílohy č. 1 oproti dosavadnímu znění Přílohy č. 1 Smlouvy promítá změnu výše
+      Maximálního ročního limitu čerpání v řádku pro kalendářní rok 2026 z částky
+      165.599.860,- Kč na částku 735.599.860,- Kč (slovy: sedm set třicet pět milionů pět set
+      devadesát devět tisíc osm set šedesát korun českých). Toto navýšení odpovídá navýšení
+      celkové výše Příplatku dle odst. 2.1 tohoto Dodatku.
+2.4   Ve zbytku zůstává Smlouva beze změny.
+
+
+
+
+ 354712/v9                                    2                                 93410/0016/001
+
+
+
+
+                                                                                            Strana 26 / 32
+                                     3    Závěrečná ustanovení
+
+3.1     Smluvní strany prohlašují, že povinnosti Smluvních stran dle odst. 1.4 Smlouvy se vztahují
+        obdobně i na čerpání navýšené části Příplatku dle tohoto Dodatku s tím, že se Smluvní
+        strany zavazují ve smyslu odst. 1.4 Smlouvy dodržovat povinnosti vyplývající z Původního
+        rozhodnutí EK i z Rozhodnutí EK o další notifikaci. Smluvní strany dále prohlašují, že
+        Rozhodnutí EK o další notifikaci bylo před uzavřením tohoto Dodatku vydáno a ke dni
+        podpisu tohoto Dodatku Smluvními stranami je platné a účinné.
+3.2     Tento Dodatek nabude platnosti dnem jeho podpisu oběma Smluvními stranami a
+        účinnosti dnem zveřejnění v registru smluv dle Zákona o registru smluv. Smluvní strany
+        berou na vědomí, že tento Dodatek včetně příloh bude uveřejněn v souladu se Zákonem
+        o registru smluv. Smluvní strany se dohodly, že uveřejnění tohoto Dodatku v registru
+        smluv zabezpečí Akcionář.
+3.3     Smluvní strany prohlašují, že tento Dodatek neobsahuje žádná obchodní tajemství žádné
+        ze Smluvních stran a může být uveřejňován v plném rozsahu, a to i opakovaně.
+3.4     Tento Dodatek je uzavřen v elektronické podobě.
+3.5     Nedílnou součástí tohoto Dodatku je následující příloha:
+        Příloha č. 1 - Harmonogram čerpání dobrovolného peněžitého příplatku Akcionáře
+        (aktualizované znění)
+3.6     Smluvní strany shodně prohlašují, že si tento Dodatek před jeho uzavřením pečlivě
+        přečetly, že byl uzavřen po vzájemném projednání podle jejich pravé a svobodné vůle,
+        že jeho obsahu porozuměly a své projevy vůle učinily vážně, určitě, srozumitelně,
+        dobrovolně a že se dohodly na celém jeho obsahu, což stvrzují svými podpisy.
+
+
+      Doložka dle § 41 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších
+                                           předpisů:
+             Tato listina byla schválena Zastupitelstvem města Brna na zasedání č. Z9/[*]
+                                           dne [*]. [*] 2026.
+
+
+ V Brně dne dle data elektronického podpisu            V Brně dne dle data elektronického podpisu
+
+
+
+
+                _______________________                          _______________________
+                         [*],                                             [*],
+                primátor/primátorka                             předseda představenstva
+                    za Akcionáře                                     za Společnost
+
+ 354712/v9                                         3                                  93410/0016/001
+
+
+
+
+                                                                                                  Strana 27 / 32
+                V Brně dne dle data elektronického podpisu
+
+
+
+
+                          _______________________
+                                    [*],
+                      místopředseda představenstva
+                              za Společnost
+
+
+
+
+354712/v9   4                                  93410/0016/001
+
+
+
+
+                                                           Strana 28 / 32
+                                             Příloha č. 1
+
+                Harmonogram čerpání dobrovolného peněžitého příplatku Akcionáře
+                                       (aktualizované znění)
+
+                                                            Předpokládaný           Termín čerpání
+                                                             počet Žádostí           příslušné části
+                                                               v daném                Příplatku (tj.
+                       Rok
+    Kalendářní                  Maximální roční          kalendářním roce a          den splatnosti
+                     provozu
+       rok                       limit čerpání1          předpokládaná výše          čerpané části
+                       MFH
+                                                             čerpané části          Příplatku, který
+                                                             Příplatku pro          bude uveden v
+                                                          jednotlivé Žádosti2           Žádosti)
+
+                                                               2 Žádosti             30 . 9. a 30. 11.
+       2023            -2        800 000 000 Kč
+                                                            400 000 000 Kč
+
+                                                               4 Žádosti            1. 2., 1. 5., 1. 8. a
+       2024            -1        373 242 345 Kč                                            1. 10.
+                                                            93 310 586,25 Kč
+
+                                                               4 Žádosti
+                                                                                    1. 2., 1. 5., 1. 8. a
+       2025             0       2 055 222 587 Kč         3 x 555 605 664,25 Kč             1. 10.
+                                                         1 x 388 405 594,25 Kč
+
+                                                               2 Žádosti
+       2026             1        735 599 860 Kč                                       15. 3. a 15. 9.
+                                                           ½ Maximálního
+                                                        ročního limitu čerpání
+
+                                                               2 Žádosti
+       2027             2        165 599 860 Kč                                       15. 3. a 15. 9.
+                                                           ½ Maximálního
+                                                        ročního limitu čerpání
+
+       2028             3        165 599 860 Kč                2 Žádosti              15. 3. a 15. 9.
+
+
+
+
+1
+  V souladu s odst. 3.5 této Smlouvy se Maximální roční limit čerpání v daném roce vždy navyšuje o
+nevyčerpané části Příplatku z předchozích let.
+2
+  V souladu s odst. 3.10 této Smlouvy je Společnost oprávněna a povinna v tom kterém kalendářním roce
+Akcionáře požádat (samostatně, či v souhrnu více Žádostí) o částku, jenž odpovídá aktuální potřebě
+Společnosti (a to zejména ke splnění jejích povinností v souvislosti s Projektem), avšak vždy v částce v
+souhrnu za kalendářní rok nepřesahující Maximální roční limit čerpání. Údaje uvedené v tabulce v tomto
+sloupci jsou proto pouze předpokládané. Tím nejsou dotčeny povinnosti dle odst. 1.4 této Smlouvy.
+    354712/v9                                      5                                    93410/0016/001
+
+
+
+
+                                                                                                        Strana 29 / 32
+                                               Předpokládaný         Termín čerpání
+                                                počet Žádostí         příslušné části
+                                                  v daném              Příplatku (tj.
+               Rok
+Kalendářní             Maximální roční      kalendářním roce a        den splatnosti
+             provozu
+   rok                  limit čerpání1      předpokládaná výše        čerpané části
+               MFH
+                                                čerpané části        Příplatku, který
+                                                Příplatku pro        bude uveden v
+                                             jednotlivé Žádosti2         Žádosti)
+
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+                                                  2 Žádosti
+   2029         4      165 599 860 Kč                                 15. 3. a 15. 9.
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+                                                  2 Žádosti
+   2030         5      165 599 860 Kč                                 15. 3. a 15. 9.
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+                                                  2 Žádosti
+   2031         6      165 599 860 Kč                                 15. 3. a 15. 9.
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+                                                  2 Žádosti
+   2032         7      165 599 860 Kč                                 15. 3. a 15. 9.
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+                                                  2 Žádosti
+   2033         8      165 599 860 Kč                                 15. 3. a 15. 9.
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+                                                  2 Žádosti
+   2034         9      165 599 860 Kč                                 15. 3. a 15. 9.
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+                                                  2 Žádosti
+   2035        10      165 599 860 Kč                                 15. 3. a 15. 9.
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+   2036        11      165 599 860 Kč             2 Žádosti           15. 3. a 15. 9.
+354712/v9                               6                               93410/0016/001
+
+
+
+
+                                                                                        Strana 30 / 32
+                                               Předpokládaný         Termín čerpání
+                                                počet Žádostí         příslušné části
+                                                  v daném              Příplatku (tj.
+               Rok
+Kalendářní             Maximální roční      kalendářním roce a        den splatnosti
+             provozu
+   rok                  limit čerpání1      předpokládaná výše        čerpané části
+               MFH
+                                                čerpané části        Příplatku, který
+                                                Příplatku pro        bude uveden v
+                                             jednotlivé Žádosti2         Žádosti)
+
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+                                                  2 Žádosti
+   2037        12      165 599 860 Kč                                 15. 3. a 15. 9.
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+                                                  2 Žádosti
+   2038        13      165 599 860 Kč                                 15. 3. a 15. 9.
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+                                                  2 Žádosti
+   2039        14      165 599 860 Kč                                 15. 3. a 15. 9.
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+                                                  2 Žádosti
+   2040        15      165 599 860 Kč                                 15. 3. a 15. 9.
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+                                                  2 Žádosti
+   2041        16      165 599 860 Kč                                 15. 3. a 15. 9.
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+                                                  2 Žádosti
+   2042        17      165 599 860 Kč                                 15. 3. a 15. 9.
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+                                                  2 Žádosti
+   2043        18      165 599 860 Kč                                 15. 3. a 15. 9.
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+   2044        19      165 599 860 Kč             2 Žádosti           15. 3. a 15. 9.
+354712/v9                               7                               93410/0016/001
+
+
+
+
+                                                                                        Strana 31 / 32
+                                               Předpokládaný         Termín čerpání
+                                                počet Žádostí         příslušné části
+                                                  v daném              Příplatku (tj.
+               Rok
+Kalendářní             Maximální roční      kalendářním roce a        den splatnosti
+             provozu
+   rok                  limit čerpání1      předpokládaná výše        čerpané části
+               MFH
+                                                čerpané části        Příplatku, který
+                                                Příplatku pro        bude uveden v
+                                             jednotlivé Žádosti2         Žádosti)
+
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+                                                  2 Žádosti
+   2045        20      165 599 860 Kč                                 15. 3. a 15. 9.
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+                                                  2 Žádosti
+   2046        21      165 599 860 Kč                                 15. 3. a 15. 9.
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+                                                  2 Žádosti
+   2047        22      165 599 860 Kč                                 15. 3. a 15. 9.
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+                                                  2 Žádosti
+   2048        23      165 599 860 Kč                                 15. 3. a 15. 9.
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+                                                  2 Žádosti
+   2049        24      165 599 860 Kč                                 15. 3. a 15. 9.
+                                               ½ Maximálního
+                                            ročního limitu čerpání
+
+                                                  1 Žádost
+   2050        25       82 799 930 Kč                                     15. 3.
+                                               82 799 930 Kč
+
+
+
+
+354712/v9                               8                               93410/0016/001
+
+
+
+
+                                                                                        Strana 32 / 32
+

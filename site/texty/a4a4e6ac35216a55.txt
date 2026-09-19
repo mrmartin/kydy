@@ -1,0 +1,1975 @@
+Rada města Brna
+
+Z9/34. zasedání Zastupitelstva města Brna
+konané dne 14.4.2026
+
+
+
+ 11. Horkovod z jaderné elektrárny Dukovany do Brna – návrh na
+ založení společností Teplárny Brno Prodej, s.r.o., Teplárny Brno
+ Distribuce, a.s. a Teplárny Brno Výroba, a.s. v rámci unbundlingu
+                    společnosti Teplárny Brno, a.s.
+
+Anotace
+Zastupitelstvu města Brna jsou předkládány zakladatelské dokumenty společností Teplárny Brno Prodej,
+s.r.o., Teplárny Brno Distribuce, a.s. a Teplárny Brno Výroba, a.s., coby budoucích dceřiných společností
+společnosti Teplárny Brno, a.s. (dále též „Dceřiné společnosti“). Založení Dceřiných společností je
+klíčovým krokem k realizaci tzv. unbundlingu společnosti Teplárny Brno, a.s., tj. oddělení činností
+výroby, distribuce a prodeje tepelné energie, a tedy i jedním z kroků k vyplacení dotační podpory ze
+Státního fondu životního prostředí na přípravu a realizaci Horkovodu z jaderné elektrárny Dukovany do
+Brna.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje
+                                     zakladatelskou listinu společnosti Teplárny Brno Prodej, s.r.o. která tvoří
+                                     přílohu č. … tohoto zápisu;
+                                     založení společnosti Teplárny Brno Prodej, s.r.o. na základě výše uvedené
+                                     zakladatelské listiny;
+                                     kapitálovou účast společnosti Teplárny Brno, a.s. ve společnosti Teplárny Brno
+                                     Prodej, s.r.o. na základě výše uvedené zakladatelské listiny;
+
+                                     a
+
+                                     stanovy společnosti Teplárny Brno Distribuce, a.s., které tvoří přílohu č. …
+                                     tohoto zápisu;
+                                     založení společnosti Teplárny Brno Distribuce, a.s. na základě výše uvedených
+                                     stanov;
+                                     kapitálovou účast společnosti Teplárny Brno, a.s. ve společnosti Teplárny Brno
+                                     Distribuce, a.s. na základě výše uvedených stanov;
+
+                                     a
+
+                                     stanovy společnosti Teplárny Brno Výroba, a.s., které tvoří přílohu č. … tohoto
+                                     zápisu;
+                                     založení společnosti Teplárny Brno Výroba, a.s. na základě výše uvedených
+                                     stanov;
+                                     kapitálovou účast společnosti Teplárny Brno, a.s. ve společnosti Teplárny Brno
+                                     Výroba, a.s. na základě výše uvedených stanov.
+
+
+
+Stanoviska
+
+
+Sestava vytvořena 7.4.2026 v 11:44                           1/2                              Vygenerováno programem eMMB
+
+
+                                                                                                              Strana 1 / 42
+Rada města Brna materiál projednala na R9/169. schůzi Rady města Brna konané dne 25. března
+2026 a doporučila Zastupitelstvu města Brna ke schválení.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Petr Fajmon MBA
+  eRMB - Teplárny Brno
+  7.4.2026 v 11:44
+  Garance správnosti, zákonnosti materiálu
+
+
+
+
+Sestava vytvořena 7.4.2026 v 11:44           2/2                           Vygenerováno programem eMMB
+
+
+                                                                                           Strana 2 / 42
+                                  Obsah materiálu
+Návrh usnesení                                                             1-2
+Obsah materiálu                                                            3-3
+Důvodová zpráva                                                            4-7
+Příloha (ZMB_20260414_Ekonomická udržitelnost projektu HDB_po             8 - 12
+revizích.pdf)
+Příloha k usnesení (FINAL_ZL_Teplárny Brno Prodej, s.r.o (2).pdf)       13 - 20
+Příloha k usnesení (FINAL_Stanovy_TB Distribuce, as_zaknihované akcie   21 - 31
+(2).pdf)
+Příloha k usnesení (FINAL_Stanovy_TB Výroba, as_zaknihované akcie      32 - 42
+(2).pdf)
+
+
+
+
+                                                                             Strana 3 / 42
+                                         Důvodová zpráva
+Společnost Teplárny Brno, a.s. (dále jen „TB“) připravuje k realizaci projekt vyvedení tepelné
+energie z jaderné elektrárny Dukovany včetně jejího rozvodu rozvodným tepelným zařízením
+jednotlivým odběratelům do města Brna (dále jen „Projekt HDB“).
+S ohledem na celkový rozsah Projektu HDB a jeho předpokládané investiční náklady ve výši cca
+17,9 mld. Kč je možné takový projekt realizovat pouze s využitím dotační podpory. Projekt HDB
+tak bude částečně financován z programu Státního fondu životního prostředí (dále jen „SFŽP“).
+Podmínky pro poskytnutí dotace vyplývají z Rozhodnutí o poskytnutí dotace, které bylo vydáno
+dne 30. září 2025, a které umožnilo poskytnutí dotačního financování Projektu HDB ve výši
+10.598.136.996 Kč (dále jen „ROPD“); podmínky byly převzaty z tzv. Comfort Letteru Evropské
+komise ze dne 9. dubna 2025 (dále jen „Comfort Letter“), a rovněž potvrzeny Úřadem pro
+ochranu hospodářské soutěže (dále jen „ÚOHS“). Přínosy Projektu HDB jsou blíže popsány
+v příloze č. 1 tohoto materiálu.
+Jednou z podmínek ROPD je provedení oddělení činností výroby, distribuce (rozvodu) a prodeje
+tepla (tzn. realizace projektu unbundlingu společnosti TB) nejpozději do konce roku 2027.
+O nezbytnosti provést unbundling společnosti TB byla informována Rada i Zastupitelstvo města
+Brna, přičemž v návaznosti na to statutární město Brno prostřednictvím dopisu primátorky ze dne
+10. září 2025 vyjádřilo podporu pokračování přípravné fáze a realizace Projektu HDB.
+Rada města Brna následně na své schůzi č. R9/152 konané dne 19. listopadu 2025 (dále jen
+„Schůze č. R9/152“) vzala na vědomí, že nezbytnou podmínkou pro získání financování Projektu
+HDB je splnění požadavků podle Comfort Letteru, resp. ROPD, spočívajících mj. právě v realizaci
+unbundlingu společnosti TB. Rada města Brna dále na této schůzi odsouhlasila provedení
+unbundlingu společnosti TB postupem a za podmínek uvedených v příloze č. 4 zápisu ze Schůze
+č. R9/152 – z této přílohy č. 4 vyplývá, že jako nejvhodnější model, který naplňuje regulatorní
+podmínky Evropské Komise, SFŽP i ÚOHS, a zároveň zachovává plně funkční strukturu
+společnosti TB, byla zvolena varianta vyčlenění stávajících podnikatelských činností společnosti
+TB do 3 samostatných provozních společností (dále jen „Dceřiné společnosti“).
+V návaznosti na to byl zahájen proces přípravy založení těchto Dceřiných společností:
+
+  •   Teplárny Brno Prodej, s.r.o., jejíž zakladatelská listina je v příloze č. 2 tohoto materiálu;
+
+  •   Teplárny Brno Distribuce, a.s., jejíž stanovy jsou v příloze č. 3 tohoto materiálu; a
+
+  •   Teplárny Brno Výroba, a.s., jejíž stanovy jsou v příloze č. 4 tohoto materiálu.
+Dceřiné společnosti budou nově působit vedle již existující dceřiné společnosti Energie Teplárny
+Brno, s.r.o., jejíž činnost zůstane realizací unbundlingu společnosti TB nezměněna. Všechny
+4 společnosti budou vlastněny mateřskou (holdingovou) společností TB, která bude jejich
+jediným akcionářem nebo společníkem.
+Založení Dceřiných společností je tak jedním z klíčových kroků projektu unbundlingu
+společnosti TB, tedy oddělení činností výroby, distribuce a prodeje tepelné energie, a tedy
+i jedním z klíčových kroků k vyplacení dotační podpory ze SFŽP na přípravu a realizaci
+Projetu HDB.
+
+
+
+
+                                                                                                  Strana 4 / 42
+a.       Stručná charakteristika Dceřiných společností
+Níže je uvedena stručná charakteristika jednotlivých Dceřiných společností, přičemž podrobnosti
+vyplývají z jejich zakladatelských dokumentů, které jsou k tomuto materiálu přiloženy.
+Teplárny Brno Prodej, s.r.o.
+
+     •    název společnosti (obchodní firma): Teplárny Brno Prodej, s.r.o.
+
+     •    sídlo společnosti: Okružní 828/25, Lesná, 638 00 Brno (v zakladatelské listině bude
+          uvedeno pouze město Brno)
+
+     •    výše základního kapitálu: 200 000 Kč
+
+     •    předmět činnosti společnosti: správa vlastního majetku
+
+     •    předmět podnikání společnosti: dle zakladatelské listiny
+
+     •    statutární orgán: 2 jednatelé
+     •    způsob jednání za společnost: za společnost jedná každý jednatel samostatně
+
+     •    dozorčí rada: 3 členové dozorčí rady
+Teplárny Brno Distribuce, a.s.
+
+     •    název společnosti (obchodní firma): Teplárny Brno Distribuce, a.s.
+     •    sídlo společnosti: Okružní 828/25, Lesná, 638 00 Brno (ve stanovách bude uvedeno pouze
+          město Brno)
+
+     •    výše základního kapitálu společnosti: 2 000 000 Kč
+
+     •    předmět činnosti společnosti: správa vlastního majetku
+
+     •    předmět podnikání společnosti: dle stanov
+
+     •    statutární orgán: 3 členové představenstva
+
+     •    způsob jednání za společnost: společnost zastupují navenek ve všech věcech dva členové
+          představenstva společně, z nichž alespoň jeden musí být vždy předseda
+     •    dozorčí rada: 3 členové dozorčí rady
+Teplárny Brno Výroba, a.s.
+
+     •    název společnosti (obchodní firma): Teplárny Brno Výroba, a.s.
+
+     •    sídlo společnosti: Okružní 828/25, Lesná, 638 00 Brno (ve stanovách bude uvedeno pouze
+          město Brno)
+
+     •    výše základního kapitálu společnosti: 2 000 000 Kč
+
+     •    předmět činnosti společnosti: správa vlastního majetku
+
+     •    předmět podnikání společnosti: dle stanov
+     •    statutární orgán: 3 členové představenstva
+
+
+
+
+                                                                                             Strana 5 / 42
+     •        způsob jednání za společnost: společnost zastupují navenek ve všech věcech dva členové
+              představenstva společně, z nichž alespoň jeden musí být vždy předseda
+
+     •        dozorčí rada: 3 členové dozorčí rady
+
+b.           Potřeba dalšího projednání                                  souvisejících             záležitostí            Radou       města              Brna
+             a Zastupitelstvem města Brna
+Po založení a vzniku Dceřiných společností bude následně z úrovně jediného akcionáře
+společnosti TB nezbytné rozhodnout do první poloviny roku 2026 o vyčlenění části jmění ze
+společnosti TB do společnosti Teplárny Brno Distribuce, a.s.
+V souladu s ust. § 102 odst. 2 písm. c) a ust. § 85 písm. e) zákona č. 128/2000 Sb., o obcích (obecní
+zřízení), v platném znění, a stanoviskem Ministerstva vnitra ze dne 16. února 2026, ve spojitosti
+se stanoviskem Ministerstva vnitra ze dne 18. listopadu 2025 a ze dne 26. listopadu 2025, je
+rozhodnutí o této otázce ve sdílené pravomoci Rady města Brna i Zastupitelstva města Brna.
+V souladu s výše uvedeným budou předmětné materiály předloženy do orgánů města Brna.
+
+c.           Projednání materiálu v komisích Rady města Brna
+Materiál byl projednán v Komisi majetkové Rady města Brna R9/KM/66 dne 12. února 2026.
+Hlasování Komise majetkové Rady města Brna o předloženém materiálu:
+                 L. Oulehlová
+
+
+
+                                J. Jedelský
+
+
+
+
+                                                                                    J. Ivičičová
+                                                            P. Havelka
+                                              A. Trčálek.
+
+
+
+
+                                                                                                             R. Vašina
+ J. Haluza
+
+
+
+
+                                                                                                                                                  M. Šlapal
+                                                                                                                                      M. Viskot
+                                                                         O. Hýsek
+
+
+
+
+                                                                                                   M.Marek
+
+
+
+
+                                                                                                                           D. Trllo
+
+
+      pro               pro           pro            pro    pro               pro     N            pro               --         pro        pro         pro
+
+Materiál byl projednán v Komisi energetiky Rady města Brna R9/KE/26 dne 20. února 2026.
+Hlasování Komise energetiky Rady města Brna o předloženém materiálu:
+
+
+
+
+d.           Projednání materiálu v Radě města Brna
+Rada města Brna doporučuje Zastupitelstvu města Brna schválit:
+
+        • zakladatelskou listinu společnosti Teplárny Brno Prodej, s.r.o.;
+        • založení společnosti Teplárny Brno Prodej, s.r.o. na základě výše uvedené zakladatelské
+          listiny;
+
+        • kapitálovou účast společnosti Teplárny Brno, a.s. ve společnosti Teplárny Brno Prodej,
+          s.r.o. na základě výše uvedené zakladatelské listiny;
+
+
+
+
+                                                                                                                                                              Strana 6 / 42
+             a
+
+    • stanovy společnosti Teplárny Brno Distribuce, a.s.;
+
+    • založení společnosti Teplárny Brno Distribuce, a.s. na základě výše uvedených stanov;
+
+    • kapitálovou účast společnosti Teplárny Brno, a.s. ve společnosti Teplárny Brno
+      Distribuce, a.s. na základě výše uvedených stanov;
+             a
+
+    • stanovy společnosti Teplárny Brno Výroba, a.s.;
+
+    • založení společnosti Teplárny Brno Výroba, a.s. na základě výše uvedených stanov;
+
+    • kapitálovou účast společnosti Teplárny Brno, a.s. ve společnosti Teplárny Brno Výroba,
+      a.s. na základě výše uvedených stanov.
+Schváleno jednomyslně 9 členy Rady města Brna:
+                                RNDr. Chvátal,
+
+
+
+
+                                                                                               arch.
+                                                                 Ing. Podivinská
+
+
+
+
+                                                                                                                        Ing. Kratochvíl
+                                                 JUDr. Kerndl.
+
+
+
+
+                                                                                                         Petr Bořecký
+
+
+
+
+                                                                                                                                          Matonohová
+
+
+                                                                                                                                                       JUDr. Oliva
+                   Mgr. Černý
+
+
+
+
+                                                                                   Bc. Aberl
+         Vaňková
+
+
+
+
+                                                                                               Bořecký
+ JUDr.
+
+
+
+
+                                                                                                                                          JUDr.
+                                Ph.D.
+
+
+
+
+                                                                                               Ing.
+
+
+
+
+  __                      pro       pro                   pro    pro                     pro     pro     pro                 nepř.           pro               pro
+
+
+
+
+                                                                                                                                                                     Strana 7 / 42
+Strana 8 / 42
+Strana 9 / 42
+Strana 10 / 42
+Strana 11 / 42
+Strana 12 / 42
+              ZAKLADATELSKÁ LISTINA
+                  Teplárny Brno Prodej, s.r.o.
+                                    („společnost“)
+
+1.    OBCHODNÍ FIRMA A SÍDLO
+1.1   Obchodní firma společnosti zní: Teplárny Brno Prodej, s.r.o.
+
+1.2   Sídlo společnosti je: Brno.
+
+1.3   Společnost je právnickou osobou, která byla založena podle práva České republiky,
+      a to v právní formě společnosti s ručením omezeným, a její právní poměry se řídí
+      zejména zákonem č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů
+      („občanský zákoník“), a zákonem č. 90/2012 Sb., o obchodních společnostech a
+      družstvech (zákon o obchodních korporacích), ve znění pozdějších předpisů ( „zákon
+      o obchodních korporacích“).
+
+1.4   Společnost je založena na dobu neurčitou.
+
+
+2.    PŘEDMĚT PODNIKÁNÍ A PŘEDMĚT ČINNOSTI
+
+2.1   Společnost je založena za účelem podnikání, které má průmyslovou a obchodní
+      povahu, s cílem dosahování zisku.
+
+2.2   Předmětem činnosti společnosti je správa vlastního majetku.
+
+2.3   Předmětem podnikání společnosti je:
+
+      a) výroba elektřiny;
+
+      b) rozvod tepelné energie;
+
+      c) výroba tepelné energie;
+
+      d) obchod s elektřinou;
+
+      e) obchod s plynem;
+
+      f) zámečnictví, nástrojářství;
+
+      g) vodoinstalatérství, topenářství;
+      h) provádění staveb, jejich změn a odstraňování ;
+
+      i) klempířství a oprava karoserií;
+
+      j) zednictví;
+
+      k) malířství, lakýrnictví a natěračství;
+
+      l) montáž, opravy, revize a zkoušky elektrických zařízení ;
+
+      m) montáž, opravy, revize a zkoušky tlakových zařízení a nádob na plyny ;
+      n) montáž, opravy, revize a zkoušky plynových zařízení a plnění nádob plyny ;
+
+      o) výroba tepelné energie a rozvod tepelné energie nepodléhající licenci realizovaná
+         ze zdrojů tepelné energie s instalovaným výkonem jednoho zdroje nad 50 kW ;
+
+
+
+                                                                                  1 | 8
+
+
+
+                                                                                          Strana 13 / 42
+      p) výroba, instalace, opravy elektrických strojů a přístrojů, elektronických a
+         telekomunikačních zařízení;
+      q) výroba, obchod a služby neuvedené v přílohách 1 -3 živnostenského zákona, a to
+         v následujících oborech činnost í:
+
+            •   výroba měřicích, zkušebních, navigačních, optických a fotografických
+                přístrojů a zařízení;
+            •   přípravné a dokončovací stavební práce, specializované stavební činnosti;
+            •   sklenářské práce, rámování a paspartování;
+            •   zprostředkování obchodu a služeb;
+            •   velkoobchod a maloobchod;
+            •   nákup, prodej, správa a údržba nemovitostí;
+            •   pronájem a půjčování věcí movitých;
+            •   poradenská a konzultační činnost, zpracování odborných studií a posudků;
+            •   služby v oblasti administrativní správy a služby organizačně hospodářské
+                povahy;
+            •   mimoškolní výchova a vzdělávání, pořádání kurzů, školení, včetně
+                lektorské činnosti;
+            •   poskytování technických služeb;
+            •   opravy a údržba potřeb pro domácnost, předmětů kulturní povahy, výrobků
+                jemné mechaniky, optických přístrojů a měřidel .
+
+
+3.    SPOLEČNÍK, VÝŠE JEHO VKLADU A PODÍLU
+
+3.1   Jediným společníkem společnosti je společnost Teplárny Brno, a.s., se sídlem
+      Okružní 828/25, Lesná, 638 00 Brno, identifikační číslo: 463 47 534, zapsaná v
+      obchodním rejstříku vedeném Krajským soudem v Brně pod sp. zn. B 786
+      („společník“).
+
+3.2   Společník má vklad do základního kapitálu ve výši 200.000 Kč (slovy: dvě stě tisíc
+      korun českých), čemuž odpovídá základní podíl ve výši 100 % (slovy: jedno sto
+      procent).
+
+
+4.    ZÁKLADNÍ KAPITÁL, VÝŠE VKLADU A PODÍLU
+4.1   Výše základního kapitálu společnosti činí 200.000 Kč (slovy: dvě stě tisíc korun
+      českých).
+
+4.2   Ve společnosti existuje jediný druh podílu, a to podíl základní, se kterým nejsou
+      spojena žádná zvláštní práva a povinnosti. Podíl se určuje poměrem vkladu k
+      základnímu kapitálu. Kmenové listy se pro podíly nevydávají.
+
+4.3   Společník je oprávněn převést svůj podíl nebo jeho část na jiného společníka nebo
+      na třetí osobu jen se souhlasem valné hromady. Pokud má společnost jediného
+      společníka, je jeho podíl nebo jeho část převoditelný vždy bez jakéhokoliv omezení.
+
+
+4.4   Podíl může být předmětem zástavního práva. Zastavit podíl lze za stejných
+      podmínek, za jakých ho lze převést.
+
+4.5   Rozdělení podílu je možné. K rozdělení podílu je třeba souhlasu valné hromady. Při
+      rozdělení podílu, vzniká-li samostatný podíl, musí být zachována minimální výše
+
+
+
+
+                                                                                2 | 8
+
+
+
+                                                                                        Strana 14 / 42
+      vkladu 1 Kč (slovy: jedna koruna česká). Pokud má společnost jediného společníka,
+      je rozdělení podílu možné bez jakéhokoliv omezení.
+4.6   Podíl se dědí. Zánikem právnické osoby, která je společníkem, přechází její podíl na
+      jejího právního nástupce.
+
+4.7   Společníci se podílejí na zisku a na jiných vlastních zdrojích určených valnou
+      hromadou k rozdělení mezi společníky v poměru svých podílů, nerozhodne -li valná
+      hromada rozhodující o rozdělení zisku jinak. Podíl na zisku se vyplácí v penězích.
+
+
+5.    ORGÁNY SPOLEČNOSTI
+
+5.1   Orgány společnosti jsou:
+
+      a) valná hromada;
+
+      b) jednatelé; a
+
+      c) dozorčí rada.
+
+
+6.    VALNÁ HROMADA
+
+6.1   Valná hromada je nejvyšším orgánem společnosti.
+6.2   Valnou hromadu svolávají jednatelé alespoň jednou za rok, a to tak, aby projednala
+      řádnou účetní závěrku nejpozději do 6 (slovy: šesti) měsíců od posledního dne
+      předcházejícího účetního období.
+6.3   Místo, datum a hodina konání valné hromady a její pořad se společníkům oznámí
+      písemně nejméně 15 (slovy: patnáct) dnů přede dnem jejího konání. Společníci se
+      mohou vzdát práva na včasné a řádné svolání valné hromady písemným prohlášením
+      s úředně ověřeným podpisem nebo ústním prohlášením učiněným na valné hromadě.
+
+6.4   Každý společník má 1 (slovy: jeden) hlas na každou 1 Kč (slovy: jednu korunu
+      českou) svého vkladu. Celkový počet hlasů ve společnosti je 200.000 (slovy: dvě stě
+      tisíc).
+6.5   Valná hromada je usnášeníschopná, jsou-li přítomni společníci mající nadpoloviční
+      většinu všech hlasů na valné hromadě společnosti.
+6.6   Valná hromada rozhoduje prostou většinou hlasů přítomných společníků, pokud
+      příslušné právní předpisy nebo tato zakladatelská listina nepožadují vyšší většinu.
+
+6.7   Do působnosti valné hromady patří zejména:
+      a) rozhodování o změně obsahu zakladatelské listiny, nedochází-li k ní na základě
+         jiných právních skutečností;
+
+      b) rozhodování o změnách výše základního kapitálu nebo o připuštění nepeněžitého
+         vkladu či o možnosti započtení peněžité pohledávky vůči společnosti proti
+         pohledávce na splnění vkladové povinnosti;
+
+      c) volba a odvolání jednatelů společnosti a schvalování jejich smluv o výkonu
+         funkce, včetně rozhodování o odměňování;
+      d) volba a odvolání členů dozorčí rady a schvalování jejich smluv o výkonu funkce,
+         včetně rozhodování o odměňování;
+
+
+
+
+                                                                                 3 | 8
+
+
+
+                                                                                         Strana 15 / 42
+e) schvalování udělení a odvolání prokury, včetně rozhodování o odměňování
+   prokuristy;
+
+f) volba a odvolání likvidátora, včetně rozhodování o odměňování likvidátora;
+
+g) rozhodování o zrušení společnosti s likvidací;
+
+h) schvalování řádné, mimořádné, konsolidované účetní uzávěrky a v případech
+   stanovených zákonem i mezitímní účetní uzávěrky, rozdělení zisku nebo jiných
+   vlastních zdrojů a úhrady ztrát;
+
+i) schválení výroční zprávy;
+
+j) řešení sporů mezi orgány společnosti;
+
+k) schválení kapitálové účasti společnosti v jiných právnických osobách a jejích
+   změn, včetně založení nové právnické osoby, schválení účasti společnosti v
+   koncernu s jinými společnostmi, či ukončení účasti společnosti v koncernu s jinými
+   společnostmi;
+
+l) rozhodování o přeměně společnosti, vyplývá -li to z příslušného zákona;
+
+m) rozhodování o pachtu, převodu nebo zastavení závodu nebo takové části jmění,
+   která by znamenala podstatnou změnu skutečného předmětu podnikání nebo
+   činnosti společnosti;
+n) schválení smlouvy o tiché společnosti a jiných smluv, jimiž se zakládá právo na
+   podíl na zisku společnosti nebo jiných vlastních zdrojích;
+
+o) schválení poskytnutí finanční asistence;
+
+p) rozhodování o vydání kmenového listu;
+
+q) schvalování převodu podílu na jiného společníka nebo třetí osobu a zástavy
+   podílu;
+
+r) schvalování rozdělení podílu;
+s) udělování pokynů týkajících se obchodního vedení společnosti, byla -li valná
+   hromada o udělení takového pokynu požádána jednatelem či jednateli;
+t) schvalování zásad a pokynů pro jednatele mimo obchodní vedení společnosti,
+   pokud jsou v souladu s právními předpisy a zakladatelskou listinou společnosti;
+
+u) schvalování zásad pro dozorčí radu, pokud jsou v souladu s právními předpisy a
+   zakladatelskou listinou společnosti;
+v) schvalování vnitřních předpisů o odměňování volených orgánů společnosti;
+
+w) schvalování jiných plnění členům volených orgánů společnosti, než na která plyne
+   právo z právního předpisu, ze smlouvy o výkonu funkce nebo z vnitřního předpisu;
+x) schvalování investičního plánu společnosti ;
+
+y) schvalování finančního plánu společnosti ;
+z) udělení předchozího souhlasu s uzavřením smluv o prodeji nebo nákupu
+   nemovitého majetku nad částku 10.000.000 Kč (slovy: deset milionů korun
+   českých);
+
+
+
+
+                                                                             4 | 8
+
+
+
+                                                                                     Strana 16 / 42
+      aa) další případy, které do působnosti valné hromady svěřuje zákon, jiný právní
+          předpis nebo tato zakladatelská listina.
+6.8   Valná hromada si může vyhradit rozhodování o věcech, které jinak náležejí do
+      působnosti jiných orgánů společnosti.
+
+6.9   Má-li společnost jediného společníka, vykonává působnost valné hromady jediný
+      společník.
+
+
+7.    JEDNATELÉ A ZPŮSOB JEDNÁNÍ ZA SPOLEČNOST
+
+7.1   Statutárním orgánem jsou jednatelé, kterým přísluší obchodní vedení společnosti.
+      Jednatelé netvoří kolektivní orgán.
+
+7.2   Jednatele volí a odvolává valná hromada.
+
+7.3   Společnost má 2 (slovy: dva) jednatele.
+
+7.4   Za společnost jedná každý jednatel samostatně.
+
+7.5   Na jednatele společnosti se vztahuje zákaz konkurence. Jednatelé nesmí:
+
+      a) podnikat v předmětu činnosti nebo podnikání společnosti, a to ani ve prospěch
+         jiných osob, ani zprostředkovávat obchody společnosti pro jiného;
+
+      b) být členem statutárního orgánu jiné právnické osoby s obdobným předmětem
+         činnosti nebo podnikání nebo osobou v obdobném postavení, ledaže se jedná o
+         koncern, společníka nebo jinou právnickou osobu ovládanou společníkem; a/nebo
+
+      c) účastnit se na podnikání jiné obchodní korporace jako společník s neomezeným
+         ručením nebo jako ovládající osoba jiné osoby se stejným nebo obdobným
+         předmětem činnosti nebo podnikání.
+
+      Pokud jednatel na některou z výše uvedených zakázaných činností písemně
+      upozornil valnou hromadu, má se za to, že tento jednatel činnost, které se zákaz
+      týká, zakázanou nemá. To neplatí, pokud valná hromada vyslovila nesouhlas s výše
+      uvedenou činností do 1 (slovy: jednoho) měsíce ode dne, kdy byla na tyto okolnosti
+      upozorněna.
+
+
+8.    DOZORČÍ RADA
+8.1   Společnost zřizuje dozorčí radu, která je kontrolním orgánem společnosti.
+
+8.2   Dozorčí rada má 3 (slovy: tři) členy, kteří jsou voleni na 5 (slovy: pět) let .
+      Opětovná volba člena dozorčí rady je možná.
+8.3   Členy dozorčí rady volí a odvolává valná hromada.
+
+8.4   Členové dozorčí rady volí ze svého středu předsedu.
+
+8.5   Do působnosti dozorčí rady náleží:
+      a) dohlížení na činnost jednatelů;
+
+      b) nahlížení do obchodních a účetních knih, jiných dokladů a účetních závěrek
+         společnosti a kontrola tam obsažených údajů;
+      c) podání žaloby podle § 159 zákona o obchodních korporacích; a
+
+      d) další záležitosti svěřené jí právními předpisy.
+
+
+
+                                                                                  5 | 8
+
+
+
+                                                                                          Strana 17 / 42
+8.6    Dozorčí rada podává jednou za rok zprávu o své činnosti valné hromadě společnosti.
+
+8.7    Dozorčí rada se schází podle potřeby, nejméně jednou za 3 (slovy: tři) měsíce.
+       Řádná jednání dozorčí rady svolává předseda pozvánkou, která musí být členům
+       dozorčí rady doručena nejpozději 4 (slovy: čtyři) kalendářní dny před dnem jednání
+       dozorčí rady a musí obsahovat program, termín a místo jednání. V případech, kdy
+       dozorčí rada nemá předsedu, svolává dozorčí radu kterýkoli její člen .
+
+8.8    Dozorčí rada je usnášeníschopná za přítomnosti nadpoloviční většiny členů. Dozorčí
+       rada rozhoduje o projednávaných záležitostech většinou hlasů přítomných členů
+       dozorčí rady. V případě rovnosti hlasů rozhoduje hlas předsedy.
+
+8.9    Předseda dozorčí rady svolá jednání dozorčí rady vždy, požádá -li jej o to některý z
+       jejích členů nebo jednatel společnosti za současného uvedení důvodu pro svolání, a
+       to do 14 (slovy: čtrnácti) dnů ode dne doručení žádosti. Jestliže předseda dozorčí
+       rady tuto povinnost nesplní, svolá jednání jakýkoli její člen.
+
+8.10   Členové dozorčí rady se můžou vzdát práva na včasné a řádné svolání jednání
+       dozorčí rady písemným prohlášením s úředně ověřeným podpisem nebo ústním
+       prohlášením učiněným na jednání dozorčí rady.
+
+8.11   Připouští se rozhodování dozorčí rady per rollam. Při hlasování per rollam zašle
+       osoba oprávněná ke svolání dozorčí rady všem členům dozorčí rady návrh
+       rozhodnutí. Návrh rozhodnutí obsahuje text navrhovaného rozhodnutí, lhůtu pro
+       doručení vyjádření člena dozorčí rady, jinak platí lhůta 7 (slovy: sedm) dnů od
+       doručení návrhu členu dozorčí rady; stanovení lhůty pevným datem se připouští.
+       Nedoručí-li člen dozorčí rady své vyjádření ve lhůtě dle předchozí věty osobě, která
+       návrh rozhodnutí odeslala, platí, že s návrhem nesouhlasí, přičemž k případnému
+       vyjádření doručenému po lhůtě dle předchozí věty se nepřihlíží. Rozhodná většina
+       se počítá z celkového počtu hlasů všech členů dozorčí rady. Rozhodnutí je přijato
+       dnem, v němž bylo doručeno vyjádření posledního čle na dozorčí rady k návrhu
+       rozhodnutí, jinak uplynutím lhůty stanovené pro doručení vyjádření členů dozorčí
+       rady k návrhu rozhodnutí, vždy za podmínky, že bylo dosaženo nadpolovičního počtu
+       hlasů souhlasících s návrhem rozhodnutí. Rozhodnutí přijatá per roll am musí být
+       zapsána v zápise na časově následujícím jednání dozorčí rady.
+8.12   Dozorčí rada je oprávněna přijmout jednací řád dozorčí rady, v němž upraví zásady
+       jednání dozorčí rady a jeho podrobnosti v souladu s touto zakladatelskou listinou a
+       právními předpisy.
+8.13   Připouští se jednání a rozhodování dozorčí rady s využitím technických prostředků,
+       zejména     prostřednictvím  elektronických   zařízení,   např.   formou   on -line
+       videokonference, popřípadě telekonference zabezpečující přítomnost připojených
+       osob v reálném čase. Využití technických prostředků a jeho rozsah se poznamená
+       do zápisu o průběhu jednání dozorčí rady.
+
+8.14   Na členy dozorčí rady se vztahuje zákaz konkurence. Členové dozorčí rady nesmí:
+       a) podnikat v předmětu činnosti nebo podnikání společnosti, a to ani ve prospěch
+          jiných osob, ani zprostředkovávat obchody společnosti pro jiného;
+       b) být členem statutárního orgánu jiné právnické osoby s obdobným předmětem
+          činnosti nebo podnikání nebo osobou v obdobném postavení, ledaže se jedná o
+          koncern, společníka nebo jinou právnickou osobu ovládanou společníkem; a/nebo
+
+
+
+
+                                                                                  6 | 8
+
+
+
+                                                                                          Strana 18 / 42
+       c) účastnit se na podnikání jiné obchodní korporace jako společník s neomezeným
+          ručením nebo jako ovládající osoba jiné osoby se stejným nebo obdobným
+          předmětem činnosti nebo podnikání.
+
+       Pokud člen dozorčí rady na některou z výše uvedených zakázaných činností písemně
+       upozornil valnou hromadu, má se za to, že tento člen dozorčí rady činnost, které se
+       zákaz týká, zakázanou nemá. To neplatí, pokud valná hromada vyslovila nesouhlas
+       s výše uvedenou činností do jednoho (1) měsíce ode dne, kdy byla na tyto okolnosti
+       upozorněna.
+
+
+9.     PRÁVO NA INFORMACE
+
+9.1    Bez ohledu na zřízení dozorčí rady má společník právo požadovat jakékoli informace
+       týkající se společnosti, a to v rozsahu stanoveném v § 155 a 156 zákona o
+       obchodních korporacích.
+
+
+10.    ZÁVĚREČNÁ UJEDNÁNÍ
+
+10.1   Každý z jednatelů bez zbytečného odkladu poté, co se dozví, že došlo ke změně této
+       zakladatelské listiny na základě jakékoliv právní skutečnosti, je povinen vyhotovit
+       úplné znění této zakladatelské listiny a uložit ho spolu s listinami prokazujícími
+       změnu do sbírky listin obchodního rejstříku.
+10.2   Práva a povinnosti společníka, jednatele, jakož i právní poměry a právní vztahy touto
+       zakladatelskou listinou výslovně neupravené se řídí příslušnými právními předpisy.
+       V případě, že některé ustanovení zakladatelské listiny se, ať už vzhledem k platným
+       právním předpisům nebo k jejich změnám ukáže neplatným nebo neúčinným nebo
+       budou-li některá ustanovení chybět, zůstávají ostatní ustanovení zakladatelské
+       listiny touto skutečností nedotčena. Na místo dotčeného ustanovení nastupuje
+       ustanovení příslušného právního předpisu, které je svou povahou a účelem nejbližší
+       zamýšlenému účelu zakladatelské listiny.
+
+
+11.    DALŠÍ NÁLEŽITOSTI PŘI ZALOŽENÍ SPOLEČNOSTI
+11.1   Společník přebírá vkladovou povinnost ve výši odpovídající jeho vkladu dle odst. 3.2
+       této zakladatelé listiny a společník se ji zavazuje splnit splacením v penězích, tedy
+       svým peněžitým vkladem. Tento peněžitý vklad je společník povinen ve výši 100 %
+       splatit na zvláštní účet u banky nebo spořitelního a úvěrního družstva, který zřídí
+       správce vkladů do 3 (slovy: tří) měsíců ode dne sepsání této zakladatelské listiny.
+
+11.2   Společník určuje, že prvními jednateli jsou:
+       a)   Ing. Petr Fajmon, MBA,
+
+
+       b)   Ing. Přemysl Měchura,
+
+
+11.3   Společník určuje, že prvními členy dozorčí rady jsou:
+
+       a)   Ing. Daniel Struž, MBA,
+
+
+
+
+                                                                                   7 | 8
+
+
+
+                                                                                           Strana 19 / 42
+       b)   Mgr. Martin Maleček,                                                               8
+            00 Brno;
+       c)   Ing. Andrea Pazderová,
+
+
+11.4   Společník dále určuje, že správcem vkladu je: Mgr. Pavel Tesařík,
+
+
+11.5   Společník dále prohlašuje, že souhlasí s tím, aby byl zapsán jako jediný společník
+       společnosti do obchodního rejstříku.
+11.6   Tento článek 11 zakladatelské listiny lze po vzniku společnosti a po splnění vkladové
+       povinnosti společníka ze zakladatelské listiny vypustit, což tato zakladatelská listina
+       svěřuje do působnosti jednatele.
+
+
+
+
+                                                                                     8 | 8
+
+
+
+                                                                                             Strana 20 / 42
+                                          STANOVY
+                                Teplárny Brno Distribuce, a.s.
+
+                                           („společnost")
+
+I)     Obchodní firma, sídlo a právní forma společnosti
+1.     Obchodní firma společnosti zní: Teplárny Brno Distribuce, a.s.
+2.     Sídlem společnosti je: Brno.
+3.     Společnost je právnickou osobou, která byla založena podle práva České republiky, a to
+       v právní formě akciové společnosti, a její právní poměry se řídí zejména zákonem č. 89/2012
+       Sb., občanský zákoník, ve znění pozdějších předpisů („ občanský zákoník“), a zákonem č.
+       90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních korporacích), ve
+       znění pozdějších předpisů („zákon o obchodních korporacích“).
+4.     Společnost byla založena na dobu neurčitou.
+
+II)    Jednání a podepisování za společnost
+1.     Za společnost jedná představenstvo. Společnost zastupují navenek ve všech věcech dva
+       členové představenstva společně, z nichž alespoň jeden musí být vždy předseda.
+2.     Podepisování za společnost se děje tak, že k vytištěné nebo nadepsané firmě společnosti
+       připojí svůj podpis zastupující osoby dle odst. 1 tohoto článku.
+
+III)   Předmět podnikání a činnosti
+1.     Společnost je založena za účelem podnikání, které má průmyslovou a obchodní povahu, s
+       cílem dosahování zisku.
+2.     Předmětem činnosti společnosti je správa vlastního majetku.
+3.     Předmětem podnikání společnosti je:
+       a)   výroba elektřiny;
+       b)   rozvod tepelné energie;
+       c)   zámečnictví, nástrojářství;
+       d)   vodoinstalatérství, topenářství;
+       e)   provádění staveb, jejich změn a odstraňování ;
+       f)   klempířství a oprava karoserií;
+       g)   zednictví;
+       h)   malířství, lakýrnictví a natěračství;
+       i)   výroba, instalace, opravy          elektrických   strojů   a   přístrojů,   elektronických   a
+            telekomunikačních zařízení;
+       j)   výroba, obchod a služby neuvedené v přílohách 1 -3 živnostenského zákona, a to v
+            následujících oborech činností:
+               •   výroba měřicích, zkušebních, navigačních, optických a fotografických přístrojů a
+                   zařízení;
+               •   přípravné a dokončovací stavební práce, specializované stavební činnosti;
+               •   sklenářské práce, rámování a paspartování;
+               •   zprostředkování obchodu a služeb;
+               •   velkoobchod a maloobchod;
+               •   nákup, prodej, správa a údržba nemovitostí;
+
+
+                                                                                                             1
+
+                                                                                                    Strana 21 / 42
+              •   pronájem a půjčování věcí movitých;
+              •   poradenská a konzultační činnost, zpracování odborných studií a posudků ;
+              •   služby v oblasti administrativní správy a služby organizačně hospodářské
+                  povahy;
+              •   mimoškolní výchova a vzdělávání, pořádání kurzů, školení, včetně lektorské
+                  činnosti;
+              •   poskytování technických služeb;
+              •   opravy a údržba potřeb pro domácnost, předmětů kulturní povahy, výrobků
+                  jemné mechaniky, optických přístrojů a měřidel .
+
+IV)   Základní kapitál, počet, druh, forma, jmenovitá hodnota a podoba vydaných akcií
+1.    Základní kapitál společnosti činí 2.000.000 Kč (slovy: dva miliony korun českých).
+2.    Společnost vydala jeden druh akcií, se kterými jsou spojena stejná práva. Všechny akcie jsou
+      vydány ve formě akcií na jméno v zaknihované podobě, které nejsou přijaty jako účastnické
+      cenné papíry k obchodování na evropském regulovaném trhu („ akcie“).
+3.    Akcie společnosti jsou neomezeně převoditelné.
+4.    Základní kapitál je rozvržen na celkem 10 (slovy: deset) kusů akcií v zaknihované podobě
+      ve formě na jméno o následujících jmenovitých hodnotách:
+         -   10 ks (slovy: deset kusů) akcií o jmenovité hodnotě jedné akcie ve výši 200.000
+             (slovy: dvě stě tisíc korun českých).
+5.    S každou z uvedených akcií je spojen jeden (1) hlas . Celkový počet hlasů ve společnosti činí
+      10 (slovy: deset). Na valné hromadě se hlasuje veřejně zvednutím ruky , nerozhodne-li valná
+      hromada v konkrétním případě jinak.
+6.    S každou akcií společnosti je spojeno právo akcionáře jako společníka podílet se podle
+      zákona o obchodních korporacích a stanov společnosti na jejím řízení, jejím zisku nebo na
+      likvidačním zůstatku při jejím zrušení s likvidací.
+7.    Akcie se zapisují do seznamu akcionářů, který vede společnost. Seznam akcionářů není
+      nahrazen evidencí zaknihovaných cenných papírů . Do seznamu akcionářů se zapisuje číselné
+      označení akcie (je-li relevantní), její jmenovitá hodnota, jméno a bydliště nebo sídlo
+      akcionáře, číslo bankovního účtu a změny zapisovaných údajů. Do seznamu akcionářů se
+      zapisuje také oddělení nebo převod samostatně převoditelného práva. Tento seznam
+      akcionářů může obsahovat i e-mailovou adresu akcionáře, na kterou mu bude společnost
+      doručovat všechny písemnosti a oznámení, zejména pak i pozvánku na valnou hromadu.
+8.    Má se za to, že ve vztahu ke společnosti je akcionářem ten, kdo je zapsán v seznamu
+      akcionářů. Společnost zapíše nového vlastníka do seznamu akcionářů bez zbytečného
+      odkladu poté, co jí bude změna osoby akcionáře prokázána. Údaje zapsané v seznamu
+      akcionářů může společnost používat pouze pro své potřeby ve vztahu k akcionářům. Za jiným
+      účelem může tyto údaje společnost použít jen se souhlasem akcionářů, kterých se údaje
+      týkají.
+9.    Převod akcie je vůči Společnosti účinný, bude-li jí prokázána změna osoby
+      vlastníka akcie výpisem z účtu vlastníka nebo dnem doručení či převzetí výpisu z evidence
+      emise akcií podle zákona upravujícího podnikání na kapitálovém trhu. Práva spojená s akcí
+      vykoná ten, kdo je k rozhodnému dni zapsán jako její vlastník, a není -li stanoven rozhodný
+      den, ke dni, kdy právo uplatňuje.
+
+V)    Zvýšení základního kapitálu
+1.    O zvýšení základního kapitálu rozhoduje valná hromada, a to i bez návrhu představenstva.
+      Účinky zvýšení základního kapitálu nastávají okamžikem zápisu nové výše základního
+      kapitálu do obchodního rejstříku.
+2.    Základní kapitál lze zvýšit způsoby a právními tituly upravenými v zákoně o obchodních
+      korporacích. Při zvýšení základního kapitálu se postupuje podle úpravy obsažené v
+      příslušných ustanoveních zákona o obchodních korporacích, a to v závislosti na zvoleném
+      způsobu zvýšení základního kapitálu.
+
+                                                                                                   2
+
+                                                                                           Strana 22 / 42
+VI)    Snížení základního kapitálu
+1.     O snížení základního kapitálu rozhoduje valná hromada, a to i bez návrhu představenstva.
+       Základní kapitál nelze snížit pod jeho minimální výši 2.000.000 Kč (slovy : dva miliony korun
+       českých). Snížením základního kapitálu se nesmí zhoršit dobytnost pohledávek věřitelů.
+2.     Při snižování základního kapitálu se postupuje podle úpravy obsažené v příslušných
+       ustanoveních zákona o obchodních korporacích, a to v závislosti na zvoleném způsobu
+       snížení základního kapitálu. Usnesení valné hromady o snížení základního kapitálu
+       vykonává představenstvo.
+
+
+VII)   Orgány společnosti
+1.     Systém vnitřní struktury společnosti je dualistický.
+2.     Orgány společnosti jsou
+          a)   valná hromada;
+          b)   představenstvo; a
+          c)   dozorčí rada.
+3.     Společnost může zvolený systém své vnitřní struktury měnit změnou těchto stanov.
+
+VIII) Valná hromada
+1.     Nejvyšším orgánem společnosti je valná hromada, na které akcionáři vykonávají své právo
+       podílet se na řízení společnosti.
+2.     Rozhodným dnem k účasti na valné hromadě je sedmý den předcházející dni konání valné
+       hromady. Společnost si nejpozději do dne konání valné hromady opatří z evidence
+       zaknihovaných cenných papírů výpis emise k rozhodnému dni.
+3.     Má-li společnost jediného akcionáře, pak se valná hromada společnosti nekoná a její
+       působnost vykonává tento jediný akcionář.
+4.     Do působnosti valné hromady náleží:
+          a)   rozhodování o změně stanov, nejde-li o změnu v důsledku zvýšení základního
+               kapitálu pověřeným představenstvem nebo o změnu, ke které došlo na základě jiných
+               právních skutečností;
+          b)   rozhodování o změně výše základního kapitálu a o pověření představenstva ke
+               zvýšení základního kapitálu;
+          c)   rozhodování o možnosti započtení peněžité pohledávky vůči společnosti proti
+               pohledávce na splacení emisního kursu ;
+          d)   rozhodování o vydání vyměnitelných nebo prioritních dluhopisů ;
+          e)   volba a odvolání členů představenstva a dozorčí rady;
+          f)   schválení řádné, mimořádné nebo konsolidované účetní závěrky a v případech
+               stanovených zákonem i mezitímní účetní závěrky;
+          g)   rozhodnutí o rozdělení zisku nebo jiných vlastních zdrojů, nebo o úhradě ztráty ;
+          h)   rozhodování o podání žádosti k přijetí účastnických cenných papírů společnosti k
+               obchodování na evropském regulovaném trhu nebo o vyřazení těchto cenných papírů
+               z obchodování na evropském regulovaném trhu ;
+          i)   rozhodnutí o zrušení společnosti s likvidací, jmenování a odvolání likvidátora, včetně
+               určení výše jeho odměny;
+          j)   schválení konečné zprávy o průběhu likvidace a návrhu na použití likvidačního
+               zůstatku;
+          k)   rozhodnutí o přeměně společnosti, ledaže zákon upravující přeměny obchodních
+               společností a družstev stanoví jinak ;
+
+
+                                                                                                        3
+
+                                                                                               Strana 23 / 42
+           l)     schválení převodu, pachtu nebo zastavení závodu nebo takové části jmění, která by
+                  znamenala podstatnou změnu skutečného předmětu podnikání nebo činnosti
+                  společnosti;
+           m) rozhodnutí o převzetí účinků jednání učiněných za společnost před jejím vznikem ;
+           n)     schválení ovládací smlouvy, smlouvy o převodu zisku a smlouvy o tiché společnosti
+                  a jiných smluv, jimž se zakládá právo na podílu na zisku nebo jiných vlastních
+                  zdrojích společnosti, včetně jejich změn a jejich zrušení ;
+           o)     rozhodnutí o změně práv náležejících jednotlivým druhům akcií ;
+           p)     rozhodnutí o přeměně zaknihovaných akcií na akcie listinné a naopak ;
+           q)     rozhodnutí o podání žádosti o povolení k veřejné obchodovatelnosti a o zrušení
+                  veřejné obchodovatelnosti;
+           r)     řešení sporů mezi orgány společnosti;
+           s)     schválení kapitálové účasti společnosti v jiných právnických osobách a jejích změn,
+                  včetně založení nové právnické osoby, schválení účasti společnosti v koncernu s
+                  jinými společnostmi, či ukončení účasti společnosti v koncernu s jinými společnostmi ;
+           t)     udělování pokynů představenstvu týkajících se obchodního vedení společnosti, byla -
+                  li valná hromada o udělení takového pokynu požádána členem představenstva nebo
+                  představenstvem společnosti;
+           u)     schvalování zásad a pokynů pro představenstvo mimo obchodní vedení společnosti,
+                  pokud jsou v souladu s právními předpisy a stanovami společnosti ;
+           v)     schvalování zásad pro dozorčí radu, pokud jsou v souladu s právními předpisy a
+                  stanovami společnosti;
+           w)     schvalování smluv o výkonu funkce členů volených orgánů společnosti, včetně výše
+                  odměny za výkon funkce;
+           x)     schvalování vnitřních předpisů o odměňování volených orgánů společnosti ;
+           y)     schvalování jiných plnění členům volených orgánů společnosti, než na která plyne
+                  právo z právního předpisu, ze smlouvy o výkonu funkce nebo z vnitřního předpisu ;
+           z)     vzetí na vědomí výroční zprávy či zprávy představenstva o podnikatelské činnosti
+                  společnosti a o stavu jejího majetku;
+           aa) schválení termínů výplaty podílu na zisku akcionáři odlišných od zákona o
+               obchodních korporacích;
+           bb) schválení investičního plánu pro konkrétní účetní období ;
+           cc) udělení předchozího souhlasu s uzavřením smluv o prodeji nebo nákupu nemovitého
+               majetku nad částku 10.000.000 Kč (slovy: deset milionů korun českých) ;
+           dd) rozhodnutí o dalších otázkách, které právní předpisy nebo tyto stanovy zahrnují do
+               působnosti valné hromady.
+
+IX)   Představenstvo
+1.    Představenstvo je statutárním orgánem společnosti, kterému přísluší obchodní vedení
+      společnosti.
+2.    Představenstvo rozhoduje o všech záležitostech společnosti, pokud nejsou zákonem o
+      obchodních korporacích nebo těmito stanovami vyhrazeny do působnosti jiného orgánu
+      společnosti.
+3.    Představenstvo se řídí zásadami a pokyny schválenými valnou hromadou, pokud jsou v
+      souladu s právními předpisy a stanovami. Nikdo však není oprávněn udělovat
+      představenstvu pokyny týkající se obchodního vedení společnosti, s výjimkou:
+      a)        valné hromady, pokud člen představenstva nebo představenstvo požádá o udělení
+                pokynu týkajícího se obchodního vedení společnosti valnou hromadu; tím není dotčena
+                povinnost člena představenstva jednat s péčí řádného hospodáře; nebo
+      b)        řídící osoby koncernu koncernovým pokynem za podmínek § 81 zákona o obchodních
+                korporacích.
+
+                                                                                                           4
+
+                                                                                                  Strana 24 / 42
+      Pokyny dle písmen a) a b) výše v tomto odstavci je představenstvo vázáno.
+4.    Představenstvo je povinno společně s účetní závěrkou předkládat valné hromadě zprávu o
+      podnikatelské činnosti společnosti a o stavu jejího majetku jednou ročně.
+5.    Představenstvo má 3 (slovy: tři) členy, kteří jsou voleni a odvolávání valnou hromadou.
+      Funkční období člena představenstva činí 5 (slovy: pět) let. Opětovná volba člena
+      představenstva je možná.
+6.    Představenstvo volí a odvolává ze svých členů předsedu.
+7.    Člen představenstva vykonává svoji funkci osobně, to však nebrání tomu, aby člen písemně
+      zmocnil pro jednotlivý případ jiného člena téhož orgánu, aby za něho při jeho neúčasti
+      hlasoval.
+8.    Členem představenstva může být jen osoba, která k tomu splňuje požadavky právních
+      předpisů a za podmínek tam uvedených.
+9.    Člen představenstva, který odstoupí z funkce, je povinen oznámit odstoupení písemně
+      jedinému akcionáři společnosti. Výkon funkce končí uplynutím 2 (slovy: dvou) měsíců ode
+      dne doručení oznámení odstoupení jedinému akcionáři, neschválí -li na žádost odstupujícího
+      člena představenstva jiný okamžik zániku funkce. Funkce člena představenstva zaniká také,
+      je-li za něj zvolen nový člen.
+10.   Členové představenstva jsou povinni zachovávat mlčenlivost o důvěrných informacích a
+      skutečnostech, které se při výkonu své funkce dozvěděli, jejichž prozrazení třetím osobám
+      by mohlo způsobit společnosti újmu. Povinnost mlčenlivosti se netýká předávání dů věrných
+      informací či informací tvořících obchodní tajemství společnostem a jejich orgánům v rámci
+      koncernu za účelem naplňování koncernových zájmů, bude -li zajištěna dostatečná ochrana
+      těchto informací v rámci koncernu.
+11.   Představenstvo se schází podle potřeby . Řádná jednání představenstva svolává předseda
+      pozvánkou, která musí být členům představenstva doručena nejpozději 4 (slovy: čtyři)
+      kalendářní dny přede dnem jednání představenstva a musí obsahovat pořad, místo, datum
+      a hodinu jednání. V případech, kdy společnost nemá předsedu, svolává představenstvo
+      kterýkoliv člen představenstva. Je-li jednání svoláno jiným způsobem či v jiné lhůtě, mohou
+      se členové představenstva v úvodu jednání vzdát práva na řádné a včasné svolání jednání
+      představenstva.
+12.   Na žádost kteréhokoliv člena představenstva, doručenou předsedovi, musí být
+      představenstvo svoláno nejpozději do 7 (slovy: sedmi) dnů ode dne doručení žádosti, která
+      musí obsahovat odůvodnění a navrhovaný pořad jednání.
+13.   Představenstvo, které je usnášeníschopné za přítomnosti nadpoloviční většiny členů,
+      rozhoduje o projednávaných záležitostech většinou hlasů přítomných členů představenstva.
+      Každý člen představenstva má 1 (slovy: jeden) hlas. V případě rovnosti hlasů rozhoduje hlas
+      předsedy.
+14.   Jednání představenstva řídí předseda nebo pověřený člen představenstva. O průběhu
+      jednání představenstva a o jeho rozhodnutích se pořizuje zápis, který podepisuje
+      předsedající a zapisovatel; přílohou zápisu je seznam přítomných. Zápis obsahuje místo,
+      datum a hodinu jednání, účast členů představenstva a ostatních přítomných osob a usnesení
+      představenstva. V zápisu musí být jmenovitě uvedeni členové představenstva, kteří hlasovali
+      proti jednotlivým usnesením představenstva nebo se zdrželi hlasování; u neuvede ných členů
+      se má za to, že hlasovali pro přijetí rozhodnutí.
+15.   Představenstvo je oprávněno přijmout jednací řád představenstva, v němž upraví zásady
+      jednání představenstva a jeho podrobnosti v souladu s těmito stanovami a právními
+      předpisy.
+16.   Připouští se rozhodování představenstva per rollam. Při hlasování per rollam zašle osoba
+      oprávněná ke svolání představenstva všem členům představenstva návrh rozhodnutí. Návrh
+      rozhodnutí obsahuje text navrhovaného rozhodnutí, lhůtu pro doručení vyjádření č lena
+      představenstva, jinak platí lhůta 7 (slovy: sedm) dnů od doručení návrhu členu
+      představenstva; stanovení lhůty pevným datem se připouští. Nedoručí -li člen představenstva
+      své vyjádření ve lhůtě dle předchozí věty osobě, která návrh rozhodnutí odeslala, platí, že s
+      návrhem nesouhlasí, přičemž k případnému vyjádření doručenému po lhůtě dle předchozí
+      věty se nepřihlíží. Rozhodná většina se počítá z celkového počtu hlasů všech členů
+      představenstva. Rozhodnutí je přijato dnem, v němž bylo doručeno vyjádření posledního
+
+                                                                                                      5
+
+                                                                                             Strana 25 / 42
+      člena představenstva k návrhu rozhodnutí, jinak uplynutím lhůty stanovené pro doručení
+      vyjádření členů představenstva k návrhu rozhodnutí, vždy za podmínky, že bylo dosaženo
+      nadpolovičního počtu hlasů souhlasících s návrhem rozhodnutí. Rozhodnutí přijatá p er
+      rollam musí být zapsána v zápise na časově následujícím jednání představenstva.
+17.   Členové představenstva oznámí společnosti e-mailové adresy pro elektronickou komunikaci.
+      V případě změny e-mailové adresy pro elektronickou komunikaci nastávají účinky takové
+      změny oznámením nové e-mailové adresy společnosti členem představenstva.
+18.   Připouští se jednání a rozhodování představenstva s využitím technických prostředků,
+      zejména prostřednictvím elektronických zařízení, např. formou on -line videokonference,
+      popřípadě telekonference zabezpečující přítomnost připojených osob v reálném čase.
+      Využití technických prostředků a jeho rozsah se poznamená do zápisu o průběhu jednání
+      představenstva. Další podrobnosti případně stanoví jednací řád představenstva.
+19.   Představenstvo zajišťuje podklady pro rozhodnutí valné hromady a valné hromadě předkládá :
+      a)   ke schválení řádnou, mimořádnou, konsolidovanou, případně mezitímní účetní závěrku
+           a také návrh na rozdělení zisku nebo jiných vlastních zdrojů nebo úhrady ztráty, dále
+           výroční zprávu či zprávu o podnikatelské činnosti společnosti a o stavu jejího majetku ;
+      b)   ke schválení návrh změny stanov společnosti ;
+      c)   návrhy rozhodnutí o zvýšení a snížení základního kapitálu, o vydávání dluhopisů ;
+      d)   návrh na rozhodnutí o zrušení společnosti;
+      e)   návrh na rozhodování o případném prodeji akcií společnosti ;
+      f)   koncepci podnikatelské činnosti společnosti a návrhy jejích změn ;
+      g)   návrh na volbu a odvolání členů představenstva ;
+      h)   předem ke schválení právní jednání, jejichž schválení je těmito stanovami či zákonem
+           vyhrazeno valné hromadě;
+      i)   návrhy dalších rozhodnutí dle těchto stanov či právního předpisu.
+20.   Představenstvo dále:
+      a)   zajišťuje řádné vedení předepsané evidence, účetnictví, obchodních knih a ostatních
+           dokladů společnosti, včetně sestavení výroční zprávy či zprávy o podnikatelské činnosti
+           společnosti a o stavu jejího majetku ;
+      b)   rozhoduje o čerpání prostředků ze zdrojů účelově vázáných, jejichž účel není společnost
+           oprávněna měnit;
+      c)   schvaluje plán zadávání veřejných zakázek společnosti s výhledem na 3 (slovy: tři)
+           následující měsíce, do něho nejsou zahrnovány veřejné zakázky realizované pro třetí
+           osoby v pozici administrátora, resp. příkazníka ;
+      d)   podává obchodnímu rejstříku návrhy na zápis skutečností, které se do obchodního
+           rejstříku zapisují;
+      e)   schvaluje organizační řád společnosti, pracovní řád, podpisový řád společnosti ;
+      f)   schvaluje finanční a souhrnné plány společnosti ;
+      g)   ustanovuje do funkce a odvolává vedoucí zaměstnance v přímé řídící působnosti
+           představenstva společnosti;
+      h)   rozhoduje o zřízení nových fondů a stanoví pravidla jejich hospodaření .
+21.   Členové představenstva nesmí (zákaz konkurence):
+      a)   podnikat v předmětu činnosti společnosti, a to ani ve prospěch jiných osob ;
+      b)   zprostředkovávat obchody společnosti pro jiného ;
+      c)   být členem statutárního orgánu jiné právnické osoby se stejným nebo obdobným
+           předmětem činnosti nebo osobou v obdobném postavení, ledaže se jedná o koncern,
+           jediného akcionáře nebo jinou právnickou osobu ovládanou jediným akcionářem ;
+      d)   účastnit se na podnikání jiné obchodní korporace jako společník s neomezeným ručením
+           nebo jako ovládající osoba jiné osoby se stejným nebo obdobným předmětem činnosti.
+
+                                                                                                       6
+
+                                                                                               Strana 26 / 42
+      Pokud člen představenstva na některou z výše uvedených zakázaných činností písemně
+      upozornil valnou hromadu, má se za to, že tento člen představenstva činnost, které se zákaz
+      týká, zakázanou nemá. To neplatí, pokud valná hromada vyslovila nesouhlas s výše
+      uvedenou činností do 1 (slovy: jednoho) měsíce ode dne, kdy byla na tyto okolnosti
+      upozorněna.
+22.   Funkce člena představenstva je neslučitelná s funkcí člena dozorčí rady. V ostatním upravují
+      vztah mezi členem představenstva a společností zákon, tyto stanovy a smlouva o výkonu
+      funkce.
+23.   Předseda představenstva je oprávněn účastnit se jednání dozorčí rady.
+
+X)    Dozorčí rada
+1.    Dozorčí rada je kontrolním orgánem společnosti. Dohlíží na výkon působnosti představenstva
+      a na činnost společnosti.
+2.    Dozorčí rada je dále oprávněna zejména:
+      a)   nahlížet do všech dokladů a záznamů týkajících se činnosti společnosti ;
+      b)   kontrolovat, zda jsou řádně a v souladu se skutečností vedeny účetní zápisy společnosti ;
+      c)   kontrolovat, zda se podnikatelská činnost společnosti uskutečňuje v souladu s právními
+           předpisy a těmito stanovami a oprávněnými pokyny valné hromady ;
+      d)   přezkoumávat řádnou, mimořádnou a konsolidovanou, popřípadě i mezitímní účetní
+           závěrku a návrh na rozdělení zisku nebo jiných vlastních zdrojů nebo úhradu ztráty a
+           předkládat své vyjádření valné hromadě;
+      e)   účastnit se schůze valné hromady a seznamovat ji s výsledky své kontrolní činnosti ;
+      f)   určit jednoho svého člena k zastupování společnosti v řízení před soudy nebo jinými
+           orgány proti členu představenstva.
+3.    Dozorčí rada společnosti má 3 (slovy: tři) členy, kteří jsou voleni a odvolávání valnou
+      hromadou. Funkční období člena dozorčí rady činí 5 (slovy: pět) let. Opětovná volba člena
+      dozorčí rady je možná.
+4.    Dozorčí rada volí a odvolává ze svých členů předsedu.
+5.    Člen dozorčí rady nesmí být současně členem představenstva nebo jinou osobou
+      oprávněnou podle zápisu v obchodním rejstříku jednat za společnost. Člen dozorčí rady
+      vykonává funkci osobně. To však nebrání tomu, aby člen zmocnil pro jednotlivý případ jiného
+      člena dozorčí rady, aby za něho při jeho neúčasti hlasoval.
+6.    Členem dozorčí rady může být jen osoba, která k tomu splňuje požadavky právních předpisů
+      a za podmínek tam uvedených.
+7.    Člen dozorčí rady, který odstoupí z funkce, je povinen oznámit odstoupení písemně jedinému
+      akcionáři společnosti. Výkon funkce končí uplynutím 2 (slovy: dvou) měsíců ode dne
+      doručení oznámení odstoupení jedinému akcionáři, neschválí -li na žádost odstupujícího
+      člena dozorčí rady jiný okamžik zániku funkce. Funkce člena dozorčí rady zaniká také, je -li
+      za něj zvolen nový člen.
+8.    Členové dozorčí rady jsou povinni zachovávat mlčenlivost o důvěrných informacích a
+      skutečnostech, které se při výkonu své funkce dozvěděli, jejichž prozrazení třetím osobám
+      by mohlo způsobit společnosti újmu. Povinnost mlčenlivosti se netýká předávání důvěrných
+      informací či informací tvořících obchodní tajemství společnostem a jejich orgánům v rámci
+      koncernu za účelem naplňování koncernových zájmů, bude -li zajištěna dostatečná ochrana
+      těchto informací v rámci koncernu.
+9.    Dozorčí rada se schází podle potřeby, nejméně jednou za 3 (slovy: tři) měsíce. Řádná
+      jednání dozorčí rady svolává předseda pozvánkou, která musí být členům dozorčí rady
+      doručena nejpozději 4 (slovy: čtyři) kalendářní dny před dnem jednání dozorčí rady a musí
+      obsahovat pořad, místo, datum a hodinu jednání. V případech, kdy dozorčí rada nemá
+      předsedu, svolává dozorčí radu kterýkoliv člen dozorčí rady. Je -li jednání svoláno jiným
+      způsobem či v jiné lhůtě, mohou se členové dozorčí rady v úvodu jednání vzdát prá va na
+      řádné a včasné svolání jednání dozorčí rady.
+10.   Na žádost kteréhokoliv člena dozorčí rady doručenou předsedovi musí být dozorčí rada
+
+                                                                                                       7
+
+                                                                                              Strana 27 / 42
+      svolána nejpozději do 14 (slovy: čtrnácti) dnů ode dne doručení žádosti, která musí
+      obsahovat odůvodnění a navrhovaný pořad jednání.
+11.   Dozorčí rada, která je usnášeníschopná za přítomnosti nadpoloviční většiny členů,
+      rozhoduje o projednávaných záležitostech většinou hlasů přítomných členů dozorčí rady.
+      Každý člen dozorčí rady má 1 (slovy: jeden) hlas. V případě rovnosti hlasů rozhoduje hlas
+      předsedy.
+12.   Jednání dozorčí rady řídí předseda nebo pověřený člen dozorčí rady. O průběhu jednání
+      dozorčí rady a o jejích rozhodnutích se pořizuje zápis, který podepisuje předsedající;
+      přílohou zápisu je seznam přítomných. Zápis obsahuje termín a místo jednání, účast členů
+      dozorčí rady a ostatních přítomných osob a usnesení dozorčí rady. V zápisu musí být
+      jmenovitě uvedeni členové dozorčí rady, kteří hlasovali proti jednotlivým usnesením dozorčí
+      rady nebo se zdrželi hlasování; u neuvedených členů se má za to, že hlasov ali pro přijetí
+      rozhodnutí.
+13.   Dozorčí rada je oprávněna přijmout jednací řád dozorčí rady, v němž upraví zásady jednání
+      dozorčí rady a jeho podrobnosti v souladu s těmito stanovami a právními předpisy.
+14.   Připouští se rozhodování dozorčí rady per rollam. Při hlasování per rollam zašle osoba
+      oprávněná ke svolání dozorčí rady všem členům dozorčí rady návrh rozhodnutí. Návrh
+      rozhodnutí obsahuje text navrhovaného rozhodnutí, lhůtu pro doručení vyjádření člena
+      dozorčí rady, jinak platí lhůta 7 (slovy: sedm) dnů od doručení návrhu členu dozorčí rady;
+      stanovení lhůty pevným datem se připouští. Nedoručí -li člen dozorčí rady své vyjádření ve
+      lhůtě dle předchozí věty osobě, která návrh rozhodnutí odeslala, platí, že s návrhem
+      nesouhlasí, přičemž k případnému vyjádření doručenému po lhůtě dle předchozí věty se
+      nepřihlíží. Rozhodná většina se počítá z celkového počtu hlasů všech členů dozorčí rady.
+      Rozhodnutí je přijato dnem, v němž bylo doručeno vyjádření posledního čle na dozorčí rady
+      k návrhu rozhodnutí, jinak uplynutím lhůty stanovené pro doručení vyjádření členů dozorčí
+      rady k návrhu rozhodnutí, vždy za podmínky, že bylo dosaženo nadpolovičního počtu hlasů
+      souhlasících s návrhem rozhodnutí. Rozhodnutí přijatá per roll am musí být zapsána v zápise
+      na časově následujícím jednání dozorčí rady.
+15.   Členové dozorčí rady oznámí společnosti e -mailové adresy pro elektronickou komunikaci. V
+      případě změny e-mailové adresy pro elektronickou komunikaci nastávají účinky takové
+      změny oznámením nové e-mailové adresy společnosti členem dozorčí rady.
+16.   Připouští se jednání a rozhodování dozorčí rady s využitím technických prostředků, zejména
+      prostřednictvím elektronických zařízení, např. formou on -line videokonference, popřípadě
+      telekonference zabezpečující přítomnost připojených osob v reálném čase. Vyu žití
+      technických prostředků a jeho rozsah se poznamená do zápisu o průběhu jednání dozorčí
+      rady. Další podrobnosti případně stanoví jednací řád dozorčí rady .
+17.   Dozorčí rada je povinna valnou hromadu vyzvat bez zbytečného odkladu k učinění
+      příslušného rozhodnutí vždy, vyžadují-li to zájmy společnosti a současně navrhovat potřebná
+      opatření.
+18.   Členové dozorčí rady nesmí (zákaz konkurence):
+      a)   podnikat v předmětu činnosti společnosti, a to ani ve prospěch jiných osob, ani
+           zprostředkovávat obchody společnosti pro jiného;
+      b)   být členem statutárního orgánu jiné právnické osoby se stejným nebo obdobným
+           předmětem činnosti nebo osobou v obdobném postavení, ledaže jde o koncern, jediného
+           akcionáře nebo jinou právnickou osobu ovládanou jediným akcionářem ;
+      c)   účastnit se na podnikání jiné obchodní korporace jako společník s neomezeným ručením
+           nebo jako ovládající osoba jiné osoby se stejným nebo obdobným předmětem činnosti.
+      Pokud člen dozorčí rady na některou z výše uvedených zakázaných činností písemně
+      upozornil valnou hromadu, má se za to, že tento člen dozorčí rady činnost, které se zákaz
+      týká, zakázanou nemá. To neplatí, pokud valná hromada vyslovila nesouhlas s výše
+      uvedenou činností do 1 (slovy: jednoho) měsíce ode dne, kdy byla na tyto okolnosti
+      upozorněna.
+19.   V ostatním upravují vztah mezi členem dozorčí rady a společností zákon, tyto stanovy a
+      smlouva o výkonu funkce.
+20.   Předseda dozorčí rady je oprávněn účastnit se jednání představenstva.
+
+                                                                                                    8
+
+                                                                                           Strana 28 / 42
+XI)    Hospodaření společnosti a podíl na zisku
+1.     Za řádné vedení účetnictví zodpovídá představenstvo, kter é zabezpečuje vyhotovení řádné
+       účetní závěrky za příslušné účetní období (v případech stanovených zákonem též
+       mimořádné a konsolidované, případně mezitímní, účetní závěrky), a to v souladu a za
+       podmínek stanovených zvláštními právními předpisy.
+2.     O nakládání se ziskem, jakož i jinými vlastními zdroji společnosti, rozhoduje valná hromada.
+       Společnost je povinna při výplatě zisku nebo jiných vlastních zdrojů respektovat zákonem
+       daná omezení, zejm. pak dle § 40 a 41 zákona o obchodních korporacích. V ostatním se
+       pravidla a postup pro rozdělení zisku řídí zejm. § 348 a násl. zákona o obchodních
+       korporacích.
+3.     O způsobu úhrady ztráty nebo jiném naložení se ztrátou společnosti rozhoduje valná
+       hromada na návrh představenstva.
+4.     Společnost je povinna zřídit zvláštní fond, ukládá -li ji tuto povinnost příslušný právní předpis
+       (např. § 311 písm. f) nebo § 316 zákona o obchodních korporacích). Společnost může
+       vytvářet v souladu s právními předpisy i jiné fondy a přispívat do nich ze s vého čistého zisku
+       v souladu s rozhodnutím valné hromady. Na tvorbu fondu mohou, a to se souhlasem a za
+       podmínek stanovených představenstvem společnosti, akcionáři poskytnout plnění mimo
+       základní kapitál svými příplatky.
+5.     Společnost může poskytnout finanční asistenci, a to při splnění podmínek a postupem
+       stanoveným zejména v § 311 a násl. zákona o obchodních korporacích.
+6.     Podmínky rozdělení zisku, včetně jeho převodu na účet nerozdělených zisků, zejména
+       nezbytný stav naplnění fondů vlastního kapitálu, upravuje blíže zákon o obchodních
+       korporacích a tyto stanovy. Podíl na zisku se vyplácí v penězích.
+7.     Společnost je povinna vykonávat předmět činnosti v rámci politiky společenské odpovědnosti
+       vždy tak, aby si tím nepřivodila úpadek nebo hrozící úpadek podle jiného právního předpisu.
+
+XII)   Doplňování a změna stanov
+1.     O doplnění nebo jiné změně těchto stanov rozhoduje valná hromada, pokud nejde o změnu
+       v důsledku zvýšení základního kapitálu představenstvem podle § 511 Zákona o obchodních
+       korporacích nebo o změnu, ke které došlo na základě jiných právních skutečností.
+2.     Návrh na doplnění nebo jinou změnu stanov může podat také představenstvo nebo dozorčí
+       rada.
+3.     Rozhodnutí o změně stanov se osvědčuje veřejnou listinou. Obsahem veřejné listiny je také
+       schválený text změny stanov.
+4.     Návrhy změn stanov zpracovává představenstvo s přihlédnutím ke kogentním ustanovením
+       zákona o obchodních korporacích a dalších obecně závazných právních předpisů.
+
+XIII) Právní poměry společnosti a řešení sporů
+1.     Vznik, právní poměry a zánik společnosti, jakož i všechny právní vztahy vyplývající ze stanov
+       společnosti a pracovněprávní i jiné vztahy uvnitř společnosti, včetně vztahů z nemocenského
+       pojištění a sociálního zabezpečení společnosti, se řídí obecně závazný mi právními předpisy
+       České republiky.
+2.     Případné spory mezi akcionáři a společností, společností a členy jejích orgánů, jakož i
+       vzájemné spory mezi akcionáři, související s jejich účastí ve společnosti, budou řešeny
+       primárně smírnou cestou.
+
+XIV) Oddělitelnost
+1.     V případě, že některé ustanovení stanov se ukáže neplatným, neúčinným nebo sporným,
+       zůstávají ostatní ustanovení stanov touto skutečností nedotčena.
+
+XV)    Závěrečná ustanovení
+1.     Společnost uveřejňuje informace, oznámení o konání valné hromady a další údaje
+       vyžadované právními předpisy na svých internetových stránkách.
+
+                                                                                                           9
+
+                                                                                                  Strana 29 / 42
+  2.     V případě, že dojde ke změně stanov, vyhotoví představenstvo bez zbytečného odkladu
+         poté, co se o změně dozví, úplné znění stanov. Úplné znění stanov je představenstvo
+         povinno založit do sbírky listin.
+  3.     Právní poměry a právní vztahy těmito stanovami výslovně neupravené se řídí příslušnými
+         právními předpisy.
+
+  XVI) Ustanovení při založení společnosti
+  1.     Zakladatel Teplárny Brno, a.s., se sídlem Okružní 828/25, Lesná, 638 00 Brno, identifikační
+         číslo: 463 47 534, společnost zapsaná v obchodním rejstříku vedeném Krajským soudem v
+         Brně pod sp. zn. B 786 („zakladatel“), upisuje 10 (slovy: deset) kusů akcií znějící na jméno
+         v zaknihované podobě o jmenovité hodnotě jedné akcie ve výši 200.000 Kč (slovy: dvě stě
+         tisíc korun českých), a to za emisní kurs rovnající se jmenovité hodnotě akcií a zavazuje se
+         splatit jej peněžitým vkladem v celkové výši 2.000.000 Kč (slovy: dva miliony korun českých).
+         Veškeré akcie společnosti budou vydány na majetkový účet akcionáře č. 909002417993
+         vedený pro zakladatele společností UniCredit Bank Czech Republic and Slovakia, a.s .
+         jako účastníkem centrálního depozitáře.
+  2.     Celý emisní kurz upisovaných akcií bude splacen nejpozději do 3 (slovy: tří) měsíců od přijetí
+         těchto stanov na účet u banky, který za tím účelem správce vkladů založí.
+  3.     K okamžiku vzniku společnosti bude splacen základní kapitál společnosti v plné výši.
+  4.     Zakladatel určuje, že prvními členy představenstva společnosti jsou:
+         a)    Ing. Petr Fajmon, MBA,
+
+         b)    Ing. Přemysl Měchura,
+
+         c)    Ing. Radim Tichý, MBA,
+
+  5.     Zakladatel určuje, že prvními členy dozorčí rady společnosti jsou:
+         a)    RNDr. Jiří Herman, Ph.D.,
+
+         b)    Mgr. Marie Jílková,
+         c)    Vít Prýgl,
+  6.     Zakladatel dále určuje, že správcem vkladu je: Mgr. Pavel Tesařík,
+
+  7.     Přibližná výše nákladů, které v souvislosti se založením společnosti vzniknou, činí 100.000
+         Kč (slovy: jedno sto tisíc korun českých).
+  8.     Zakladatel souhlasí s tím, aby byl zapsán jako jediný akcionář společnosti do obchodního
+         rejstříku.
+  9.     Představenstvo je ve smyslu § 250 odst. 4 zákona o obchodních korporacích pověřen o po
+         vzniku společnosti a po úplném splacení emisních kurzů rozhodnout o vypuštění údajů
+         uvedených v tomto článku XVI) těchto stanov. Toto rozhodnutí se nepovažuje za rozhodnutí
+         o změně stanov.
+
+  XVII) Obsah
+
+I)    OBCHODNÍ FIRMA, SÍDLO A PRÁVNÍ FORMA SPOLEČNOSTI ........................................... 1
+II)   JEDNÁNÍ A PODEPISOVÁNÍ ZA SPOLEČNOST .................................................................. 1
+III)  PŘEDMĚT PODNIKÁNÍ A ČINNOSTI ................................................................................... 1
+IV)   ZÁKLADNÍ KAPITÁL, POČET, DRUH, FORMA, JMENOVITÁ HODNOTA A PODOBA
+      VYDANÝCH AKCIÍ ............................................................................................................... 2
+V)    ZVÝŠENÍ ZÁKLADNÍHO KAPITÁLU .................................................................................... 2
+VI) SNÍŽENÍ ZÁKLADNÍHO KAPITÁLU ..................................................................................... 3
+VII) ORGÁNY SPOLEČNOSTI .................................................................................................... 3
+VIII) VALNÁ HROMADA .............................................................................................................. 3
+
+                                                                                                                                   10
+
+                                                                                                                            Strana 30 / 42
+IX) PŘEDSTAVENSTVO ............................................................................................................ 4
+X)    DOZORČÍ RADA .................................................................................................................. 7
+XI) HOSPODAŘENÍ SPOLEČNOSTI A PODÍL NA ZISKU ........................................................... 9
+XII) DOPLŇOVÁNÍ A ZMĚNA STANOV ...................................................................................... 9
+XIII) PRÁVNÍ POMĚRY SPOLEČNOSTI A ŘEŠENÍ SPORŮ ......................................................... 9
+XIV) ODDĚLITELNOST ............................................................................................................... 9
+XV) ZÁVĚREČNÁ USTANOVENÍ ................................................................................................ 9
+XVI) USTANOVENÍ PŘI ZALOŽENÍ SPOLEČNOSTI ................................................................... 10
+XVII) OBSAH .............................................................................................................................. 10
+
+
+
+
+                                                                                                                                          11
+
+                                                                                                                                   Strana 31 / 42
+                                          STANOVY
+                                Teplárny Brno Výroba, a.s.
+
+                                           („společnost")
+
+I)     Obchodní firma, sídlo a právní forma společnosti
+1.     Obchodní firma společnosti zní: Teplárny Brno Výroba, a.s.
+2.     Sídlem společnosti je: Brno.
+3.     Společnost je právnickou osobou, která byla založena podle práva České republiky, a to
+       v právní formě akciové společnosti, a její právní poměry se řídí zejména zákonem č. 89/2012
+       Sb., občanský zákoník, ve znění pozdějších předpisů („ občanský zákoník“), a zákonem č.
+       90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních korporacích), ve
+       znění pozdějších předpisů („zákon o obchodních korporacích“).
+4.     Společnost byla založena na dobu neurčitou.
+
+II)    Jednání a podepisování za společnost
+1.     Za společnost jedná představenstvo. Společnost zastupují navenek ve všech věcech dva
+       členové představenstva společně, z nichž alespoň jeden musí být vždy předseda.
+2.     Podepisování za společnost se děje tak, že k vytištěné nebo nadepsané firmě společnosti
+       připojí svůj podpis zastupující osoby dle odst. 1 tohoto článku.
+
+III)   Předmět podnikání a činnosti
+1.     Společnost je založena za účelem podnikání, které má průmyslovou a obchodní povahu, s
+       cílem dosahování zisku.
+2.     Předmětem činnosti společnosti je správa vlastního majetku.
+3.     Předmětem podnikání společnosti je:
+       a)   výroba elektřiny;
+       b)   distribuce elektřiny;
+       c)   výroba tepelné energie;
+       d)   obchod s elektřinou;
+       e)   obchod s plynem;
+       f)   zámečnictví, nástrojářství;
+       g)   vodoinstalatérství, topenářství;
+       h)   provádění staveb, jejich změn a odstraňování ;
+       i)   klempířství a oprava karoserií;
+       j)   zednictví;
+       k)   malířství, lakýrnictví a natěračství;
+       l)   montáž, opravy, revize a zkoušky elektrických zařízení;
+       m) montáž, opravy, revize a zkoušky tlakových zařízení a nádob na plyny;
+       n)   montáž, opravy, revize a zkoušky plynových zařízení a plnění nádob plyny;
+       o)   výroba tepelné energie a rozvod tepelné energie, nepodléhající licenci realizovaná ze
+            zdrojů tepelné energie s instalovaným výkonem jednoho zdroje nad 50 kW;
+       p)   výroba, instalace, opravy          elektrických   strojů   a   přístrojů,   elektronických   a
+            telekomunikačních zařízení;
+       q)   výroba, obchod a služby neuvedené v přílohách 1 -3 živnostenského zákona, a to v
+
+
+                                                                                                             1
+
+                                                                                                    Strana 32 / 42
+          následujících oborech činností:
+              •   výroba měřicích, zkušebních, navigačních, optických a fotografických přístrojů a
+                  zařízení;
+              •   přípravné a dokončovací stavební práce, specializované stavební činnosti;
+              •   sklenářské práce, rámování a paspartování;
+              •   zprostředkování obchodu a služeb;
+              •   velkoobchod a maloobchod;
+              •   nákup, prodej, správa a údržba nemovitostí;
+              •   pronájem a půjčování věcí movitých;
+              •   poradenská a konzultační činnost, zpracování odborných studií a posudků;
+              •   služby v oblasti administrativní správy a služby organizačně hospodářské
+                  povahy;
+              •   mimoškolní výchova a vzdělávání, pořádání kurzů, školení, včetně lektorské
+                  činnosti;
+              •   poskytování technických služeb;
+              •   opravy a údržba potřeb pro domácnost, předmětů kulturní povahy, výrobků
+                  jemné mechaniky, optických přístrojů a měřidel .
+
+IV)   Základní kapitál, počet, druh, forma, jmenovitá hodnota a podoba vydaných akcií
+1.    Základní kapitál společnosti činí 2.000.000 Kč (slovy: dva miliony korun českých).
+2.    Společnost vydala jeden druh akcií, se kterými jsou spojena stejná práva. Všechny akcie jsou
+      vydány ve formě akcií na jméno v zaknihované podobě, které nejsou přijaty jako účastnické
+      cenné papíry k obchodování na evropském regulovaném trhu („ akcie“).
+3.    Akcie společnosti jsou neomezeně převoditelné.
+4.    Základní kapitál je rozvržen na celkem 10 (slovy: deset) kusů akcií v zaknihované podobě
+      ve formě na jméno o následujících jmenovitých hodnotách:
+         -   10 ks (slovy: deset kusů) akcií o jmenovité hodnotě jedné akcie ve výši 200.000
+             (slovy: dvě stě tisíc korun českých).
+5.    S každou z uvedených akcií je spojen jeden (1) hlas . Celkový počet hlasů ve společnosti činí
+      10 (slovy: deset). Na valné hromadě se hlasuje veřejně zvednutím ruky , nerozhodne-li valná
+      hromada v konkrétním případě jinak.
+6.    S každou akcií společnosti je spojeno právo akcionáře jako společníka podílet se podle
+      zákona o obchodních korporacích a stanov společnosti na jejím řízení, jejím zisku nebo na
+      likvidačním zůstatku při jejím zrušení s likvidací.
+7.    Akcie se zapisují do seznamu akcionářů, který vede společnost. Seznam akcionářů není
+      nahrazen evidencí zaknihovaných cenných papírů . Do seznamu akcionářů se zapisuje číselné
+      označení akcie (je-li relevantní), její jmenovitá hodnota, jméno a bydliště nebo sídlo
+      akcionáře, číslo bankovního účtu a změny zapisovaných údajů. Do seznamu akcionářů se
+      zapisuje také oddělení nebo převod samostatně převoditelného práva. Tento seznam
+      akcionářů může obsahovat i e-mailovou adresu akcionáře, na kterou mu bude společnost
+      doručovat všechny písemnosti a oznámení, zejména pak i pozvánku na valnou hromadu.
+8.    Má se za to, že ve vztahu ke společnosti je akcionářem ten, kdo je zapsán v seznamu
+      akcionářů. Společnost zapíše nového vlastníka do seznamu akcionářů bez zbytečného
+      odkladu poté, co jí bude změna osoby akcionáře prokázána. Údaje zapsané v seznamu
+      akcionářů může společnost používat pouze pro své potřeby ve vztahu k akcionářům. Za jiným
+      účelem může tyto údaje společnost použít jen se souhlasem akcionářů, kterých se údaje
+      týkají.
+9.    Převod akcie je vůči Společnosti účinný, bude-li jí prokázána změna osoby
+      vlastníka akcie výpisem z účtu vlastníka nebo dnem doručení či převzetí výpisu z evidence
+      emise akcií podle zákona upravujícího podnikání na kapitálovém trhu. Práva spojená s akcí
+
+                                                                                                     2
+
+                                                                                            Strana 33 / 42
+       vykoná ten, kdo je k rozhodnému dni zapsán jako její vlastník, a není -li stanoven rozhodný
+       den, ke dni, kdy právo uplatňuje.
+
+V)     Zvýšení základního kapitálu
+1.     O zvýšení základního kapitálu rozhoduje valná hromada, a to i bez návrhu představenstva.
+       Účinky zvýšení základního kapitálu nastávají okamžikem zápisu nové výše základního
+       kapitálu do obchodního rejstříku.
+2.     Základní kapitál lze zvýšit způsoby a právními tituly upravenými v zákoně o obchodních
+       korporacích. Při zvýšení základního kapitálu se postupuje podle úpravy obsažené v
+       příslušných ustanoveních zákona o obchodních korporacích, a to v závislosti na zvoleném
+       způsobu zvýšení základního kapitálu.
+
+VI)    Snížení základního kapitálu
+1.     O snížení základního kapitálu rozhoduje valná hromada, a to i bez návrhu představenstva.
+       Základní kapitál nelze snížit pod jeho minimální výši 2.000.000 Kč (slovy : dva miliony korun
+       českých). Snížením základního kapitálu se nesmí zhoršit dobytnost pohledávek věřitelů.
+2.     Při snižování základního kapitálu se postupuje podle úpravy obsažené v příslušných
+       ustanoveních zákona o obchodních korporacích, a to v závislosti na zvoleném způsobu
+       snížení základního kapitálu. Usnesení valné hromady o snížení základního kapitálu
+       vykonává představenstvo.
+
+VII)   Orgány společnosti
+1.     Systém vnitřní struktury společnosti je dualistický.
+2.     Orgány společnosti jsou
+          a)   valná hromada;
+          b)   představenstvo; a
+          c)   dozorčí rada.
+3.     Společnost může zvolený systém své vnitřní struktury měnit změnou těchto stanov.
+
+VIII) Valná hromada
+1.     Nejvyšším orgánem společnosti je valná hromada, na které akcionáři vykonávají své právo
+       podílet se na řízení společnosti.
+2.     Rozhodným dnem k účasti na valné hromadě je sedmý den předcházející dni konání valné
+       hromady. Společnost si nejpozději do dne konání valné hromady opatří z evidence
+       zaknihovaných cenných papírů výpis emise k rozhodnému dni.
+3.     Má-li společnost jediného akcionáře, pak se valná hromada společnosti nekoná a její
+       působnost vykonává tento jediný akcionář.
+4.     Do působnosti valné hromady náleží:
+          a)   rozhodování o změně stanov, nejde-li o změnu v důsledku zvýšení základního
+               kapitálu pověřeným představenstvem nebo o změnu, ke které došlo na základě jiných
+               právních skutečností;
+          b)   rozhodování o změně výše základního kapitálu a o pověření představenstva ke
+               zvýšení základního kapitálu;
+          c)   rozhodování o možnosti započtení peněžité pohledávky vůči společnosti proti
+               pohledávce na splacení emisního kursu ;
+          d)   rozhodování o vydání vyměnitelných nebo prioritních dluhopisů ;
+          e)   volba a odvolání členů představenstva a dozorčí rady;
+          f)   schválení řádné, mimořádné nebo konsolidované účetní závěrky a v případech
+               stanovených zákonem i mezitímní účetní závěrky;
+          g)   rozhodnutí o rozdělení zisku nebo jiných vlastních zdrojů, nebo o úhradě ztráty ;
+
+
+                                                                                                       3
+
+                                                                                              Strana 34 / 42
+        h)   rozhodování o podání žádosti k přijetí účastnických cenných papírů společnosti k
+             obchodování na evropském regulovaném trhu nebo o vyřazení těchto cenných papírů
+             z obchodování na evropském regulovaném trhu ;
+        i)   rozhodnutí o zrušení společnosti s likvidací, jmenování a odvolání likvidátora, včetně
+             určení výše jeho odměny;
+        j)   schválení konečné zprávy o průběhu likvidace a návrhu na použití likvidačního
+             zůstatku;
+        k)   rozhodnutí o přeměně společnosti, ledaže zákon upravující přeměny obchodních
+             společností a družstev stanoví jinak ;
+        l)   schválení převodu, pachtu nebo zastavení závodu nebo takové části jmění, která by
+             znamenala podstatnou změnu skutečného předmětu podnikání nebo činnosti
+             společnosti;
+        m) rozhodnutí o převzetí účinků jednání učiněných za společnost před jejím vznikem ;
+        n)   schválení ovládací smlouvy, smlouvy o převodu zisku a smlouvy o tiché společnosti
+             a jiných smluv, jimž se zakládá právo na podílu na zisku nebo jiných vlastních
+             zdrojích společnosti, včetně jejich změn a jejich zrušení ;
+        o)   rozhodnutí o změně práv náležejících jednotlivým druhům akcií ;
+        p)   rozhodnutí o přeměně zaknihovaných akcií na akcie listinné a naopak ;
+        q)   rozhodnutí o podání žádosti o povolení k veřejné obchodovatelnosti a o zrušení
+             veřejné obchodovatelnosti;
+        r)   řešení sporů mezi orgány společnosti;
+        s)   schválení kapitálové účasti společnosti v jiných právnických osobách a jejích změn,
+             včetně založení nové právnické osoby, schválení účasti společnosti v koncernu s
+             jinými společnostmi, či ukončení účasti společnosti v koncernu s jinými společnostmi ;
+        t)   udělování pokynů představenstvu týkajících se obchodního vedení společnosti, byla -
+             li valná hromada o udělení takového pokynu požádána členem představenstva nebo
+             představenstvem společnosti;
+        u)   schvalování zásad a pokynů pro představenstvo mimo obchodní vedení společnosti,
+             pokud jsou v souladu s právními předpisy a stanovami společnosti ;
+        v)   schvalování zásad pro dozorčí radu, pokud jsou v souladu s právními předpisy a
+             stanovami společnosti;
+        w)   schvalování smluv o výkonu funkce členů volených orgánů společnosti, včetně výše
+             odměny za výkon funkce;
+        x)   schvalování vnitřních předpisů o odměňování volených orgánů společnosti ;
+        y)   schvalování jiných plnění členům volených orgánů společnosti, než na která plyne
+             právo z právního předpisu, ze smlouvy o výkonu funkce nebo z vnitřního předpisu ;
+        z)   vzetí na vědomí výroční zprávy či zprávy představenstva o podnikatelské činnosti
+             společnosti a o stavu jejího majetku;
+        aa) schválení termínů výplaty podílu na zisku akcionáři odlišných od zákona o
+            obchodních korporacích;
+        bb) schválení investičního plánu pro konkrétní účetní období ;
+        cc) udělení předchozího souhlasu s uzavřením smluv o prodeji nebo nákupu nemovitého
+            majetku nad částku 10.000.000 Kč (slovy: deset milionů korun českých) ;
+        dd) rozhodnutí o dalších otázkách, které právní předpisy nebo tyto stanovy zahrnují do
+            působnosti valné hromady.
+
+IX)   Představenstvo
+1.    Představenstvo je statutárním orgánem společnosti, kterému přísluší obchodní vedení
+      společnosti.
+2.    Představenstvo rozhoduje o všech záležitostech společnosti, pokud nejsou zákonem o
+      obchodních korporacích nebo těmito stanovami vyhrazeny do působnosti jiného orgánu
+
+                                                                                                      4
+
+                                                                                             Strana 35 / 42
+      společnosti.
+3.    Představenstvo se řídí zásadami a pokyny schválenými valnou hromadou, pokud jsou v
+      souladu s právními předpisy a stanovami. Nikdo však není oprávněn udělovat
+      představenstvu pokyny týkající se obchodního vedení společnosti, s výjimkou:
+      a)   valné hromady, pokud člen představenstva nebo představenstvo požádá o udělení
+           pokynu týkajícího se obchodního vedení společnosti valnou hromadu; tím není dotčena
+           povinnost člena představenstva jednat s péčí řádného hospodáře; nebo
+      b)   řídící osoby koncernu koncernovým pokynem za podmínek § 81 zákona o obchodních
+           korporacích.
+      Pokyny dle písmen a) a b) výše v tomto odstavci je představenstvo vázáno.
+4.    Představenstvo je povinno společně s účetní závěrkou předkládat valné hromadě zprávu o
+      podnikatelské činnosti společnosti a o stavu jejího majetku jednou ročně.
+5.    Představenstvo má 3 (slovy: tři) členy, kteří jsou voleni a odvolávání valnou hromadou.
+      Funkční období člena představenstva činí 5 (slovy: pět) let. Opětovná volba člena
+      představenstva je možná.
+6.    Představenstvo volí a odvolává ze svých členů předsedu.
+7.    Člen představenstva vykonává svoji funkci osobně, to však nebrání tomu, aby člen písemně
+      zmocnil pro jednotlivý případ jiného člena téhož orgánu, aby za něho při jeho neúčasti
+      hlasoval.
+8.    Členem představenstva může být jen osoba, která k tomu splňuje požadavky právních
+      předpisů a za podmínek tam uvedených.
+9.    Člen představenstva, který odstoupí z funkce, je povinen oznámit odstoupení písemně
+      jedinému akcionáři společnosti. Výkon funkce končí uplynutím 2 (slovy: dvou) měsíců ode
+      dne doručení oznámení odstoupení jedinému akcionáři, neschválí -li na žádost odstupujícího
+      člena představenstva jiný okamžik zániku funkce. Funkce člena představenstva zaniká také,
+      je-li za něj zvolen nový člen.
+10.   Členové představenstva jsou povinni zachovávat mlčenlivost o důvěrných informacích a
+      skutečnostech, které se při výkonu své funkce dozvěděli, jejichž prozrazení třetím osobám
+      by mohlo způsobit společnosti újmu. Povinnost mlčenlivosti se netýká předávání dů věrných
+      informací či informací tvořících obchodní tajemství společnostem a jejich orgánům v rámci
+      koncernu za účelem naplňování koncernových zájmů, bude -li zajištěna dostatečná ochrana
+      těchto informací v rámci koncernu.
+11.   Představenstvo se schází podle potřeby. Řádná jednání představenstva svolává předseda
+      pozvánkou, která musí být členům představenstva doručena nejpozději 4 (slovy: čtyři)
+      kalendářní dny přede dnem jednání představenstva a musí obsahovat pořad, místo, datum
+      a hodinu jednání. V případech, kdy společnost nemá předsedu, svolává představenstvo
+      kterýkoliv člen představenstva. Je-li jednání svoláno jiným způsobem či v jiné lhůtě, mohou
+      se členové představenstva v úvodu jednání vzdát práva na řádné a včasné svolání jednání
+      představenstva.
+12.   Na žádost kteréhokoliv člena představenstva, doručenou předsedovi, musí být
+      představenstvo svoláno nejpozději do 7 (slovy: sedmi) dnů ode dne doručení žádosti, která
+      musí obsahovat odůvodnění a navrhovaný pořad jednání.
+13.   Představenstvo, které je usnášeníschopné za přítomnosti nadpoloviční většiny členů,
+      rozhoduje o projednávaných záležitostech většinou hlasů přítomných členů představenstva.
+      Každý člen představenstva má 1 (slovy: jeden) hlas. V případě rovnosti hlasů rozhoduje hlas
+      předsedy.
+14.   Jednání představenstva řídí předseda nebo pověřený člen představenstva. O průběhu
+      jednání představenstva a o jeho rozhodnutích se pořizuje zápis, který podepisuje
+      předsedající a zapisovatel; přílohou zápisu je seznam přítomných. Zápis obsahuje místo,
+      datum a hodinu jednání, účast členů představenstva a ostatních přítomných osob a usnesení
+      představenstva. V zápisu musí být jmenovitě uvedeni členové představenstva, kteří hlasovali
+      proti jednotlivým usnesením představenstva nebo se zdrželi hlasování; u neuvede ných členů
+      se má za to, že hlasovali pro přijetí rozhodnutí.
+15.   Představenstvo je oprávněno přijmout jednací řád představenstva, v němž upraví zásady
+
+
+                                                                                                    5
+
+                                                                                           Strana 36 / 42
+      jednání představenstva a jeho podrobnosti v souladu s těmito stanovami a právními
+      předpisy.
+16.   Připouští se rozhodování představenstva per rollam. Při hlasování per rollam zašle osoba
+      oprávněná ke svolání představenstva všem členům představenstva návrh rozhodnutí. Návrh
+      rozhodnutí obsahuje text navrhovaného rozhodnutí, lhůtu pro doručení vyjádření č lena
+      představenstva, jinak platí lhůta 7 (slovy: sedm) dnů od doručení návrhu členu
+      představenstva; stanovení lhůty pevným datem se připouští. Nedoručí -li člen představenstva
+      své vyjádření ve lhůtě dle předchozí věty osobě, která návrh rozhodnutí odeslala, platí, že s
+      návrhem nesouhlasí, přičemž k případnému vyjádření doručenému po lhůtě dle předchozí
+      věty se nepřihlíží. Rozhodná většina se počítá z celkového počtu hlasů všech členů
+      představenstva. Rozhodnutí je přijato dnem, v němž bylo doručeno vyjádření posledního
+      člena představenstva k návrhu rozhodnutí, jinak uplynutím lhůty stanovené pro doručení
+      vyjádření členů představenstva k návrhu rozhodnutí, vždy za podmínky, že bylo dosaženo
+      nadpolovičního počtu hlasů souhlasících s návrhem rozhodnutí. Rozhodnut í přijatá per
+      rollam musí být zapsána v zápise na časově následujícím jednání představenstva.
+17.   Členové představenstva oznámí společnosti e-mailové adresy pro elektronickou komunikaci.
+      V případě změny e-mailové adresy pro elektronickou komunikaci nastávají účinky takové
+      změny oznámením nové e-mailové adresy společnosti členem představenstva.
+18.   Připouští se jednání a rozhodování představenstva s využitím technických prostředků,
+      zejména prostřednictvím elektronických zařízení, např. formou on -line videokonference,
+      popřípadě telekonference zabezpečující přítomnost připojených osob v reálném čase.
+      Využití technických prostředků a jeho rozsah se poznamená do zápisu o průběhu jednání
+      představenstva. Další podrobnosti případně stanoví jednací řád představenstva.
+19.   Představenstvo zajišťuje podklady pro rozhodnutí valné hromady a valné hromadě předkládá :
+      a)   ke schválení řádnou, mimořádnou, konsolidovanou, případně mezitímní účetní závěrku
+           a také návrh na rozdělení zisku nebo jiných vlastních zdrojů nebo úhrady ztráty, dále
+           výroční zprávu či zprávu o podnikatelské činnosti společnosti a o stavu jejího majetku ;
+      b)   ke schválení návrh změny stanov společnosti ;
+      c)   návrhy rozhodnutí o zvýšení a snížení základního kapitálu, o vydávání dluhopisů ;
+      d)   návrh na rozhodnutí o zrušení společnosti;
+      e)   návrh na rozhodování o případném prodeji akcií společnosti ;
+      f)   koncepci podnikatelské činnosti společnosti a návrhy jejích změn ;
+      g)   návrh na volbu a odvolání členů představenstva ;
+      h)   předem ke schválení právní jednání, jejichž schválení je těmito stanovami či zákonem
+           vyhrazeno valné hromadě;
+      i)   návrhy dalších rozhodnutí dle těchto stanov či právního předpisu.
+20.   Představenstvo dále:
+      a)   zajišťuje řádné vedení předepsané evidence, účetnictví, obchodních knih a ostatních
+           dokladů společnosti, včetně sestavení výroční zprávy či zprávy o podnikatelské činnosti
+           společnosti a o stavu jejího majetku ;
+      b)   rozhoduje o čerpání prostředků ze zdrojů účelově vázáných, jejichž účel není společnost
+           oprávněna měnit;
+      c)   schvaluje plán zadávání veřejných zakázek společnosti s výhledem na 3 (slovy: tři)
+           následující měsíce, do něho nejsou zahrnovány veřejné zakázky realizované pro třetí
+           osoby v pozici administrátora, resp. příkazníka ;
+      d)   podává obchodnímu rejstříku návrhy na zápis skutečností, které se do obchodního
+           rejstříku zapisují;
+      e)   schvaluje organizační řád společnosti, pracovní řád, podpisový řád společnosti ;
+      f)   schvaluje finanční a souhrnné plány společnosti ;
+      g)   ustanovuje do funkce a odvolává vedoucí zaměstnance v přímé řídící působnosti
+           představenstva společnosti;
+
+
+                                                                                                       6
+
+                                                                                               Strana 37 / 42
+      h)   rozhoduje o zřízení nových fondů a stanoví pravidla jejich hospodaření .
+21.   Členové představenstva nesmí (zákaz konkurence):
+      a)   podnikat v předmětu činnosti společnosti, a to ani ve prospěch jiných osob ;
+      b)   zprostředkovávat obchody společnosti pro jiného ;
+      c)   být členem statutárního orgánu jiné právnické osoby se stejným nebo obdobným
+           předmětem činnosti nebo osobou v obdobném postavení, ledaže se jedná o koncern,
+           jediného akcionáře nebo jinou právnickou osobu ovládanou jediným akcionářem;
+      d)   účastnit se na podnikání jiné obchodní korporace jako společník s neomezeným ručením
+           nebo jako ovládající osoba jiné osoby se stejným nebo obdobným předmětem činnosti.
+      Pokud člen představenstva na některou z výše uvedených zakázaných činností písemně
+      upozornil valnou hromadu, má se za to, že tento člen představenstva činnost, které se zákaz
+      týká, zakázanou nemá. To neplatí, pokud valná hromada vyslovila nesouhlas s výše
+      uvedenou činností do 1 (slovy: jednoho) měsíce ode dne, kdy byla na tyto okolnosti
+      upozorněna.
+22.   Funkce člena představenstva je neslučitelná s funkcí člena dozorčí rady. V ostatním upravují
+      vztah mezi členem představenstva a společností zákon, tyto stanovy a smlouva o výkonu
+      funkce.
+23.   Předseda představenstva je oprávněn účastnit se jednání dozorčí rady.
+
+X)    Dozorčí rada
+1.    Dozorčí rada je kontrolním orgánem společnosti. Dohlíží na výkon působnosti představenstva
+      a na činnost společnosti.
+2.    Dozorčí rada je dále oprávněna zejména:
+      a)   nahlížet do všech dokladů a záznamů týkajících se činnosti společnosti ;
+      b)   kontrolovat, zda jsou řádně a v souladu se skutečností vedeny účetní zápisy společnosti ;
+      c)   kontrolovat, zda se podnikatelská činnost společnosti uskutečňuje v souladu s právními
+           předpisy a těmito stanovami a oprávněnými pokyny valné hromady ;
+      d)   přezkoumávat řádnou, mimořádnou a konsolidovanou, popřípadě i mezitímní účetní
+           závěrku a návrh na rozdělení zisku nebo jiných vlastních zdrojů nebo úhradu ztráty a
+           předkládat své vyjádření valné hromadě;
+      e)   účastnit se schůze valné hromady a seznamovat ji s výsledky své kontrolní činnosti ;
+      f)   určit jednoho svého člena k zastupování společnosti v řízení před soudy nebo jinými
+           orgány proti členu představenstva.
+3.    Dozorčí rada společnosti má 3 (slovy: tři) členy, kteří jsou voleni a odvolávání valnou
+      hromadou. Funkční období člena dozorčí rady činí 5 (slovy: pět) let. Opětovná volba člena
+      dozorčí rady je možná.
+4.    Dozorčí rada volí a odvolává ze svých členů předsedu.
+5.    Člen dozorčí rady nesmí být současně členem představenstva nebo jinou osobou
+      oprávněnou podle zápisu v obchodním rejstříku jednat za společnost. Člen dozorčí rady
+      vykonává funkci osobně. To však nebrání tomu, aby člen zmocnil pro jednotlivý případ jiného
+      člena dozorčí rady, aby za něho při jeho neúčasti hlasoval.
+6.    Členem dozorčí rady může být jen osoba, která k tomu splňuje požadavky právních předpisů
+      a za podmínek tam uvedených.
+7.    Člen dozorčí rady, který odstoupí z funkce, je povinen oznámit odstoupení písemně jedinému
+      akcionáři společnosti. Výkon funkce končí uplynutím 2 (slovy: dvou) měsíců ode dne
+      doručení oznámení odstoupení jedinému akcionáři, neschválí -li na žádost odstupujícího
+      člena dozorčí rady jiný okamžik zániku funkce. Funkce člena dozorčí rady zaniká také, je -li
+      za něj zvolen nový člen.
+8.    Členové dozorčí rady jsou povinni zachovávat mlčenlivost o důvěrných informacích a
+      skutečnostech, které se při výkonu své funkce dozvěděli, jejichž prozrazení třetím osobám
+      by mohlo způsobit společnosti újmu. Povinnost mlčenlivosti se netýká předávání důvěrných
+
+                                                                                                       7
+
+                                                                                              Strana 38 / 42
+      informací či informací tvořících obchodní tajemství společnostem a jejich orgánům v rámci
+      koncernu za účelem naplňování koncernových zájmů, bude -li zajištěna dostatečná ochrana
+      těchto informací v rámci koncernu.
+9.    Dozorčí rada se schází podle potřeby, nejméně jednou za 3 (slovy: tři) měsíce. Řádná
+      jednání dozorčí rady svolává předseda pozvánkou, která musí být členům dozorčí rady
+      doručena nejpozději 4 (slovy: čtyři) kalendářní dny před dnem jednání dozorčí rady a musí
+      obsahovat pořad, místo, datum a hodinu jednání. V případech, kdy dozorčí rada nemá
+      předsedu svolává dozorčí radu kterýkoliv člen dozorčí rady. Je -li jednání svoláno jiným
+      způsobem či v jiné lhůtě, mohou se členové dozorčí rady v úvodu jednání vzdát práv a na
+      řádné a včasné svolání jednání dozorčí rady.
+10.   Na žádost kteréhokoliv člena dozorčí rady doručenou předsedovi musí být dozorčí rada
+      svolána nejpozději do 14 (slovy: čtrnácti) dnů ode dne doručení žádosti, která musí
+      obsahovat odůvodnění a navrhovaný pořad jednání.
+11.   Dozorčí rada, která je usnášeníschopná za přítomnosti nadpoloviční většiny členů,
+      rozhoduje o projednávaných záležitostech většinou hlasů přítomných členů dozorčí rady.
+      Každý člen dozorčí rady má 1 (slovy: jeden) hlas. V případě rovnosti hlasů rozhoduje hlas
+      předsedy.
+12.   Jednání dozorčí rady řídí předseda nebo pověřený člen dozorčí rady. O průběhu jednání
+      dozorčí rady a o jejích rozhodnutích se pořizuje zápis, který podepisuje předsedající;
+      přílohou zápisu je seznam přítomných. Zápis obsahuje termín a místo jednání, účast členů
+      dozorčí rady a ostatních přítomných osob a usnesení dozorčí rady. V zápisu musí být
+      jmenovitě uvedeni členové dozorčí rady, kteří hlasovali proti jednotlivým usnesením dozorčí
+      rady nebo se zdrželi hlasování; u neuvedených členů se má za to, že hlasov ali pro přijetí
+      rozhodnutí.
+13.   Dozorčí rada je oprávněna přijmout jednací řád dozorčí rady, v němž upraví zásady jednání
+      dozorčí rady a jeho podrobnosti v souladu s těmito stanovami a právními předpisy.
+14.   Připouští se rozhodování dozorčí rady per rollam. Při hlasování per rollam zašle osoba
+      oprávněná ke svolání dozorčí rady všem členům dozorčí rady návrh rozhodnutí. Návrh
+      rozhodnutí obsahuje text navrhovaného rozhodnutí, lhůtu pro doručení vyjádření člena
+      dozorčí rady, jinak platí lhůta 7 (slovy: sedm) dnů od doručení návrhu členu dozorčí rady;
+      stanovení lhůty pevným datem se připouští. Nedoručí -li člen dozorčí rady své vyjádření ve
+      lhůtě dle předchozí věty osobě, která návrh rozhodnutí odeslala, platí, že s návrhem
+      nesouhlasí, přičemž k případnému vyjádření doručenému po lhůtě dle předchozí věty se
+      nepřihlíží. Rozhodná většina se počítá z celkového počtu hlasů všech členů dozorčí rady.
+      Rozhodnutí je přijato dnem, v němž bylo doručeno vyjádření posledního čle na dozorčí rady
+      k návrhu rozhodnutí, jinak uplynutím lhůty stanovené pro doručení vyjádření členů dozorčí
+      rady k návrhu rozhodnutí, vždy za podmínky, že bylo dosaženo nadpolovičního počtu hlasů
+      souhlasících s návrhem rozhodnutí. Rozhodnutí přijatá per roll am musí být zapsána v zápise
+      na časově následujícím jednání dozorčí rady.
+15.   Členové dozorčí rady oznámí společnosti e -mailové adresy pro elektronickou komunikaci. V
+      případě změny e-mailové adresy pro elektronickou komunikaci nastávají účinky takové
+      změny oznámením nové e-mailové adresy společnosti členem dozorčí rady.
+16.   Připouští se jednání a rozhodování dozorčí rady s využitím technických prostředků, zejména
+      prostřednictvím elektronických zařízení, např. formou on -line videokonference, popřípadě
+      telekonference zabezpečující přítomnost připojených osob v reálném čase. Vyu žití
+      technických prostředků a jeho rozsah se poznamená do zápisu o průběhu jednání dozorčí
+      rady. Další podrobnosti případně stanoví jednací řád dozorčí rady .
+17.   Dozorčí rada je povinna valnou hromadu vyzvat bez zbytečného odkladu k učinění
+      příslušného rozhodnutí vždy, vyžadují-li to zájmy společnosti a současně navrhovat potřebná
+      opatření.
+18.   Členové dozorčí rady nesmí (zákaz konkurence):
+      a)   podnikat v předmětu činnosti společnosti, a to ani ve prospěch jiných osob, ani
+           zprostředkovávat obchody společnosti pro jiného;
+      b)   být členem statutárního orgánu jiné právnické osoby se stejným nebo obdobným
+           předmětem činnosti nebo osobou v obdobném postavení, ledaže jde o koncern, jediného
+           akcionáře nebo jinou právnickou osobu ovládanou jediným akcionářem;
+
+                                                                                                    8
+
+                                                                                           Strana 39 / 42
+       c)   účastnit se na podnikání jiné obchodní korporace jako společník s neomezeným ručením
+            nebo jako ovládající osoba jiné osoby se stejným nebo obdobným předmětem činnosti.
+       Pokud člen dozorčí rady na některou z výše uvedených zakázaných činností písemně
+       upozornil valnou hromadu, má se za to, že tento člen dozorčí rady činnost, které se zákaz
+       týká, zakázanou nemá. To neplatí, pokud valná hromada vyslovila nesouhlas s výše
+       uvedenou činností do 1 (slovy: jednoho) měsíce ode dne, kdy byla na tyto okolnosti
+       upozorněna.
+19.    V ostatním upravují vztah mezi členem dozorčí rady a společností zákon, tyto stanovy a
+       smlouva o výkonu funkce.
+20.    Předseda dozorčí rady je oprávněn účastnit se jednání představenstva.
+
+XI)    Hospodaření společnosti a podíl na zisku
+1.     Za řádné vedení účetnictví zodpovídá představenstvo, kter é zabezpečuje vyhotovení řádné
+       účetní závěrky za příslušné účetní období (v případech stanovených zákonem též
+       mimořádné a konsolidované, případně mezitímní, účetní závěrky), a to v souladu a za
+       podmínek stanovených zvláštními právními předpisy.
+2.     O nakládání se ziskem, jakož i jinými vlastními zdroji společnosti, rozhoduje valná hromada.
+       Společnost je povinna při výplatě zisku nebo jiných vlastních zdrojů respektovat zákonem
+       daná omezení, zejm. pak dle § 40 a 41 zákona o obchodních korporacích. V ostatním se
+       pravidla a postup pro rozdělení zisku řídí zejm. § 348 a násl. zákona o obchodních
+       korporacích.
+3.     O způsobu úhrady ztráty nebo jiném naložení se ztrátou společnosti rozhoduje valná
+       hromada na návrh představenstva.
+4.     Společnost je povinna zřídit zvláštní fond, ukládá -li ji tuto povinnost příslušný právní předpis
+       (např. § 311 písm. f) nebo § 316 zákona o obchodních korporacích). Společnost může
+       vytvářet v souladu s právními předpisy i jiné fondy a přispívat do nich ze s vého čistého zisku
+       v souladu s rozhodnutím valné hromady. Na tvorbu fondu mohou, a to se souhlasem a za
+       podmínek stanovených představenstvem společnosti, akcionáři poskytnout plnění mimo
+       základní kapitál svými příplatky.
+5.     Společnost může poskytnout finanční asistenci, a to při splnění podmínek a postupem
+       stanoveným zejména v § 311 a násl. zákona o obchodních korporacích.
+6.     Podmínky rozdělení zisku, včetně jeho převodu na účet nerozdělených zisků, zejména
+       nezbytný stav naplnění fondů vlastního kapitálu, upravuje blíže zákon o obchodních
+       korporacích a tyto stanovy. Podíl na zisku se vyplácí v penězích.
+7.     Společnost je povinna vykonávat předmět činnosti v rámci politiky společenské odpovědnosti
+       vždy tak, aby si tím nepřivodila úpadek nebo hrozící úpadek podle jiného právního předpisu.
+
+XII)   Doplňování a změna stanov
+1.     O doplnění nebo jiné změně těchto stanov rozhoduje valná hromada, pokud nejde o změnu
+       v důsledku zvýšení základního kapitálu představenstvem podle § 511 Zákona o obchodních
+       korporacích nebo o změnu, ke které došlo na základě jiných právních skutečností.
+2.     Návrh na doplnění nebo jinou změnu stanov může podat také představenstvo nebo dozorčí
+       rada.
+3.     Rozhodnutí o změně stanov se osvědčuje veřejnou listinou. Obsahem veřejné listiny je také
+       schválený text změny stanov.
+4.     Návrhy změn stanov zpracovává představenstvo s přihlédnutím ke kogentním ustanovením
+       zákona o obchodních korporacích a dalších obecně závazných právních předpisů.
+
+XIII) Právní poměry společnosti a řešení sporů
+1.     Vznik, právní poměry a zánik společnosti, jakož i všechny právní vztahy vyplývající ze stanov
+       společnosti a pracovněprávní i jiné vztahy uvnitř společnosti, včetně vztahů z nemocenského
+       pojištění a sociálního zabezpečení společnosti, se řídí obecně závazný mi právními předpisy
+       České republiky.
+2.     Případné spory mezi akcionáři a společností, společností a členy jejích orgánů, jakož i
+
+                                                                                                           9
+
+                                                                                                  Strana 40 / 42
+      vzájemné spory mezi akcionáři, související s jejich účastí ve společnosti, budou řešeny
+      primárně smírnou cestou.
+
+XIV) Oddělitelnost
+1.    V případě, že některé ustanovení stanov se ukáže neplatným, neúčinným nebo sporným,
+      zůstávají ostatní ustanovení stanov touto skutečností nedotčena.
+
+XV)   Závěrečná ustanovení
+1.    Společnost uveřejňuje informace, oznámení o konání valné hromady a další údaje
+      vyžadované právními předpisy na svých internetových stránkách.
+2.    V případě, že dojde ke změně stanov, vyhotoví představenstvo bez zbytečného odkladu
+      poté, co se o změně dozví, úplné znění stanov. Úplné znění stanov je představenstvo
+      povinno založit do sbírky listin.
+3.    Právní poměry a právní vztahy těmito stanovami výslovně neupravené se řídí příslušnými
+      právními předpisy.
+
+XVI) Ustanovení při založení společnosti
+1.    Zakladatel Teplárny Brno, a.s., se sídlem Okružní 828/25, Lesná, 638 00 Brno, identifikační
+      číslo: 463 47 534, společnost zapsaná v obchodním rejstříku vedeném Krajským soudem v
+      Brně pod sp. zn. B 786 („zakladatel“), upisuje 10 (slovy: deset) kusů akcií znějící na jméno
+      v zaknihované podobě o jmenovité hodnotě jedné akcie ve výši 200.000 Kč (slovy: dvě stě
+      tisíc korun českých), a to za emisní kurs rovnající se jmenovité hodnotě akcií a zavazuje se
+      splatit jej peněžitým vkladem v celkové výši 2.000.000 Kč (slovy: dva miliony korun českých).
+      Veškeré akcie společnosti budou vydány na majetkový účet akcionáře č. 909002417993
+      vedený pro zakladatele společností UniCredit Bank Czech Republic and Slovakia, a.s .
+      jako účastníkem centrálního depozitáře.
+2.    Celý emisní kurz upisovaných akcií bude splacen nejpozději do 3 (slovy: tří) měsíců od přijetí
+      těchto stanov na účet u banky, který za tím účelem správce vkladů založí.
+3.    K okamžiku vzniku společnosti bude splacen základní kapitál společnosti v plné výši.
+4.    Zakladatel určuje, že první členy představenstva společnosti jsou:
+      a)   Ing. Petr Fajmon, MBA,
+
+      b)   Ing. Přemysl Měchura,
+
+      c)   Ing. Radim Tichý, MBA,
+
+5.    Zakladatel určuje, že první členy dozorčí rady společnosti jsou:
+      a)   RNDr. Peter Krupka, Ph.D.,
+
+      b)   Petr Šafařík, d
+      c)   Ing. Pavel Urubek,
+
+6.    Zakladatel dále určuje, že správcem vkladu je: Mgr. Pavel Tesařík,
+
+7.    Přibližná výše nákladů, které v souvislosti se založením společnosti vzniknou, činí 100.000
+      Kč (slovy: jedno sto tisíc korun českých).
+8.    Zakladatel souhlasí s tím, aby byl zapsán jako jediný akcionář společnosti do obchodního
+      rejstříku.
+9.    Představenstvo je ve smyslu § 250 odst. 4 zákona o obchodních korporacích pověřen o po
+      vzniku společnosti a po úplném splacení emisních kurzů rozhodnout o vypuštění údajů
+      uvedených v tomto článku XVI) těchto stanov. Toto rozhodnutí se nepovažuje za rozhodnutí
+      o změně stanov.
+
+                                                                                                    10
+
+                                                                                              Strana 41 / 42
+  XVII) Obsah
+
+I)    OBCHODNÍ FIRMA, SÍDLO A PRÁVNÍ FORMA SPOLEČNOSTI ........................................... 1
+II)   JEDNÁNÍ A PODEPISOVÁNÍ ZA SPOLEČNOST .................................................................. 1
+III)  PŘEDMĚT PODNIKÁNÍ A ČINNOSTI ................................................................................... 1
+IV)   ZÁKLADNÍ KAPITÁL, POČET, DRUH, FORMA, JMENOVITÁ HODNOTA A PODOBA
+      VYDANÝCH AKCIÍ ............................................................................................................... 2
+V)    ZVÝŠENÍ ZÁKLADNÍHO KAPITÁLU .................................................................................... 3
+VI) SNÍŽENÍ ZÁKLADNÍHO KAPITÁLU ..................................................................................... 3
+VII) ORGÁNY SPOLEČNOSTI .................................................................................................... 3
+VIII) VALNÁ HROMADA .............................................................................................................. 3
+IX) PŘEDSTAVENSTVO ............................................................................................................ 4
+X)    DOZORČÍ RADA .................................................................................................................. 7
+XI) HOSPODAŘENÍ SPOLEČNOSTI A PODÍL NA ZISKU ........................................................... 9
+XII) DOPLŇOVÁNÍ A ZMĚNA STANOV ...................................................................................... 9
+XIII) PRÁVNÍ POMĚRY SPOLEČNOSTI A ŘEŠENÍ SPORŮ ......................................................... 9
+XIV) ODDĚLITELNOST ............................................................................................................. 10
+XV) ZÁVĚREČNÁ USTANOVENÍ .............................................................................................. 10
+XVI) USTANOVENÍ PŘI ZALOŽENÍ SPOLEČNOSTI ................................................................... 10
+XVII) OBSAH .............................................................................................................................. 11
+
+
+
+
+                                                                                                                                         11
+
+                                                                                                                                   Strana 42 / 42
+

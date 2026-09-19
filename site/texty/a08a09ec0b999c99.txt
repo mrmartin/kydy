@@ -1,0 +1,311 @@
+Rada města Brna
+
+Z9/09. zasedání Zastupitelstva města Brna
+konané dne 5.9.2023
+
+
+
+             12. Pravidla pro zveřejňování otevřených dat městských
+              společností - návrh předchozího souhlasu s udělením
+                              koncernového pokynu
+
+Anotace
+Návrh Koncernového pokynu "Pravidla pro zveřejňování otevřených dat městských společností" v
+souvislosti se sjednocením postupu sdílení a zveřejňování dat v rámci spolupráce s obchodními
+společnostmi se 100 % majetkovou účastí statutárního města Brna
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. vyslovuje                   předchozí souhlas s udělením Koncernového pokynu "Pravidla pro zveřejňování
+                               otevřených dat městských společností", která tvoří přílohu č......tohoto zápisu
+
+
+Stanoviska
+
+Materiál byl projednán v R09/044. schůzi RMB dne 23. 8. 2023.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Marco Banti LL.M.
+  vedoucí odboru - Odbor participace
+  29.8.2023 v 13:15
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Ing. Aleš Doležel
+  vedoucí úseku - 2. úsek
+  29.8.2023 v 11:18
+
+
+
+
+Sestava vytvořena 29.8.2023 v 13:15                          1/1                              Vygenerováno programem eMMB
+
+
+                                                                                                              Strana 1 / 6
+                                 Obsah materiálu
+Návrh usnesení                                                    1-1
+Obsah materiálu                                                   2-2
+Důvodová zpráva                                                   3-4
+Příloha k usnesení (Koncernový pokyn 02_2023-Otevřena data.pdf)   5-6
+
+
+
+
+                                                                   Strana 2 / 6
+                                     Důvodová zpráva
+
+Město Brno již dlouhodobě publikuje otevřená data skrze portál data.brno.cz, které spravuje
+Oddělení dat, analýz a evaluací Odboru participace Magistrátu města Brna. Publikaci
+otevřených dat v rámci magistrátu upravuje Příkaz tajemníka č.6/2020, nicméně s obchodními
+společnostmi s majetkovou účastí města je dosud spolupráce v oblasti otevřených dat
+navazována individuálně. Cílem tohoto materiálu je postup sdílení otevřených dat jasně
+definovat a sjednotit.
+
+Pravidla pro zveřejňování otevřených dat městských společností
+
+   1. V případě pojmů použitých v těchto pravidlech, kterými jsou „otevřená data“, „otevřený
+      formát“, „strojově čitelný formát“ a „metadata“, se při jejich výkladu vychází z definic
+      obsažených v ustanovení § 3 zákona č. 106/1999 Sb., o svobodném přístupu k
+      informacím, ve znění pozdějších předpisů.
+
+
+   2. Proces zveřejňování dat zapadá do celosvětového trendu politiky otevřených dat.
+      Otevřená data jsou vysoce efektivní způsob zveřejňování informací veřejného sektoru.
+      Sdílením otevřených dat je umožněn vznik užitečných aplikací a nástrojů zejména pro
+      veřejnost, ale i veřejnou správu.
+
+
+   3. Koordinátorem a gestorem zveřejňování dat a datových sad na je Oddělení dat, analýz
+      a evaluací Odboru participace (dále jen „ODAE“), které spravuje datový portál města.
+      V oblasti prostorových dat spolupracuje ODAE s Oddělením GIS Odboru městské
+      informatiky (dále jen „Oddělení GIS“).
+
+   4. Data, datové sady a metadata k nim jsou na datovém portálu města Brna data.brno.cz
+      zveřejňovány ve strojově čitelných a otevřených formátech, popř. alespoň strojově
+      čitelných tak, aby byly dále zpracovatelné.
+
+   5. Pokud jsou publikována data veřejné povahy bez dalších omezení, spolupráce na jejich
+      publikaci nemusí být ošetřena žádnými smluvními dokumentacemi nebo předávacími
+      protokoly.
+
+   6. Při publikaci dat, která podléhají různé specifické ochraně, bude postupováno
+      individuálně po domluvě všech zúčastněných stran.
+
+
+   7. Nezveřejňují se taková data a datové sady, které podléhají ochraně osobních údajů,
+      obsahují citlivé informace, utajované informace, obchodní tajemství anebo jsou
+      chráněné autorským právem, a data a datové sady, jejichž zveřejnění by bylo v rozporu
+      s platnými právními předpisy. Zveřejňování dat je konzultováno s Oddělením
+      organizačním a ochrany informací Organizačního odboru MMB, pověřencem pro
+      ochranu osobních údajů MMB a Kanceláří rozvoje kybernetické bezpečnosti MMB.
+
+
+
+
+                                                                                          Strana 3 / 6
+   8. Proces zveřejňování dat zahrnuje, ve spolupráci s příslušnou společností, především
+      výběr vhodných dat a dále metodické vedení a technické zajištění procesu zveřejňování.
+
+   9. Městský katalog data.brno je již napojen podle předpisů MVČR na Národní katalog
+      otevřených dat.
+
+
+
+Materiál nepodléhá projednání v komisích.
+Materiál projednala Rada města Brna dne 23. 8. 2023.
+
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna doporučuje Zastupitelstvu města Brna vyslovit předchozí souhlas s udělením
+Koncernového pokynu "Pravidla pro zveřejňování otevřených dat městských společností".
+
+Schváleno jednomyslně 11 členy.
+
+
+
+
+                                                                                                   Matonohov
+                                      Podivinská
+
+
+
+
+                                                                                      Kratochvíl
+                                                               Ing. arch.
+                                                   Bc. Aberl
+   Vaňková
+
+
+
+
+                                                               Bořecký
+
+
+                                                                            Chvátal
+                             Kerndl
+
+
+
+
+                                                                            RNDr.
+                     Suchý
+             Černý
+   JUDr.
+
+
+
+
+                             JUDr.
+
+
+
+
+                                                                                                   JUDr.
+
+
+                                                                                                   JUDr.
+                                                                            Ph.D.
+
+
+
+
+                                                                                                   Oliva
+             Mgr.
+
+
+
+                     Mgr.
+
+
+
+
+                                      Ing.
+
+
+
+
+                                                                                      Ing.
+
+
+
+
+                                                                                                   á
+    pro       pro     pro      pro    pro             pro      pro           pro       pro         pro   pro
+
+
+
+
+                                                                                                               Strana 4 / 6
+                                         KONCERNOVÝ POKYN
+                                              č. /2022
+                           udělený Radou města Brna v působnosti řídící           Koncern SMB
+                             osoby v rámci Koncernu statutárního města
+                          Brna v souladu s Deklarací Koncernu statutárního
+                                            města Brna
+
+
+                      PUBLIKACE OTEVŘENÝCH DAT VYTVÁŘENÝCH ŘÍZENÝMI OSOBAMI
+
+ Dotčené řízené osoby:
+    • ARENA BRNO, a.s., IČO 091 33 267, se sídlem Výstaviště 405/1, Pisárky, 603 00 Brno
+    • Brněnské komunikace a.s., IČO 607 33 098, se sídlem Renneská třída 787/1a, Štýřice, 639 00
+        Brno
+    • Dopravní podnik města Brna, a.s., IČO 255 08 881, se sídlem Hlinky 64/151, Pisárky, 603 00
+        Brno
+    • Lesy města Brna, a.s., IČO 607 13 356, se sídlem Křížkovského 247/9, 664 34 Kuřim
+    • Pohřební a hřbitovní služby města Brna, a.s., IČO 607 13 330, se sídlem Koliště 1909/7, Černá
+        Pole, 602 00 Brno
+    • SAKO Brno, a.s., IČO 607 13 470, se sídlem Jedovnická 4247/2, Židenice, 628 00 Brno
+    • STAREZ - SPORT, a.s., IČO 269 32 211, se sídlem Křídlovická 911/34, Staré Brno, 603 00 Brno
+    • Teplárny Brno, a.s., IČO 463 47 534, se sídlem Okružní 828/25, Lesná,
+        638 00 Brno
+    • Technické sítě Brno, akciová společnost, IČO 255 12 285, se sídlem Barvířská 822/5,
+        Zábrdovice, 602 00 Brno
+    • Veletrhy Brno, a.s., IČO 255 82 518, se sídlem Výstaviště 405/1, Pisárky, 603 00 Brno
+    • SAKO Brno SOLAR a.s., IČO 141 03 320, se sídlem Jedovnická 4247/2, Židenice, 628 00 Brno
+
+     Schváleno        Předchozí souhlas         Schváleno                     Přílohy:
+   Koncernovým          ZMB vyjádřen         usnesením RMB
+   výborem dne:
+
+
+
+
+Předmětem tohoto koncernového pokynu je dlouhodobá soustavná spolupráce při publikování
+otevřených dat, tj. dat vytvářených řízenými osobami, která nepodléhají ochraně dle nařízení
+evropského parlamentu a rady (EU) 2016/679 o ochraně fyzických osob v souvislosti se zpracováním
+osobních údajů a o volném pohybu těchto údajů a o zrušení směrnice 95/46/ES (obecné nařízení o
+ochraně osobních údajů), či zákona č. 110/2019 Sb., o zpracování osobních údajů, či která se
+neposkytují dle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších
+předpisů, prostřednictvím portálu data.brno.cz, a to prostřednictvím statutárního města Brna,
+konkrétně Oddělení dat, analýz a evaluací Odboru participace Magistrátu města Brna.
+
+
+   1. Od řízených osob se vyžaduje poskytování otevřených dat jimi vytvářených, ve strojově
+      čitelném formátu a jejich metadat, a to předem domluvenou formou sdílení Oddělení dat,
+      analýz a evaluací Odboru participace Magistrátu města Brna.
+
+
+
+
+                                                                                                 Strana 5 / 6
+   2. Poskytování otevřených dat bude probíhat za těchto podmínek:
+
+         i.    Řízené osoby zajistí spolupráci dané společnosti v oblasti publikace otevřených dat
+               s důrazem na vytipování vhodných datasetů a jejich prioritizaci.
+         ii.   Řízené osoby zajistí spolupráci dané společnosti při hledání technického řešení sdílení
+               dat. Návrh a realizaci technického řešení zajistí ve spolupráci s Oddělením dat, analýz
+               a evaluací Odboru participace Magistrátu města Brna, popř. Odborem městské
+               informatiky.
+
+       to vše za dodržení podmínek právních předpisů.
+
+   3. Tímto koncernovým pokynem je plněn koncernový zájem, vyjádřený v čl. 1.1. Deklarace
+      Koncernu statutárního města Brna, a to zejména zájem na potřebě prosazovat účel existence
+      členů koncernu, definovaný mj. jako péče o všestranný rozvoj svého území a o potřeby občanů
+      statutárního města Brna, dále zájem na efektivním využití výhod, jež příslušnost ke koncernu
+      přináší jeho jednotlivým členům, dále s ohledem na nutnost zajistit vzájemnou informovanost
+      a spolupráci členů Koncernu statutárního města Brna o otázkách financování, jakož i zajistit
+      informovanost veřejnosti o existenci a struktuře koncernu a dále zájem na efektivním využití
+      výhod, jež příslušnost ke koncernu přináší jeho jednotlivým členům dále na potřebě
+      předcházet újmě, jež potenciálně hrozí v podnikatelském seskupení v důsledku ovlivňování
+      ovlivněných osob osobami vlivnými, a nutnosti případně takovou újmu nahradit v souladu
+      s právním předpisy.
+
+   4. Tímto koncernovým pokynem se určuje, že případnou újmu řízených osob, vzniklou v důsledku
+      poskytnutí otevřených dat uhradí řídící osoba, a to ve lhůtě 6 měsíců od podání žádosti ze
+      strany řízené společnosti způsobem, který určí statutární město Brno. Primárně se však vznik
+      újmy v souvislosti s realizací koncernového pokynu nepředpokládá.
+
+   5. Tento pokyn je účinný dnem jeho podpisu primátorkou města Brna.
+
+   6. S ohledem na to, že se koncernový pokyn týká alespoň dvou řízených osob v koncernu řídící
+      osoba koncernový pokyn uděluje po předchozím souhlasu s udělením koncernového pokynu
+      Zastupitelstvem města Brna ve smyslu čl. 4.10 Deklarace Koncernu statutárního města Brna.
+
+
+
+V Brně dne
+
+
+
+
+                                                                       JUDr. Markéta Vaňková
+                                                                       primátorka města Brna
+
+
+
+
+                                                                                                  Strana 6 / 6
+

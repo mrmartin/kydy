@@ -1,0 +1,319 @@
+Rada města Brna
+
+Z9/37. zasedání Zastupitelstva města Brna
+konané dne 15.9.2026
+
+
+
+        37. Aktualizace očekávaného čerpání rozpočtu kapitálových
+       výdajů Odboru městské informatiky MMB v roce 2026, návrh
+                          rozpočtového opatření
+
+Anotace
+Důvodem návrhu rozpočtového opatření je časový posun v přípravách výběrového řízení u veřejných
+zakázek "Opláštění stávajícího 3D modelu budov pro území statutárního města Brna", „Jednotná aplikace
+města Brna“, „Platforma pro správu AI agentů a automatizovaných workflow“, „Rozšíření systému
+strategické vizibility kritických služeb v reálném čase“.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                    rozpočtové opatření dle tabulky, která tvoří přílohu č…. tohoto zápisu na základě
+                                navržené aktualizace očekávaného čerpání rozpočtu kapitálových výdajů Odboru
+                                městské informatiky MMB v roce 2026
+
+
+Stanoviska
+
+
+          Finanční výbor ZMB projedná na svém zasedání dne 09.09.2026.
+          Rada města Brna projednala na své schůzi R9/190 konané dne 26.08. 2026 a R9/191 konané
+          dne 02.09.2026 a doporučila ZMB ke schválení.
+
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. David Menšík
+  vedoucí odboru - Odbor městské informatiky
+  8.9.2026 v 12:18
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  8.9.2026 v 12:11
+
+
+
+
+Sestava vytvořena 8.9.2026 v 12:18                            1/1                              Vygenerováno programem eMMB
+
+
+                                                                                                               Strana 1 / 5
+                               Obsah materiálu
+Návrh usnesení                                                   1-1
+Obsah materiálu                                                  2-2
+Důvodová zpráva                                                  3-4
+Příloha k usnesení (Převod do NR 2027_ZMB_JAMB_AI_3D_KKB_09_03   5-5
+(2).pdf)
+
+
+
+
+                                                                  Strana 2 / 5
+                                                      Důvodová zpráva:
+
+         Odbor městské informatiky MMB předkládá orgánům města Brna návrh rozpočtového opatření, jehož
+         předmětem je návrh na aktualizaci rozpočtu kapitálových výdajů Odboru městské informatiky MMB
+         v roce 2026.
+
+         Důvodem návrhu rozpočtového opatření je časový posun v přípravách výběrového řízení na Opláštění
+         stávajícího 3D modelu budov pro území statutárního města Brna. Tento model je cenným podkladem
+         územního i strategického plánování. V průběhu příprav zakázky se objevily nové možnosti zpracování
+         problematiky, které je nutné hlouběji prozkoumat, aby bylo možné finanční prostředky efektivně využít,
+         proto se vypsání veřejné zakázky nestihne již v letošním roce.
+
+         Nutnost převodu části kapitálových výdajů z rozpočtu roku 2026 do návrhu rozpočtu 2027 se vyskytla
+         rovněž u veřejné zakázky „Jednotná aplikace města Brna“, která je zadávána v jednacím řízení s
+         uveřejněním, které se rozhodnul Odbor městské informatiky využít s ohledem na skutečnost, že na trhu
+         neexistuje řešení, které by mohlo statutární město Brno využít bez dodatečných úprav, tak aby byly
+         splněny požadavky na funkčnost jednotné aplikace.
+         Jednací řízení s uveřejněním probíhá ve více navazujících fázích, což zvyšuje časovou náročnost
+         procesu výběru dodavatele a následného uzavření smlouvy.
+
+         Rovněž zadávací řízení nadlimitní veřejné zakázky „Platforma pro správu AI agentů a automatizovaných
+         workflow“, která je zadávána v otevřeném řízení, je časově náročnější, než Odbor městské informatiky
+         MMB původně předpokládal. V rámci posouzení a hodnocení nabídek bylo nezbytné provést jejich
+         podrobný přezkum a vyžádat si doplňující informace a objasnění ve vztahu k nabízenému plnění.
+         Předmětem plnění veřejné zakázky je kompletní dodávka redundantního hardwarového a softwarového
+         vybavení pro on-premise instalaci v prostředí města Brna, součástí plnění je implementace
+         inteligentních chatbotů pro hlavní web města a weby městských částí, které jsou na produkci webové
+         platformy, vytvoření interních AI agentů, jako je AI vrátný či voicebot, a nastavení automatizovaných
+         workflow využívajících pokročilé jazykové modely (LLM) s vysokou relevancí pro český jazyk. Bude také
+         provedena detailní technická analýza, implementace platformy a její uvedení do provozu, zajištěno
+         nezbytné technické zázemí a intuitivní rozhraní pro správce obsahu, a další činnosti. S ohledem na
+         náročnost implementace řešení se v letošním roce nestihne vyčerpat finanční prostředky určené na
+         realizaci této veřejné zakázky. Z důvodu časové náročnosti zadávacího řízení a následné realizace
+         veřejné zakázky navrhuje Odbor městské informatiky MMB přesun příslušné části finančních prostředků
+         do dalšího roku.
+
+         Dalším důvodem předkládaného rozpočtového opatření je zajištění finančních prostředků na úhradu
+         výdajů souvisejících s veřejnou zakázkou „Rozšíření systému strategické vizibility kritických služeb v
+         reálném čase“, a to z důvodu posunu v přípravách zadávacího řízení této veřejné zakázky.
+
+         Na základě navržené aktualizace rozpočtu kapitálových výdajů Odboru městské informatiky MMB v roce
+         2026 Odbor městské informatiky MMB předkládá tabulku rozpočtového opatření. Návrhy těchto
+         rozpočtových opatření byly projednány na schůzích Rady města Brna č. R9/190 konané dne 26.08.2026
+         a č. R9/191 konané dne 02.09.2026.
+
+
+             •      Komise pro informační technologie RMB projednala na svém 44. jednání dne 31. 8. 2026.
+
+         Hlasování:
+         pro-proti-zdržel se-nehlasoval: 8-0-0-0/8
+
+Krásný   Slavíček      Berg    Černý   Hlaváček      Kment   Machů   Pokorná    Caha     Trojan   Zemek     Mejzlík        Valeš
+ pro        xxx         xxx     pro       pro         xxx     pro      pro       xxx      pro      pro       pro            xxx
+
+
+         a doporučila RMB přijmout usnesení.
+
+
+
+
+                                                                                                            Strana 3 / 5
+•     Finanční výbor ZMB projedná na svém zasedání dne 09.09.2026.
+
+
+•     Rada města Brna projednala jako bod č. 123 na své schůzi R9/190 konané dne 26.08. 2026
+
+
+Schváleno jednomyslně 9 členy.
+
+
+
+
+                                                                                                           Matonohová
+                                           Podivinská
+
+
+
+
+                                                                                              Kratochvíl
+                                           Karasová
+
+
+
+
+                                                                Ing. arch.
+    Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+                                                                              Bořecký
+                       Chvátal
+
+
+
+                                  Kerndl
+                       RNDr.
+              Černý
+    JUDr.
+
+
+
+
+                                  JUDr.
+
+
+
+
+                                                                                                           JUDr.
+
+
+                                                                                                                         JUDr.
+                       Ph.D.
+
+
+
+
+                                                        Aberl
+
+
+
+
+                                                                                                                         Oliva
+              Mgr.
+
+
+
+
+                                           Ing.
+
+
+
+
+                                                                                              Ing.
+                                                        Bc.
+    ---       pro      pro        pro      pro          pro     pro          pro             ---           pro          pro
+
+a jako bod č. 113 na své schůzi R9/191 konané dne 02.09.2026
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                              Petr Bořecký
+
+
+
+
+                                                                                                           Matonohová
+                                           Podivinská
+
+
+
+
+                                                                                             Kratochvíl
+                                           Karasová
+
+
+
+
+                                                                Ing. arch.
+    Vaňková
+
+
+
+
+                                                                Bořecký
+                        Chvátal
+
+
+
+                                  Kerndl
+                        RNDr.
+               Černý
+    JUDr.
+
+
+
+
+                                  JUDr.
+
+
+
+
+                                                                                                           JUDr.
+
+
+                                                                                                                        JUDr.
+                        Ph.D.
+
+
+
+
+                                                        Aberl
+
+
+
+
+                                                                                                                        Oliva
+               Mgr.
+
+
+
+
+                                           Ing.
+
+
+
+
+                                                                                             Ing.
+                                                        Bc.
+
+
+
+
+    pro       pro      pro        pro      pro          pro     pro          pro             -----         pro          pro
+
+
+a doporučila ZMB ke schválení.
+
+
+
+
+                                                                                                                                 Strana 4 / 5
+                                                                            Rozpočtové opatření
+                                                                                                                                                            v tis. Kč
+Kapitálové výdaje - snížení
+   ORJ       §          pol.     ÚZ   ORG                                          Věcná náplň                    Upr. rozpočet              Úprava        Rozpočet
+                                                                                                                  k 03.09.2026             rozpočtu + -    po změně
+    5300 6171             6111              1687 Jednotná aplikace města Brna                                                     24 684         -15 456             9 228
+    5300 6171             6111              3476 OMI - Informační systém                                                          79 783          -2 500            77 283
+    5300 6171             6119              2359 GIS datové sady                                                                     597            -287               310
+    5300 6171             6111              2259 Kybernetická bezpečnost                                                           7 491          -6 940               551
+Financování - snížení
+   ORJ       §          pol.     ÚZ   ORG                                          Věcná náplň                    Upr. rozpočet              Úprava        Rozpočet
+                                                                                                                  k 03.09.2026             rozpočtu + -    po změně
+    1700                  8905                   Nepřevedené částky vyrovnávající schodek - kontokorentní úvěry             1 758 592            -25 183         1 733 409
+
+
+
+
+                                                                                                                                                           Strana 5 / 5
+

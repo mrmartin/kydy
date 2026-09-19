@@ -1,0 +1,567 @@
+Rada města Brna
+
+Z9/10. zasedání Zastupitelstva města Brna
+konané dne 10.10.2023
+
+
+
+                        7. Projekt OHB II - linka K1 (SAKO Brno, a.s.)
+
+Anotace
+Zastupitelstvu města Brna se předkládá dokument s názvem „KOMPLEXNÍ ANALÝZA – Vysoce účinné
+zařízení na kombinovanou výrobu elektrické energie a tepla z obnovitelných zdrojů (OHB II – linka K1)“,
+obsahující části podléhající obchodnímu tajemství společnosti SAKO Brno, a.s., a v návaznosti na její
+obsah návrh společnosti SAKO Brno, a.s. na udělení koncernového pokynu, které se vztahují k projektu
+OHB II – linka K1, to vše v návaznosti na aktuální stav, vč. vývoje legislativy a faktických změn okolností
+v letech 2018 – 2023.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. bere na vědomí
+                                      1. obsah dokumentu s názvem „KOMPLEXNÍ ANALÝZA – Vysoce účinné zařízení
+                                         na kombinovanou výrobu elektrické energie a tepla z obnovitelných zdrojů
+                                         (OHB II – linka K1)“, zpracovaný společností CÍSAŘ, ČEŠKA, SMUTNÝ s.r.o.,
+                                         advokátní kancelář, který tvoří přílohu č. ______ tohoto zápisu;
+                                      2. návrh obchodní společnosti SAKO Brno, a.s. na udělení koncernového pokynu,
+                                         který tvoří přílohu č. _____ tohoto zápisu.
+
+
+
+Stanoviska
+
+Rada města Brna projednala obsah Komplexní analýzy a návrh společnosti SAKO Brno, a.s. na
+udělení koncernového pokynu na své schůzi č. R9/050, konané dne 02. října 2023, kdy Rada města
+Brna doporučila Zastupitelstvu města Brna vzít na vědomí obsah Komplexní analýzy a návrhu
+společnosti SAKO Brno, a.s. na udělení koncernového pokynu.
+
+Materiál nepodléhá projednání v komisích Rady města Brna.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Pavel Urubek
+  eMMB - SAKO
+  3.10.2023 v 13:54
+  Garance správnosti, zákonnosti materiálu
+
+
+
+
+Sestava vytvořena 3.10.2023 v 13:54                             1/1                            Vygenerováno programem eMMB
+
+
+                                                                                                               Strana 1 / 253
+                                   Obsah materiálu
+Návrh usnesení                                                                      1-1
+Obsah materiálu                                                                     2-2
+Důvodová zpráva                                                                     3-7
+Příloha k usnesení (Příloha č. 1_Komplexní analýza_OHB II – linka K1               8 - 96
+(25.9.2023)_dol.pdf)
+Příloha k usnesení (Příloha č. 1.1._Příloha č. 1 KA - Analýza BeePartner.pdf)    97 - 111
+Příloha k usnesení (Příloha č. 1.2._Příloha č. 2 KA - Analýza CETA.pdf)         112 - 148
+Příloha k usnesení (Příloha č. 1.3._Příloha č. 3 KA - Analýza Cluedin.pdf)      149 - 168
+Příloha k usnesení (Příloha č. 1.4._Příloha č. 4 KA - Analýza KPMG.pdf)         169 - 217
+Příloha k usnesení (Příloha č. 1.5._Příloha č. 5 KA - Analýza SUDOP.pdf)        218 - 245
+Příloha k usnesení (Příloha č. 1.6._Příloha č. 6 KA - Manažerské shrnutí.pdf)   246 - 250
+Příloha k usnesení (Příloha č. 2_Návrh na udělení koncernového pokynu.pdf)      251 - 253
+
+
+
+
+                                                                                      Strana 2 / 253
+                                           Důvodová zpráva
+
+Společnost SAKO Brno, a.s. (dále též jen „SAKO Brno“) připravuje realizaci hlavní stavební části
+projektu s názvem „Vysoce účinné zařízení na kombinovanou výrobu elektrické energie a tepla
+z obnovitelných zdrojů (OHB II – linka K1)“ (dále jen „Projekt“). Za účelem výběru zhotovitele bylo
+zahájeno zadávací řízení na veřejnou zakázku s názvem „Vysoce účinné zařízení na kombinovanou
+výrobu elektrické energie a tepla z obnovitelných zdrojů (OHB II – linka K1)“, ev. č. Věstníku veřejných
+zakázek: Z2021-025589 (dále jen „Veřejná zakázka“).
+V návaznosti na usnesení Rady města Brna (dále jen „RMB“) přijaté na její schůzi č. R9/050, konané
+dne 02. října 2023 se Zastupitelstvu města Brna (dále jen „ZMB“) předkládá na vědomí dokument s
+názvem „KOMPLEXNÍ ANALÝZA – Vysoce účinné zařízení na kombinovanou výrobu elektrické energie
+a tepla z obnovitelných zdrojů (OHB II – linka K1)“, který vyhotovila společnost CÍSAŘ, ČEŠKA,
+SMUTNÝ s.r.o., advokátní kancelář (dále jen „Komplexní analýza“), a v návaznosti na její obsah návrh
+společnosti SAKO Brno na udělení koncernového pokynu.
+Společnost SAKO Brno chrání vybrané části obsahu Komplexní analýzy jako své obchodní
+tajemství dle ust. § 504 zákona č. 89/2012 Sb., občanský zákoník, v účinném znění, a v souladu
+se stanovami společnosti SAKO Brno.
+V souvislosti s projednáním Komplexní analýzy a návrhu společnosti SAKO Brno na udělení
+koncernového pokynu se uvádí následující informace.
+RMB na své schůzi č. R9/041, konané dne 12. července 2023, uložila úkol vedoucímu Oddělení
+městské energetiky Magistrátu města Brna zajistit ve spolupráci se společností Teplárny Brno, a.s.
+vypracování Aktualizace Územní energetické koncepce statutárního města Brna.
+Podle předběžného koncepčního stanoviska Oddělení městské energetiky Magistrátu města Brna
+reaguje připravovaná Aktualizace Územní energetické koncepce zejména na změny způsobené
+aktuální situací oproti původním předpokladům a trendům zapracovaným do stávající Územní
+energetické koncepce, které se promítají v krátkodobém, střednědobém, i dlouhodobém horizontu
+především do provozu sítě SZTE (systém centrálního zásobování teplem) a jím využívaných zdrojů,
+kdy:
+    a) v krátkodobém časovém horizontu dochází k výraznému urychlení trendu nasazování
+       úsporných opatření na straně spotřeby, rychlejšímu tempu rozvoje ostatních centrálních
+       a decentralizovaných zdrojů tepla;
+    b) ve střednědobém horizontu platí, že na všechny výrobce tepla (centrální i lokální) dolehla
+       energetická krize, která si vyžádala zvýšenou pozornost otázkám řízení rizik,
+       tj. dostupnosti a cenové přijatelnosti paliv včetně potřeby zajištění stability provozu
+       energetických systémů;
+    c) v dlouhodobém časovém horizontu bude třeba počítat s ještě větší dynamikou a
+       nestabilitou podnikatelského prostředí v sektoru energetiky, což bude odrazem
+       pravděpodobných geopolitických změn v oblasti dodávek tradičních fosilních paliv,
+       nových technologií, jejich dostupnosti a podpoře legislativních změn v prostředí
+       Evropské unie.
+V budoucnu bude nutno více spolupracovat s externími zdroji energií umístěnými mimo město Brno a
+samozřejmě také s významným nárůstem čistých obnovitelných zdrojů energie na území města, a to
+především v sektorech Obchod, služby, zdravotnictví, školství a domácnosti, to vše při zachování
+stávajících energetických systémů.
+Obecně platí, že budoucí období budou motivovávána hledáním a budováním takových řešení, která
+nezatíží životní prostředí, a současně zajistí energetickou bezpečnost, udržitelnost a přijatelnost
+navržených řešení. Vrcholové strategické cíle jsou:
+    a) bezpečnost dodávek energie;
+    b) konkurenceschopnost (energetiky a sociální přijatelnost);
+    c) udržitelnost (udržitelný rozvoj).
+Aktualizace Územní energetické koncepce by se měla zaměřit na maximální využití stávajících zdrojů
+energií ať už ve městě Brně, tak v dosahu statutárního města Brna, avšak se zachováním použitelných
+pilířů ze scénáře OZE, a to včetně možnosti využívání zemního plynu a rozšířením možnosti dodávek
+z elektrárny Dukovany.
+
+
+
+
+                                                                                                    Strana 3 / 253
+Připravovaný scénář je založen na plném využití všech stávajících energetických systémů v oblasti
+výroby a distribuce zemního plynu, elektrické energie a tepla.
+Vzhledem k připravovanému projektu na využití tepla, dodaného horkovodním přivaděčem z elektrárny
+Dukovany, je nutno výrazným způsobem komplexně přehodnotit využívání velkých energetických
+výrobních zdrojů umístěných na území města Brna, vedoucí především k důslednému posouzení
+vhodnosti budování a využitelnosti stávajících a nových zdrojů. Zatímco zdroje pro výrobu tepla
+jsou v této chvíli dostatečně zastoupeny, obnovitelné zdroje výroby elektrické energie jsou stále na
+poměrně nízké, resp. nedostatečné úrovni. Pro optimální řešení budou využity především již
+vybudované nebo rozestavěné energetické zdroje. Hlavní pozornost bude zaměřena na další postup
+přípravy a realizace horkovodního přivaděče z elektrárny Dukovany v kombinaci s obnovitelnými zdroji.
+Více budou využívány čisté obnovitelné zdroje. Druhotné zdroje budou nasazovány v nezbytně
+nutné a udržitelné úrovni. Výrazně vyšší požadavky budou kladeny na rozvoj cirkulární
+ekonomiky, tj. především třídění odpadů a jejich materiálového využití. Energeticky využívat
+pouze ty odpady, které nelze využít jinak, nelze je recyklovat.
+Významným trendem do budoucnosti je taktéž využití ukládání elektrické energie z OZE do bateriových
+i vodíkových technologií.
+Při plnění úkolů uložených RMB, jak jsou popsány níže, se mimo jiné dne 02. října 2023 konala porada
+vedení města Brna, za přítomnosti členů představenstva a dozorčí rady společnosti SAKO Brno a členů
+Koncernového výboru, na jejímž jednání byla prezentována Komplexní analýza a byla k ní vedena
+rozprava mezi přítomnými osobami.
+Z výše uvedené rozpravy vyplynulo možné zvýšení akcentu na cirkulární ekonomiku a oběhové
+hospodářství, to vše při maximálním prohloubení naplňování posloupnosti hierarchie odpadového
+hospodářství se zaměřením na minimalizaci nových vstupů a zatížení infrastruktury města Brna
+transportem dovážených odpadů, reagující na v mezidobí (od roku 2019) započatý a aktuálně
+probíhající vývoj evropské legislativy, což je v souladu i s výše uvedenými zásadami připravované
+Aktualizace Územní energetické koncepce, která nahlíží na problematiku městské energetiky jako
+celek, kdy zájmu ekonomickému společnosti SAKO Brno a celkovým pohledům na energetické,
+enviromentální a strategické zájmy vycházejícím z míry poznání z doby zahájení přípravy Projektu (rok
+2016), může být nadřazen pohled celoměstský aktuální v současné době (rok 2023), odpovídající
+i důsledkům připravované Aktualizace Územní energetické koncepce.
+Z Komplexní analýzy nevyplynuly závěry, které by zachytily nesprávné postupy při přípravě Projektu či
+jeho nerealističnost. Projekt je i při zohlednění negativ shrnutých v Komplexní analýze pro společnost
+SAKO Brno pravděpodobně ekonomicky přínosný, přičemž míra takového přínosu přímo závisí na tom,
+zda se negativní aspekty projeví v celé své šíři či souběhu, nebo naopak nenastanou, což v současné
+době nelze s jistotou predikovat.
+Na základě rozhodnutí RMB přijaté na její schůzi č. R9/050, konané dne 02. října 2023, bude věc dalšího
+postupu Projektu projednána v Koncernovém výboru společně s návrhy koncernových pokynů
+a v případě, že Koncernový výbor doporučí udělení koncernového pokynu, bude jeho udělení
+předmětem rozhodování orgánů města Brna, jak je níže uvedeno. V průběhu tohoto procesu tak bude
+zřejmé, zda zájmu společnosti SAKO Brno bude předřazen zájem jiný, například veřejně prospěšný.
+
+
+RMB na své schůzi č. R9/042, konané dne 26. července 2023, vzala na vědomí informaci předsedy
+představenstva společnosti SAKO Brno o rozhodnutí představenstva společnosti SAKO Brno ve věci
+dalšího postupu Projektu, přijatém na jednání představenstva uvedené společnosti, které se konalo dne
+20. července 2023.
+RMB současně požádala představenstvo společnosti SAKO Brno v souvislosti s uděleným pokynem
+jediného akcionáře společnosti SAKO Brno k realizaci Projektu ze dne 30. dubna 2020,
+č. j. MMB/0177529/2020 (dále jen „Rozhodnutí primátorky“), o zajištění porovnání souladu současného
+stavu s uděleným pokynem a o porovnání stavu a podkladů z doby Rozhodnutí primátorky se
+současným stavem, a dále požádala představenstvo společnosti SAKO Brno o zpracování komplexní
+analýzy týkající se Projektu (dále jen „Komplexní analýza“), ve které bude zejména:
+    „1. provedeno srovnání situace z roku 2020 se současným stavem (zejména vývoj legislativy
+        národní a evropské, včetně možných budoucích trendů v oblasti odpadového hospodářství,
+        energetiky, životního prostředí, dopravní zátěže, atd),
+    2.   uvedena informace o důvodech a potřebě rozšíření spalovacích kapacit na území města Brna
+         v rámci obchodní společnosti SAKO Brno, a.s., při zohlednění potřeb statutárního města Brna
+
+
+
+
+                                                                                                   Strana 4 / 253
+          a jeho obyvatel,
+    3.    zhodnocení dopadů realizace projektu OHB II – linka K1 na statutární město Brno a jeho
+          obyvatele ve všech aspektech souvisejících s kvalitou života ve městě Brně (např. dopravní
+          zátěž, životní prostředí, energetika),
+    4.    uvedena skladba spalovaných odpadů od 1. 1. 2020 do 30. 6. 2023, včetně objemu jeho
+          jednotlivých složek,
+    5.    informace týkající se ekonomické situace společnosti, výše nerozděleného zisku, cash flow,
+          a předpokládané změny v případě realizace projektu OHB II – linka K1,
+    6.    srovnání cen materiálů ke dni podání nabídky se současným stavem;“.
+Komplexní analýzu, obsahující právní část a technickou část (zaměřenou především na oblast
+nakládání s odpady, životního prostředí a energetiky), zpracovala společnost CÍSAŘ, ČEŠKA, SMUTNÝ
+s.r.o., advokátní kancelář, IČO: 481 18 753, se sídlem Hvězdova 1716/2b, Nusle, 140 00 Praha 4 (dále
+jen „Zpracovatel“). V technické části se na zpracování Komplexní analýzy podíleli následující odborní
+konzultanti (dále jen „Odborní konzultanti“), jejichž zapojení bylo předem odsouhlaseno společností
+SAKO Brno:
+    -    BeePartner a.s., IČO: 035 89 277, se sídlem nám. Svobody 527, Lyžbice, 739 61 Třinec,
+    -    CETA – Centrum ekonomických a tržních analýz, z.ú., IČO: 294 17 198, se sídlem
+         Jungmannova 26/15, Nové Město, 110 00 Praha 1,
+    -    Cluedin s.r.o., IČO: 091 63 921, se sídlem Konviktská 952/8, Staré Město, 110 00 Praha 1,
+    -    KPMG Česká republika, s.r.o., IČO: 005 53 115, se sídlem Pobřežní 648/1a, 186 00 Praha 8,
+    -    SUDOP PRAHA a.s., IČO: 257 93 349, se sídlem Olšanská 2643/1a, Žižkov, 130 80 Praha 3.
+
+
+Dle kapitoly 4.2. Komplexní analýzy je účelem Komplexní analýzy „…na podkladě odborných závěrů
+Odborných konzultantů ve vztahu k zadání RMB (pozn.: viz výše popsané usnesení RMB, přijatém na
+její schůzi č. R9/042 konané dne 26. července 2023) a právních analýz provedených podle Přehledu
+právních témat (pozn.: jak jsou uvedena v kapitole 4.1. Komplexní analýzy) identifikovat možná rizika
+ve vztahu k realizaci a provozu Projektu, jakož i vyhodnocení odpovědnosti dotčených osob za vybraná
+relevantní právní jednání ve vztahu k dosavadnímu průběhu Projektu.“
+Dle kapitoly 4.3. Komplexní analýzy „Komplexní analýza hodnotí Projekt v kontextu se zájmy veřejně
+prospěšnými, které prozařují do činnosti městských společností z podstaty smyslu a účelu jejich
+založení a existence (v daném případě jakožto obchodní společnosti se 100% majetkovou účastí
+veřejnoprávní korporace – statutárního města Brna), a v tomto rámci se zaměřuje na identifikaci rizik,
+příp. problematických aspektů či nedostatků Projektu.“
+Veškeré závěry Zpracovatele, respektive Odborných konzultantů k posuzovaným otázkám, jak byly
+formulovány v usnesení RMB, přijatém na její schůzi č. R9/042, konané dne 26. července 2023, jsou
+uvedeny v Komplexní analýze.
+
+
+Podstatné závěry Komplexní analýzy jsou následující:
+    a) Komplexní analýza uzavřela, že v návaznosti na okolnosti provázející přípravu Projektu
+       a jeho aktuální podobu nelze jednoznačně uzavřít, že realizaci Projektu lze ve všech
+       popsaných aspektech považovat za souladnou se zájmem veřejně prospěšným, resp. se
+       svěřenými úkoly společnosti SAKO Brno a jejími stanovami. Během přípravy Projektu totiž
+       nebyly (zcela či dostatečně) vyhodnoceny některé aspekty širšího dopadu realizace Projektu
+       na statutární město Brno a jeho obyvatele, jako je problematika dopravní zátěže a emise
+       z návazné dopravy.
+    b) Odborní konzultanti identifikovali řadu rizik, která by pravděpodobně mohla mít dopad nikoliv
+       přímo do Projektu samotného (vyjma rizik, v jejichž důsledku by mohlo dojít k
+       nezanedbatelnému poklesu čisté hodnoty Projektu), nýbrž by mohla mít dopad na statutární
+       město Brno a jeho obyvatele v širších souvislostech. Realizace Projektu by tak v případě
+       naplnění těchto rizik mohla kolidovat se zájmem veřejně prospěšným (stručný přehled
+       identifikovaných rizik, příp. problematických aspektů či nedostatků Projektu je uveden v příloze
+       č. 6 Komplexní analýzy).
+    c) Současně však z důvodu legislativního vývoje na úrovni Evropské unie a České republiky,
+
+
+
+                                                                                                     Strana 5 / 253
+       především v důsledku finálního přijetí tzv. Green Deal a balíčku Fit For 55 (a na ně navazujících
+       předpisů a strategických či koncepčních dokumentů), nemohly být během přípravy Projektu v
+       plné míře zohledněny ani aktuální trendy týkající se zejména oblasti odpadového hospodářství,
+       pokud jde o přechod stávající ekonomiky k oběhovému hospodářství. Konkrétně se jedná
+       o zvýšený důraz na předcházení vzniku odpadů, přípravu na opětovné použití a zvýšení
+       recyklace odpadů a upuštění od jejich ukládání na skládky při současné minimalizaci
+       jejich spalování. Stejně tak nemohl být zohledněn ani plán REPowerEU, který byl Evropskou
+       komisí předložen v reakci na tíživou situaci a narušení celosvětového trhu s energií způsobené
+       invazí Ruské federace na Ukrajinu.
+    d) Jak je uvedeno v Komplexní analýze, společnost SAKO Brno je městskou společností, u níž
+       jsou zájmy veřejně prospěšné vyjádřeny prostřednictvím svěřených úkolů ve smyslu stanov
+       společnosti SAKO Brno, které na několika místech stanovují povinnost sledovat určitá sociální
+       a environmentální hlediska. Společnost SAKO Brno proto nemůže při své činnosti ignorovat
+       sociální a environmentální hlediska, ani pokud by realizace dané činnosti byla v jejím nejlepším
+       ekonomickém zájmu.
+    e) Navzdory uvedené skutečnosti nicméně z právních předpisů nevyplývá, že by společnost
+       SAKO Brno, coby městská společnost, mohla zájem veřejně prospěšný zcela či zčásti
+       upřednostnit zájmu ekonomickému či pro společnost jinak prospěšnému.
+    f) Jelikož by podle závěrů Komplexní analýzy realizace Projektu mohla důvodně vést ke kolizi
+       zájmu veřejně prospěšného s čistě ekonomickým zájmem společnosti SAKO Brno, bylo by
+       možné zájem veřejně prospěšný upřednostnit podle stanov společnosti SAKO Brno na základě
+       koncernového pokynu.
+    g) Dle Zpracovatele proto lze doporučit, aby představenstvo společnosti SAKO Brno informovalo
+       statutární město Brno coby řídící osobu Koncernu statutárního města Brna (dále jen „Koncern
+       SMB“) prostřednictvím RMB o výsledcích Komplexní analýzy, o jejíž zpracování RMB požádala
+       na svém zasedání dne 26. července 2023, jakož i o možné kolizi zájmu veřejně prospěšného
+       se zájmem ekonomickým společnosti SAKO Brno, pokud by k realizaci Projektu došlo.
+Společnost SAKO Brno v rámci přípravy Projektu zohledňovala všechna negativa Projektu z pohledu
+ekonomických dopadů na činnost společnosti SAKO Brno, a to i ty, které jsou šířeji pojaty v Komplexní
+analýze. Komplexní analýza se naopak zaměřuje na možná rizika spojená s realizací Projektu,
+bez ohledu na to, zda dopadají na ekonomiku společnosti SAKO Brno či do sféry řídící osoby či členů
+Koncernu SMB, a prostřednictvím toho do jiných (veřejných) zájmů.
+Podkladové materiály Projektu a Komplexní analýza tak nejsou ve vzájemném rozporu, každý z nich
+zohledňuje jiné zájmy a ohledy.
+
+
+Ze závěrů Komplexní analýzy vyplývá, že je vhodné, aby bylo na úrovni Koncernu SMB a řídící osoby
+zváženo, zda ke kolizi výše uvedené dochází a pokud ano, pak aby byly zváženy na úrovni výše
+uvedené možnosti dalšího postupu v Projektu.
+Vzhledem k závěrům Komplexní analýzy má společnost SAKO Brno za to, že se jako nejvhodnější jeví
+udělení koncernového pokynu, na jehož základě by společnosti SAKO Brno bylo uloženo, který ze
+zájmů má sledovat, zda zájem společnosti SAKO Brno či zájem veřejně prospěšný ve smyslu závěru
+čl. I. odst. 7 stanov společnosti SAKO Brno, jak je popsán v Komplexní analýze, přičemž pro tyto účely
+lze nyní formulovat následující varianty dalšího postupu:
+    a) předřazení veřejného zájmu ekonomickému zájmu společnosti SAKO Brno, v jehož důsledku
+       by došlo ke zrušení zadávacího řízení na Veřejnou zakázku (tedy nebude uzavřena smlouva s
+       vybraným dodavatelem), včetně vymezení, jak (respektive zda vůbec) za účelem řádného
+       zohlednění veřejného zájmu řídící osoby (statutárního města Brna), resp. Koncernu SMB, dále
+       postupovat ve vztahu k aktuální podobě realizace výstavby nového zařízení pro energetické
+       využití odpadu a aktualizace záměru realizace projektu OHB II;
+    b) předřazení ekonomického zájmu společnosti SAKO Brno veřejnému zájmu řídící osoby
+       (statutárního města Brna), resp. Koncernu SMB, v důsledku čehož by došlo k dokončení
+       zadávacího řízení na Veřejnou zakázku (tedy bude uzavřena smlouva s vybraným
+       dodavatelem) a Projekt bude realizován ve stávající podobě.
+
+
+V návaznosti na výše uvedené skutečnosti společnost SAKO Brno předložila RMB návrh na udělení
+koncernového pokynu, v němž požádala o projednání Komplexní analýzy v orgánech statutárního
+města Brna a v Koncernovém výboru a navrhla, aby bylo vydáno stanovisko Koncernu SMB, resp. řídící
+
+
+
+
+                                                                                                    Strana 6 / 253
+osoby k Projektu v podobě koncernového pokynu, jehož obsahem by byl pokyn pro společnost SAKO
+Brno v intencích výše uvedených pod písmeny a) a b).
+Vzhledem k hodnotě Projektu jako takového a výši investičních nákladů lze důvodně předpokládat,
+že jakýkoliv koncernový pokyn vztahující se k Projektu se bude týkat právních jednání s kumulativním
+dopadem do majetku společnosti SAKO Brno, jejichž odhadovaná hodnota bude činit minimálně částku
+ve výši 50.000.000 Kč. Vzhledem k této skutečnosti by byl k udělení jakéhokoliv koncernového pokynu
+potřeba předchozí souhlas ZMB.
+RMB projednala obsah Komplexní analýzy a návrh společnosti SAKO Brno na udělení koncernového
+pokynu na své schůzi č. R9/050, konané dne 02. října 2023, kdy RMB doporučuje ZMB vzít na vědomí
+obsah Komplexní analýzy a návrhu společnosti SAKO Brno na udělení koncernového pokynu.
+Současně RMB v působnosti řídící osoby Koncernu SMB daným usnesením mj. uložila:
+  i.          společnosti SAKO Brno jakožto řízené osobě připravit návrhy konkrétních znění koncernových
+              pokynů dle variant postupu uvedených v návrhu společnosti SAKO Brno na udělení
+              koncernového pokynu, a tyto návrhy koncernových pokynů předat předsedovi Koncernového
+              výboru za účelem jejich projednání v Koncernovém výboru;
+  ii.         Ing. Petrovi Kratochvílovi, předsedovi Koncernového výboru, ve spolupráci se společností
+              SAKO Brno předložit Koncernovému výboru k projednání:
+                  1. Komplexní analýzu a související relevantní podklady;
+                  2. návrh společnosti SAKO Brno, a.s. na udělení koncernového pokynu;
+                  3. návrhy konkrétních znění koncernových pokynů zpracovaných společností SAKO Brno
+                      v souladu s usnesením Rady města Brna přijatým na její schůzi č. R9/050, konané dne
+                      02. října 2023.
+Po přípravě variant koncernových pokynů postupem výše uvedeným se předpokládá jejich projednání
+v Koncernovém výboru, kdy v případě jejich schválení budou tyto následně předloženy orgánům města
+Brna za účelem výběru vhodné varianty.
+
+
+Pro návrh usnesení přijatého RMB na její schůzi č. R9/050, konané dne 02. října 2023, hlasovalo
+8 členů, nikdo nebyl proti, 2 členové se zdrželi hlasování.
+
+
+
+                                                                                                         Matonohov
+                                            Podivinská
+
+
+
+
+                                                                                            Kratochvíl
+                                                         Bc. Aberl
+
+
+                                                                     Ing. arch.
+   Vaňková
+
+
+
+
+                                                                     Bořecký
+
+
+                                                                                  Chvátal
+                                   Kerndl
+                          Suchý
+
+
+
+
+                                                                                  RNDr.
+                 Černý
+   JUDr.
+
+
+
+
+                                   JUDr.
+
+
+
+
+                                                                                                         JUDr.
+
+
+                                                                                                         JUDr.
+                                                                                  Ph.D.
+
+
+
+
+                                                                                                         Oliva
+                 Mgr.
+
+
+
+                          Mgr.
+
+
+
+
+                                            Ing.
+
+
+
+
+                                                                                            Ing.
+
+
+
+
+                                                                                                         á
+
+
+        pro       pro     zdržel     pro    -----            pro     pro          zdržel     pro         pro   pro
+                          se                                                      se
+
+
+
+
+                                                                                                                     Strana 7 / 253
+V Brně dne                                                  Statutární město Brno
+                                                            Dominikánské nám. 1
+                                                            601 67 Brno
+
+
+Věc: projekt „Vysoce účinné zařízení na kombinovanou výrobu elektrické energie a tepla z
+     obnovitelných zdrojů (OHB II – linka K1)“
+     návrh na udělení koncernového pokynu
+
+       Ve shora označené věci společnost SAKO Brno, a.s. sděluje, že připravuje realizaci
+hlavní stavební části projektu s názvem „Vysoce účinné zařízení na kombinovanou výrobu
+elektrické energie a tepla z obnovitelných zdrojů (OHB II – linka K1) (dále jen „Projekt“). Za
+účelem výběru zhotovitele bylo zahájeno zadávací řízení na veřejnou zakázku s názvem
+„Vysoce účinné zařízení na kombinovanou výrobu elektrické energie a tepla z obnovitelných
+zdrojů (OHB II – linka K1)“, ev. č. Věstníku veřejných zakázek: Z2021-025589 (dále jen
+„Veřejná zakázka“).
+
+       Ve vztahu k Projektu bylo na základě na základě usnesení Rady města Brna, přijatém
+na její schůzi č. R9/042 konané dne 26.07.2023, představenstvo obchodní společnosti SAKO
+Brno, a.s. požádáno:
+          a) v souvislosti s uděleným pokynem jediného akcionáře společnosti SAKO Brno,
+              a.s., k realizaci projektu OHB II – linka K1, ze dne 30. dubna 2020, č. j.:
+              MMB/0177529/2020 (dále jen „pokyn“) o zajištění porovnání souladu
+              současného stavu s uděleným pokynem a dále o porovnání stavu a podkladů
+              z doby udělení pokynu se současným stavem
+          b) zpracování komplexní analýzy týkající se projektu OHB II – linka K1, v rámci níž
+              bude zejména:
+                  1. provedeno srovnání situace z roku 2020 se současným stavem (zejména
+                      vývoj legislativy národní a evropské, včetně možných budoucích trendů
+                      v oblasti odpadového hospodářství, energetiky, životního prostředí,
+                      dopravní zátěže, atd),
+                  2. uvedena informace o důvodech a potřebě rozšíření spalovacích kapacit
+                      na území města Brna v rámci obchodní společnosti SAKO Brno, a.s., při
+                      zohlednění potřeb statutárního města Brna a jeho obyvatel,
+                  3. zhodnocení dopadů realizace projektu OHB II – linka K1 na statutární
+                      město Brno a jeho obyvatele ve všech aspektech souvisejících s kvalitou
+                      života ve městě Brně (např. dopravní zátěž, životní prostředí, energetika),
+                  4. uvedena skladba spalovaných odpadů od 1. 1. 2020 do 30. 6. 2023,
+                      včetně objemu jeho jednotlivých složek,
+                  5. informace týkající se ekonomické situace společnosti, výše
+                      nerozděleného zisku, cash flow, a předpokládané změny v případě
+                      realizace projektu OHB II – linka K1,
+                  6. srovnání cen materiálů ke dni podání nabídky se současným stavem.
+
+      Současně Rada města Brna výrokem 3. usnesení přijatého dne 26.07.2023 na její schůzi
+č. R9/042, vyzvala společnost SAKO Brno, a.s. ke zvážení učinění dalších kroků ve věci
+nadlimitní veřejné zakázky „Vysoce účinné zařízení na kombinovanou výrobu elektrické
+energie a tepla z obnovitelných zdrojů (OHB II – linka K1)“ ev. č. VVZ: Z2021-025589, až po
+předložení komplexní analýzy Radě města Brna, a po jejím projednání Radou města Brna se
+společností SAKO Brno, a. s.
+      Na základě výše uvedeného rozhodnutí Rady města Brna zadala společnost SAKO
+Brno, a.s. zpracovat dokument s názvem „KOMPLEXNÍ ANALÝZA – Vysoce účinné zařízení
+na kombinovanou výrobu elektrické energie a tepla z obnovitelných zdrojů (OHB II – linka K1)“,
+který vyhotovila společností CÍSAŘ, ČEŠKA, SMUTNÝ s.r.o., advokátní kancelář (dále jen
+„Zpracovatel“) (dále jen „Komplexní analýza“).
+
+
+       Zpracovatel v rámci Komplexní analýzy uvedl, že „… Účelem Komplexní analýzy je na
+podkladě odborných závěrů Odborných konzultantů (pozn.: jak jsou tito uvedeni v Komplexní
+analýze) ve vztahu k zadání RMB (pozn.: viz výše popsané usnesení Rady města Brna,
+přijatém na její schůzi č. R9/042 konané dne 26.07.2023) a právních analýz provedených podle
+Přehledu právních témat (pozn.: jak jsou uvedena v kapitole 4.1. Komplexní analýzy)
+identifikovat možná rizika ve vztahu k realizaci a provozu Projektu, jakož i vyhodnocení
+odpovědnosti dotčených osob za vybraná relevantní právní jednání ve vztahu k dosavadnímu
+průběhu Projektu. …Komplexní analýza hodnotí Projekt v kontextu se zájmy veřejně
+prospěšnými, které prozařují do činnosti městských společností z podstaty smyslu a účelu
+jejich založení a existence (v daném případě jakožto obchodní společnosti se 100%
+majetkovou účastí veřejnoprávní korporace – statutárního města Brna), a v tomto rámci se
+zaměřuje na identifikaci rizik, příp. problematických aspektů či nedostatků Projektu.“
+       Z názvu a obsahu přílohy č. 6 Komplexní analýzy lze pak dovodit, že se Komplexní
+analýza zaměřuje na rizikové, resp. problematické, aspekty či nedostatky Projektu.
+
+       Společnost SAKO Brno, a.s. v rámci přípravy Projektu zohledňovala všechna negativa
+Projektu z pohledu ekonomických dopadů na činnost společnosti SAKO Brno, a.s., a to i ty,
+které jsou šířeji pojaty v Komplexní analýze. Vyhodnocení těchto negativních aspektů bylo
+vždy společností SAKO Brno, a.s. prováděno z čistě ekonomických zájmů společnosti SAKO
+Brno, a.s. a dopadů do jejího hospodaření.
+       Komplexní analýza se naopak zaměřuje na externality v celém jejich rozsahu, bez
+ohledu na to, zda dopadají na ekonomiku společnosti SAKO Brno, a.s. či do sféry řídící osoby
+či členů Koncernu SMB, a prostřednictvím toho do jiných (veřejných) zájmů.
+       Podkladové materiály Projektu a Komplexní analýza tak nejsou ve vzájemném rozporu,
+každý z nich zohledňuje jiné zájmy a ohledy.
+
+      V rámci Komplexní analýzy došel Zpracovatel mj. k závěru, že v návaznosti na okolnosti
+uvedené v Komplexní analýze, které se týkají okolností provázejících přípravu Projektu a jeho
+aktuální podobu, nelze jednoznačně uzavřít, že jeho realizaci lze ve všech (v Komplexní
+analýze) popsaných aspektech považovat za souladnou se zájmem veřejně prospěšným,
+resp. se svěřenými úkoly společnosti SAKO Brno, a.s. a jejími stanovami.
+
+      S ohledem na skutečnost, že na základě Komplexní analýzy se lze důvodně domnívat,
+že realizace Projektu může vést ke kolizi zájmu veřejně prospěšného s čistě ekonomickým
+zájmem společnosti SAKO Brno, a.s., doporučil Zpracovatel, aby o této skutečnosti bylo
+z pozice řídící osoby Koncernu statutárního města Brna informováno statutární město Brno,
+a to prostřednictvím Rady města Brna.
+
+     Z pohledu společnosti SAKO Brno, a.s. je tedy nezbytné, aby bylo na úrovni Koncernu
+SMB a řídící osoby zváženo, zda ke kolizi výše uvedené dochází a pokud ano, pak aby byly
+zváženy na úrovni výše uvedené možnosti dalšího postupu v Projektu.
+
+      Vzhledem k závěrům Komplexní analýzy společnost SAKO Brno, a.s. má za to, že se
+jako nejvhodnější jeví udělení koncernového pokynu, na jehož základě by společnosti SAKO
+Brno, a.s. bylo uloženo, který ze zájmů má sledovat, zda zájem společnosti SAKO Brno, a.s.
+(v podobě navýšení kapacity pro výkon její základní podnikatelské činností, kterou je svoz a
+spal odpadu, a s tím související finanční zisk), či zájem veřejně prospěšný ve smyslu závěru
+čl. I. odst. 7 stanov společnosti SAKO Brno, a.s., jak je popsán v Komplexní analýze, přičemž
+pro tyto účely lze nyní formulovat následující varianty dalšího postupu:
+        a) předřazení veřejného zájmu ekonomickému zájmu společnosti, v jehož důsledku by
+            došlo ke zrušení zadávacího řízení na Veřejnou zakázku (tedy nebude uzavřena
+            smlouva s vybraným dodavatelem), včetně vymezení, jak (respektive zda vůbec) za
+            účelem řádného zohlednění veřejného zájmu řídící osoby (statutárního města Brna),
+            resp. Koncernu statutárního města Brna, dále postupovat ve vztahu k aktuální
+            podobě realizace výstavby nového zařízení pro energetické využití odpadu a
+            aktualizace záměru realizace projektu OHB II;
+        b) předřazení ekonomického zájmu společnosti veřejnému zájmu řídící osoby
+            (statutárního města Brna), resp. Koncernu statutárního města Brna, v důsledku
+            čehož by došlo k dokončení zadávacího řízení na Veřejnou zakázku ( tedy bude
+            uzavřena smlouva s vybraným dodavatelem) a Projekt bude realizován ve stávající
+            podobě.
+
+     S ohledem k výše uvedenému společnost SAKO Brno, a.s. předkládá Radě města Brna
+Komplexní analýzu, žádá o její projednání v orgánech statutárního města Brna a v
+Koncernovém výboru a navrhuje, aby bylo vydáno stanovisko Koncernu statutárního města
+Brna, resp. řídící osoby k Projektu v podobě koncernového pokynu, jehož obsahem by byl
+pokyn pro společnost SAKO Brno, a.s. v intencích výše uvedených pod písmeny a) a b).
+
+     S pozdravem
+
+
+
+
+                                                          za SAKO Brno, a.s.
+                                                          Ing. Pavel Urubek
+                                                          předseda představenstva
+                                                          SAKO Brno, a.s.
+                                                          pověřen představenstvem
+                                                          společnosti SAKO Brno, a.s.
+

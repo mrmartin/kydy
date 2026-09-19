@@ -1,0 +1,202 @@
+Rada města Brna
+
+Z9/27. zasedání Zastupitelstva města Brna
+konané dne 10.6.2025
+
+
+
+ 38. Návrh rozpočtového opatření – přesun běžných a kapitálových
+  výdajů rozpočtu 4. úseku MMB v souvislosti s pořízením licencí
+    pro zvýšení bezpečnosti stanic v rámci infrastruktury MMB
+
+Anotace
+4. úsek MMB předkládá orgánům města návrh rozpočtového opatření, jehož předmětem je přesun
+běžných a kapitálových výdajů v souvislosti s pořízením licencí pro zvýšení bezpečnosti stanic v rámci
+infrastruktury MMB.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   rozpočtové opatření dle tabulky, která tvoří přílohu č. … tohoto zápisu, v souvislosti
+                               s pořízením licencí pro zvýšení bezpečnosti stanic v rámci infrastruktury MMB.
+
+
+Stanoviska
+
+Materiál byl projednán na schůzi Rady města Brna R9/132 dne 28.5.2025.
+
+
+Materiál bude projednán na Finančním výboru ZMB dne 4. 6. 2025.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  29.5.2025 v 10:53
+  Garance správnosti, zákonnosti materiálu
+
+
+
+
+Sestava vytvořena 29.5.2025 v 10:53                           1/1                               Vygenerováno programem eMMB
+
+
+                                                                                                                Strana 1 / 5
+                               Obsah materiálu
+Návrh usnesení                                         1-1
+Obsah materiálu                                        2-2
+Důvodová zpráva                                        3-4
+Příloha k usnesení (RO_ZMB_6_2025_KKB_19_5_2025.pdf)   5-5
+
+
+
+
+                                                        Strana 2 / 5
+                                       Důvodová zpráva
+Orgánům města Brna je předkládán k projednání návrh rozpočtového opatření, jehož
+předmětem je přesun běžných a kapitálových výdajů v souvislosti s pořízením licencí pro
+zvýšení bezpečnosti stanic v rámci infrastruktury MMB, konkrétně rozšíření licence Windows
+Defender na úroveň Plan 2.
+
+Kybernetické útoky často doprovází využívání známých zranitelností v systémech. Pokud tyto
+zranitelnosti nejsou včas identifikovány a opraveny, mohou útočníci snadno proniknout do naší
+sítě, získat citlivá data či jinak narušit provoz našich systémů.
+Díky nasazení systému pro správu zranitelností (vulnerability management) nad koncovými
+stanicemi, budeme schopni těmto incidentům efektivněji předcházet. Systém vulnerability
+management nám umožní pravidelné a automatické skenování všech zařízení, je schopen
+identifikovat slabá místa v naší infrastruktuře, upozorňovat na kritické zranitelnosti a v reálném
+čase na ně reagovat.
+Automatická kontrola zabezpečení s předepsaným cílovým stavem dokáže zabezpečit, že
+budou vždy na koncových stanicích dodrženy předepsané bezpečnostní protokoly i v případě
+(ne)úmyslného obcházení těchto pravidel.
+V případě již probíhajícího bezpečnostního incidentu dokáže tento systém identifikovat
+kompromitované zařízení a omezit jeho síťovou komunikaci směrem do vnitřní sítě, aby se
+zabránilo dalšímu šíření hrozby a minimalizovaly se tak dopady.
+Cílovým stavem je nasadit vulnerability management nad všechny koncové stanice MMB, a to
+prostřednictvím doplnění již využívaného systému Microsoft Defender for Windows. Systém pro
+detekci a správu zranitelností pak bude k dispozici určeným pracovníkům z Kanceláře
+kybernetické bezpečnosti MMB a Odboru městské informatiky MMB.
+Pořízení systému je součástí plnění úkolu z RMB č. R9/107/72/01, tedy odstranění nálezů
+z auditu, který loni provedl NÚKIB. Nepřítomnost procesu řízení zranitelností byla přímo
+uvedena v protokolu jako nález, požadovaný systém tedy řeší dílčí část úkolu zavedením
+technického prostředku pro splnění zákonné povinnosti.
+Kancelář kybernetické bezpečnosti identifikovala, na základě povinností vyplývajících z návrhu
+nového Zákona o kybernetické bezpečnosti, klíčové požadavky a na základě momentálního
+stavu bezpečnostní architektury provedla průzkum možných řešení. Jako nejvhodnější řešení
+bylo vybráno povýšení stávajících licencí Windows Defender ze stávající verze Plan 1 na verzi
+Plan 2, která splňuje veškeré technické požadavky a dokoupení systému MS Security Console
+jako dohledového prostředku.
+Za účelem umožnění pořízení licencí systému Windows Defender P2 včetně návazné obslužné
+konzole MS Security Console je navrhováno převést prostředky v celkové výši 3 miliony Kč
+z rozpočtu ORJ 7900 4. úsek - samostatná oddělení MMB (Kanceláře kybernetické
+bezpečnosti) do rozpočtu ORJ 5300 Odboru městské informatiky MMB.
+Prostředky byly v rozpočtu ORJ 7900 alokovány právě na proces řízení zranitelností, a to jako
+běžné výdaje. Vzhledem k návrhu řešit závěry z výše uvedeného auditu NÚKIB pořízením výše
+uvedených licencí, bude se jednat o kapitálové výdaje, které jsou vázány na majetek evidovaný
+na ORJ 5300 OMI MMB, z toho důvodu je navrhován přesun těchto prostředků přímo do
+rozpočtu OMI MMB.
+
+
+Materiál nepodléhal projednání v komisích RMB.
+
+
+
+
+                                                                                             Strana 3 / 5
+Materiál bude projednán na Finančním výboru ZMB dne 4. 6. 2025.
+Materiál byl projednán na schůzi Rady města Brna č. R9/132 dne 28. 5. 2025.
+Materiál byl schválen jednomyslně 10 členy
+
+
+
+
+                                                                         Petr Bořecký
+
+
+
+
+                                                                                                     Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                        Kratochvíl
+                                                            Ing. arch.
+  Vaňková
+
+
+
+
+                                                            Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                     JUDr.
+
+
+                                                                                                                  JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                  Oliva
+            Mgr.
+
+
+
+
+                                       Ing.
+
+
+
+
+                                                                                        Ing.
+                                                    Bc.
+   -----    pro      pro       pro      pro          pro    pro          pro             pro         pro          pro
+
+
+
+
+                                                                                                                          Strana 4 / 5
+                                                                    Rozpočtové opatření
+                                                                                                                                                              v tis. Kč
+Běžné výdaje a kapitálové výdaje - přesun
+ ORJ      §     pol. ÚZ ORG                                              Věcná náplň                                   Upr. rozpočet     Úprava          Rozpočet
+                                                                                                                       k 15. 5. 2025   rozpočtu + -      po změně
+
+ 7900    6171    5168          7790 Zpracování dat a služby související s informačními a komunikačními technologiemi          11 500          -3 000              8 500
+
+ 5300    6171    6111          3476 OMI - informační systém                                                                   42 362          3 000             45 362
+
+
+
+
+                                                                                                                                                       Strana 5 / 5
+

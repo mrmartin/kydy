@@ -1,0 +1,252 @@
+Rada města Brna
+
+Z9/35. zasedání Zastupitelstva města Brna
+konané dne 19.5.2026
+
+
+
+    64. Projekt "Zlepšení kybernetické bezpečnosti v ÚNB" - návrh
+                          pověřovacího aktu
+
+Anotace
+Návrh pověřovacího aktu k projektu "Zlepšení kybernetické bezpečnosti v ÚNB". Hlavním účelem
+projektu je komplexní posílení kybernetické bezpečnosti organizace v souladu se zákonem č. 264/2025
+Sb. a navazujícími předpisy. Na projekt je možné získat dotaci v rámci 120. výzvy IROP. Předložení
+pověřovacího aktu je nezbytnou a povinnou přílohou k obdržení dotace. Celkové náklady na projekt se
+předpokládají ve výši 29 767 573,00 Kč včetně DPH, předpoklad dotace je ve výši 100 % způsobilých
+výdajů, tedy 17 403 550 Kč. DPH není způsobilým výdajem. Realizace projektu bude probíhat od dubna
+2026 do března 2030. Nositelem projektu je příspěvková organizace Úrazová nemocnice v Brně.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   pověřovací akt ve vztahu k Úrazové nemocnici v Brně v rámci projektu “Zlepšení
+                               kybernetické bezpečnosti v ÚNB“ předkládaného do Integrovaného regionálního
+                               operačního programu v programovém období
+                               2021–2027 v rámci 120. výzvy. Pověřovací akt tvoří přílohu č. …tohoto zápisu.
+
+
+Stanoviska
+
+Materiál nebyl z časových důvodů předložen do Komise zdravotní a prorodinné politiky Rady města
+Brna.
+Materiál byl předložen Radě města Brna na schůzi č. R9/176 konané dne 13. 5. 2026 a stanovisko
+bude sděleno.
+Materiál byl předložen na zasedání Finančního výboru Zastupitelstva města Brna konaném dne 13.
+5. 2026.
+
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Ivan Hloušek
+  vedoucí odboru - Odbor implementace evropských fondů
+  12.5.2026 v 13:00
+  Garance správnosti, zákonnosti materiálu
+
+
+
+
+Sestava vytvořena 12.5.2026 v 13:00                         1/2                             Vygenerováno programem eMMB
+
+
+                                                                                                            Strana 1 / 7
+Spolupodepisovatel                     Spolupodepisovatel
+
+  Elektronicky podepsáno                    Elektronicky podepsáno
+
+  JUDr. Eva Rabušicová                      Mgr. Radek Řeřicha
+  vedoucí odboru - Odbor zdraví             vedoucí úseku - 4. úsek
+  12.5.2026 v 12:40                         12.5.2026 v 12:59
+
+
+
+
+Sestava vytvořena 12.5.2026 v 13:00   2/2                             Vygenerováno programem eMMB
+
+
+                                                                                      Strana 2 / 7
+                                  Obsah materiálu
+Návrh usnesení                                                            1-2
+Obsah materiálu                                                           3-3
+Důvodová zpráva                                                           4-5
+Příloha k usnesení (Z9_35_Zlepšení kyberbezpečnosti_pověřovací akt.pdf)   6-7
+
+
+
+
+                                                                           Strana 3 / 7
+                                          Důvodová zpráva
+
+Kolektivním orgánům města Brna je předkládán pověřovací akt k projektu “Zlepšení kybernetické
+bezpečnosti v ÚNB“. Na projekt je možné získat dotaci v rámci 120. výzvy Ministerstva pro místní rozvoj
+s názvem „Kybernetická bezpečnost II. – SC 1.1 (PR)“ v rámci Integrovaného regionálního operačního
+programu. Pověřovací akt je nezbytnou a povinnou přílohou k obdržení dotace.
+
+Úrazová nemocnice v Brně od 1. 11. 2025 spadá do režimu vyšších povinností podle zákona
+č. 264/2025 Sb. Současný stav však těmto požadavkům neodpovídá. Chybí jak procesní, tak technické
+nástroje pro zajištění souladu s legislativou. V důsledku toho vzniká významné riziko nejen z pohledu
+kybernetických hrozeb, ale také z pohledu nesouladu s právními povinnostmi.
+
+Cílem projektu je:
+    - legislativní soulad: Naplnění požadavků NIS2 pro poskytovatele regulované služby
+    - kybernetická odolnost: Zajištění včasné detekce hrozeb a schopnosti rychlé obnovy dat ze
+        stávajících záloh
+    - procesní řízení: Transformace ad hoc činností do řízeného procesu kybernetické bezpečnosti
+
+V rámci projektu dojde například k:
+    a) zavedení systému řízení kybernetické bezpečnosti (ISMS), který bude pokrývat celou
+        organizaci a bude odpovídat požadavkům zákona č. 264/2025 Sb. a směrnice NIS2.
+    b) zpracování a zavedení kompletní bezpečnostní dokumentace, včetně bezpečnostní politiky,
+        metodiky řízení rizik, plánu řízení incidentů, plánu kontinuity činností (BCP) a plánu obnovy
+        (DRP).
+    c) zavedení nástroje pro centrální sběr a vyhodnocování bezpečnostních událostí (SIEM), který
+        umožní včasnou detekci a řešení kybernetických incidentů
+    d) zavedení pokročilé ochrany koncových zařízení prostřednictvím EDR/XDR řešení, které zajistí
+        detekci a reakci na kybernetické hrozby.
+    e) zavedení systému řízení identit a přístupů (IAM), včetně vícefaktorové autentifikace (MFA) a
+        správy privilegovaných účtů (PAM)
+    f) modernizace a zabezpečení síťové infrastruktury prostřednictvím implementace firewallů nové
+        generace a segmentace sítě, včetně oddělení zdravotnických zařízení od ostatních systémů.
+    g) zavedení řízení přístupu zařízení do sítě (NAC), které umožní kontrolu připojených zařízení a
+        zvýší bezpečnost síťového prostředí
+    h) zavedení nástrojů pro řízení zranitelností a pravidelné skenování infrastruktury za účelem
+        identifikace a odstraňování slabých míst
+    i) zavedení bezpečnostních požadavků na dodavatele, které budou součástí smluvních vztahů
+        (např. požadavky na zabezpečení přístupů, hlášení incidentů, ochranu dat) a dalším
+
+Celkové náklady projektu činí 29 767 573 Kč, předpokládaná výše dotace a způsobilé náklady činí
+17 403 550 Kč. Podíl financování ÚNB je 8 709 277,50 Kč. V případě schválení žádosti o podporu
+Řídícím orgánem si ÚNB požádá o návratnou finanční výpomoc na předfinancování projektu v celkové
+výši poskytnuté dotace a o investiční příspěvek ve výši DPH. Provozní náklady si bude hradit ÚNB
+z vlastních zdrojů.
+
+  Struktura výdajů projektu “Zlepšení kybernetické bezpečnosti v ÚNB v Brně“ (včetně DPH)
+
+  Celkové výdaje projektu                                  29 767 573,00 Kč              100,0 %
+  Nezpůsobilé výdaje                                       12 364 023,00 Kč               41,5 %
+  Způsobilé výdaje                                        17 403 550,00 Kč                58,5 %
+  Výše dotace                                             17 403 550,00 Kč                58,5 %
+  Návratná finanční výpomoc                               17 403 550,00 Kč                58,5 %
+
+
+
+
+                                                                                                   Strana 4 / 7
+  Podíl financování Úrazové nemocnice v Brně             8 709 277,50 Kč               29,3 %
+  Podíl financování z rozpočtu města Brna                3 654 745,50 Kč               12,3 %
+
+
+
+Dotace bude poskytnuta formou ex-post a je vyplácena formou přistoupení k pověřovacímu aktu k
+výkonu specializovaných činností v rámci závazku veřejné služby (SOHZ). Realizace projektu bude
+probíhat od dubna 2026 do března 2030.
+
+Nositelem projektu v souladu s Metodikou implementace projektů (spolu)financovatelných
+z evropských fondů a národních programů (dále jen „metodika“) je Úrazová nemocnice v Brně.
+
+Stanoviska dotčených orgánů:
+Materiál nebyl z časových důvodů předložen do Komise zdravotní a prorodinné politiky Rady města
+Brna.
+Materiál byl předložen Radě města Brna na schůzi č. R9/176 konané dne 13. 5. 2026 a stanovisko bude
+sděleno.
+Materiál byl předložen na zasedání Finančního výboru Zastupitelstva města Brna konaném dne
+13. 5. 2026.
+
+
+
+
+                                                                                                Strana 5 / 7
+                                        POVĚŘOVACÍ AKT
+Dle rozhodnutí Komise (2025/2630) o použití čl. 106 odst. 2 Smlouvy o fungování EU na státní podporu
+     ve formě vyrovnávací platby za závazek veřejné služby udělené určitým podnikům pověřeným
+                       poskytováním služeb obecného hospodářského zájmu
+                                         (Rozhodnutí SGEI)
+
+
+Pověřovatel:
+Statutární město Brno, se sídlem Dominikánské náměstí 196/1, 602 00 Brno, IČO: 44992785
+
+
+Poskytovatel služby obecného hospodářského zájmu:
+Úrazová nemocnice v Brně, se sídlem Ponávka 139/6, Zábrdovice, 602 00 Brno, IČO: 00209813,
+DIČ: CZ00209813, zapsaná v Obchodním rejstříku u Krajského soudu v Brně, oddíl Pr, vložka č. 1602
+
+
+Pověřovatel Statutární město Brno, se sídlem Dominikánské náměstí 196/1, 602 00 Brno,
+IČO: 44992785, pověřuje Úrazovou nemocnici v Brně, se sídle Ponávka 139/6, Zábrdovice, 602 00
+Brno, IČO: 00209813, DIČ: CZ00209813, zapsaná v Obchodním rejstříku u Krajského soudu v Brně,
+oddíl Pr, vložka č. 1602, k poskytování služeb obecného hospodářského zájmu – poskytování
+zdravotních služeb v souladu s oprávněním k poskytování zdravotních služeb podle zákona
+č.372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních
+službách), ve znění pozdějších předpisů, na období 10 let, počínaje rokem 2026.
+
+Náplň a trvání závazku veřejné služby:
+Pověřovatel Statutární město Brno, se sídlem Dominikánské náměstí 196/1, 602 00 Brno, IČO:
+44992785, je zřizovatelem Úrazové nemocnice v Brně, se sídlem Ponávka 139/6, Zábrdovice, 602 00
+Brno, IČO: 00209813, DIČ: CZ00209813, zapsaná v Obchodním rejstříku u Krajského soudu v Brně,
+oddíl Pr, vložka č. 1602. Hlavním účelem organizace je poskytování zdravotních služeb.
+
+Vymezení hlavního účelu a tomu odpovídajícího předmětu činnosti:
+Hlavním účelem projektu je komplexní posílení kybernetické bezpečnosti organizace v souladu se
+zákonem č. 264/2025 Sb. a navazujícími předpisy. Cílem je modernizace technických opatření pro
+zajištění důvěrnosti, integrity a dostupnosti dat v klíčových segmentech infrastruktury nemocnice.
+1. Bezpečnost komunikačních sítí (§18) - Zajištění ochrany síťového rozhraní a mikrosegmentace
+vnitřního prostředí.
+2. Správa a ověřování identit (§19) - Zavedení silné autentizace uživatelů a pokročilé správy
+privilegovaných účtů.
+3. + 4. Detekce a zaznamenávání událostí (§21, §22) + SIEM - Vybudování systému pro včasnou
+identifikaci hrozeb a centralizovaný sběr logů.
+
+Realizací projektu dojde k vytvoření vícevrstvé obrany. Kombinace robustního perimetru, vnitřní
+mikrosegmentace, silné identity a pokročilé detekce (EDR/XDR) v propojení se SIEM výrazně snižuje
+riziko úspěšného kybernetického útoku a minimalizuje dopady případných incidentů na provoz
+nemocnice.
+
+Trvání závazku veřejné služby: 10 let
+
+Mechanismus a výpočet pro kontrolu a přezkoumání vyrovnávací platby:
+
+Poskytovatel služby obecného hospodářského zájmu nepožaduje po Pověřovateli vyrovnávací platbu
+na období 10 let, počínaje rokem 2026, ve vztahu k projektu "Zlepšení kybernetické bezpečnosti
+v ÚNB“ předkládaného do 120. výzvy Ministerstva pro místní rozvoj „Kybernetická bezpečnost II. – SC
+1.1 (PR)“ v rámci Integrovaného regionálního operačního programu. Mechanismus a výpočet pro
+
+
+
+
+                                                                                                Strana 6 / 7
+kontrolu a přezkoumání vyrovnávací platby Poskytovatel služby obecného hospodářského zájmu k
+Pověřovacímu aktu nedokládá.
+
+
+Opatření k zamezení a vrácení jakékoliv nadměrné vyrovnávací platby:
+Pověřovatel není vázán vůči Poskytovateli služby obecného hospodářského zájmu k zasílání části
+vyrovnávací platby dle závazných ukazatelů na období 10 let, počínaje rokem 2026, ve vztahu
+k projektu "Zlepšení kybernetické bezpečnosti v ÚNB“ předkládaného do 120. výzvy Ministerstva pro
+místní rozvoj „Kybernetická bezpečnost II. – SC 1.1 (PR)“ v rámci Integrovaného regionálního
+operačního programu
+
+Opatření k zamezení a vrácení jakékoliv nadměrné vyrovnávací platby se tak k Pověřovacímu aktu
+nedokládá.
+
+Tento Pověřovací akt je vyhotoven v souladu s Rozhodnutím Komise (2025/2630) o použití
+čl. 106 odst. 2 Smlouvy o fungování EU na státní podporu ve formě vyrovnávací platby za
+závazek veřejné služby udělené určitým podnikům pověřeným poskytováním služeb obecného
+hospodářského zájmu (Rozhodnutí SGEI).
+
+
+
+JUDr. Markéta Vaňková
+Primátorka města Brna
+
+
+
+
+                                                                                             Strana 7 / 7
+

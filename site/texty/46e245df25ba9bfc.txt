@@ -1,0 +1,399 @@
+Rada města Brna
+
+Z9/08. zasedání Zastupitelstva města Brna
+konané dne 20.6.2023
+
+
+
+       75. Návrh Memoranda o spolupráci na projektech vývoje
+    automatizovaného sběru dat a jejich evaluace v oblasti kultury
+
+Anotace
+Návrh Memoranda o spolupráci na projektech vývoje automatizovaného sběru dat a jejich evaluace v
+oblasti kultury mezi statutárním městem Brnem a hlavním městem Prahou.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   Memorandum o spolupráci na projektech vývoje automatizovaného sběru dat a jejich
+                               evaluace v oblasti kultury mezi statutárním městem Brnem, a hlavním městem
+                               Prahou, IČO: 00064581, se sídlem: Mariánské náměstí 2/2, 110 00 Praha 1, které
+                               tvoří přílohu č. ... tohoto zápisu.
+
+
+Stanoviska
+
+Materiál projednala Rada města Brna na R9/035. schůzi konané dne 7. 6. 2023 a doporučila
+Zastupitelstvu města Brna přijmout výše uvedený návrh usnesení. Schváleno jednomyslně 8 členy.
+
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Kateřina Vorlíčková
+  vedoucí odboru - Odbor kultury
+  13.6.2023 v 08:32
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Jiří Kučera
+  vedoucí úseku - 1. úsek
+  12.6.2023 v 13:35
+
+
+
+
+Sestava vytvořena 13.6.2023 v 08:32                         1/1                           Vygenerováno programem eMMB
+
+
+                                                                                                          Strana 1 / 6
+                                 Obsah materiálu
+Návrh usnesení                                     1-1
+Obsah materiálu                                    2-2
+Důvodová zpráva                                    3-4
+Příloha k usnesení (Memorandum_final.pdf)          5-6
+
+
+
+
+                                                    Strana 2 / 6
+                                          Důvodová zpráva
+
+
+
+V návaznosti na záměr města Brna vytvořit IT řešení věnující se automatizovanému sběru dat a jejich
+evaluaci v oblasti kultury, vznikl projekt Centrálního kulturního datového skladu (dále jen CKDS). Ten
+je součástí Akčního plánu č. 1 Strategie kultury a kreativních odvětví pro období 2021-2022, aktivity
+č. 17 – Automatizace sběru dat kulturních institucí. A dále je také umístěn v návrhu nového Akčního
+plánu č. 2 pro roky 2023-2025. Projekt CKDS vznikl z důvodu nesystematického, fragmentovaného,
+nejednotného a opakovaného sběru dat ze strany města. Výsledkem je pomalá reakce na vývoj trendů,
+nutnost opakovaně se doptávat na aktuální stav (ekonomický i výkonnostní) aktérů na brněnském
+kulturním poli a velice omezené strategické plánování. Problematičnost současného způsobu sběru dat
+od kulturních organizací se odhalila především v době covidové pandemie, kdy bylo nutné rychle a
+cíleně poskytnout pomoc kulturním aktérům.
+
+Cílem CKDS je systém sběru dat a současně jeho automatického vyhodnocování a interpretace
+relevantních statistických, provozních a ekonomických dat kulturních organizací. CKDS bude
+shromažďovat jasně stanovená data a zároveň umožní také jejich automatickou analýzu. Ta bude
+sloužit jak Odboru kultury Magistrátu města Brna, tak i samotným kulturním organizacím pro
+monitoring vlastních výkonnostních ukazatelů. Projekt CKDS je koncipován v první fázi zejména
+pro kulturní příspěvkové organizace města, v dalších fázích bude rozšířen o data týkající se dotací
+v oblasti kultury, městské části etc. Brno je nyní ve fázi přípravy zadávací dokumentace projektu.
+
+Výhody CDKS pro město:
+
+    -   přehledové statistiky celého segmentu
+    -   zdroj ověřených a aktuálních dat
+    -   sektorová i lokální data
+    -   data pro rozhodování v dotačním řízení – zjednodušení procesu přípravy a vyhodnocování
+        žádosti o dotace
+    -   podklady pro evaluaci a strategické plánování
+    -   sjednocený formát vykazování dat pro státní správu
+
+Hlavní město Praha (dále jen HMP) započalo přípravu dvou projektů (EVALUART a MAPK20) s totožným
+obsahem jako je CKDS prostřednictvím organizace Kreativní Praha, z.ú. Spolupráce s Prahou se jeví jako
+nutná nejen pro získání potřebných znalostí z praxe a zkušeností pro přípravu brněnského projektu, ale
+výhodou je i sběr obdobných dat napříč Českou republikou a následná možnost jejich srovnání.
+
+Pražská strana memoranda je aktuálně ve fázi realizace inovačních metodologických nástrojů pro
+efektivní vyhodnocování a evaluaci činnosti kulturních organizací. Projekt EVALUART se zaměřuje na
+tvorbu softwarového řešení, které umožní sběr, analýzu, vyhodnocení, transformaci, predikci a
+operativní řízení v oblasti příspěvkových organizací. Projekt MAPK20 se zaměřuje na vývoj a dodávku
+inovativního softwarového řešení na míru potřebám HMP pro efektivní mapování subjektů působících
+v různých oborech kulturních a kreativních odvětví (dále jen KKO) v HMP a následné řízení a strategické
+plánování KKO na základě analyzovaných a strukturovaných datových sad. Oba projekty jsou
+koncipovány pro případné využití dalšími městy České republiky. Příprava obou projektů započala již
+v roce 2021. Vyvinutí kompletních projektů včetně zapojení do provozu je datováno ke konci roku
+2023. Aktuálně jsou zhotoveny metodiky a pracuje se na přípravě uvedení softwarového řešení do
+provozu. Město Brno chce tímto využít příležitost zapojení se do efektivního sběru a vyhodnocování
+kulturních dat a využít toho, že je již podobné softwarové řešení realizováno a lze se tak poučit
+z procesu jeho přípravy a praktického fungování.
+
+
+
+
+                                                                                                   Strana 3 / 6
+Pro naplnění cílů budou obě strany memoranda naplňovat následující parametry spolupráce:
+
+           a. Mají v úmyslu úzce spolupracovat a vzájemně se informovat o vývoji projektů v obou městech,
+              tj. CKDS v Brně a EVALUARTu a MAPK20 v Praze;
+           b. mají v úmyslu spolupracovat na vzájemném poskytnutí získaného know how;
+           c. hodlají podílet se na zajištění vzájemné kompatibility projektů v Brně a v Praze;
+           d. mají v úmyslu vytvořit společný apel na Ministerstvo kultury ČR na používání vyvinuté aplikace,
+              příp. alespoň jednotné metodiky sběru dat, pro celostátní účely, příp. také na poskytnutí
+              finančních prostředků pro její další vývoj a použití v dalších městech a ostatních územních
+              samosprávných celcích;
+           e. při úzké spolupráci se budou vzájemně informovat o všech podstatných okolnostech, které
+              mohou mít vliv na řádné plnění Memoranda;
+           f. za účelem průběžného řešení aktuálních potřeb souvisejících s projekty vyplývajících
+              z Memoranda mohou být mezi stranami Memoranda uzavírány samostatné dohody v souladu
+              s principy uvedenými v Memorandu.
+
+
+Komise kulturní RMB projednala materiál na své R9/KK/07. schůzi konané dne 30. 5. 2023.
+
+Přítomno 10 členů – 8 pro, 0 proti, 2 se zdržely/z 13 členů.
+
+Komise doporučila ke schválení.
+                                                                                                                                             M. Lukášová
+                                                                             A. Gruberová
+
+
+
+
+                                                                                                                                                                                                                             Bohuňovská
+                I. Sedláková
+
+
+
+
+                                                                                                                         M. Kolářová
+                                       J. Bočková
+  S. Michalík
+
+
+
+
+                                                                                                                                                                                                                                                     L. Kocman
+                                                                                               Z. Helbich
+
+
+
+
+                                                                                                                                                                      T. Skřička
+
+
+
+
+                                                                                                                                                                                                   P. Šafařík
+                                                          K. Černá
+
+
+
+
+                                                                                                                                             Spilková
+
+
+
+
+                                                                                                                                                                                       D. Řepa
+
+
+
+
+                                                                                                                                                                                                                             J.
+     pro                 Z                  ---             pro                     Z             pro                         ---                pro                         ---         pro        pro                          pro                 pro
+
+
+
+
+Materiál projednala Rada města Brna na R9/035. schůzi konané dne 7. 6. 2023 a doporučila ke
+schválení.
+
+Schváleno jednomyslně 8 členy.
+                                                                                                                                                                                                                                Matonohová
+                                                                                                            Podivinská
+
+
+
+
+                                                                                                                                                                                                                Kratochvíl
+                                                                                                                                                      Ing. arch.
+    Vaňková
+
+
+
+
+                                                                                                                                                                   Bořecký
+
+
+                                                                                                                                                                                   Chvátal
+                                                                                     Kerndl
+                                                      Suchý
+
+
+
+
+                                                                                                                                                                                   RNDr.
+                               Černý
+    JUDr.
+
+
+
+
+                                                                     JUDr.
+
+
+
+
+                                                                                                                                                                                                                                JUDr.
+
+
+                                                                                                                                                                                                                                             JUDr.
+                                                                                                                                                                                                 Ph.D.
+                                                                                                                                         Aberl
+
+
+
+
+                                                                                                                                                                                                                                                             Oliva
+                Mgr.
+
+
+
+                                             Mgr.
+
+
+
+
+                                                                                              Ing.
+
+
+
+
+                                                                                                                                                                                                 Ing.
+                                                                                                                                 Bc.
+
+
+
+
+    pro              pro                            pro                  pro                           ---                             pro                    pro                     ---               pro                     pro          nepřítom
+                                                                                                                                                                                                                                                en
+
+
+
+
+                                                                                                                                                                                                                                                                 Strana 4 / 6
+                             MEMORANDUM O SPOLUPRÁCI
+      na projektech vývoje automatizovaného sběru dat a jejich evaluace v oblasti kultury
+1. Statutární město Brno
+se sídlem Dominikánské náměstí 196/1, Brno-město, 602 00 Brno 2
+IČO: 44992785
+DIČ: CZ44992785
+zastoupené JUDr. Markétou Vaňkovou, primátorkou města Brna
+kontaktní osoba a zástupce oprávněný k jednání o předmětu memoranda: Mgr. Kateřina Vorlíčková
+tel.: 542 172 077
+e-mail: vorlickova.katerina@brno.cz
+(dále jen „Brno“)
+
+a
+
+2. Hlavní město Praha
+se sídlem Mariánské nám. 2/2, 110 00 Praha 1
+IČO: 00064581
+DIČ: CZ00064581
+zastoupené doc. MUDr. Bohuslavem Svobodou, CSc., primátorem hl. m. Prahy
+kontaktní osoba a zástupce oprávněný k jednání o předmětu memoranda: MgA. Jiří Sulženko, Ph.D.
+tel. 236 003 272
+e-mail: jiri.sulzenko@praha.eu
+
+(dále jen „Praha“)
+
+(společně dále též „strany Memoranda“)
+
+
+sjednávají níže uvedeného dne, měsíce a roku toto memorandum (dále jen „Memorandum“).
+
+
+                                                    Preambule
+
+1. Strany Memoranda mají v úmyslu společnými silami spolupracovat na projektech s totožným obsahem (v Praze
+   projekty EVALUART a MAPK2O, v Brně projekt Centrální kulturní datový sklad) za účelem vývoje systematického
+   sběru a evaluace dat prostřednictvím automatizace sběru a vyhodnocování dat v kulturním prostředí (společně též
+   „Projekt“).
+2. Projekt se zabývá definicí a následnou realizaci inovačního metodologického nástroje pro efektivní vyhodnocování a
+   evaluaci činnosti kulturních organizací včetně vytvoření softwarového řešení, které by bylo použitelné i pro další
+   města ČR.
+3. Strany Memoranda, vědomy si důležitosti rozvoje a významného potenciálu sběru a vyhodnocování kulturních dat,
+   tímto Memorandem vyslovují společnou vůli spolupracovat při přípravě a realizaci Projektu tak, aby bylo dosaženo
+   jeho účelu a aby bylo prostřednictvím Projektu umožněno využít plný potenciál disponibility kulturních dat.
+
+
+                                                      Čl. I.
+                                           Účel a předmět Memoranda
+
+1. Účelem Memoranda je vytvořit podmínky pro úspěšnou spolupráci a vzájemné informování o vývoji paralelních
+   projektů týkajících se zřízení datových aplikací v oblasti kultury v Brně a v Praze.
+2. Spolupráce stran Memoranda bude zahrnovat především poskytování informací o vývoji Projektu v obou městech,
+   předávání zkušeností se získaným know how, snahu o zajištění vzájemné kompatibility Projektu v Brně a Praze, dále
+   spolupráci na společném apelu na Ministerstvo kultury ČR na podporu používání vyvinuté aplikace, či alespoň
+   jednotné metodiky sběru dat, případně poskytnutí finančních prostředků ze strany Ministerstva kultury ČR pro její
+   další vývoj a použití v dalších městech a ostatních územních samosprávných celcích.
+
+
+
+
+                                                         1
+
+
+                                                                                                              Strana 5 / 6
+                                                       Čl. II.
+                                           Principy spolupráce
+
+1. Strany Memoranda se dohodly na základních parametrech spolupráce a souhlasně prohlašují, že:
+     a. mají v úmyslu úzce spolupracovat a vzájemně se informovat o vývoji Projektu v obou městech, tj. Centrálního
+        kulturního datového skladu v Brně a EVALUARTu a MAPK20 v Praze;
+     b. mají v úmyslu spolupracovat na vzájemném poskytnutí získaného know how;
+     c. hodlají podílet se na zajištění vzájemné kompatibility Projektu v Brně a v Praze;
+     d. mají v úmyslu vytvořit společný apel na Ministerstvo kultury ČR na používání vyvinuté aplikace, příp. alespoň
+        jednotné metodiky sběru dat, pro celostátní účely, příp. také na poskytnutí finančních prostředků ze strany
+        Ministerstva kultury ČR pro její další vývoj a použití v dalších městech a ostatních územních samosprávných
+        celcích;
+     e. při úzké spolupráci se budou vzájemně informovat o všech podstatných okolnostech, které mohou mít vliv na
+        řádné plnění Memoranda;
+     f. za účelem průběžného řešení aktuálních potřeb souvisejících s Projektem a vyplývajících z Memoranda mohou
+        být mezi stranami Memoranda uzavírány samostatné dohody v souladu s principy uvedenými v Memorandu.
+
+
+                                                       Čl. III.
+                                                Závěrečná ustanovení
+
+1. Strany Memoranda prohlašují, že Memorandum vyjadřuje jejich vůli, s jeho obsahem souhlasí a na důkaz toho k němu
+   připojují svoje podpisy.
+2. Memorandum není právně závazným dokumentem a závazky jím založené není možné vymáhat soudní cestou. Jeho
+   účelem je pouze stanovení rámce vzájemné spolupráce.
+3. Memorandum se vyhotovuje v šesti písemných vyhotoveních s platností originálu, přičemž každá ze stran Memoranda
+   obdrží po třech vyhotoveních.
+4. Strany Memoranda výslovně souhlasí s tím, aby Memorandum bylo uvedeno v Centrální evidenci smluv (CES)
+   vedené Prahou, která je veřejně přístupná a která obsahuje údaje o zúčastněných stranách, číselné označení
+   Memoranda, datum jeho podpisu a text Memoranda. Strany Memoranda prohlašují, že skutečnosti uvedené v
+   Memorandu nepovažují za obchodní tajemství ve smyslu § 504 zákona č. 89/2012 Sb., občanský zákoník, ve znění
+   pozdějších předpisů a udělují svolení k jejich užití a zveřejnění bez stanovení jakýchkoli dalších podmínek.
+5. Strany Memoranda berou na vědomí, že Brno a Praha jsou povinnými subjekty dle zákona č. 340/2015 Sb.,
+   o zvláštních podmínkách účinnosti některých smluv, uveřejňování těchto smluv a o registru smluv (zákon o registru
+   smluv), ve znění pozdějších předpisů (dále jen „Zákon o registru smluv“), a Memorandum bude v souladu s tímto
+   zákonem uveřejněno v registru smluv v zákonem stanoveném termínu, přičemž Memorandum k uveřejnění zašle
+   Brno.
+6. Memorandum nabývá platnosti dnem jeho podpisu oběma stranami Memoranda. Účinnosti pak nabývá dnem
+   zveřejnění v registru smluv v souladu se Zákonem o registru smluv.
+
+Doložka podle ust. § 41 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů:
+Toto Memorandum bylo schváleno Zastupitelstvem města Brna na Z9/... zasedání konaném dne …..
+
+Tímto se ve smyslu § 43 odst. 1 zákona o hlavním městě Praze potvrzuje, že Memorandum bylo schváleno usnesením
+Zastupitelstva hlavního města Prahy č…….. ze dne…….
+
+
+
+V Brně dne …..........………                          V Praze dne ..............................
+
+
+
+
+…………………...……........................               …...……………………………………
+JUDr. Markéta Vaňková                              doc. MUDr. Bohuslavem Svobodou, CSc.
+primátorka města Brna                              primátor hl. m. Prahy
+
+
+
+
+                                                                                                              Strana 6 / 6
+

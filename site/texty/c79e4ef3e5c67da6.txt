@@ -1,0 +1,2474 @@
+Rada města Brna
+
+Z9/21. zasedání Zastupitelstva města Brna
+konané dne 12.11.2024
+
+
+
+  102. Návrh Dodatku č. 2 ke Smlouvě o spolupráci při výstavbě
+ veřejné infrastruktury „Rezidence Pod Lesem, Brno – Žebětín“,
+návrh Zástavní smlouvy k id. části nemovité věci a návrh Dohody o
+      zrušení zástavního práva smluvního k nemovité věci.
+
+Anotace
+Předmětem návrhu Dodatku č. 2 ke Smlouvě o spolupráci při výstavbě veřejné infrastruktury „Rezidence
+Pod Lesem, Brno – Žebětín“ je změna zajištění závazků stavebníka. Předmětem návrhu Zástavní smlouvy
+k id. části nemovité věci je zástava pozemku p. č. 1035/79 v k. ú. Ivanovice. Předmětem návrhu Dohody o
+zrušení zástavního práva smluvního k nemovité věci je zrušení zástavního práva k pozemku p. č. 2148/2
+v k. ú. Žebětín.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   Dodatek č. 2 ke Smlouvě o spolupráci při výstavbě veřejné
+                               infrastruktury „Rezidence Pod Lesem, Brno – Žebětín“ mezi statutárním městem
+                               Brnem a společností EMBRA Hold, s.r.o., se sídlem č.p. 184, 664 31 Česká, IČO:
+                               277 22 571, který tvoří přílohu č. ....... tohoto zápisu.
+                               Ověřená příloha je uložena na Organizačním odboru MMB.
+
+2. schvaluje                   Zástavní smlouvu k id. části nemovité věci mezi statutárním městem Brnem a Ing.
+                               Milanem Pangrácem a společností EMBRA Hold, s.r.o., se sídlem č.p. 184, 664 31
+                               Česká, IČO: 277 22 571, která tvoří přílohu č. ....... tohoto zápisu.
+                               Ověřená příloha je uložena na Organizačním odboru MMB.
+
+3. schvaluje                   Dohodu o zrušení zástavního práva smluvního k nemovité věci mezi statutárním
+                               městem Brnem a společností EMBRA Hold, s.r.o., se sídlem č.p. 184, 664 31 Česká,
+                               IČO: 277 22 571, která tvoří přílohu č. ....... tohoto zápisu.
+                               Ověřená příloha je uložena na Organizačním odboru MMB.
+
+4. pověřuje                     vedoucího Odboru investičního MMB podpisem Dodatku č. 2 ke
+                               Smlouvě o spolupráci při výstavbě veřejné infrastruktury „Rezidence Pod Lesem,
+                               Brno – Žebětín“, Zástavní smlouvy k id. části nemovité věci a Dohody o zrušení
+                               zástavního práva smluvního k nemovité věci.
+
+
+Stanoviska
+
+Materiál bude projednán v RMB dne 6. 11. 2024.
+Výsledek projednání bude Zastupitelstvu města Brna prezentován v rámci zasedání.
+
+
+
+
+Sestava vytvořena 4.11.2024 v 08:40                         1/2                             Vygenerováno programem eMMB
+
+
+                                                                                                            Strana 1 / 48
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Tomáš Pivec MBA
+  vedoucí odboru - Odbor investiční
+  3.11.2024 v 07:38
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  4.11.2024 v 08:40
+
+
+
+
+Sestava vytvořena 4.11.2024 v 08:40          2/2   Vygenerováno programem eMMB
+
+
+                                                                   Strana 2 / 48
+                                 Obsah materiálu
+Návrh usnesení                                                                1-2
+Obsah materiálu                                                               3-3
+Důvodová zpráva                                                               4-4
+Příloha (Smlouva o spolupráci Rezidnece Žebětín final podepsaná.pdf)         5 - 22
+Příloha (Dodatek č. 1 Smlouva o spolupráci Rezidence Pod Lesem rev chud     23 - 25
+podepsaný.pdf)
+Příloha (Zástavní smlouva Rezidence Žebětín podepsaná.pdf)                  26 - 30
+Příloha (Dodatek č. 1 Zástavní smlouva Rezidence Pod Lesem rev chud         31 - 32
+podepsaný.pdf)
+Příloha k usnesení (Dodatek č. 2 Smlouva o spolupráci Rezidence Pod Lesem   33 - 36
+rev. chud, úprava 18.10.2024 rev OI final.pdf)
+Příloha k usnesení (               Milan Pangrác                            37 - 40
+          .pdf)
+Příloha k usnesení (Zástavní smlouva - SMB x EMBRA Hold s.r.o. - k.ú.    41 - 45
+Ivanovice rev pet rev. chud úprava 20.10.2024 rev OI final.pdf)
+Příloha k usnesení (Dohoda o ukončení platnosti smlouvy - SMB X EMBRA       46 - 48
+Hold s.r.o. rev pet rev. chud, úprava 18.10.2024 rev OI final.pdf)
+
+
+
+
+                                                                                Strana 3 / 48
+                                    Důvodová zpráva
+
+Statutární město Brno (dále jen Město) a společnost Colonico, a.s., IČO: 277 00 631 spolu
+uzavřely dne 14. 4. 2022 Smlouvu o spolupráci při výstavbě veřejné infrastruktury „Rezidence
+Pod Lesem, Brno – Žebětín“ č. 5622171861 (dále jen Smlouva).
+
+Ve Smlouvě se smluvní strany dohodly o poskytnutí investičního příspěvku ve výši 12 879 200
+Kč na výdaje Města v oblasti občanské vybavenosti, se splatností kompenzační zálohy na
+investiční příspěvek ve výši 1 287 920 Kč do 90 dní ode dne nabytí právní moci územního
+rozhodnutí pro stavební záměr.
+
+Stavebník uhradil v souladu se Smlouvou kompenzační zálohu ve výši 1 287 920 Kč na
+developerský účet Městu. Stavební povolení nebylo dosud vydáno.
+
+Dále Město a společnost Colonico, a.s. spolu uzavřely dne 14. 4. 2022 Zástavní smlouvu
+k nemovité věci č. 5622171862 k pozemku p. č. 2148/2 v k. ú. Žebětín (dále jen Zástavní
+smlouva) k zajištění poskytnutí investičního příspěvku a smluvních pokut vyplývajících ze
+Smlouvy.
+
+Společnost Colonico, a.s., IČO 277 00 631 uvedená ve Smlouvě jako Stavebník zanikla fúzí se
+společností EMBRA Hold, s.r.o., se sídlem č.p. 184, 664 31 Česká, IČO: 277 22 571, na kterou
+přešlo na základě fúze sloučením jmění zanikající společnosti Colonico, a.s., IČO 277 00 63.
+Město na základě této změny uzavřelo dne 18. 9. 2024 se společností EMBRA Hold, s.r.o.
+Dodatek č. 1 ke Smlouvě a Dodatek č. 1 k Zástavní smlouvě.
+
+Společnost EMBRA Hold, s.r.o. požádala o změnu způsobu zajištění svých závazků ze
+Smlouvy. Z tohoto důvodu se uzavírá Dodatek č. 2 ke Smlouvě. Zajištění úhrady investičního
+příspěvku se nahrazuje smluvní pokutou 0,1 % z dlužné částky za den prodlení.
+Zajištění smluvních pokut a případných nákladů na odstranění dočasných stavebních objektů
+v souvislosti s akcí Obchvatu Žebětína Zástavní smlouvou se nahrazují uzavřením nové
+„Zástavní smlouvy k id. části nemovité věci“ k pozemku p. č. 1035/79 v k. ú. Ivanovice a
+uzavřením „Dohody o zrušení práva smluvního k nemovité věci“ k pozemku p. č. 2148/2 v k.
+ú. Žebětín.
+
+Ostatní ustanovení Smlouvy zůstávají v platnosti, nezměněná.
+
+Materiál nebyl z časových důvodů projednán v Komisi investiční RMB.
+
+Materiál bude projednán v RMB dne 6. 11. 2024. Výsledek projednání bude Zastupitelstvu
+města Brna prezentován v rámci zasedání dne 12. 11. 2024.
+
+
+
+
+                                             1
+
+
+                                                                                         Strana 4 / 48
+                                                                          Č. Snnıønvy 5622171861
+
+                   Smlouva o spolupráci při výstavbě veřejné infrastruktury
+                          „Rezidence Pod Lesem, Brno - Žebětín“
+
+
+                                     1.     Smluvní strany
+
+1.1.   Statutární město Brno
+se sídlem Dominikánské náměstí 196/1, Brno-město, 602 00 Brno
+IČO; 449 92 785
+zastoupené JUDr. Markétou Vaňkovou, primátorkou města Brna
+pověřen k podpisu Smlouvy lng. Tomáš Pivec, vedoucí Odboru investičního Magistrátu města Brna
+                                                                                    '
+
+
+
+
+(dále lﬂkć jﬂkø Mčxúø),
+
+
+1.2.  Colonico, a.s.
+Se sídlem Hlinky 49/126, Pisárky 603 O0 Brno
+IČO; 277 OO 631
+Dıčz CZ27700631
+Společnost zapsaná v obchodním rejstříku vedeném u Krajského Soudu V Brně pod sp. zn. B 4710
+zastoupená Ing. Igorem F aitem, předsedou představenstva a lng. Liborem Šparlinkem, členem
+představenstva
+(dále také jako Stavebník)
+
+
+Smluvní Strany 1.1. a 1.2. dále společně jako Smluvní strany.
+
+                                     2.      Stavební záměr
+
+2.1.  Stavebník hodlá realizovat V lokalitě městské části Brno-Žebětín Stavební záměr pod názvem
+„Rezidence Pod Lesem, Brno - Zebětín“ (dále jen Stavební záměr).
+                         vv
+2.2.   Stavební záměr resí výstavbu obytného souboru včetně technické a dopravní infrastruktury.
+V rámci obytného Soboru je navržena výstavba 37 řadových domů a 7 bytových domů (126 bytů).
+Bytové domy mají společnou podzemní podnož, ve které budou podzemní garáže a technické
+vybavení jednotlivých domů. Bytové domy mají 5 nadzemních pater. Celková hrubá podlažní plocha
+(HPP) řadových domů a bytů v bytových domech je 20 629,43 m2.
+V rámci technické a dopravní infrastruktury je navrženo dopravní napojení lokality, komunikace a
+zpevněné plochy. Z technické infrastruktury jsou navrženy rozvody vodovodu, dešťové a splaškové
+kanalizace, plynovodu, NN, SEK, veřejného a areálového osvětlení.
+Na venkovních komunikacích v areálu Stavebního záměru bude 52 parkovacích stání a Z toho 3
+vyhrazené parkovací stání pro osoby ZTP. V podzemních garážích pod bytovými domy bude 177
+parkovacích míst a Z toho 7 vyhrazených parkovacích stání pro osoby ZTP. U řadových domů bude
+lll parkovacích stání.
+Území se nachází na hranici Městských částí Brna-Žebětín a Brna-Bystrc. Lokalita je vymezena Z
+jižní Strany potokem Vrbovcem, ze západní Strany Stávající příjezdovou       komunikací, ze Severní
+Strany výrazným terénním zlomem Zakončeným Sídelním útvarem Kamechy a Z východní Strany
+Stávajícím jezdeckým a chovatelským areálem Eliot.
+Dopravní napojení této lokality je na Stávající komunikaci v ulici Hostislavova.
+
+                                                 l
+
+
+
+
+                                                                                                      Strana 5 / 48
+V případě, že bude plánovaný obchvat Žebětína (Projekt „Východní obchvat Žebětína    ~ I. etapa“)
+
+realizován dříve než tato Stavba, tak projekt počítá S tím, že se komunikace plynule napojí na
+projektovanou větev účelové komunikace, to znamená, že nebude vybudován stavební objekt SO 101
+Komunikace - napojení areálu na Žebětín a SO 105 Chodník - napojení areálu na Žebětín (oSa_0).
+
+Dle obecně závazné vyhlášky statutárního města Brna č. 20/2001, kterou se vydává Statut města Brna,
+ve znění obecně závazných vyhlášek Statutárního města Brna, se jedná o stavbu V celoměstském
+zájmu.
+
+2.3.    Z hlediska Územního plánu města Brna (ÚPmB) je Stavební záměr umístěn na pozemcích,
+které jsou Součástí Stavební návrhové plochy bydlení S podrobnějším účelem využití stanoveným
+funkčním typem bydlení všeobecné (BO), bydlení čisté (BC), zvláštní plochy pro rekreaci (R), plochy
+pro dopravu-komunikace a prostranství místního významu a nestavební návrhové plochy krajinné
+zeleně (KV). Předkládaný záměr respektuje funkční a prostorové regulativy dotčených ploch a je tedy
+v souladu S koncepcí územního rozvoje města.
+
+2.4.  V rámci Stavebního záměru bude vybudována veřejná infrastruktura, která bude po kolaudaci
+převedena do vlastnictví Města.
+
+2.5.     Pro Stavební záměr byla v 01/2022 zpracována generálním projektantem společností Atelier
+DPK, s.r.o. se sídlem Šumavská 416/15, 602 00 Brno, IČO 253 48 817 dokumentace „Rezidence Pod
+Lesem, Brno - Žebětín“ pro vydání rozhodnutí O umístění stavby (dále DÚR), která tvoří přílohu
+č. 1 této smlouvy.
+
+
+
+                                     3.      Účel a předmět Smlouvy
+
+3.1.    Účelem a předmětem této smlouvy je úprava práv a povinností smluvních stran V rámci
+přípravy a realizace veřejné infrastruktury budované v rámci Stavebního záměru a přípravy a
+realizace veřejné dopravní infrastruktury realizované Městem. Předmětem této smlouvy je dále
+dohoda smluvních stran o poskytnutí investičního příspěvku na vybudování veřejné infrastruktury
+Městem a další podmínky pro vzájemnou spolupráci smluvních stran V rámci realizace Stavebního
+záměru a realizace veřejné dopravní infrastruktury Města.
+Tato Smlouva bude sloužit jako podklad pro vydání územního rozhodnutí a stavebního povolení pro
+Stavební záměr.
+
+3.2.   Stavebník se zavazuje vybudovat veřejnou infrastrukturu V rámci Stavebního záměru V
+souladu SDÚR, územním rozhodnutím, povoleními příslušných správních orgánů, v souladu S
+podmínkami stanovenými dotčenými správními orgány, vlastníky, správci a provozovateli veřejné
+infrastruktury.
+
+
+
+3.3.   Smluvní strany se zavazují vzájemně spolupracovat při naplňování účelu této smlouvy
+a vzájemně se informovat o všech skutečnostech, které by mohly mít vliv na realizaci Stavebního
+záıněru a realizaci veřejné dopravní infrastruktury Města.
+
+
+                  4.   Veřejná infrastruktura realizovaná V rámci Stavebního záměru
+
+4.1.     V rámci Stavebního záměru bude dle DÚR vybudována následující veřejná infrastruktura,
+která bude po kolaudaci převedena do vlastnictví Města, které za Splnění stanovených podmínek
+zajistí její správu, provozování a údržbu:
+
+
+
+
+                                                    2
+
+
+
+                                                                                                      Strana 6 / 48
+          4.2.   Vodovodní řady
+
+          Stavební objekty  S0 301.1.a Rekonstrukce stávající přípojky a rozvodu vody, SO 301.1 .b
+          Rekonstrukce stávajícího rozvodu vody a SO 301.2 Vodovodní řady budou realizovány na pozemcích
+          p. č. 2141/11, 2141/12, 2141/14, 2141/16, 2143/14, 2144/15, 2147/2, 2147/134, 2147/155, 2147/201,
+          2147/208, 2147/211, 2147/219, 2147/225, 2147/231, 2147/269, 2172/49, 3795/2 vše V k. ú. Žebětín,
+          které jsou ve vlastnictví Stavebníka; na pozemcích p. č. 2147/ 129, 2147/ 1 95, 2174/1, 3545 vše V k.
+          ú. Žebětín, které jsou ve vlastnictví Města; na pozemku p. č. 2954/1 V k. ú. Žebětín, který je ve
+
+          vlastnictví České republiky - Úřadu pro zastupování Státu ve věcech majetkových; na pozemcích p.
+          č. 2174/53, 3795/1 vše V k. ú. Žebětín, které jsou ve vlastnictví Soukromých osob.
+
+
+
+          Stavební objekty SO 301.1 .ajsou o délce 263 m, SO 301.1.b O délce 71   m budou Z trub Z tvárné litiny
+          DN 150. Napojení bude V místě Stávající přípojky V ulici Hostislavova na vodovod pro veřejnou
+          potřebu DN 200 LI.
+          Stavební objekt 301.2 bude napojen na konec SO 301 .1.b a bude veden V souběhu S komunikací.
+
+
+          Podrobný popis stavebních objektů SO 301 .1.a Rekonstrukce Stávající přípojky a rozvodu vody, SO
+          301.1.b Rekonstrukce stávajícího rozvodu vody a SO 301.2 Vodovodní řady je uveden V Souhrnné
+          technické zprávě B, která je Součástí DÚR.
+          Umístění stavebních objektů SO 301 .1 .a Rekonstrukce stávající přípojky a rozvodu vody, SO 301 1 .b
+                                                                                                            .
+
+
+
+          Rekonstrukce stávajícího rozvodu vody a SO 301.2 Vodovodní řady je zakresleno ve výkresech č.
+          C.3a Koordinační situační výkres - rezidence a č. C.3b Koordinační Situační výkres - napojení
+          rezidence, které jsou součástí DÚR.
+
+          Stavební objekty  SO 301.1 .a Rekonstrukce stávající přípojky a rozvodu vody, SO 301 .1 .b
+          Rekonstrukce stávajícího rozvodu vody a SO 301.2 Vodovodní řady budou převedeno do vlastnictví
+          Města a předány do provozování společnosti Brněnské vodárny a kanalizace, a.S.
+
+          4.3.   SO 302.1 Stoky splaškové kanalizace
+          Stavební objekt SO 302.1 Stoky splaškové kanalizace bude realizován na pozemcích p. č. 2141/11,
+          2141/12, 2141/14, 2141/16, 2143/14, 2144/15, 2147/2, 2147/41, 2172/49, 2147/134, 2147/155,
+          2147/201, 2147/208, 2147/211, 2147/219, 2147/225, 2147/231, 2147/269 vše V k. ú. Žebětín, které
+          jsou ve vlastnictví Stavebníka; na pozemcích p. č. 2147/ 195, 2174/38 vše V k. ú. Žebětín, které jsou
+          ve vlastnictví Města; na pozemcích p. č. 2174/44, 3914 vše V k. ú. Žebětín, které jsou ve vlastnictví
+          soukromých osob.
+
+          Stavební objekt SO 302.1 Stoky splaškové kanalizace    DN
+                                                                  300 bude zaústěn do stávajícího sběrače
+          splaškové kanalizace pro veřejnou potřebu BI04   DN
+                                                            500 LIT, který je uložený podél pravého břehu
+                           V
+          potoka Vrbovec. lomech trasy kanalizačních stok budou umístěny vstupní revizní šachty      DN
+                                                                                                    1000.
+          Maximální vzájemná vzdálenost šachet bude 50 m.
+
+          Podrobný popis stavebního objektu SO 302.1 Stoky splaškové kanalizace je uveden V Souhrnné
+          technické zprávě B, která je Součástí DÚR.
+          Umístění stavebního objektu SO 302.1 Stoky splaškové kanalizace je zakresleno ve výkresech č. C.3a
+          Koordinační Situační výkres - rezidence a č. C.3b Koordinační Situační výkres - napojení rezidence,
+          které jsou součástí DÚR.
+
+
+
+                                                           3
+
+
+
+
+Š.   1.                                                                                                            Strana 7 / 48
+Stavební objekt SO 302.1 Stoky splaškové kanalizace bude převeden do vlastnictví Města a předán
+do provozování Společnosti Brněnské vodárny a kanalizace, a.S.
+
+4.4.       SO 303.1 Stoky dešťové kanalizace
+Stavební objekt SO 303.1 Stoky dešťové kanalizace bude realizován na pozemcích p. č. 2141/11,
+2141/12, 2141/14, 2141/16, 2144/15, 2147/2, 2147/41, 2147/134, 2147/155, 2147/201, 2147/208,
+2147/211, 2147/219, 2147/225, 2147/231, 2147/269, 2172/49 vše vk. ú. Žebětín, které jsou ve
+vlastnictví Stavebníka; na pozemcích p. č. 2147/40, 2147/ 195, 2174/38 vše V k. ú. Žebětín, které jsou
+ve vlastnictví Města.
+
+Stavební objekt SO 303.1 Stoky dešťové kanalizace je určen k odvádění neregulovaného množství
+srážkové vody z navržených komunikací a regulovaného množství Srážkové vody Z navržených
+nemovitostí (RD) a to pouze Z částí řešené lokality, kde není možný vsak do podloží (prostor svahu
+nad údo1nínivou).Navržená dešťová kanalizace je navržena Z betonového potrubí      DN        V
+                                                                                    300. lomech
+trasy kanalizačních Stok budou umístěny vstupní revizní šachty   DN1000.
+
+Podrobný popis Stavebního objektu SO 303.1 Stoky dešťové kanalizace je uveden v Souhrnné
+technické zprávě B, která je Součástí DÚR.
+Umístění Stavebního objektu SO 303.1 Stoky dešťové kanalizace je zakresleno ve výkresech č. C.3a
+Koordinační Situační výkres - rezidence a č. C.3b Koordinační Situační výkres - napojení rezidence,
+které jsou Součástí DÚR.
+
+
+Stavební objekt SO 303.1 Stoky dešťové kanalizace bude převeden do vlastnictví Města a předán do
+provozování Společnosti Brněnské vodárny a kanalizace, a.S.
+
+4.5.   V
+           Komunikace a zpevněné plochy
+
+Stavební objekty SO l01.a Komunikace - napojení rezidence na Žebětín, SO 101.b Komunikace -
+napojení rezidence na Žebětín, SO 102 Komunikace - osa 1, SO 103 Komunikace - osa 2, SO 104
+Komunikace - osa 3, SO 105.a Chodník - napojení rezidence na Žebětín, SO 105 .b Chodník -
+napojení rezidence na Žebětín, SO 106 Chodník - osa 1, SO 107 Chodník - osa 2, SO 108.a Vjezdy,
+SO 201 Most- potok Vrbovec, SO 304.1 Odvodnění komunikace - osa 1 - retenčně-vsakovací nádrž,
+SO 304.2 Odvodnění komunikace - osa 2 - retenčně vsakovací průlehy, SO 304.3 Přípojky odvodnění
+komunikace, SO 802.a Sadové úpravy bude realizován na pozemcích p. č. 2141/11, 2141/12,
+2141/14, 2141/16, 2143/14, 2144/15, 2146/2, 2146/3, 2147/2, 2147/7, 2147/41, 2147/42, 2147/125,
+2147/134, 2147/155, 2147/201, 2147/208, 2147/211, 2147/219, 2147/225, 2147/231, 2147/269,
+2172/40, 2172/42, 2172/49, 2174/21, 3795/2 vše v k. ú. Žebětín, které jsou ve vlastnictví Stavebníka;
+na pozemcích p. č. 2146/1, 2147/40, 2147/40, 2147/129, 2147/130, 2147/195, 2152/17, 2174/1, 3545
+vše V k. ú. Žebětín, které jsou ve vlastnictví Města; na pozemku p. č. 2954/1 V k. ú. Žebětín, který je
+ve vlastnictví České republiky - Úřadu pro zastupování Státu ve věcech majetkových; na pozemcích
+p. č. 3795/1, 2174/53 vše V k. ú. Žebětín, který je ve vlastnictví Soukromé osoby.
+
+
+Stavební objekty SO 101.a Komunikace ~ napojení rezidence na Žebětín, SO 101.b Komunikace -
+napojení rezidence na Žebětín, SO 102 Komunikace - osa 1, SO 103 Komunikace - osa 2, SO 104
+Komunikace - osa 3, SO 105.a Chodník - napojení rezidence na Žebětín, SO 105.b Chodník -
+napojení rezidence na Žebětín, SO 106 Chodník - osa 1, SO 107 Chodník - Osa 2, SO 108.a Vjezdy,
+SO 201 Most- potok Vrbovec, SO 304.1 Odvodnění komunikace - osa 1 - retenčně-vsakovací nádrž,
+SO 304.2 Odvodnění komunikace - osa 2 - retenčně vsakovací průlehy, SO 304.3 Přípojky odvodnění
+
+
+                                                  4
+
+
+
+                                                                                                          Strana 8 / 48
+komunikace,   SO 802.a Sadové úpravy řeší úpravu dopravního napojení a to Stávající účelové
+komunikace a na komunikaci místní III. třídy S názvem ulice Hostislavova. Po výstavbě celé Stavby
+budou komunikace po převzetí správcem Začleněny do místních komunikací.
+Řešené území je na Stávající dopravní infrastrukturu napojeno úpravou Stávající křižovatky.
+Pěší trasa bude napojena na Stávající chodník vedoucí podél Stávající komunikace ul. Hostislavovi
+Směrem od zastávky MHD.
+
+Město hodlá realizovat stavbu ,,Východní obchvat Žebětína -I. etapa" (dále Obchvat Žebětína).
+V případě, že bude plánovaný Obchvat Žebětína realizován dříve než stavební objekty SO 101.a
+Komunikace - napojení rezidence na Žebětín a SO 105.a Chodník - napojení rezidence na Žebětín,
+tak projekt počítá S tím, že se komunikace plynule napojí na projektovanou větev účelové komunikace
+SO l0l.b Komunikace - napojení rezidence na Žebětín, to znamená, že nebude vybudován Stavební
+objekt SO 101.a Komunikace - napojení rezidence na Žebětín a SO 105.a Chodník - napojení
+rezidence na Žebětín,
+Vpřípadě, že bude Obchvat Žebětína realizován po provedení stavebních objektů SO 101.a
+Komunikace - napojení rezidence na Žebětín a SO 105.a Chodník ~ napojení rezidence na Žebětín,
+budou tyto stavební objekty odstraněny na náklady Stavebníka, a to za podmínek dle ČI. 14 této
+Smlouvy.
+
+
+Podrobný popis stavebních objektů SO 101 .a Komunikace - napojení rezidence na Žebětín, SO 101 .b
+Komunikace - napojení rezidence na Žebětín, SO 102 Komunikace - osa 1, SO 103 Komunikace -
+osa 2, SO 104 Komunikace - osa 3, SO 105.a Chodník - napojení rezidence na Žebětín, SO 105 .b
+Chodník - napojení rezidence na Žebětín, SO 106 Chodník - osa 1, SO 107 Chodník - osa 2, SO 108.a
+Vjezdy, SO 201 Most - potok Vrbovec, SO 304.1 Odvodnění komunikace - osa 1 - retenčně-
+vsakovací nádrž, SO 304.2 Odvodnění komunikace - osa 2 - retenčně vsakovací průlehy, SO 304.3
+Přípojky odvodnění komunikace je uveden V Souhrnné technické zprávě B, která je Součástí DÚR.
+Umístění stavebních objektů SO 101.a Komunikace - napojení rezidence na Žebětín, SO 101.b
+Komunikace - napojení rezidence na Žebětín, SO 102 Komunikace - osa 1, SO 103 Komunikace -
+osa 2, SO 104 Komunikace - osa 3, SO 105.a Chodník - napojení rezidence na Žebětín, SO 105.b
+Chodník - napojení rezidence na Žebětín, SO 106 Chodník - osa 1, SO 107 Chodník - osa 2, SO 201
+Most - potok Vrbovec, SO 304.1 Odvodnění komunikace - osa 1 - retenčně-vsakovací nádrž, SO
+304.2 Odvodnění komunikace - osa 2 - retenčně vsakovací průlehy, SO 304.3 Přípojky odvodnění
+komunikace, SO 802.a Sadové úpravy je Zakresleno ve výkresech č. C.3a Koordinační situační výkres
+- rezidence a č. C.3b Koordinační Situační výkres - rezidence, které jsou součástí DÚR.
+
+
+
+Stavební objekty SO 101.a Komunikace - napojení rezidence na Žebětín, SO 101.b Komunikace -
+napojení rezidence na Žebětín, SO 102 Komunikace - osa 1, SO 103 Komunikace - osa 2, SO 104
+Komunikace - osa 3, SO 105.a Chodník - napojení rezidence na Žebětín, SO lO5.b Chodník -
+napojení rezidence na Žebětín, SO 106 Chodník - osa 1, SO 107 Chodník - osa 2, SO 108.a Vjezdy,
+SO 201 Most- potok Vrbovec, SO 304.1 Odvodnění komunikace - osa 1 - retenčně-vsakovací nádrž,
+SO 304.2 Odvodnění komunikace - osa 2 - retenčně vsakovací průlehy, SO 304.3 Přípojky odvodnění
+komunikace, SO 802.a Sadové úpravy včetně Zastavěných částí pozemků budou převedeny do
+vlastnictví Města prostřednictvím Odboru dopravy Magistrátu města Brna a předány do Správy
+Společnosti Brněnské komunikace, a.S., dle platných podmínek pro převody nově vybudovaných
+komunikačních staveb cizích investorů do vlastnictví Města, a to v rozsahu odsouhlaseném Odborem
+dopravy MMB     a společností Brněnské komunikace a.S. na situacích ze dne 30. 9. 2021 a ze dne 17.
+2. 2022, které tvoří přílohu č. 2 a č.3 této Smlouvy.
+
+4.6.   Veřejné osvětlení
+
+
+
+                                                5
+
+
+
+                                                                                                      Strana 9 / 48
+Stavební objekty SO 403.1.a    VO     - Napojení rezidence, SO 403.l.b
+                                                                       VO     - Napojení rezidence,
+                                                                                                    SO
+403.2.   VO - komunikace osa 1, SO 403.3  VO     - komunikace osa
+                                                                   2, SO      VO
+                                                                          403.4     -komunikace   osa 3
+budou realizovány na pozemcích p. č. 2141/12, 2144/15, 2146/2, 2147/2, 2147/7, 2147/42, 2147/125,
+2147/134, 2147/155, 2147/201, 2147/208, 2147/211, 2147/219, 2147/225, 2147/231, 2147/269,
+2172/40, 2172/42, 2172/49, 2174/21, 3795/2 vše V k. ú. Žebětín, které jsou ve vlastnictví Stavebníkag
+na pozemcích p. č. 1646/15, 2146/1, 2147/129, 2147/130, 2147/195, 2174/1, 3545, 3548, 3779 vše
+V k. ú. Žebětín, které jsou ve vlastnictví Města; na pozemcích p. č. 2954/1, 2954/49, 2954/50, 2954/51
+vše V k. ú. Žebětín, které jsou ve vlastnictví České republiky - Úřadu pro zastupování Státu ve věcech
+majetkových; na pozemcích p. č. 2158/46, 2954/36 vše V k. ú. Žebětín, které jsou ve Vlastnictví
+ostatních subjektů.
+
+
+Stavební objekty SO 403.1.a    VO - Napojení rezidence, SO 403.1.b
+                                                                       VO- Napojení rezidence, SO
+
+403.2.   VO- komunikace osa l, SO 403.3   VO  - komunikace osa 2, SO 403.4    VO
+                                                                               - komunikace osa 3
+
+řeší výstavbu nového veřejného osvětlení V počtu 31 světelných míst S novým zapínacím rozváděčem
+RVO    a novým odběrným místem. Nové Veřejné osvětlení Se napojení na Stávající Síť            VO
+                                                                                               na
+křižovatce Chrpová - Hostislavova.
+
+V případě, že bude plánovaný Obchvat Žebětína realizován dříve než Stavební objekt SO 403.1 .a VO
+-   Napojení rezidence, nebude Stavebníkem tento Stavební objekt vybudován.
+V případě, že bude Obchvat Žebětína realizován po provedení Stavebního objektu SO 403.1.a VO          -
+
+Napojení rezidence, bude tento Stavební objekt odstraněn na náklady Stavebníka, a to za podmínek
+dle ČI. 14 této Smlouvy.
+
+
+
+Podrobný popis stavebních objektů SO 403.1.a VO - Napojení rezidence, SO 403.1.b VO - Napojení
+rezidence, SO 403.2. VO ~ komunikace osa 1, SO 403.3 VO - komunikace osa 2, SO 403.4 VO -
+komunikace osa 3 je uveden V Souhrnné technické zprávě B, která je Součástí DÚR.
+Umístění stavebních objektů SO 403.1.a VO - Napojení rezidence, SO 403.1.b VO - Napojení
+rezidence, SO 403.2. VO - komunikace osa 1, SO 403.3 VO - komunikace osa 2, SO 403.4 VO -
+komunikace osa 3 je Zakresleno ve výkresech č. C.3a Koordinační situační výkres - rezidence a č.
+C.3b Koordinační Situační výkres - rezidence, které jsou Součástí DÚR.
+
+Stavební objekty SO 403.1.a   VO - Napojení rezidence, SO 403.1.b
+                                                                       VO
+                                                                       - Napojení
+                                                                                  rezidence, SO
+403.2.  VO - komunikace osa 1, SO 403.3   VO- komunikace osa 2, SO 403.4      VO
+                                                                             - komunikace osa 3
+
+budou převedeny do vlastnictví Města apředány do obstarání Společnosti Technické Sítě Brno,
+akciová Společnost.
+
+4.7.     SO 108.b Vjezdy
+Stavební objekt SO 108.b Vjezdy bude realizován na pozemcích p. č. 2144/15, 2147/155, 2147/219,
+2147/225, 2147/231, 2147/269 vše V k. ú. Zebětín, které jsou ve vlastnictví Stavebníka.
+
+Stavební objekt    SO   l08.b Vjezdy řeší výstavbu dopravního napojení na stávající účelové
+komunikace.
+
+Podrobný popis Stavebního objektu S0 108.b Vjezdy je uveden V Souhrnné technické zprávě B, která
+je Sønčáﬂıi DÚR.
+Umístění Stavebního objektu SO 108.b Vjezdy je Zakresleno ve výkresech č. C.3a Koordinační
+Situační výkres - rezidence a č. C.3b Koordinační Situační výkres - rezidence, které jsou Součástí
+
+
+
+
+                                                  6
+
+
+
+
+                                                                                                          Strana 10 / 48
+DÚR.
+Stavební objekt SO 108.b Vjezdy včetně zastavěných částí pozemků ve vlastnictví Stavebníka bude
+                                                                                4
+
+
+
+
+převeden do vlastnictví Města prostřednictvím Odboru dopravy Magistrátu města Brna a předán do
+Správy MC  Brno-Zebětín.
+
+4.8.   SO 802.b Sadové úpravy
+Stavební objekt SO 802.b Sadové úpravy bude realizován na pozemcích p. č. 2147/ 155, 2144/15,
+2147/219, 2147/225, 2147/231, 2147/269 vše V k. ú. Zebětín, které jsou ve vlastnictví Stavebníka.
+
+Stavební objekt SO 802.b Sadové úpravy řeší výsadbu alejovými vzrostlými Stromy podél
+komunikací a mezi parkovacími místy. Jako podsadba pod stromy v menších ostrůvcích budou
+vysazeny půdo pokryvné keře.
+
+Podrobný popis stavebního objektu SO 802.b Sadové úpravy je uveden v Souhrnné technické zprávě
+B, která je součástí DÚR.
+Umístění stavebního objektu SO 802.b Sadové úpravy je zakresleno ve výkresu č. C.5 Situační výkres
+Sadových úprav, který je Součástí DÚR.
+Stavební objekt SO 802.b Sadové úpravy včetně zastavěných částí pozemků ve vlastnictví Stavebníka
+bude převeden do vlastnictví Města prostřednictvím Odboru dopravy Magistrátu města Brna a předán
+do Správy MČ    Brno-Žebětín.
+
+4.9.   SO 705 Dětské h   "1‹ _.. rn‹
+                                       n-›
+                                             <'b‹
+
+
+
+
+Stavební objekt SO 705 Dětské hřiště bude realizován na pozemcích p. č. 2147/269, 2148/20 vše V k.
+ú. Zebětín, které jsou ve vlastnictví Stavebníka.
+
+
+Popis Stavebního objektu SO 705 Dětské hřiště je uveden V Souhrnné technické zprávě B, která je
+Sønčásﬂ DÚR.
+Umístění Stavebního objektu SO 705 Dětské hřiště je Zakresleno ve výkresu č. C.4 Celkový Situační
+výkres, který je Součástí DÚR.
+Stavební objekt SO 705 Dětské hřiště včetně zastavěných části pozemků ve vlastnictví Stavebníka
+bude převeden do vlastnictví Města prostřednictvím Odboru dopravy Magistrátu města Brna a předán
+do Správy MČ  Brno-Žebětín.
+
+
+
+
+                                                    5.   Investiční příspěvek
+
+5.1.   Vzhledem k tomu, že Stavební záměr klade na území městské části města Brna, Brno- Žebětín
+zvýšené nároky zejména V oblasti občanské vybavenosti, se smluvní strany dohodly, že Stavebník
+poskytne Městu ﬁnanční příspěvek ve výši 12 879 200,- Kč (slovy: dvanáct miliónů osm Set
+Sedmdesát devět tisic dvě stě korun čeSkých,) (dále jen Příspěvek).
+5.2.   Výše Příspěvku byla stanovena V souladu se „Zásadami pro spolupráci S investory na rozvoji
+veřejné infrastruktury Statutárního města Brna“, Schválenými na Z8/25 zasedání Zastupitelstva města
+                                                                                    .
+
+
+
+
+Brna dne 23. 3. 2021 (dále jen ,,ZáSady“), a to dle následujícího vzorce: celková čistá podlahová
+plocha Stavebního záměru (V m2) podle DÚR BD, tj. 16 099 m2 X 800 Kč/m2.
+
+5.3.   Stavebník Se zavazuje poskytnout Příspěvek Městu, a to bezhotovostním převodem na účet
+Města č. ú. 111385222/0800, VS 5622171861 (č. Smlouvy), a to následovně:
+
+
+                                                              7
+
+
+                                                                                                      Strana 11 / 48
+5.3.1.                                  %
+       Kompenzační Záloha ve výši 10 Z celkové výše Příspěvku, tj. 1 287 920,- Kč do 90 dní
+ode dne nabytí právní moci územního rozhodnutí vydaného pro Stavební záměr.
+
+5.3.2. Platba ve výši 11 591 280,- Kč do konce třetího měsíce následujícího po kalendářním měsíci,
+v němž nabude právní moci Stavební povolení pro Stavební záměr.
+
+5.4.    V případě, že podle dokumentace skutečného provedení Stavby Stavebního záměı`u bude
+hodnota čisté podlahové plochy rozdílná než dle DÚR, zavazuje se Stavebník uzavřít S Městem
+dodatek k této Smlouvě, ve kterém bude upřesněna výše Příspěvku a rozdíl takto upřesněné výše
+Příspěvku Městu ve Sjednaném termínu doplatit. Pro vyloučení všech pochybností platí, že případný
+rozdíl mezi předpokládanou výší a konečnou výší Příspěvku jde výhradně k tíži Stavebníka.
+
+
+5.5.   Stavebník bere na vědomí, že Příspěvek bude příjmem Fondu developerských projektů V
+souladu S ustanovením Zásad, přičemž prioritou Města je použít finanční prostředky ve výši
+Příspěvku na vybudování veřejné infrastruktury V oblasti občanské vybavenosti.
+
+5.6.   Kompenzační zálohou se pro účely této Smlouvy rozumí peněžitá částka složená Stavebníkem
+na účet Města, jakožto záloha na Příspěvek dle této Smlouvy. Kompenzační záloha bude v případě
+Splnění závazků Stavebníka započítána na Příspěvek dle této Smlouvy. Město je oprávněno tuto
+Kompenzační zálohu využít na práce Spoj ené S realizací veřejné infrastruktury Města sjednané V této
+Smlouvě. V případě, že Stavebník nebude realizovat Svůj Stavební záměr, má nárok na vrácení této
+Kompenzační zálohy, avšak Město má v tomto případě právo Si ponechat část Kompenzační zálohy
+ve výši 10    % Z celkové hodnoty Kompenzační zálohy jako paušální náhradu administrativních
+nákladů za práce Spojené S vrácením Kompenzační Zálohy. Současně, pokud již bude Městem z
+Kompenzační zálohy uskutečněno plnění (např. bude zpracována DÚR pro realizaci veřejné
+infrastruktury Města), bude při vrácení Kompenzační zálohy tato výše vynaložených nákladů
+započítána jako neúročená.
+
+5.7.  V případě, že Stavebník nezaplatí Městu řádně a včas Příspěvek, uhradí na výzvu Města
+Smluvní pokutu dle Cl. 12 odst. 12.5. této Smlouvy.
+
+5.8.   Stavebník je povinen vystavit ve prospěch Města zástavu za účelem zajištění Svých závazků
+plynoucích Z Cl. 5. odst. 5.3. této Smlouvy ve výši a za podmínek dle Cl. 13.
+
+         6.     Majetkoprávní vztahy k pozemkům dotčeným veřejnou infrastrukturou
+6.1.     Veřejná infrastruktura uvedená V Čl. 4. této Smlouvy bude umístěna na pozemcích p. č.
+2141/11, 2141/12, 2141/14, 2141/16, 2143/14, 2144/15, 2146/2, 2146/3, 2147/125, 2147/134,
+2147/155, 2147/2, 2147/201, 2147/208, 2147/211, 2147/219, 2147/225, 2147/231, 2147/269,
+2147/41, 2147/42, 2147/7, 2172/40, 2172/42, 2172/49, 2174/21, 3795/2 vše v k. ú. Žebětín ve
+vlastnictví Stavebníka; na pozemcích p. č. 3545, 3548, 3779, 1646/15, 2146/1, 2147/129, 2147/130,
+2147/ 195, 2147/40, 2152/17, 2174/1, 2174/38 vše v k. ú. Žebětín ve vlastnictví Města; na pozemcích
+p. č. 2954/1, 2954/49, 2954/50, 2954/51 všø v ı<. ú. žøhšıżžn ve vıﬂxtniøżvi Česká 1-øpnhhıçy _ Úřadu
+pro zastupování Státu ve věcech majetkových; na pozemcích p. č. 2174/53, 3795/1, 2174/44, 3914,
+2158/46, 2954/36 vše v k. ú. Žebětín ve vlastnictví jiných Soukromých osob.
+6.2. Mezi Stavebníkem a Městem bude před vydáním územního rozhodnutí pro Stavební záměr
+uzavřena smlouva o Smlouvě budoucí Směnné na základě, které budou před vydáním Stavebního
+povolení pro Stavební záměr Směněny pozemky p.č 2147/269 a p.č. 2142/16 v k. ú. Žebětín O celkové
+výměře 1 176 m2 ve vlastnictví Stavebníka za pozemky p.č. 2147/ 1 95, p.č. 2142/11, p.č. 2147/244,
+p.č.   2147/126, p.č. 2147/142 a p.č. 2172/24 V k. ú. Žebětín o celkové výměře
+
+
+
+                                                 8
+
+
+
+
+                                                                                                        Strana 12 / 48
+1   018 m2 Vlastnictví Města.
+
+                                7.       Financování veřejné infrastruktury
+
+7.1.   Financování výstavby stavebních objektů veřejné infrastruktury budovaných V rámci
+Stavebního záměru zajistí Stavebník na své náklady.
+
+7.2.  Město se nebude podílet na financování výstavby stavebních objektů veřejné infrastruktury
+budovaných V rámci Stavebního záměru.
+
+                          8.         Zahájení a ukončení výstavby infrastruktury
+
+8.1.  Stavebník předpokládá zahájení výstavby veřejné infrastruktury uvedené V Čl.           4. této
+Smlouvy nejpozději do 10 let od uzavření této Smlouvy.
+
+8.2.    Stavebník se zavazuje dokončit výstavbu veřejné infrastruktury uvedené V ČI. 4. této Smlouvy
+nejpozději do 10 let ode dne nabytí právní moci rozhodnutí příslušného Stavebního úřadu,
+umožňujícího výstavbu každého jednotlivého objektu infrastruktury, uvedené V ČI. 4. této Smlouvy.
+Dokončením výstavby se rozumí nabytí právních účinků kolaudačního souhlasu nebo nabytí právní
+moci kolaudačního rozhodnutí pro všechny Stavební objekty veřejné infrastruktury uvedené
+V Čl. 4 této Smlouvy.
+
+                     9.        Budoucí vlastnictví a správa veřejné infrastruktury
+
+9.1.    Stavebník se zavazuje nejpozději do 1 roku od nabytí právní moci kolaudačního souhlasu nebo
+nabytí právní moci kolaudačního rozhodnutí níže uvedených objektů doručit Městu písemnou žádost
+O převod vlastnického práva ke stavebním objektům SO 101 .a Komunikace - napojení rezidence na
+Žebětín, SO l01.b Komunikace - napojení rezidence na Žebětín, SO 102 Komunikace - osa 1, SO
+103 Komunikace - osa 2, SO 104 Komunikace - osa 3, SO 105.a Chodník ~ napojení rezidence na
+Žebětín, SO lO5.b Chodník - napojení rezidence na Žebětín, SO 106 Chodník - osa 1, SO 107
+Chodník - osa 2, SO 108.a Vjezdy, SO 108.b Vjezdy, SO 201 Most - potok Vrbovec, SO 304.1
+Odvodnění komunikace - osa 1 - ı`etenčně-vsakovací nádrž, SO 304.2 Odvodnění komunikace - osa
+2 - retenčně vsakovací průlehy, SO 304.3 Přípojky odvodnění komunikace, SO 802.a Sadové úpravy,
+SO 802.b Sadové úpravy, SO 705 Dětské hřiště a to včetně částí pozemků dotčených těmito
+stavebními objekty, které nebudou ke dni takové žádosti ve Vlastnictví Města. Převod bude realizován
+dle platných podmínek pro převody novostaveb do vlastnictví Města. V případě, že Stavebník včas
+nedoručí Městu řádnou žádost dle tohoto odstavce, je Město oprávněno takovou žádost zaslat
+Stavebníkovi, a to nejpozději do 1 roku Ode dne, kdy se dozví o vydání kolaudačního souhlasu nebo
+nabytí právní moci kolaudačního rozhodnutí výše uvedených objektů. Stavebník se zavazuje uzavřít
+tuto kupní smlouvu nejpozději do 3 let od nabytí právních účinků kolaudačního souhlasu nebo nabytí
+právní moci kolaudačního rozhodnutí pro SO 101 .a Komunikace - napojení rezidence na Žebětín, SO
+101.b Komunikace - napojení rezidence na Žebětín, SO 102 Koınunikace - osa 1, SO 103
+Komunikace - osa 2, SO 104 Komunikace i osa 3, SO 105.a Chodník - napojení rezidence na Žebětín,
+SO lO5.b Chodník - napojení rezidence na Zebětín, SO 106 Chodník - osa 1, SO 107 Chodník - osa
+2, SO 108.a Vjezdy, SO 108.b Vjezdy, SO 201 Most - potok Vrbovec, SO 304.1 Odvodnění
+komunikace ~ osa 1 - ı`etenčně-vsakovací nádrž, SO 304.2 Odvodnění komunikace - osa 2 - retenčně
+vsakovací průlehy, SO 304.3 Přípojky odvodnění komunikace, SO 802.a Sadové úpravy, SO 802.b
+Sadové úpravy, SO 705 Dětské hřiště. Město se zavazuje zaplatit Stavebníkovi za výše uvedené
+Stavební objekty a příslušné části pozemků pod těmito objekty celkem částku ve výši 1.000 Kč včetně
+
+
+
+
+                                                      9
+
+
+
+                                                                                                       Strana 13 / 48
+DPH. Stavebník se zavazuje na Své náklady zpr`acovat geometrický plán skutečného zaměření těchto
+stavebních objektů, resp. pozemků pod těmito objekty, a jeho potvrzení příslušným katastrálním
+úřadem. Stavebník se zavazuje zajistit do doby převodu těchto stavebních objektů do vlastnictví
+Města, na své náklady jejich Správu a údržbu.
+Stavební objekty SO 10l.a Komunikace - napojení rezidence na Žebětín a SO 105.a Chodník -
+napojení rezidence na Žebětín, budou převedeny do vlastnictví Města pouze V případě, že nebude
+realizován Obchvat Žebětína.
+
+9.2.   Stavebník se zavazuje nejpozději do 30 pracovních dní od vydání kolaudačního souhlasu nebo
+nabytí právní moci kolaudačního rozhodnutí níže uvedených stavebních obj ektů doručit Městu
+písemnou žádost o uzavření smlouvy, jejímž předmětem bude závazek Stavebníka převést na Město
+vlastnické právo ke stavebnímu objektu SO 403.l.a VO - Napojení rezidence, SO 403.l.b VO -
+Napojení rezidence, SO 403.2. VO -komunikace osa 1, SO 403.3 VO - komunikace osa 2, SO 403.4
+VO - komunikace osa 3 a závazek Města zaplatit Stavebníkovi za výše uvedené objekty celkem částku
+ve výši 1.000 Kč včetně DPH. V případě, že Stavebník včas nedoručí Městu řádnou žádost dle tohoto
+odstavce, je Město oprávněno takovou žádost zaslat Stavebníkovi, a to nejpozději do 1 roku ode dne,
+kdy se dozví o vydání kolaudačního souhlasu nebo nabytí právní moci kolaudačního rozhodnutí výše
+uvedených objektů. Stavebník se zavazuje uzavřít S Městem kupní smlouvu bezodkladně, nejpozději
+však do 30 dní ode dne obdržení návrhu kupní smlouvy ze strany Města. V případě, že se v době
+převodu veřejného osvětlení do vlastnictví Města, bude veřejné osvětlení nacházet na pozemcích
+jiného vlastníka než Města, je Stavebník povinen zajistit uzavření bezúplatné Smlouvy o Zřízení
+služebnosti mezi Městem, obstaravatelem veřejného osvětlení a vlastníkem pozemku. V případě
+požadavku třetí osoby na úhradu úplaty za zřízení Služebnosti, se zavazuje Stavebník poskytnout
+bezúplatně na účet Města částku požadovanou vlastníkem takových pozemků za zřízení Služebnosti,
+Stavebník je povinen na své náklady zajistit zpracování geometrického plánu pro vyznačení věcného
+břemene k části pozemku, na kterém se nachází výše v tomto odstavci uvedené stavební objekty.
+Stavebník se zavazuje, že do doby převodu stavebních objektů SO 403.1.a VO - Napojení rezidence,
+SO 403.1.b VO - Napojení rezidence, SO 403.2. VO ~ komunikace osa 1, SO 403.3 VO - komunikace
+osa 2, SO 403.4 VO - komunikace osa 3 do vlastnictví Města, zajistí na své náklady provoz, správu
+a údržbu těchto stavebních obj ektů.
+Stavební objekt SO 403.l.a   VO  - Napojení rezidence bude převeden do
+                                                                       vlastnictví Města pouze
+V případě, že nebude realizován Obchvat Žebětína.
+
+
+9.3.    Stavebník se zavazuje v dostatečném předstihu, nejpozději 14 dnů před podáním žádosti O
+vydání kolaudačního souhlasu nebo kolaudačního rozhodnutí níže uvedených stavebních objektů,
+doručit Městu písemnou žádost O uzavření kupní Smlouvy, jejímž předmětem bude závazek
+Stavebníka převést na Město vlastnické právo ke stavebním objektům SO 301.l.a Rekonstrukce
+Stávající přípojky a rozvodu vody, SO 30l.l.b Rekonstrukce stávajícího rozvodu vody a SO 301.2
+Vodovodní řady, SO 302.1 Stoky splaškové kanalizace, SO 303.1 Stoky dešťové kanalizace a
+závazek Města zaplatit Stavebníkovi 1.000 Kč včetně DPH za každý stavební objekt. Stavebník se
+zavazuje doručit podepsanou kupní Smlouvu bezodkladně Městu, nejpozději však do 30 dní od
+obdržení návrhu kupní Smlouvy ze strany Města. V případě, že se V době převodu stavebních objektů
+SO 301.l.a Rekonstrukce stávající přípojky a rozvodu vody, SO 30l.l.b Rekonstrukce stávajícího
+rozvodu vody a SO 301.2 Vodovodní řady, SO 302.1 Stoky splaškové kanalizace, SO 303.1 Stoky
+dešťové kanalizace do vlastnictví Města, budou tyto stavební objekty nacházet na pozemcích jiného
+vlastníka než Města, je Stavebník povinen zajistit uzavření bezúplatné smlouvy o zřízení služebnosti
+mezi Městem, provozovatelem vodovodu a kanalizace pro veřejnou potřebu a vlastníkem pozemku.
+V případě požadavku třetí rvosoby na úhradu úplaty za zřízení Služebnosti, se zavazuje Stavebník
+poskytnout bezúplatně na ucet Města nahradit Městu částku požadovanou vlastníkem takových
+
+
+
+                                                 10
+
+
+
+
+                                                                                                       Strana 14 / 48
+pozemků za zřízení    Služebnosti. Stavebník je povinen na své náklady zajistit zpracování
+geometrického plánu pro vyznačení věcného břemene k části pozemku, na kterém se nacházejí výše
+V tomto odstavci uvedené Stavební objekty.
+
+9.4.    Město se zavazuje převzít veřejnou infrastrukturu uvedenou v ČI. 9. odst. 9.1. až 9.3. této
+Smlouvy do Svého vlastnictví a Zajistit její provoz, správu a údržbu za těchto podmínek:
+-       předmětná veřejná infrastruktura bude vybudována V souladu S městskými standardy a
+povoleními příslušných správních orgánů
+-       bude zajištěna funkčnost celého Systému vybudované veřejné infrastruktury,
+-       budou převedeny pozemky, resp. části pozemků pod stavebním objektem, popsaným V ČI. 9.
+odst. 9.1. až 9.3. této smlouvy, příp. uzavřeny Smlouvy o zřízení věcného břemene ve prospěch Města.
+
+
+9.5.   Pokud nebude veřejná infrastruktura uvedená V ČI. 9. odst. 9.2 a 9.3 této smlouvy převedena
+z jakéhokoliv důvodu do vlastnictví Města, zavazují se Stavebník i Město uzavřít nejpozději do I
+roku od vydání kolaudačního souhlasu nebo kolaudačního rozhodnutí pro příslušnou technickou
+infrastrukturu Smlouvy O zřízení Služebnosti ve prospěch Stavebníka k pozemkům ve vlastnictví
+Města dle „Metodiky pro uzavírání smluv o zřízení Služebnosti k Služebným pozemkům ve vlastnictví
+statutárního města Brna dotčeným stavbami inženýrských sítí“. Za tím účelem zajistí Stavebník na
+svůj náklad zpracování potřebného počtu geometrického plánu pro vyznačení rozsahu věcného
+břemene k části pozemku a jeho potvrzení příslušným katastrálním úřadem. V případě vodovodu a
+kanalizace pro veřejnou potřebu, pokud nebudou převedeny do vlastnictví Města, se Stavebník
+zavazuje uzavřít S Městem nejpozději do 6 měsíců po vydání kolaudačního souhlasu nebo
+kolaudačního rozhodnutí dohodu mezi vlastníky provozně souvisejících vodovodů a kanalizací pro
+veřejnou potřebu dle ust. § 8 zákona č. 274/2001 Sb., zákona o vodovodech a kanalizacích pro
+veřejnou potřebu, ve znění pozdějších předpisů.
+
+9.6.   Stavebník zajistí, aby převáděné pozemky v době převodu do vlastnictví Města nebyly
+zatíženy exekucí, Služebnosti (S výjimkou Služebnosti zřízených ve prospěch Města a jednotlivých
+vlastníků, správců a provozovatelů inženýrských sítí), dále aby nebyly zatíženy zástavním právem,
+předkupním právem či jinými právy třetích osob.
+
+9.7.  Smluvní Strany shodně prohlašují, že výše uvedené stavební objekty veřejné infrastruktury
+budou sloužit obecnému užívání. Je proto ve veřejném zájmu, aby tyto mohli být užívány občany
+obvyklým způsobem. Smluvní strany se výslovně dohodly, že V souvislosti S výstavbou, převodem a
+Správou jednotlivých stavebních objektů veřejné infrastruktury, a dalšími činnostmi S těmito
+souvisejícími, které jsou předpokládány touto smlouvou či zvyklostmi, nebude Stavebníkovi a ani
+jeho právním nástupcům náležet jakákoliv úplata, náhrada nákladů či jakékoliv jiné plnění, vyjma
+plnění předpokládaných touto Smlouvou, a Stavebník se tímto jakýchkoliv takovýchto nároků, kdyby
+v budoucnu i přes toto ujednání vznikly, předem vzdává.
+
+9.8.   Smluvní strany souhlasí ve smyslu ustanovení § 26 zákona č. 234/2004 Sb., o dani z přidané
+hodnoty, ve znění pozdějších předpisů, že faktury mohou být vystavovány i v elektronické podobě.
+
+
+                                   vr
+                        10.    Dalsı práva a povinností smluvních stran
+
+10.1.  Stavebník zajistí zpracování veškeré stavebně technické dokumentace potřebné pro výše
+uvedený Stavební záměr, stejně jako vydání veškerých povolení a rozhodnutí příslušných orgánů
+potřebných k provedení výstavby. Výstavbu je Stavebník povinen provádět v souladu s vydanými
+rozhodnutími a obecně závaznými právními předpisy upravujícími provádění výstavby.
+
+
+                                                  ll
+
+
+
+                                                                                                       Strana 15 / 48
+10.2. Stavebník se zavazuje infoımovat Město o průběhu provádění výstavby a předkládat Městu
+vydaná rozhodnutí týkající se výstavby nejpozději do 30 dní od vydání rozhodnutí a na vyžádání
+poskytnout Městu zprávy o průběhu výstavby kdykoliv. Stavebník bude doručovat veškerá
+oznámení, informace a rozhodnutí na adresu Magistrát města Brna, Odbor investiční, Kounicova 67a,
+601 67 Brno.
+
+10.3. Vpřípadě, že dojde ke změně rozsahu Stavebního záměru a tyto změny budou schválené
+příslušnými útvary Města a jednotlivými Správci a provozovateli budované veřejné infrastruktury,
+uzavřou smluvní Strany dodatek k této smlouvě. Vždy však platí, že výstavbu předmětné
+infrastruktury zajišťuje výlučně Stavebník.
+
+
+10.4.   Město poskytne potřebnou možnou součinnost Stavebníkovi ve správních řízeních
+v Souvislosti S výstavbou Stavebního záměru dle této Smlouvy. Stavebník bere na vědomí, že Město
+nijak nemůže odpovídat za Stanovisko městských částí ke Stavebnímu záměru, a za obsah vyjádření,
+stanovisek či závazných stanovisek, pokud je vydává či se k nim vyjadřuje některý orgán státní
+                                                                                '
+
+
+
+
+Správy.
+
+10.5.     Po převedení veřejné infrastruktury, dle Čl. 9. této Smlouvy, se Město zavazuje zajistit její
+provozování, správu a údržbu příslušným provozovatelem či správcem.
+
+10.6.  Stavebník je oprávněn postoupit práva azávazky ztéto smlouvy na třetí osobu pouze
+s předchozím písemným souhlasem Města. Stavebník se zavazuje oznámit Městu Svůj případný
+záměr převést svá práva apovinností vyplývající pro ně zúzemního rozhodnutí či Stavebního
+povolení na jinou osobu. Nesplní-li Stavebník tento závazek a třetí osoba se nestane oprávněnou
+zpráv apovinností vztahujících se ke Stavebníkovi dle této Smlouvy, platí, že Stavebník nese
+odpovědnost za jednání třetí osoby mající dopad na splnění povinností Stavebníka Z této smlouvy.
+
+10.7.   Stavebník se zavazuje provést nezbytná opatření na pozemcích dotčených výstavbou
+Stavebního záměru zabraňující ohrožení veřejných zájmů. Pro účely této smlouvy se nezbytným
+opatřením zabraňujícím ohrožení veřejných zájmů rozumí zejména umožnění vjezdu zdravotnických
+vozidel, vozidel hasičů apod.
+
+10.8.  Stavebník se zavazuje, že Stavebním záměrem nedojde ke znečištění povrchových i
+podzemních vod a že Stavební odpad z místa vzniku bezodkladně odstraňován tak, aby nedocházelo
+k nepříznivému a nepřiměřenému estetickému či hygienickému dopadu na životní prostředí. Při
+provádění stavebních prací bude dbáno na to, aby negativní vlivy na přilehlé okolí, zejména dočasná
+hlučnost a prašnost, byly minimalizovány a Stavebník odpovídá za veškerou újmu vzniklou při
+provádění výstavby.
+
+
+
+                                     11.Veřejné prostranství
+   Budoucí zřízení služebnosti užívání veřejného prostranství a služebnosti jako veřejného
+                                                 statku
+
+11.1.   V rámci Stavebního záměru bude realizována výstavba stavebních objektů SO 108.0 Vjezdy
+a SO 802.0 Sadové úpravy. Jedná se O plochu, která bude mít charakter veřejného prostranství.
+Stavební objekt SO 108.0 Vjezdy bude realizován na pozemcích p. č. 2147/155, 2150/8, 2151/14,
+3795/2 vše vk. ú. Žebětín (pozemky Stavebníka); na pozemku p. č. 3795/1 v k. ú. Žebětín (pozemek
+soukromé osoby). Část Stavebního objektu SO 802.0 Sadové úpravy nad podzemními garážemi bude
+
+
+                                                   12
+
+
+
+
+                                                                                                          Strana 16 / 48
+volně přístupná. Tato část SO 802.0 Sadové úpravy bude realizována na pozemcích p. č. 217/134,
+2147/ 125, 2147/201, 2147/208, 2147/211, 2172/40 vše V k. ú. Zebětín (pozemky Stavebníka).
+
+11.2.   Smluvní strany Souhlasně prohlašují, že dle    DÚR  Vznikne V rámci stavebních objektů SO
+108.0 Vjezdy a části SO 802.0 Sadové úpravy veřejně přístupný prostor, který bude sloužit obecnému
+užívání, tj. veřejnému užívání, užívání širokou veřejností, předem neomezeným okruhem subjektů,
+který nebude převeden do vlastnictví Města. Tento veřejně přístupný prostor je Zakreslen ve
+výkresech č. C.4 Celkový situační výkres a č. C.5 Situační výkres Sadových úprav, které jsou součástí
+DÚR. Smluvní strany souhlasně prohlašují, že je ve veřejném zájmu, zájmu Města                 i   zájmu
+Stavebníka, aby veřejně přístupný prostor mohli užívat všichni občané obvyklým, dovoleným a
+majetek nepoškozujícím způsobem a obě smluvní strany S tímto užíváním širokou veřejností souhlasí.
+
+11.3. Město a Stavebník se touto Smlouvou zavazují uzavřít mezi sebou Smlouvu O zřízení
+služebnosti užívání veřejného prostranství a služebnosti Stezky jako veřejného statku, jejímž
+předmětem bude:
+užívání veřejně přístupných prostor vybudovaných V rámci stavebních objektů SO 108.0 Vjezdy a
+části SO 802.0 Sadové úpravy jako veřejného prostranství s tím, že po veřejně přístupných
+průchodech lze chodit a dopravovat se po nich lidskou silou, Zdržovat se na nich, a to nepřetržitě a
+bez jakéhokoliv omezení, dvacet čtyři hodin denně.
+Služebnost bude zřízena k celému pozemku nebo k jeho části dle geometrického plánu, který nechá
+zpracovat na své náklady Stavebník
+
+Služebnost veřejného statku bude ve prospěch Města zřízena bezúplatně a na dobu neurčitou.
+Smluvní strany se výslovně dohodly, že veškeré náklady na údržbu veřejně přístupných prostor
+ponese vlastník Služebných pozemků. Smluvní strany se výslovně dohodly, že V souvislosti S
+užíváním veřejně přístupných prostor nebude vlastníkovi Služebných pozemků náležet jakákoliv
+úplata, náhrada nákladů či jakékoliv jiné plnění a Stavebník se tímto jakýchkoliv takovýchto nároků,
+kdyby V budoucnu i přes toto ujednání vznikly, předem vzdává.
+
+11.4.   Smluvní strany se zavazují uzavřít Smlouvu o zřízení služebnosti veřejného statku dle Čl. 11.
+této smlouvy nejpozději do dne kolaudace Stavebního záměru nebo jeho části zahrnující některou Z
+částí veřejných prostor dle odst. 1 1 .2. této Smlouvy. Účinnost smlouvy o zřízení služebnosti veřejného
+statku bude odložena na okamžik nabytí právní moci kolaudačního rozhodnutí pro Stavební záměr či
+jeho část zahrnující veřejný prostor dle odst. 11.1. této smlouvy. Stavebník se zavazuje, že Město o
+plánované kolaudaci dopředu vyrozumí a V této souvislosti připraví návrh Smlouvy o zřízení
+služebnosti veřejného statku V souladu S Čl. 11. této Smlouvy, včetně všech nezbytných podkladů,
+které zašle Městu minimálně tři měsíce před plánovaným dnem kolaudace.
+
+
+11.5.   V případě, kdy by Z jakýchkoliv právních či faktických důvodů V době, kdy by Služebnost dle
+Čl. 11. této  Smlouvy měla být zřízena, nebylo možno volit institut služebnosti veřejného statku,
+zavazuje se Stavebník uzavřít S Městem jinou smlouvu či učinit jiné jednání, které zajistí, aby veřejně
+přístupný prostor mohly bez omezení a bezúplatně užívat všechny fyzické osoby po dobu neurčitou.
+Jestliže Služebnost veřejného statku nebude z jakéhokoliv důvodu zřízena ke dni kolaudace, zavazuje
+se Stavebník Strpět bezúplatně užívání veřejně přístupného prostoru ze stı`any veřejnosti na základě
+závazku sjednaného touto Smlouvou a stejný závazek sjednat pro své právní nástupce.
+                                                               i
+
+
+
+
+11.6.  Stavebník se zavazuje, že se V době ode dne uzavření této smlouvy do až do dne uzavření
+smlouvy o zřízení služebnosti veřejného statku zdrží jakéhokoliv jednání (právního i faktického),
+které by zmařilo či jen bylo způsobilé zmařit zřízení služebnosti veřejného statku dle Cl. 11. této
+smlouvy.
+
+
+
+                                                  13
+
+
+
+                                                                                                           Strana 17 / 48
+                                              12.     Sankce
+
+    12.1.   Pokud Stavebník poruší vlastním zaviněním svůj závazek, sjednaný V Čl. 8. odst. 8.2. této
+    smlouvy, tj. nedokončí výstavbu veřejné infrastruktury uvedené V Čl. 4. této Smlouvy ve sjednaném
+    termínu dle Čl. 8. odst. 8.2. této smlouvy, způsobem tam sjednaným a V souladu S DÚR, Městskými
+    standardy, obecně závaznými předpisy, a dle podmínek stanovených dotčenými správními orgány,
+    vlastníky, správci a provozovateli dopravní a technické infrastruktury, je povinen zaplatit Městu
+    smluvní pokutu ve Výši 100.000 Kč. Stavebník se zavazuje zaplatit Městu tuto Smluvní pokutu do 30
+    dní poté, co mu bude doručena výzva Města kjejímu uhrazení. V případě, že smluvní pokuta nebude
+    ve stanovené lhůtě zaplacena, postupuje Se podle Čl. 12. této smlouvy.
+
+
+
+    12.2. Pokud Stavebník poruší Svůj závazek, sjednaný V Čl. 9. odst. 9.1. této smlouvy, tj. neuzavře S
+    Městem řádnou kupní smlouvu o převodu stavebních objektů SO 101.a Komunikace - napojení
+    rezidence na Žebětín, SO 101 .b Komunikace - napojení rezidence na Žebětín, SO 102 Komunikace ~
+    osa 1, SO 103 Komunikace - osa 2, SO 104 Komunikace ~ osa 3, SO 105.a Chodník - napojení
+ rezidence na Žebětín, SO 105.b Chodník - napojení rezidence na Žebětín, SO 106 Chodník - osa 1,
+ SO 107 Chodník - osa 2, SO 201 Most - potok Vrbovec, SO 304.1 Odvodnění komunikace - osa 1 -
+ retenčně-vsakovací nádrž, SO 304.2 Odvodnění komunikace - osa 2 - retenčně vsakovací průlehy,
+ SO 304.3 Přípojky odvodnění komunikace, SO 802.a Sadové úpravy, SO 802.b Sadové úpravy, SO
+705 Dětské hřiště V termínu uvedeném V Čl. 9. odst. 9.1. této Smlouvy, je povinen zaplatit Městu
+smluvní pokutu ve Výši 200.000 Kč. Stavebník se zavazuje zaplatit Městu tuto smluvní pokutu do 30
+dní poté, co mu bude doručena výzva Města k jejímu uhrazení. V případě, že smluvní pokuta nebude
+ve stanovené lhůtě zaplacena, postupuje se podle Čl. 12. této smlouvy.
+
+ 12.3.  Pokud Stavebník poruší své závazky, sjednané V Čl. 9. odst. 9.2 této Smlouvy, odst. 9.3. a
+odst. 9.5 této Smlouvy, je povinen zaplatit Městu smluvní pokutu ve výši 100.000 Kč za každé takové
+porušení Své povinnosti. Stavebník se zavazuje zaplatit Městu tuto smluvní pokutu do 30 dní poté, co
+mu bude doručena výzva Města k jejímu uhrazení.
+
+12.4. Pokud Stavebník poruší Svůj závazek zajistit Správu a údržbu veřejné infrastruktury, jak je
+tento blíže popsán V Čl. 9. odst. 9.1. této Smlouvy do doby jejího převodu do Vlastnictví Města, a i
+přes písemnou výzvu Města takový stav neodstraní V dodatečné lhůtě 30 dnů, je povinen zaplatit
+Městu Smluvní pokutu ve Výši 200.000 Kč. Stavebník se zavazuje zaplatit Městu tuto Smluvní pokutu
+do 30 dní poté, co mu bude doručena výzva Města k jejímu uhrazení. Povinnost zaplatit Městu
+smluvní pokutu ve výši 200.000 Kč za porušení závazku Stavebníka zajistit Správu a údržbu Veřejné
+infrastruktury do doby jejího převodu do Vlastnictví Města při neodstranění stavu přes písemnou
+výzvu V dodatečné lhůtě 30 dnů je stanovena za každé takové porušení povinnosti, tedy opakovaně.
+V případě, že Stavebník poruší závazek zajistit správu a údržbu veřejné dopravní infrastruktury, jak
+je tento blíže popsán V Čl. 9. odst. 9.1. této Smlouvy je Město oprávněno dle Vlastní úvahy zajistit
+správu a údržbu veřejné dopravní infrastruktury, jak je tato blíže popsána V ČI. 9. odst. 9.1. této
+Smlouvy, a to na náklady a nebezpečí Stavebníka.
+
+12.5.   Pokud Stavebník po1`uší Svůj závazek zajistit provoz, správu a údržbu veřejného osvětlení, jak
+je tento blíže popsán V Čl. 9. odst. 9.2. této Smlouvy, do doby jejího převodu do vlastnictví Města, a
+i přes písemnou výzvu Města takový Stav neodstraní V dodatečné lhůtě 30 dnů, je povinen Zaplatit
+Městu smluvní pokutu ve Výši 100.000 Kč. Povinnost zaplatit Městu smluvní pokutu ve výši 100.000
+Kč za porušení závazku Stavebníka zajistit provoz, správu a údržbu veřejného osvětlení do doby jeho
+převodu do Vlastnictví Města při neodstranění stavu přes písemnou výzvu V dodatečné lhůtě 30 dnů
+
+
+
+                                                    14
+
+
+
+
+                                                                                                           Strana 18 / 48
+je stanovena za každé takové porušení povinnosti, tedy opakovaně. Současně v případě, že Stavebník
+poruší závazek zajistit provoz, Správu a údržbu veřejného osvětlení, jak je tento blíže popsán V Čl. 9.
+odst. 9.2. této Smlouvy, je Město oprávněno dle vlastní úvahy zajistit provoz, správu a údržbu
+veřejného osvětlení, jak je toto blíže popsáno V Čl. 9. odst. 9.2. této Smlouvy, a to na náklady a
+nebezpečí Stavebníka.
+
+
+
+12.6.  Vedle zaplacení smluvní pokuty sjednané V této Smlouvě, má Město právo uplatnit vůči
+Stavebníkovi také náhradu skutečné škody vzniklé Městu V důsledku porušení povinnosti stvrzené
+smluvní pokutou a Stavebník je povinen takto uplatněnou náhradu Skutečné škody na první výzvu
+Městu nahradit.
+
+12.7. Město má právo uplatnit vůči Stavebníkovi právo na náhradu skutečné škody, která Městu
+vznikla souvislosti S výstavbou veřejné infrastruktury uvedené V Cl. 4. této smlouvy, a Stavebník je
+povinen takto uplatněnou náhradu skutečné škody na první výzvu Městu nahradit.
+
+
+
+
+          13.
+                      vvrr          O         ı        r   V   vr
+                  Zajistenı zavazku stavebníka k uhrade Prıspěvku a smluvních pokut
+
+13.1.  Povinnost zaplacení Příspěvku dle této Smlouvy, dále smluvní pokuty stanovené V této
+smlouvě a případná náhrada skutečné škody vzniklá Městu V souvislosti S výstavbou veřejné
+infrastruktury uvedené V ČI. 4. této smlouvy, Se Stavebník zavazuje zajistit Zástavou až do Výše
+13.600.000,- Kč k pozemku p. č. 2148/2 o výměře 9834 mzv k. ú. Žebětín, obec Brno, okres Brno-
+město (dále jen Pozemek), a tuto udržovat po celou dobu trvání této smlouvy, resp. do doby splnění
+závazků Stavebníka vyplývajících Z této smlouvy a V případě uplatnění náhrady škody, která je krytá
+Zástavou, ze strany Města, až do úplného vypořádání takové náhrady. Přílohou č. 4 je znalecký
+posudek ceny obvyklé Pozemku.
+
+13.2. Stavebník Sjedná S Městem při podpisu této smlouvy zástavní Smlouvu k Pozemku a zřídí k
+Pozemku zákaz zcizení a zatížení jako práva věcného po dobu trvání zástavního práva k Pozemku.
+Tato zástava se zřizuje za účelem zajištění závazku Stavebníka poskytnout případné smluvní pokuty
+stanovené v této smlouvě a pro případnou náhradu újmy vzniklé Městu V souvislosti S výstavbou
+veřejné infrastruktury uvedené v Cl. 4. této smlouvy a za účelem zajištění závazku Stavebníka
+poskytnout Příspěvek Městu dle ČI. 5. odst. 5.3. této smlouvy. Návrh na vklad zástavního práva do
+katastru nemovitostí podá Stavebník nejpozději do 5-ti dnů od podpisu zástavní smlouvy oběma
+smluvními stranami.
+Stavebník se zavazuje doložit Městu výpisem z listu vlastnictví k Pozemku vklad zástavního práva,
+zákazu zcizení a zatížení do příslušného katastru nemovitostí nejpozději do 10 dnů od zápisu vkladu.
+
+
+13.3. Město je povinno před realizací zástavy nejdříve písemně upozornit Stavebníka na porušení
+povinnosti vyplývající z této smlouvy S uvedením konkrétního ustanovení, které mělo být porušeno
+a vyzvat Stavebníka ke zj ednání nápravy, příp. zaplacení smluvní pokuty, a upozornit Stavebníka na
+realizaci zástavy, pokud nebude zjednána náprava či zaplacena smluvní pokuta. Město je oprávněno
+k realizaci zástavy, pokud Stavebník nezjedná nápravu ani v dodatečně stanovené lhůtě od obdržení
+upozornění či nezaplatí smluvní pokutu ve lhůtě stanovené ve výzvě k jejímu zaplacení. O realizaci
+zástavy bude Město Stavebníka písemně informovat.
+
+
+
+
+                                                  15
+
+
+
+                                                                                                          Strana 19 / 48
+13.4. Město se zavazuje na základě písemné výzvy Stavebníka vydat Stavebníkovi kvitanci o Splnění
+závazků Z této Smlouvy nebo prohlášení o vzdání se zástavního práva včetně zákazu zcizení a zatížení
+při postupu podle Čl. 15. odst. 15.4. pro účely výmazu zástavního práva k Pozemku Z příslušného
+katastru nemovitostí, a to do 30 dní po splnění závazků Stavebníka vyplývajících z této smlouvy.
+
+
+
+  14.
+               vv
+          Zajisteııí závazku Stavebníka k úhradě nákladů za odstranění dočasných stavebních
+                                              Objektů
+
+14.1.   V případě, že bude pro plánovaný obchvat Žebětína (Projekt „Východní obchvat Žebětína    - I.
+
+etapa“) vydáno pravomocně Stavební povolení později, než bude vydáno pravomocně kolaudační
+rozhodnutí pro Stavební objekty SO 10l.a Komunikace - napojení rezidence na Žebětín, SO 105.a
+Chodník - napojení rezidence na Žebětín, SO 403.1. a    VO~ Napojení rezidence (dále jen „dočasné
+stavební objekty“) tak projekt obchvatu Žebětína počítá S tím, že se koınunikace plynule napojí na
+                    ,
+
+projektovanou větev účelové komunikace. To znamená, že dočasné Stavební objekty budou při
+plánované stavbě obchvatu Žebětína (Projekt „Východní obchvat Žebětína - I. etapa“) odstraněny.
+Náklady na odstranění dočasných stavebních objektů uhradí Stavebník Městu až do výše 3.530.426
+                                                                     K
+Kč (bez DPH), a to do 30 dnů od doručení výzvy k jejich úhradě. odstranění všech pochybností je
+ujednáno, že Město je oprávněno vyzvat Stavebníka k úhradě nákladů na odstı`anění dočasných
+stavebních objektů nejdříve po právní moci stavebního povolení pro obchvat Žebětína a zahájení
+výstavby obchvatu Žebětína, (předáním staveniště zhotoviteli Stavby) a před vydáním kolaudačního
+rozhodnutí pro dočasné Stavební objekty. Stavebník je povinen informovat Město o podání žádosti o
+zahájení kolaudačního řízení příslušnému stavebnímu úřadu. Nebude-li pravomocné Stavební
+povolení pro obchvat Žebětína vydáno am' do 10 let od podpisu této Smlouvy a ani do 10 let od
+podpisu této smlouvy nebude zahájena výstavba Obchvatu Žebětína (předáním staveniště zhotoviteli
+stavby), závazek Stavebníka k úhradě nákladů na odstranění dočasných stavebních objektů dle tohoto
+článku zaniká.
+
+14.2. Smluvní strany konstatují, že odhad nákladů na odstranění dočasných stavebních objektů činí
+ke dni uzavření této Smlouvy 3.530.426 Kč (bez DPH). Smluvní Strany se dohodly, že před odesláním
+výzvy Města Stavebníkovi k úhradě nákladů na odstı`anění dočasných stavebních objektů dle
+odSt.14.1 této smlouvy, bude výše nákladů na odstı`anění dočasných stavebních objektů upřesněna
+S ohledem na vývoj cen stavebních prací V aktuálním období. O výši aktualizovaných nákladů na
+odstranění dočasných stavebních objektů uzavřou Smluvní strany dodatek k této smlouvě.
+
+ Povinnost zaplacení nákladů na odstranění dočasných stavebních objektů dle tohoto článku se
+Stavebník zavazuje zajistit zástavou až do výše 3.530.426; Kč k pozemku p. č. 2148/2 o výměře
+9834 m2 V k. ú. Žebětín, obec Brno, okres Brno-město (dále jen Pozemek), a tuto udržovat po celou
+dobu trvání Svého závazku dle ČI. 14 odst. 14.1. této Smlouvy. Přílohou č. 4 je znalecký posudek
+ceny obvyklé Pozemku.                                            V
+
+
+
+
+14.3. Stavebník sjedná s Městem při podpisu této smlouvy zástavní smlouvu kPozemku a zřídí
+k Pozemku zákaz zcizení a zatížení jako práva věcného po dobu trvání zástavního práva k Pozemku.
+Návrh na vklad zástavního práva do katastru nemovitostí podá Stavebník nejpozději do 5-ti dnů od
+podpisu zástavní smlouvy oběma smluvními stranami.
+                                                                         A
+
+
+
+
+Stavebník se zavazuje doložit Městu výpisem Z listu vlastnictví k Pozemku vklad zástavního práva,
+zákazu zcizení a zatížení do příslušného katastru nemovitostí nejpozději do 10 dnů od zápisu vkladu.
+
+
+
+
+                                                16
+
+
+
+
+                                                                                                        Strana 20 / 48
+14.4. Město je povinno před realizací zástavy nejdříve písemně upozornit Stavebníka na porušení
+povinnosti vyplývající Z Čl. 14 odst. 14.1. této smlouvy a vyzvat Stavebníka ke zjednání nápravy a
+upozornit Stavebníka na realizaci zástavy, pokud nebude zjednána náprava. Město je oprávněno k
+realizaci zástavy, pokud Stavebník nezjedná nápravu ani V dodatečně stanovené lhůtě od obdržení
+upozornění. O realizaci zástavy bude Město Stavebníka písemně infonnovat.
+
+
+14.5. Město se zavazuje na základě písemné výzvy Stavebníka vydat Stavebníkovi kvitanci O splnění
+závazků Z této smlouvy nebo prohlášení O vzdání Se zástavního práva včetně zákazu zcizení a zatížení
+při postupu podle Čl. 15. odst. 15.4. pro účely výmazu zástavního práva k Pozemku Z příslušného
+katastru nemovitostí, a to do 30 dní po Splnění závazků Stavebníka vyplývajících Z této Smlouvy.
+
+
+
+                                    15.   Závěrečná ustanovení
+
+
+15.1.  Tato smlouva je uzavřena podle ustanovení § l746 odst. 2 zákona č. 89/2012 Sb., občanský
+zákoník, ve znění pozdějších předpisů a ve smyslu ust. § 86 odst. 2 písm. d) zákona č. 183/2006 Sb.,
+o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů) a v souladu
+se „Zásadami pro spolupráci s investory na rozvoji veřejné infrastruktury statutárního města Brna“,
+schválenými na Z8/25. zasedání Zastupitelstva města Brna dne 23. 3. 2021 .Stavebník prohlašuje, že
+se seznámil S textem „Zásad pro spolupráci s investory na rozvoji veřejné infrastruktury Statutárního
+města Brna“ a souhlasí s tím, že postupy a plnění dle této smlouvy jsou podřízena těınto zásadám.
+
+15.2.   Ke změně této smlouvy může dojít pouze na základě písemné dohody smluvních stran formou
+písemných dodatků.
+
+15.3.   Město je oprávněno od této smlouvy odstoupit, pokud Stavebník nezahájí výstavbu
+Stavebního záměru ve lhůtě sjednané V Čl. 8. odst. 8.1 této Smlouvy. Město je oprávněno odstoupit
+od této smlouvy, pokud Stavebník nedokončí výstavbu Stavebního záměru ve lhůtě sjednané v Čl. 8.
+odst. 8.2. této smlouvy a nezjednají nápravu ani na písemnou výzvu Města V náhradní lhůtě.
+Povinnost' Stavebníka hradit Smluvní pokuty sjednané V této Smlouvě a vzniklou újmu není
+odstoupením Města od této smlouvy dotčena.
+
+15.4.  Stavebník je oprávněn odstoupit od této sınlouvy, pokud se rozhodne nerealizovat Stavební
+záměr a dosud nebylo vydáno pravomocné Stavební povolení a bylo~li již vydáno územní rozhodnutí
+bude Stavebníkem sděleno příslušnému stavebnímu úřadu upuštění od záměru.
+
+15.5.   V případě, že některé ustanovení této smlouvy je nebo se stane neplatným a/nebo neúčinným,
+zůstávají Ostatní ustanovení tétosmlouvy platná a účinná. Smluvní Strany se zavazují nahradit
+neplatné a/nebo neúčinné ustanovení této smlouvy ustanovením jiným, platným a účinným, které
+svým obsahem a smyslem nejlépe odpovídá obsahu a smyslu ustanovení původního, neplatného
+a/nebo neúčinného.
+
+15.6.   Smluvní Strany prohlašují, že tato smlouva byla uzavřena po vzájemném projednání podle
+jejich pravé a svobodné vůle, nikoliv V tísni nebo za nápadně nevýhodných podınínek.
+
+
+15.7.   Tato smlouva je uzavřena a nabývá platnosti dnem podpisu té Smluvní Strany, která podepíše
+tuto sınlouvu jako druhá.
+
+
+
+
+                                                 17
+
+
+
+                                                                                                        Strana 21 / 48
+15.8. Smluvní strany se dohodly, že tuto Smlouvu uveřejní prostřednictvím registru smluv dle
+Zákona č. 340/2015 Sb., o zvláštních podmínkách účinnosti některých smluv, uveřejňování těchto
+smluv a O registru smluv (zákon o registru smluv). Smlouva nabývá účinnosti dnem uveřejnění v
+registıu smluv. Smluvní strany se dohodly, že smlouva rovněž nenabude účinnosti dříve, než bude
+proveden zápis vkladu zástavního práva, zákazu zcizení a zatížení dle Čl. 13 a ČI. 14 Smlouvy do
+katastru nemovitostí. Smluvní strany se dohodly, že smlouvu zašle k uveřejnění V registru smluv
+Město.
+
+15.9. Stavebník prohlašuje, že údaje uvedené v této smlouvě nejsou předmětem jeho obchodního
+tajemství. Stavebník prohlašuje, že údaje uvedené v této smlouvě nejsou informacemi požívajícími
+ochrany důvěrnosti majetkových poměrů.
+
+15.10. Stavebník bere na vědomí, že Město je povinným subjektem dle zákona č. 106/1999 Sb.,
+o svobodném přístupu k informacím, ve znění pozdějších předpisů a souhlasí                                                                                                                                                           S případným
+poskytnutím smlouvy včetně příloh žadateli dle tohoto zákona.
+
+15.11. Smlouva je vyhotovena ve třech stejnopisech, každý Stejnopis má platnost originálu.
+Stavebník obdrží jeden stejnopis, Město obdrží dva stejnopisy.
+
+Přílohy Smlouvy tvoří:
+
+Přﬂøhﬂ č. 1; DÚR
+Příloha č. 2: Odsouhlasená situace převzetí Odborem dopravy                  a společností Brněnské                                             MMB
+komunikace a.s. ze dne 30. 9. 2021
+Příloha č. 3: Odsouhlasená Situace převzetí Odborem dopravy                  a společností Brněnské                                             MMB
+komunikace a.s. ze dne 17. 2. 2022
+Příloha č. 4: Znalecký posudek ceny obvyklé pozemku p. č. 2148/2 k. ú. Žebětín, číslo 1469-14/2022
+ze dne 28. 2. 2022
+Příloha č. 5: Výpis z listu vlastnictví č. 3219 S vyznačením zástavního práva
+
+Doložka dle ust. § 41 zákona č. 128/2000 Sb., O obcích (obecní Zřízení), ve znění pozdějších předpisů:
+Tato smlouva byla schválena Zastupitelstvem města Brna na zasedání Z8/37 konaném
+dne 5. 4. 2022.
+
+Statutární město Brno                                                       Coloníco, a.s.
+
+
+V Brně dne                                           ....... ..             V Brně dne
+
+
+         ..
+
+                         Ing. Tomáš Pivec                                                                                           Ing. Igor Fait
+              vedoucí Odboru investičního                                                       předseda představenstva
+
+              s'r.'~\Tı_ı“ť,“'..ˇ›.;›.í   Iv'ﬂ_;-5:;0
+               D/ıAeıs“r*=_Aˇ.f .vıEı5,Í*`.                 BR“
+                                                            BF~_É~\0
+
+                            Odborirıvestıüﬁl
+                              1“'_Oúi`.ic';ﬂ\'=”.   57
+                              60157         -_~`$í-§;ìl'3                       . . n   .   .   .   n   ‹   n   n   n   n   n   n   .   ø n .   .   .   - - n n n n n   n   n   n   n . n . . n n .   .   . n .   .   .   . -   nn
+                                     J303-
+                                                                                                                In .Libor Šparlinek
+                                                                                                                ˇ
+                                                                                                                            en představenstva
+
+                                                                       18
+
+
+
+
+                                                                                                                                                                                                                                                   Strana 22 / 48
+Strana 23 / 48
+Strana 24 / 48
+Strana 25 / 48
+                                                                    Č. Sxnıønvy 5622171862
+
+
+                            Zástavní smlouva k nemovité věci
+
+                uzavřená v souladu S ust. § 1309 a násl. občanského zákoníku
+                             mezi těmito smluvními stranami:
+
+
+1.      statutární xnčsıø Bvnø, IČ 449 92 785
+       se sídlem Brno, Dominikánské náměstí 196/1, PSČ 602 00
+       zastoupené .IU Dr. Markétou Vaňkovou, primátorkou města Brna
+       pověřen k podpisu smlouvy: Ing. Tomáš Pivec, vedoucí Odboru investičního
+       Magistrátu města Brna
+       dále jen zástavní věřitel
+
+
+
+2.     cøıøniøø, 3.5., IČ 277 OO 631
+       se sídlem Hlinky 49/126, Pisárky 603 00 Brno
+       společnost zapsaná V obchodním rejstříku vedeném u Krajského soudu V Brně pod sp.
+       zn.   B 4710
+       zastoupená     Ing. Igorem F aitem, předsedou představenstva a
+                      Ing. Liborem Šparlinkem, členem představenstva
+       dále jen Zástavce
+
+
+                                             I.
+
+                        p
+                                          Zástava
+
+        Zástavce je výlučným vlastníkem nemovité věci, a to pozemku p.ě. 2148/2 - trvalý
+travní porost O výměře 9834 m2 V k.ú. Zebětín, obec Brno, okres Bmo - město, Zapsaného na
+LV ě. 3219 vedeném u Katastrálního úřadu pro~Jihomoravský kraj, Katastrálního pracoviště
+Brno - město pro k.ú. Zebětín, obec Brno (dále jen Nemovitá věc).
+
+
+                                             II.
+                                Zajišťované budoucí dluhy
+
+       Zástavní věřitel a Zástavce shodně prohlašují, že sjednali Smlouvu O spolupráci při
+výstavbě veřejné infrastruktury „Rezidence Pod Lesem, Brno - Žebětín“, č. smlouvy
+ 5622171861 (dále jen Smlouva O výstavbě). Zástavce hodlá realizovat stavební záměr pod
+názvem „Rezidence Pod Lesem, Bmo - Žebětín“ (dále jen Stavební Záměr). Předmětem
+ Stavebního záměru je výstavba bytových domů, řadových rodinných domů, komunikace
+a inženýrských sítí pro nově navržený obytný soubor v katastrálním území Žebětín. Stavební
+záměr řeší Novostavbu obytného souboru třiceti sedmi (3 7) řadových rodinných domů a sedmi
+(7) bytových domů včetně komunikací a inženýrských sítí v Brně - Žebětíně. Bytové domy
+budou mít společnou podzemní podnož, ve které budou podzemní garáže a technické vybavení
+jednotlivých bytových domů. Pod bytovými domy budou parkovací místa včetně vyhrazených
+parkovacích stání pro osoby ZTP. Na venkovních komunikacích budou parkovací stání včetně
+                                                   V
+vyhrazených parkovacích stání pro osoby se ZTP. rámci technické a dopravní infrastruktury
+je navrženo dopravní napojení lokality, komunikace a zpevněné plochy. Z technické
+infrastruktury jsou navrženy rozvody vodovodu, dešťové a splaškové kanalizace, plynovodu,
+NN, SEK, veřejného a areálového osvětlení. Území se nachází na hranici Městských částí Brna-
+Žebětín a Brna-Bystrc. Lokalita je vymezena Z jižní strany potokem Vrbovcem, ze západní
+
+                                             1
+
+
+
+
+                                                                                               Strana 26 / 48
+strany stávající příjezdovou komunikací, ze severní strany výrazným terénním zlomem
+zakončeným sídelním útvarem Kamechy a Z východní Strany stávajícím jezdeckým a
+chovatelským areálem Eliot. Dopravní napojení této lokality je na stávající komunikaci V ulici
+Hostislavova.  V případě, že bude plánovaný obchvat Žebětína (Projekt „Východní obchvat
+Žebětína I. etapa“) realizován dříve než tato stavba, tak projekt počítá S tím, že se komunikace
+          -
+
+plynule napojí na proj ektovanou větev účelové komunikace, to znamená, že nebude vybudován
+stavební objekt SO 101 Komunikace - napojení areálu na Žebětín a SO 105 Chodník - napojení
+areálu na Žebětín (oSa_0). Dle obecně závazné vyhlášky statutárního města         Bma  č. 20/2001,
+
+kterou se vydává Statut města Brna, ve znění obecně závazných vyhlášek statutárního města
+Brna, se jedná o stavbu V celoměstském zájmu. Smluvní strany se dohodly na zajištění
+následujících budoucích dluhů:
+      1. Zástavní věřitel a zástavce se ve Smlouvě O výstavbě dohodli, že zástavce poskytne
+
+zástavnímu věřiteli ﬁnanční příspěvek ve výši Kč l2.879.200,- (slovy: dvanáct miliónů osm set
+sedmdesát devět tisíc dvě stě korun českých) (dále jen Příspěvek), který může být Městem
+použit na vybudování veřejné infrastruktury V oblasti občanské vybavenosti. Zástavce se
+rovněž zavázal k úhradě sankcí dle čl. 12 Smlouvy o výstavbě (dále jen Sankce).          K  zajištění
+budoucí peněžité pohledávky zástavního věřitele, vůči zástavci na úhradu Příspěvku a
+kzajištění dalších budoucích oprávněných pohledávek zástavního věřitele vyplývajících ze
+Sankcí a náhrady škody dle Smlouvy o výstavbě až do výše Kč 13.600.000,- (slovy: třináct
+milionů šest set tisíc korun českých), které budou vznikat ode dne platnosti této smlouvy do 11
+let od nabytí právní moci rozhodnutí příslušného stavebního úřadu umožňujícího výstavbu
+každého jednotlivého objektu dopravní a technické infrastruktury uvedené V čl. 4 Smlouvy o
+výstavbě, zřizuje zástavce zástavu k nemovité věci tak, jak níže uvedeno.
+       2. Zástavní věřitel a zástavce se ve Smlouvě o výstavbě dohodli, že zástavce uhradí
+zástavnímu věřiteli náklady na odstranění dočasných staveb dle Čl. 14 Smlouvy o výstavbě až
+do výše Kč 3.530.426,- (slovy: tři miliony pět Set třicet tisíc čtyři sta dvacet šest korun českých)
+(dále jen Náklady na odstranění staveb).     K    zajištění budoucí peněžité pohledávky zástavního
+věřitele vůči zástavci na úhradu Nákladů na odstranění staveb až do výše Kč 3.530.426,- (slovy:
+tři miliony pět set třicet tisíc čtyři sta dvacet šest korun českých), které budou vznikat ode dne
+
+platnosti této smlouvy do 10 let od podpisu Smlouvy o výstavbě ze dne                         zřizuje
+zástavce zástavu k nemovité věci tak, jak níže uvedeno.
+
+                                                 III.
+                                    Zřízení Zástavníłıo práva
+
+       K zajištění shora uvedených budoucích peněžitých pohledávek zástavního věřitele na
+úhradu Příspěvku a k zajištění dalších budoucích oprávněných pohledávek zástavního věřitele
+vyplývajících ze Sankcí, náhrady škody a Nákladů na odstranění staveb dle Smlouvy o
+výstavbě, vše blíže popsané v čl. II této smlouvy, zřizuje zástavce zástavní právo ve prospěch
+zástavního věřitele k nemovité věci uvedené v čl. I této smlouvy, kterou vlastní, tj. dává zástavu
+zástavnímu věřiteli do zástavy. Zástavní věřitel toto zástavní právo k zástavě v uvedeném
+rozsahu přijímá.
+
+                                                 IV.
+                                     Zákaz zcizení a zatížení
+                                                              V
+                                právo zákazu zcizení a Zatízení jako práva věcného k nemovité
+        1. Zástavce tímto zřizuje
+
+věci uvedené v čl. I. této smlouvy ve prospěch zástavního věřitele a zástavní věřitel takto
+zřízené právo zákazu zcizení a zatížení přijímá. Zákaz zcizení a zatížení se zřizuje na dobu do
+úhrady shora uvedených pohledávek.
+
+                                                  2
+
+
+
+
+                                                                                                        Strana 27 / 48
+       2. Zástavce souhlasí S tím, že zástavu, až do zániku zástavního práva dle této smlouvy
+nepřevede, nepostoupí, nezcizí, ani jinak neumožní nabytí jakéhokoliv věcného práva k ní, ani
+jí neposkytne jako jistotu ve prospěch osoby rozdílné od zástavního věřitele či k zástavě nezřídí
+
+jakékoliv zatížení, S výjimkou případných dalších zatížení ve prospěch zástavního věřitele, aniž
+by k tomu získal předchozí písemný souhlas zástavního věřitele.
+       3. Zástavní věřitel tímto dává předchozí písemný souhlas se zřízením věcných břemen
+ve prospěch třetích osob zřizovaných Z důvodu vybudované nebo V budoucnu budované
+                                    Vľ
+technické infrastruktury (tj. předevsım inženýrských sítí).
+
+
+                                               V.
+                                       Prohlášení Zástavce
+
+        l. Zástavce prohlašuje, že   mu není známo, že by na zástavě vázla zástavní práva, věcná
+břemena či Služebnosti, předkupní práva nebo věcná či závazková práva zřízená ve prospěch
+třetích osob. Zástavce dále prohlašuje, že dosud zástavu na nikoho nepřevedl a že ohledně
+zástavy není uzavřena nájemní smlouva.
+        2. Zástavce prohlašuje, že není V prodlení S úhradou jakýchkoli daní, plateb pojistného
+na sociální nebo zdravotní pojištění, cel, poplatků nebo jiných plateb obdobného charakteru,
+které je povinen hradit na základě platných právních předpisů. Zástavce dále prohlašuje, že není
+V úpadku a že mu není známo, že by vůči němu byl podán návrh na zahájení insolvenčního
+řízení či exekučního řízení.
+       3. Zástavce se zavazuje, že se o zástavu bude starat S péčí řádného hospodáře, že se zdrží
+všeho, co by bylo způsobilé ohrozit nebo poškodit práva zástavního věřitele k zástavě nebo
+snížit hodnotu zástavy na újmu zástavního věřitele.
+
+
+                                                VI.
+                                     Zánik zástavního práva
+
+       l. Smluvní strany berou na vědomí, že zástavní právo zanikne Způsoby uvedenými V ust.
+§ 1376 a násl.  občanského zákoníku, Zejména zánikem zajištěného dluhu, složením ceny
+zástavy zástavnímu věřiteli nebo zánikem zástavy. Zástavní právo dle čl. 2 odst. 2 zaniká,
+nebude-li pravomocné stavební povolení pro obchvat Žebětína vydáno ani do 10 let od podpisu
+Smlouvy o výstavbě a ani do 10 let od podpisu Smlouvy o výstavbě nebude zahájena výstavba
+obchvatu Žebětína zápisem do stavebního deníku.
+       2. Zástavní věřitel se zavazuje vydat po zániku zástavního práva podle této zástavní
+ smlouvy k nemovité věci zástavci písemné potvrzení o tom, že zástavní právo zaniklo, a to
+ neprodleně po jeho zániku, nejpozději však do 30 dnů od zániku zástavního práva. Návrh na
+ výmaz zástavního práva z katastru nemovitostí po zániku zástavního práva podá Zástavce a
+ nese náklady s tím Spojené.
+       3. Nevydá-li zástavní věřitel písemné potvrzení o zániku zástavního práva ani do 30 dnů
+po výzvě Zástavce, je povinen uhradit zástavci náhradu vzniklé škody za porušení uvedeného
+ustanovení smlouvy.
+
+                                               VII.
+                                         Ostatní ujednání
+
+       1. Smlouva podléhá vkladu do katastru nemovitostí. Smluvní strany berou na vědomí,
+že do této doby jsou Svými projevy vázány.
+
+
+
+                                                 3
+
+
+
+
+                                                                                                    Strana 28 / 48
+        2. Poplatek za vklad do katastru nemovitostí hradí zástavce. Návrh na vklad zástavního
+ práva do katastru nemovitostí podá zástavce nejpozději do 5-ti dnů od podpisu této smlouvy
+ oběma smluvními stranami.
+        3. V případě, že příslušný katastrální úřad V řízení O povolení vkladu zástavního práva
+ na základě této smlouvy vyzve účastníky k opravě či doplnění návrhu na vklad, smluvní strany
+ se zavazují poskytnout si navzájem součinnost potřebnou k odstranění případných vad či
+ nedostatků podaného návrhu tak, aby byl vklad zástavního práva do katastru nemovitostí
+ povolen.
+        4. Pokud by tato smlouva pro nesprávnost, nejasnost nebo formální nedostatek byla
+ shledána příslušným katastrálním úřadem za nezpůsobilý podklad pro vklad zástavního práva
+ k nemovité věci do příslušného katastru nemovitostí, uzavřou smluvní strany této smlouvy do
+ deseti dnů ode dne doručení rozhodnutí příslušného katastrálního úřadu o zamítnutí návrhu na
+ vklad zástavního práva do katastru nemovitostí novou zástavní Smlouvu ve znění, ve kterém
+ budou odstraněny namítané nesprávnosti, nepřesnosti nebo skutečnosti, které způsobily, že na
+ základě této smlouvy nedošlo ke vkladu zástavního práva do katastru nemovitostí. Tento
+ článek je plně oddělitelný od ostatních ustanovení této smlouvy.
+        5. V případě, že kterékoliv ustanovení této zástavní smlouvy k nemovité věci bude
+ neplatné, nezákonné či nevynutitelné, Ostatní ustanovení nadále zůstanou platná a vynutitelná.
+ Strany se tímto zavazují, že takovéto neplatné, nezákonné či nevynutitelné ustanovení nahradí
+ ustanovením platným či vynutitelným nebo alespoň ustanovením s obdobným obchodním
+ nebo právním smyslem.
+
+                                             VIII.
+                                     Závěrečná ujednání
+ “
+
+
+
+
+        1.   Tato smlouva je vyhotovena ve třech stejnopisech, které všechny mají povahu
+originálu, z nichž jedno vyhotovení bude připojeno k návrhu na vklad vlastnického práva do
+katastru nemovitostí a po jednom vyhotovení obdrží každá Smluvní strana.
+        2. V případě postoupení či přechodu pohledávky zajištěné zástavním právem dle této
+smlouvy   na jiný subjekt, vstupuje nový věřitel do všech práv a povinností zástavního věřitele.
+V případě převodu či přechodu vlastnického práva k nemovité věci uvedené v čl. I. této smlouvy
+vstupuje nabyvatel nemovité věci do všech práv a povinností, které má zástavce na základě této
+smlouvy.
+        3. Tato smlouva nabývá platnosti dnem jejího podpisu poslední smluvní stranou.
+Smluvní strany výslovně potvrzují, že tato smlouva je výsledkem jejich jednání a každá ze stran
+měla příležitost ovlivnit její základní podmínky.
+        4. Není-li V této smlouvě stanoveno jinak, řídí se zástavní smlouva ustanoveními
+zák. č. 89/2012 Sb. občanským zákoníkem.
+        5. Tuto smlouvu lze měnit nebo doplňovat pouze písemnými dodatky, podepsanými
+statutárními orgány smluvních stran,'nebo jejich oprávněnými zástupci na základě zvláštní plné
+moci.
+        6. Smluvní strany prohlašují, že si tuto smlouvu důkladně přečetly, souhlasí S jejím
+obsahem a jsou si vědomy povinností jim Z této smlouvy plynoucích. Dále prohlašují, že tato
+smlouva zachycuje jejich skutečnou, svobodnou a vážnou vůli, že byla uzavřena nikoliv v tísni
+ani za nápadně nevýhodných podmínek a na důkaz toho připojuji své podpisy.
+
+
+Doložka dle ust. § 41 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších
+předpisů:
+Tato smlouva byla schválena Zastupitelstvem města Brna na zasedání Z8/37 konaném
+dne 5. 4. 2022.
+
+                                               4
+
+
+
+
+                                                                                                   Strana 29 / 48
+VBrně dne                                                  VBrně dne
+                                                                         /7.    202 2
+
+
+
+
+           Statutární město Brno                                           Colonico a.S.
+             Ing. Tomáš Pivec                                Ing. Igor Fait, předsed představenstva
+    Vedoucí Odboru investičního                              Ing. Libor Šparlinek, len představenstva
+      Magistrátu města Brna                                               Zástavce
+                                      VV
+            zástavní Veritel
+
+
+     STATı_ıTÁı=\;`ıı'           MĚSTO BRNO
+     ;“_×š.L\čšı“øˇT“f›.A`r      .\v=#:ÉÉsTz-`x   Bmxıšx
+                Oﬁbrır i.'x\.‹'fás“'[íční
+                  íÍo‹.šnž-t:'_›“,':„
+                                           ""
+                                           0„
+
+
+                  301 2"/ ng' Í?
+                                  '
+                         "_ı
+                           .'ﬂ
+
+
+
+
+                                                                                                        Strana 30 / 48
+Strana 31 / 48
+Strana 32 / 48
+                                                           Č. dodatku: 5622171861/2
+
+                                       Dodatek č. 2
+                 ke Smlouvě o spolupráci při výstavbě veřejné infrastruktury
+                           „Rezidence Pod Lesem, Brno – Žebětín“
+
+
+                                     1.     Smluvní strany
+
+1.1. Statutární město Brno
+se sídlem Dominikánské náměstí 196/1, Brno-město, 602 00 Brno
+IČO: 449 92 785
+zastoupené JUDr. Markétou Vaňkovou, primátorkou města Brna
+pověřen k podpisu dodatku č. 2 Ing. Tomáš Pivec, MBA, vedoucí Odboru investičního Magistrátu
+města Brna
+(dále také jako Město)
+
+1.2. EMBRA Hold, s.r.o.
+se sídlem č.p. 184, 664 31 Česká
+IČO 277 22 571
+DIČ: CZ27722571
+společnost zapsaná v obchodním rejstříku u Krajského soudu v Brně, oddíl C, vložka 54561
+zastoupená Ing. Milanem Pangrácem, jednatelem společnosti
+(dále také jako Stavebník)
+
+Smluvní strany 1.1. a 1.2. dále společně jako Smluvní strany.
+
+                                   2.     Úvodní ustanovení
+
+2.1. Dne 14. 4. 2022 uzavřely Město a společnost Colonico, a.s. se sídlem Hlinky 49/126, Pisárky
+603 00 Brno, IČO: 277 00 631, jako Stavebník Smlouvu o spolupráci při výstavbě veřejné
+infrastruktury „Rezidence Pod Lesem, Brno – Žebětín“ č. 5622171861 (dále jen Smlouva), jejímž
+předmětem je úprava práv a povinností smluvních stran v rámci přípravy a realizace veřejné
+infrastruktury budované v rámci stavebního záměru „Rezidence Pod Lesem, Brno – Žebětín“ (dále
+jen Stavební záměr) a dohoda smluvních stran o poskytnutí investičního příspěvku v souladu s
+dokumentem Zásady pro spolupráci s investory na rozvoji veřejné infrastruktury statutárního města
+Brna, schváleném Zastupitelstvem města Brna usnesením č. Z8/025 ze dne 23. 3. 2021 (dále jen
+Zásady).
+Pro Stavební záměr bylo vydáno územní rozhodnutí pod č.j. MCZEB 00497/2023/Bur dne 30. 1.
+2023, které nabylo právní moci dne 25. 3. 2023.
+
+2.2. Město a společnost Colonico, a.s. dále mezi sebou uzavřely, v souladu s ust. Čl. 13 Smlouvy,
+dne 14. 4. 2022 Zástavní smlouvu k nemovité věci č. 5622171862 (dále jen Zástavní smlouva). Vklad
+zástavního práva k nemovitým věcem dle této Zástavní smlouvy byl do katastru nemovitostí vedeném
+Katastrálním úřadem pro Jihomoravský kraj, Katastrální pracoviště Brno-město proveden dne 17. 5.
+2022 s právními účinky ke dni 25. 4. 2022.
+
+
+                                                1
+
+
+                                                                                              Strana 33 / 48
+Vzhledem ke skutečnosti, že společnost Colonico, a.s., IČ 277 00 631 uvedená ve Smlouvě jako
+stavebník zanikla fúzí sloučením se společností EMBRA Hold, s.r.o., IČ 277 22 571, se sídlem Česká
+č.p. 184, PSČ 664 31, na kterou přešlo na základě fúze sloučením jmění zanikající společnosti
+Colonico, a.s., IČ 277 00 63, změnila se osoba stavebníka.
+Na základě změny osoby stavebníka Město a společnost EMBRA Hold, s.r.o. uzavřely dne 18. 9.
+2024 Dodatek č. 1 ke Smlouvě o spolupráci při výstavbě veřejné infrastruktury „Rezidence Pod
+Lesem, Brno – Žebětín“ č. 5622171861/1 a dne 18. 9. 2024 Dodatek č. 1 k Zástavní smlouvě k
+nemovité věci č. 5622171862/1.
+
+                                  3.      Předmět dodatku č. 2
+
+3.1.   V článku 5. Investiční příspěvek se mění odstavec 5.7., který nově zní:
+
+
+5.7. Pokud Stavebník poruší závazek, sjednaný v odst. 5.3. této smlouvy, tj. řádně a včas nezaplatí
+celý Příspěvek Městu, je povinen zaplatit Městu smluvní pokutu ve výši 0,1 % z dlužné částky
+Příspěvku za každý i započatý den prodlení se zaplacením Příspěvku.
+
+3.2. V článku 13. Zajištění závazků stavebníka k úhradě Příspěvku a smluvních pokut se mění
+odstavce 13.1. a 13.2., které nově zní:
+
+
+13.1. Smluvní pokuty stanovené v této smlouvě a případná náhrada skutečné škody vzniklá Městu v
+souvislosti s výstavbou veřejné infrastruktury uvedené v Čl. 4. této smlouvy, se Stavebník zavazuje
+zajistit zástavou až do výše 720.800 Kč k id. 1/7 pozemku p. č. 1035/79 – orná půda o výměře 20.961
+m2 v k. ú. Ivanovice, obec Brno, okres Brno-město (dále jen Pozemek), a tuto udržovat po celou dobu
+trvání této smlouvy, resp. do doby splnění závazků Stavebníka vyplývajících z této smlouvy a v
+případě uplatnění náhrady škody, která je krytá zástavou, ze strany Města, až do úplného vypořádání
+takové náhrady. Cena obvyklá Pozemku byla stanovena dle znaleckého posudku číslo položky:
+079723/2024, vyhotoveného znalcem Ing. Janem Kontou dne 18. 10. 2024.
+
+13.2. Stavebník sjedná s Městem při podpisu této smlouvy zástavní smlouvu k Pozemku a zřídí k
+Pozemku zákaz zcizení a zatížení jako práva věcného po dobu trvání zástavního práva k Pozemku.
+Tato zástava se zřizuje za účelem zajištění závazku Stavebníka poskytnout případné smluvní pokuty
+stanovené v této smlouvě a pro případnou náhradu újmy vzniklé Městu v souvislosti s výstavbou
+veřejné infrastruktury uvedené v Čl. 4. této smlouvy.
+Návrh na vklad zástavního práva do katastru nemovitostí podá Stavebník nejpozději do 5-ti dnů od
+podpisu zástavní smlouvy oběma smluvními stranami.
+Stavebník se zavazuje doložit Městu výpisem z listu vlastnictví k Pozemku vklad zástavního práva,
+zákazu zcizení a zatížení do příslušného katastru nemovitostí nejpozději do 10 dnů od zápisu vkladu.
+
+3.3. V článku 14. Zajištění závazku Stavebníka k úhradě nákladů za odstranění dočasných
+stavebních objektů se mění odstavec 14.2., který nově zní:
+
+
+14.2. Smluvní strany konstatují, že odhad nákladů na odstranění dočasných stavebních objektů činí
+ke dni uzavření této smlouvy 3.530.426 Kč (bez DPH). Smluvní strany se dohodly, že před odesláním
+
+                                                 2
+
+
+                                                                                                 Strana 34 / 48
+výzvy Města Stavebníkovi k úhradě nákladů na odstranění dočasných stavebních objektů dle
+odst.14.1. této smlouvy, bude výše nákladů na odstranění dočasných stavebních objektů upřesněna s
+ohledem na vývoj cen stavebních prací v aktuálním období. O výši aktualizovaných nákladů na
+odstranění dočasných stavebních objektů uzavřou smluvní strany dodatek k této smlouvě.
+
+Povinnost zaplacení nákladů na odstranění dočasných stavebních objektů dle tohoto článku se
+Stavebník zavazuje zajistit zástavou až do výše 3.530.426 Kč k id. 1/7 pozemku p. č. 1035/79 – orná
+půda o výměře 20.961 m2 v k. ú. Ivanovice, obec Brno, okres Brno-město (dále jen Pozemek), a tuto
+udržovat po celou dobu trvání svého závazku dle Čl. 14 odst. 14.1. této smlouvy. Cena obvyklá
+Pozemku byla stanovena dle znaleckého posudku číslo položky: 079723/2024, vyhotoveného
+znalcem Ing. Janem Kontou dne 18. 10. 2024.
+
+3.4.   V článku 15. Závěrečná ustanovení se mění Příloha č. 4, která nově zní:
+Příloha č. 4: Výpis z listu vlastnictví č. 1662 k. ú. Ivanovice
+
+3.5.   V článku 15. Závěrečná ustanovení se ruší Příloha č. 5.
+
+
+Ostatní ustanovení Smlouvy zůstávají v platnosti, nezměněná.
+
+                                    4.      Závěrečná ustanovení
+
+Tento dodatek č. 2 je vyhotoven ve třech stejnopisech s platností originálu, Město obdrží dva
+stejnopisy, Stavebník obdrží jeden stejnopis.
+
+Tento dodatek č. 2 je uzavřen a nabývá platnosti dnem podpisu té smluvní strany, která jej podepíše
+jako druhá.
+
+Tento dodatek č. 2 bude uveřejněn prostřednictvím registru smluv dle zákona č. 340/2015 Sb., o
+zvláštních podmínkách účinnosti některých smluv, uveřejňování těchto smluv a o registru smluv
+(zákon o registru smluv). Tento dodatek č. 2 nabývá účinnosti dnem uveřejnění v registru smluv.
+Smluvní strany se dohodly, že tento dodatek č. 2 zašle k uveřejnění v registru smluv Město.
+
+Stavebník prohlašuje, že údaje uvedené v tomto dodatku č. 2 nejsou předmětem jeho obchodního
+tajemství. Stavebník prohlašuje, že údaje uvedené v tomto dodatku č. 2 nejsou informacemi
+požívajícími ochrany důvěrnosti majetkových poměrů.
+
+Stavebník bere na vědomí, že Město je povinným subjektem dle zákona č. 106/1999 Sb.,
+o svobodném přístupu k informacím, ve znění pozdějších předpisů a souhlasí s případným
+poskytnutím dodatku č. 2 žadateli dle tohoto zákona.
+
+
+
+
+                                                    3
+
+
+                                                                                                Strana 35 / 48
+Doložka dle ust. § 41 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů:
+Tento dodatek č. 2 byl schválen Zastupitelstvem města Brna na xxx. zasedání konaném dne xxxxxx.
+
+
+
+
+Statutární město Brno                                               EMBRA Hold, s.r.o.
+
+
+V Brně dne .................................                        V České dne .................................
+
+
+
+
+         ....................................................             ..................................................
+               Ing. Tomáš Pivec, MBA                                               Ing. Milan Pangrác,
+            vedoucí Odboru investičního                                            jednatel společnosti
+                 Magistrátu města Brna
+
+
+
+                                                                                                                                        I
+                                                                                                                               M
+                                                                                                                               P
+                                                                                                                               E
+                                                                                                                               R
+                                                                                                                               A
+                                                                                                                               e
+                                                                                                                               q
+                                                                                                                               s
+                                                                                                                               ,
+                                                                                                                               a
+                                                                                                                               .
+                                                                                                                               s
+                                                                                                                               .
+
+                                                                                                                                                V
+
+                                                                                                                                        B
+                                                                                                                                        r
+                                                                                                                                        n
+                                                                                                                                        ě
+                                                                                                                                        d
+                                                                                                                                        n
+                                                                                                                                        e
+                                                                                                                                        .
+                                                                                                                                        .
+                                                                                                                                        .
+                                                                4                                                                       .
+                                                                                                                                        .
+                                                                                                                                        .
+                                                                                                                               Strana 36 / 48
+                                                                                                                                        .
+                                     VÝPIS Z KATASTRU NEMOVITOSTÍ
+                     prokazující stav evidovaný k datu 03.10.2024 13:15:02
+                Vyhotoveno bezúplatně dálkovým přístupem pro účel: Správa majetku, č.j.: 123 pro Město Brno
+    Okres: CZ0642 Brno-město                                                  Obec: 582786 Brno
+Kat.území: 655856 Ivanovice                                 List vlastnictví: 1662
+                       V kat. území jsou pozemky vedeny v jedné číselné řadě
+A Vlastník, jiný oprávněný                                                           Identifikátor                 Podíl
+  Vlastnické právo
+     Pangrác Milan                                  Vohančice
+
+B Nemovitosti
+    Pozemky
+      Parcela         Výměra[m2] Druh pozemku                            Způsob využití           Způsob ochrany
+       393/4                 147 zahrada                                                          zemědělský půdní
+                                                                                                  fond
+       393/5                    117 zahrada                                                       zemědělský půdní
+                                                                                                  fond
+       398/6                       1 zahrada                                                      zemědělský půdní
+                                                                                                  fond
+      1035/29                   794 orná půda                                                     zemědělský půdní
+                                                                                                  fond
+      1035/30                 1862 orná půda                                                      zemědělský půdní
+                                                                                                  fond
+      1035/78                 2791 orná půda                                                      zemědělský půdní
+                                                                                                  fond
+      1035/79                20961 orná půda                                                      zemědělský půdní
+                                                                                                  fond
+
+B1 Věcná práva sloužící ve prospěch nemovitostí v části B
+ Typ vztahu
+o Věcné břemeno chůze a jízdy
+        Oprávnění pro
+           Parcela: 1035/78
+        Povinnost k
+           Parcela: 1035/76
+    Listina Rozhodnutí pozemkového úřadu 325/1997 ze dne 5.9.1997 č.j.JPÚ/325/Ca.
+                                                  POLVZ:5/1998        Z-4400005/1998-702
+    Pořadí k datu podle právní úpravy účinné v době vzniku práva
+
+o Věcné břemeno chůze a jízdy
+        Oprávnění pro
+           Parcela: 1035/78
+        Povinnost k
+           Parcela: 1035/75
+    Listina Rozhodnutí pozemkového úřadu 325/1997 ze dne 5.9.1997 č.j.JPÚ/325/Ca.
+                                                  POLVZ:5/1998        Z-4400005/1998-702
+    Pořadí k datu podle právní úpravy účinné v době vzniku práva
+
+o Věcné břemeno chůze a jízdy
+        Oprávnění pro
+           Parcela: 1035/78
+        Povinnost k
+           Parcela: 1035/73
+    Listina Rozhodnutí pozemkového úřadu 325/1997 ze dne 5.9.1997 č.j.JPÚ/325/Ca.
+                                                  POLVZ:5/1998        Z-4400005/1998-702
+         Nemovitosti jsou v územním obvodu, ve kterém vykonává státní správu katastru nemovitostí ČR
+             Katastrální úřad pro Jihomoravský kraj, Katastrální pracoviště Brno-město, kód: 702.
+                                              strana 1                                                        Strana 37 / 48
+                                  VÝPIS Z KATASTRU NEMOVITOSTÍ
+                    prokazující stav evidovaný k datu 03.10.2024 13:15:02
+
+   Okres: CZ0642 Brno-město                                          Obec: 582786 Brno
+Kat.území: 655856 Ivanovice                           List vlastnictví: 1662
+                      V kat. území jsou pozemky vedeny v jedné číselné řadě
+
+ Typ vztahu
+
+    Pořadí k datu podle právní úpravy účinné v době vzniku práva
+
+o Věcné břemeno chůze a jízdy
+        Oprávnění pro
+           Parcela: 1035/78
+        Povinnost k
+           Parcela: 1035/72
+    Listina Rozhodnutí pozemkového úřadu 325/1997 ze dne 5.9.1997 č.j.JPÚ/325/Ca.
+                                                  POLVZ:5/1998        Z-4400005/1998-702
+    Pořadí k datu podle právní úpravy účinné v době vzniku práva
+
+o Věcné břemeno chůze a jízdy
+        Oprávnění pro
+           Parcela: 1035/78
+        Povinnost k
+           Parcela: 1035/77
+    Listina Rozhodnutí pozemkového úřadu 325/1997 ze dne 5.9.1997 č.j.JPÚ/325/Ca.
+                                                  POLVZ:5/1998        Z-4400005/1998-702
+    Pořadí k datu podle právní úpravy účinné v době vzniku práva
+
+o Věcné břemeno chůze a jízdy
+        Oprávnění pro
+           Parcela: 1035/78
+        Povinnost k
+           Parcela: 1035/74
+    Listina Rozhodnutí pozemkového úřadu 325/1997 ze dne 5.9.1997 č.j.JPÚ/325/Ca.
+                                                  POLVZ:5/1998        Z-4400005/1998-702
+    Pořadí k datu podle právní úpravy účinné v době vzniku práva
+
+o Věcné břemeno chůze a jízdy
+        Oprávnění pro
+           Parcela: 1035/78
+        Povinnost k
+           Parcela: 1035/35
+    Listina Rozhodnutí pozemkového úřadu 325/1997 ze dne 5.9.1997 č.j.JPÚ/325/Ca.
+                                                  POLVZ:6/1998        Z-4400006/1998-702
+    Pořadí k datu podle právní úpravy účinné v době vzniku práva
+
+o Věcné břemeno chůze a jízdy
+        Oprávnění pro
+           Parcela: 1035/78
+        Povinnost k
+           Parcela: 1035/71
+    Listina Rozhodnutí pozemkového úřadu 325/1997 ze dne 5.9.1997 č.j.JPÚ/325/Ca.
+                                                  POLVZ:6/1998        Z-4400006/1998-702
+    Pořadí k datu podle právní úpravy účinné v době vzniku práva
+
+o Věcné břemeno chůze a jízdy
+        Oprávnění pro
+           Parcela: 1035/78
+         Nemovitosti jsou v územním obvodu, ve kterém vykonává státní správu katastru nemovitostí ČR
+             Katastrální úřad pro Jihomoravský kraj, Katastrální pracoviště Brno-město, kód: 702.
+                                              strana 2                                                 Strana 38 / 48
+                                  VÝPIS Z KATASTRU NEMOVITOSTÍ
+                    prokazující stav evidovaný k datu 03.10.2024 13:15:02
+
+   Okres: CZ0642 Brno-město                                          Obec: 582786 Brno
+Kat.území: 655856 Ivanovice                           List vlastnictví: 1662
+                      V kat. území jsou pozemky vedeny v jedné číselné řadě
+
+ Typ vztahu
+
+        Povinnost k
+           Parcela: 1035/34
+    Listina Rozhodnutí pozemkového úřadu 325/1997 ze dne 5.9.1997 č.j.JPÚ/325/Ca.
+                                                  POLVZ:6/1998        Z-4400006/1998-702
+    Pořadí k datu podle právní úpravy účinné v době vzniku práva
+
+o Věcné břemeno chůze a jízdy
+        Oprávnění pro
+           Parcela: 1035/78
+        Povinnost k
+           Parcela: 1035/68
+    Listina Rozhodnutí pozemkového úřadu 325/1997 ze dne 5.9.1997 č.j.JPÚ/325/Ca.
+                                                  POLVZ:6/1998        Z-4400006/1998-702
+    Pořadí k datu podle právní úpravy účinné v době vzniku práva
+
+o Věcné břemeno chůze a jízdy
+        Oprávnění pro
+           Parcela: 1035/78
+        Povinnost k
+           Parcela: 1035/33
+    Listina Rozhodnutí pozemkového úřadu 325/1997 ze dne 5.9.1997 č.j.JPÚ/325/Ca.
+                                                  POLVZ:6/1998        Z-4400006/1998-702
+    Pořadí k datu podle právní úpravy účinné v době vzniku práva
+
+o Věcné břemeno chůze a jízdy
+        Oprávnění pro
+           Parcela: 1035/78
+        Povinnost k
+           Parcela: 1035/70
+    Listina Rozhodnutí pozemkového úřadu 325/1997 ze dne 5.9.1997 č.j.JPÚ/325/Ca.
+                                                  POLVZ:6/1998        Z-4400006/1998-702
+    Pořadí k datu podle právní úpravy účinné v době vzniku práva
+
+o Věcné břemeno chůze a jízdy
+        Oprávnění pro
+           Parcela: 1035/78
+        Povinnost k
+           Parcela: 1035/31, Parcela: 1035/32
+    Listina Rozhodnutí pozemkového úřadu 325/1997 ze dne 5.9.1997 č.j.JPÚ/325/Ca. (VZ
+            5/98).
+                                                  POLVZ:194/1999      Z-4400194/1999-702
+    Pořadí k datu podle právní úpravy účinné v době vzniku práva
+
+o Věcné břemeno chůze a jízdy
+        Oprávnění pro
+           Parcela: 1035/78
+        Povinnost k
+           Parcela: 1035/69
+    Listina Rozhodnutí pozemkového úřadu 325/1997 ze dne 5.9.1997 č.j.JPÚ/325/Ca.
+                                                  POLVZ:5/1998        Z-4400005/1998-702
+         Nemovitosti jsou v územním obvodu, ve kterém vykonává státní správu katastru nemovitostí ČR
+             Katastrální úřad pro Jihomoravský kraj, Katastrální pracoviště Brno-město, kód: 702.
+                                              strana 3                                                 Strana 39 / 48
+                                     VÝPIS Z KATASTRU NEMOVITOSTÍ
+                       prokazující stav evidovaný k datu 03.10.2024 13:15:02
+
+      Okres: CZ0642 Brno-město                                          Obec: 582786 Brno
+Kat.území: 655856 Ivanovice                              List vlastnictví: 1662
+                         V kat. území jsou pozemky vedeny v jedné číselné řadě
+
+    Typ vztahu
+
+       Pořadí k datu podle právní úpravy účinné v době vzniku práva
+
+
+C    Věcná práva zatěžující nemovitosti v části B včetně souvisejících údajů                   - Bez zápisu
+
+D    Poznámky a další obdobné údaje         - Bez zápisu
+
+Plomby a upozornění - Bez zápisu
+
+E      Nabývací tituly a jiné podklady zápisu
+
+Listina
+ o Smlouva kupní    ze dne 22.06.2022. Právní účinky zápisu k okamžiku 22.06.2022 11:20:39.
+     Zápis proveden dne 19.09.2022.
+                                                                           V-12686/2022-702
+      Pro: Pangrác Milan Ing., č.p. 67, 66601 Vohančice                   RČ/IČO: 720626/3878
+
+
+F      Vztah bonitovaných půdně ekologických jednotek (BPEJ) k parcelám
+
+         Parcela                                         BPEJ                     Výměra[m2]
+        393/4                                            30810                           147
+        393/5                                            30810                           117
+        398/6                                            30810                             1
+       1035/29                                           35600                           733
+                                                         37101                            61
+       1035/30                                           35600                          1862
+       1035/78                                           30810                          2184
+                                                         35600                           607
+       1035/79                                           30110                         17296
+                                                         30610                          2085
+                                                         30810                           537
+                                                         32511                          1043
+Pokud je výměra bonitních dílů parcel menší než výměra parcely, zbytek parcely není bonitován
+
+
+Nemovitosti jsou v územním obvodu, ve kterém vykonává státní správu katastru nemovitostí ČR:
+Katastrální úřad pro Jihomoravský kraj, Katastrální pracoviště Brno-město, kód: 702.
+
+Vyhotovil:                                                       Vyhotoveno:    03.10.2024     13:38:35
+Český úřad zeměměřický a katastrální - SCD
+Poučení: Údaje katastru lze užít pouze k účelům uvedeným v § 1 odst. 2 katastrálního zákona.
+Osobní údaje získané z katastru lze zpracovávat pouze při splnění podmínek obecného nařízení
+o ochraně osobních údajů. Podrobnosti viz https://www.cuzk.cz/.
+
+
+
+
+            Nemovitosti jsou v územním obvodu, ve kterém vykonává státní správu katastru nemovitostí ČR
+                Katastrální úřad pro Jihomoravský kraj, Katastrální pracoviště Brno-město, kód: 702.
+                                                 strana 4                                                 Strana 40 / 48
+                                                                                   Č. smlouvy
+
+
+                     Zástavní smlouva k id. části nemovité věci
+
+              uzavřená v souladu s ust. § 1309 a násl. občanského zákoníku
+                           mezi těmito smluvními stranami:
+
+1.     Statutární město Brno
+       IČO 449 92 785
+       se sídlem Brno, Dominikánské náměstí 196/1, PSČ 602 00
+       zastoupené JUDr. Markétou Vaňkovou, primátorkou města Brna
+       pověřen k podpisu smlouvy: Ing. Tomáš Pivec, MBA, vedoucí Odboru investičního
+       Magistrátu města Brna
+       dále jen zástavní věřitel
+
+2.     Ing. Milan Pangrác, nar.        1972
+                       Vohančice
+       dále jen zástavce
+
+       Smluvní strany 1. a 2. dále společně jako Smluvní strany.
+
+       a
+
+3.    EMBRA Hold, s.r.o.
+      IČO 277 22 571
+      se sídlem č.p. 184, 664 31 Česká
+      zapsaná v obchodním rejstříku vedeném Krajským soudem v Brně, odd. C, vl. 54561
+      zastoupená panem Ing. Milanem Pangrácem, jednatelem
+      dále jen obligační dlužník
+
+                                              I.
+                                           Zástava
+
+       Zástavce je výlučným vlastníkem nemovité věci, a to pozemku p. č. 1035/79 – orná
+půda o výměře 20.961 m2 v k. ú. Ivanovice, obec Brno, okres Brno-město, zapsaného na LV č.
+1662 vedeném u Katastrálního úřadu pro Jihomoravský kraj, Katastrálního pracoviště Brno-
+město pro k. ú. Ivanovice, obec Brno (dále jen Nemovitá věc).
+
+                                           II.
+                                Zajišťované budoucí dluhy
+
+       1. Dne 14. 4. 2022 uzavřel zástavní věřitel a společnost Colonico, a.s., IČO 277 00 631,
+se sídlem Brno, Hlinky 49/126, PSČ 603 00, jako stavebník a obligační dlužník Smlouvu o
+spolupráci při výstavbě veřejné infrastruktury „Rezidence Pod Lesem, Brno – Žebětín“ č.
+5622171861 (dále jen Smlouva o spolupráci), jejímž předmětem je úprava práv a povinností
+smluvních stran v rámci přípravy a realizace veřejné infrastruktury budované v rámci
+stavebního záměru „Rezidence Pod Lesem, Brno – Žebětín“ (dále jen Stavební záměr) a
+dohoda smluvních stran o poskytnutí investičního příspěvku v souladu s dokumentem Zásady
+pro spolupráci s investory na rozvoji veřejné infrastruktury statutárního města Brna,
+schváleném Zastupitelstvem města Brna usnesením č. Z8/025 ze dne 23. 3. 2021. Vzhledem ke
+skutečnosti, že společnost Colonico, a.s., IČO 277 00 631 uvedená ve Smlouvě jako stavebník
+zanikla fúzí sloučením se společností EMBRA Hold, s.r.o., IČO 277 22 571, se sídlem Česká
+
+
+
+
+                                                                                            Strana 41 / 48
+                                                                                     Č. smlouvy
+
+č.p. 184, PSČ 664 31, na kterou přešlo na základě fúze sloučením jmění zanikající společnosti
+Colonico, a.s., IČO 277 00 631, změnila se osoba stavebníka.
+       2. Zástavní věřitel a obligační dlužník shodně prohlašují, že na obligačního dlužníka
+přešla na základě realizované fúze sloučením práva a povinnosti ze Smlouvy o spolupráci při
+výstavbě veřejné infrastruktury „Rezidence Pod Lesem, Brno – Žebětín“, č. smlouvy
+5622171861. Obligační dlužník hodlá realizovat stavební záměr pod názvem „Rezidence Pod
+Lesem, Brno – Žebětín“ (dále jen Stavební záměr). Předmětem Stavebního záměru je výstavba
+bytových domů, řadových rodinných domů, komunikace a inženýrských sítí pro nově navržený
+obytný soubor v katastrálním území Žebětín. Stavební záměr řeší Novostavbu obytného
+souboru třiceti sedmi (37) řadových rodinných domů a sedmi (7) bytových domů včetně
+komunikací a inženýrských sítí v Brně – Žebětíně. Bytové domy budou mít společnou
+podzemní podnož, ve které budou podzemní garáže a technické vybavení jednotlivých
+bytových domů. Pod bytovými domy budou parkovací místa včetně vyhrazených parkovacích
+stání pro osoby ZTP. Na venkovních komunikacích budou parkovací stání včetně vyhrazených
+parkovacích stání pro osoby se ZTP. V rámci technické a dopravní infrastruktury je navrženo
+dopravní napojení lokality, komunikace a zpevněné plochy. Z technické infrastruktury jsou
+navrženy rozvody vodovodu, dešťové a splaškové kanalizace, plynovodu, NN, SEK, veřejného
+a areálového osvětlení. Území se nachází na hranici Městských částí Brna-Žebětín a Brna-
+Bystrc. Lokalita je vymezena z jižní strany potokem Vrbovcem, ze západní strany stávající
+příjezdovou komunikací, ze severní strany výrazným terénním zlomem zakončeným sídelním
+útvarem Kamechy a z východní strany stávajícím jezdeckým a chovatelským areálem Eliot.
+Dopravní napojení této lokality je na stávající komunikaci v ulici Hostislavova. V případě, že
+bude plánovaný obchvat Žebětína (Projekt „Východní obchvat Žebětína - I. etapa“) realizován
+dříve než tato stavba, tak projekt počítá s tím, že se komunikace plynule napojí na
+projektovanou větev účelové komunikace, to znamená, že nebude vybudován stavební objekt
+SO 101 Komunikace – napojení areálu na Žebětín a SO 105 Chodník – napojení areálu na
+Žebětín (osa_0). Dle obecně závazné vyhlášky statutárního města Brna č. 20/2001, kterou se
+vydává Statut města Brna, ve znění obecně závazných vyhlášek statutárního města Brna, se
+jedná o stavbu v celoměstském zájmu. Smluvní strany se dohodly na zajištění následujících
+budoucích dluhů.
+       3. Zástavní věřitel a obligační dlužník se ve Smlouvě o spolupráci ve znění jejích dodatků
+dohodli, že obligační dlužník se zaváže k úhradě sankcí dle čl. 12 Smlouvy o spolupráci (dále
+jen Sankce). K zajištění budoucí peněžité pohledávky zástavního věřitele vůči obligačnímu
+dlužníkovi na úhradu budoucích oprávněných pohledávek zástavního věřitele vyplývajících ze
+Sankcí až do výše Kč 720.800 (slovy: sedm set dvacet tisíc osm set korun českých), zřizuje
+zástavce zástavu k Nemovité věci tak, jak níže uvedeno.
+       4. Zástavní věřitel a obligační dlužník se ve Smlouvě spolupráci ve znění jejích dodatků
+dále dohodli, že obligační dlužník uhradí zástavnímu věřiteli náklady na odstranění dočasných
+staveb dle Čl. 14 Smlouvy o spolupráci až do výše Kč 3.530.426 (slovy: tři miliony pět set třicet
+tisíc čtyři sta dvacet šest korun českých) (dále jen Náklady na odstranění staveb). K zajištění
+budoucí peněžité pohledávky zástavního věřitele vůči obligačnímu dlužníku na úhradu Nákladů
+na odstranění staveb až do výše Kč 3.530.426 (slovy: tři miliony pět set třicet tisíc čtyři sta
+dvacet šest korun českých), které budou vznikat ode dne platnosti této smlouvy do 10 let od
+podpisu Smlouvy o spolupráci ze dne 14. 4. 2022, zřizuje zástavce zástavu k Nemovité věci
+tak, jak níže uvedeno.
+
+
+                                             III.
+                                  Zřízení zástavního práva
+
+
+
+
+                                                                                              Strana 42 / 48
+                                                                                      Č. smlouvy
+
+        K zajištění shora uvedených budoucích peněžitých pohledávek zástavního věřitele na
+úhradu budoucích oprávněných pohledávek zástavního věřitele vyplývajících ze Sankcí a
+Nákladů na odstranění staveb dle Smlouvy o spolupráci, vše blíže popsané v čl. II této smlouvy,
+zřizuje zástavce zástavní právo ve prospěch zástavního věřitele k id. 1/7 Nemovité věci, kterou
+vlastní, tj. dává zástavu zástavnímu věřiteli do zástavy. Zástavní věřitel toto zástavní právo k
+zástavě v uvedeném rozsahu přijímá.
+
+                                             IV.
+                                   Zákaz zcizení a zatížení
+
+        1. Zástavce tímto zřizuje právo zákazu zcizení a zatížení jako práva věcného k id. 1/7
+Nemovité věci uvedené v čl. I této smlouvy ve prospěch zástavního věřitele a zástavní věřitel
+takto zřízené právo zákazu zcizení a zatížení přijímá. Zákaz zcizení a zatížení se zřizuje na dobu
+do úhrady shora uvedených pohledávek.
+        2. Zástavce souhlasí s tím, že zástavu, až do zániku zástavního práva dle této smlouvy
+nepřevede, nepostoupí, nezcizí, ani jinak neumožní nabytí jakéhokoliv věcného práva k ní, ani
+jí neposkytne jako jistotu ve prospěch osoby rozdílné od zástavního věřitele či k zástavě nezřídí
+jakékoliv zatížení, s výjimkou případných dalších zatížení ve prospěch zástavního věřitele, aniž
+by k tomu získal předchozí písemný souhlas zástavního věřitele.
+
+                                              V.
+                                      Prohlášení zástavce
+
+        1. Zástavce prohlašuje, že mu není známo, že by na zástavě vázla zástavní práva, věcná
+břemena či služebnosti, předkupní práva nebo věcná či závazková práva zřízená ve prospěch
+třetích osob. Zástavce dále prohlašuje, že dosud zástavu na nikoho nepřevedl a že ohledně
+zástavy není uzavřena nájemní smlouva.
+        2. Zástavce prohlašuje, že není v prodlení s úhradou jakýchkoli daní, plateb pojistného
+na sociální nebo zdravotní pojištění, cel, poplatků nebo jiných plateb obdobného charakteru,
+které je povinen hradit na základě platných právních předpisů. Zástavce dále prohlašuje, že není
+v úpadku a že mu není známo, že by vůči němu byl podán návrh na zahájení insolvenčního
+řízení či exekučního řízení.
+        3. Zástavce se zavazuje, že se o zástavu bude starat s péčí řádného hospodáře, že se zdrží
+všeho, co by bylo způsobilé ohrozit nebo poškodit práva zástavního věřitele k zástavě nebo
+snížit hodnotu zástavy na újmu zástavního věřitele.
+
+                                             VI.
+                                   Zánik zástavního práva
+
+        1. Smluvní strany berou na vědomí, že zástavní právo zanikne způsoby uvedenými v ust.
+§ 1376 a násl. občanského zákoníku, zejména zánikem zajištěného dluhu, složením ceny
+zástavy zástavnímu věřiteli nebo zánikem zástavy. Zástavní právo dle čl. II odst. 4 zaniká,
+nebude-li pravomocné stavební povolení pro obchvat Žebětína vydáno ani do 10 let od podpisu
+Smlouvy o spolupráci a ani do 10 let od podpisu Smlouvy o spolupráci nebude zahájena
+výstavba obchvatu Žebětína zápisem do stavebního deníku tedy do 14. 4. 2032.
+        2. Zástavní věřitel se zavazuje vydat po zániku zástavního práva podle této zástavní
+ smlouvy k id. části Nemovité věci zástavci písemné potvrzení o tom, že zástavní právo zaniklo,
+ a to neprodleně po jeho zániku, nejpozději však do 30 dnů od zániku zástavního práva. Návrh
+
+
+
+
+                                                                                              Strana 43 / 48
+                                                                                   Č. smlouvy
+
+ na výmaz zástavního práva z katastru nemovitostí po zániku zástavního práva podá zástavce a
+ nese náklady s tím spojené.
+       3. Nevydá-li zástavní věřitel písemné potvrzení o zániku zástavního práva ani do 30 dnů
+po výzvě zástavce, je povinen uhradit zástavci náhradu vzniklé škody za porušení uvedeného
+ustanovení smlouvy.
+
+                                            VII.
+                                      Ostatní ujednání
+
+       1. Smlouva podléhá vkladu do katastru nemovitostí. Smluvní strany berou na vědomí,
+že do této doby jsou svými projevy vázány.
+       2. Poplatek za vklad do katastru nemovitostí hradí obligační dlužník. Návrh na vklad
+zástavního práva do katastru nemovitostí podá zástavce nejpozději do 5-ti dnů od podpisu této
+smlouvy oběma smluvními stranami.
+       3. V případě, že příslušný katastrální úřad v řízení o povolení vkladu zástavního práva
+na základě této smlouvy vyzve účastníky k opravě či doplnění návrhu na vklad, smluvní strany
+se zavazují poskytnout si navzájem součinnost potřebnou k odstranění případných vad či
+nedostatků podaného návrhu tak, aby byl vklad zástavního práva do katastru nemovitostí
+povolen.
+       4. Pokud by tato smlouva pro nesprávnost, nejasnost nebo formální nedostatek byla
+shledána příslušným katastrálním úřadem za nezpůsobilý podklad pro vklad zástavního práva
+k id. části nemovité věci do příslušného katastru nemovitostí, uzavřou smluvní strany této
+smlouvy do deseti dnů ode dne doručení rozhodnutí příslušného katastrálního úřadu o
+zamítnutí návrhu na vklad zástavního práva do katastru nemovitostí novou zástavní smlouvu
+ve znění, ve kterém budou odstraněny namítané nesprávnosti, nepřesnosti nebo skutečnosti,
+které způsobily, že na základě této smlouvy nedošlo ke vkladu zástavního práva do katastru
+nemovitostí. Tento článek je plně oddělitelný od ostatních ustanovení této smlouvy.
+       5. V případě, že kterékoliv ustanovení této zástavní smlouvy k id. části Nemovité věci
+bude neplatné, nezákonné či nevynutitelné, ostatní ustanovení nadále zůstanou platná
+a vynutitelná. Strany se tímto zavazují, že takovéto neplatné, nezákonné či nevynutitelné
+ustanovení nahradí ustanovením platným či vynutitelným nebo alespoň ustanovením s
+obdobným obchodním nebo právním smyslem.
+
+                                          VIII.
+                                    Závěrečná ujednání
+
+        1. Tato smlouva je vyhotovena ve čtyřech stejnopisech, které všechny mají povahu
+originálu, z nichž jedno vyhotovení bude připojeno k návrhu na vklad vlastnického práva do
+katastru nemovitostí a po jednom vyhotovení obdrží každá smluvní strana.
+        2. V případě postoupení či přechodu pohledávky zajištěné zástavním právem dle této
+smlouvy na jiný subjekt, vstupuje nový věřitel do všech práv a povinností zástavního věřitele.
+V případě převodu či přechodu vlastnického práva k id. části Nemovité věci uvedené v čl. I.
+této smlouvy vstupuje nabyvatel id. části Nemovité věci do všech práv a povinností, které má
+zástavce na základě této smlouvy.
+        3. Tato smlouva nabývá platnosti dnem jejího podpisu poslední smluvní stranou.
+Smluvní strany výslovně potvrzují, že tato smlouva je výsledkem jejich jednání a každá ze stran
+měla příležitost ovlivnit její základní podmínky.
+        4. Tato smlouva bude uveřejněna prostřednictvím registru smluv dle zákona č. 340/2015
+Sb., o zvláštních podmínkách účinnosti některých smluv, uveřejňování těchto smluv
+a o registru smluv (zákon o registru smluv). Smlouva nabude účinnosti uveřejněním v registru
+
+
+
+
+                                                                                            Strana 44 / 48
+                                                                                  Č. smlouvy
+
+smluv. Smluvní strany se dohodly, že tuto smlouvu zašle k uveřejnění v registru smluv zástavní
+věřitel.
+         5. Není-li v této smlouvě stanoveno jinak, řídí se zástavní smlouva ustanoveními
+zák. č. 89/2012 Sb. občanským zákoníkem.
+         6. Tuto smlouvu lze měnit nebo doplňovat pouze písemnými dodatky, podepsanými
+statutárními orgány smluvních stran, nebo jejich oprávněnými zástupci na základě zvláštní plné
+moci.
+         7. Smluvní strany prohlašují, že si tuto smlouvu důkladně přečetly, souhlasí s jejím
+obsahem a jsou si vědomy povinností jim z této smlouvy plynoucích. Dále prohlašují, že tato
+smlouva zachycuje jejich skutečnou, svobodnou a vážnou vůli, že byla uzavřena nikoliv v tísni
+ani za nápadně nevýhodných podmínek a na důkaz toho připojují své podpisy.
+
+
+Doložka dle ust. § 41 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších
+předpisů:
+
+Tato smlouva byla schválena Zastupitelstvem města Brna na zasedání Z…/.. konaném dne
+……..
+
+
+V Brně dne                                       V Brně dne
+
+
+____________________________________              _________________________________
+        Statutární město Brno                            Ing. Milan Pangrác
+       Ing. Tomáš Pivec, MBA                                  zástavce
+     vedoucí Odboru investičního
+      Magistrátu města Brna
+         zástavní věřitel
+
+
+                                                 V Brně dne
+
+
+
+
+                                                   _______________________________
+                                                         EMBRA Hold, s.r.o.
+                                                         Ing. Milan Pangrác
+                                                              jednatel
+                                                        obligační dlužník
+
+
+
+
+                                                                                           Strana 45 / 48
+                                                                                 Číslo dohody
+
+
+        Dohoda o zrušení zástavního práva smluvního k nemovité věci
+
+                                         uzavřená
+                             mezi těmito smluvními stranami:
+
+
+1.     Statutární město Brno
+       IČO 449 92 785
+       se sídlem Dominikánské náměstí 196/1, Brno-město, 602 00 Brno
+       zastoupené JUDr. Markétou Vaňkovou, primátorkou města Brna
+       pověřen k podpisu dohody Ing. Tomáš Pivec, MBA, vedoucí Odboru investičního
+       Magistrátu města Brna
+       dále jen zástavní věřitel
+
+
+2.     EMBRA Hold, s.r.o.
+       IČO 277 22 571
+       se sídlem č.p. 184, 664 31 Česká
+       zapsaná v obchodním rejstříku vedeném Krajským soudem v Brně, odd. C, vl. 54561
+       zastoupená panem Ing. Milanem Pangrácem, jednatelem
+       dále jen zástavce
+
+       Smluvní strany 1. a 2. dále společně jako Smluvní strany.
+
+
+                                              I.
+
+        1. Zástavce je výlučným vlastníkem nemovité věci, a to pozemku p. č. 2148/2 – trvalý
+travní porost o výměře 9834 m2 v k.ú. Žebětín, obec Brno, okres Brno-město, zapsaného na LV
+č. 3219 vedeném u Katastrálního úřadu pro Jihomoravský kraj, Katastrálního pracoviště Brno-
+město pro k. ú. Žebětín, obec Brno (dále jen „Nemovitá věc“).
+        2. Dne 14. 4. 2022 uzavřel zástavní věřitel a společnost Colonico, a.s., IČ 277 00 631,
+se sídlem Brno, Hlinky 49/126, PSČ 603 00, jako zástavce Zástavní smlouvu k nemovité věci
+č. 5622171862 (dále jen „Zástavní smlouva“), a to v souvislosti s uzavřenou Smlouvou
+o spolupráci při výstavbě veřejné infrastruktury „Rezidence Pod Lesem, Brno - Žebětín“ č.
+5622171861 (dále jen „Smlouva o spolupráci“). Na základě zástavní smlouvy bylo
+k Nemovité věci zřízeno zástavní právo a zákaz zcizení a zatížení. Vzhledem ke skutečnosti, že
+společnost Colonico, a.s., IČ 277 00 631, se sídlem Brno, Hlinky 49/126, PSČ 603 00, uvedená
+v Zástavní smlouvě jako zástavce zanikla fúzí sloučením se společností EMBRA Hold, s.r.o.,
+IČ 277 22 571, se sídlem Česká č.p. 184, PSČ 664 31, na kterou přešlo na základě fúze
+sloučením jmění zanikající společnosti Colonico, a.s., změnila se osoba zástavce. O uvedeném
+byl mezi smluvními stranami sjednán dodatek č. 1 k Zástavní smlouvě.
+      3. Zástavní smlouva k výše uvedené Nemovité věci byla uzavřena k zajištění budoucí
+peněžité pohledávky zástavního věřitele vůči zástavci na úhradu finančního příspěvku ve výši
+Kč 12.879.200,- (slovy: dvanáct miliónů osm set sedmdesát devět tisíc dvě stě korun českých)
+(dále jen „Příspěvek“), který může být zástavním věřitelem použit na vybudování veřejné
+infrastruktury v oblasti občanské vybavenosti. Zástavce se rovněž zavázal k úhradě sankcí dle
+čl. 12 Smlouvy o spolupráci (dále jen „Sankce“). K zajištění budoucí peněžité pohledávky
+zástavního věřitele, vůči zástavci na úhradu Příspěvku a k zajištění dalších budoucích
+oprávněných pohledávek zástavního věřitele vyplývajících ze Sankcí a náhrady škody dle
+
+
+
+
+                                                                                            Strana 46 / 48
+                                                                                    Číslo dohody
+
+Smlouvy o spolupráci až do výše Kč 13.600.000,- (slovy: třináct milionů šest set tisíc korun
+českých), které budou vznikat ode dne platnosti této Zástavní smlouvy do 11 let od nabytí
+právní moci rozhodnutí příslušného stavebního úřadu umožňujícího výstavbu každého
+jednotlivého objektu dopravní a technické infrastruktury uvedené v čl. 4 Smlouvy o spolupráci,
+zřídil zástavce zástavu k nemovité věci.
+       4. Zástavní smlouva k výše uvedené Nemovité věci byla uzavřena také k zajištění
+budoucí peněžité pohledávky zástavního věřitele vůči zástavci k zajištění budoucí pohledávky
+k úhradě nákladů na odstranění dočasných staveb dle Čl. 14 Smlouvy o spolupráci až do výše
+Kč 3.530.426,- (slovy: tři miliony pět set třicet tisíc čtyři sta dvacet šest korun českých) (dále
+jen „Náklady na odstranění staveb“). K zajištění budoucí peněžité pohledávky zástavního
+věřitele vůči zástavci na úhradu Nákladů na odstranění staveb až do výše Kč 3.530.426,- (slovy:
+tři miliony pět set třicet tisíc čtyři sta dvacet šest korun českých), které budou vznikat ode dne
+platnosti Zástavní smlouvy do 10 let od podpisu Smlouvy o spolupráci ze dne 14. 4. 2022, zřídil
+zástavce zástavu k nemovité věci.
+        5. Zápis shora uvedeného zástavního práva a zákazu zcizení a zatížení byl povolen
+rozhodnutím Katastrálního úřadu pro Jihomoravský kraj, Katastrálního pracoviště Brno-město,
+pod spis.zn. V-8565/2022-702, s právními účinky zápisu ke dni 25. 4. 2022.
+
+                                               II.
+
+      1. Smluvní strany se dohodly, že zástavce není povinen nadále zajišťovat povinnost
+platby Příspěvku, Sankcí a Nákladů na odstranění staveb zatížením Nemovité věci a dohodly
+se na jiném způsobu zajištění budoucích pohledávek zástavního věřitele vůči zástavci.
+      2. S ohledem na výše uvedené, v souladu s čl. VIII odst. 5 Zástavní smlouvy k nemovité
+věci č. 5622171862 a v souladu s ust. § 1981 zákona č. 89/2012 Sb., občanský zákoník,
+v platném znění, smluvní strany tímto bezplatně ruší zástavní právo k Nemovité věci včetně
+zákazu zcizení a zatížení jako práva věcného, to vše vložené do katastru nemovitostí na
+základě zástavní smlouvy č. 5622171862 uzavřené dne 14. 4. 2022.
+
+
+                                               III.
+
+       1. Dohoda podléhá vkladu do katastru nemovitostí. Smluvní strany berou na vědomí, že
+do této doby jsou svými projevy vázány.
+       2. Poplatek za vklad do katastru nemovitostí hradí zástavce. Návrh na výmaz zástavního
+práva a zákazu zcizení a zatížení vkladem do katastru nemovitostí bude podán nejpozději do pěti
+(5) dnů ode dne uzavření této dohody, ne však dříve, než bude dohoda zveřejněna v registru
+smluv v souladu s čl. IV odst. 3 této dohody.
+       3. V případě, že příslušný katastrální úřad v řízení o povolení výmazu zástavního práva
+a zákazu zcizení a zatížení na základě této dohody vyzve účastníky k opravě či doplnění návrhu
+na výmaz zástavního práva a zákazu zcizení a zatížení vkladem do katastru nemovitostí,
+smluvní strany se zavazují poskytnout si navzájem součinnost potřebnou k odstranění
+případných vad či nedostatků podaného návrhu tak, aby byl výmaz vkladem do katastru
+nemovitostí povolen.
+       4. Pokud by tato dohoda pro nesprávnost, nejasnost nebo formální nedostatek byla
+shledána příslušným katastrálním úřadem za nezpůsobilý podklad pro výmaz zástavního práva
+a zákazu zcizení a zatížení k předmětné Nemovité věci vkladem do příslušného katastru
+nemovitostí, uzavřou smluvní strany této dohody do čtyřiceti (40) dnů ode dne doručení
+rozhodnutí příslušného katastrálního úřadu o zamítnutí návrhu na výmaz zástavního práva a
+zákazu zcizení a zatížení vkladem do katastru nemovitostí novou dohodu o zrušení zástavního
+
+
+
+
+                                                                                              Strana 47 / 48
+                                                                                 Číslo dohody
+
+práva k Nemovité věci ve znění, ve kterém budou odstraněny namítané nesprávnosti,
+nepřesnosti nebo skutečnosti, které způsobily, že na základě této dohody nedošlo k výmazu
+zástavního práva a zákazu zcizení a zatížení vkladem do katastru nemovitostí. Tento článek je
+plně oddělitelný od ostatních ustanovení této dohody.
+      5. V případě, že kterékoliv ustanovení této dohody bude neplatné, nezákonné či
+nevynutitelné, ostatní ustanovení nadále zůstanou platná a vynutitelná. Strany se tímto
+zavazují, že takovéto neplatné, nezákonné či nevynutitelné ustanovení nahradí ustanovením
+platným či vynutitelným nebo alespoň ustanovením s obdobným obchodním nebo právním
+smyslem.
+
+
+                                             IV.
+
+        1. Tato dohoda je vyhotovena ve čtyřech stejnopisech, které všechny mají povahu
+originálu, z nichž jedno vyhotovení bude připojeno k návrhu na vklad práva do katastru
+nemovitostí, zástavní věřitel obdrží dvě vyhotovení a jedno vyhotovení obdrží zástavce.
+        2. Tato dohoda je uzavřena a nabývá platnosti dnem jejího podpisu poslední smluvní
+stranou. Smluvní strany výslovně potvrzují, že tato dohoda je výsledkem jejich jednání a každá
+ze stran měla příležitost ovlivnit její základní podmínky.
+        3. Smluvní strany se dohodly, že tuto dohodu uveřejní prostřednictvím registru smluv
+dle zákona č. 340/2015 Sb., o zvláštních podmínkách účinnosti některých smluv, uveřejňování
+těchto smluv a o registru smluv (zákon o registru smluv). Dohoda nabude účinnosti dnem
+uveřejnění v registru smluv, nejdříve však dnem podání návrhu na vklad nové zástavní smlouvy
+k nemovité věci, a to k id. 1/7 pozemku p. č. 1035/79 v k. ú. Ivanovice, obec Brno, okres Brno-
+město, uzavřené mezi smluvními stranami současně s touto dohodou. Smluvní strany se
+dohodly, že dohodu zašle k uveřejnění v registru smluv zástavní věřitel.
+        4. Není-li v této dohodě stanoveno jinak, řídí se tato dohoda ustanoveními
+zák. č. 89/2012 Sb. občanským zákoníkem, v platném znění.
+        5. Smluvní strany prohlašují, že si tuto dohodu důkladně přečetly, souhlasí s jejím
+obsahem a jsou si vědomy povinností jim z této dohody plynoucích. Dále prohlašují, že tato
+dohoda zachycuje jejich skutečnou, svobodnou a vážnou vůli, že byla uzavřena nikoliv v tísni
+ani za nápadně nevýhodných podmínek a na důkaz toho připojují své podpisy.
+
+Doložka dle ust. § 41 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších
+předpisů:
+
+Tato dohoda byla schválena Zastupitelstvem města Brna na zasedání Z…/.. konaném dne …….
+…...
+
+V Brně dne                                         V Brně dne
+
+
+
+____________________________________               ___________________________________
+         Statutární město Brno                                EMBRA Hold, s.r.o.
+       Ing. Tomáš Pivec, MBA                                 Ing. Milan Pangrác
+     vedoucí Odboru investičního                            jednatel společnosti
+        Magistrátu města Brna                                     zástavce
+          zástavní věřitel
+
+
+
+
+                                                                                            Strana 48 / 48
+

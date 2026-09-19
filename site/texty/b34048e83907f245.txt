@@ -1,0 +1,242 @@
+SCHVÁLENÝ ROZPOČET BĚŽNÝCH VÝDAJŮ MĚSTA BRNA NA ROK 2024 V ČLENĚNÍ NA ORJ A § (v tis. Kč)
+   ORJ                                § - název                          SR_2023        SR_2024       SR24 / SR23
+   1500 - Odbor strategického rozvoje a spolupráce
+        2125 - Podpora podnikání a inovací                                   26 850         23 400         87,2%
+        3319 - Ostatní záležitosti kultury                                   31 779         33 779        106,3%
+        3636 - Územní rozvoj                                                 17 671         22 131        125,2%
+        3809 - Ost. výzkum a vývoj odvětvově nespecifikovaný                 42 050         40 800         97,0%
+        3900 - Ost. činnosti související se službami pro obyvatelstvo         2 650          2 650        100,0%
+   1500 - Odbor strategického rozvoje a spolupráce Celkem                   121 000        122 760        101,5%
+   1600 - Kancelář marketingu a cestovního ruchu
+        2143 - Cestovní ruch                                                 50 537         58 287        115,3%
+        3636 - Územní rozvoj                                                  2 985          3 985        133,5%
+        3900 - Ost. činnosti související se službami pro obyvatelstvo        39 626         32 086         81,0%
+   1600 - Kancelář marketingu a cestovního ruchu Celkem                      93 148         94 358        101,3%
+   1700 - Odbor rozpočtu a financování
+        3511 - Všeobecná ambulantní péče                                         101            101       100,0%
+        6171 - Činnost místní správy                                          11 164         11 024        98,7%
+        6310 - Obecné příjmy a výdaje z finančních operací                   391 000        391 140       100,0%
+        6330 - Převody vlastním fondům v rozpočtech územní úrovně          1 922 308      2 284 693       118,9%
+        6399 - Ostatní finanční operace                                      250 000        250 000       100,0%
+        6409 - Ostatní činnosti j.n.                                          10 000         10 000       100,0%
+   1700 - Odbor rozpočtu a financování Celkem                              2 584 573      2 946 958       114,0%
+   3200 - Odbor vnitřních věcí
+        2291 - Mezinárodní spolupráce v dopravě                                    80          248        310,0%
+        3113 - Základní školy                                                                  320
+        3119 - Ostatní záležitosti základního vzdělávání                      2 712
+        3319 - Ostatní záležitosti kultury                                      294             407       138,4%
+        3429 - Ostatní zájmová činnost a rekreace                               190             229       120,5%
+        3612 - Bytové hospodářství                                              194             647       333,5%
+        3636 - Územní rozvoj                                                  2 220           2 954       133,1%
+        3716 - Monitoring ochrany ovzduší                                       160             161       100,6%
+        3719 - Ostatní činnosti k ochraně ovzduší                               590             929       157,5%
+        3900 - Ost. činnosti související se službami pro obyvatelstvo        11 215          11 015        98,2%
+        4342 - Sociální péče a pomoc přistěhovalcům a vybraným etnikům                           33
+        4349 - Ost. sociální péče a pomoc ost. skupinám obyvatelstva           2 585          9 618       372,1%
+        5511 - Požární ochrana - profesionální část                            5 000          5 000       100,0%
+        6112 - Zastupitelstva obcí                                            39 142         50 400       128,8%
+        6171 - Činnost místní správy                                       1 011 743      1 036 465       102,4%
+        6223 - Mezinárodní spolupráce j.n.                                    10 309         10 394       100,8%
+   3200 - Odbor vnitřních věcí Celkem                                      1 086 434      1 128 820       103,9%
+   3600 - Odbor obrany
+        5212 - Ochrana obyvatelstva                                           1 824          1 824        100,0%
+        5213 - Krizová opatření                                               3 610          4 110        113,9%
+        5273 - Ost. správa v oblasti krizového řízení                            50             50        100,0%
+   3600 - Odbor obrany Celkem                                                 5 484          5 984        109,1%
+   3800 - Odbor správních činností
+        6171 - Činnost místní správy                                               3              3       100,0%
+   3800 - Odbor správních činností Celkem                                          3              3       100,0%
+   3900 - Archiv města Brna
+        6211 - Archivní činnost                                               1 853          1 853        100,0%
+   3900 - Archiv města Brna Celkem                                            1 853          1 853        100,0%
+   4100 - Odbor územního plánování a rozvoje
+        3635 - Územní plánování                                              57 972         56 220         97,0%
+   4100 - Odbor územního plánování a rozvoje Celkem                          57 972         56 220         97,0%
+   4200 - Odbor životního prostředí
+        2115 - Úspora energie a obnovitelné zdroje                            2 580          1 930         74,8%
+        3632 - Pohřebnictví                                                  51 362         54 977        107,0%
+        3716 - Monitoring ochrany ovzduší                                     3 241          3 341        103,1%
+        3719 - Ostatní činnosti k ochraně ovzduší                               286            280         97,9%
+        3722 - Sběr a svoz komunálních odpadů                               185 608        193 901        104,5%
+        3725 - Využívání a zneškodňování komunálních odpadů                 168 038        163 514         97,3%
+SCHVÁLENÝ ROZPOČET BĚŽNÝCH VÝDAJŮ MĚSTA BRNA NA ROK 2024 V ČLENĚNÍ NA ORJ A § (v tis. Kč)
+   ORJ                                § - název                            SR_2023       SR_2024     SR24 / SR23
+   4200 3729
+        - Odbor
+             - Ostatní
+                 životního
+                       nakládání
+                           prostředí
+                                   s odpady                                      1 300         1 300     100,0%
+        3733 - Monitoring půdy a podzemní vody                                     642           642     100,0%
+        3739 - Ostatní ochrana půdy a spodní vody                                  910           910     100,0%
+        3741 - Ochrana druhů a stanovišť                                        78 961        82 511     104,5%
+        3742 - Chráněné části přírody                                              980           980     100,0%
+        3745 - Péče o vzhled obcí a veřejnou zeleň                              56 177        60 880     108,4%
+        3749 - Ost. činnosti k ochraně přírody a krajiny                           250           250     100,0%
+        3792 - Ekologická výchova a osvěta                                       6 580         6 580     100,0%
+        4339 - Ost. sociální péče a pomoc rodině a manželství                  100 000
+        6330 - Převody vlastním fondům v rozpočtech územní úrovně                             4 714
+        6409 - Ostatní činnosti j.n.                                            54 000       54 000      100,0%
+   4200 - Odbor životního prostředí Celkem                                     710 915      630 710       88,7%
+   4300 - Odbor vodního a lesního hospodářství a zemědělství
+        1014 - Ozdravování hospodářských zvířat, plodin a veterinární péče          50          210      420,0%
+        1037 - Celospolečenské funkce lesů                                          80          180      225,0%
+        2310 - Pitná voda                                                          100          100      100,0%
+        2331 - Úpravy vodohosp. významných a vodárenských toků                   4 000        8 000      200,0%
+        2333 - Úpravy drobných vodních toků                                      3 200        3 200      100,0%
+        3429 - Ostatní zájmová činnost a rekreace                                  950          950      100,0%
+        3639 - Komunální služby a územní rozvoj j.n.                               300          300      100,0%
+        3739 - Ostatní ochrana půdy a spodní vody                                  250          250      100,0%
+        3744 - Protierozní, protilavinová a protipožární ochrana                   696          996      143,1%
+        3745 - Péče o vzhled obcí a veřejnou zeleň                              13 518       13 518      100,0%
+   4300 - Odbor vodního a lesního hospodářství a zemědělství Celkem             23 144       27 704      119,7%
+   5100 - Odbor sportu
+        3412 - Sportovní zařízení ve vlastnictví obce                           36 050       35 755       99,2%
+        3419 - Ostatní tělovýchovná činnost                                    427 319      496 038      116,1%
+   5100 - Odbor sportu Celkem                                                  463 369      531 793      114,8%
+   5200 - Odbor školství a mládeže
+        3111 - Mateřské školy                                                    5 117        5 317      103,9%
+        3113 - Základní školy                                                   39 619       37 695       95,1%
+        3117 - První stupeň základních škol                                        164          164      100,0%
+        3122 - Střední odborné školy                                             6 287       10 221      162,6%
+        3149 - Ost. zařízení související s výchovou a vzděláváním mládeže          960        4 960      516,7%
+        3233 - Střediska volného času                                            3 300        3 300      100,0%
+        3299 - Ostatní záležitosti vzdělávání                                                   150
+        3421 - Využití volného času dětí a mládeže                              15 700      116 000      738,9%
+        6330 - Převody vlastním fondům v rozpočtech územní úrovně               29 050       45 681      157,2%
+   5200 - Odbor školství a mládeže Celkem                                      100 197      223 488      223,0%
+   5300 - Odbor městské informatiky
+        6171 - Činnost místní správy                                           257 630      258 257      100,2%
+   5300 - Odbor městské informatiky Celkem                                     257 630      258 257      100,2%
+   5400 - Odbor dopravy
+        2212 - Silnice                                                         534 060       700 465     131,2%
+        2219 - Ostatní záležitosti pozemních komunikací                        246 354       276 562     112,3%
+        2223 - Bezpečnost silničního provozu                                     3 100         3 100     100,0%
+        2229 - Ostatní záležitosti v silniční dopravě veřejnými službami        14 150        13 400      94,7%
+        2271 - Ostatní dráhy                                                     8 344        56 875     681,6%
+        2291 - Mezinárodní spolupráce v dopravě                                                  137
+        2292 - Dopravní obslužnost                                             895 854       908 478     101,4%
+        2293 - Dopravní obslužnost mimo veřejnou službu                         20 424        19 485      95,4%
+        2294 - Dopravní obslužnost veřejnými službami - drážní               1 853 722     1 780 037      96,0%
+        2299 - Ostatní záležitosti v dopravě                                    19 023        20 545     108,0%
+        6171 - Činnost místní správy                                             2 664         2 855     107,2%
+   5400 - Odbor dopravy Celkem                                               3 597 695     3 781 939     105,1%
+SCHVÁLENÝ ROZPOČET BĚŽNÝCH VÝDAJŮ MĚSTA BRNA NA ROK 2024 V ČLENĚNÍ NA ORJ A § (v tis. Kč)
+   ORJ                                § - název                                  SR_2023         SR_2024       SR24 / SR23
+   5600 - Odbor investiční
+        2299 - Ostatní záležitosti v dopravě                                                         12 352
+        2310 - Pitná voda                                                                   50           50        100,0%
+        2321 - Odvádění a čištění odpadních vod a nakládání s kaly                         100          100        100,0%
+        3113 - Základní školy                                                                            17
+        3419 - Ostatní tělovýchovná činnost                                         100 000          85 000         85,0%
+        3631 - Veřejné osvětlení                                                    234 017         284 322        121,5%
+        3633 - Výstavba a údržba místních inženýrských sítí                          18 668          23 996        128,5%
+        3636 - Územní rozvoj                                                              9               9        100,0%
+        3639 - Komunální služby a územní rozvoj j.n.                                 20 192          24 525        121,5%
+        3699 - Ost. záležitosti bydlení, komunálních služeb a územ. rozvoje             400           2 034        508,5%
+        3745 - Péče o vzhled obcí a veřejnou zeleň                                                    2 000
+        6330 - Převody vlastním fondům v rozpočtech územní úrovně                     8 700           1 805         20,7%
+        6409 - Ostatní činnosti j.n.                                                                 15 000
+   5600 - Odbor investiční Celkem                                                   382 136         451 210        118,1%
+   5900 - Odbor implementace evropských fondů
+        2229 - Ostatní záležitosti v silniční dopravě veřejnými službami                   30
+        3113 - Základní školy                                                                            85
+        3314 - Činnosti knihovnické                                                                  11 091
+        3392 - Zájmová činnost v kultuře                                                                500
+        3636 - Územní rozvoj                                                          1 123           1 123        100,0%
+        3639 - Komunální služby a územní rozvoj j.n.                                 61 010          61 010        100,0%
+        3745 - Péče o vzhled obcí a veřejnou zeleň                                    1 539
+   5900 - Odbor implementace evropských fondů Celkem                                 63 702          73 809        115,9%
+   6100 - Odbor participace
+        1019 - Ost. zemědělská a potravinářská činnost a rozvoj                       1 998           1 322         66,2%
+        2310 - Pitná voda                                                                               706
+        2333 - Úpravy drobných vodních toků                                           1 803           1 206         66,9%
+        3412 - Sportovní zařízení ve vlastnictví obce                                    81             519        640,7%
+        3421 - Využití volného času dětí a mládeže                                    1 197           4 231        353,5%
+        3429 - Ostatní zájmová činnost a rekreace                                     1 069           1 000         93,5%
+        3599 - Ostatní činnost ve zdravotnictví                                                       2 680
+        3636 - Územní rozvoj                                                          5 202           5 202        100,0%
+        3745 - Péče o vzhled obcí a veřejnou zeleň                                    2 980           1 936         65,0%
+        3749 - Ost. činnosti k ochraně přírody a krajiny                                150
+        6171 - Činnost místní správy                                                  2 950           2 950        100,0%
+        6409 - Ostatní činnosti j.n.                                                 47 962          56 633        118,1%
+   6100 - Odbor participace Celkem                                                   65 392          78 385        119,9%
+   6200 - Bytový odbor
+        3612 - Bytové hospodářství                                                   41 790          34 890         83,5%
+        3619 - Ost. rozvoj bydlení a bytového hospodářství                               50              50        100,0%
+   6200 - Bytový odbor Celkem                                                        41 840          34 940         83,5%
+   6300 - Majetkový odbor
+        3639 - Komunální služby a územní rozvoj j.n.                                 25 818          24 818         96,1%
+   6300 - Majetkový odbor Celkem                                                     25 818          24 818         96,1%
+   6500 - Živnostenský úřad města Brna
+        6171 - Činnost místní správy                                                        8              8       100,0%
+   6500 - Živnostenský úřad města Brna Celkem                                               8              8       100,0%
+   6600 - Odbor správy majetku
+        2329 - Odvádění a čištění odpadních vod j.n.                                    200           1 000        500,0%
+        2333 - Úpravy drobných vodních toků                                             130             130        100,0%
+        3322 - Zachování a obnova kulturních památek                                  1 050           1 950        185,7%
+        3612 - Bytové hospodářství                                                   85 720         112 370        131,1%
+        3613 - Nebytové hospodářství                                                 76 675          89 915        117,3%
+        3639 - Komunální služby a územní rozvoj j.n.                                  8 296          55 296        666,5%
+        4341 - Sociální pomoc osobám v hmotné nouzi a sociálně nepřizpůsobivým        5 883           6 883        117,0%
+        6171 - Činnost místní správy                                                 88 504         105 864        119,6%
+        6211 - Archivní činnost                                                       5 679           5 679        100,0%
+   6600 - Odbor správy majetku Celkem                                               272 137         379 087        139,3%
+SCHVÁLENÝ ROZPOČET BĚŽNÝCH VÝDAJŮ MĚSTA BRNA NA ROK 2024 V ČLENĚNÍ NA ORJ A § (v tis. Kč)
+   ORJ                               § - název                                      SR_2023         SR_2024       SR24 / SR23
+   7100 - Odbor zdraví
+        3511 - Všeobecná ambulantní péče                                                 8 821           8 821        100,0%
+        3522 - Ostatní nemocnice                                                       119 583         100 601         84,1%
+        3523 - Odborné léčebné ústavy                                                   19 385          19 385        100,0%
+        3525 - Hospice                                                                   2 950           3 252        110,2%
+        3529 - Ostatní ústavní péče                                                     55 195          55 195        100,0%
+        3543 - Pomoc zdravotně postiženým                                                  150             150        100,0%
+        3545 - Programy paliativní péče                                                  8 005           7 209         90,1%
+        3599 - Ostatní činnost ve zdravotnictví                                         14 438          15 152        104,9%
+        4339 - Ost. sociální péče a pomoc rodině a manželství                           18 028          17 808         98,8%
+        4379 - Ost. služby a činnosti v oblasti sociální prevence                        1 692           1 692        100,0%
+   7100 - Odbor zdraví Celkem                                                          248 247         229 265         92,4%
+   7200 - Odbor sociální péče
+        3541 - Prevence před drogami, alkoholem, nikot. a jin. závislostmi              10 694           7 377         69,0%
+        4341 - Sociální pomoc osobám v hmotné nouzi a sociálně nepřizpůsobivým           2 999           5 616        187,3%
+        4342 - Sociální péče a pomoc přistěhovalcům a vybraným etnikům                  16 020          18 320        114,4%
+        4349 - Ost. sociální péče a pomoc ost. skupinám obyvatelstva                    15 378          16 505        107,3%
+        4350 - Domovy pro seniory                                                      262 547         261 347         99,5%
+        4357 - Domovy pro osoby se zdrav. postižením a se zvl. režimem                  56 495          51 164         90,6%
+        4359 - Ost. služby a činnosti v oblasti sociální péče                          123 700         145 700        117,8%
+        4374 - Azylové domy, nízkoprahová denní centra a noclehárny                    205 576         210 507        102,4%
+   7200 - Odbor sociální péče Celkem                                                   693 409         716 536        103,3%
+   7300 - Odbor kultury
+        3311 - Divadelní činnost                                                        880 063         913 688       103,8%
+        3312 - Hudební činnost                                                          154 200         146 297        94,9%
+        3313 - Filmová tvorba, distribuce, kina a audiovizuální archiválie                9 361           9 256        98,9%
+        3314 - Činnosti knihovnické                                                      93 769          95 869       102,2%
+        3315 - Činnosti muzeí a galerií                                                  86 682          94 360       108,9%
+        3316 - Vydavatelská činnost                                                       1 653           1 432        86,6%
+        3317 - Výstavní činnosti v kultuře                                               34 494          39 454       114,4%
+        3319 - Ostatní záležitosti kultury                                               74 689          80 819       108,2%
+        3326 - Pořízení, zachování a obnova kultur., národního a histor. povědomí         2 459           2 698       109,7%
+        3329 - Ost. záležitosti ochrany památek a péče o kulturní dědictví                  200           2 300      1150,0%
+   7300 - Odbor kultury Celkem                                                        1 337 570       1 386 173       103,6%
+   7500 - Odbor památkové péče
+        3322 - Zachování a obnova kulturních památek                                    18 361          18 361        100,0%
+   7500 - Odbor památkové péče Celkem                                                   18 361          18 361        100,0%
+   7600 - Odbor přestupků v dopravě
+        2219 - Ostatní záležitosti pozemních komunikací                                  1 400           1 400        100,0%
+   7600 - Odbor přestupků v dopravě Celkem                                               1 400           1 400        100,0%
+   7700 - Odbor registru vozidel a řidičů
+        2219 - Ostatní záležitosti pozemních komunikací                                       500          500        100,0%
+   7700 - Odbor registru vozidel a řidičů Celkem                                              500          500        100,0%
+   7900 - 4. úsek - samostatná oddělení
+        2119 - Ost. záležitosti těžebního průmyslu a energetiky                                          7 650
+        6171 - Činnost místní správy                                                     7 000          17 400        248,6%
+   7900 - 4. úsek - samostatná oddělení Celkem                                           7 000          25 050        357,9%
+   8200 - Městská policie Brno
+        1014 - Ozdravování hospodářských zvířat, plodin a veterinární péče               13 844          13 837        99,9%
+        4349 - Ost. sociální péče a pomoc ost. skupinám obyvatelstva                        545             440        80,7%
+        5311 - Bezpečnost a veřejný pořádek                                             546 329         548 501       100,4%
+        5319 - Ost. záležitosti bezpečnosti a veřejného pořádku                             265             300       113,2%
+   8200 - Městská policie Brno Celkem                                                   560 983         563 078       100,4%
+   Celkový součet                                                                    12 821 920      13 793 467       107,6%
+

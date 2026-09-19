@@ -1,0 +1,100 @@
+{
+  "@context": ["http://www.w3.org/ns/csvw",{"@language": "cs"}],
+  "url": "kvros.csv",
+  "dc:description": "Registr volebních stran", 
+  "tableSchema": { 
+    "columns": [{
+      "name": "OKRES",
+      "titles": "OKRES",
+      "dc:description": "Kód okresu dle CNUMNUTS, kam OBEC patří",
+      "required": true,
+      "datatype": "number"
+    },{
+      "name": "KODZASTUP",
+      "titles": "KODZASTUP",
+      "dc:description": "Kód voleného zastupitelstva",
+      "required": false,
+      "datatype": "number"
+    },{
+      "name": "NAZEVZAST",
+      "titles": "NAZEVZAST",
+      "dc:description": "Název územní jednotky, jejíž zastupitelstvo se volí",
+      "required": true,
+      "datatype": "string"
+    },{
+      "name": "COBVODU",
+      "titles": "COBVODU",
+      "dc:description": "Číslo volebního obvodu pro volbu zastupitelstva",
+      "required": false,
+      "datatype": "number"
+    },{
+      "name": "POR_STR_HL",
+      "titles": "POR_STR_HL",
+      "dc:description": "Vylosované pořadí volební strany na hlasovacím lístku",
+      "required": false,
+      "datatype": "number"
+    },{
+      "name": "OSTRANA",
+      "titles": "OSTRANA",
+      "dc:description": "Kód volební strany v rámci voleného zastupitelstva - vč. jednotlivých samostatně kandidujících nezávislých kandidátů a jednotlivých místních sdružení nezávislých kandidátů",
+      "required": true,
+      "datatype": "number"
+    },{
+      "name": "VSTRANA",
+      "titles": "VSTRANA",
+      "dc:description": "Interní číslo volební strany dle číselníku CVS",
+      "required": true,
+      "datatype": "number"
+    },{
+      "name": "NAZEVCELK",
+      "titles": "NAZEVCELK",
+      "dc:description": "Název volební strany 2000 znaků",
+      "required": true,
+      "datatype": "string"
+    },{
+      "name": "ZKRATKAO30",
+      "titles": "ZKRATKAO30",
+      "dc:description": "Zkrácený název volební strany 50 znaků",
+      "required": true,
+      "datatype": "string"
+    },{
+      "name": "ZKRATKAO8",
+      "titles": "ZKRATKAO8",
+      "dc:description": "Zkratka názvu volební strany 15 znaků",
+      "required": true,
+      "datatype": "string"
+    },{
+      "name": "POCSTR_SLO",
+      "titles": "POCSTR_SLO",
+      "dc:description": "Počet politických subjektů, ze kterých se volební strana skládá (počet kódů navrhujících stran v položce SLOZENI)",
+      "required": true,
+      "datatype": "number"
+    },{
+      "name": "SLOZENI",
+      "titles": "SLOZENI",
+      "dc:description": "Kódy NSTRANA, ze kterých se volební strana skládá",
+      "required": true,
+      "datatype": "string"
+    },{
+      "name": "HLASY_STR",
+      "titles": "HLASY_STR",
+      "dc:description": "Počet hlasů, které volební strana získala",
+      "required": true,
+      "datatype": "number"
+    },{
+      "name": "PROCHLSTR",
+      "titles": "PROCHLSTR",
+      "dc:description": "Přepočtené procento získaných hlasů (bez zaokrouhlení)",
+      "required": true,
+      "datatype": "number"
+    },{
+      "name": "MAND_STR",
+      "titles": "MAND_STR",
+      "dc:description": "Počet mandátů, které volební strana získala",
+      "required": true,
+      "datatype": "number"
+    }
+    ],
+    "primaryKey": ["KODZASTUP","COBVODU","POR_STR_HL"]
+  }
+}

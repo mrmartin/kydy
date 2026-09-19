@@ -1,0 +1,199 @@
+Rada města Brna
+
+Z9/03. zasedání Zastupitelstva města Brna
+konané dne 13.12.2022
+
+
+
+     22. Návrh na aktualizaci rozpočtu kapitálových výdajů Odboru
+      městské informatiky MMB v roce 2022 - návrh rozpočtového
+                               opatření
+
+Anotace
+Důvodem návrhu rozpočtového opatření je nevyčerpání finančních prostředků určených na realizaci
+veřejných zakázek „Vývoj a implementace SW aplikace na Centrum řízení projektů“ a „Síťová
+infrastruktura pro redundantní AIS“ z rozpočtu Odboru městské informatiky na rok 2022. Uvedené
+veřejné zakázky se realizují ke konci roku 2022 a s ohledem na skutečnost, že v rámci procesu akceptace
+ověření funkčnosti předmětu plnění veřejných zakázek je na straně statutárního města Brna vyžadována
+součinnost několika odborů MMB, bude přípustná fakturace až v příštím roce.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   rozpočtové opatření dle tabulky, která tvoří přílohu č. .... tohoto zápisu, na základě
+                               aktualizace očekávaného čerpání rozpočtu kapitálových výdajů Odboru městské
+                               informatiky v roce 2022.
+
+
+Stanoviska
+
+Finanční výbor ZMB materiál projedná dne 7. 12. 2022.
+Rada města Brna projednala materiál na své schůzi R9/005 konané dne 23. 11. 2022 a doporučila
+ZMB ke schválení.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. David Menšík
+  vedoucí odboru - Odbor městské informatiky
+  1.12.2022 v 08:07
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  6.12.2022 v 00:14
+
+
+
+Sestava vytvořena 6.12.2022 v 00:14                            1/1                              Vygenerováno programem eMMB
+
+
+                                                                                                                Strana 1 / 4
+                                 Obsah materiálu
+Návrh usnesení                                        1-1
+Obsah materiálu                                       2-2
+Důvodová zpráva                                       3-3
+Příloha k usnesení (Převod do NR 2023_RO_15_11.pdf)   4-4
+
+
+
+
+                                                       Strana 2 / 4
+                                             Důvodová zpráva:
+
+Odbor městské informatiky MMB předkládá orgánům města Brna návrh rozpočtového opatření, jehož
+předmětem je návrh na aktualizaci rozpočtu kapitálových výdajů Odboru městské informatiky MMB
+v roce 2022.
+
+Důvodem návrhu rozpočtového opatření je nevyčerpání finančních prostředků určených na realizaci
+veřejných zakázek „Vývoj a implementace SW aplikace na Centrum řízení projektů“ a „Síťová
+infrastruktura pro redundantní AIS“ z rozpočtu Odboru městské informatiky na rok 2022. Uvedené
+veřejné zakázky se realizují ke konci roku 2022 a s ohledem na skutečnost, že v rámci procesu
+akceptace ověření funkčnosti předmětu plnění veřejných zakázek je na straně statutárního města Brna
+vyžadována součinnost několika odborů MMB, bude přípustná fakturace až v příštím roce.
+
+K nevyčerpání finančních prostředků určených na Agendový informační systém (dále jen „AIS“) a
+programové vybavení došlo z důvodu omezení kapacit dodavatelů vzhledem k epidemiologické situaci,
+čímž se zpomalila příprava a následná realizace rozvoje prvků několika AIS. Očekávané upřesnění
+požadavků na rozšíření funkcionalit městských informačních systémů se proto v této souvislosti
+posouvá.
+
+Očekávané dopady požadavků na kyberbezpečnost nebylo možné promítnout do doplnění
+programového vybavení a AIS, a to vzhledem ke stavu projednávání dopadů legislativních požadavků,
+které vzniknou díky implementaci směrnice Evropského parlamentu a Rady (EU) o opatřeních k zajištění
+vysoké společné úrovně kybernetické bezpečnosti v Unii, tzv. směrnice NIS2 a dalších zpřísnění
+požadavků na obce. Zde probíhá upřesňování požadavků a úpravy zákonných norem na celostátní
+úrovni, a to v Národním úřadě pro kybernetickou a informační bezpečnost (NÚKIB), Radě vlády pro
+informační společnost (RVIS) a Ministerstva vnitra ČR, zejména sekce Odboru hlavního architekta
+eGovernmentu.
+
+Na základě očekávaného nedočerpání rozpočtu kapitálových výdajů roku 2022 Odbor městské
+informatiky MMB předkládá tabulku rozpočtového opatření.
+
+Rada města Brna projednala na své schůzi R9/005 konané dne 23. 11. 2022 a doporučila ZMB ke
+schválení.
+
+Schváleno jednomyslně 9 členy.
+                                                                                              Matonohová
+                                     Podivinská
+
+
+
+
+                                                                                 Kratochvíl
+                                                          Ing. arch.
+  Vaňková
+
+
+
+
+                                                          Bořecký
+
+
+                                                                       Chvátal
+                            Kerndl
+                    Suchý
+
+
+
+
+                                                                       RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                            JUDr.
+
+
+
+
+                                                                                              JUDr.
+
+
+                                                                                                           JUDr.
+                                                  Aberl
+
+
+
+
+                                                                                                           Oliva
+            Mgr.
+
+
+
+                    Mgr.
+
+
+
+
+                                     Ing.
+
+
+
+
+                                                                                 Ing.
+                                                  Bc.
+
+
+
+
+    pro      pro    pro       ---     pro          pro     pro          ---       pro          pro         pro
+
+
+Materiál nepodléhá projednání v komisích RMB.
+
+Finanční výbor ZMB projedná materiál dne 7. 12. 2022.
+
+
+
+
+                                                                                                                   Strana 3 / 4
+                                                           Rozpočtové opatření
+                                                                                                                                       v tis. Kč
+Kapitálové výdaje - snížení
+ ORJ      §     pol.     ÚZ   ORG                               Věcná náplň                       Upravený rozpočet    Úprava         Rozpočet
+                                                                                                    k 15.11.2022     rozpočtu + -     po změně
+   5300 6171      6111          3432 ISMB - agendový aplikační software                                       15 583       -5 174          10 409
+   5300 6171      6111          3476 OMI - Informační systém                                                  58 142      -18 310          39 832
+Financování - snížení
+ ORJ     §       pol.  ÚZ     ORG                               Věcná náplň                       Upravený rozpočet      Úprava       Rozpočet
+                                                                                                    k 15.11.2022       rozpočtu + -   po změně
+                                     Tvorba rezervy na základě očekávaného nedočerpání rozpočtu
+  1700           8115                kapitálových výdajů roku 2022 - k využití v roce 2023                   -45 606        -23 484          -69 090
+
+
+
+
+                                                                                                                                      Strana 4 / 4
+

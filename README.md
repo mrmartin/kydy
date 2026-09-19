@@ -1,277 +1,62 @@
-# Political Posters Platform 🗳️
+# kydy.com – Brno před komunálními volbami 2026
 
-A modern web application for uploading, sharing, and rating political posters and campaign materials. Built with Next.js, Supabase, and local file storage.
+Repozitář: https://github.com/mrmartin/kydy. Původní projekt je zachován ve větvi [archive/pred-brno-2026-09-19](https://github.com/mrmartin/kydy/tree/archive/pred-brno-2026-09-19), commit `f18cc08d689804767e92ad85e8c1ee84835b6aba`. Historie není přepsaná.
 
-**🇨🇿 Fully localized in Czech** - All user interface text, forms, and messages are in Czech language, designed for Czech users and political content.
+Připravený statický web je v `site/`. Jeho velikost je přibližně 561 MiB. Úplný původní archiv má asi 16 GB a je uložen odděleně; soubory pro GitHub Releases připravuje `scripts/package_archive.py`. Repozitář neobsahuje přístupové údaje a workflow nepotřebuje vlastní tajné klíče.
 
-## 🎯 What is this?
+## Co je potřeba od vlastníka
 
-This platform allows users to:
-- **Upload political posters** with metadata (title, description, location, date, political party)
-- **Browse galleries** of uploaded posters
-- **Rate and comment** on political materials
-- **Organize by political parties** with color-coded categories
-- **User authentication** and personalized dashboards
+1. Zvolit GitHub účet nebo organizaci a název repozitáře, doporučeně veřejný `kydy`. Veřejný repozitář umožňuje GitHub Pages i na GitHub Free.
+2. V místním terminálu provést `gh auth login --hostname github.com --web --git-protocol https`. Je-li již přihlášen jiný účet, vybrat správný. Token se neposílá do konverzace. Pro nasazení je potřeba přístup k vytvoření nebo správě repozitáře a jeho nastavení Pages.
+3. Mít přístup k DNS kydy.com. Kontrola 19. 9. 2026 zjistila autoritativní servery `ns1.ename.net` a `ns2.ename.net`; apex i www nyní odkazují na `cs.ename.net`.
 
-## 🏗️ Architecture
+## Postup nasazení po přihlášení
 
-- **Frontend**: Next.js 15 with React, TypeScript, TailwindCSS
-- **Backend**: Next.js API routes
-- **Database**: Supabase (PostgreSQL with Row Level Security)
-- **Authentication**: Supabase Auth
-- **File Storage**: Local file system
-- **UI Components**: Radix UI primitives
-- **Localization**: Full Czech language support (UI, forms, messages)
+Záměr: veřejný repozitář pod potvrzeným vlastníkem. Tato příprava sama žádný vzdálený repozitář nezakládá ani nemění DNS.
 
-## 📋 Prerequisites
+- Vytvořit nebo připojit repozitář, uložit tento adresář jako jeho obsah a nahrát větev `main`.
+- V repozitáři **Settings → Pages → Build and deployment → Source: GitHub Actions**. Pro Actions musí být povoleno spouštění workflow. Je dodáno `.github/workflows/pages.yml`, které publikuje výhradně adresář `site/`.
+- Ve stejném nastavení Pages uložit **Custom domain: kydy.com**. Soubor `site/CNAME` je přiložen pro přenositelnost; u nasazení Actions rozhoduje nastavení repozitáře, samotný soubor doménu nenastaví.
+- Teprve po připojení domény v GitHub Pages změnit DNS podle následující tabulky.
+- Po úspěšné kontrole DNS a vystavení certifikátu zapnout **Enforce HTTPS**. Propagace DNS a dostupnost certifikátu mohou trvat až 24 hodin.
 
-Before running this project, you need:
+| Typ | Název | Hodnota |
+| --- | --- | --- |
+| A | @ | 185.199.108.153 |
+| A | @ | 185.199.109.153 |
+| A | @ | 185.199.110.153 |
+| A | @ | 185.199.111.153 |
+| CNAME | www | mrmartin.github.io |
 
-1. **Node.js** (v18 or higher)
-2. **npm** package manager
-3. **Supabase account** and project
-4. **Persistent storage directory** (for file uploads)
+`VLASTNIK` je GitHub uživatel nebo organizace, nikoliv název repozitáře. TTL může zůstat výchozí. Nahradit současné parkovací CNAME pro `@` a `www`; ponechat záznamy pro e-mail a jiné služby. Případné původní AAAA pro tyto názvy musí odpovídat novému hostingu; při dnešní kontrole nebyly nalezeny samostatné adresy AAAA. IPv6 není pro tento postup vyžadováno.
 
-## 🚀 Quick Start
+Doporučené ověření vlastnictví: v **nastavení účtu/organizace → Pages → Add a domain** přidat kydy.com, vytvořit přesný TXT záznam vygenerovaný GitHubem a stisknout Verify. Hodnotu nelze připravit předem bez cílového účtu. TXT ponechat i po ověření.
 
-### 1. Clone and Install
+## Úplný archiv ke stažení
 
-```bash
-git clone <your-repo-url>
-cd kydy
-npm install --legacy-peer-deps
+Připravené soubory v `release-assets/` jsou z Gitu vyloučeny. Každý je menší než 2 GiB; odpovídají limitu jednotlivých příloh GitHub Releases. Databáze je také samostatně v `archiv.sqlite.gz`.
+
+Nejprve nahrát soubory do vydání `archiv-2026-09-19` cílového repozitáře, včetně `manifest.json` a `SHA256SUMS`. Balíky `archiv-XX.tar.gz` jsou samostatné a rozbalují se do stejného nadřazeného adresáře; všechny společně obnoví původní adresář `brno-volby-2026/` včetně databáze. Není nutné je binárně spojovat.
+
+Po nahrání vydání aktualizovat veřejné odkazy příkazem:
+
+```sh
+python3 scripts/build_site.py --repository mrmartin/kydy
+python3 scripts/check_site.py
 ```
 
-### 2. Environment Setup
+Výchozí build bez `--repository` nezobrazuje neexistující odkazy ke stažení. Originály dokumentů na webu odkazují přímo k vydavatelům, všechny dostupné textové kopie jsou součástí webu. CSV manifest zachovává místní cesty do úplného archivu. Na původní dokumenty se vztahují podmínky jejich vydavatelů.
 
-Create a `.env.local` file in the project root with the following variables:
+## Obnova a kontrola
 
-**First, create the uploads directory:**
-```bash
-sudo mkdir -p /mnt/nvme_data/kydy_uploads
-sudo chown $USER:$USER /mnt/nvme_data/kydy_uploads
-sudo chmod 755 /mnt/nvme_data/kydy_uploads
+```sh
+python3 scripts/build_site.py
+python3 scripts/check_site.py
+python3 -m http.server 8000 --directory site
 ```
 
-```env
-# Supabase Configuration
-NEXT_PUBLIC_SUPABASE_URL=your-supabase-project-url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your-supabase-anon-key
+Pak otevřít http://localhost:8000. Build vychází ze sousedního `../brno-volby-2026/`, případně použít `--archive /cesta/k/archivu`. V GitHub Actions se archiv znovu nestahuje: publikuje se již připravená statická verze. Aktualizace analýzy se provádí v původním archivu a znovu vygeneruje tímto buildem.
 
-# Optional: For development redirects
-NEXT_PUBLIC_SITE_URL=http://localhost:3000
-NEXT_PUBLIC_DEV_SUPABASE_REDIRECT_URL=http://localhost:3000/auth/callback
+Kontrola ověřuje limit velikosti, všechny místní HTML odkazy a datové vazby interaktivního srovnání. Interaktivní filtry byly navíc ověřeny v jsdom včetně přesměrování na původní vydavatele.
 
-# Local File Storage Directory (for file uploads)
-UPLOADS_DIR=/mnt/nvme_data/kydy_uploads
-```
-
-### 3. Database Setup
-
-Run the following SQL scripts in your Supabase SQL Editor:
-
-1. **Create Tables** (`scripts/01-create-tables.sql`)
-2. **Seed Political Parties** (`scripts/02-seed-parties.sql`)
-3. **Create Functions & Triggers** (`scripts/03-create-functions.sql`)
-
-See `SETUP-INSTRUCTIONS.md` for detailed database setup instructions.
-
-### 4. Start Development Server
-
-```bash
-npm run dev
-```
-
-Visit http://localhost:3000 to see the application.
-
-## 📁 Project Structure
-
-```
-kydy/
-├── app/                    # Next.js app directory
-│   ├── api/               # API routes
-│   │   ├── upload/        # File upload endpoint
-│   │   ├── posters/       # Poster CRUD operations
-│   │   ├── comments/      # Comments API
-│   │   └── ratings/       # Ratings API
-│   ├── auth/              # Authentication pages
-│   ├── dashboard/         # User dashboard
-│   ├── gallery/           # Poster gallery
-│   ├── poster/[id]/       # Individual poster pages
-│   └── upload/            # Upload form page
-├── components/            # Reusable React components
-├── lib/                   # Utility libraries
-│   ├── supabase/         # Supabase client configuration
-│   └── actions.ts        # Server actions
-├── scripts/              # Database setup scripts
-└── .env.local           # Environment variables (create this)
-```
-
-## 🔐 Environment Variables Explained
-
-### Required Variables
-
-| Variable | Description | How to Get |
-|----------|-------------|------------|
-| `NEXT_PUBLIC_SUPABASE_URL` | Your Supabase project URL | Supabase Dashboard → Settings → API |
-| `NEXT_PUBLIC_SUPABASE_ANON_KEY` | Supabase anonymous/public key | Supabase Dashboard → Settings → API |
-| `UPLOADS_DIR` | Local directory for file uploads | Create a persistent directory (e.g., `/mnt/nvme_data/kydy_uploads`) |
-
-### Optional Variables
-
-| Variable | Description | Default |
-|----------|-------------|---------|
-| `NEXT_PUBLIC_SITE_URL` | Your site URL | `http://localhost:3000` |
-| `NEXT_PUBLIC_DEV_SUPABASE_REDIRECT_URL` | Auth redirect URL | `http://localhost:3000/auth/callback` |
-
-## 🗄️ Database Schema
-
-The application uses the following main tables:
-
-- **`profiles`** - User profiles (auto-created on signup)
-- **`political_parties`** - Political party data with colors
-- **`posters`** - Uploaded poster metadata and files
-- **`comments`** - User comments on posters
-- **`ratings`** - User ratings (1-5 stars) for posters
-
-All tables include Row Level Security (RLS) policies for data protection.
-
-## 🎮 How to Use
-
-### For Users
-
-1. **Sign Up/Login** - Create an account or login (all in Czech)
-2. **Upload Posters** - Go to `/upload` to add new political posters
-3. **Browse Gallery** - View all posters at `/gallery`
-4. **Rate & Comment** - Interact with posters on individual poster pages
-5. **Dashboard** - View your uploaded posters at `/dashboard`
-
-**Note**: All user interface elements, forms, buttons, and messages are displayed in Czech language for a native user experience.
-
-### For Developers
-
-#### Adding New Political Parties
-
-Add entries to the `political_parties` table:
-
-```sql
-INSERT INTO political_parties (name, color_hex) 
-VALUES ('New Party', '#FF5733');
-```
-
-#### Customizing Upload Logic
-
-Edit `app/api/upload/route.ts` to modify file upload behavior.
-
-#### Modifying UI Components
-
-Components are in the `components/` directory using Radix UI primitives.
-
-## 🛠️ Development Commands
-
-```bash
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-
-# Start production server
-npm start
-
-# Run linting
-npm run lint
-```
-
-## 🔧 Troubleshooting
-
-### Common Issues
-
-1. **"Upload failed" or "ENOENT" errors**
-   - Ensure the uploads directory exists and has proper permissions
-   - Check that `UPLOADS_DIR` is set correctly in `.env.local`
-   - Verify the directory is writable by the Node.js process
-
-2. **"Could not find table 'posters'"**
-   - Run the database setup scripts in Supabase SQL Editor
-   - Check Supabase connection and permissions
-
-3. **"Cannot read properties of undefined"**
-   - Verify all Supabase environment variables are correct
-   - Check network connectivity to Supabase
-
-4. **Auth redirect issues**
-   - Verify `NEXT_PUBLIC_DEV_SUPABASE_REDIRECT_URL` matches your Supabase Auth settings
-   - Check Supabase Auth → URL Configuration
-
-### Environment Variable Validation
-
-The app includes built-in validation for required environment variables. Check the browser console and server logs for configuration issues.
-
-## 📦 Dependencies
-
-### Main Dependencies
-- **Next.js 15** - React framework
-- **React 19** - UI library
-- **TypeScript** - Type safety
-- **Supabase** - Backend-as-a-Service
-- **Vercel Blob** - File storage
-- **TailwindCSS** - Styling
-- **Radix UI** - UI primitives
-
-### Development Dependencies
-- **ESLint** - Code linting
-- **PostCSS** - CSS processing
-
-## 🚀 Deployment
-
-### Vercel Deployment
-
-1. Push your code to GitHub
-2. Connect to Vercel
-3. Add environment variables in Vercel dashboard
-4. Deploy
-
-### Environment Variables for Production
-
-For production deployment, set the same environment variables with production values:
-- Use your production Supabase project
-- Use your production domain for site URLs
-- Keep the same Vercel Blob token (or create a production one)
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🆘 Support
-
-For issues and questions:
-1. Check the troubleshooting section above
-2. Review `SETUP-INSTRUCTIONS.md` for detailed setup help
-3. Check Supabase and Vercel documentation
-4. Create an issue in the repository
-
----
-
-**Built with ❤️ for democratic participation and political transparency in the Czech Republic.**
-
----
-
-## 🇨🇿 Czech Language Features
-
-This platform is fully localized for Czech users:
-
-- **Native Czech Interface**: All menus, buttons, forms, and navigation in Czech
-- **Czech Content Context**: Designed for sharing Czech political posters and campaigns  
-- **Proper Czech Grammar**: Correct pluralization, formal/informal tone, and natural phrasing
-- **Local Date Formats**: Czech date and time formatting throughout the application
-- **Czech Political Parties**: Pre-configured for Czech political landscape
-- **Responsive Czech Text**: All UI components properly handle Czech language characters and text length
+Oficiální dokumentace: [limity Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits), [vlastní doména a DNS](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site), [ověření domény](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages), [limity Releases](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases).

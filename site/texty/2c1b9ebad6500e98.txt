@@ -1,0 +1,376 @@
+Rada města Brna
+
+Z9/36. zasedání Zastupitelstva města Brna
+konané dne 23.6.2026
+
+
+
+   40. Zapojení fondu rezerv a rozvoje v souvislosti s poskytnutím
+  investičních příspěvků organizacím v působnosti Odboru sociální
+    péče MMB a realizací stavebně-technických úprav azylového
+           domu pro mládež, návrh rozpočtového opatření
+
+Anotace
+Předmětem materiálu je poskytnutí investičního příspěvku na modernizaci síťové infrastruktury Centra
+sociálních služeb, p. o., v návaznosti na legislativu k NIS2 (kyberbezpečnost), dále změna účelu
+investičního příspěvku DS Kosmonautů na rekonstrukci kabeláže, převod 3 mil. Kč do rozpočtu OSM
+MMB na opravy azylového domu Vídeňská/Celní a převod 50 tis. Kč do rozpočtu OŠML MMB na podporu
+projektu „Centrum Pod křídly“.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje
+                                      poskytnutí investičního příspěvku Centru sociálních služeb, příspěvkové
+                                      organizaci, na modernizaci síťové infrastruktury ve výši 8,5 mil. Kč
+                                      s termínem vyúčtování do 31.12.2026
+                                      změnu účelu investičního příspěvku schváleného Domovu pro seniory
+                                      Kosmonautů, příspěvkové organizaci, ve výši 380 tis. Kč z „Elektrická lůžka
+                                      s laterárním náklonem“ na „Rekonstrukce strukturované kabeláže v budově
+                                      DS Kosmonautů“ s termínem vyúčtování do 31.12.2026
+                                      rozpočtové opatření dle tabulky, která tvoří přílohu č. ... tohoto
+                                      zápisu, z důvodu zapojení Fondu rezerv a rozvoje do rozpočtu Odboru správy
+                                      majetku MMB na realizaci dílčích oprav a stavebně-technických úprav v
+                                      objektech azylového domu pro mládež, do rozpočtu Odboru školství a mládeže
+                                      MMB na podporu projektu „Centrum Pod křídly“ a do rozpočtu Odboru
+                                      sociální péče MMB na akci "Modernizace síťové infrastruktury"
+
+
+
+Stanoviska
+
+Rada města Brna materiál projednala na schůzi č. R9/180. konané dne 10. 6. 2026. Schváleno
+jednomyslně 9 členy.
+Finanční výbor ZMB materiál projednal dne 17. 6. 2026. Výpis usnesení Finančního výboru bude
+ZMB předložen písemně.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Sestava vytvořena 16.6.2026 v 08:58                          1/2                            Vygenerováno programem eMMB
+
+
+                                                                                                            Strana 1 / 7
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  PaedDr. Jan Polák CSc.
+  vedoucí odboru - Odbor sociální péče
+  15.6.2026 v 11:22
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Jiří Kučera
+  vedoucí úseku - 1. úsek
+  16.6.2026 v 08:58
+
+
+
+
+Sestava vytvořena 16.6.2026 v 08:58          2/2   Vygenerováno programem eMMB
+
+
+                                                                   Strana 2 / 7
+                                 Obsah materiálu
+Návrh usnesení                                     1-2
+Obsah materiálu                                    3-3
+Důvodová zpráva                                    4-6
+Příloha k usnesení (RO ZMB červen.pdf)             7-7
+
+
+
+
+                                                    Strana 3 / 7
+                                           Důvodová zpráva
+
+1)   Investiční příspěvek Centru sociálních služeb
+Návrhem je poskytnutí investičního příspěvku Centru sociálních služeb, p. o. (dále jen „CSS“) na
+modernizaci síťové infrastruktury (tj. datové kabeláže, rozvodů, rackových rozvaděčů a aktivních
+síťových prvků) na všech detašovaných pracovištích organizace.
+
+Stávající infrastruktura již nevyhovuje požadavkům na kapacitu, stabilitu ani bezpečnost provozu. CSS
+zajišťuje služby ve 29 objektech a vzhledem k historicky decentralizované správě ICT není možné
+naplnit požadavky zákona č. 264/2025 Sb., o kybernetické bezpečnosti (NIS2), bez zásadní
+modernizace infrastruktury. CSS je zároveň subjektem regulovaných služeb registrovaným u NÚKIB,
+přičemž ze zákona jí plyne povinnost zavést stanovená bezpečnostní opatření ve lhůtě 1 roku od
+registrace, tj. nejpozději do 9. 2. 2027. Modernizace síťové infrastruktury je v tomto kontextu základním
+technickým předpokladem pro zavedení navazujících opatření, zejména centralizace správy identit,
+řízení přístupů a zabezpečení koncových zařízení.
+
+Problematika kybernetické bezpečnosti CSS je připravována dlouhodobě, průběžně je komunikována s
+Kanceláří kyberbezpečnosti MMB i vedením města, a to včetně informací o postupu, identifikovaných
+potřebách a finančních nárocích. V současnosti CSS ve spolupráci s Odborem implementace
+evropských fondů MMB připravuje žádost o podporu ze 120. výzvy IROP zaměřené na kybernetickou
+bezpečnost.
+
+Stavební část projektu nebude s ohledem na podmínky dotační výzvy způsobilým výdajem, resp. její
+příprava by neumožnila včasné podání žádosti. Tuto část je proto nezbytné řešit samostatně mimo
+dotační projekt, tedy z prostředků města.
+
+Náklady této části bezpečnostních opatření budou dosahovat necelých 9 mil. Kč včetně DPH.
+Z uvedených důvodů je navrhováno poskytnout CSS investiční příspěvek ve výši 8,5 mil. Kč na
+bezodkladnou realizaci akce.
+
+Zdrojem budou prostředky OSP MMB alokované ve Fondu rezerv a rozvoje.
+
+
+
+2)   Změna účelu investičního příspěvku Domovu pro seniory Kosmonautů
+
+Domovu pro seniory Kosmonautů, příspěvkové organizaci, byl do rozpočtu na rok 2026 schválen
+investiční příspěvek ve výši 380 tis. Kč na pořízení elektrických lůžek s laterálním náklonem.
+V organizaci v současné době probíhá investiční akce „Stavební úpravy DS Kosmonautů a přístavba
+budovy“, přičemž realizace vnitřních prací vyvolala neplánovanou potřebu rekonstrukce strukturované
+kabeláže (slaboproudých rozvodů v budově), zejména v oblasti telefonních a anténních rozvodů
+a zajištění připojení WIFI; tyto práce přitom nejsou součástí projektové dokumentace ke stavebním
+úpravám.
+
+Z tohoto důvodu organizace žádá o změnu účelu nevyužitých peněžních prostředků ve výši 380 tis. Kč
+na akci „Rekonstrukce strukturované kabeláže v budově DS Kosmonautů“. Potřeba této investice
+vznikla až v průběhu realizace stavebních úprav a její provedení je nezbytné pro zajištění plně funkčního
+a odpovídajícího technického zázemí objektu. Realizace akce přispěje ke stabilnímu a bezpečnému
+provozu zařízení a vytvoření podmínek pro poskytování sociální služby, přičemž pořízení elektrických
+lůžek bude řešeno samostatně v návaznosti na další investiční možnosti organizace.
+
+
+
+
+                                                                                                     Strana 4 / 7
+3)         Zapojení prostředků do rozpočtu Odboru správy majetku
+Zapojení Fondu rezerv a rozvoje (rezervy OSP z dosažených úspor minulých let) ve výši 3 mil. Kč
+do rozpočtu OSM MMB, ze kterého bude hrazena realizace dílčích oprav a stavebně-technických úprav
+v objektech Azylového domu pro mládež Vídeňská 78/Celní 3.
+
+Zařízení azylového domu pro mládež na adresách Vídeňská 78 a Celní 3 s kapacitou 35 lůžek
+a současně poskytující sociální službu nízkoprahového zařízení pro děti a mládež je již více než 30 let
+provozováno Odborem sociální péče MMB v objektech, které vyžadují průběžnou údržbu a postupné
+obnovy.
+
+Na základě kontroly Krajské hygienické stanice Jihomoravského kraje ze dne 29. 4. 2026 byly
+identifikovány závady, jejichž odstranění je nezbytné z hlediska splnění hygienických a provozních
+požadavků. Jedná se zejména o:
+
+−           doplnění chybějícího hygienického vybavení (umyvadla u WC pro zaměstnance i klienty),
+−           zajištění odpovídajícího stavebně-technického stavu hygienických prostor,
+−           odstranění závad na površích (poškození, vlhkost apod.),
+−           zajištění odpovídajícího větrání vybraných prostor.
+
+Vedle těchto opatření návrh současně zahrnuje i samostatný okruh dlouhodobě potřebných udržovacích
+prací, které nesouvisí přímo s požadavky KHS, avšak jejich realizace je účelná z hlediska celkového
+technického stavu objektů a prevence dalších poruch. Jedná se zejména o výměnu dožitých oken
+a dveří, opravy rozvodů vody a kanalizace, rekonstrukce koupelen či výměny podlahových krytin.
+
+Odbor sociální péče proto navrhuje převést z Fondu rozvoje a rezerv (z rezervy OSP) do rozpočtu
+Odboru správy majetku MMB částku ve výši 3 mil. Kč, která bude využita na zajištění nápravných
+opatření v roce 2026. Odbor správy majetku následně zajistí jejich věcnou realizaci.
+
+
+
+4)         Zapojení prostředků do rozpočtu Odboru školství a mládeže
+Odbor sociální péče navrhuje převod finančních prostředků z Fondu rezerv a rozvoje (rezerva OSP) ve
+výši 50 tis. Kč do rozpočtu Odboru školství a mládeže MMB. Prostředky budou využity na projekt
+„Centrum Pod křídly“, zaměřený na podporu dětí s neurovývojovými obtížemi (např. PAS, ADHD)
+a jejich rodin a na rozvoj návazných podpůrných aktivit v oblasti vzdělávání a péče.
+
+
+
+Komise sociální materiál projednala dne 9. 6. 2026.
+Hlasování: 9 – pro, 0 – proti, 0 – se zdržel/ ze 13 členů. Usnesení bylo přijato.
+                            Bohuňovská
+               Brzobohatý
+
+
+
+
+                                                                                                                        Svobodová
+                                                              Gruberová
+
+
+
+
+                                                                                                                                    Dvořáček
+                                         Svitavský
+
+
+
+
+                                                                                     Novotný
+                                                                          Krytinář
+                                                     Dubová
+    Vobořil
+
+
+
+
+                                                                                                       Karnet
+                                                              MUDr.
+
+
+
+
+                                                                                               Kubeš
+                                         Marek
+
+
+
+
+                                                                                                                Suchý
+                                                                          PhDr.
+
+
+
+
+                                                                                                       PhDr.
+    Mgr.
+
+
+
+
+                                                     Mgr.
+
+
+
+
+                                                                                     Mgr.
+
+
+
+
+                                                                                                                                    Mgr.
+                                                                                               Petr
+               Ing.
+
+
+                            Ing.
+
+
+
+
+                                                                                                                Ing.
+
+
+                                                                                                                        Ing.
+
+
+
+
+     ---         pro           ---        pro         pro      pro         pro        pro       ---     ---      pro     pro         pro
+
+
+
+
+                                                                                                                                     Strana 5 / 7
+Rada města Brna materiál projednala na schůzi č. R9/180. konané dne 10. 6. 2026.
+Schváleno jednomyslně 9 členy.
+
+
+
+
+                                                                                                           Petr Bořecký
+
+
+
+
+                                                                                                                                              Matonohová
+                                                               Podivinská
+
+
+
+
+                                                                                                                                 Kratochvíl
+                                                               Karasová
+
+
+
+
+                                                                                    Ing. arch.
+ Vaňková
+
+
+
+
+                                                                                                 Bořecký
+                          Chvátal
+
+
+
+
+                                               Kerndl
+                          RNDr.
+                  Černý
+ JUDr.
+
+
+
+
+                                    JUDr.
+
+
+
+
+                                                                                                                                              JUDr.
+
+
+
+                                                                                                                                                           JUDr.
+                                    Ph.D.
+
+
+
+
+                                                                            Aberl
+
+
+
+
+                                                                                                                                                                   Oliva
+           Mgr.
+
+
+
+
+                                                        Ing.
+
+
+
+
+                                                                                                                          Ing.
+                                                               Bc.
+ ------    pro            pro         ------            pro          pro            pro                    pro            pro                 pro          pro
+
+
+
+
+                                                                                                                                                                   Strana 6 / 7
+                                                                              Rozpočtové opatření
+                                                                                                                                                                                      v tis. Kč
+Běžné a kapitálové výdaje - zvýšení
+                                                                                                                                            Upr. rozpočet k     Úprava           Rozpočet po
+  ORJ           §           pol.      ÚZ    ORG                                                Věcná náplň
+                                                                                                                                               1.6.2026       rozpočtu +/-         změně
+  7200        4374          6351             1585     Modernizace síťové infrastruktury                                                                   0           8 500             8 500
+  7200        4357          6351           30059132   Investiční transfery zřízeným příspěvkovým organizacím - DS Kosmonautů                           380                   0            380
+                                                      Elektrická lůžka s laterárním náklonem                                                           380             -380                  0
+  7200        4357          6351             1584     Rekonstrukce strukturované kabeláže v budově DS Kosmonautů                                         0              380               380
+  6600        4341          5171             7660     Opravy a udržování                                                                             2 153            2 100             4 253
+  6600        4341          6121             3282     Technické zhodnocení objektů MMB                                                                   0              900               900
+  5200        3421          5222                      Neinvestiční transfery spolkům                                                                14 071               50            14 121
+                                            6160      ve j.n.: Volnočasové aktivity dětí a mládeže                                                  11 062               50            11 112
+Financování - zvýšení
+                                                                                                                                            Upr. rozpočet k     Úprava           Rozpočet po
+  ORJ           §           pol.      ÚZ    ORG                                                Věcná náplň
+                                                                                                                                               1.6.2026       rozpočtu +/-         změně
+                                                      Zapojení Fondu rezerv a rozvoje (Rezerva OSP - péče o seniory a osoby se zdravotním
+  1700                      8115                                                                                                                    -74 429          11 550            -62 879
+                                                      postižením)
+
+
+
+
+                                                                                                                                                                                       Strana 7 / 7
+

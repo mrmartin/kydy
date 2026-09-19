@@ -1,0 +1,829 @@
+﻿OKRES,KODZASTUP,COBVODU,POR_STR_HL,OSTRANA,PORCISLO,JMENO,PRIJMENI,TITULPRED,TITULZA,VEK,POVOLANI,BYDLISTEN,PSTRANA,NSTRANA,PLATNOST,POCHLASU,PRESKOCENI,POCPROCVSE,MANDAT,PORADIMAND,PORADINAHR
+6202,582786,1,1,371,1,Zdeněk,Slavík,Mgr.,,54,vedoucí oddělení,Brno-Kohoutovice,7,7,A,0,N,0,N,0,0
+6202,582786,1,1,371,2,Miloslav,Podal,,,61,obchodní ekonom,Brno-sever,7,7,A,0,N,0,N,0,0
+6202,582786,1,1,371,3,Jiří,Polák,,,47,jednatel společnosti,Brno-Tuřany,7,7,A,0,N,0,N,0,0
+6202,582786,1,1,371,4,Hana,Ferina,Bc.,,38,asistentka právního oddělení,Brno-Kohoutovice,7,7,A,0,N,0,N,0,0
+6202,582786,1,1,371,5,Jozef,Daniel,,,55,předseda organizace Brno Tým,Brno-střed,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,6,Andrea,Vašíčková,Bc.,DiS.,38,zdravotní sestra,Brno-jih,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,7,Jan,Foltýn,Mgr.,MBA,61,technicko-hospodářský pracovník,Brno-sever,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,8,Josef,Mach,Mgr.,,55,středoškolský učitel,Brno-Chrlice,7,7,A,0,N,0,N,0,0
+6202,582786,1,1,371,9,Michal,Krátký,Mgr. Bc.,,47,referent pro krizové řízení,Brno-Tuřany,7,7,A,0,N,0,N,0,0
+6202,582786,1,1,371,10,Stanislav,Zahradník,,,53,mistr elektro,Brno-Kohoutovice,7,7,A,0,N,0,N,0,0
+6202,582786,1,1,371,11,Karel,Neumann,,,58,OSVČ dopravce,Brno-Vinohrady,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,12,Ivan,Riziky,,,59,OSVČ elektrotechnik,Brno-Kohoutovice,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,13,Kamil,Franc,Ing.,,55,stavební inženýr,Brno-Bohunice,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,14,Jiří,Zonyga,Bc.,,52,produktový manažer,Brno-Řečkovice a Mokrá Hora,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,15,Radim,Urbánek,Mgr. Bc.,,48,státní zaměstnanec,Brno-Kohoutovice,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,16,Radomil,Pařízek,,,61,odborný prodejce,Brno-Starý Lískovec,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,17,Petra,Kuklová,,,51,vedoucí prodejny,Brno-jih,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,18,Vlastimil,Závadský,Ing.,,67,ekonom,Brno-Vinohrady,7,7,A,0,N,0,N,0,0
+6202,582786,1,1,371,19,Karolína,Podalová,,,21,asistentka prodeje,Brno-Starý Lískovec,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,20,Milan,Horáček,,,55,OSVČ – dopravce,Brno-Nový Lískovec,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,21,Jakub,Kolář,,,35,technik,Brno-Žebětín,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,22,Jana,Jöbstl,,,68,ekonomka – analytička,Brno-sever,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,23,Tomáš,Mottl,,,45,rozpočtář,Brno-Židenice,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,24,Anna,Čechová,,,64,pokladní,Brno-Starý Lískovec,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,25,Radek,Pospíšil,,,53,dispečer CTD,Brno-Líšeň,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,26,Václav,Božek,Mgr.,CSc.,77,fyzik,Brno-Kohoutovice,7,7,A,0,N,0,N,0,0
+6202,582786,1,1,371,27,Lukáš,Špenik,,,37,mechanik NC strojů,Brno-sever,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,28,Petra,Kupčíková,,,53,vedoucí prodejny,Brno-Bohunice,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,29,Marek,Murdych,,,33,odborný prodavač,Brno-Kohoutovice,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,30,Tomáš,Bauer,,,50,OSVČ,Brno-střed,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,31,Silvie,Bučková,,,38,administrativa,Brno-jih,7,7,A,0,N,0,N,0,0
+6202,582786,1,1,371,32,Michal,Nový,,,58,řidič technických vozidel,Brno-střed,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,33,Jan,Rossi,,,46,stavební technik,Brno-Židenice,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,34,David,Hanák,,,52,dispečer,Brno-Královo Pole,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,35,Martin,Poláček,,,50,dispečer,Brno-jih,7,7,A,0,N,0,N,0,0
+6202,582786,1,1,371,36,David,Klapal,,,45,provozní restaurace,Brno-Kohoutovice,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,37,Lucie,Vohrabalová,,,44,referent,Brno-Vinohrady,7,7,A,0,N,0,N,0,0
+6202,582786,1,1,371,38,Martina,Murdychová,,,59,ekonom obchodu,Brno-Kohoutovice,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,39,Jana,Slavíková,,,58,dětská zdravotní sestra,Brno-Vinohrady,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,40,Jan,Jursa,,,59,vedoucí střediska,Brno-Černovice,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,41,Jaroslav,Crlík,Ing.,,65,technik,Brno-Bohunice,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,42,Hana,Pačinková,,,59,kuchařka,Brno-Vinohrady,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,43,Vít,Mareš,,,21,student,Brno-sever,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,44,Miroslav,Havlíček,,,52,servisní technik,Brno-střed,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,45,Rostislav,Kubišta,,,57,OSVČ,Brno-Žabovřesky,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,46,Marie,Prachařová,,,60,ekonom obchodního provozu,Brno-sever,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,47,Jan,Mikulášek,,,79,strojní zámečník,Brno-sever,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,48,Pavel,Koš,,,41,pracovník technických služeb,Brno-Slatina,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,49,Miroslav,Kračmer,,,58,správce sportovního areálu,Brno-střed,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,50,Lukáš,Ferina,Bc.,,39,prodejce náhradních dílů – technická podpora,Brno-Kohoutovice,7,7,A,0,N,0,N,0,0
+6202,582786,1,1,371,51,Miroslava,Kočařová,,,71,referentka,Brno-Starý Lískovec,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,52,Jana,Hamplová,Bc.,,67,ekonomka,Brno-Kohoutovice,7,7,A,0,N,0,N,0,0
+6202,582786,1,1,371,53,Jana,Hamrová,,,50,místopředsedkyně NNO Brno Tým,Brno-střed,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,54,David,Pollák,,,48,stavební mistr,Brno-střed,99,80,A,0,N,0,N,0,0
+6202,582786,1,1,371,55,Zdeněk,Smolík,,,69,OSVČ, Brno-Kohoutovice,7,7,A,0,N,0,N,0,0
+6202,582786,1,2,340,1,Jakub,Hruška,Bc.,,40,starosta MČ Brno-Kohoutovice,Brno-Kohoutovice,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,2,Irena,Matonohová,JUDr.,,53,radní města Brna pro školství,Brno-Maloměřice a Obřany,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,3,Marie,Jílková,Mgr.,,49,krajská zastupitelka,Brno-střed,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,4,Michal,Marek,JUDr.,,52,starosta MČ Brno-Medlánky a zastupitel Brna,Brno-Medlánky,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,5,Petr,Hladík,Mgr.,,42,poslanec Parlamentu ČR,Brno-sever,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,6,Radomír,Vondra,,,57,starosta MČ Brno-Tuřany a zastupitel Brna,Brno-Tuřany,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,7,Martin,Černý,,,43,starosta MČ Brno-Bosonohy,Brno-Bosonohy,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,8,Petr,Bořecký,,,38,radní města Brna pro participaci,Brno-Řečkovice a Mokrá Hora,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,9,Martin,Maleček,Mgr.,,57,starosta MČ Brno-sever a zastupitel Brna,Brno-sever,1031,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,10,Filip,Leder,Mgr.,,52,starosta MČ Brno-Žabovřesky a advokát,Brno-Žabovřesky,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,11,Libor,Zabloudil,,,55,"podnikatel, cestovatel a zastupitel MČ Brno-střed",Brno-střed,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,12,Patrik,Cibere,Mgr.,,30,acquisition manager a zastupitel MČ Brno-Vinohrady,Brno-Vinohrady,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,13,Kateřina,Basel,Ing. Mgr.,,26,manažerka na Masarykově univerzitě a předsedkyně Mladých lidovců,Brno-sever,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,14,Tereza,Chladilová,Mgr. et Mgr.,,38,"supervizorka, koučka a zastupitelka městské části Brno-Královo Pole",Brno-Královo Pole,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,15,Simona,Ondroušková,Ing.,,52,podnikatelka a zastupitelka MČ Brno-Starý Lískovec,Brno-Starý Lískovec,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,16,Filip,Chvátal,RNDr.,Ph.D.,40,náměstek primátorky města Brna,Brno-střed,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,17,Štěpán,Juránek,Bc.,,36,"místostarosta MČ Brno-Židenice, pedagog a sportovní trenér",Brno-Židenice,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,18,Tereza,Karafiátová,Mgr.,,42,obchodněprávní ředitelka,Brno-Líšeň,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,19,Martin,Krytinář,PhDr.,,41,vedoucí úřadu a zastupitel MČ Brno-Slatina,Brno-Slatina,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,20,Marian,Charvát,Ing. Bc.,,52,obchodní ředitel a zastupitel MČ Brno-Královo Pole,Brno-Královo Pole,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,21,Jakub,Holas,Ing. arch.,,40,1. místostarosta MČ Brno-jih a architekt,Brno-jih,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,22,Jaroslav,Suchý,Mgr.,,55,učitel angličtiny a zastupitel města Brna,Brno-Žebětín,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,23,Martin,Vérteši,Mgr. et Mgr.,Ph.D.,31,předseda Mladých Starostů Jihomoravského kraje a PR manažer,Brno-sever,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,24,Jiří,Dvořáček,Mgr.,,56,místostarosta MČ Brno-Starý Lískovec,Brno-Starý Lískovec,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,25,Petra,Quittová,Bc.,,54,starostka MČ Brno-Černovice,Brno-Černovice,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,26,Vít,Beran,Ing.,,59,starosta MČ Brno-Žebětín,Brno-Žebětín,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,27,Pavel,Crhan,,,57,podnikatel v gastronomii a místostarosta MČ Brno-Žabovřesky,Brno-Žabovřesky,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,28,Jitka,Ivičičová,Mgr.,,45,starostka MČ Brno-Vinohrady a advokátka,Brno-Vinohrady,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,29,Jan,Suchý,Ing.,,60,ředitel domova mládeže a zastupitel MČ Brno-Bystrc,Brno-Bystrc,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,30,Lucie,Stará,Mgr. et Mgr.,,48,starostka MČ Brno-Bohunice,Brno-Bohunice,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,31,Michal,Krejsa,Bc.,,41,odborný referent a zastupitel MČ Brno-Vinohrady,Brno-Vinohrady,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,32,Hana,Pospíšilová,Mgr.,,53,místostarostka MČ Brno-Nový Lískovec a vedoucí lékárny,Brno-Nový Lískovec,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,33,Martin,Žák,Bc.,,44,podnikatel a zastupitel MČ Brno-Kníničky,Brno-Kníničky,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,34,Marek,Brauner,Ing.,DiS.,39,inspektor provozu Zdravotnické záchranné služby JMK,Brno-Bystrc,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,35,Miroslav,Kopál,,,50,podnikatel,Brno-Kohoutovice,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,36,David,Řepa,,,28,místostarosta MČ Brno-Komín,Brno-Komín,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,37,Jiří,Belcredi Knauer,Ing.,,43,realitní makléř,Brno-Líšeň,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,38,Michal,Chaloupka,Bc.,,23,student a zastupitel MČ Brno-Líšeň,Brno-Líšeň,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,39,Ilja,Kašík,Mgr. Bc.,,47,"specialista veřejných zakázek, sportovní trenér a zastupitel MČ Brno-Bystrc",Brno-Bystrc,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,40,Martin,Glogar,Mgr.,,46,místostarosta MČ Brno-sever,Brno-sever,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,41,Tomáš,Bravený,Ing.,,69,podnikatel a důchodce,Brno-Komín,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,42,Hana,Korvasová,Mgr.,,66,zakladatelka Lipky a metodička,Brno-Starý Lískovec,99,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,43,Karel,Mikula,Mgr.,,59,ředitel gymnázia a zastupitel MČ Brno-střed,Brno-střed,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,44,Iva,Paďourková,Mgr.,,54,místostarostka MČ Brno-jih a projektová manažerka,Brno-jih,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,45,Jiřina,Bočková,,,74,důchodkyně,Brno-jih,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,46,Eva,Sychrová,Ing. arch.,,40,místostarostka MČ Brno-Kohoutovice,Brno-Kohoutovice,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,47,Filip,Hanus,,,20,předseda Mladých Starostů v Brně a student práv,Brno-sever,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,48,Josef,Šumbera,Ing.,,59,ředitel společnosti a zastupitel MČ Brno-Ivanovice,Brno-Ivanovice,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,49,Patrik,Evanžin,Ing.,,54,úvěrový specialista a finanční poradce,Brno-Kohoutovice,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,50,Marian,Bednařík,,,36,technický manažer – FC Zbrojovka Brno,Brno-Maloměřice a Obřany,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,51,Petr,Hlaváček,Ing.,,49,softwarový architekt,Brno-Žabovřesky,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,52,Lucie,Grůzová,Mgr. et Mgr.,Ph.D.,41,místostarostka MČ Brno-Židenice a pedagožka na MUNI,Brno-Židenice,99,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,53,Zdeněk,Vlach,,,40,obchodník v ICT a DJ,Brno-střed,166,166,A,0,N,0,N,0,0
+6202,582786,1,2,340,54,Martin,Vrubel,Mgr.,Ph.D.,40,místostarosta MČ Brno-střed a vysokoškolský učitel,Brno-střed,1,1,A,0,N,0,N,0,0
+6202,582786,1,2,340,55,Václav,Šicha,Mgr. Bc.,Ph.D.,47,místostarosta MČ Brno-Jehnice a referent odboru životního prostředí,Brno-Jehnice,1,1,A,0,N,0,N,0,0
+6202,582786,1,3,1869,1,Natálie,Vencovská,MgA.,,28,"designérka, odbornice na veřejný prostor",Brno-střed,5,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,2,Jana,Drápalová,Ing.,,63,starostka MČ Brno-Nový Lískovec,Brno-Nový Lískovec,5,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,3,Kristýna,Fuchsová,JUDr.,,52,právnička v sociálních službách,Brno-střed,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,4,Jiří,Malenovský,,,45,"provozovatel restaurace VEGALITÉ, hudebník, kulturní manažer",Brno-sever,5,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,5,Petr,Kunc,Ing.,,48,"autorizovaný inženýr, starosta MČ Brno-Židenice",Brno-Židenice,99,1187,A,0,N,0,N,0,0
+6202,582786,1,3,1869,6,Petr,Kalousek,BcA.,,46,"spoluzakladatel festivalu Meeting Brno, hudebník",Brno-střed,1026,1026,A,0,N,0,N,0,0
+6202,582786,1,3,1869,7,Jasna,Flamiková,Mgr.,,57,"zastupitelka města Brna a MČ Brno-střed, ekoložka, koučka",Brno-střed,5,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,8,Matouš,Vencálek,Mgr.,,37,"religionista, zastupitel města Brna a MČ Brno-Bystrc",Brno-Bystrc,5,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,9,Milada,Blatná,Mgr.,,64,starostka MČ Brno-Komín,Brno-Komín,5,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,10,Ivana,Fajnorová,,,58,"starostka MČ Brno-Jundrov, spisovatelka",Brno-Jundrov,5,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,11,Ludmila,Kutálková,Ing.,,63,starostka MČ Brno-Maloměřice a Obřany,Brno-Maloměřice a Obřany,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,12,David,Veselý,Ing.,,59,"vodohospodář, projektový manažer",Brno-střed,795,795,A,0,N,0,N,0,0
+6202,582786,1,3,1869,13,Veronika,Holcnerová,Bc.,,42,datová inženýrka,Brno-Žabovřesky,1707,1707,A,0,N,0,N,0,0
+6202,582786,1,3,1869,14,Martin,Reiner,,,62,"spisovatel, nakladatel",Brno-střed,1026,1026,A,0,N,0,N,0,0
+6202,582786,1,3,1869,15,Gabriela,Stögerová,Ing.,,47,"památkářka, expertka na veřejnou zeleň",Brno-střed,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,16,Vojtěch,Pospíšil,Mgr.,,30,advokát,Brno-Řečkovice a Mokrá Hora,1272,1272,A,0,N,0,N,0,0
+6202,582786,1,3,1869,17,Veronika,Surá,Ing.,,36,"podnikatelka, zahradnice, autorka knih Kvítka v bytě",Brno-střed,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,18,Heřman,Dušek,,,25,"student, kulturní pracovník",Brno-sever,1232,1232,A,0,N,0,N,0,0
+6202,582786,1,3,1869,19,Monika,Šimková,Mgr.,,56,projektová manažerka,Brno-Bystrc,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,20,Filip,Vaculík,,,38,"krejčí, ředitel Salonu č4",Brno-střed,5,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,21,Martina,Vidová,Mgr.,,38,"PR manažerka, gastroinfluencerka",Brno-sever,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,22,Petr,Dimitrov,Mgr.,,40,"podnikatel, výrobce kimchi, zakladatel značky Dimchi",Brno-Královo Pole,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,23,Klára,Kubíčková,Bc.,,47,"novinářka, autorka knihy Roztěkané",Brno-střed,5,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,24,Viktor,Piorecký,Mgr.,,47,sociolog,Brno-střed,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,25,Ruth,Konvalinková,Mgr.,Ph.D.,54,ředitelka Evangelického gymnázia a základní školy Filipka Brno,Brno-střed,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,26,Leopold,Bartoš,Ing.,,68,"aktivní senior, dříve IT",Brno-Židenice,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,27,Marie,Kala,Mgr. et Mgr.,Ph.D.,37,"odborná asistentka, Centrum jazykového vzdělávání, Univerzita obrany",Brno-sever,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,28,Ivo,Skopal,Mgr.,,37,"spisovatel, auditor",Brno-střed,5,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,29,Petra,Hlaváčková,Mgr.,Ph.D.,45,historička architektury se zaměřením na gender,Brno-sever,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,30,Jakub,Houška,Ing.,Ph.D.,49,"vedoucí odboru ekologie krajiny ve Výzkumném ústavu pro krajinu, v. v. i.",Brno-sever,5,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,31,Anne Meredith,Johnson,,B.A.,58,"editorka, spoluzakladatelka Czech Theater",Brno-střed,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,32,David,Oplatek,Mgr.,,47,sociální pracovník,Brno-sever,5,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,33,Yvonna,Gaillyová,RNDr.,CSc.,70,"environmentalistka, ředitelka Ekologického institutu Veronica",Brno-střed,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,34,Lukáš,Kala,Mgr.,Ph.D.,43,"vedoucí zahraničního oddělení MENDELU, sociolog",Brno-střed,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,35,Martina,Kurowski,Mgr. et Mgr.,Ph.D.,45,"odborná asistentka na Pedagogické fakultě MU, sociální pedagožka",Brno-sever,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,36,Dalibor,Levíček,Mgr.,MBA,48,pedagog,Brno-Líšeň,5,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,37,Zuzana,Sankotová Morávková,Ing. arch.,,50,"architektka, edukátorka",Brno-střed,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,38,Jindřich,Cinka,Mgr.,,42,"právník, provozovatel deskoheren Za Zrcadlem a Před Zrcadlem",Brno-střed,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,39,Eva,Kučerová,MUDr.,,37,lékařka,Brno-Žabovřesky,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,40,Martin,Slovák,Ing.,,48,"stavební inženýr, provozovatel a spolumajitel hudebního klubu Kabinet MÚZ",Brno-Královo Pole,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,41,Irena,Koláčná,,,54,"místostarostka MČ Brno-Jundrov, administrativní pracovnice",Brno-Jundrov,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,42,Ctirad,Macháček,MUDr.,,43,"lékař, odborný asistent na Lékařské fakultě MU",Brno-sever,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,43,Adéla,Mišove,,MSci,29,"molekulární genetička, doktorandka na Lékařské fakultě MU",Brno-Řečkovice a Mokrá Hora,5,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,44,Martin,Šrom,Ing. Bc.,,45,"pedagog, zástupce ředitele environmentálního vzdělávacího zařízení Lipka",Brno-Maloměřice a Obřany,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,45,Petr,Machálek,Bc.,,49,VŠ pedagog a konzultant,Brno-Žabovřesky,5,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,46,Libor,Brzobohatý,BcA.,,31,divadelní dramaturg,Brno-střed,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,47,Jan,Hollan,RNDr.,Ph.D.,70,"fyzik, environmentalista",Brno-střed,795,795,A,0,N,0,N,0,0
+6202,582786,1,3,1869,48,Benjamín,Skála,Bc.,,42,"administrativní pracovník ve školství, fotograf, wikipedista",Brno-střed,5,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,49,Johana,Drlíková,Mgr.,,36,"environmentalistka na Ústavu výzkumu globální změny AV ČR, předsedkyně ČSOP Morava",Brno-střed,5,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,50,Daniel,Timmerberg,,,46,projektový manažer,Brno-Královo Pole,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,51,Hana,Kratochvílová,,,37,copywriterka,Brno-střed,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,52,Pavel,Klammert,Mgr.,,34,"datový inženýr, edukátor",Brno-Líšeň,5,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,53,Iva,Valentová,Ing.,,61,administrativní pracovnice,Brno-Židenice,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,54,Jaroslav,Ostrčilík,Mgr.,,43,"mediální konzultant, iniciátor Pouti smíření, spoluzakladatel festivalu Meeting Brno",Brno-Královo Pole,99,5,A,0,N,0,N,0,0
+6202,582786,1,3,1869,55,Michal,Berg,BcA.,,46,manažer v think-tanku Fakta o klimatu,Brno-střed,5,5,A,0,N,0,N,0,0
+6202,582786,1,4,768,1,Václav,Trojan,MVDr. Ing.,Ph.D.,41,vedoucí pěstírny léčebného konopí FNUSA,Brno-Židenice,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,2,Ondřej,Ludka,prof. MUDr.,Ph.D.,52,přednosta kliniky,Brno-Vinohrady,99,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,3,Jindřich,Rybka,Ing.,"BA., MBA",56,vedoucí oddělení BKOM,Brno-sever,99,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,4,Iva,Kremitovská,Ing. arch.,,65,"architektka, podnikatelka",Brno-Líšeň,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,5,Miroslav,Kubásek,RNDr.,Ph.D.,52,"zastupitel města Brna, ekolog",Brno-střed,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,6,Zuzana Olga,Artimová,PaedDr. Ing.,"MBA, LL.M.",62,místostarostka MČ Brno-Královo Pole,Brno-Královo Pole,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,7,Libor,Tupa,,,41,radní MČ Brno-Žabovřesky,Brno-Žabovřesky,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,8,Hana,Chorvátová,,,52,"ekonom, radní MČ Brno-Slatina",Brno-Slatina,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,9,Sabina,Havránková,Ing.,MBA,30,marketingový specialista,Brno-Komín,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,10,Ondřej,Procházka,Ing.,,53,senior export manager,Brno-Židenice,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,11,Tomáš,Hejl,,MBA,40,"místostarosta MČ Brno-Bystrc, zastupitel JMK",Brno-Bystrc,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,12,Ludmila,Oulehlová,,,62,místostarostka MČ Brno-střed,Brno-střed,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,13,Jiří,Škárek,,DiS.,51,zdravotnický záchranář,Brno-sever,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,14,Aleš,Kvíčala,Ing.,,43,místostarosta MČ Brno-Královo Pole,Brno-Královo Pole,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,15,Zdeněk,Sklenář,Ing. et Ing.,,50,podnikatel,Brno-Královo Pole,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,16,Adam,Stanislav,Ing.,,24,"ekonom, záchranář",Brno-Komín,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,17,Pavel,Tyralík,Mgr. Ing.,,62,místostarosta MČ Brno-Žabovřesky,Brno-Žabovřesky,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,18,Ondřej,Maršálek,Ing.,,27,stavební inženýr,Brno-Slatina,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,19,Vladimír,Hemerka,Mgr.,,52,ředitel společnosti,Brno-Starý Lískovec,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,20,Petr,Bauer,,,48,místostarosta MČ Brno-Žebětín,Brno-Žebětín,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,21,Zdeněk,Machů,Ing.,,49,místostarosta MČ Brno-střed,Brno-střed,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,22,Denisa,Kocmánková,Ing.,MBA,46,"ekonomka, radní MČ Brno-Bystrc",Brno-Bystrc,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,23,Tomáš,Zima,Mgr.,,34,brand manažer,Brno-sever,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,24,David,Hoffmann,Ing. arch.,,53,"zastupitel JMK, MČ Brno-Žabovřesky",Brno-Žabovřesky,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,25,Michael,Kinc,Ing.,,28,softwarový inženýr,Brno-Slatina,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,26,Tereza,Mašková,,,35,podnikatelka v oblasti obchodu,Brno-Řečkovice a Mokrá Hora,99,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,27,Vladimír,Jirmus,Ing.,,59,technik,Brno-Žebětín,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,28,Matěj,Chmela,,,48,technik staveb,Brno-Líšeň,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,29,Tomáš,Pokorný,,,54,podnikatel ve stavebnictví,Brno-Řečkovice a Mokrá Hora,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,30,Tomáš,Cimbálník,Ing. Bc.,,45,projektový manažer,Brno-Maloměřice a Obřany,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,31,Miroslav,Krupica,,,31,mediální producent,Brno-Královo Pole,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,32,Šárka,Zemanová,Ing.,Ph.D.,55,"manager, radní MČ Brno-Líšeň",Brno-Líšeň,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,33,David,Beran,Ing.,Ph.D.,46,ředitel obchodu medical device,Brno-Maloměřice a Obřany,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,34,Miroslav,Slavíček,,,54,vedoucí přepravní kontroly,Brno-Kohoutovice,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,35,Tomáš,Doupovec,,,50,majitel vendingové společnosti,Brno-Bystrc,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,36,Tomáš,Machalický,Ing.,,50,"burzovní makléř, zastupitel MČ Brno-Komín",Brno-Komín,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,37,Jakub,Brychta,,,35,obchodní zástupce,Brno-jih,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,38,Ivo,Nádeníček,,,35,podnikatel,Brno-Bohunice,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,39,Jan,Čebiš,Mgr.,DiS.,47,advokátní koncipient,Brno-střed,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,40,Antonín,Brzobohatý,Ing.,,70,důchodce,Brno-Bohunice,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,41,Vladislav,Musil,prof. Ing.,CSc.,73,vysokoškolský učitel,Brno-Řečkovice a Mokrá Hora,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,42,Radim,Tomečka,Mgr.,,33,advokát,Brno-Královo Pole,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,43,Zdeněk,Dosoudil,,,50,servisní technik,Brno-Žabovřesky,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,44,Radek,Dykast,Ing.,MBA,31,manažer cestovního ruchu,Brno-Slatina,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,45,Radek,Voneš,Bc.,MBA,55,jednatel společnosti,Brno-sever,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,46,Lenka,Vystrčilová,,,46,asistentka jednatele,Brno-Řečkovice a Mokrá Hora,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,47,Bořivoj,Nakládal,,,73,důchodce,Brno-Židenice,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,48,Jan,Sedláček,Mgr.,,45,kulturní pracovník,Brno-střed,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,49,Alena,Pokorná,Bc.,,54,"pečující, speciální pedagog",Brno-Líšeň,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,50,František,Šenk,Ing.,,56,stavební technik,Brno-Žebětín,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,51,Bohumil,Nečas,,,75,zastupitel MČ Brno-Bystrc,Brno-Bystrc,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,52,Jitka,Vítková,,,70,důchodkyně,Brno-Královo Pole,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,53,Jiřina,Fischerová,Mgr.,,37,radní MČ Brno-střed,Brno-střed,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,54,Věroslav,Kučírek,Bc.,,49,OSVČ,Brno-sever,768,768,A,0,N,0,N,0,0
+6202,582786,1,4,768,55,Michal,Netolický,Ing.,,27,"manager, lektor na VŠ",Brno-Medlánky,768,768,A,0,N,0,N,0,0
+6202,582786,1,5,1710,1,Jana,Tichá Janulíková,Mgr. et Mgr.,,50,ředitelka TIC Brno,Brno-střed,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,2,Lukáš,Winkler,Bc.,,37,"podnikatel, vůdčí osobnost fanoušků, SLO Zbrojovka Brno",Brno-Slatina,1710,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,3,Tomáš,Koláčný,Bc.,,34,"tvůrce Dáme na vás, emeritní náměstek, manažer, designer",Brno-Židenice,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,4,Jiří,Horský,Ing.,,50,"bývalý ředitel KORDIS, dopravní analytik",Brno-sever,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,5,Marek,Fišer,Ing.,,43,"bývalý radní města Brna, kosmopolita a polyglot",Brno-Královo Pole,1710,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,6,Helena,Vařejková,Ing. arch.,,64,"architektka, zahrádkářka, zastupitelka MČ Brno-Královo Pole",Brno-Královo Pole,1710,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,7,Pavel,Knecht,Ing.,,40,manažer a trenér mládeže,Brno-Královo Pole,1710,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,8,Jan,Grmela,Ing.,,39,"manažer, sládek, zastupitel MČ Brno-Žabovřesky",Brno-Žabovřesky,1710,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,9,Ladislava,Blažková,Bc.,,39,"sociální pracovnice, publicistka, moderátorka a stand-uperka",Brno-střed,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,10,Martin,Štefka,Bc.,,35,"podnikatel, ragbista, tvůrce Podcast Flinta",Brno-střed,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,11,Iva,Palkovská,JUDr.,,35,právnička kanceláře veřejného ochránce práv ČR,Brno-Slatina,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,12,Josef,Hron,,,75,trenér,Brno-Bystrc,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,13,Patricie,Částková,Mgr.,,55,dramaturgyně opery Národního divadla Brno,Brno-střed,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,14,Michal,Žvák,,,46,OSVČ,Brno-Židenice,1710,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,15,Alan,Novotný,,,48,"herec Městského divadla Brno, zbrojovák",Brno-Řečkovice a Mokrá Hora,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,16,Patrik,Prudík,,,35,IT specialista,Brno-Královo Pole,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,17,Vanda,Klestilová,,,31,kulturní produkční,Brno-střed,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,18,Gabriel,Kurtis,Ing. arch.,,42,architekt,Brno-střed,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,19,Karolína,Mičková,,,36,podnikatelka,Brno-sever,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,20,Ondřej,Štaud,PhDr.,Ph.D.,41,"HR manager, pedagog a zastupitel MČ Brno-Řečkovice a Mokrá Hora",Brno-Řečkovice a Mokrá Hora,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,21,Magdalena,Kocábová,Ing.,,37,podnikatelka,Brno-Žabovřesky,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,22,Emanuele,Ruggiero,MgA.,,58,filmový režisér,Brno-střed,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,23,Alžběta,Mrázková,,,19,"studentka, budoucí právnička",Brno-Židenice,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,24,Vojtěch,Šrubař,Ing.,,37,generální sekretář Českého volejbalového svazu,Brno-Královo Pole,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,25,Ellen,Sordo,,,26,make-up artist,Brno-sever,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,26,Kamil,Albrecht,Mgr.,,47,pedagog,Brno-sever,1190,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,27,Lukáš,Kučera,,,44,OSVČ,Brno-střed,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,28,Karel,Crha,MUDr.,,41,lékař,Brno-Královo Pole,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,29,Lubomír,Maršálek,,,80,"bývalý kustod FC Zbrojovka Brno, správce tenisových kurtů, důchodce",Brno-Žebětín,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,30,Marika,Kupková,PhDr.,Ph.D.,53,kurátorka Galerie TIC,Brno-Nový Lískovec,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,31,Vladimír,Bajer,,,53,manager,Brno-Řečkovice a Mokrá Hora,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,32,Simona,Kumpanová Valachovičová,Ing.,,38,"vedoucí sekretariátu TIC Brno, noční manažerka klubu Fléda",Brno-Královo Pole,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,33,Radim,Zvejška,,,22,číšník,Brno-střed,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,34,Ondřej,Anton,doc. Ing.,Ph.D.,58,"univerzitní pedagog, diagnostika stavebních konstrukcí",Brno-Starý Lískovec,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,35,Jiří,Filip,Mgr.,,44,"moderátor, organizátor trhů",Brno-Starý Lískovec,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,36,Lucie,Grmelová,Ing.,,39,jednatelka společnosti,Brno-Žabovřesky,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,37,Jan,Holčík,,,52,manažer,Brno-střed,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,38,Lenka,Otřísalová,,,53,učitelka ZŠ,Brno-Královo Pole,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,39,Veronika,Matýsková,,,39,logoped,Brno-Královo Pole,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,40,Tomáš,Bubela,Mgr.,,37,manažer a právník,Brno-Královo Pole,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,41,Šárka,Špičková,Mgr.,,49,učitelka ZŠ,Brno-Královo Pole,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,42,Lucie,Číhalová,,,32,administrativní pracovník v oblasti bezpečnosti práce,Brno-střed,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,43,Pavel,Havlík,Bc.,,43,"marketingový specialista, kameraman",Brno-Vinohrady,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,44,Lenka,Solničková,,,57,servírka,Brno-střed,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,45,Jitka,Albrechtová,Ing.,,46,manažerka v nakladatelství,Brno-sever,1190,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,46,Filip,Nechvátal,,,32,provozní klubu,Brno-střed,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,47,Miroslav,Procházka,,,46,živnostník,Brno-Bystrc,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,48,Adéla,Doležalová,,,21,"studentka, vinařka",Brno-sever,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,49,Lenka,Bělková,Mgr.,,60,překladatelka,Brno-Královo Pole,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,50,Božena,Číhalová,,,54,recepční,Brno-střed,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,51,Hynek,Polášek,,,39,IT specialista,Brno-Žabovřesky,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,52,Iva,Svobodová,,,41,krejčová,Brno-Královo Pole,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,53,Mark,Teerink,,,36,"manažer lidských zdrojů, zástupce expatů",Brno-střed,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,54,Martin,Hořanský,Bc.,,30,"support representative, předseda SVJ Renneská",Brno-střed,99,1710,A,0,N,0,N,0,0
+6202,582786,1,5,1710,55,Zora,Fišerová,,,72,"důchodkyně, zahrádkářka",Brno-sever,99,1710,A,0,N,0,N,0,0
+6202,582786,1,6,523,1,Kamila,Zlatušková,MgA.,Ph.D.,45,televizní producentka,Brno-Žabovřesky,99,80,A,0,N,0,N,0,0
+6202,582786,1,6,523,2,Tomáš,Aberl,Bc.,,38,radní města Brna,Brno-Bohunice,721,721,A,0,N,0,N,0,0
+6202,582786,1,6,523,3,Andrea,Pazderová,Ing.,,58,"starostka MČ Brno Královo-Pole, zastupitelka města Brna",Brno-Královo Pole,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,4,Martin,Basel,Ing. Mgr.,,32,místostarosta MČ Brno-sever,Brno-sever,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,5,Vojtěch,Mencl,Ing. arch.,,56,"starosta MČ Brno-střed, urbanista",Brno-střed,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,6,Martin,Příborský,JUDr. PhDr.,EMLE,49,"zastupitel města Brna, právník",Brno-Líšeň,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,7,Martin,Silnica,Mgr.,,29,právník,Brno-střed,721,721,A,0,N,0,N,0,0
+6202,582786,1,6,523,8,David,Grund,Ing.,,38,"starosta MČ Brno-jih, krajský zastupitel, zastupitel města Brna",Brno-jih,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,9,David,Trllo,Ing.,,42,"zastupitel města Brna, ekonom",Brno-střed,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,10,Michal,Chládek,Mgr.,,31,"krajský zastupitel, právník",Brno-Jundrov,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,11,Matyáš,Svoboda,Mgr.,,36,"místostarosta MČ Brno-Královo Pole, advokát",Brno-Královo Pole,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,12,Pavel,Urubek,Ing.,,47,"zastupitel města Brna, podnikatel, jednatel",Brno-střed,721,721,A,0,N,0,N,0,0
+6202,582786,1,6,523,13,Vladan,Krásný,Mgr.,,58,"starosta MČ Brno-Starý Lískovec, zastupitel města Brna",Brno-Starý Lískovec,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,14,Igor,Fučík,Bc.,MBA,51,"1. místostarosta MČ Brno-Žabovřesky, ekonom",Brno-Žabovřesky,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,15,Michal,Velička,Ing.,,48,místostarosta MČ Brno-Kohoutovice,Brno-Kohoutovice,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,16,Natálie,Kreisl,Bc.,,26,podnikatelka,Brno-střed,721,721,A,0,N,0,N,0,0
+6202,582786,1,6,523,17,Pavel,Jankůj,Ing.,,64,"zastupitel města Brna, obchodně-technický ředitel",Brno-Kníničky,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,18,Peter,Krupka,RNDr.,Ph.D.,61,ředitel Gymnázia Brno-Řečkovice,Brno-Maloměřice a Obřany,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,19,Jana,Bohuňovská,Ing.,,66,starostka MČ Brno-Ivanovice,Brno-Ivanovice,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,20,Šárka,Cechová,JUDr.,,45,"místostarostka MČ Brno-Útěchov, advokátka",Brno-Útěchov,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,21,Roman,Vašina,Ing.,,68,daňový poradce,Brno-Židenice,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,22,Tomáš,Jára,Ing.,,46,"místostarosta MČ Brno-Bystrc, provozně-technický ředitel",Brno-Bystrc,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,23,Marek,Duchaň,Mgr.,,25,"fyzik, doktorand",Brno-střed,721,721,A,0,N,0,N,0,0
+6202,582786,1,6,523,24,Jakub,Ostrý,Mgr.,,44,"místostarosta MČ Brno-Černovice, manažer",Brno-Černovice,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,25,Stanislav,Michalík,Ing.,,63,koordinátor výstavby Janáčkova kulturního centra,Brno-Řečkovice a Mokrá Hora,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,26,Nikola,Staňková,Ing.,,38,podnikatelka,Brno-Komín,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,27,Michael,Brázda,Mgr. et Mgr.,LL.M.,50,"1. místostarosta MČ Brno-Nový Lískovec, advokát, pedagog",Brno-Nový Lískovec,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,28,Evžen,Šik,,,59,ekonom,Brno-Slatina,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,29,Tomáš,Krčmař,Ing.,,29,aplikační manažer,Brno-Medlánky,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,30,Dagmar,Seidlová,MUDr.,Ph.D.,61,"zastupitelka města Brna, primářka ARO FN Brno",Brno-Židenice,721,721,A,0,N,0,N,0,0
+6202,582786,1,6,523,31,František,Vižďa,doc. RNDr.,Ph.D.,57,"fyzik, vysokoškolský pedagog",Brno-Nový Lískovec,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,32,Jiří,Herman,RNDr.,Ph.D.,70,"zastupitel města Brna, bývalý ředitel gymnázia Jaroška",Brno-Řečkovice a Mokrá Hora,99,80,A,0,N,0,N,0,0
+6202,582786,1,6,523,33,Jindřich,Vobořil,Mgr.,Pg.Dip.,60,předseda správní rady Společnosti Podané ruce o.p.s.,Brno-Bohunice,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,34,Karel,Pelikán,Mgr. Bc.,,27,právník,Brno-sever,721,721,A,0,N,0,N,0,0
+6202,582786,1,6,523,35,Dana,Filipi,,,56,místostarostka MČ Brno-Řečkovice a Mokrá Hora,Brno-Řečkovice a Mokrá Hora,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,36,Ivo,Borovec,,MBA,50,grafický designer,Brno-Žabovřesky,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,37,Lenka,Boričová,Bc.,,33,ekonomka,Brno-Bohunice,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,38,Veronika,Zelinko Vardanová,Mgr.,,42,personální manažerka,Brno-Řečkovice a Mokrá Hora,721,721,A,0,N,0,N,0,0
+6202,582786,1,6,523,39,Richard,Foltýn,,,53,sportovní manažer a producent,Brno-Řečkovice a Mokrá Hora,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,40,Jan,Oulehla,,,26,"podnikatel, student",Brno-střed,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,41,Damir,Solak,Mgr.,,29,soudní tlumočník a překladatel,Brno-střed,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,42,Martina,Sieglová,Mgr.,,25,"PR specialistka, projektová koordinátorka",Brno-Líšeň,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,43,Tomáš,Bernard,Bc.,DiS.,38,zdravotní laborant,Brno-Starý Lískovec,721,721,A,0,N,0,N,0,0
+6202,582786,1,6,523,44,Jana,Břenková,Mgr. Bc.,,41,vedoucí nízkoprahového zařízení pro děti a mládež,Brno-Nový Lískovec,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,45,Lukáš,Boula,,,44,místostarosta MČ Brno-jih,Brno-jih,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,46,Filip,Krejčí,Mgr.,,26,právník,Brno-sever,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,47,Eva,Svobodová,Ing.,,72,ekonomka,Brno-Líšeň,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,48,Zuzana,Dubová,MgA.,,42,"scenáristka, režisérka, pedagog",Brno-Královo Pole,721,721,A,0,N,0,N,0,0
+6202,582786,1,6,523,49,Petr,Punčochář,Mgr.,,56,ředitel základní školy,Brno-Nový Lískovec,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,50,Jiří,Zorník,,,75,radní MČ Brno-Kohoutovice,Brno-Kohoutovice,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,51,Michal,Lepka,Bc.,,57,energetický manažer,Brno-střed,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,52,Vlastimil,Válek,prof. MUDr.,"CSc., MBA, EBIR",66,"lékař-radiolog, poslanec",Brno-Líšeň,721,721,A,0,N,0,N,0,0
+6202,582786,1,6,523,53,Nikola,Michelčíková,Bc.,,35,obchodní zástupce,Brno-Nový Lískovec,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,54,Julia,Čorná,Bc.,,27,personalistka,Brno-Nový Lískovec,53,53,A,0,N,0,N,0,0
+6202,582786,1,6,523,55,Michal,Mikulka,,,20,"asistent poslankyně, student",Brno-střed,53,53,A,0,N,0,N,0,0
+6202,582786,1,7,1832,1,Martin,Říha,,,57,"krajský zastupitel, rozpočtář",Brno-střed,47,47,A,0,N,0,N,0,0
+6202,582786,1,7,1832,2,Petra,Rédová Fajmonová,,,50,"krajská zastupitelka, zdravotní sestra",Brno-Židenice,99,1298,A,0,N,0,N,0,0
+6202,582786,1,7,1832,3,Vladimír,Kotek,MUDr.,"Ph.D., MBA",66,primář,Brno-Starý Lískovec,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,4,Petr,Hudlík,,,72,zastupitel MČ,Brno-Starý Lískovec,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,5,Vilém,Ožana,Mgr.,,59,pedagog,Brno-Maloměřice a Obřany,99,47,A,0,N,0,N,0,0
+6202,582786,1,7,1832,6,Jana,Hochmannová,,,64,důchodkyně,Brno-střed,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,7,Václav,Fišer,Ing.,,64,technicko-hospodářský pracovník – krizové řízení,Brno-Líšeň,47,47,A,0,N,0,N,0,0
+6202,582786,1,7,1832,8,Vincent,Šudík,Ing.,,68,důchodce,Brno-střed,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,9,Martin,Valoušek,,,49,stavbyvedoucí,Brno-střed,99,1298,A,0,N,0,N,0,0
+6202,582786,1,7,1832,10,Libor,Chládek,Ing.,BA,48,mistr,Brno-Žabovřesky,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,11,Jiří,Hráček,,,40,administrativní pracovník,Brno-střed,47,47,A,0,N,0,N,0,0
+6202,582786,1,7,1832,12,Tomáš,Foral,Ing.,,61,zahradní architekt,Brno-střed,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,13,Jiří,Králík,Bc.,,44,invalidní důchodce,Brno-Líšeň,47,47,A,0,N,0,N,0,0
+6202,582786,1,7,1832,14,Kateřina,Svobodová,Bc.,,28,úřednice,Brno-Starý Lískovec,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,15,Lucie,Zajícová,,,63,jednatelka,Brno-Židenice,99,1221,A,0,N,0,N,0,0
+6202,582786,1,7,1832,16,Václav,Hladký,,,50,operátor,Brno-Bystrc,47,47,A,0,N,0,N,0,0
+6202,582786,1,7,1832,17,Vladimíra,Quirencová,,,75,důchodkyně,Brno-Kohoutovice,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,18,Martin,Svoboda,,,30,vedoucí prodejny,Brno-Starý Lískovec,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,19,Pavel,Valach,,,49,řidič MHD,Brno-Medlánky,99,47,A,0,N,0,N,0,0
+6202,582786,1,7,1832,20,Sofie,Svobodová,,,21,studentka,Brno-Maloměřice a Obřany,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,21,Aneta,Štefanková,,,24,studentka,Brno-Medlánky,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,22,Tereza,Havlová,,,24,studentka,Brno-Medlánky,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,23,Vilém,Ožana,Mgr.,,27,právník,Brno-Maloměřice a Obřany,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,24,Pavel,Hladík,,,42,technik,Brno-střed,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,25,Eva,Pekárková,,,38,barmanka,Brno-střed,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,26,Lenka,Sochorová,,DiS.,39,zdravotní sestra,Brno-Žabovřesky,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,27,Lenka,Malá,Mgr.,,62,učitelka,Brno-střed,759,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,28,Antonín,Nekvapil,,,41,podnikatel,Brno-jih,1298,1298,A,0,N,0,N,0,0
+6202,582786,1,7,1832,29,Petra,Baráková,,,42,OSVČ - kadeřnice,Brno-Královo Pole,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,30,David,Svoboda,,,42,řidič,Brno-Bohunice,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,31,Ester,Brdičková,,,45,vedoucí provozu,Brno-Žabovřesky,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,32,Jaroslav,Škarvada,Ing.,Ph.D.,45,informatik,Brno-Kohoutovice,99,47,A,0,N,0,N,0,0
+6202,582786,1,7,1832,33,Marek,Čáp,,,45,OSVČ,Brno-Starý Lískovec,99,47,A,0,N,0,N,0,0
+6202,582786,1,7,1832,34,Dana,Hoskovcová,,,47,účetní,Brno-Žabovřesky,99,1248,A,0,N,0,N,0,0
+6202,582786,1,7,1832,35,Miloš,Vavruša,,,48,OSVČ,Brno-Kohoutovice,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,36,Kamila,Jadrná,Ing. Bc.,,50,úřednice,Brno-Kohoutovice,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,37,Petra,Šlesingerová,,,50,kantýnská,Brno-Královo Pole,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,38,Petra,Kvapilová,,,50,řidička MHD,Brno-Medlánky,99,1221,A,0,N,0,N,0,0
+6202,582786,1,7,1832,39,Jan,Dvořák,,,53,nákupčí,Brno-Řečkovice a Mokrá Hora,99,1221,A,0,N,0,N,0,0
+6202,582786,1,7,1832,40,Jiří,Fazor,,,56,invalidní důchodce,Brno-Černovice,47,47,A,0,N,0,N,0,0
+6202,582786,1,7,1832,41,Krista,Košťálová,Mgr.,,69,pedagožka,Brno-Maloměřice a Obřany,99,47,A,0,N,0,N,0,0
+6202,582786,1,7,1832,42,Jarmila,Štefanková,,,57,prodavačka,Brno-Medlánky,99,1248,A,0,N,0,N,0,0
+6202,582786,1,7,1832,43,Galya Petrova,Rudova,,,58,prodavačka,Brno-Medlánky,99,1248,A,0,N,0,N,0,0
+6202,582786,1,7,1832,44,Ludvík,Hubicsák,,,58,technik,Brno-střed,99,47,A,0,N,0,N,0,0
+6202,582786,1,7,1832,45,Simona,Truksová,,,62,technik,Brno-Královo Pole,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,46,Miroslav,Sojka,,,64,důchodce,Brno-Bosonohy,7,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,47,Jarmila,Danhelová,,,65,důchodkyně,Brno-Medlánky,99,1248,A,0,N,0,N,0,0
+6202,582786,1,7,1832,48,Alena,Kellerová,,,66,důchodkyně,Brno-střed,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,49,Miroslava,Žáčková,,,81,důchodkyně,Brno-střed,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,50,Jitka,Procházková,,,71,důchodkyně,Brno-Královo Pole,99,1248,A,0,N,0,N,0,0
+6202,582786,1,7,1832,51,Miroslava,Pelikánová,,,73,důchodkyně,Brno-Bohunice,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,52,Vlasta,Konečná,,,73,důchodkyně,Brno-Židenice,99,759,A,0,N,0,N,0,0
+6202,582786,1,7,1832,53,Milan,Krišo,,,79,důchodce,Brno-Bohunice,47,47,A,0,N,0,N,0,0
+6202,582786,1,7,1832,54,Zdeněk,Zimola,,,79,důchodce,Brno-Medlánky,47,47,A,0,N,0,N,0,0
+6202,582786,1,7,1832,55,Josef,Borek,,,82,loutkoherec,Brno-střed,99,759,A,0,N,0,N,0,0
+6202,582786,1,8,1711,1,Karin,Podivinská Karasová,Ing.,,60,"náměstkyně primátorky, 2014-2022 starostka MČ Brno-Královo Pole",Brno-Královo Pole,1711,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,2,Petr,Bořecký,Ing. arch.,,49,"architekt, radní města Brna, popularizátor Starého Brna",Brno-střed,1711,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,3,Kateřina,Jarošová,Bc.,MBA,53,"zastupitelka města Brna pro oblast marketingu, chovatelka psů, folkloristka",Brno-Komín,1711,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,4,Petr,Souček,Ing.,,45,"projektant, krajský zastupitel JMK",Brno-Královo Pole,1711,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,5,Karel,Kalivoda,Ing.,,60,"zástupce ředitele DPMB, zastupitel města Brna",Brno-Kohoutovice,1711,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,6,Petr,Levíček,Ing.,,62,podnikatel,Brno-Ořešín,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,7,Martin,Landa,Mgr.,,50,"vedoucí majetkového odboru, 2014-2018 starosta MČ Brno-střed",Brno-střed,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,8,Bohumil,Šimek,JUDr.,,67,"právník, emeritní hejtman JMK",Brno-Židenice,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,9,Ivo,Rovný,MUDr.,MBA,57,lékař-chirurg,Brno-Komín,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,10,Vít,Prýgl,,MBA,66,člen představenstva DPMB,Brno-Bohunice,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,11,Soňa,Ledvinková,Ing.,,47,OSVČ,Brno-střed,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,12,Jiří,Karásek,Mgr.,,66,"místostarosta MČ Brno-Vinohrady, učitel na SŠ",Brno-Vinohrady,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,13,Robert,Kurucz,,,40,"redaktor, OSVČ",Brno-Vinohrady,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,14,Ondřej,Šťastník,Ing.,,54,podnikatel v zemědělství,Brno-Jundrov,738,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,15,Daniel,Kypr,Mgr. Ing.,,55,OSVČ,Brno-jih,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,16,Sabina,Benešová,Mgr. et Mgr.,"DiS., LL.M.",32,"právnička, zastupitelka města Brna",Brno-Královo Pole,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,17,Alena,Gruberová,MUDr.,,69,praktická lékařka,Brno-Královo Pole,1711,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,18,Pavel,Kříž,Ing.,,61,místostarosta MČ Brno-Bystrc,Brno-Bystrc,1711,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,19,Natalie,Rovná,,,33,specialistka na nábor zaměstnanců,Brno-Komín,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,20,Petr,Oupor,,,54,laborant,Brno-Nový Lískovec,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,21,Ivo,Kučera,MgA.,,78,dirigent,Brno-Královo Pole,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,22,Renata,Polášková,Mgr.,,58,právnička,Brno-Královo Pole,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,23,Jana,Novotná,Ing.,,58,ekonomka,Brno-Komín,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,24,Ilona,Sedláková,Mgr.,,59,advokátka,Brno-střed,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,25,Petr,Jelínek,Mgr.,,44,strážník městské policie,Brno-Královo Pole,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,26,Petr,Janáček,Mgr.,,41,"podnikatel, zastupitel MČ Brno-Kohoutovice",Brno-Kohoutovice,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,27,Tomáš,Buček,Mgr.,,41,advokát,Brno-Komín,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,28,Martin,Štourač,Ing.,,42,produktový manažer v oblasti bytového interiéru,Brno-Královo Pole,1711,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,29,Michal,Palaščak,doc. Ing.,,55,"architekt, VŠ pedagog, laureát Ceny města Brna",Brno-střed,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,30,Lenka,Mazurová,Ing. arch.,,36,architektka,Brno-střed,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,31,Agáta,Védlová,Ing.,,63,manažerka kvality,Brno-Královo Pole,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,32,Marie,Škárková,,,67,učitelka v ZUŠ,Brno-střed,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,33,Jana,Pejchalová,JUDr.,,67,advokátka,Brno-Královo Pole,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,34,Pavla,Kabache,,,43,manažerka,Brno-Vinohrady,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,35,Vanessa,Karasová,,DiS.,23,farmaceutická asistentka,Brno-střed,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,36,Jaroslav,Matula,,,59,řidič,Brno-střed,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,37,Daria,Petýrková,Bc.,,37,asistentka,Brno-Kníničky,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,38,Petr,Kadlčík,Ing. arch.,,48,architekt,Brno-Královo Pole,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,39,Barbara,Karasová,,DiS.,25,zdravotní sestra,Brno-Královo Pole,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,40,Petr,Kovač,Mgr.,,71,emeritní ředitel gymnázia,Brno-Kohoutovice,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,41,Luďka,Rokytová,Ing.,,60,daňová poradkyně,Brno-Královo Pole,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,42,Pavel,Konečný,,,47,operátor,Brno-Vinohrady,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,43,Lukas,Galia,,,19,"student, trenér fotbalu",Brno-Komín,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,44,Lenka,Novotná,Ing.,Ph.D.,40,stavební inženýrka,Brno-střed,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,45,Pavla,Matulová,,,59,odborná referentka,Brno-střed,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,46,Barbora,Olbertová,Bc.,DiS.,32,účetní,Brno-jih,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,47,Andrea,Pelánová,,DiS.,52,oční optička,Brno-Královo Pole,739,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,48,Petra,Česalová,Mgr.,,55,učitelka v ZŠ,Brno-jih,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,49,Adam,Truska,,,40,stavební inženýr,Brno-střed,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,50,Iva,Tejkalová,,,54,grafička,Brno-Královo Pole,739,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,51,Ladislav,Fuksa,Ing.,,60,invalidní důchodce,Brno-jih,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,52,Anželika,Kopijevská,,,49,poštovní doručovatelka,Brno-Komín,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,53,Ivana,Kašparová,,,52,"ekonomka, personalistka",Brno-Vinohrady,99,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,54,René,Pelán,,,60,zdravotník,Brno-Královo Pole,739,1711,A,0,N,0,N,0,0
+6202,582786,1,8,1711,55,Věra,Benešová,,,80,důchodkyně,Brno-Královo Pole,99,1711,A,0,N,0,N,0,0
+6202,582786,1,9,1178,1,Tomáš,Kratochvíl,JUDr.,,58,starosta MČ Brno-Bystrc,Brno-Bystrc,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,2,Lubor,Novák,Ing.,,60,prezident mezinárodní sportovní střelecké organizace,Brno-Židenice,1178,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,3,Quoc Tan,Pham,Mgr.,,40,advokát,Brno-Líšeň,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,4,Veronika,Jurůjová,Mgr.,,27,ředitelka mateřské školy,Brno-Bystrc,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,5,Igor,Stehno,,,58,majitel dopravní a logistické společnosti,Brno-Královo Pole,1178,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,6,Iva,Mihulová,MUDr.,,59,vedoucí lékařka mamodiagnostického centra FN Brno,Brno-sever,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,7,Jaromír,Špaček,Mgr.,,44,ředitel základní školy,Brno-střed,1178,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,8,František,Urbanec,JUDr.,,76,advokát,Brno-střed,1178,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,9,Hana,Stejná,Ing.,,49,"ekonomka, finanční konzultantka",Brno-jih,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,10,Petr,Šulc,JUDr.,,66,právník,Brno-Královo Pole,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,11,Petr,Šebl,Bc.,,57,"fotograf, reklamní specialista",Brno-Žabovřesky,1178,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,12,Petr,Zábrš,,,51,vedoucí realizace reklamní společnosti,Brno-Královo Pole,1178,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,13,Dalibor,Barták,,,58,řidič MHD,Brno-Žabovřesky,1178,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,14,Štěpán,Chour,,,29,elektrotechnik,Brno-střed,1178,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,15,Ludmila,Jimramovská,Mgr. et Mgr.,,68,psycholog,Brno-Ořešín,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,16,Lukáš,Mihula,Bc.,,22,"student, administrátor sportovních dat",Brno-sever,1178,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,17,Radek,Hudec,,,41,"autodopravce, influencer",Brno-sever,1178,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,18,Matěj,Špalek,,,23,"student, fotbalový trenér",Brno-Řečkovice a Mokrá Hora,1178,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,19,Richard,Navara,,,25,manažer pro řízení podnikatelských procesů,Brno-sever,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,20,Adam Peter,Wolfsberg,Mgr.,,37,expert v oblasti palných zbraní,Brno-sever,1178,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,21,Vladimír,Malý,RNDr.,,74,chemik analytik,Brno-Řečkovice a Mokrá Hora,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,22,Oldřich,Beránek,,,34,řidič převozu krve a zdravotnického materiálu,Brno-střed,1178,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,23,Marek,Hořanský,Mgr.,,45,správce IT sítě,Brno-Bystrc,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,24,Michal,Voráček,Ing.,,60,ředitel společnosti podnikající v energetice,Brno-Bystrc,1178,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,25,Jiří,Matušek,Ing. arch.,,66,architekt,Brno-Královo Pole,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,26,Martin,Sedlák,,,57,autodopravce,Brno-Bystrc,1178,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,27,Martin,Chytil,,,48,automobilový závodník,Brno-Bohunice,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,28,Michal,Vítek,,,36,řidič,Brno-Královo Pole,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,29,Ivan,Fencl,Ing.,Ph.D.,68,dopravní inženýr,Brno-Vinohrady,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,30,Roman,Valíček,,,30,automobilový dopravce,Brno-sever,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,31,Ricardo,Markusek,,,30,automobilový dopravce,Brno-Bystrc,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,32,Daniel,Kresek,,,40,výpravčí ve vozovně,Brno-Královo Pole,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,33,Božena,Bartáková,,,58,kuchařka,Brno-Žabovřesky,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,34,Jana,Špalková,,,49,zdravotní sestra,Brno-Řečkovice a Mokrá Hora,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,35,Jiří,Hnátek,,,44,řidič MHD,Brno-střed,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,36,Lukáš,Klíma,,,35,"kuchař, číšník",Brno-Starý Lískovec,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,37,Tamara,Lowáková,Mgr.,,74,"dramaturgyně, režisérka",Brno-střed,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,38,Lucie,Franková,,,36,řidička MHD,Brno-Žabovřesky,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,39,Martin,Frank,,,36,řidič MHD,Brno-Žabovřesky,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,40,Jiří,Grepl,,,42,kuchař,Brno-Žabovřesky,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,41,Roman,Brixa,,,57,řidič MHD,Brno-Královo Pole,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,42,Martina,Hégrová,,,44,řidička MHD,Brno-Líšeň,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,43,Jan,Strbačka,,,74,řidič MHD,Brno-Vinohrady,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,44,Karel,Kalina,,,49,řidič MHD,Brno-Řečkovice a Mokrá Hora,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,45,Ivana,Juračková,,,59,řidička MHD,Brno-Komín,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,46,Jiří,Golka,,,43,barber,Brno-Bystrc,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,47,Adam,Kříčka,,,40,sanitář na operačním sále,Brno-střed,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,48,Michal,Sirovátka,,,58,skladník,Brno-Bosonohy,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,49,Hana,Winklerová,,,38,ekonomka,Brno-sever,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,50,Filip,Kobza,,,21,závozník,Brno-sever,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,51,Radovan,Papež,,,53,řidič autobusu,Brno-Černovice,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,52,Jana,Papežová,,,43,prodavačka,Brno-Černovice,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,53,David,Čelechovský,,,43,stavební dělník,Brno-sever,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,54,Lucie,Kopalová,,,38,pečovatelka,Brno-sever,99,1178,A,0,N,0,N,0,0
+6202,582786,1,9,1178,55,Petr,Paulczynski,Ing.,,80,účetní poradce,Brno-střed,99,1178,A,0,N,0,N,0,0
+6202,582786,1,10,482,1,Ivona,Galová,,,64,"OSVČ, ochránce zvířat",Brno-sever,99,715,A,0,N,0,N,0,0
+6202,582786,1,10,482,2,Pavla,Müllerová,,,51,"asistentka na autosalónu, ochránce zvířat",Brno-Královo Pole,99,80,A,0,N,0,N,0,0
+6202,582786,1,10,482,3,Martina,Doleželová,,,45,"pracovník v sociálních službách, ochránce zvířat",Brno-Bystrc,99,80,A,0,N,0,N,0,0
+6202,582786,1,11,1901,1,Matúš,Bóna,Mgr.,,56,právník,Brno-Královo Pole,1744,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,2,Jana,Buchtová,,,38,"účetní, kamelot",Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,3,Rastislav,Lučanský,,,55,"jednatel společnosti, člen poradního orgánu vlády pro bezpečnost a lidská práva",Brno-sever,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,4,Tomáš,Ulrich,Mgr.,Ph.D.,49,učitel,Brno-střed,1744,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,5,Štefan,Brychnač,,,45,"podnikatel, muzikant",Brno-Židenice,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,6,Eulalie,Líčeníková,,,41,"instruktorka esoterické tantra jógy, asistentka učitele",Brno-sever,99,1286,A,0,N,0,N,0,0
+6202,582786,1,11,1901,7,Elemír,Jonáš,,,54,invalidní důchodce,Brno-sever,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,8,Martin,Fejfárek,,,53,údržbář,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,9,Daniela,Hoffman,Mgr.,,37,"mateřská dovolená, manažer",Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,10,Michal,Musil,,,50,"učitel odborného výcviku, truhlář",Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,11,Tereza,Binarová,,,40,IT administrátor,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,12,Jiří,Schauer,RNDr.,,65,učitel,Brno-Líšeň,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,13,Darek,Galle,,,55,řidič,Brno-sever,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,14,Lenka,Jonášová,,,40,kuchařka,Brno-sever,99,1286,A,0,N,0,N,0,0
+6202,582786,1,11,1901,15,Petr,Říháček,,,44,pracovník pořádkové služby,Brno-Nový Lískovec,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,16,Milena,Minksová,Mgr.,,38,učitelka,Brno-Bystrc,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,17,Richard,Sehnal,,,63,"podnikatel, majitel diskotéky",Brno-sever,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,18,Zdeněk,Franta,,,54,operátor výroby,Brno-Královo Pole,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,19,Jiří,Pardon,,,35,kuchař,Brno-střed,99,1286,A,0,N,0,N,0,0
+6202,582786,1,11,1901,20,Helena,Musilová,,,69,"důchodkyně, prodavačka",Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,21,Radim,Fuksa,,,38,kuchař,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,22,Renata,Podroužková,,,61,"zdravotní sestra, péče o osobu blízkou",Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,23,Zdeněk,Mucha,,,42,lešenář,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,24,Kateřina,Tománková,,,37,kuchařka,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,25,Tomáš,Smolka,,,50,zemědělec,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,26,Veronika,Černoušková,,,40,barmanka,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,27,Antonio,Parči,,,26,zedník,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,28,Renáta,Ličková,,,57,strojařka,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,29,Pavel,Vlasák,,,42,montér suchých staveb,Brno-střed,99,1286,A,0,N,0,N,0,0
+6202,582786,1,11,1901,30,Kateřina,Miková,,,29,pokladní,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,31,Vojtěch,Kroka,,,37,zedník,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,32,Jindra,Rybářová,,,79,účetní,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,33,Daniel,Kučera,,,37,knihovník,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,34,Věra,Pouzová,,,73,hospodská,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,35,Filip,Konečný,,,19,zahradník,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,36,Olga,Škaroupková,,,48,pečovatelka,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,37,Jan,Wittreich,,,58,řidič,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,38,Vlastimil,Ryšavý,,,65,důchodce,Brno-střed,99,1286,A,0,N,0,N,0,0
+6202,582786,1,11,1901,39,Dalibor,Kutek,,,60,zámečník-svářeč,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,40,Milan,Kubát,,,73,zedník,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,41,Vladimír,Simon,,,75,mechanik elektrických zařízení,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,42,Patrik,Kopkan,,,27,IT specialista,Brno-sever,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,43,Kamila,Snášelová,,,61,úřednice,Brno-sever,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,44,Monika,Bendová,,,53,školní asistentka,Brno-sever,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,45,Josef,Havel,,,44,"invalidní důchodce, vrátný",Brno-Žabovřesky,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,46,Karel,Kopl,,,69,"důchodce, montér ocelových konstrukcí",Brno-Vinohrady,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,47,Daniel,Svoboda,,,30,kuchař,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,48,Jaroslav,Šenk,,,44,zedník,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,49,Martin,Huječek,,,41,stěhovák,Brno-střed,99,1286,A,0,N,0,N,0,0
+6202,582786,1,11,1901,50,Petr,Hlaváček,,,50,"zámečník, svářeč",Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,51,Petr,Chylík,,,55,"invalidní důchodce, správce parku",Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,52,Jiří,Kuba,,,60,technik,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,53,Miloslav,Macháček,,,55,elektromechanik,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,54,Jiří,Banda,,,60,"dělník, kamelot",Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,11,1901,55,Vasil,Prokipčák,,,47,jeřábník,Brno-střed,99,1744,A,0,N,0,N,0,0
+6202,582786,1,12,1245,1,Petr,Vokřál,Ing.,,62,podnikatel,Brno-střed,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,2,Ivana,Peková,Bc.,,53,podnikatelka,Brno-Královo Pole,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,3,Leoš,Němec,Mgr.,,54,"sociolog, výchova, prevence",Brno-Žabovřesky,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,4,Ivana,Dvořáková,,,38,OSVČ,Brno-střed,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,5,Jindřich,Zuziak,Ing.,,60,"ekonom, zastupitel MČ Brno-Žabovřesky",Brno-Žabovřesky,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,6,Martin,Hovorka,MVDr.,Ph.D.,72,podnikatel,Brno-Žabovřesky,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,7,Radek,Sedláček,,,24,"IT specialista, zastupitel MČ Brno-Vinohrady",Brno-Vinohrady,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,8,Ivana,Cyprianová,,,50,koordinátorka klinických studií,Brno-Řečkovice a Mokrá Hora,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,9,David,Truksa,,,30,IT správce HW a SW,Brno-Řečkovice a Mokrá Hora,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,10,Šárka,Čajánková,,,59,OSVČ,Brno-Jundrov,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,11,Petr,Eckelt,,,59,správa nemovitostí,Brno-sever,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,12,Pavel,Brudík,,,31,OSVČ,Brno-jih,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,13,Milan,Pek,,,65,podnikatel,Brno-Židenice,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,14,Jan,Petřík,Bc.,,35,podnikatel,Brno-Židenice,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,15,Nikola,Výpustková,Bc.,,33,zdravotní laborant,Brno-Královo Pole,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,16,Roman Atanasov,Lankov,,,57,podnikatel,Brno-Nový Lískovec,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,17,Jan,Prášek,,,66,OSVČ,Brno-sever,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,18,Iveta,Fišerová,Bc.,,62,administrativní pracovnice,Brno-Královo Pole,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,19,Zita,Přichystalová,Ing.,,62,OSVČ,Brno-Slatina,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,20,Petr,Špetlík,,,47,podnikatel,Brno-Královo Pole,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,21,Jiří,Adámek,Ing.,,65,senior,Brno-Žabovřesky,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,22,Markéta,Mičudová,,,54,OSVČ,Brno-Žabovřesky,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,23,Hana,Živná,,,45,administrativní pracovnice,Brno-Nový Lískovec,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,24,Vít,Fišer,,,32,manager,Brno-Královo Pole,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,25,Tomáš,Hovorka,,,39,"Automotiv, operátor",Brno-Žabovřesky,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,26,Hana,Nováčková,,,42,OSVČ,Brno-střed,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,27,Jarmila,Petříková,,,61,OSVČ,Brno-Židenice,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,28,Martina,Babáková,,,53,administrativní pracovnice,Brno-Žabovřesky,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,29,Ladislava,Truksová,,,51,obchodní prodejce,Brno-sever,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,30,Alexander,Berger,,,48,zaměstnanec v gastronomii,Brno-sever,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,31,Jiří,Výpustek,,,41,vedoucí skladu,Brno-Nový Lískovec,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,32,Kateřina,Marečková,,,50,podnikatelka,Brno-Bystrc,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,33,Michaela,Sedláčková,,,56,vedoucí prodejny,Brno-Maloměřice a Obřany,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,34,Gabriela,Cvrčková,MUDr.,,29,lékařka,Brno-Žabovřesky,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,35,Denisa,Střeštíková,,,52,účetní,Brno-Žabovřesky,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,36,Zuzana,Hrdličková,,,44,pracovnice Vězeňské služby ČR,Brno-Starý Lískovec,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,37,Michal,Karel,,DiS.,27,zdravotní laborant,Brno-Židenice,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,38,Pavel,Klíma,,,69,senior,Brno-Žabovřesky,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,39,Jana,Hadová,Bc.,,64,senior,Brno-Žabovřesky,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,40,Stanislav,Petřík,,,66,senior,Brno-Židenice,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,41,Kristýna,Člaňková,,,31,dělník ve výrobě,Brno-Nový Lískovec,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,42,Lenka,Šidliáková,,,52,zaměstnanec v gastronomii,Brno-Kohoutovice,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,43,Richard,Zelinka,,,59,referent logistiky,Brno-Žabovřesky,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,44,Zuzana,Janoušková,,,24,pokladní,Brno-Medlánky,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,45,Ivana,Adámková,,,65,asistent ve školství,Brno-Žabovřesky,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,46,Simona,Kudrnová,,,52,zaměstnanec v gastronomii,Brno-střed,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,47,Marie,Hrdličková,,,72,senior,Brno-Starý Lískovec,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,48,Slávka,Pichlerová,,,83,senior,Brno-Žabovřesky,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,49,Anna,Jirásková,,,81,senior,Brno-Řečkovice a Mokrá Hora,1245,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,50,Jiří,Adámek,,,21,student,Brno-Žabovřesky,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,51,Zuzana,Dvořáková,,,61,nezaměstnaná,Brno-Královo Pole,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,52,Martina,Zelinková,,,34,mateřská dovolená,Brno-Židenice,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,53,Jana,Adámková,,,21,student,Brno-Žabovřesky,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,54,Alena,Srncová,,,52,nezaměstnaná,Brno-střed,99,1245,A,0,N,0,N,0,0
+6202,582786,1,12,1245,55,Jiřina,Střeštíková,,,73,senior,Brno-Královo Pole,99,1245,A,0,N,0,N,0,0
+6202,582786,1,13,1693,1,Klára,Liptáková,Ing.,,56,"krajská zastupitelka, ekonomka",Brno-Maloměřice a Obřany,1265,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,2,Jiří,Klein,Ing.,,64,"zastupitel MČ Brno-Bystrc, grafik",Brno-Bystrc,1227,1227,A,0,N,0,N,0,0
+6202,582786,1,13,1693,3,Milan,Jirků,,,43,IT specialista,Brno-Židenice,714,714,A,0,N,0,N,0,0
+6202,582786,1,13,1693,4,Ondřej,Jurásek,,,53,ekonom obchodního provozu,Brno-střed,714,714,A,0,N,0,N,0,0
+6202,582786,1,13,1693,5,Petr,Doležel,Mgr.,,52,učitel na gymnáziu,Brno-Bystrc,1227,1227,A,0,N,0,N,0,0
+6202,582786,1,13,1693,6,Michal,Dovrtěl,Ing.,,65,datový analytik,Brno-sever,1265,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,7,Miloš,Vrážel,Ing.,,66,referent právního oddělení,Brno-Bohunice,99,714,A,0,N,0,N,0,0
+6202,582786,1,13,1693,8,Hana,Zejdová,,,64,mistryně Evropy v bezmotorovém létání,Brno-Židenice,99,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,9,Jaroslava,Hauserová,,,70,"úřednice, ekonomka",Brno-jih,99,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,10,Marek,Otevřel,Mgr.,Ph.D.,50,vývojový inženýr – aerospace,Brno-Královo Pole,1227,1227,A,0,N,0,N,0,0
+6202,582786,1,13,1693,11,Antonín,Pavlica,,,43,IT specialista,Brno-Černovice,1265,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,12,Miroslav,Střeštík,,,55,technik,Brno-Bohunice,714,714,A,0,N,0,N,0,0
+6202,582786,1,13,1693,13,Jiří,Přichystal,,,56,vedoucí technik,Brno-střed,1265,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,14,Josef,Válka,,,59,správce objektu,Brno-Černovice,83,714,A,0,N,0,N,0,0
+6202,582786,1,13,1693,15,Radomír,Bobek,Mgr.,,46,datový inženýr,Brno-Nový Lískovec,1227,1227,A,0,N,0,N,0,0
+6202,582786,1,13,1693,16,Jan,Matoušek,,,47,vedoucí dispečer BKOM,Brno-Bohunice,99,714,A,0,N,0,N,0,0
+6202,582786,1,13,1693,17,Zuzana,Loukotová,,,61,administrativní pracovnice,Brno-Židenice,1265,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,18,Jáchym,Frank,Mgr. Ing.,,62,právně-ekonomický vedoucí,Brno-sever,99,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,19,Alexander Jan,Doležel,,,22,student,Brno-Bystrc,1227,1227,A,0,N,0,N,0,0
+6202,582786,1,13,1693,20,Jiří,Stejkora,Mgr.,,63,učitel,Brno-střed,1265,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,21,Lenka,Jůzová,Ing.,,59,účetní,Brno-Černovice,99,714,A,0,N,0,N,0,0
+6202,582786,1,13,1693,22,Pavla,Hejnová,JUDr.,,63,právnička,Brno-sever,1265,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,23,Jan,Najbrt,,,69,strojírenský technik,Brno-střed,83,714,A,0,N,0,N,0,0
+6202,582786,1,13,1693,24,Naděžda,Otevřelová,Mgr.,,77,emeritní profesorka gymnázia,Brno-Královo Pole,1227,1227,A,0,N,0,N,0,0
+6202,582786,1,13,1693,25,Miroslav,Ondrák,,,53,manažer,Brno-Maloměřice a Obřany,1265,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,26,Kamil,Gregůrek,,,38,podnikatel,Brno-Slatina,714,714,A,0,N,0,N,0,0
+6202,582786,1,13,1693,27,Veronika,Antonínová,,,57,podnikatelka v gastronomii,Brno-Bystrc,1227,1227,A,0,N,0,N,0,0
+6202,582786,1,13,1693,28,Zdeňka,Hermannová,,,64,manažerka restaurace,Brno-sever,1265,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,29,Daniel,Čermák,,,33,security manager,Brno-střed,714,714,A,0,N,0,N,0,0
+6202,582786,1,13,1693,30,Jiří,Brančík,,,47,plánovač výroby,Brno-Bystrc,99,1227,A,0,N,0,N,0,0
+6202,582786,1,13,1693,31,Irena,Marečková,,,57,administrativní pracovnice,Brno-sever,99,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,32,Pavel,Blahoudek,,,56,státní zaměstnanec,Brno-Líšeň,83,714,A,0,N,0,N,0,0
+6202,582786,1,13,1693,33,Radoslava,Kocmanová,,,56,učitelka,Brno-Bystrc,99,1227,A,0,N,0,N,0,0
+6202,582786,1,13,1693,34,Monika,Čevelová,,,34,kuchařka,Brno-střed,99,714,A,0,N,0,N,0,0
+6202,582786,1,13,1693,35,Martin,Zdráhal,,,53,správce sítě,Brno-Vinohrady,714,714,A,0,N,0,N,0,0
+6202,582786,1,13,1693,36,Olga,Doleželová,,,81,důchodkyně,Brno-Bystrc,99,1227,A,0,N,0,N,0,0
+6202,582786,1,13,1693,37,Dáša,Zigalová,Bc.,,66,úřednice,Brno-Kohoutovice,1265,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,38,Marie,Gregůrková,Ing.,,64,učitelka,Brno-Slatina,714,714,A,0,N,0,N,0,0
+6202,582786,1,13,1693,39,Barbara,John Žurman,Mgr.,,43,učitelka dějepisu,Brno-sever,99,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,40,Lenka,Kleinová,,,58,učitelka,Brno-Bystrc,99,1227,A,0,N,0,N,0,0
+6202,582786,1,13,1693,41,Etela,Šímová,,,62,vychovatelka dětí autistického spektra,Brno-Líšeň,99,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,42,Mirko,Musil,,,43,vedoucí směny,Brno-střed,83,714,A,0,N,0,N,0,0
+6202,582786,1,13,1693,43,Martin,Kuchař,,,56,provozní technik,Brno-Líšeň,1265,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,44,Darja,Heinigová,,,62,účetní,Brno-střed,99,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,45,Petr,Poláček,,,63,technik na STK,Brno-Černovice,1265,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,46,Kristýna,Doleželová,,,30,asistentka,Brno-Bystrc,99,1227,A,0,N,0,N,0,0
+6202,582786,1,13,1693,47,Vít,Lopour,,,32,IT specialista,Brno-Komín,99,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,48,Pavel,Sedláček,,,58,technik údržby,Brno-Bystrc,99,1227,A,0,N,0,N,0,0
+6202,582786,1,13,1693,49,Marcela,Brandstätterová,,,54,správkyně,Brno-Bystrc,99,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,50,Martin,Chlup,,,49,vedoucí dispečer FN Bohunice,Brno-Starý Lískovec,99,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,51,Yvetta,Zatočilová,,,44,manažerka provozu,Brno-Líšeň,99,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,52,Jarmila,Juříčková,,,41,prodavačka,Brno-sever,99,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,53,Helena,Magulová,,,50,sociální pracovnice,Brno-Maloměřice a Obřany,99,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,54,Lubomír,Kotrba,,,63,podnikatel s tiskem,Brno-sever,99,1265,A,0,N,0,N,0,0
+6202,582786,1,13,1693,55,Lubor,Pospíchal,Ing.,,46,specialista na kvalitu vody,Brno-Slatina,99,1265,A,0,N,0,N,0,0
+6202,582786,1,14,1730,1,Michal,Sedláček,prof. Ing. arch.,,63,architekt a vysokoškolský profesor,Brno-Komín,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,2,Markéta,Peringerová,Mgr.,,39,"pedagožka, historička umění, na rodičovské",Brno-Královo Pole,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,3,Milan,Šulc,Ing. Mgr.,,39,"právník, manažer a podnikatel",Brno-sever,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,4,Pavel,Boucnik,Ing.,Ph.D.,53,"datový analytik, autor průvodce po českých nádražích",Brno-Řečkovice a Mokrá Hora,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,5,Barbora,Šálková,Mgr.,,26,právnička,Brno-sever,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,6,Michal,Šulc,Mgr. et  Mgr. Ing.,,39,advokát a cyklistický nadšenec,Brno-sever,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,7,Kristýna,Pitharasová,,,33,office manažerka,Brno-střed,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,8,Petr,Holeček,Mgr.,,69,"pedagog, divadelní režisér",Brno-sever,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,9,Julie,Sitarová,Ing.,,31,"projektová manažerka, lektorka tance, na rodičovské",Brno-sever,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,10,Jan,Mičan,MUDr.,Ph.D.,30,lékař - neurolog,Brno-střed,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,11,Petr,Vlček,MUDr.,Ph.D.,64,lékař - chirurg,Brno-Žabovřesky,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,12,Hana,Philippi,Ing.,,49,projektová manažerka,Brno-Bystrc,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,13,František,Fajt,Ing.,,42,produktový manažer ve stavebnictví,Brno-Židenice,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,14,Jiří,Tlamka,,,40,OSVČ - Vinohradský kutil,Brno-Vinohrady,1216,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,15,Filip,Hanák,,,39,designér a stratég,Brno-střed,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,16,Kristýna,Drábková,Mgr.,,32,"produkční, na rodičovské",Brno-střed,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,17,Markéta,Matoušková,JUDr.,,62,"právnička, průvodkyně, cvičitelka fitness",Brno-Jehnice,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,18,Eva,La Rocca,Mgr.,,41,speciální pedagožka,Brno-střed,99,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,19,Pavel,Benda,Mgr.,,47,specialista prezentace projektů,Brno-Královo Pole,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,20,Milan,Voltr,,,72,učitel autoškoly,Brno-střed,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,21,Antonín,Václavík,Mgr.,Ph.D.,51,učitel na základní škole,Brno-Bohunice,99,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,22,Radoslav,Kobza,Ing. arch.,,61,"architekt, majitel rezortu Maximus",Brno-Nový Lískovec,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,23,Hana,Krajčíková,Mgr. Ing.,,41,advokátka,Brno-střed,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,24,Jonáš,Pelčák,,,19,student práv,Brno-Žabovřesky,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,25,Marek Dartagnan Rychlonozka,Sedláček,,,23,student matematiky,Brno-Komín,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,26,Veronika,Koppová,,,23,studentka ekonomie,Brno-Vinohrady,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,27,Renata,Kobzová,MUDr.,,60,"zubařka, podnikatelka",Brno-Nový Lískovec,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,28,Helena,Glombová,,,54,zdravotní sestra,Brno-střed,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,29,Ondřej,Adame,,,39,specialista pro energeticky úsporná řešení,Brno-Vinohrady,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,30,Hana,Čalkovská,Mgr.,,38,projektová manažerka,Brno-sever,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,31,Andrea,Trefulková,Mgr.,,33,učitelka v mateřské škole,Brno-střed,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,32,Lukáš,Čoupek,Ing.,,41,finanční auditor,Brno-Bosonohy,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,33,Jan,Mayer,Mgr.,,39,manažer v IT,Brno-Kohoutovice,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,34,Eva,Koppová,,,54,"ekonomka, účetní poradce",Brno-Vinohrady,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,35,Michaela,Skotáková Záhorská,Ing. arch.,,75,architektka,Brno-střed,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,36,Pavel,Gebauer,Ing. et Ing. arch.,,29,architekt,Brno-jih,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,37,Karla,Pokludová,Ing. arch.,,58,architektka,Brno-Tuřany,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,38,Viktor,Rudiš,Ing. arch.,,99,"architekt, autor sídliště Lesná",Brno-střed,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,39,Karel,Tuza,prof. Ing.,CSc.,78,"architekt, zakladatel A PLUS a.s.",Brno-Bosonohy,99,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,40,Antonín,Sedláček,Ing.,,89,projektant v důchodu,Brno-Komín,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,41,Dana,Hrbková,Ing.,,40,produktový manažer ve farmacii,Brno-Vinohrady,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,42,Jaroslav,Kováč,Bc.,,39,majitel realitní kanceláře,Brno-Židenice,99,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,43,Jan,Štětka,Mgr.,,39,učitel na základní škole,Brno-Bystrc,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,44,Marie,Nováčková,Ing.,,39,vyšší rada na finančním úřadě,Brno-Kohoutovice,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,45,František,Navrátil,Ing.,,70,vedoucí správy nemovitostí,Brno-Starý Lískovec,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,46,Michaela,Kyjonková,,,35,podnikatelka,Brno-střed,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,47,Petr,Čermák,Mgr.,,39,právník,Brno-Vinohrady,99,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,48,Jarmila,Horáčková,,,58,pěstitelka a prodejkyně zeleniny a ovoce,Brno-střed,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,49,Filip,Červinka,Ing.,,29,"ekonom, specialista na prevenci praní špinavých peněz a finanční kriminality",Brno-Slatina,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,50,Tomáš,Filip,Ing.,,38,"podnikatel, softwarový inženýr",Brno-střed,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,51,Monika,Střítecká,Mgr.,,38,učitelka na základní škole,Brno-Židenice,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,52,Martina,Hanáková,,,48,učitelka v mateřské škole,Brno-Medlánky,99,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,53,Aleš,Kolář,,,59,sportovní manažer v házené,Brno-Nový Lískovec,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,54,Simona,Jánská,,,39,specialistka na finančním úřadě,Brno-Vinohrady,99,1730,A,0,N,0,N,0,0
+6202,582786,1,14,1730,55,Josef,Šlapal,prof. RNDr.,CSc.,70,matematik a vysokoškolský profesor,Brno-střed,1730,1730,A,0,N,0,N,0,0
+6202,582786,1,15,1870,1,Adam,Zemek,Mgr.,,35,"brněnský zastupitel, programátor",Brno-Bohunice,720,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,2,Jitka,Bidlová,Ing. arch.,Ph.D.,48,architektka,Brno-Kohoutovice,720,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,3,David,Pokorný,Ing.,Ph.D.,31,fyzik a učitel,Brno-sever,1246,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,4,Marek,Lahoda,Mgr.,,34,"geograf, datař, brněnský zastupitel",Brno-sever,720,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,5,Filip,Havlíček,PhDr.,,40,"projektový manažer, zastupitel MČ Brno-střed",Brno-střed,720,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,6,Marek,Šoška,Mgr. et Mgr.,,28,manažer vzdělávací instituce,Brno-sever,1246,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,7,Kristina,Javůrková,Mgr. Bc.,,37,"zakladatelka a jednatelka vzdělávací organizace, headhunterka",Brno-Žabovřesky,720,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,8,Nina,Hájková,Mgr.,,31,marketingová manažerka,Brno-Královo Pole,1246,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,9,Antonín,Trčálek,Ing.,,43,místostarosta MČ Brno-jih,Brno-jih,720,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,10,Iveta,Sebastiâová Paulová,Bc.,,41,právní specialistka,Brno-střed,1246,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,11,Monika,Lukášová Spilková,Mgr.,Ph.D.,39,"brněnská zastupitelka, historička",Brno-střed,720,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,12,Oldřich,Peprla,Ing.,,43,podnikatel,Brno-Líšeň,1246,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,13,Kristýna,Hvižďová,Mgr. Bc.,,35,"učitelka, lektorka",Brno-Řečkovice a Mokrá Hora,1233,1233,A,0,N,0,N,0,0
+6202,582786,1,15,1870,14,Lenka,Bartolšicová,MgA.,,57,"herečka, pedagožka",Brno-jih,99,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,15,Michal,Škerle,Mgr. et Mgr.,,42,"právník, pedagog, vedoucí Centra prevence v Brně",Brno-Královo Pole,720,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,16,Jan,Tichý,Ing.,,32,dopravní a energetický specialista,Brno-střed,1246,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,17,Anežka,Lexmanová,Mgr.,,24,učitelka v mateřské školce,Brno-Líšeň,99,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,18,Žaneta,Rochová,Mgr.,,31,právnička,Brno-Královo Pole,1233,1233,A,0,N,0,N,0,0
+6202,582786,1,15,1870,19,Petr,Springinsfeld,Bc.,,28,manažer obchodního týmu a zastupitel MČ Brno-střed,Brno-střed,720,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,20,Denisa,Zlámalová,Mgr.,,29,vědkyně,Brno-Řečkovice a Mokrá Hora,1246,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,21,Tomáš,Řepa,Mgr. Bc.,Ph.D.,40,"odborný asistent, vojenský historik",Brno-střed,1297,1297,A,0,N,0,N,0,0
+6202,582786,1,15,1870,22,Petr,Viewegh,Ing.,Ph.D.,39,"učitel, vědec, vysokoškolský pedagog",Brno-Královo Pole,1246,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,23,Ondřej,Kapitančik,,,32,"manažer, ředitel kulturního festivalu",Brno-Královo Pole,720,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,24,Andrea,Frajtová,Ing.,,39,rodičovská dovolená,Brno-Bystrc,1233,1233,A,0,N,0,N,0,0
+6202,582786,1,15,1870,25,Ayudh,Ray,,,21,"student, koordinátor Mladého Pirátstva",Brno-Starý Lískovec,720,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,26,Monika,Mucsková,Ing.,,27,lektorka na VŠ,Brno-Černovice,99,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,27,Lukáš,Doležal,Bc.,,37,projektový manažer,Brno-Řečkovice a Mokrá Hora,720,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,28,Martin,Hájek,Mgr.,,37,referent majetkové správy,Brno-Královo Pole,1246,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,29,Tomáš,Psota,Ing.,MBA,41,"manažer, zastupitel MČ Brno-střed",Brno-střed,720,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,30,Karolína,Křížová,MgA.,,42,grafická designérka,Brno-střed,99,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,31,Victoria Marlene,Gabriel,,,19,studentka,Brno-sever,720,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,32,Roman,Bartolšic,Ing.,,34,manažer v IT,Brno-sever,1246,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,33,Tereza Marti,Pazdírek,Mgr.,,38,manažerka v cestovním ruchu,Brno-střed,720,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,34,Eva,Ivánová,Bc.,,28,produkční,Brno-sever,99,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,35,Veronika,Hladíková,Ing. arch.,,43,architektka,Brno-Černovice,99,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,36,Michael,Hanzelka,Mgr.,,41,obchodní manažer,Brno-Slatina,99,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,37,Barbora,Cvanová,,,40,podnikatelka,Brno-střed,720,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,38,Valentina,Skoupá,Bc.,DiS.,31,mzdová účetní,Brno-sever,99,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,39,Jacek,Ślewczuk,Mgr.,,34,"psycholog, tlumočník, průvodce",Brno-sever,99,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,40,Jaroslav,Síč,Bc.,,24,PR specialista,Brno-střed,1246,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,41,Barbora,Konečná,Bc.,,35,rodičovská dovolená,Brno-Bosonohy,720,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,42,Emanuela,Humplík Pinto,Mgr.,,37,právnička,Brno-sever,99,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,43,Jitka,Sládková,Ing. Mgr.,Ph.D.,44,manažerka inovací a rozvoje,Brno-střed,720,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,44,Tomáš,Pavlovský,Ing. arch.,Ph.D.,48,"architekt, pedagog",Brno-střed,99,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,45,Filip,Teplý,,,43,"majitel čokoládovny, podnikatel",Brno-střed,99,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,46,Ivana,Kopřivová,Ing.,,54,učitelka v mateřské školce,Brno-Líšeň,99,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,47,Jana,Přikrylová,Mgr.,,41,advokátka,Brno-Černovice,99,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,48,Martin,Behanec,Mgr.,,25,právník,Brno-sever,99,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,49,Filip,Slaný,Mgr.,,25,právník,Brno-jih,720,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,50,Sarah Amálie,Dreslerová,Bc.,,31,produkční virtuálních licencí,Brno-střed,99,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,51,Martin,Ondruš,Mgr.,Ph.D.,54,scénograf,Brno-Líšeň,720,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,52,Dávid,Kampo,Ing.,,28,biomedicínský inženýr,Brno-Židenice,99,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,53,Jitka,Matýšková,,,41,certifikovaná dula,Brno-střed,720,720,A,0,N,0,N,0,0
+6202,582786,1,15,1870,54,Dana,Janíčková,Mgr.,,68,pedagožka,Brno-střed,99,1246,A,0,N,0,N,0,0
+6202,582786,1,15,1870,55,Vendula,Svobodová,RNDr.,,34,"poslankyně, zastupitelka MČ Brno-Starý Lískovec, předsedkyně spolku Blechy v kožichu",Brno-Starý Lískovec,720,720,A,0,N,0,N,0,0
+6202,582786,1,16,1305,1,Jiří,Kment,Bc.,,48,"manažer informačních technologií, zastupitel města Brna",Brno-Bystrc,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,2,Leoš,Prokeš,,MBA,43,"zastupitel města Brna a MČ Brno-střed, asistent poslankyně",Brno-střed,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,3,Jana,Nováková Fránková,Mgr.,,58,právnička,Brno-Útěchov,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,4,Tomáš,Kotas,ak. arch.,,65,"architekt, zastupitel Jihomoravského kraje a MČ Brno-střed",Brno-střed,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,5,Boris,Latýn,Ing. Mgr.,,47,"IT manažer, zastupitel MČ Brno-Kohoutovice",Brno-Kohoutovice,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,6,Petr,Havelka,Ing.,,47,"oceňovatel nemovitostí, zastupitel MČ Brno-sever",Brno-sever,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,7,Diana,Chodžajanová,,,24,"studentka práv, zastupitelka MČ Brno-střed",Brno-střed,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,8,Petr,Koš,,,58,"strážník městské policie, zastupitel MČ Brno-Královo Pole",Brno-Královo Pole,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,9,Jiří,Doležel,Mgr.,,49,"učitel, zastupitel MČ Brno-jih",Brno-jih,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,10,Bohumír,Myslín,Ing.,,51,provozní ředitel,Brno-Líšeň,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,11,František,Novák,Mgr.,,65,"prodejce stavební techniky, zastupitel MČ Brno-sever",Brno-sever,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,12,Oleg,Beznosik,Mgr.,,50,obchodní manažer,Brno-Slatina,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,13,Karel,Kočí,,,52,živnostník - opravář,Brno-Medlánky,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,14,Marek,Svitavský,,,54,"obchodní ředitel, zastupitel MČ Brno-Židenice",Brno-Židenice,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,15,František,Kročil,,,66,"živnostník, zastupitel MČ Brno-Bohunice",Brno-Bohunice,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,16,Tomáš,Dojiva,,,54,"technický pracovník, zastupitel MČ Brno-Tuřany",Brno-Tuřany,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,17,Barbora,Kolenčíková,,,40,pracovnice ve školství,Brno-Černovice,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,18,Petr,Rozkošný,MVDr.,,60,veterinář,Brno-Ivanovice,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,19,Antonín,Růžička,Ing.,,65,strojní inženýr,Brno-Starý Lískovec,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,20,Ivana,Reichová,MgA.,,65,učitelka hudby,Brno-Vinohrady,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,21,Patrik,Pávek,,,50,"zaměstnanec Policie ČR, zastupitel MČ Brno-sever",Brno-sever,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,22,Roman,Freimuth,,,65,"manažer hudební školy, zastupitel MČ Brno-střed",Brno-střed,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,23,Jana,Baronová,,,74,poštovní doručovatelka,Brno-Kohoutovice,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,24,Erika Ani,Grigorjanová,Bc.,,22,studentka medicíny,Brno-Líšeň,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,25,Pavlína,Stehlíková,,,54,překladatelka,Brno-jih,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,26,Vladislav,Stuchlík,,,76,fotbalový rozhodčí,Brno-Kohoutovice,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,27,Vladimír,Macka,,,66,řidič,Brno-střed,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,28,Bedřich,Zach,,,64,živnostník ve stavebnictví,Brno-Královo Pole,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,29,Iva,Řežábková,PhDr.,,69,projektová referentka,Brno-Slatina,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,30,Marek,Sedlák,,,52,"dobrovolný hasič, trenér, řidič specializovaného vozidla",Brno-střed,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,31,Michael,Stavjař,,,27,nákupčí,Brno-sever,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,32,Tomáš,Bukvald,,,26,finanční poradce,Brno-Kohoutovice,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,33,Dana,Slezáková,,DiS.,53,zdravotní sestra,Brno-Slatina,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,34,Petr,Novotný,Ing.,,44,manažer IT,Brno-Kohoutovice,99,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,35,Karel,Matúš,,,46,specialista v logistice,Brno-Slatina,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,36,Alexander,Raděv,,,52,pracovník v provozu,Brno-Bystrc,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,37,Zdeňka,Kotasová,,,48,administrativní pracovnice,Brno-střed,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,38,Richard,Hotový,,,32,pracovník v logistice,Brno-Královo Pole,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,39,Petr,Král,,,68,vzduchotechnik,Brno-Židenice,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,40,Tomáš,Přikryl,,,32,živnostník,Brno-Tuřany,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,41,Petra,Suchánková,,,40,odborná referentka ve stavebnictví,Brno-střed,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,42,Akop,Chodžajan,,,52,jednatel marketingové společnosti,Brno-střed,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,43,Emil,Pospíchal,,,45,stavbyvedoucí,Brno-střed,99,80,A,0,N,0,N,0,0
+6202,582786,1,16,1305,44,Roman,Machálek,,,58,"bezpečnostní pracovník, zastupitel MČ Brno-Bohunice",Brno-Bohunice,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,45,Martin,Neduchal,,,28,elektrotechnik,Brno-Útěchov,99,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,46,Martin,Svoboda,Ing.,,58,IT administrátor,Brno-Líšeň,99,80,A,0,N,0,N,0,0
+6202,582786,1,16,1305,47,Leon,Prokeš,,,18,živnostník,Brno-Tuřany,99,80,A,0,N,0,N,0,0
+6202,582786,1,16,1305,48,František,Kořínek,,,65,pracovník v autodopravě,Brno-Bohunice,1114,1114,A,0,N,0,N,0,0
+6202,582786,1,16,1305,49,Lenka,Havelková,,,44,zdravotní sestra,Brno-sever,99,80,A,0,N,0,N,0,0
+6202,582786,1,16,1305,50,Lenka,Šlachtová,,,65,bezpečnostní pracovnice ostrahy,Brno-Líšeň,99,80,A,0,N,0,N,0,0
+6202,582786,1,16,1305,51,Libuše,Čermáková,,,54,kuchařka,Brno-střed,99,80,A,0,N,0,N,0,0
+6202,582786,1,16,1305,52,Jarmila,Motalová,,,76,projektová manažerka,Brno-Královo Pole,99,80,A,0,N,0,N,0,0
+6202,582786,1,16,1305,53,Nikola,Hruban,,,36,barman,Brno-Královo Pole,99,80,A,0,N,0,N,0,0
+6202,582786,1,16,1305,54,Jaroslav,Smoleňák,,,58,vedoucí pracovník údržby,Brno-střed,99,80,A,0,N,0,N,0,0
+6202,582786,1,16,1305,55,Karel,Cholek,,,66,"strojní technolog, zastupitel MČ Brno-Slatina",Brno-Slatina,1114,1114,A,0,N,0,N,0,0

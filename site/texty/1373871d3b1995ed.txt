@@ -1,0 +1,379 @@
+Rada města Brna
+
+Z9/16. zasedání Zastupitelstva města Brna
+konané dne 9.4.2024
+
+
+
+  54. Projekt "IT vybavení pro stavební úřad" – posouzení projektu
+
+Anotace
+Posouzení projektu „IT vybavení pro stavební úřad“ podaný do výzvy Ministerstva pro místní rozvoj ČR v
+rámci Národního plánu obnovy. Cílem projektu je vybavení nového stavebního úřadu výkonnou výpočetní
+technikou, která zajistí zefektivnění povolovacích postupů a zrychlí stavební řízení. Celkové způsobilé
+výdaje na realizaci projektu jsou ve výši 5 500 000 Kč. Podpora je ve výši 100 % ze způsobilých výdajů.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. bere na vědomí schválení posouzení projektu „IT vybavení pro stavební úřad“ Radou města Brna na
+                  zákl. čl. 3.1.1 Metodiky implementace projektů (spolu) financovatelných z
+                  evropských fondů a národních programů, s ohledem na termín pro podání žádosti o
+                  podporu
+
+
+Stanoviska
+
+Materiál projednala Rada města Brna na R9/072. schůzi konané dne 28. 2. 2024 a doporučila
+Zastupitelstvu města Brna přijmout výše uvedený návrh usnesení.
+
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Ivan Hloušek
+  vedoucí odboru - Odbor implementace evropských fondů
+  2.4.2024 v 12:35
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel                                         Spolupodepisovatel
+
+  Elektronicky podepsáno                                       Elektronicky podepsáno
+
+  Ing. David Menšík, vz. Ing. Dušan Hájek                      Mgr. Radek Řeřicha
+  vedoucí odboru - Odbor městské informatiky                   vedoucí úseku - 4. úsek
+  28.3.2024 v 10:15                                            2.4.2024 v 12:27
+
+
+
+
+Sestava vytvořena 2.4.2024 v 12:35                       1/1                             Vygenerováno programem eMMB
+
+
+                                                                                                         Strana 1 / 8
+                                   Obsah materiálu
+Návrh usnesení                                       1-1
+Obsah materiálu                                      2-2
+Důvodová zpráva                                      3-4
+Příloha (IT vybavení pro stavební úřad – PP.pdf)     5-8
+
+
+
+
+                                                      Strana 2 / 8
+                                          Důvodová zpráva
+
+
+
+V souladu s Metodikou implementace projektů (spolu)financovatelných z evropských fondů
+a národních programů je Zastupitelstvu města Brna předloženo posouzení projektu „IT vybavení pro
+stavební úřad“. Žádost o podporu byla připravena v souladu s podmínkami programu a výzvy Národního
+plánu obnovy – Zavedení nového stavebního zákona do praxe „IT vybavení pro stavební úřady“
+Centrem pro regionální rozvoj České republiky, které bylo zplnomocněno k jejímu podání a administraci
+projektu. Toto netradiční řešení bylo zvoleno pro všechny potenciální žadatele v rámci České republiky.
+Z časových důvodů, kdy termín pro zaslání plných mocí byl stanoven do 29.2.2024, bylo posouzení
+projektu předloženo ke schválení Radě města Brna na její R9/072. schůzi dne 28.2.2024 a
+Zastupitelstvu města Brna je předloženo na vědomí.
+
+Projekt byl předložen do výzvy č. 2 Zavedení nového stavebního zákona do praxe „IT vybavení pro
+stavební úřady“ vyhlášené Ministerstvem pro místní rozvoj ČR v rámci Národního plánu obnovy.
+Projekt „IT vybavení pro stavební úřad“ je svým zaměřením v souladu s komponentou 1.6 Zrychlení
+a digitalizace stavebního řízení, subkomponentou 1.6.1 Zavedení nového stavebního zákona
+a pozemkového zákona do praxe a reformou č. 1: Zavedení nového stavebního zákona a pozemkového
+zákona do praxe.
+
+Reforma spočívá v institucionálních a procesních změnách a má přinést vysoký stupeň digitalizace
+stavebního řízení. Za decentralizovanou strukturu stavebních úřadů a jejich provozní podmínky bude
+odpovídat stát. Reforma zrychlí stavební řízení a zefektivní povolovací postupy. Příslušní aktéři
+absolvují odpovídající školení, aby porozuměli novým procesům, byli schopni používat nové informační
+systémy a pracovali v novém organizačním uspořádání efektivně. Stávající údaje budou převedeny na
+novou platformu a až do vybudování centrálního (agendového) informačního systému („AIS“) bude
+zajištěno fungování jednotlivých stávajících informačních systémů. To zahrnuje zajištění nezbytného IT
+vybavení pro fungování nové struktury stavebních úřadů.
+
+Podpořen bude nákup standardizovaných balíčků IT vybavení vyšší kvality prostřednictvím
+centrální veřejné zakázky. Statutární město Brno bude nákup realizovat prostřednictvím dynamického
+nákupního systému Ministerstva financí České republiky. Pro město Brno bude vyhrazeno 100 ks
+výpočetní techniky dle parametrů přednastavených poskytovatelem dotace.
+
+Datum zahájení realizace projektu byl stanoven k datu 1.1.2024. Realizace projektu musí být ukončena
+v souladu s termínem plnění dle Prováděcího rozhodnutí Rady EU nejpozději do 30. 9. 2024.
+
+Celkové způsobilé výdaje na realizaci projektu se předpokládají ve výši 5 500 000 Kč. Podpora se
+předpokládá ve výši 100 % ze způsobilých výdajů.
+
+ Předpokládaná struktura výdajů projektu (v Kč včetně DPH)
+Celkové výdaje projektu                                 5 500 000 Kč                      100 %
+Nezpůsobilé výdaje                                                     0 Kč                  0%
+Způsobilé výdaje                                              5 500 000 Kč                100 %
+Výše podpory                                                  5 500 000 Kč                100 %
+Kofinancování města Brna                                               0 Kč                  0%
+
+Nositelem projektu v souladu s Metodikou implementace projektů (spolu)financovatelných
+z evropských fondů a národních programů je Odbor městské informatiky MMB, který spolupracuje
+s OÚPR (OÚPSŘ).
+
+
+Stanoviska dotčených orgánů:
+Materiál nebyl z časových důvodů projednán v Komisi pro informační technologie Rady města Brna.
+Materiál projednala Rada města Brna na R9/072. schůzi konané dne 28. února 2023 a doporučila
+Zastupitelstvu města Brna přijmout výše uvedený návrh usnesení.
+
+
+
+
+                                                                                                   Strana 3 / 8
+                       JUDr.
+
+
+
+
+               pro
+                       Vaňková
+
+                       Mgr.
+
+
+               pro
+                       Černý
+
+                       RNDr.
+               pro
+                       Chvátal
+                       Ph.D.
+                                    Schváleno jednomyslně 9 členy.
+
+
+
+
+                       JUDr.
+               pro
+
+
+
+
+                       Kerndl
+
+                       Ing.
+               pro
+
+
+
+
+                       Podivinská
+
+                       Bc. Aberl
+               -----
+
+
+
+
+                       Ing. arch.
+               pro
+
+
+
+
+                       Bořecký
+
+                       Bořecký
+               pro
+
+
+
+
+                       (KDU-ČSL)
+
+                       Ing.
+               pro
+
+
+
+
+                       Kratochvíl
+
+                       JUDr.
+               pro
+
+
+
+
+                       Matonohov
+                       á
+                       JUDr.
+               pro
+
+
+
+
+                       Oliva
+
+
+
+
+Strana 4 / 8
+Posouzení projektu se skládá z těchto částí:
+
+
+   1.     Záměr projektu
+
+        a) Obecné údaje
+
+        b) Legislativní a strategický průmět, popis projektu
+
+   2.     Financování projektu
+
+
+
+
+                                                               Strana 5 / 8
+                                      ZÁMĚR PROJEKTU – část A.
+                                               A.1. PŘEDKLADATEL
+1. Plný název předkladatele projektu:
+statutární město Brno, Dominikánské náměstí 1, 602 00 Brno
+2. Právní statut:
+statutární město (dle zákona č. 128/2000 Sb., o obcích)
+                                  A. 2. KONTAKTNÍ OSOBA A PARTNEŘI PROJEKTU
+1. Nositel projektu:
+Odbor městské informatiky
+2. Jméno kontaktní osoby (nositele projektu):
+Ing. Dušan Hájek, Mgr. Viktor Poledník
+3. Adresa, telefon, mobil, e-mail, webová stránka kontaktní osoby:
+Magistrát města Brna, Odbor městské informatiky
+Malinovského nám. 624/3, 601 67 Brno
+Email: hajek.dusan@brno.cz; Tel.: +420 542 173 421
+
+Magistrát města Brna, Odbor územního plánování a rozvoje
+Kounicova 949/67, 601 67 Brno
+Email: polednik.viktor@brno.cz; Tel.: +420 542 174 116
+
+4. Přehled partnerů participujících na projektu:
+
+5. Adresa, telefon, mobil, e-mail, webová stránka partnerů na projektu:
+
+6. Způsob spolupráce partnerů na projektu:
+                                    A. 3. VŠEOBECNÉ INFORMACE O PROJEKTU
+1. Název projektu:
+IT vybavení pro stavební úřad
+2. Umístění projektu:
+město Brno/brněnská metropolitní oblast
+3. Cíle projektu, jeho účel:
+Cílem projektu je vybavení stavebního úřadu výkonnou výpočetní technikou, která zajistí zefektivnění povolovacích
+postupů a zrychlí stavební řízení. Podpořen bude nákup standardizovaných balíčků IT vybavení vyšší kvality
+prostřednictvím centrální veřejné zakázky. Statutární město Brno bude nákup realizovat prostřednictvím
+dynamického nákupního systému Ministerstva financí České republiky.
+
+
+4. Výchozí stav:
+Projekt řeší zajištění nezbytného IT vybavení pro fungování nové struktury stavebních úřadů. V současné době
+není zajištěna dostatečná kapacita IT techniky pro navýšení počtu funkčních míst stavebních techniků OÚSŘ MMB.
+5. Předpokládané výsledky/výstupy projektu:
+100 ks IT techniky s následujícími parametry. Jeden balíček se skládá z následujících komponentů:
+- notebook (dedikovaná grafická karta, SSD disk, aj.) + periferie (klávesnice, myč) vč. operačního systému
+- 2x monitor (LCD, velikost uhlopříčky 30" až 34", 2 porty (HDMI + DP)
+
+Finální specifikace budou předmětem veřejné zakázky.
+6. Předpokládané dopady projektu:
+Zajištění adekvátní výpočetní techniky pro nové stavební techniky.
+
+
+
+
+                                                                                                        Strana 6 / 8
+7. Cílové skupiny:
+Cílovou skupinou jsou občané ČR a všichni stakeholdeři v oblasti stavebního řízení, tzn. stavebníci – soukromé
+osoby, právnické osoby ve stavebnictví (tj. i malé a střední firmy), municipality a státní správa.
+                                        ZÁMĚR PROJEKTU – část B.
+                                            B. 1. Popis projektu
+1. Jednotlivé aktivity projektu:
+Jedinou aktivitou bude nákup standardizovaných balíčků IT vybavení vyšší kvality prostřednictvím centrální
+veřejné zakázky. Statutární město Brno bude nákup realizovat prostřednictvím dynamického nákupního systému
+Ministerstva financí České republiky.
+2. Časová náročnost projektu:
+9 měsíců (leden až září 2024)
+3. Indikátory:
+Nerelevantní
+4. Hrubý rozpočet na celou dobu trvání projektu:
+Celkový způsobilé náklady byly stanoveny na hodnotě 5 500 000 Kč.
+
+Jedná se o 100 ks IT balíčků. Jednotková cena byla stanovena na 55 000 Kč.
+                                    B. 2. STRATEGICKÝ A LEGISLATIVNÍ PRŮMĚT
+
+1. Soulad se Strategií Brno 2050:
+Nerelevantní
+2. Soulad s odvětvovými koncepčními dokumenty MMB:
+Nerelevantní
+3. Soulad s územním plánem města Brna:
+Nerelevantní
+4. Legislativní audit:
+Nerelevantní
+
+                                            B. 3. OSTATNÍ INFORMACE
+
+1. Majetkové poměry:
+Nerelevantní
+2. Synergie:
+Nerelevantní
+3. Zajištění udržitelnosti projektu:
+Doba udržitelnosti projektu je stanovena individuálně v právním aktu o přidělení finančních prostředků a je
+stanovena na 3 roky od pořízení IT vybavení.
+
+
+
+
+                                                                                                          Strana 7 / 8
+                                      Financování projektu
+
+Projekt „IT vybavení pro stavební úřad“ bude podáván do výzvy č. 2 Zavedení nového stavebního
+zákona do praxe „IT vybavení pro stavební úřady“ vyhlášenou Ministerstvem pro místní rozvoj ČR
+v rámci Národního plánu obnovy. Projekt „IT vybavení pro stavební úřadů“ je svým zaměřením v souladu
+s komponentou 1.6 Zrychlení a digitalizace stavebního řízení, subkomponentou 1.6.1 Zavedení nového
+stavebního zákona a pozemkového zákona do praxe a reformou č. 1: Zavedení nového stavebního
+zákona a pozemkového zákona do praxe.
+
+Reforma zrychlí stavební řízení a zefektivní povolovací postupy. Příslušní aktéři absolvují odpovídající
+školení, aby porozuměli novým procesům, byli schopni používat nové informační systémy a pracovali
+v novém organizačním uspořádání efektivně. Stávající údaje budou převedeny na novou platformu
+a až do vybudování centrálního (agendového) informačního systému („AIS“) bude zajištěno fungování
+jednotlivých stávajících informačních systémů. To zahrnuje zajištění nezbytného IT vybavení.
+
+
+Nositelem projektu je Odbor městské informatiky MMB.
+
+Celkové náklady činí 5 500 000,- Kč, podle předběžné analýzy bude způsobilým výdajem celá částka,
+tj. nepočítá se s nezpůsobilými výdaji. Podpora se předpokládá ve výši 100 % ze způsobilých nákladů.
+
+ Rozpočet na celou dobu trvání projektu (v Kč včetně DPH)
+ Fáze                            Výdaje na projekt
+                                                          Příjmy z projektu
+                              investiční     neinvestiční
+ Přípravná
+ Realizační                                 5 500 000 Kč
+ Provozní
+ Celkem                                     5 500 000 Kč
+
+
+Předpokládaná struktura výdajů projektu (v Kč včetně DPH)
+Celkové výdaje projektu                                 5 500 000 Kč                       100 %
+Nezpůsobilé výdaje                                                      0 Kč                  0%
+Způsobilé výdaje                                               5 500 000 Kč                100 %
+Výše podpory                                                   5 500 000 Kč                100 %
+Kofinancování města Brna                                                0 Kč                  0%
+
+
+Zdroje krytí projektu
+Podle nastavení Výzvy č. 2 není aplikováno žádné spolufinancování.
+
+Financování projektu bude probíhat ve formě ex-ante zálohy. Veškerý pořízený majetek bude
+financován z těchto poskytnutých prostředků.
+
+
+
+
+                                                                                                    Strana 8 / 8
+

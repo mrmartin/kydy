@@ -1,0 +1,530 @@
+Rada města Brna
+
+Z9/13. zasedání Zastupitelstva města Brna
+konané dne 12.12.2023
+
+
+
+      52. Projekt "Rozšíření monitoringu a logování síťových prvků
+              SMB" – změna parametrů posouzení projektu
+
+Anotace
+Změna parametrů posouzení projektu k projektu "Rozšíření monitoringu a logování síťových prvků SMB"
+podávané v rámci Národního plánu obnovy. Cílem projektu je zapojení moderních bezpečnostních
+technologií, které poskytují dohled, dozor a umožňují detekci, reakci a zpětnou analýzu anomálií v
+chování počítačových sítí SMB. Dle pravidel výzvy je míra poskytované dotace 100 % způsobilých výdajů.
+V alokaci pro projekt však není zahrnuto DPH, které musí být hrazeno z vlastních finančních zdrojů a je
+tedy nezpůsobilé. Celkové způsobilé náklady projektu jsou vyčísleny na částku 5 372 612 Kč.
+Nezpůsobilá část (DPH) činí 1 128 248 Kč.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. bere na vědomí schválení
+
+                                      změny parametrů posouzení projektu "Rozšíření monitoringu a logování
+                                      síťových prvků SMB"
+                                      upraveného posouzení projektu „Rozšíření monitoringu a logování síťových
+                                      prvků SMB“
+
+                               Radou města Brna na základě čl. 3.1.2 Metodiky implementace projektů
+                               (spolu)financovatelných z evropských fondů a národních programů, s ohledem na
+                               pravděpodobné vyčerpání alokace
+
+
+Stanoviska
+
+Materiál projednala Rada města Brna na R9/061. schůzi konané dne 29. 11. 2023 a doporučila
+Zastupitelstvu města Brna přijmout výše uvedený návrh usnesení.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Ivan Hloušek
+  vedoucí odboru - Odbor implementace evropských fondů
+  5.12.2023 v 10:15
+  Garance správnosti, zákonnosti materiálu
+
+
+
+
+Sestava vytvořena 5.12.2023 v 12:29                          1/2                            Vygenerováno programem eMMB
+
+
+                                                                                                            Strana 1 / 12
+Spolupodepisovatel                              Spolupodepisovatel
+
+  Elektronicky podepsáno                             Elektronicky podepsáno
+
+  Ing. David Menšík, vz. Ing. Dušan Hájek            Mgr. Radek Řeřicha
+  vedoucí odboru - Odbor městské informatiky         vedoucí úseku - 4. úsek
+  5.12.2023 v 12:29                                  5.12.2023 v 11:48
+
+
+
+
+Sestava vytvořena 5.12.2023 v 12:29            2/2                             Vygenerováno programem eMMB
+
+
+                                                                                               Strana 2 / 12
+                                  Obsah materiálu
+Návrh usnesení                                                    1-2
+Obsah materiálu                                                   3-3
+Důvodová zpráva                                                   4-5
+Příloha (Rozšíření monitoringu a logování síťových prvků SMB -   6 - 12
+posouzení.pdf)
+
+
+
+
+                                                                    Strana 3 / 12
+                                          Důvodová zpráva
+
+V souladu s čl. 3.1.2 Metodiky implementace projektů (spolu)financovatelných z evropských fondů
+a národních programů je kolektivním orgánům města předložena změna parametrů posouzení projektu
+k projektu s názvem Rozšíření monitoringu a logování síťových prvků SMB do Národního plánu
+obnovy (dále také „NPO“). Žádost o podporu na zmíněný projekt byla již jednou podávána do
+Integrovaného regionálního operačního programu (IROP). Projekt nebyl podpořen z důvodů vyčerpání
+finanční alokace. Změna parametrů spočívá v úpravě zdrojů financování projektu a poměru
+způsobilých nákladů. Projekt byl podán do výzvy č. 41. výzva NPO - Kybernetická bezpečnost –
+obce.
+Předkládaný projekt, včetně všech integrálních součástí projektu, je řešen ve dvou rovinách – Log
+Management a Obnova a rozvoj nástrojů FLOWMON. Tento systém je nastavený tak, aby
+monitoroval interní prostředí Metropolitní sítě statutárního města Brna s tím, že bude zajištěna
+odpovídající úroveň soukromí uživatelů a systém bude jen v nezbytně nutné míře monitorovat provoz
+odcházející do veřejné sítě internetu. Projekt svým charakterem přímo spadá do Informační strategie
+města Brna 2022-2026.
+Metropolitní síť, sestávající z více redundantních datových center, bude hlídána robustním systémem
+sond typu Flowmon, z nichž některé mají jako součást své výbavy moduly IDS (tj. systém pro odhalení
+průniku), a díky bezpečnému kanálu z dozorového centra jsou schopny proaktivního zásahu v režimu
+24/7. Všechny klíčové systémy, identifikované v rámci analýzy rizik, budou pod neustálým dohledem,
+který bude zajišťovat vrstvená síť dozorových sond. Výstupy dozorových sond jsou k dispozici
+technickému pracovníkovi OMI MMB, který identifikuje provozní výpadky a slabá místa po dobu
+úředních hodin, případně během obvyklé pracovní doby pracovišť MMB.
+Výstupy budou proaktivně automatizovaným řešením předávány do centralizovaného Log
+Managementu (dále také „LM“), který podporuje základní komponentu typu SIEM (tj. monitoring
+informací a událostí bezpečnosti). Výstupy ze sond nejvyšší úrovně a výstupy z nástroje SIEM budou
+k dispozici dozorovému týmu společnosti Technické sítě Brno, a.s. který má, mimo svoji pracovní dobu,
+pasivní dohledový režim se zasíláním upozornění na kritické události a je schopen urychlit reakci týmu,
+který se postará o zásah v rámci napadené části sítě.
+Díky využívání jednotného LM je také možné vybrané nekritické problémy analyzovat zpětně, ať
+už z důvodu pozdější nutné spolupráce s Orgány činnými v trestním řízení, nebo z důvodu usnadnění či
+umožnění servisních zásahů pracovníkům OMI MMB či externích dodavatelských společností.
+Robustní reaktivní analýza sítě pomocí systému Log Management v kombinaci s víceúrovňovým
+monitoringem prostřednictvím sond povede ke zvýšené efektivitě a bezpečnosti provozovaných
+systémů, a díky kontinuálnímu sledování stavu sítě a vykrývání či prevenci možných chyb, nepřímo
+komfort občanů i pracovníků OMI MMB.
+Předpokládané období realizace: 1. 4. 2024 – 31. 7. 2025 (16 měsíců)
+
+
+Dle pravidel výzvy je míra poskytované dotace 100 % způsobilých výdajů. V alokaci pro projekt však
+není zahrnuto DPH, které musí být hrazeno z vlastních finančních zdrojů. Celkové způsobilé náklady
+projektu jsou vyčísleny na částce 5 372 612 Kč. Nezpůsobilá část (DPH) činí 1 128 248 Kč.
+
+Struktura výdajů projektu „Rozšíření monitoringu a logování síťových prvků SMB“ (včetně DPH)
+Celkové výdaje projektu                                     6 500 860 Kč              100,00%
+Nezpůsobilé výdaje (DPH)                                    1 128 248 Kč               17,36%
+Způsobilé výdaje                                            5 372 612 Kč               82,64%
+
+
+
+
+                                                                                                   Strana 4 / 12
+Výše podpory                                                              5 372 612 Kč                   82,64%
+Kofinancování města Brna                                                  1 128 248 Kč                   17,36%
+
+
+Nositelem projektu v souladu s Metodikou implementace projektů (spolu)financovatelných z
+evropských fondů a národních programů je Odbor městské informatiky MMB.
+
+Stanoviska dotčených orgánů:
+
+Materiál nebyl z časových důvodů projednán v komisích RMB.
+
+Materiál projednala Rada města Brna na R9/061. schůzi konané dne 29. 11. 2023 a doporučila
+Zastupitelstvu města Brna přijmout výše uvedený návrh usnesení.
+
+Schváleno jednomyslně 9 členy.
+
+
+
+
+                                                                                                   Matonohov
+                                    Podivinská
+
+
+
+
+                                                                                      Kratochvíl
+                                                 Bc. Aberl
+
+
+                                                             Ing. arch.
+Vaňková
+
+
+
+
+                                                             Bořecký
+
+
+                                                                            Chvátal
+                           Kerndl
+
+
+
+
+                                                                            RNDr.
+                  Suchý
+          Černý
+JUDr.
+
+
+
+
+                           JUDr.
+
+
+
+
+                                                                                                   JUDr.
+
+
+                                                                                                   JUDr.
+                                                                            Ph.D.
+
+
+
+
+                                                                                                   Oliva
+          Mgr.
+
+
+
+                  Mgr.
+
+
+
+
+                                    Ing.
+
+
+
+
+                                                                                      Ing.
+
+
+
+
+                                                                                                   á
+ pro       pro     pro      pro     pro          -----       pro             pro      nepř.        pro    pro
+
+
+
+
+                                                                                                                  Strana 5 / 12
+Upravené posouzení projektu se skládá z těchto částí:
+
+   1.    Záměr projektu
+      a) Obecné údaje
+      b) Legislativní a strategický průmět, popis projektu
+      c) Financování
+   2.    Analýza dotačních příležitostí
+
+
+
+
+                                                             Strana 6 / 12
+                                        PROJEKTOVÝ ZÁMĚR – část A.
+                                               A .1. PŘEDKLADATEL
+1. Plný název předkladatele projektu:
+Statutární město Brno, Dominikánské náměstí 1, 602 00 Brno
+2. Právní statut:
+statutární město (dle zákona č. 128/2000 Sb., o obcích)
+                                  A. 2. KONTAKTNÍ OSOBA A PARTNEŘI PROJEKTU
+1. Nositel projektu: Odbor městské informatiky MMB
+
+
+2. Jméno kontaktní osoby (nositele): Ing. Bc. František Sedláček; Ing. David Menšík
+3. Adresa, telefon, mobil, e-mail, webová stránka kontaktní osoby:
+Malinovského nám. 3, 60200 Brno
+542 172 630 ; 602 564 698;
+sedlacek.frantisek@brno.cz; mensik.david@brno.cz;
+
+4. Přehled partnerů participujících na projektu:
+Projekt nezakládá partnerství.
+
+                                   A. 3. VŠEOBECNÉ INFORMACE O PROJEKTU
+1. Název projektu: Rozšíření monitoringu a logování síťových prvků SMB
+
+2. Umístění projektu: Statutární město Brno
+
+3. Cíle projektu, jeho účel:
+Zapojení moderních bezpečnostních technologií, které poskytují dohled (dále také „pasivní monitoring“), dozor (dále
+také „aktivní monitoring“) a umožňují detekci, reakci a zpětnou analýzu anomálií v chování počítačových sítí SMB.
+
+4. Výchozí stav:
+Statutární město Brno v současné době provozuje osm významných agendových informačních systémů, které jsou
+ve správě Odboru městské informatiky Statutárního města Brna (dále také jako „OMI SMB“ a jsou poskytovány
+centrálně městským částem. Dále má město stanovený rozsah Systému řízení bezpečnosti informací, který
+obsahuje deset klíčových systémů, které město považuje za nezbytné pro zajištění chodu úřadu i agend.
+V uživatelské roli využívá větší množství ISVS, prostřednictvím kterých plní svoje povinnosti statutárního města
+v souladu se Zákonem 128/2000 Sb., o obcích v platném znění. O obsluhu a provoz těchto systémů se stará OMI
+SMB, na zajištění bezpečnosti se podílí Kancelář kybernetické bezpečnosti Statutárního města Brna a při plnění
+úkolů asistují také externí smluvní subjekty.
+Problematika dozoru nad systémy SMB je řešena víceúrovňově, částečně prostřednictvím pracovníků SMB a jejich
+dvou sond typu Flowmon od společnosti KEMP, které pokrývají aktivní monitoring v režimu 8/5, tedy osm hodin po
+dobu pěti dní v týdnu, částečně prostřednictvím dozorového týmu společnosti Technické sítě Brno, a.s. který má
+dozorové pracoviště, vybavené sondou typu GreyCortex Mendel, které je rovněž v provozu v režimu 8/5 a dále
+prostřednictvím dohledu v režimu 24/7. Reakční doby mimo pracovní dobu jsou pokryty smluvně, nicméně
+neexistuje systém včasného varování.
+Analýza událostí je závislá na tom, zda lze ze systému, na kterém anomálie vznikla ručně zajistit logy, případně
+systém celý bezpečným způsobem včas odstavit a získat z něj záznam událostí, který se následně analyzuje.
+Proaktivní řešení vznikajících problémů je nad stávající technické i personální možnosti pracovníků města.
+
+5. Předpokládané výsledky projektu:
+Metropolitní síť, sestávající z více redundantních datových center, je hlídána robustním systémem sond typu
+Flowmon, z nichž některé mají jako součást své výbavy moduly IDS a díky bezpečnému kanálu z dozorového centra
+jsou schopny proaktivního zásahu v režimu 24/7.
+Všechny klíčové systémy, identifikované v rámci analýzy rizik a popsané buď v rozsahu SŘBI, nebo podporující
+agendy v přenesené působnosti města, jsou pod neustálým dohledem, který zajišťuje vrstvená síť dozorových sond.
+
+
+
+
+                                                                                                         Strana 7 / 12
+Výstupy dozorových sond jsou k dispozici technickému pracovníkovi OMI MMB, který identifikuje provozní výpadky
+a slabá místa po dobu úředních hodin, případně během obvyklé pracovní doby pracovišť MMB.
+Rovněž jsou proaktivně automatizovaným řešením předávány do centralizovaného Log Managementu (dále také
+„LM“), který podporuje základní komponentu typu SIEM. Výstupy ze sond nejvyšší úrovně a výstupy z nástroje SIEM
+jsou k dispozici dozorovému týmu společnosti Technické sítě Brno, a.s. který má mimo svoji pracovní dobu pasivní
+dohledový režim se zasíláním upozornění na kritické události a je schopen urychlit reakci týmu který se postará o
+zásah v rámci napadené části sítě.
+Díky využívání jednotného LM je také možné vybrané nekritické problémy analyzovat zpětně ať už z důvodu
+pozdější nutné spolupráce s Orgány činnými v trestním řízení, nebo z důvodu usnadnění či umožnění servisních
+zásahů pracovníkům OMI MMB či externích dodavatelských společností.
+Robustní reaktivní analýza sítě pomocí systému Log Management v kombinaci s víceúrovňovým monitoringem
+prostřednictvím sond vede ke zvýšené efektivitě a bezpečnosti provozovaných systémů a díky kontinuálnímu
+sledování stavu sítě a vykrývání či prevenci možných chyb nepřímo komfort občanů i pracovníků OMI MMB.
+
+6. Předpokládané dopady projektu:
+Celý systém je nastavený tak, aby monitoroval primárně interní prostředí Metropolitní sítě Statutárního města Brna,
+s tím, že bude zajištěna odpovídající úroveň soukromí uživatelů a systém bude jen v nezbytně nutné míře
+monitorovat provoz odcházející do veřejné sítě internetu.
+
+
+7. Cílové skupiny:
+- Instituce veřejné správy
+- Zaměstnanci veřejné správy
+Jedná se o uživatele Statutárního města Brno, tzn. uživatele městských částí, a dalších subjektů přistupující k
+infrastruktuře prostřednictvím Metropolitní sítě.
+
+
+
+
+                                                                                                         Strana 8 / 12
+                                      PROJEKTOVÝ ZÁMĚR – část B.
+                                                B. 1. POPIS PROJEKTU
+1. Jednotlivé aktivity projektu:
+KA – Kybernetická bezpečnost
+Do klíčové aktivity spadají všechny integrální součásti projektu a jsou řešeny ve dvou rovinách –
+A. Log Management a B. Obnova a rozvoj nástrojů FLOWMON. Obě části projektu jsou chronologicky
+rozděleny do etap.
+    A. Log Managment:
+Fáze 1:
+Tato fáze již byla realizována a výstupy byly předány. Z tohoto důvodu nebyly náklady na tuto fázi zahrnuty do
+rozpočtu projektu. Jednalo se o:
+    • provedení detailní analýzy procesních, funkčních a technických požadavků na řešení, jejich detailní
+        rozpracování a verifikace s určenými pracovníky za účelem ověření správnosti a vhodnosti navrženého
+        postupu a jeho optimalizace
+    • zpracování implementační studie a harmonogramu implementace včetně definice klíčových
+        implementačních milníků
+Fáze 2:
+ dodání HW a SW
+    • vlastní implementace LM a integrace do prostředí MMB
+    • vytvoření provozní (uživatelské a administrátorské), technické a bezpečnostní dokumentace
+    • školení pro obsluhu LM v předpokládaném rozsahu max. 5 dnů pro max. 10 osob
+    • provozní a funkční testování dle odsouhlasené implementační studie a návazné bezpečnostní testování
+        vybraným subjektem
+    • zajištění přípravy nasazení a vlastní nasazení LM do produkčního provozu
+    • ověření funkčnosti LM v pilotním (ověřovacím provozu)
+ Fáze 3:
+    • poskytování údržby a technické podpory LM (včetně SLA) na dobu 5 let, zahrnující služby maintenance
+        licencí (full maintenance) a podporu provozu LM, aktualizace veškeré uživatelské a technické dokumentace
+        k LM minimálně jedenkrát ročně
+    •    poskytování služeb rozvoje LM na dobu 5 let od akceptace
+
+    B. Obnova a rozvoj nástrojů FLOWMON (pro behaviorální analýzu síťového provozu, monitoringu
+       vybraných aplikací a detekci síťového provozu)
+Fáze 1:
+   • Realizační projekt - provedení detailní analýzy procesních, funkčních a technických požadavků na řešení,
+        jejich detailní rozpracování a verifikace s určenými pracovníky za účelem ověření správnosti a vhodnosti
+        navrženého postupu a jeho optimalizace
+Fáze 2:
+   • Dodávku HW appliance – sond a kolektoru potřebných pro provoz systému
+   • Dodávku virtuální appliance – kolektoru potřebného pro provoz systému
+   • Dodávku SW pro detekci anomálií
+   • Dodávku SW pro packet capturing
+   • Dodávku SW pro monitoring aplikací
+   • Implementaci HW a SW do prostředí statutárního města Brna
+Fáze 3:
+   • Technická podpora od výrobce ne veškeré požadované komponenty po dobu 60 měsíců
+   • Trvalý dohled nad bezpečnostními událostmi systému pro detekci anomálií implementovaných zařízení v
+        režimu 24x7 po dobu 60 měsíců
+   • Technický dohled nad bezpečnostními událostmi systému ADS implementovaných zařízení v režimu 24x7
+   • Řešení vzniklých událostí v režimu 8x5 ve spolupráci se zadavatelem
+   • Záznam událostí do ticketovacího systému včetně jednoduché informace o dané události z pohledu
+        bezpečnosti
+   • Centralizovaný dashboard pro jednoduchý přístup k informacím
+   • Zajištění bezpečného přístupu do systému přes IPSec tunel
+
+
+
+
+                                                                                                     Strana 9 / 12
+    •   Report vzniklých událostí na měsíční bázi
+
+2. Časová náročnost projektu:
+16 měsíců
+
+Předpokládané období realizace: 1. 4. 2024 – 31. 7. 2025
+
+
+
+3. Indikátory:
+01204 - Dokument potvrzující zvýšení kybernetické bezpečnosti informačního systému – 1
+01205 - Seznam informačních systémů vybraných v souladu s požadavky zákona č. 181/2014 Sb., o kybernetické
+bezpečnosti, jejichž kybernetická bezpečnost bude posílena – 1
+01206 - Dokument potvrzující úspěšné testování a ověření souladu s požadavky na kybernetickou bezpečnost - 1
+
+4. Hrubý rozpočet na celou dobu trvání projektu:
+
+Vzhledem k nastavení kategorii způsobilých výdajů dle pravidel 41. výzvy – Kybernetická bezpečnost - obce, je
+způsobilá pouze část projektu:
+
+Způsobilé výdaje:
+   A. Log Management:
+1 766 000 Kč (bez DPH) – Pořízení dlouhodobého hmotného majetku – SW a HW
+- náklady na HW
+- licence SW
+- implementace a customizace řešení
+
+    B. Obnova a rozvoj nástrojů FLOWMON
+3 606 612 Kč (bez DPH) – Pořízení dlouhodobého hmotného majetku – SW a HW
+- náklady na HW
+- licence SW
+- implementace a customizace řešení
+
+
+                                     B. 2. STRATEGICKÝ A LEGISLATIVNÍ PRŮMĚT
+
+
+1. Soulad se Strategií Brno 2050:
+Projekt je v souladu se strategií #brno2050, a to s hodnotou Efektivní elektronická správa a otevřená data,
+s dílčím cílem B „Zabezpečit kontinuitu provozu, zabezpečit data a komunikaci proti ztrátě nebo zneužití (vč.
+bezpečnostní strategie)“, prioritou B1 „Zajistit kvalitní a bezpečnou datovou infrastrukturu ve vysoké dostupnosti“.
+
+
+2. Soulad s odvětvovými koncepčními dokumenty MMB:
+Projekt svým charakterem přímo spadá do Informační strategie města Brna 2022-2026
+
+
+3. Soulad s územním plánem města Brna:
+Nerelevantní
+
+
+
+4. Legislativní audit:
+Nerelevantní
+
+
+
+
+                                                                                                          Strana 10 / 12
+                                       PROJEKTOVÝ ZÁMĚR – část C.
+                                               C. 1. FINANCOVÁNÍ
+
+1. Rozpočet na celou dobu trvání projektu:
+  fáze                                  Výdaje na projekt
+                                                                              Příjmy z projektu
+                         v Kč     investiční         provozní
+  přípravná
+  realizační                        6 500 860
+  provozní                                                        0
+  Celkem                            6 500 860                     0
+Celkový rozpočet alokovaný pro investiční aktivity města Brna je ve výši 6 500 860 Kč. Celkové způsobilé náklady
+projektu jsou vyčísleny na částce 5 372 612 Kč. Nezpůsobilá část (DPH) činí 1 128 248 Kč Náklady na provoz
+jsou vyčísleny na hodnotě 10 647 000 Kč a budou financovány z rozpočtu OMI MMB (mimo projekt).
+
+
+2. Možnosti financování
+            v Kč                  Částka          %                       Upřesnění
+Vlastní zdroje
+                                     1 128 248 17,36 Fond kofinancování projektů
+Rozpočet města
+Ostatní veřejné zdroje
+EU                                   5 372 612 82,64 Národní plán obnovy
+Privátní zdroje
+jiné
+           Celkem                    6 500 860 100
+
+
+                                          C. 2. OSTATNÍ INFORMACE
+1. Majetkové poměry:
+Nabyvatelem veškerého majetku, jenž vznikne v rámci realizace projektu, bude statutární město Brno.
+
+2. Synergie:
+Projekt nemá aktuálně zajištěnou žádnou synergii s dalšími projekty, avšak svou povahou je synergický
+s Informační strategii města Brna 2022-2026.
+
+3. Zajištění udržitelnosti projektu:
+Udržitelnost projektu bude v souladu s pravidly 41. výzvy – Kybernetická bezpečnost - obce. Z rozpočtu města Brna
+bude zajištěno financování veškerých výdajů spojených s provozem a údržbou pořízených prvků kybernetické
+bezpečnosti. Rovněž bude zajištěno, aby pořízené prvky kybernetické bezpečnosti sloužily svému účelu.
+
+
+
+
+                                                                                                        Strana 11 / 12
+                           Analýza dotačních příležitostí
+
+Projekt „Rozšíření monitoringu a logování síťových prvků SMB“ svým zaměřením v souladu
+s Národním programem Obnovy (NPO), pilíře Digitální transformace, komponentou 1. 2 Digitální
+systémy veřejné správy a Investicí 5: Navýšení investic do kybernetické bezpečnosti.
+
+Projekt bude podán ve výzvě č. 41. výzva NPO – Kybernetická bezpečnost – obce, která byla
+vyhlášena 15. 11. 2023. Ukončení příjmu žádosti bylo stanoveno k datu 30. 4. 2024.
+Celkové způsobilé výdaje na projekt činí 5 372 612 Kč, podle předběžné analýzy bude způsobilým
+výdajem pouze investiční část projektu, která je zaměřena na pořízení a implementaci HW a SW.
+Veškeré provozní náklady na poskytování služeb údržby, podpory, rozvoje a dohledového centra
+zmíněných nástrojů jsou dle nastavení výzvy nezpůsobilé a budou hrazeny z rozpočtu OMI MMB.
+
+Dle pravidel výzvy je míra poskytované dotace 100 % způsobilých výdajů. V alokaci pro projekt však
+není zahrnuto DPH, které musí být hrazeno z vlastních finančních zdrojů. Celkové způsobilé náklady
+projektu jsou vyčísleny na částce 5 372 612 Kč. Nezpůsobilá část (DPH) činí 1 128 248 Kč.
+
+
+Rozpočet projektu
+Předpokládaný rozpočet je navržen následovně:
+Struktura výdajů projektu „Rozšíření monitoringu a logování síťových prvků SMB“ (včetně DPH)
+Celkové výdaje projektu                                   6 500 860 Kč            100,00%
+Nezpůsobilé výdaje (DPH)                                  1 128 248 Kč              17,36%
+Způsobilé výdaje                                          5 372 612 Kč              82,64%
+Výše podpory                                              5 372 612 Kč              82,64%
+Kofinancování města Brna                                  1 128 248 Kč              17,36%
+
+Zdroje krytí projektu
+Dle pravidel výzvy je pro obce, jako žadatele, míra poskytované dotace 100 % způsobilých výdajů.
+Financování projektu bude probíhat v režimu ex-post. Předfinancování projektu bude zajištěno
+z rozpočtu města.
+
+
+
+
+                                                                                               Strana 12 / 12
+

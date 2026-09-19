@@ -1,0 +1,126 @@
+Rada města Brna
+
+Z9/37. zasedání Zastupitelstva města Brna
+konané dne 15.9.2026
+
+
+
+       24. Návrh rozpočtového opatření - Výměna 2ks kontejnerů a
+       modernizace systému sběru a přenosu dat systému imisního
+                             monitoringu
+
+Anotace
+Odbor životního prostředí MMB předkládá orgánům města rozpočtové opatření, které navyšuje finanční
+prostředky na investici v souvislosti s výměnou 2ks kontejnerů a modernizaci systému sběru a přenosu
+dat systému imisního monitoringu.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                    rozpočtové opatření dle tabulky, která tvoří přílohu č. ... tohoto zápisu, z důvodu
+                                výměny 2ks kontejnerů a modernizace systému sběru a přenosu dat systému
+                                imisního monitoringu.
+
+
+Stanoviska
+
+Materiál byl předložen na schůzi Finančního výboru Zastupitelstva města Brna konanou dne 9. 9.
+2026.
+
+
+Rada města Brna projednala materiál na své schůzi R9/192 dne 9. 9. 2026.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Martin Vaněček
+  vedoucí odboru - Odbor životního prostředí
+  3.9.2026 v 13:22
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Ing. Aleš Doležel
+  vedoucí úseku - 2. úsek
+  3.9.2026 v 13:23
+
+
+
+
+Sestava vytvořena 3.9.2026 v 13:23                             1/1                               Vygenerováno programem eMMB
+
+
+                                                                                                                 Strana 1 / 4
+                                  Obsah materiálu
+Návrh usnesení                                                    1-1
+Obsah materiálu                                                   2-2
+Důvodová zpráva                                                   3-3
+Příloha k usnesení (RO - DUMA stanice imisního monitoringu.pdf)   4-4
+
+
+
+
+                                                                   Strana 2 / 4
+                                                                      Strana 3 / 4
+
+
+
+
+                                         Důvodová zpráva
+
+
+
+Odbor životního prostředí předkládá orgánům města návrh rozpočtového opatření, kterým je přesun na
+kapitálové výdaje v rámci rozpočtu Odboru životního prostředí MMB.
+
+Výdaje jsou určeny na výměnu 2 ks kontejnerů a modernizaci systému sběru a přenosu dat systému
+imisního monitoringu. V počátku bylo uvažováno pouze s výměnou kontejnerů, které jsou za hranicí
+životnosti. OŽP MMB zároveň prověřoval možnost modernizace hardwarového (HW) vybavení stanic,
+které už neodpovídá moderním trendům. Vzhledem k tomu, že obnova HW vyžaduje provedení nové
+elektroinstalace, budou na to již nové kontejnery vybaveny. Součástí bude dále modernizace přenosu
+dat a centrální stanice. Dle předběžného průzkumu je potřeba kapitálovou položku na pořízení
+kontejneru navýšit o 300 tis. Kč a vytvořit nové investiční položky, na pořízení hardwarového vybavení
+ve výši 500 tis. Kč a softwarového vybavení 150 tis. Kč.
+
+Vzhledem k tomu, že některé běžné výdaje v rámci Odboru životního prostředí z § 3716 (monitoring
+ochrany ovzduší) určené ke konzultačním službám, elektrickou energii, provozu systému imisního
+monitoringu a opravám nebudou zcela vyčerpány, bude z těchto položek přesunuto 650 tis. Kč. Na
+pořízení kontejnerů bude přesunuto 300 tis. z § 3745 (péče o vzhled obcí a veřejnou zeleň) určených
+pro konzultační služby.
+
+V současné době je zveřejněna v systému EZAK otevřená poptávka na dodavatele 2 ks kontejnerů a
+modernizaci systému sběru a přenosu dat systému imisního monitoringu.
+
+
+
+
+Materiál nepodléhá projednání v komisích Rady města Brna.
+
+Rada města Brna projednala na schůzi R9/192 dne 09.09.2026.
+                                                                                              Strana 4 / 4
+
+
+
+
+                                                       Rozpočtové opatření
+                                                                                                                             v tis. Kč
+Běžné a kapitálové výdaje - přesun
+ ORJ      §      pol.    ÚZ      ORG                         Věcná náplň                     Upr. rozpočet  Úprava       Rozpočet
+                                                                                             k 01.09.2026 rozpočtu + -   po změně
+ 4200   3716    5154           7420 Elektrická energie                                                  150        -50           100
+ 4200   3716    5166           7420 Konzultační, poradenské a právní služby                             300       -300             0
+ 4200   3716    5169                Nákup ostatních služeb                                            2 650       -250         2 400
+                               6042 ve j.n.: Provoz systému městského imisního monitoringu           2 650       -250         2 400
+ 4200   3716    5171           7420 Opravy a udržování                                                   50        -50             0
+ 4200   3716    6111           3001 Nestavební investice OŽP                                              0        150           150
+ 4200   3716    6122           3001 Nestavební investice OŽP                                          2 000        300         2 300
+ 4200   3716    6125           3001 Nestavební investice OŽP                                              0        500           500
+ 4200   3745    5166           7420 Konzultační, poradenské a právní služby                             810       -300           510
+

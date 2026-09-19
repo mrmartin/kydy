@@ -1,0 +1,166 @@
+Rada města Brna
+
+Z9/20. zasedání Zastupitelstva města Brna
+konané dne 15.10.2024
+
+
+
+ 19. Aktualizace rozpočtu Odboru investičního MMB - říjen 2024 -
+                   návrh rozpočtového opatření
+
+Anotace
+Materiál reflektuje požadavky na přesuny finančních prostředků v rámci rozpočtu statutárního města
+Brna z důvodu očekávaného čerpání výdajů Odboru investičního MMB.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   rozpočtové opatření dle tabulky na základě aktualizace očekávaného čerpání
+                               rozpočtu kapitálových výdajů Odboru investičního MMB a tvorby Fondu
+                               developerských projektů v roce 2024, která tvoří přílohu č. .... tohoto zápisu.
+
+
+Stanoviska
+
+Rada města Brna projednala bod na schůzi č. R9/101 dne 9.10.2024, Finanční výbor projednal dne
+9.10. 2024, stanovisko bude sděleno ústně na zasedání Zastupitelstva města Brna
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Tomáš Pivec MBA
+  vedoucí odboru - Odbor investiční
+  8.10.2024 v 13:01
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  8.10.2024 v 12:58
+
+
+
+
+Sestava vytvořena 8.10.2024 v 13:01                           1/1                               Vygenerováno programem eMMB
+
+
+                                                                                                                Strana 1 / 4
+                                 Obsah materiálu
+Návrh usnesení                                     1-1
+Obsah materiálu                                    2-2
+Důvodová zpráva                                    3-3
+Příloha k usnesení (RO_OI_07102024 – kopie.pdf)    4-4
+
+
+
+
+                                                    Strana 2 / 4
+                                      Důvodová zpráva
+
+
+
+
+Odbor investiční Magistrátu města Brna předkládá návrh na úpravu kapitálových výdajů města
+v roce 2024 u vybraných akcí z důvodu jejich aktualizace.
+
+
+V rámci kapitálových výdajů dochází vlivem změnových požadavků, zejména zajištění
+inženýrské činnosti (TDI, BOZP), vícepráce, inflační doložka, změna sazby DPH, součinnost,
+požadavky orgánů státní správy, k navýšení nákladů či jejich přesunu do dalšího kalendářního
+roku u jednotlivých investičních akcí či projektů. Tyto změny se promítají v nutnosti realizovat
+rozpočtová opatření v rámci rozpočtu města buď v kompetenci Rady či Zastupitelstva města
+Brna.
+
+V návaznosti na obdrženou platbu ve výši 55 149 374, 72 Kč dle smlouvy o spolupráci
+„Úprava TT Zábrdovická, dopravní napojení ulice Šámalova“ od společnosti Nová Zbrojovka
+s.r.o. bude tvořen Fond developerských projektů.
+
+
+
+
+Průběh projednávání:
+
+Materiál nepodléhá schválení v komisích Rady města Brna.
+
+Materiál je předložen do Rady města Brna R9/101 na své schůzi konané dne 9.10.2024 a do
+Finančního výboru ZMB dne 9.10.2024, stanoviska budou sdělena.
+
+
+
+
+                                                                                            Strana 3 / 4
+                                                                         Rozpočtové opatření                                                                   v tis. Kč
+Příjmy - zvýšení
+ ORJ         §     Položka    ÚZ   ORG                                       Věcná náplň                                        Upr. rozpočet  Úprava        Rozpočet
+                                                                                                                                 k 4.10.2024 rozpočtu + -    po změně
+ 5600      3639     3121                   Přijaté dary na pořízení dlouhodobého majetku                                                    0       55 149           55 149
+
+
+Kapitálové výdaje - snížení
+ ORJ        §     Položka     ÚZ   ORG                                       Věcná náplň                                        Upr. rozpočet  Úprava        Rozpočet
+                                                                                                                                 k 4.10.2024 rozpočtu + -    po změně
+  5600     2143     6121            2227   Rekonstrukce IC Zámečnická                                                                  12 000       -2 000           10 000
+  5600     2212     6121            2434   Rekonstrukce ulice Benešova                                                                    300         -300                0
+  5600     2212     6121            2462   Východní obchvat Žebětína                                                                      500         -400              100
+  5600     2212     6121            2563   Multifunkční sportovní a kulturní centrum - podíl města - komunikace                       120 000      -30 000           90 000
+  5600     2212     6121            2708   Dostavba kanalizace v Brně II.                                                               4 475           25            4 500
+  5600     2212     6121            2800   Rekonstrukce ulice Štefánikovy                                                                 500         -400              100
+  5600     2212     6121            2831   Terminál Starý Lískovec                                                                      1 000          500            1 500
+  5600     2212     6121            2836   Prodloužení tramvajové trati Bystrc-Kamechy                                                  7 288        4 712           12 000
+  5600     2212     6121            3062   Komunikační obchvat Tuřan, I. etapa                                                          1 562          938            2 500
+  5600     2212     6121            3348   EUROPOINT Brno - městská infrastruktura                                                     13 000        1 700           14 700
+  5600     2212     6121           33481   EUROPOINT Brno - Uhelná                                                                     39 000      -16 000           23 000
+  5600     2219     6121            2416   Cyklistická stezka Hladíkova                                                                   400          200              600
+  5600     2321     6121            1862   Špitálka a okolí - vodohospodářská infrastruktura                                            2 420       -2 420                0
+  5600     2321     6121            2708   Dostavba kanalizace v Brně II.                                                              12 695        3 305           16 000
+  5600     2321     6121            3126   Drobné rekonstrukce na kanal. a vodovod.                                                     6 250       -6 000              250
+  5600     3111     6121            1861   MŠ a bytový dům Skořepka                                                                     2 500       -2 000              500
+  5600     3111     6121            2115   MŠ v MČ Brno-Nový Lískovec, Kamenný vrch II                                                    500         -250              250
+  5600     3113     6121            1876   ZŠ ul. Požární - přístavba tělocvičny                                                        1 000         -950               50
+  5600     3113     6121            2029   ZŠ a MŠ v MČ Brno-Královo Pole, Sadová                                                         500         -355              145
+  5600     3311     6121            1850   Rekonstrukce domu Lidická 18 - příprava                                                      7 260       -7 260                0
+  5600     3311     6121            1995   Stavební úpravy sálu Břetislava Bakaly                                                      17 000         -327           16 673
+  5600     3312     6121            4541   Janáčkovo kulturní centrum                                                                 160 101      -95 101           65 000
+  5600     3314     6121            2110   KJM - Technické zhodnocení střechy - Kobližná                                                  500         -480               20
+  5600     3315     6121            2109   MuMB - Měnínská brána-kompletní rekonstrukce                                                 5 000       -3 000            2 000
+                                           DUMB - Malinovského nám. 2 - rek. topného a klimatizačního systému, aktualizace
+  5600     3317     6121           2107                                                                                                   300        -300                0
+                                           dokumentace a monitoring vnitř. prostředí
+  5600     3322     6121           4530    Rekonstrukce NKP Špilberk, II.etapa                                                         15 500      -12 500            3 000
+  5600     3412     6121           1895    Sportovní hala Obřanská 13 - rekonstrukce sportovní plochy                                   5 500       -1 300            4 200
+  5600     3412     6121           2691    Anthropos sportovní a rekreační areál                                                       30 000      -28 500            1 500
+  5600     3632     6121           1889    Rek. povrchů cestní sítě,rozvodů vody a oplocení na pohřebišti v Brně-Řečkovicích            1 500       -1 500                0
+  5600     3633     6121           2766    12. stavba sekundárního kolektoru Česká-Středova                                             4 500        4 500            9 000
+  5600     3639     6121           1849    Stavební úpravy tří objektů v areálu VUT na Kraví hoře                                       8 100       -8 100                0
+  5600     3639     6121           1966    Technické a provozní zázemí vinice na Špilberku                                                300         -200              100
+  5600     3639     6121           2253    Rek. hist. vodárenského areálu bývalých městských vodojemů, Žlutý kopec v Brně               1 000         -600              400
+  5600     3639     6130           2592    Výkupy pozemků z předkupních práv                                                                0       15 000           15 000
+  5600     3725     6121           2333    Realizace SSO Chelčického                                                                    2 000       -1 900              100
+  5600     3741     6121           1869    Zoo Brno - Rozšíření výběhu ledního medvěda                                                  8 000       -7 750              250
+  5600     3741     6121           2555    Vstupní objekt s parkovištěm pro Zoo                                                         1 000         -750              250
+  5600     3744     6121           2163    Sanace svahu Zouvalka                                                                          500         -400              100
+  5600     3745     6121           1888    Předprostor Domu umění a park Koliště I                                                      5 000       -4 750              250
+  5600     4341     6121           2373    Rekonstrukce objektu Křenová 6 pro zřízení Socio Info Pointu                                26 200      -17 189            9 011
+  5600     4357     6121           2627    DS Kosmonautů                                                                                2 200        2 300            4 500
+  5600     5311     6121           2326    Výstavba objektu Milady Horákové 18, Brno - projekt                                            750         -300              450
+  5600     6171     6121           2331    Výstavba objektu ÚMČ Brno-Útěchov                                                           12 480      -12 230              250
+
+Financování - snížení
+  ORJ       §     Položka     ÚZ   ORG                                        Věcná náplň                                       Upr. rozpočet Úprava         Rozpočet
+                                                                                                                                 k 4.10.2024 rozpočtu + -    po změně
+  1700              8905                   Nepřevedené částky vyrovnávající schodek - kontokorentní úvěry                            1 177 547    -232 332          945 215
+  1700              8115                   Tvorba Fondu developerských projektů (jednorázový převod do FDP dle statutu fondu)           85 543     -55 149           30 394
+
+
+
+
+                                                                                                                                                     Strana 4 / 4
+

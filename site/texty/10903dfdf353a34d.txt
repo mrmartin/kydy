@@ -1,0 +1,1330 @@
+                                                                                                      P
+Rada města Brna
+
+Z9/06. zasedání Zastupitelstva města Brna
+konané dne 4.4.2023
+
+
+
+       12. Souhrnný rozpočet statutárního města Brna na rok 2023
+
+Anotace
+Souhrnný rozpočet statutárního města Brna na rok 2023 = schválený rozpočet města Brna + schválené
+rozpočty jednotlivých městských částí na rok 2023 (po konsolidaci vzájemných převodů mezi městem
+Brnem a městskými částmi a mezi městskými částmi navzájem). Důvodová zpráva není vložena
+samostatně, ale je součástí kompletního materiálu.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. bere na vědomí souhrnný rozpočet statutárního města Brna na rok 2023 v členění na rozpočet města
+                  Brna a rozpočty 29 městských částí
+
+
+Stanoviska
+
+
+Materiál projednala Rada města Brna na R9/022. schůzi, konané dne 8.3.2023 a doporučila
+Zastupitelstvu města Brna přijmout výše uvedený návrh usnesení.
+Materiál byl předložen na schůzi Finančního výboru Zastupitelstva města Brna konanou dne
+29.3.2023.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Jana Červencová
+  vedoucí odboru - Odbor rozpočtu a financování
+  28.3.2023 v 11:48
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  JUDr. Rostislav Obrlík
+  vedoucí úseku - Úsek tajemníka
+  27.3.2023 v 15:30
+
+
+
+
+Sestava vytvořena 28.3.2023 v 11:48               1/1                         Vygenerováno programem eMMB
+
+
+                                                                                              Strana 1 / 25
+                                 Obsah materiálu
+Návrh usnesení                                      1-1
+Obsah materiálu                                     2-2
+Příloha (Souhrnny rozpocet 2023 ZMB.pdf)           3 - 25
+
+
+
+
+                                                      Strana 2 / 25
+23
+SOUHRNNÝ ROZPOČET STATUTÁRNÍHO MĚSTA
+BRNA NA ROK 2023
+
+Zpracoval Odbor rozpočtu a financování Magistrátu města Brna, březen 2023
+
+
+                                                                            Strana 3 / 25
+                                   OBSAH
+
+
+
+
+Důvodová zpráva                                                 1-2
+Bilance zdrojů a výdajů statutárního města Brna                     3
+Přehled transferů                                                   4
+Příjmy - rekapitulace dle druhů příjmů a dle oddílů                 5
+Graf: Příjmy statutárního města Brna                                6
+Daňové příjmy a transfery, přijaté statutárním městem Brnem         7
+Nedaňové a kapitálové příjmy statutárního města Brna            8-9
+Výdaje - rekapitulace dle druhů výdajů a dle oddílů               10
+Grafy: Celkové výdaje statutárního města Brna                     11
+Celkové výdaje statutárního města Brna na jednoho obyvatele       12
+
+Běžné a kapitálové výdaje statutárního města Brna             13 - 17
+Schválený rozpočet zdrojů a výdajů městských částí                18
+Bilance zdrojů a výdajů statutárního města Brna - srovnání    19 - 21
+
+
+
+
+                                                                  Strana 4 / 25
+                                      Důvodová zpráva
+
+Materiál je předkládán na základě úkolu Z9/03. Zastupitelstva města Brna č. Z9/03/48/3
+ze dne 13.12.2022, kterým se ukládá Radě města Brna „předložit do 4.4.2023 Zastupitelstvu
+města Brna k projednání souhrnný rozpočet statutárního města Brna na rok 2023, v členění
+na rozpočet města a rozpočty městských částí, schválené jejich zastupitelstvy“.
+
+Podle Statutu města Brna (článek 76, odst. 2) je rozpočet statutárního města Brna rozdělen
+na rozpočet města a rozpočty jednotlivých městských částí. Rozpočet města - včetně
+finančního vztahu k městským částem - schvaluje Zastupitelstvo města Brna, rozpočet městské
+části schvaluje zastupitelstvo příslušné městské části. Rozpočet statutárního města Brna
+(pro tento účel označovaný jako souhrnný rozpočet) bere na vědomí Zastupitelstvo města
+Brna, a to vždy po schválení rozpočtu města a rozpočtů všech městských částí.
+
+Zastupitelstvo města Brna na svém Z9/03. zasedání dne 13.12.2022:
+• schválilo rozpočet města Brna na rok 2023, který obsahuje finanční vztah k městským
+   částem, stanovený již na Z9/02. zasedání ZMB dne 15.11.2022,
+• vzalo na vědomí bilanci zdrojů a výdajů statutárního města Brna na rok 2023 včetně
+   odhadovaných vlastních příjmů, celkového objemu výdajů a financování městských částí.
+
+
+Městské části schválily svoje rozpočty na rok 2023 s objemem zdrojů a výdajů o 278,0 mil. Kč
+vyšším oproti bilanci, projednané Zastupitelstvem města Brna na jeho Z9/03. zasedání
+dne 13.12.2022.
+
+ Porovnání odhadovaných zdrojů městských částí na rok 2023 (projednaných na Z9/03.
+   ZMB v prosinci 2022) a schváleného rozpočtu zdrojů městských částí na rok 2023
+
+Údaje v mil. Kč                     Zdroje MČ          Schválený rozpočet        rozdíl
+                               (odhad na Z9/03. ZMB)     MČ na rok 2023     SR 2023 – Z9/03.
+                                                                                  ZMB
+Daňové příjmy                                 181,9                 191,4                  9,5
+Nedaňové a kapitálové příjmy                  152,9                 169,4                 16,5
+Přijaté transfery                           2 883,4               2 927,7                 44,3
+Příjmy celkem                               3 218,2               3 288,5                 70,3
+Financování*) celkem                          507,4                 715,1               207,7*)
+Zdroje celkem                               3 725,6               4 003,6                278,0
+
+*) zapojení vlastních zdrojů (včetně nedočerpaných běžných nebo kapitálových výdajů)
+z minulých let, splácení úvěrů a zápůjček
+
+
+Na celkovém rozpočtu příjmů statutárního města Brna na rok 2023 ve výši 17 446,4 mil. Kč
+se podílí:
+- daňové příjmy     14 474,9 mil. Kč…. 83,0 % (oproti 77,2 % ve schváleném rozpočtu 2022)
+- nedaňové příjmy      817,3 mil. Kč…... 4,7 % (oproti 4,8 % ve schváleném rozpočtu 2022)
+- kapitálové příjmy    350,6 mil. Kč…... 2,0 % (oproti 6,3 % ve schváleném rozpočtu 2022)
+- přijaté transfery  1 803,6 mil. Kč .…10,3 % (oproti 11,7 % ve schváleném rozpočtu 2022)
+
+
+Vlastní příjmy, tj. daňové, nedaňové a kapitálové, tvoří rozhodující část celkových příjmů -
+89,7 %. Ve schváleném rozpočtu roku 2022 představovaly 88,3 % celkových příjmů.
+
+
+
+
+                                                 1
+                                                                                            Strana 5 / 25
+Stěžejní část celkových příjmů statutárního města Brna nadále tvoří daňové výnosy, tj. daně,
+jejichž inkaso sdílí obce se státem a daň z nemovitých věcí. Jejich schválený rozpočet
+na rok 2023 v objemu 13 600,0 mil. Kč roste oproti schválenému rozpočtu 2022 o 2,5 mld. Kč,
+tj. o 22,5 % a je o 5,2 % vyšší, než skutečnost roku 2022 (12 921,7 mil. Kč).
+Plnění rozpočtu daňových výnosů města Brna je pravidelně monitorováno. Za první dva měsíce
+letošního roku dosáhly daňové výnosy částky 1 989,3 mil. Kč, meziročně tak rostou
+o 271,3 mil. Kč, tj. o 15,7 %.
+
+
+Na celkovém rozpočtu výdajů statutárního města Brna na rok 2023 ve výši 19 814,0 mil. Kč
+se podílí:
+- běžné výdaje      13 515,0 mil. Kč ….68,2 % (oproti 61,8 % ve schváleném rozpočtu 2022)
+- kapitálové výdaje 6 299,0 mil. Kč ….31,8 % (oproti 38,2 % ve schváleném rozpočtu 2022)
+
+
+Celkový rozpočet financování statutárního města Brna na rok 2023 činí 2 367,6 mil. Kč (oproti
+3 648,1 mil. Kč ve schváleném rozpočtu roku 2022) a věcně jej tvoří:
+- krátkodobé přijaté úvěry městem Brnem                              2 263,4 mil. Kč
+- zapojení vlastních zdrojů města Brna z minulých let, tvorba rezerv  -300,4 mil. Kč
+- zapojení vlastních zdrojů městských částí z minulých let             730,6 mil. Kč
+- splátky úvěrů městských částí                                        -15,5 mil. Kč
+- splátky úvěrů města Brna od Evropské investiční banky               -310,5 mil. Kč
+
+
+V průběhu roku dojde k výrazným změnám ve struktuře rozpočtu příjmů, výdajů i financování
+statutárního města Brna, a to zejména:
+- v důsledku zapojení disponibilních zdrojů města Brna i městských částí z minulých let
+    do rozpočtu
+- po obdržení účelových transferů z jiných veřejných rozpočtů, tj. mj. ze státního rozpočtu,
+    státních nebo evropských fondů a z rozpočtu Jihomoravského kraje.
+
+
+
+
+Materiál nepodléhá projednání v komisích Rady města Brna.
+
+Rada města Brna materiál projednala na schůzi R9/022. dne 8.3.2023.
+Hlasování: 10-pro, 0-proti, 0-se zdržel/z 11 členů.
+                                                                                                 Matonohová
+                                    Podivinská
+
+
+
+
+                                                                                    Kratochvíl
+                                                             Ing. arch.
+ Vaňková
+
+
+
+
+                                                             Bořecký
+
+
+
+                                                                          Chvátal
+                           Kerndl
+                   Suchý
+
+
+
+
+                                                                          RNDr.
+           Černý
+ JUDr.
+
+
+
+
+                           JUDr.
+
+
+
+
+                                                                                                 JUDr.
+
+
+
+                                                                                                              JUDr.
+                                                                          Ph.D.
+                                                 Aberl
+
+
+
+
+                                                                                                              Oliva
+           Mgr.
+
+
+
+                   Mgr.
+
+
+
+
+                                    Ing.
+
+
+
+
+                                                                                    Ing.
+                                                 Bc.
+
+
+
+
+   pro      pro     ---      pro    pro           pro        pro           pro         pro          pro       pro
+
+
+
+
+                                                         2
+                                                                                                                    Strana 6 / 25
+                             BILANCE ZDROJŮ A VÝDAJŮ STATUTÁRNÍHO MĚSTA BRNA (TIS. KČ)
+              položka                                                                                                       SCHVÁLENÝ ROZPOČET 2023
+č.ř.        podseskupení                                               PŘÍJMY                                    statutární město
+                                                                                                                                     město       městské části
+                třída                                                                                                  Brno
+ 1                         1111 Příjem z daně z příjmů fyzických osob placené plátci                                     2 230 000     2 230 000
+ 2                         1112 Příjem z daně z příjmů fyzických osob placené poplatníky                                   140 000       140 000
+ 3                         1113 Příjem z daně z příjmů fyzických osob vybírané srážkou                                     390 000       390 000
+ 4                         1121 Příjem z daně z příjmů právnických osob                                                  3 190 000     3 190 000
+ 5                         1211 Příjem z daně z přidané hodnoty                                                          7 400 000     7 400 000
+ 6                         1511 Příjem z daně z nemovitých věcí                                                            250 000       250 000
+ 7                                Daňové výnosy (ř.1 až ř.6)                                                           13 600 000    13 600 000
+ 8                         1122 Příjem z daně z příjmů právnických osob za obce - VHČ                                       86 518                      86 518
+ 9                         1122 Příjem z daně z příjmů právnických osob za obce - rozpočtová činnost                       266 513       250 000        16 513
+10                         133x Příjem z poplatků a odvodů v oblasti životního prostředí                                     2 030         2 030
+11                         134x Příjem z místních poplatků z vybraných činností a služeb                                   298 772       224 823        73 949
+12                         135x Příjem z ostatních odvodů z vybraných činností a služeb                                      3 900         3 900
+13                         1361 Příjem ze správních poplatků                                                                87 157        72 727        14 430
+14                         138x Příjem z daní, poplatků a jiných obd. peněžitých plnění v oblasti hazardních her           130 000       130 000
+15                          tř. 1 Daňové příjmy celkem (ř.7 až ř.14)                                                   14 474 890    14 283 480        191 410
+16                         211x Příjem z vlastní činnosti                                                                  146 803       123 757        23 046
+17                         212x Příjem z odvodů přebytků organizací s přímým vztahem                                       137 506       120 271        17 235
+18                         213x Příjem z pronájmu nebo pachtu majetku                                                      249 224       153 017        96 207
+19                         214x Přijaté výnosy z finančního majetku                                                         72 618        55 066        17 552
+20                         221x Přijaté sankční platby                                                                      74 474        71 145         3 329
+21     tř. 2 mimo výše uved. Jiné nedaňové příjmy                                                                          136 668       124 669        11 999
+22                         tř. 2 Nedaňové příjmy celkem (ř.16 až ř.21)                                                     817 293       647 925       169 368
+23                         311x Příjmy z prodeje dlouhodobého majetku                                                      350 650       350 600            50
+24                         312x Ostatní kapitálové příjmy                                                                        5                             5
+25                          tř. 3 Kapitálové příjmy celkem (ř.23 + ř.24)                                                   350 655       350 600            55
+26                                Vlastní příjmy (ř.15 + ř.22 + ř.25)                                                  15 642 838    15 282 005        360 833
+27                         4112 Neinvestiční přijaté transfery ze SR v rámci souhrnného dotačního vztahu                   411 761       200 238       211 523
+28                         4116 Ostatní neinvestiční přijaté transfery ze státního rozpočtu                                  3 284                       3 284
+29                         4121 Neinvestiční přijaté transfery od obcí                                                          90            25            65
+30                         4131 Převody z vlastních fondů podnikatelské činnosti                                         1 388 464       902 897       485 567
+31                         4137 Neinvestiční převody mezi městem a městskými částmi - transfery                          *)                          1 960 058
+32                         4137 Neinvestiční převody mezi městskými částmi - transfery                                   *)                                474
+33                         4137 Neinvestiční převody mezi městem a městskými částmi - zápůjčky                           *)               57 209
+34                         4251 Investiční převody mezi městem a městskými částmi - transfery                            *)                            266 740
+35                          tř. 4 Přijaté transfery celkem (ř.27 až ř.34)                                                1 803 599     1 160 369     2 927 711
+36                 tř. 1 až tř. 4 Příjmy statutárního města Brna celkem (ř.26 + ř.35)                                  17 446 437    16 442 374      3 288 544
+
+              položka                                                                                                   SCHVÁLENÝ ROZPOČET 2023
+č.ř.        podseskupení                                             VÝDAJE                                  statutární město
+                                                                                                                                 město       městské části
+                třída                                                                                              Brno
+ 1                  501x+503x Platy, povinné a zákonné pojistné                                                      2 088 170     1 367 154       721 016
+ 2                         502x Výdaje na ostatní platby za provedenou práci                                           187 611        40 024       147 587
+ 3                         514x Úroky a ostatní finanční výdaje                                                        391 647       388 700         2 947
+ 4                         516x Výdaje na nákup služeb                                                               2 316 171     1 707 281       608 890
+ 5                         5171 Opravy a udržování                                                                     779 191       554 430       224 761
+ 6                         5213 Neinvestiční transfery nefinančním podnikatelům - DPmB                               2 750 000     2 750 000
+ 7                         522x Neinvestiční transfery neziskovým a podobným osobám                                    563 877       544 297        19 580
+ 8                         5331 Neinvestiční příspěvky zřízeným příspěvkovým organizacím                             2 898 877     2 295 328       603 549
+ 9                         5347 Neinvestiční převody mezi městem a městskými částmi - transfery                      *)            1 960 058
+10                         5347 Neinvestiční převody mezi městskými částmi - transfery                               *)                                474
+11                         5347 Neinvestiční převody mezi městem a městskými částmi - splátky zápůjček               *)                             57 209
+12                         5365 Daň z příjmů právnických osob za obce - rozpočtová činnost                             266 513       250 000        16 513
+13                 5901+5903 Rezervy rozpočtu                                                                          119 728        70 388        49 340
+14     tř. 5 mimo výše uved. Ostatní běžné výdaje                                                                    1 153 245       894 260       258 985
+15                          tř. 5 Běžné výdaje celkem (ř.1 až ř.14)                                                13 515 030    12 821 920      2 710 851
+16                         6351 Investiční transfery zřízeným příspěvkovým organizacím                                 201 712       199 062         2 650
+17                         6363 Investiční převody mezi městem a městskými částmi - transfery                        *)              266 740
+18     tř. 6 mimo výše uved. Ostatní kapitálové výdaje                                                               6 097 296     4 807 145     1 290 151
+19                          tř. 6 Kapitálové výdaje celkem (ř.16 až ř.18)                                            6 299 008     5 272 947     1 292 801
+20                  tř. 5 + tř. 6 Výdaje statutárního města Brna celkem (ř.15 + ř.19)                              19 814 038    18 094 867      4 003 652
+
+            položka                                                                                                     SCHVÁLENÝ ROZPOČET 2023
+č.ř.      podseskupení                                     FINANCOVÁNÍ                                       statutární město
+                                                                                                                                 město       městské části
+              třída                                                                                                Brno
+  1              8113, 8905 Krátkodobé přijaté půjčené prostředky; nepřevedené částky, vyrovnávající schodek         2 263 405     2 263 405
+  2                    8115 Změna stavu krátkodobých prostředků na bankovních účtech                                   430 176      -300 385       730 561
+  3                    8124 Uhrazené splátky dlouhodobých přijatých půjček a úvěrů                                     -15 453                     -15 453
+  4                    8224 Uhrazené splátky dlouhodobých přijatých úvěrů - EIB                                       -310 527      -310 527
+  5                     tř. 8 Financování statutárního města Brna celkem (ř.1 až ř.4)                                2 367 601     1 652 493       715 108
+
+               třída                                                                                                    SCHVÁLENÝ ROZPOČET 2023
+č.ř.                                                    PŘEHLED HOSPODAŘENÍ                                  statutární město
+                                                                                                                                 město       městské části
+                                                                                                                   Brno
+  1               tř.1 až tř. 4 Příjmy celkem                                                                      17 446 437    16 442 374      3 288 544
+  2                tř.5 + tř. 6 Výdaje celkem                                                                      19 814 038    18 094 867      4 003 652
+  3                             Saldo příjmů a výdajů (ř.1 mínus ř.2)                                               -2 367 601    -1 652 493      -715 108
+  4                       tř. 8 Financování                                                                          2 367 601     1 652 493       715 108
+
+ *) Jedná se o převody finančních prostředků, které se konsolidují na úrovni statutárního města Brna
+                                                                                3
+                                                                                                                                                         Strana 7 / 25
+                                        PŘEHLED TRANSFERŮ
+
+                                    SCHVÁLENÝ ROZPOČET NA ROK 2023
+
+      Jedná se o převody finančních prostředků, které se konsolidují na úrovni statutárního města Brna
+
+                                                                                                    v tis. Kč
+                                                                                     transfery
+položka                   STATUTÁRNÍ MĚSTO BRNO                             mezi                 mezi
+                                                                       městem a MČ *)            MČ *)
+
+          PŘÍJMY
+    4137 Přijaté splátky zápůjček                                                 57 209
+4137,4251 Přijaté transfery                                                    2 226 798                 474
+          Příjmy celkem                                                        2 284 007                 474
+
+          VÝDAJE
+    5347 Splátky zápůjček                                                         57 209
+5347,6363 Poskytnuté transfery                                                 2 226 798                 474
+          Výdaje celkem                                                        2 284 007                 474
+          Saldo příjmů a výdajů (výsledek konsolidace celkem)
+          *) konsolidace na úrovni statutárního města Brna
+
+                                                                                v tis. Kč
+                                                                           transfery
+položka                               MĚSTO                                  mezi
+                                                                         městem a MČ
+
+         PŘÍJMY
+    4137 Přijaté splátky zápůjček, poskytnutých městským částem                   57 209
+         Příjmy celkem                                                            57 209
+
+         VÝDAJE
+    5347 Poskytnuté transfery městským částem - neinvestiční                   1 960 058
+    6363 Poskytnuté transfery městským částem - investiční                       266 740
+         Výdaje celkem                                                         2 226 798
+         Saldo příjmů a výdajů                                                -2 169 589
+
+
+
+
+                                                                                                    v tis. Kč
+                                                                                     transfery
+položka                         MĚSTSKÉ ČÁSTI                               mezi                 mezi
+                                                                         městem a MČ             MČ
+
+          PŘÍJMY
+4137,4251 Přijaté transfery od města a jiných městských částí                  2 226 798                 474
+          Příjmy celkem                                                        2 226 798                 474
+
+         VÝDAJE
+    5347 Poskytnuté transfery jiným městským částem - neinvestiční                                       474
+    5347 Splátky zápůjček městu                                                   57 209
+         Výdaje celkem                                                            57 209                 474
+         Saldo příjmů a výdajů                                                 2 169 589
+
+
+
+
+                                                      4
+                                                                                                           Strana 8 / 25
+ PŘÍJMY STATUTÁRNÍHO MĚSTA BRNA - SCHVÁLENÝ ROZPOČET NA ROK 2023 - rekapitulace dle druhů příjmů a dle oddílů (tis. Kč)
+
+                                                                     statutární město
+ TŘÍDA                          NÁZEV TŘÍDY                                                    město        městské části
+                                                                           Brno
+   1      DAŇOVÉ PŘÍJMY                                                    14 474 890         14 283 480          191 410
+   2      NEDAŇOVÉ PŘÍJMY                                                     817 293            647 925          169 368
+   3      KAPITÁLOVÉ PŘÍJMY                                                   350 655            350 600               55
+   4      PŘIJATÉ TRANSFERY                                 *)              1 803 599          1 160 369        2 927 711
+          CELKEM                                                           17 446 437         16 442 374        3 288 544
+
+
+                                                                                          Nedaňové příjmy                                    Kapitálové příjmy
+ODDÍL                          NÁZEV ODDÍLU                           statutární město                                       statutární město
+                                                                                               město        městské části                          město       městské části
+                                                                            Brno                                                   Brno
+          Přijaté splátky zápůjček                                               57 402            57 205              197
+10        Zemědělství, lesní hospodářství a rybářství                            25 039            11 827           13 212
+21        Průmysl, stavebnictví, obchod a služby                                  4 303                              4 303
+22        Doprava                                                               152 721           152 697               24
+23        Vodní hospodářství                                                      1 100             1 100
+24        Spoje                                                                     234                                234
+31 a 32   Vzdělávání a školské služby                                            25 677             7 011           18 666
+33        Kultura, církve a sdělovací prostředky                                123 363           115 240            8 123
+34        Sport a zájmová činnost                                                 6 805             1 047            5 758
+35        Zdravotnictví                                                          12 606             4 114            8 492
+36        Bydlení, komunální služby a územní rozvoj                             267 048           206 440           60 608           350 505         350 500                5
+37        Ochrana životního prostředí                                             1 144               947              197
+43        Sociální služby a společné činnosti v sociálním zabezpečení             1 634               813              821
+53        Bezpečnost a veřejný pořádek                                           23 441            23 281              160               100             100
+55        Požární ochrana a integrovaný záchranný systém                            176                                176
+61        Státní moc, státní správa, územní samospráva a pol. strany             42 987            12 143           30 844                 50                              50
+62        Jiné veřejné služby a činnosti                                             30                30
+63        Finanční operace                                                       71 583            54 030          17 553
+          CELKEM                                                                817 293           647 925         169 368            350 655         350 600               55
+
+*) konsolidace na úrovni statutárního města Brna
+
+                                                                                      5
+                                                                                                                                                                       Strana 9 / 25
+           PŘÍJMY STATUTÁRNÍHO MĚSTA BRNA - SCHVÁLENÝ ROZPOČET 2023
+                                             (MIL. KČ)
+16 000
+            14 475
+14 000
+
+
+12 000
+
+
+10 000
+
+
+ 8 000
+
+
+ 6 000
+
+
+ 4 000
+
+                                                                                    1 804
+ 2 000
+                                     817
+                                                            351
+    0
+         DAŇOVÉ PŘÍJMY     NEDAŇOVÉ PŘÍJMY           KAPITÁLOVÉ PŘÍJMY        PŘIJATÉ TRANSFERY
+
+
+
+
+          PŘÍJMY STATUTÁRNÍHO MĚSTA BRNA - SCHVÁLENÝ ROZPOČET 2023
+
+
+                       PŘIJATÉ TRANSFERY
+                              10%
+             KAPITÁLOVÉ PŘÍJMY
+                    2%
+         NEDAŇOVÉ PŘÍJMY
+               5%
+
+
+
+
+                                                              DAŇOVÉ PŘÍJMY
+                                                                  83%
+
+
+
+
+                                                 6
+                                                                                              Strana 10 / 25
+             DAŇOVÉ PŘÍJMY STATUTÁRNÍHO MĚSTA BRNA - SCHVÁLENÝ ROZPOČET NA ROK 2023
+                                                     Členěno dle položek rozpočtové skladby
+                                                                                                                                          (tis. Kč)
+      Sesku                                                                                           statutární
+Třída       Položka                                    Název položky                                                   město       městské části
+       pení                                                                                           město Brno
+
+        1     11    1111 Příjem z daně z příjmů fyzických osob placené plátci                            2 230 000     2 230 000
+        1     11    1112 Příjem z daně z příjmů fyzických osob placené poplatníky                          140 000       140 000
+        1     11    1113 Příjem z daně z příjmů fyzických osob vybírané srážkou                            390 000       390 000
+        1     11    1121 Příjem z daně z příjmů právnických osob                                         3 190 000     3 190 000
+        1     11    1122 Příjem z daně z příjmů právnických osob za obce - VHČ                              86 518                         86 518
+                                                                                                 1)
+    1     11    1122 Příjem z daně z příjmů právnických osob za obce - rozpočtová činnost                  266 513       250 000          16 513
+11 Daně z příjmů, zisku a kapitálových výnosů                                                            6 303 031     6 200 000         103 031
+
+    1     12    1211 Příjem z daně z přidané hodnoty                                                     7 400 000     7 400 000
+12 Daně, poplatky a jiná obdobná peněžitá plnění ze zboží a služeb v tuzemsku                            7 400 000     7 400 000
+
+    1     13    1334 Příjem z odvodů za odnětí půdy ze zemědělského půdního fondu                            2 000         2 000
+    1     13    1335 Příjem z poplatků za odnětí pozemků podle lesního zákona                                   30            30
+    1     13    1341 Příjem z poplatku ze psů                                                               10 701                         10 701
+    1     13    1342 Příjem z poplatku z pobytu                                                             10 118                         10 118
+    1     13    1343 Příjem z poplatku za užívání veřejného prostranství                                    50 075                         50 075
+    1     13    1344 Příjem z poplatku ze vstupného                                                          3 055                          3 055
+    1     13    1345 Příjem z poplatku za obecní systém odpadového hospodářství                            224 823      224 823
+    1     13    1353 Příjem za zkoušky z odb. způsobilosti od žadatelů o řidičské oprávnění                  3 600        3 600
+    1     13    1356 Příjem z úhrad za dobývání nerostů a poplatků za geologické práce                         300          300
+    1     13    1361 Příjem ze správních poplatků                                                           87 157       72 727            14 430
+    1     13    1381 Příjem z daně z hazardních her s výjimkou dílčí daně z technických her                100 000      100 000
+    1     13    1385 Příjem z dílčí daně z technických her                                                  30 000       30 000
+13 Daně a poplatky z vybraných činností a služeb                                                           521 859      433 480            88 379
+
+    1      15   1511 Příjem z daně z nemovitých věcí                                                       250 000      250 000
+15 Příjem z majetkových daní                                                                               250 000      250 000
+
+1 DAŇOVÉ PŘÍJMY                                                                                         14 474 890    14 283 480         191 410
+1)
+     Daň z příjmů právnických osob za město z rozpočtové činnosti je v příjmech i ve výdajích ve stejné výši a neovlivňuje saldo příjmů a výdajů
+
+
+
+
+         TRANSFERY, PŘIJATÉ STATUTÁRNÍM MĚSTEM BRNEM - SCHVÁLENÝ ROZPOČET NA ROK 2023
+                                                     Členěno dle položek rozpočtové skladby
+                                                                                                                                          (tis. Kč)
+      Sesku                                                                                           statutární
+Třída        Položka                                 Název položky                                                     město       městské části
+       pení                                                                                           město Brno
+    4     41     4112 Neinvestiční přijaté transfery ze SR v rámci souhrnného dotačního vztahu             411 761      200 238           211 523
+    4     41     4116 Ostatní neinvestiční přijaté transfery ze státního rozpočtu                            3 284                          3 284
+    4     41     4121 Neinvestiční přijaté transfery od obcí                                                     90          25                65
+    4     41     4131 Převody z vlastních fondů podnikatelské činnosti                                   1 388 464      902 897           485 567
+    4     41     4137 Neinvestiční převody mezi městem a městskými částmi - transfery                            *)                     1 960 058
+    4     41     4137 Neinvestiční převody mezi městskými částmi - transfery                                     *)                           474
+    4     41     4137 Neinvestiční převody mezi městem a městskými částmi - zápůjčky                             *)       57 209
+41 Neinvestiční přijaté transfery                                                                        1 803 599     1 160 369        2 660 971
+
+     4     42     4251 Investiční převody mezi městem a městskými částmi - transfery                             *)                      266 740
+42 Investiční přijaté transfery                                                                                                          266 740
+
+4 PŘIJATÉ TRANSFERY                                                                                      1 803 599     1 160 369        2 927 711
+*) konsolidace na úrovni statutárního města Brna
+
+
+
+
+                                                                       7
+                                                                                                                                   Strana 11 / 25
+         NEDAŇOVÉ A KAPITÁLOVÉ PŘÍJMY STATUTÁRNÍHO MĚSTA BRNA - SCHVÁLENÝ ROZPOČET NA ROK 2023
+                                                 Členěno dle skupin, oddílů a paragrafů rozpočtové skladby
+
+                                                                                                                                                    (tis. Kč)
+                                                                                            nedaňové příjmy                     kapitálové příjmy
+Sku
+     Oddíl    §                          Název paragrafu                           statutární               městské    statutární                 městské
+pina                                                                                             město                                 město
+                                                                                   město Brno                části     město Brno                  části
+
+                  Přijaté splátky půjčených prostředků                                  57 402     57 205        197
+ Přijaté splátky půjčených prostředků                                                   57 402     57 205        197
+
+   1   10 1012 Podnikání a restrukturalizace v zemědělství a potravinářství              1 055                 1 055
+   1   10 1014 Ozdravování hospodářských zvířat, plodin a zvl. veterinární péče            661       661
+   1   10 1019 Ostatní zemědělská a potravinářská činnost a rozvoj                      11 457                11 457
+   1   10 1029 Ostatní záležitosti regulace zemědělské produkce                            700                   700
+   1   10 1031 Pěstební činnost                                                         11 070     11 070
+   1   10 1032 Podpora ostatních produkčních činností                                       96         96
+10 Zemědělství, lesní hospodářství a rybářství                                          25 039     11 827     13 212
+
+1 Zemědělství, lesní hospodářství a rybářství                                           25 039     11 827     13 212
+
+   2   21 2122 Sběr a zpracování druhotných surovin                                          1                     1
+   2   21 2141 Vnitřní obchod                                                            2 357                 2 357
+   2   21 2144 Ostatní služby                                                               65                    65
+   2   21 2169 Ostatní správa v průmyslu, stavebnictví, obchodu a službách               1 880                 1 880
+21 Průmysl, stavebnictví, obchod a služby                                                4 303                 4 303
+
+   2   22 2212 Silnice                                                                     620        600         20
+   2   22 2219 Ostatní záležitosti pozemních komunikací                                147 510    147 506          4
+   2   22 2229 Ostatní záležitosti v silniční dopravě                                    4 500      4 500
+   2   22 2271 Ostatní dráhy                                                                84         84
+   2   22 2299 Ostatní záležitosti v dopravě                                                 7          7
+22 Doprava                                                                             152 721    152 697         24
+
+   2   23 2329 Odvádění a čištění odpadních vod j.n.                                     1 000      1 000
+   2   23 2399 Ostatní záležitosti vodního hospodářství                                    100        100
+23 Vodní hospodářství                                                                    1 100      1 100
+
+   2   24 2411 Záležitosti pošt                                                           200                    200
+   2   24 2419 Ostatní záležitosti spojů                                                   34                     34
+24 Spoje                                                                                  234                    234
+
+2 Průmyslová a ostatní odvětví hospodářství                                            158 358    153 797      4 561
+
+   3    31 3111 Mateřské školy                                                           4 005                 4 005
+   3    31 3113 Základní školy                                                          20 752      7 011     13 741
+   3    31 3119 Ostatní záležitosti základního vzdělávání                                  400                   400
+   3    31 3146 Zařízení výchovného poradenství                                             10                    10
+   3    32 3233 Střediska volného času                                                     510                   510
+31 a 32 Vzdělávání a školské služby                                                     25 677      7 011     18 666
+
+   3    33 3311 Divadelní činnost                                                      100 691    100 691
+   3    33 3313 Filmová tvorba, distribuce, kina a audiovizuální archiválie                229                   229
+   3    33 3314 Činnosti knihovnické                                                     1 990      1 990
+   3    33 3315 Činnosti muzeí a galerií                                                 2 241      2 241
+   3    33 3317 Výstavní činnosti v kultuře                                              2 220      2 220
+   3    33 3319 Ostatní záležitosti kultury                                              9 358      7 975      1 383
+   3    33 3322 Zachování a obnova kulturních památek                                      123        123
+   3    33 3349 Ostatní záležitosti sdělovacích prostředků                               1 128                 1 128
+   3    33 3392 Zájmová činnost v kultuře                                                2 733                 2 733
+   3    33 3399 Ostatní záležitosti kultury, církví a sdělovacích prostředků             2 650                 2 650
+33 Kultura, církve a sdělovací prostředky                                              123 363    115 240      8 123
+
+   3    34 3412 Sportovní zařízení ve vlastnictví obce                                   6 529      1 047      5 482
+   3    34 3429 Ostatní zájmová činnost a rekreace                                         276                   276
+34 Sport a zájmová činnost                                                               6 805      1 047      5 758
+
+   3    35 3511 Všeobecná ambulantní péče                                               10 492      2 000      8 492
+   3    35 3529 Ostatní ústavní péče                                                     2 114      2 114
+35 Zdravotnictví                                                                        12 606      4 114      8 492
+
+
+
+
+                                                                               8
+                                                                                                                                               Strana 12 / 25
+         NEDAŇOVÉ A KAPITÁLOVÉ PŘÍJMY STATUTÁRNÍHO MĚSTA BRNA - SCHVÁLENÝ ROZPOČET NA ROK 2023
+                                                 Členěno dle skupin, oddílů a paragrafů rozpočtové skladby
+
+                                                                                                                                                     (tis. Kč)
+                                                                                             nedaňové příjmy                     kapitálové příjmy
+Sku
+     Oddíl    §                            Název paragrafu                          statutární               městské    statutární                 městské
+pina                                                                                              město                                 město
+                                                                                    město Brno                části     město Brno                  části
+
+   3    36 3612 Bytové hospodářství                                                     112 138    105 747      6 391       150 500      150 500
+   3    36 3613 Nebytové hospodářství                                                    79 210     57 200     22 010             5                         5
+   3    36 3619 Ostatní rozvoj bydlení a bytové hospodářství                                697        697
+   3    36 3632 Pohřebnictví                                                             15 266     15 086        180
+   3    36 3633 Výstavba a údržba místních inženýrských sítí                                 50                    50
+   3    36 3635 Územní plánování                                                             20         20
+   3    36 3639 Komunální služby a územní rozvoj j.n.                                    57 317     27 690     29 627       200 000      200 000
+   3    36 3699 Ostatní záležitosti bydlení, komunálních služeb a úz. rozvoje             2 350                 2 350
+36 Bydlení, komunální služby a územní rozvoj                                            267 048    206 440     60 608       350 505      350 500            5
+
+   3    37 3722 Sběr a svoz komunálních odpadů                                                6                     6
+   3    37 3745 Péče o vzhled obcí a veřejnou zeleň                                         833       642         191
+   3    37 3769 Ostatní správa v ochraně životního prostředí                                305       305
+37 Ochrana životního prostředí                                                            1 144       947         197
+
+3 Služby pro fyzické osoby                                                              436 643    334 799    101 844       350 505      350 500            5
+
+   4    43 4341 Soc. pomoc osobám v hmotné nouzi a soc. nepřizpůsobivým                     150       150
+   4    43 4357 Domovy pro osoby se zdr. postižením a domovy se zvl. režimem                 10                    10
+   4    43 4359 Ostatní služby a činnosti v oblasti sociální péče                           511                   511
+   4    43 4374 Azylové domy, nízkoprahová denní centra a noclehárny                        663       663
+   4    43 4379 Ostatní služby a činnosti v oblasti sociální prevence                       300                   300
+43 Sociální služby a společné činnosti v sociálním zabezpečení                            1 634       813         821
+
+4 Sociální věci a politika zaměstnanosti                                                  1 634       813         821
+
+   5   53 5311 Bezpečnost a veřejný pořádek                                              23 441     23 281        160            100         100
+53 Bezpečnost a veřejný pořádek                                                          23 441     23 281        160            100         100
+
+   5    55 5512 Požární ochrana - dobrovolná část                                          176                    176
+55 Požární ochrana a integrovaný záchranný systém                                          176                    176
+
+5 Bezpečnost státu a právní ochrana                                                      23 617     23 281        336            100         100
+
+   6    61 6171 Činnost místní správy                                                    42 987     12 143     30 844             50                       50
+61 Státní moc, státní správa, územní samospráva a pol. strany                            42 987     12 143     30 844             50                       50
+
+   6     62 6211 Archivní činnost                                                           30          30
+62 Jiné veřejné služby a činnosti                                                           30          30
+
+   6    63 6310 Obecné příjmy a výdaje z finančních operací                              71 583     54 030     17 553
+63 Finanční operace                                                                      71 583     54 030     17 553
+
+6 Všeobecná veřejná správa a služby                                                     114 600     66 203     48 397             50                       50
+
+
+NEDAŇOVÉ A KAPITÁLOVÉ PŘÍJMY CELKEM                                                    817 293    647 925    169 368       350 655      350 600            55
+
+
+
+
+                                                                                9
+                                                                                                                                                Strana 13 / 25
+   VÝDAJE STATUTÁRNÍHO MĚSTA BRNA - SCHVÁLENÝ ROZPOČET NA ROK 2023 - rekapitulace dle druhů výdajů a dle oddílů (tis. Kč)
+
+                                                                                 běžné výdaje                       kapitálové výdaje                      výdaje celkem
+ODDÍL                         NÁZEV ODDÍLU                            statutární                městské     statutární              městské     statutární               městské
+                                                                                     město                                město                                 město
+                                                                      město Brno                 části      město Brno                části     město Brno                části
+
+10      Zemědělství, lesní hospodářství a rybářství                        16 565     15 972         593         12 500    12 500                     29 065     28 472         593
+21      Průmysl, stavebnictví, obchod a služby                             87 562     79 967       7 595         21 108    21 108                    108 670    101 075       7 595
+22      Doprava                                                         3 871 646 3 597 041      274 605      1 534 637 1 483 041     51 596       5 406 283 5 080 082      326 201
+23      Vodní hospodářství                                                 11 405      9 583       1 822        964 362 959 498        4 864         975 767    969 081       6 686
+24      Spoje                                                                  14                     14                                                  14                     14
+31 a 32 Vzdělávání a školské služby                                       657 097     58 159     598 938        424 477   104 788    319 689       1 081 574    162 947     918 627
+33      Kultura, církve a sdělovací prostředky                          1 494 457 1 389 054      105 403        320 637   313 768      6 869       1 815 094 1 702 822      112 272
+34      Sport a zájmová činnost                                           644 923    582 556      62 367        767 518   713 498     54 020       1 412 441 1 296 054      116 387
+35      Zdravotnictví                                                     250 820    239 322      11 498        114 071   104 771      9 300         364 891    344 093      20 798
+36      Bydlení, komunální služby a územní rozvoj                         819 881    711 674     108 207      1 521 018   788 169    732 849       2 340 899 1 499 843      841 056
+37      Ochrana životního prostředí                                       796 686    522 856     273 830        286 366   215 466     70 900       1 083 052    738 322     344 730
+38      Ostatní výzkum a vývoj                                             42 050     42 050                                                          42 050     42 050
+39      Ostatní činnosti související se službami pro fyzické osoby         54 252     53 491          761           500       500                     54 752     53 991         761
+43      Sociální služby a společné činnosti v sociálním zabezpečení       831 357    811 448       19 909        93 770    93 370        400         925 127    904 818      20 309
+52      Civilní připravenost na krizové stavy                               7 476      5 484        1 992           500       500                      7 976      5 984       1 992
+53      Bezpečnost a veřejný pořádek                                      546 739    546 594          145        10 920     9 450      1 470         557 659    556 044       1 615
+55      Požární ochrana a integrovaný záchranný systém                     18 690      5 000       13 690        51 566    46 716      4 850          70 256     51 716      18 540
+61      Státní moc, státní správa, územní samospráva a pol. strany      2 481 352 1 420 808     1 060 544       172 252   136 564     35 688       2 653 604 1 557 372    1 096 232
+62      Jiné veřejné služby a činnosti                                     17 871     17 841           30         2 500     2 500                     20 371     20 341          30
+63      Finanční operace *)                                               665 252 2 601 058        81 935                 266 740                    665 252 2 867 798       81 935
+64      Ostatní činnosti                                                  198 935    111 962       86 973           306                   306        199 241    111 962      87 279
+        CELKEM                                                         13 515 030 12 821 920    2 710 851     6 299 008 5 272 947   1 292 801     19 814 038 18 094 867   4 003 652
+
+*) konsolidace na úrovni statutárního města Brna
+
+
+
+
+                                                                                         10
+                                                                                                                                                                          Strana 14 / 25
+                                 CELKOVÉ VÝDAJE STATUTÁRNÍHO MĚSTA BRNA
+                                     SCHVÁLENÝ ROZPOČET 2023 (MIL. KČ)
+                                  Doprava                                                                                             5 406
+     Státní správa a územní samospráva                                                           2 654
+Bydlení, komunální služ. a územ. rozvoj                                                      2 341
+  Kultura, církve a sdělovací prostředky                                             1 815
+                 Sport a zájmová činnost                                     1 412
+             Ochrana životního prostředí                            1 083
+              Vzdělávání a školské služby                           1 082
+                      Vodní hospodářství                          976
+   Soc. služby a spol. činnosti v soc. zab.                       925
+                      Finanční operace *)                   665
+            Bezpečnost a veřejný pořádek                 558
+                           Ostatní výdaje                532
+                             Zdravotnictví            365
+
+                                              0             1 000                2 000               3 000           4 000   5 000
+*) konsolidace na úrovni statutárního města Brna
+
+
+
+              CELKOVÉ VÝDAJE STATUTÁRNÍHO MĚSTA BRNA V ČLENĚNÍ NA VÝDAJE
+               MĚSTA A MĚSTSKÝCH ČÁSTÍ - SCHVÁLENÝ ROZPOČET 2023 (MIL. KČ)
+
+   5 000                                                                                                     MĚSTO
+                                                                                                             MČ
+
+   4 000                                                                                                     SMB
+
+
+
+   3 000
+
+
+
+   2 000
+
+
+
+   1 000
+
+
+
+        0
+
+
+
+
+                                              *) konsolidace na úrovni statutárního města Brna
+
+
+
+                                                                        11
+                                                                                                                             Strana 15 / 25
+CELKOVÉ VÝDAJE STATUTÁRNÍHO MĚSTA BRNA NA JEDNOHO OBYVATELE – ROZPOČET 2023
+                    finanční operace
+                                                     průmysl, stavebnictví,     sport a zájmová
+                                                     obchod a služby            činnost
+                    1.753 Kč
+        kultura
+                                                      287 Kč                                            ochrana životního prostředí
+                                                                               3.722 Kč
+      4.783 Kč                            zdravotnictví
+                                                                                                        2.854 Kč
+                                         962 Kč
+       sociální služby
+                                                                                                       vodní hospodářství
+      2.438 Kč
+                                                                                                     2.571 Kč
+      státní správa a                        52.216 Kč
+      územní samospráva
+                                                                                                   bydlení, komunální
+                                                                                                   služby a územní rozvoj
+                                                                                    ostatní
+      6.993 Kč
+                                                                                   1.117 Kč        6.169 Kč
+                                                    1.470 Kč
+                         14.247 Kč
+                                       7.000 Kč           bezpečnost a
+             7.247 Kč
+                                                          veřejný pořádek
+                                                                              2.850 Kč
+                                        ostatní
+                  MHD
+                                                                                   vzdělávání
+          doprava                                                               a školské služby
+
+
+                                                                 12
+                                                                                                                                 Strana 16 / 25
+                                                BĚŽNÉ A KAPITÁLOVÉ VÝDAJE STATUTÁRNÍHO MĚSTA BRNA - SCHVÁLENÝ ROZPOČET NA ROK 2023
+                                                                                       Členěno dle skupin, oddílů a paragrafů rozpočtové skladby
+                                                                                                                                                                                                                                 (tis. Kč)
+                                                                                                          běžné výdaje                                  kapitálové výdaje                                  výdaje celkem
+Skupina Oddíl       §                           Název paragrafu                            statutární                                    statutární                                         statutární
+                                                                                                             město       městské části                       město          městské části                     město        městské části
+                                                                                           město Brno                                    město Brno                                         město Brno
+
+    1     10      1012 Podnikání a restrukturalizace v zemědělství a potravinářství                 50                              50                                                               50                               50
+    1     10      1014 Ozdravování hospodářských zvířat a plodin a zvl. veterinární péče        14 171          13 894             277              1 500         1 500                          15 671           15 394             277
+    1     10      1019 Ostatní zemědělská a potravinářská činnost a rozvoj                       2 244           1 998             246                                                            2 244            1 998             246
+    1     10      1037 Celospolečenské funkce lesů                                                  80              80                                                                               80               80
+    1     10      1039 Ostatní záležitosti lesního hospodářství                                                                                    11 000        11 000                          11 000           11 000
+    1     10      1070 Rybářství a myslivost                                                        20                              20                                                               20                               20
+10 Zemědělství, lesní hospodářství a rybářství                                                  16 565          15 972             593             12 500        12 500                          29 065           28 472             593
+
+1 Zemědělství, lesní hospodářství a rybářství                                                   16 565          15 972             593             12 500        12 500                          29 065           28 472             593
+
+    2       21    2115 Úspora energie a obnovitelné zdroje                                       2 580           2 580                                                                            2 580            2 580
+    2       21    2125 Podpora podnikání a inovací                                              26 850          26 850                              8 500         8 500                          35 350           35 350
+    2       21    2141 Vnitřní obchod                                                            4 375                           4 375                                                            4 375                            4 375
+    2       21    2143 Cestovní ruch                                                            50 757          50 537             220             12 608        12 608                          63 365           63 145             220
+    2       21    2169 Ostatní správa v průmyslu, stavebnictví, obchodu a službách               3 000                           3 000                                                            3 000                            3 000
+21 Průmysl, stavebnictví, obchod a služby                                                       87 562          79 967           7 595             21 108        21 108                         108 670         101 075            7 595
+
+    2      22     2212 Silnice                                                                  678 325        534 060         144 265         776 435         753 970             22 465      1 454 760       1 288 030         166 730
+    2      22     2219 Ostatní záležitosti pozemních komunikací                                 376 778        248 254         128 524         532 432         503 571             28 861        909 210         751 825         157 385
+    2      22     2221 Provoz veřejné silniční dopravy                                              216                            216             270                                270            486                             486
+    2      22     2223 Bezpečnost silničního provozu                                              3 385          3 100             285                                                             3 385           3 100             285
+    2      22     2229 Ostatní záležitosti v silniční dopravě                                    15 495         14 180           1 315          15 000          15 000                            30 495          29 180           1 315
+    2      22     2271 Ostatní dráhy                                                              8 344          8 344                         210 500         210 500                           218 844         218 844
+    2      22     2291 Mezinárodní spolupráce v dopravě                                              80             80                                                                                80              80
+    2      22     2292 Dopravní obslužnost veřejnými službami - linková                         895 854        895 854                                                                           895 854         895 854
+    2      22     2293 Dopravní obslužnost mimo veřejnou službu                                  20 424         20 424                                                                            20 424          20 424
+    2      22     2294 Dopravní obslužnost veřejnými službami - drážní                        1 853 722      1 853 722                                                                         1 853 722       1 853 722
+    2      22     2299 Ostatní záležitosti v dopravě                                             19 023         19 023                                                                            19 023          19 023
+22 Doprava                                                                                    3 871 646      3 597 041         274 605       1 534 637        1 483 041            51 596      5 406 283       5 080 082         326 201
+
+    2      23   2310 Pitná voda                                                                    172             150              22         111 381         111 381                          111 553         111 531               22
+    2      23   2321 Odvádění a čištění odpadních vod a nakládání s kaly                         1 160             100           1 060         830 761         829 251              1 510       831 921         829 351            2 570
+    2      23   2329 Odvádění a čištění odpadních vod j.n.                                         200             200                           6 866           6 866                            7 066           7 066
+    2      23   2331 Úpravy vodohospodářsky významných a vodárenských toků                       4 000           4 000                          12 000          12 000                           16 000          16 000
+    2      23   2333 Úpravy drobných vodních toků                                                5 873           5 133             740           2 654                              2 654         8 527           5 133            3 394
+    2      23   2341 Vodní díla v zemědělské krajině                                                                                               700                                700           700                              700
+23 Vodní hospodářství                                                                           11 405           9 583           1 822         964 362         959 498              4 864       975 767         969 081            6 686
+
+    2       24    2419 Ostatní záležitosti spojů                                                    14                              14                                                               14                               14
+24 Spoje                                                                                            14                              14                                                               14                               14
+
+2 Průmyslová a ostatní odvětví hospodářství                                                   3 970 627      3 686 591         284 036       2 520 107        2 463 647            56 460      6 490 734       6 150 238         340 496
+
+
+
+                                                                                                                  13
+                                                                                                                                                                                                                            Strana 17 / 25
+                                                 BĚŽNÉ A KAPITÁLOVÉ VÝDAJE STATUTÁRNÍHO MĚSTA BRNA - SCHVÁLENÝ ROZPOČET NA ROK 2023
+                                                                                           Členěno dle skupin, oddílů a paragrafů rozpočtové skladby
+                                                                                                                                                                                                                                     (tis. Kč)
+                                                                                                             běžné výdaje                                   kapitálové výdaje                                  výdaje celkem
+Skupina Oddíl       §                           Název paragrafu                              statutární                                      statutární                                         statutární
+                                                                                                                město        městské části                       město          městské části                     město        městské části
+                                                                                             město Brno                                      město Brno                                         město Brno
+
+    3      31     3111 Mateřské školy                                                              173 928           5 117         168 811         177 890           80 092            97 798        351 818          85 209         266 609
+    3      31     3113 Základní školy                                                              440 805          39 619         401 186         224 770           21 050           203 720        665 575          60 669         604 906
+    3      31     3114 Základní školy pro žáky se speciálními vzdělávacími potřebami                     5                               5                                                                 5                               5
+    3      31     3117 První stupeň základních škol                                                    164             164                                                                               164             164
+    3      31     3119 Ostatní záležitosti základního vzdělávání                                     6 542           2 712           3 830                800                             800          7 342           2 712           4 630
+    3      31     3122 Střední odborné školy                                                         6 287           6 287                              1 325         1 325                            7 612           7 612
+    3      31     3123 Střední školy poskytující střední vzdělání s výučním listem                                                                          1                               1              1                               1
+    3      31     3133 Dětské domovy                                                                     5                               5                                                                 5                               5
+    3      31     3141 Školní stravování                                                            19 986                          19 986              7 000                           7 000         26 986                          26 986
+    3      31     3149 Ostatní zařízení související s výchovou a vzděláváním mládeže                   960             960                                                                               960            960
+31 Vzdělávání a školské služby                                                                     648 682          54 859         593 823         411 786         102 467            309 319      1 060 468        157 326          903 142
+
+    3      32     3231 Základní umělecké školy                                                         588                             588                                                              588                              588
+    3      32     3233 Střediska volného času                                                        7 787           3 300           4 487             12 691         2 321            10 370        20 478            5 621          14 857
+    3      32     3239 Záležitosti zájmového vzdělávání j.n.                                            40                              40                                                               40                               40
+32 Vzdělávání a školské služby                                                                       8 415           3 300           5 115             12 691         2 321            10 370        21 106            5 621          15 485
+
+    3        33    3311 Divadelní činnost                                                          880 282         880 063             219          11 947          11 947                           892 229        892 010              219
+    3        33    3312 Hudební činnost                                                            154 499         154 200             299         210 784         210 784                           365 283        364 984              299
+    3        33    3313 Filmová tvorba, distribuce, kina a audiovizuální archiválie                  9 502           9 361             141             229                                229          9 731          9 361              370
+    3        33    3314 Činnosti knihovnické                                                        94 928          93 769           1 159             695              695                           95 623         94 464            1 159
+    3        33    3315 Činnosti muzeí a galerií                                                    86 702          86 682              20          29 433           29 433                          116 135        116 115               20
+    3        33    3316 Vydavatelská činnost                                                         1 653           1 653                                                                             1 653          1 653
+    3        33    3317 Výstavní činnosti v kultuře                                                 34 504          34 494              10              1 800         1 800                           36 304         36 294               10
+    3        33    3319 Ostatní záležitosti kultury                                                132 154         106 762          25 392             26 753        26 453               300        158 907        133 215           25 692
+    3        33    3322 Zachování a obnova kulturních památek                                       20 261          19 411             850             23 748        23 748                           44 009         43 159              850
+    3        33    3326 Pořízení, zachování a obnova hodnot místního kulturního povědomí             2 679           2 459             220              9 108         8 908               200         11 787         11 367              420
+    3        33    3329 Ostatní záležitosti ochrany památek a péče o kulturní dědictví                 315             200             115                                                               315            200              115
+    3        33    3330 Činnosti registrovaných církví a náboženských společností                       70                              70                                                                70                              70
+    3        33    3341 Rozhlas a televize                                                              25                              25                                                                25                              25
+    3        33    3349 Ostatní záležitosti sdělovacích prostředků                                  10 947                          10 947                                                            10 947                          10 947
+    3        33    3392 Zájmová činnost v kultuře                                                   46 764                          46 764              6 140                           6 140         52 904                          52 904
+    3        33    3399 Ostatní záležitosti kultury, církví a sdělovacích prostředků                19 172                          19 172                                                            19 172                          19 172
+33 Kultura, církve a sdělovací prostředky                                                        1 494 457       1 389 054         105 403         320 637         313 768              6 869      1 815 094       1 702 822         112 272
+
+    3       34   3412 Sportovní zařízení ve vlastnictví obce                                        74 588          36 131          38 457         442 652         398 473             44 179        517 240         434 604          82 636
+    3       34   3419 Ostatní sportovní činnost                                                    534 954         527 319           7 635         305 385         305 000                385        840 339         832 319           8 020
+    3       34   3421 Využití volného času dětí a mládeže                                           28 254          16 897          11 357          14 862           6 506              8 356         43 116          23 403          19 713
+    3       34   3429 Ostatní zájmová činnost a rekreace                                             7 127           2 209           4 918           4 619           3 519              1 100         11 746           5 728           6 018
+34 Sport a zájmová činnost                                                                         644 923         582 556          62 367         767 518         713 498             54 020      1 412 441       1 296 054         116 387
+
+
+
+
+                                                                                                                      14
+                                                                                                                                                                                                                                Strana 18 / 25
+                                                 BĚŽNÉ A KAPITÁLOVÉ VÝDAJE STATUTÁRNÍHO MĚSTA BRNA - SCHVÁLENÝ ROZPOČET NA ROK 2023
+                                                                                           Členěno dle skupin, oddílů a paragrafů rozpočtové skladby
+                                                                                                                                                                                                                                     (tis. Kč)
+                                                                                                             běžné výdaje                                   kapitálové výdaje                                  výdaje celkem
+Skupina Oddíl       §                           Název paragrafu                              statutární                                      statutární                                         statutární
+                                                                                                                město        městské části                       město          městské části                     město        městské části
+                                                                                             město Brno                                      město Brno                                         město Brno
+
+    3      35      3511 Všeobecná ambulantní péče                                                   20 323           8 922          11 401             21 300        12 000             9 300        41 623          20 922           20 701
+    3      35      3522 Ostatní nemocnice                                                          119 583         119 583                             37 771        37 771                         157 354         157 354
+    3      35      3523 Odborné léčebné ústavy                                                      19 385          19 385                                                                           19 385          19 385
+    3      35      3525 Hospice                                                                      2 950           2 950                             45 000        45 000                          47 950          47 950
+    3      35      3529 Ostatní ústavní péče                                                        55 195          55 195                                                                           55 195          55 195
+    3      35      3533 Zdravotnická záchranná služba                                                                                                   4 000         4 000                           4 000           4 000
+    3      35      3541 Prevence před drogami, alkoholem, nikotinem a jinými závislostmi            10 694          10 694                                                                           10 694          10 694
+    3      35      3543 Pomoc zdravotně postiženým                                                     203             150              53                                                              203             150               53
+    3      35      3545 Programy paliativní péče                                                     8 005           8 005                                                                            8 005           8 005
+    3      35      3599 Ostatní činnost ve zdravotnictví                                            14 482          14 438              44           6 000           6 000                           20 482          20 438               44
+35 Zdravotnictví                                                                                   250 820         239 322          11 498         114 071         104 771              9 300       364 891         344 093           20 798
+
+    3       36   3612 Bytové hospodářství                                                          144 071         127 704          16 367         826 774         227 000            599 774        970 845        354 704          616 141
+    3       36   3613 Nebytové hospodářství                                                        112 079          76 675          35 404          79 024          10 621             68 403        191 103         87 296          103 807
+    3       36   3619 Ostatní rozvoj bydlení a bytového hospodářství                                    50              50                                                                                50             50
+    3       36   3631 Veřejné osvětlení                                                            235 227         234 017           1 210                                                           235 227        234 017            1 210
+    3       36   3632 Pohřebnictví                                                                  54 213          51 362           2 851          80 299           80 299                          134 512        131 661            2 851
+    3       36   3633 Výstavba a údržba místních inženýrských sítí                                  18 707          18 668              39           7 447            6 447             1 000         26 154         25 115            1 039
+    3       36   3634 Lokální zásobování teplem                                                        500                             500           5 000                              5 000          5 500                           5 500
+    3       36   3635 Územní plánování                                                              58 172          57 972             200          20 000          20 000                            78 172          77 972             200
+    3       36   3636 Územní rozvoj                                                                 30 845          29 210           1 635           2 850           2 850                            33 695          32 060           1 635
+    3       36   3639 Komunální služby a územní rozvoj j.n.                                        164 387         115 616          48 771         498 624         440 952             57 672        663 011         556 568         106 443
+    3       36   3699 Ostatní záležitosti bydlení, komunálních služeb a úz. rozvoje                  1 630             400           1 230           1 000                              1 000          2 630             400           2 230
+36 Bydlení, komunální služby a územní rozvoj                                                       819 881         711 674         108 207       1 521 018         788 169            732 849      2 340 899       1 499 843         841 056
+
+    3      37    3716 Monitoring ochrany ovzduší                                                     3 401           3 401                                                                             3 401          3 401
+    3      37    3719 Ostatní činnosti k ochraně ovzduší                                               876             876                                                                               876            876
+    3      37    3722 Sběr a svoz komunálních odpadů                                               219 308         185 608          33 700             10 480                          10 480        229 788        185 608           44 180
+    3      37    3723 Sběr a svoz ostatních odpadů jiných než nebezpečných a komunálních               165                             165                                                               165                             165
+    3      37    3725 Využívání a zneškodňování komunálních odpadů                                 171 160         168 038           3 122              4 059         1 259             2 800        175 219        169 297            5 922
+    3      37    3729 Ostatní nakládání s odpady                                                     5 050           1 300           3 750                                                             5 050          1 300            3 750
+    3      37    3733 Monitoring půdy a podzemní vody                                                  642             642                                                                               642            642
+    3      37    3739 Ostatní ochrana půdy a spodní vody                                             1 160           1 160                          10 800           10 800                           11 960         11 960
+    3      37    3741 Ochrana druhů a stanovišť                                                     78 961          78 961                          29 900           29 900                          108 861        108 861
+    3      37    3742 Chráněné části přírody                                                           986             980               6              10                                 10            996            980               16
+    3      37    3744 Protierozní, protilavinová a protipožární ochrana                                696             696                         111 112         111 112                           111 808        111 808
+    3      37    3745 Péče o vzhled obcí a veřejnou zeleň                                          306 316          74 214         232 102         116 455          58 845             57 610        422 771        133 059          289 712
+    3      37    3749 Ostatní činnosti k ochraně přírody a krajiny                                   1 365             400             965           3 450           3 450                             4 815          3 850              965
+    3      37    3792 Ekologická výchova a osvěta                                                    6 600           6 580              20             100             100                             6 700          6 680               20
+37 Ochrana životního prostředí                                                                     796 686         522 856         273 830         286 366         215 466             70 900      1 083 052        738 322          344 730
+
+
+
+
+                                                                                                                      15
+                                                                                                                                                                                                                                Strana 19 / 25
+                                                  BĚŽNÉ A KAPITÁLOVÉ VÝDAJE STATUTÁRNÍHO MĚSTA BRNA - SCHVÁLENÝ ROZPOČET NA ROK 2023
+                                                                                             Členěno dle skupin, oddílů a paragrafů rozpočtové skladby
+                                                                                                                                                                                                                                       (tis. Kč)
+                                                                                                               běžné výdaje                                   kapitálové výdaje                                  výdaje celkem
+Skupina Oddíl        §                           Název paragrafu                               statutární                                      statutární                                         statutární
+                                                                                                                  město        městské části                       město          městské části                     město        městské části
+                                                                                               město Brno                                      město Brno                                         město Brno
+
+    3       38   3809 Ostatní výzkum a vývoj odvětvově nespecifikovaný                                42 050          42 050                                                                           42 050           42 050
+38 Ostatní výzkum a vývoj                                                                             42 050          42 050                                                                           42 050           42 050
+
+    3       39    3900 Ostatní činnosti související se službami pro fyzické osoby                     54 252          53 491             761               500             500                         54 752           53 991             761
+39 Ostatní činnosti související se službami pro fyzické osoby                                         54 252          53 491             761               500             500                         54 752           53 991             761
+
+3 Služby pro fyzické osoby                                                                         4 760 166       3 599 162       1 161 004       3 434 587        2 240 960         1 193 627      8 194 753       5 840 122       2 354 631
+
+    4        43    4319 Ostatní výdaje související se sociálním poradenstvím                              25                              25                                                               25                               25
+    4        43    4324 Zařízení pro děti vyžadující okamžitou pomoc                                  14 778                          14 778                                                           14 778                           14 778
+    4        43    4329 Ostatní sociální pomoc dětem a mládeži                                           145                             145                                                              145                              145
+    4        43    4339 Ostatní sociální péče a pomoc rodině a manželství                            118 063         118 028              35                                                          118 063         118 028               35
+    4        43    4341 Soc. pomoc osobám v hmotné nouzi a soc. nepřizpůsobivým                        8 890           8 882               8              3 300         3 300                          12 190          12 182                8
+    4        43    4342 Sociální péče a pomoc přistěhovalcům a vybraným etnikům                       16 020          16 020                                                                           16 020          16 020
+    4        43    4344 Sociální rehabilitace                                                             20                              20                                                               20                               20
+    4        43    4349 Ost. sociální péče a pomoc ostatním skupinám fyzických osob                   18 911          18 508             403                                                           18 911          18 508              403
+    4        43    4350 Domovy pro seniory                                                           262 547         262 547                              8 050         8 050                         270 597         270 597
+    4        43    4351 Osobní asistence, pečovatel. služba a podpora samostatného bydlení                40                              40             73 020        73 020                          73 060          73 020               40
+    4        43    4357 Domovy pro osoby se zdr. postižením a domovy se zvl. režimem                  56 560          56 495              65              7 000         7 000                          63 560          63 495               65
+    4        43    4359 Ostatní služby a činnosti v oblasti sociální péče                            126 598         123 700           2 898                400                             400       126 998         123 700            3 298
+    4        43    4372 Krizová pomoc                                                                      8                               8                                                                8                                8
+    4        43    4374 Azylové domy, nízkoprahová denní centra a noclehárny                         205 584         205 576               8              2 000         2 000                         207 584         207 576                8
+    4        43    4375 Nízkoprahová zařízení pro děti a mládež                                           30                              30                                                               30                               30
+    4        43    4379 Ostatní služby a činnosti v oblasti sociální prevence                          2 828           1 692           1 136                                                            2 828            1 692           1 136
+    4        43    4399 Ostatní záležitosti sociálních věcí a politiky zaměstnanosti                     310                             310                                                              310                              310
+43 Sociální služby a pomoc a společné činnosti v sociálním zabezpečení                               831 357         811 448          19 909             93 770        93 370               400       925 127         904 818           20 309
+
+4 Sociální věci a politika zaměstnanosti                                                             831 357         811 448          19 909             93 770        93 370               400       925 127         904 818           20 309
+
+    5         52   5212 Ochrana obyvatelstva                                                           2 780           1 824             956                                                            2 780            1 824             956
+    5         52   5213 Krizová opatření                                                               4 516           3 610             906               500             500                          5 016            4 110             906
+    5         52   5269 Ostatní správa v oblasti hosp. opatření pro krizové stavy                         15                              15                                                               15                               15
+    5         52   5273 Ostatní správa v oblasti krizového řízení                                        150              50             100                                                              150               50             100
+    5         52   5279 Záležitosti krizového řízení j.n.                                                 15                              15                                                               15                               15
+52 Civilní připravenost na krizové stavy                                                               7 476           5 484           1 992               500             500                          7 976            5 984           1 992
+
+    5      53    5311 Bezpečnost a veřejný pořádek                                                   546 434         546 329             105             10 920         9 450             1 470       557 354         555 779            1 575
+    5      53    5319 Ostatní záležitosti bezpečnosti a veřejného pořádku                                305             265              40                                                              305             265               40
+53 Bezpečnost a veřejný pořádek                                                                      546 739         546 594             145             10 920         9 450             1 470       557 659         556 044            1 615
+
+
+
+
+                                                                                                                        16
+                                                                                                                                                                                                                                  Strana 20 / 25
+                                               BĚŽNÉ A KAPITÁLOVÉ VÝDAJE STATUTÁRNÍHO MĚSTA BRNA - SCHVÁLENÝ ROZPOČET NA ROK 2023
+                                                                                 Členěno dle skupin, oddílů a paragrafů rozpočtové skladby
+                                                                                                                                                                                                                           (tis. Kč)
+                                                                                                   běžné výdaje                                   kapitálové výdaje                                  výdaje celkem
+Skupina Oddíl       §                          Název paragrafu                     statutární                                      statutární                                         statutární
+                                                                                                      město        městské části                       město          městské části                     město        městské části
+                                                                                   město Brno                                      město Brno                                         město Brno
+
+    5       55   5511 Požární ochrana - profesionální část                                 5 250           5 000             250             46 716        46 716                          51 966           51 716             250
+    5       55   5512 Požární ochrana - dobrovolná část                                   12 877                          12 877              4 850                           4 850        17 727                           17 727
+    5       55   5519 Ostatní záležitosti požární ochrany                                    563                             563                                                              563                              563
+55 Požární ochrana a integrovaný záchranný systém                                         18 690           5 000          13 690             51 566        46 716             4 850        70 256           51 716          18 540
+
+5 Bezpečnost státu a právní ochrana                                                      572 905         557 078          15 827             62 986        56 666             6 320       635 891         613 744           22 147
+
+   6       61     6112 Zastupitelstva obcí                                               197 368          39 142         158 226                                                           197 368          39 142         158 226
+   6       61     6114 Volby do Parlamentu ČR                                                232                             232                                                               232                             232
+   6       61     6171 Činnost místní správy                                           2 283 752       1 381 666         902 086         172 252         136 564             35 688      2 456 004       1 518 230         937 774
+61 Státní moc, státní správa, územní samospráva a pol. strany                          2 481 352       1 420 808       1 060 544         172 252         136 564             35 688      2 653 604       1 557 372       1 096 232
+
+    6       62     6211 Archivní činnost                                                   7 532           7 532                              2 500         2 500                          10 032           10 032
+    6       62     6223 Mezinárodní spolupráce j.n.                                       10 339          10 309              30                                                           10 339           10 309              30
+62 Jiné veřejné služby a činnosti                                                         17 871          17 841              30              2 500         2 500                          20 371           20 341              30
+
+   6        63    6310 Obecné příjmy a výdaje z finančních operací                       393 131         391 000           2 131                                                          393 131         391 000            2 131
+   6        63    6320 Pojištění funkčně nespecifikované                                   1 757                           1 757                                                            1 757                            1 757
+                                                                            *)
+    6       63    6330 Převody vlastním fondům v rozpočtech územní úrovně                    250       1 960 058          57 933                         266 740                              250        2 226 798          57 933
+    6       63    6399 Ostatní finanční operace                                          270 114         250 000          20 114                                                          270 114          250 000          20 114
+63 Finanční operace                                                                      665 252       2 601 058          81 935                         266 740                          665 252        2 867 798          81 935
+
+    6       64    6409 Ostatní činnosti j.n.                                             198 935         111 962          86 973               306                              306       199 241         111 962           87 279
+64 Ostatní činnosti                                                                      198 935         111 962          86 973               306                              306       199 241         111 962           87 279
+
+6 Všeobecná veřejná správa a služby                                                    3 363 410       4 151 669       1 229 482         175 058         405 804             35 994      3 538 468       4 557 473       1 265 476
+
+
+VÝDAJE CELKEM                                                                        13 515 030      12 821 920       2 710 851       6 299 008        5 272 947         1 292 801     19 814 038      18 094 867       4 003 652
+
+*) konsolidace na úrovni statutárního města Brna
+
+
+
+
+                                                                                                            17
+                                                                                                                                                                                                                      Strana 21 / 25
+   SCHVÁLENÝ ROZPOČET ZDROJŮ A VÝDAJŮ MĚSTSKÝCH ČÁSTÍ NA ROK 2023
+                              (V TIS. KČ)
+
+
+                                            Zdroje
+           Městská část                                               Výdaje
+                              Příjmy                 Financování
+Brno-střed                          571 047                  12 134        583 181
+Žabovřesky                          169 055                   1 700        170 755
+Královo Pole                        215 047                 128 841        343 888
+Brno-sever                          351 106                  62 959        414 065
+Židenice                            217 517                                217 517
+Černovice                            89 929                  29 353        119 282
+Brno-jih                            118 467                  33 358        151 825
+Bohunice                             86 047                   9 861         95 908
+Starý Lískovec                       95 040                  28 865        123 905
+Nový Lískovec                        80 872                   2 596         83 468
+Kohoutovice                         112 928                  64 846        177 774
+Jundrov                              34 273                                 34 273
+Bystrc                              192 190                101 000         293 190
+Kníničky                             20 317                  2 197          22 514
+Komín                                60 513                 18 255          78 768
+Medlánky                             52 584                  8 613          61 197
+Řečkovice a Mokrá Hora              120 589                101 695         222 284
+Maloměřice a Obřany                  44 698                  2 024          46 722
+Vinohrady                            85 497                 -2 004          83 493
+Líšeň                               252 666                 80 823         333 489
+Slatina                              91 881                 -9 358          82 523
+Tuřany                               73 168                 11 504          84 672
+Chrlice                              39 118                 12 155          51 273
+Bosonohy                             26 747                  9 691          36 438
+Žebětín                              50 158                  2 064          52 222
+Ivanovice                            11 661                                 11 661
+Jehnice                              11 240                                 11 240
+Ořešín                                9 359                  1 586          10 945
+Útěchov                               4 830                    350           5 180
+CELKEM                            3 288 544                715 108       4 003 652
+
+
+
+
+                                  18
+                                                                               Strana 22 / 25
+                               BILANCE ZDROJŮ A VÝDAJŮ STATUTÁRNÍHO MĚSTA BRNA - srovnání (v tis. Kč)
+            položka                                                                                               SCHVÁLENÝ ROZPOČET
+č.ř.      podseskupení                                            PŘÍJMY                                          Statutární město Brno
+              třída                                                                                        2022              2023       2023/2022(%)
+   1                  1111 Příjem z daně z příjmů fyzických osob placené plátci                             1 900 000      2 230 000          117,4
+   2                  1112 Příjem z daně z příjmů fyzických osob placené poplatníky                            90 000        140 000          155,6
+   3                  1113 Příjem z daně z příjmů fyzických osob vybírané srážkou                             290 000        390 000          134,5
+   4                  1121 Příjem z daně z příjmů právnických osob                                          2 770 000      3 190 000          115,2
+   5                  1211 Příjem z daně z přidané hodnoty                                                  5 800 000      7 400 000          127,6
+   6                  1511 Příjem z daně z nemovitých věcí                                                    250 000        250 000          100,0
+   7                         Daňové výnosy (ř.1 až ř.6)                                                    11 100 000     13 600 000          122,5
+   8                  1122 Příjem z daně z příjmů právnických osob za obce - VHČ                               91 973         86 518           94,1
+   9                  1122 Příjem z daně z příjmů právnických osob za obce - rozpočtová činnost               266 517        266 513          100,0
+  10                  133x Příjem z poplatků a odvodů v oblasti životního prostředí                             2 015          2 030          100,7
+  11                  134x Příjem z místních poplatků z vybraných činností a služeb                           297 670        298 772          100,4
+  12                  135x Příjem z ostatních odvodů z vybraných činností a služeb                              3 900          3 900          100,0
+  13                  1361 Příjem ze správních poplatků                                                        80 787         87 157          107,9
+  14                  138x Příjem z daní, poplatků a jiných obd. peněžitých plnění v obl. hazardních her       65 000        130 000          200,0
+  15                     tř. 1 Daňové příjmy celkem (ř.7 až ř.14)                                          11 907 862     14 474 890          121,6
+  16                  211x Příjem z vlastní činnosti                                                          112 847        146 803          130,1
+  17                  212x Příjem z odvodů přebytků organizací s přímým vztahem                               171 892        137 506           80,0
+  18                  213x Příjem z pronájmu nebo pachtu majetku                                              240 773        249 224          103,5
+  19                  214x Přijaté výnosy z finančního majetku                                                 11 062         72 618          656,5
+  20                  221x Přijaté sankční platby                                                              62 561         74 474          119,0
+  21 tř. 2 mimo výše uved. Jiné nedaňové příjmy                                                               148 586        136 668           92,0
+  22                  tř. 2 Nedaňové příjmy celkem (ř.16 až ř.21)                                             747 721        817 293          109,3
+  23              část 311x Příjmy z prodeje dlouhodobého majetku - bytové domy a pozemky                     180 900        150 500           83,2
+  24 311x mimo výše uved. Příjmy z prodeje dlouhodobého majetku                                               790 100        200 150           25,3
+  25                  312x Ostatní kapitálové příjmy                                                                5              5          100,0
+  26                     tř. 3 Kapitálové příjmy celkem (ř.23 až ř.25)                                        971 005        350 655           36,1
+  27                         Vlastní příjmy (ř.15+ ř.22 + ř.26)                                            13 626 588     15 642 838          114,8
+  28                  4112 Neinvestiční přijaté transfery ze SR v rámci souhrnného dotačního vztahu           402 791        411 761          102,2
+  29                  4116 Ostatní neinvestiční přijaté transfery ze státního rozpočtu                          3 017          3 284          108,8
+  30                  4121 Neinvestiční přijaté transfery od obcí                                                  90             90          100,0
+  31                  4131 Převody z vlastních fondů podnikatelské činnosti                                 1 398 800      1 388 464           99,3
+  32                     tř. 4 Přijaté transfery celkem (ř.28 až ř.31)                                      1 804 698      1 803 599           99,9
+  33                         PROVOZNÍ PŘÍJMY (ř.15 + ř.22 + ř.32)                                          14 460 281     17 095 782          118,2
+  34            tř. 1 až tř. 4 Příjmy statutárního města Brna celkem (ř.27 + ř.32)                         15 431 286     17 446 437          113,1
+
+            položka                                                                                               SCHVÁLENÝ ROZPOČET
+č.ř.      podseskupení                                            VÝDAJE                                          Statutární město Brno
+              třída                                                                                        2022              2023       2023/2022(%)
+   1             501x+503x Platy + povinné a zákonné pojistné                                               1 888 926      2 088 170          110,5
+   2                  502x Výdaje na ostatní platby za provedenou práci                                       187 327        187 611          100,2
+   3                  514x Úroky a ostatní finanční výdaje                                                    154 845        391 647          252,9
+   4                  516x Výdaje na nákup služeb                                                           2 195 604      2 316 171          105,5
+   5                  5171 Opravy a udržování                                                                 783 069        779 191           99,5
+   6              část 5213 Neinvestiční transfery nefinančním podnikatelům - DPmB                          2 184 000      2 750 000          125,9
+   7                  522x Neinvestiční transfery neziskovým a podobným osobám                                453 851        563 877          124,2
+   8                  5331 Neinvestiční příspěvky zřízeným příspěvkovým organizacím                         2 681 124      2 898 877          108,1
+   9                  5365 Daň z příjmů právnických osob za obce - rozpočtová činnost                         266 517        266 513          100,0
+  10            5901+5903 Rezervy rozpočtu                                                                    146 140        119 728           81,9
+  11 tř. 5 mimo výše uved. Ostatní běžné výdaje                                                               852 432      1 153 245          135,3
+  12                     tř. 5 Běžné výdaje celkem (ř.1 až ř.11)                                           11 793 835     13 515 030          114,6
+  13                  6351 Investiční transfery zřízeným příspěvkovým organizacím                             365 565        201 712           55,2
+  14 tř. 6 mimo výše uved. Ostatní kapitálové výdaje                                                        6 919 968      6 097 296           88,1
+  15                     tř. 6 Kapitálové výdaje celkem (ř.13 + ř.14)                                       7 285 533      6 299 008           86,5
+  16             tř. 5 + tř. 6 Výdaje statutárního města Brna celkem (ř.12 + ř.15)                         19 079 368     19 814 038          103,9
+
+            položka                                                                                               SCHVÁLENÝ ROZPOČET
+č.ř.      podseskupení                                       FINANCOVÁNÍ                                          Statutární město Brno
+              třída                                                                                        2022              2023       2023/2022(%)
+   1            8113, 8905 Krátkodobé přijaté půjčené prostředky; částky, vyrovnávající schodek             3 000 000       2 263 405          75,4
+   2                  8115 Změna stavu krátkodobých prostředků na bankovních účtech                           981 064         430 176          43,8
+   3                  8124 Uhrazené splátky dlouhodobých přijatých půjček a úvěrů                             -22 455         -15 453          68,8
+   4                  8224 Uhrazené splátky dlouh. přijatých půjčených prostředků ze zahraničí - EIB         -310 527        -310 527         100,0
+   5                     tř. 8 Financování statutárního města Brna celkem (ř.1 až ř.4)                      3 648 082       2 367 601          64,9
+
+                                                                                                                  SCHVÁLENÝ ROZPOČET
+č.ř.          třída                                       PŘEHLED HOSPODAŘENÍ                                     Statutární město Brno
+                                                                                                           2022              2023       2023/2022(%)
+   1             tř.1 až tř. 4 Příjmy celkem                                                               15 431 286     17 446 437          113,1
+   2              tř.5 + tř. 6 Výdaje celkem                                                               19 079 368     19 814 038          103,9
+   3                         Saldo příjmů a výdajů (ř.1 mínus ř.2)                                         -3 648 082     -2 367 601           64,9
+   4                     tř. 8 Financování                                                                  3 648 082      2 367 601           64,9
+
+       * - provozní příjmy zahrnují daňové příjmy, nedaňové příjmy a neinvestiční přijaté transfery
+
+
+                                                                             19
+                                                                                                                                               Strana 23 / 25
+                                                 BILANCE ZDROJŮ A VÝDAJŮ STATUTÁRNÍHO MĚSTA BRNA - SROVNÁNÍ (ÚDAJE V TIS. KČ)
+
+         položka                                                                                                 statutární město Brno                       město                               městské části
+č.ř. podseskupení                                          PŘÍJMY                                        Schválený      Schválený      %       Schválený     Schválený       %       Schválený     Schválený       %
+           třída                                                                                       rozpočet 2022 rozpočet 2023 SR23/SR22 rozpočet 2022 rozpočet 2023 SR23/SR22 rozpočet 2022 rozpočet 2023 SR23/SR22
+  1              1111 Příjem z daně z příjmů fyzických osob placené plátci                                 1 900 000       2 230 000   117,4     1 900 000     2 230 000      117,4
+  2              1112 Příjem z daně z příjmů fyzických osob placené poplatníky                                90 000         140 000   155,6        90 000       140 000      155,6
+  3              1113 Příjem z daně z příjmů fyzických osob vybírané srážkou                                 290 000         390 000   134,5       290 000       390 000      134,5
+  4              1121 Příjem z daně z příjmů právnických osob                                              2 770 000       3 190 000   115,2     2 770 000     3 190 000      115,2
+  5              1211 Příjem z daně z přidané hodnoty                                                      5 800 000       7 400 000   127,6     5 800 000     7 400 000      127,6
+  6              1511 Příjem z daně z nemovitých věcí                                                        250 000         250 000   100,0       250 000       250 000      100,0
+  7                      Daňové výnosy (ř.1 až ř.6)                                                       11 100 000      13 600 000   122,5    11 100 000    13 600 000      122,5
+  8              1122 Příjem z daně z příjmů právnických osob za obce - VHČ                                   91 973          86 518     94,1                                             91 973         86 518      94,1
+  9              1122 Příjem z daně z příjmů právnických osob za obce - rozpočtová činnost                   266 517         266 513   100,0       250 000       250 000      100,0       16 517         16 513     100,0
+ 10              133x Příjem z poplatků a odvodů v oblasti životního prostředí                                  2 015           2 030  100,7         2 015         2 030      100,7
+ 11              134x Příjem z místních poplatků z vybraných činností a služeb                               297 670         298 772   100,4       222 218       224 823      101,2       75 452         73 949      98,0
+ 12              135x Příjem z ostatních odvodů z vybraných činností a služeb                                   3 900           3 900  100,0         3 900         3 900      100,0
+ 13              1361 Příjem ze správních poplatků                                                            80 787          87 157   107,9        66 252        72 727      109,8       14 535         14 430      99,3
+ 14              138x Příjem z daní, poplatků a jiných obd. peněžitých plnění v oblasti hazardních her        65 000         130 000   200,0        65 000       130 000      200,0
+ 15                tř. 1 Daňové příjmy celkem (ř.7 až ř.14)                                               11 907 862      14 474 890   121,6    11 709 385    14 283 480      122,0      198 477        191 410      96,4
+ 16              211x Příjem z vlastní činnosti                                                              112 847         146 803   130,1        91 758       123 757      134,9       21 089         23 046     109,3
+ 17              212x Příjem z odvodů přebytků organizací s přímým vztahem                                   171 892         137 506     80,0      160 544       120 271       74,9       11 348         17 235     151,9
+ 18              213x Příjem z pronájmu nebo pachtu majetku                                                  240 773         249 224   103,5       148 743       153 017      102,9       92 030         96 207     104,5
+ 19              214x Přijaté výnosy z finančního majetku                                                     11 062          72 618   656,5         2 713        55 066    2 029,7        8 349         17 552     210,2
+ 20              221x Přijaté sankční platby                                                                  62 561          74 474   119,0        59 165        71 145      120,2        3 396          3 329      98,0
+ 21 2 mimo výše uved. Jiné nedaňové příjmy                                                                   148 586         136 668     92,0      137 200       124 669       90,9       11 386         11 999     105,4
+ 22                tř. 2 Nedaňové příjmy celkem (ř.16 až ř.21)                                               747 721         817 293   109,3       600 123       647 925      108,0      147 598        169 368     114,7
+ 23              311x Příjmy z prodeje dlouhodobého majetku - bytové domy a pozemky                          180 900         150 500     83,2      180 900       150 500       83,2
+ 24 311x mimo výše uved. Příjmy z prodeje dlouhodobého majetku - ostatní                                     790 100         200 150     25,3      790 100       200 100       25,3                          50
+ 25              312x Ostatní kapitálové příjmy                                                                     5               5  100,0                                                   5               5    100,0
+ 26                tř. 3 Kapitálové příjmy celkem (ř.23 až ř.25)                                             971 005         350 655     36,1      971 000       350 600       36,1            5             55   1 100,0
+ 27                      Vlastní příjmy (ř.15 + ř.22 + ř.26)                                              13 626 588      15 642 838   114,8    13 280 508    15 282 005      115,1      346 080        360 833     104,3
+ 28              4112 Neinvestiční přijaté transfery ze SR v rámci souhrnného dotačního vztahu               402 791         411 761   102,2       197 067       200 238      101,6      205 724        211 523     102,8
+ 29              4116 Ostatní neinvestiční přijaté transfery ze státního rozpočtu                               3 017           3 284  108,8                                               3 017          3 284     108,8
+ 30              4121 Neinvestiční přijaté transfery od obcí                                                       90              90  100,0            25            25      100,0           65             65     100,0
+ 31              4131 Převody z vlastních fondů podnikatelské činnosti                                     1 398 800       1 388 464     99,3      931 445       902 897       96,9      467 355        485 567     103,9
+ 32       4137,4251 Převody mezi městem a městskými částmi                                                   *)              *)                     41 907        57 209      136,5    1 995 008      2 227 272     111,6
+ 33                tř. 4 Přijaté transfery celkem (ř.28 až ř.32)                                           1 804 698       1 803 599     99,9    1 170 444     1 160 369       99,1    2 671 169      2 927 711     109,6
+ 34      tř. 1 až tř. 4 Příjmy statutárního města Brna celkem (ř.27 + ř.33)                               15 431 286      17 446 437   113,1    14 450 952    16 442 374      113,8    3 017 249      3 288 544     109,0
+    *) převody finančních prostředků, které se konsolidují na úrovni statutárního města Brna
+
+
+
+
+                                                                                                        20
+                                                                                                                                                                                                      Strana 24 / 25
+        položka                                                                                            statutární město Brno                        město                               městské části
+č.ř. podseskupení                                      VÝDAJE                                       Schválený     Schválený       %       Schválený     Schválený       %       Schválený     Schválený       %
+          třída                                                                                   rozpočet 2022 rozpočet 2023 SR23/SR22 rozpočet 2022 rozpočet 2023 SR23/SR22 rozpočet 2022 rozpočet 2023 SR23/SR22
+  1      501x+503x Platy + povinné a zákonné pojistné                                                 1 888 926      2 088 170    110,5     1 234 275     1 367 154     110,8       654 651        721 016     110,1
+  2              502x Výdaje na ostatní platby za provedenou práci                                      187 327        187 611    100,2        49 183        40 024       81,4      138 144        147 587     106,8
+  3              514x Úroky a ostatní finanční výdaje                                                   154 845        391 647    252,9       152 200       388 700     255,4         2 645          2 947     111,4
+  4              516x Výdaje na nákup služeb                                                          2 195 604      2 316 171    105,5     1 643 649     1 707 281     103,9       551 955        608 890     110,3
+  5              5171 Opravy a udržování                                                                783 069        779 191      99,5      541 598       554 430     102,4       241 471        224 761      93,1
+  6              5193 Neinvestiční transfery nefinančním podnikatelům - DPMB                          2 184 000      2 750 000    125,9     2 184 000     2 750 000     125,9
+  7              521x Neinvestiční transfery podnikatelům                                               175 051        215 400    123,0       173 154       213 838     123,5         1 897          1 562      82,3
+  8              522x Neinvestiční transfery neziskovým a podobným osobám                               453 851        563 877    124,2       437 087       544 297     124,5        16 764         19 580     116,8
+  9              5321 Neinvestiční transfery obcím                                                           15             15    100,0                                                  15             15     100,0
+ 10              5331 Neinvestiční příspěvky zřízeným příspěvkovým organizacím                        2 681 124      2 898 877    108,1     2 181 276     2 295 328     105,2       499 848        603 549     120,7
+ 11 533x mimo 5331 Neinvestiční transfery příspěvkovým a podobným organizacím                            37 700         39 570    105,0        37 077        38 977     105,1           623            593      95,2
+ 12              5347 Neinvestiční převody mezi městem a městskými částmi                               *)             *)                   1 718 796     1 960 058     114,0        42 380         57 683     136,1
+ 13              5365 Daň z příjmů právnických osob za obce - rozpočtová činnost                        266 517        266 513    100,0       250 000       250 000     100,0        16 517         16 513     100,0
+ 14      5901+5903 Rezervy rozpočtu                                                                     146 140        119 728      81,9      110 542        70 388       63,7       35 598         49 340     138,6
+ 15 5 mimo výše uved. Ostatní běžné výdaje                                                              639 666        898 260    140,4       392 754       641 445     163,3       246 912        256 815     104,0
+ 16               tř. 5 Běžné výdaje celkem (ř.1 až ř.15)                                            11 793 835     13 515 030    114,6    11 105 591    12 821 920     115,5     2 449 420      2 710 851     110,7
+ 17              6351 Investiční transfery zřízeným příspěvkovým organizacím                            365 565        201 712      55,2      361 905       199 062       55,0        3 660          2 650      72,4
+ 18              6363 Investiční převody mezi městem a městskými částmi                                 *)             *)                     275 739       266 740       96,7
+ 19 6 mimo výše uved. Ostatní kapitálové výdaje                                                       6 919 968      6 097 296      88,1    5 474 696     4 807 145       87,8    1 445 272      1 290 151      89,3
+ 20               tř. 6 Kapitálové výdaje celkem (ř.17 až ř.19)                                       7 285 533      6 299 008      86,5    6 112 340     5 272 947       86,3    1 448 932      1 292 801      89,2
+ 21       tř. 5 + tř. 6 Výdaje statutárního města Brna celkem (ř.16 + ř.20)                          19 079 368     19 814 038    103,9    17 217 931    18 094 867     105,1     3 898 352      4 003 652     102,7
+
+           položka                                                                                         statutární město Brno                        město                               městské části
+č.ř.        třída                                   FINANCOVÁNÍ                                     Schválený     Schválený       %       Schválený     Schválený       %       Schválený     Schválený       %
+                                                                                                  rozpočet 2022 rozpočet 2023 SR23/SR22 rozpočet 2022 rozpočet 2023 SR23/SR22 rozpočet 2022 rozpočet 2023 SR23/SR22
+  1        8113, 8905 Krátkodobé přijaté půjčené prostředky, částky, vyrovnávající schodek            3 000 000      2 263 405      75,4    3 000 000     2 263 405       75,4
+  2              8115 Změna stavu krátkodobých prostředků na bankovních účtech                          981 064        430 176      43,8       77 506      -300 385                 903 558       730 561       80,9
+  3              8124 Uhrazené splátky dlouhodobých přijatých půjčených prostředků                      -22 455        -15 453      68,8                                            -22 455        -15 453      68,8
+  4              8224 Uhrazené splátky dlouhodobých přijatých půjčených prostředků - EIB               -310 527       -310 527    100,0      -310 527      -310 527     100,0
+  5               tř. 8 Financování statutárního města Brna celkem (ř.1 až ř.4)                       3 648 082      2 367 601      64,9    2 766 979     1 652 493       59,7      881 103       715 108       81,2
+
+            třída                                                                                           statutární město Brno                       město                               městské části
+č.ř.                                          PŘEHLED HOSPODAŘENÍ                                   Schválený      Schválený      %       Schválený     Schválený       %       Schválený     Schválený       %
+                                                                                                  rozpočet 2022 rozpočet 2023 SR23/SR22 rozpočet 2022 rozpočet 2023 SR23/SR22 rozpočet 2022 rozpočet 2023 SR23/SR22
+  1         tř. 1 až tř. 4 Příjmy celkem                                                             15 431 286      17 446 437   113,1    14 450 952    16 442 374     113,8     3 017 249      3 288 544     109,0
+  2          tř. 5 a tř. 6 Výdaje celkem                                                             19 079 368      19 814 038   103,9    17 217 931    18 094 867     105,1     3 898 352      4 003 652     102,7
+  3                        Saldo příjmů a výdajů (ř.1 mínus ř.2)                                      -3 648 082     -2 367 601     64,9    -2 766 979    -1 652 493      59,7     -881 103       -715 108      81,2
+  4                  tř. 8 Financování                                                                 3 648 082      2 367 601     64,9     2 766 979     1 652 493      59,7      881 103        715 108      81,2
+       *) převody finančních prostředků, které se konsolidují na úrovni statutárního města Brna
+
+
+
+                                                                                                              21
+                                                                                                                                                                                                   Strana 25 / 25
+

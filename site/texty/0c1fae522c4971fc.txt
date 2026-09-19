@@ -1,0 +1,5618 @@
+Tento dokument je vyhotoven v upravené verzi s ohledem na Nařízení Evropského Parlamentu a Rady (EU) 2016/679 o ochraně fyzických
+osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení směrnice 95/46/ES (obecné nařízení o ochraně
+osobních údajů) a zákon č. 110/2019 Sb., o zpracování osobních údajů, v platném znění.
+
+
+
+
+Statutární město Brno
+Rada města Brna
+
+
+
+
+                                                             ZÁPIS
+
+                                            schůze Rady města Brna č. R9/112
+                                              konané dne 18. prosince 2024
+
+Jednání RMB zahájila primátorka města Brna JUDr. Markéta Vaňková, která vedla schůzi. Hlasování
+o návrzích na ověřovatele zápisu – Petru Bořeckém a Bc. Tomáši Aberlovi – schváleno jednomyslně
+7 členy.
+
+
+
+
+                                                                                                             Matonohová
+                                                Podivinská
+
+
+
+
+                                                                                                Kratochvíl
+                                                                         Ing. arch.
+   Vaňková
+
+
+
+
+                                                                         Bořecký
+
+
+
+                                                                                      Bořecký
+                         Chvátal
+
+
+
+                                     Kerndl
+                         RNDr.
+              Černý
+   JUDr.
+
+
+
+
+                                     JUDr.
+
+
+
+
+                                                                                                             JUDr.
+
+
+                                                                                                                          JUDr.
+                         Ph.D.
+
+
+
+
+                                                             Aberl
+
+
+
+
+                                                                                                                          Oliva
+              Mgr.
+
+
+
+
+                                                                                      Petr
+                                                Ing.
+
+
+
+
+                                                                                                Ing.
+                                                             Bc.
+
+
+
+
+   pro        pro          nepř.      nepř.       pro         pro        pro          pro        nepř.       pro          -----
+
+
+Hlasování o navrženém programu jednání body 1a – 1c – 47 a o zařazení bodů s názvy:
+
+48. Nadlimitní veřejná zakázka na stavební práce "Brno, Dřevařská – rekonstrukce kanalizace a
+vodovodu" - návrh změny závazku, návrh dodatku č. 3
+
+49. Návrh Dohody o ukončení smlouvy o nájmu Městského fotbalového stadionu na adrese Srbská
+47a, Brno, a záměr provozování fotbalového stadionu společností STAREZ – SPORT, a. s.
+
+50. Rozhodnutí jediného akcionáře obchodní společnosti STAREZ - SPORT, a.s. - návrh změn
+v představenstvu
+
+Schváleno jednomyslně 8 členy.
+                                                                                                             Matonohová
+                                                Podivinská
+
+
+
+
+                                                                                                Kratochvíl
+                                                                         Ing. arch.
+   Vaňková
+
+
+
+
+                                                                         Bořecký
+
+
+
+                                                                                      Bořecký
+                         Chvátal
+
+
+
+                                     Kerndl
+                         RNDr.
+              Černý
+   JUDr.
+
+
+
+
+                                     JUDr.
+
+
+
+
+                                                                                                             JUDr.
+
+
+                                                                                                                          JUDr.
+                         Ph.D.
+
+
+
+
+                                                             Aberl
+
+
+
+
+                                                                                                                          Oliva
+              Mgr.
+
+
+
+
+                                                                                      Petr
+                                                Ing.
+
+
+
+
+                                                                                                Ing.
+                                                             Bc.
+
+
+
+
+   pro        pro           pro       nepř.       pro         pro        pro          pro        nepř.       pro          -----
+
+
+
+
+                                                                     1
+Schválený program jednání:
+1a. Návrh organizační změny Magistrátu města Brna – Odboru zdraví a Odboru participace
+1b. Úkoly uložené Radě města Brna zasedáním Zastupitelstva města Brna č. Z9/22
+1c. Návrh na stanovení odměny řediteli Základní školy, Brno, Košinova 22, příspěvkové organizace,
+za realizaci projektu Ministerstva školství, mládeže a tělovýchovy Podpora rovných příležitostí
+2. Oprava památníku "Obětem válek a násilí" v Brně-Černovicích (VH: CZE6203-34181) - souhlas s
+podáním žádosti o podporu
+3. Rozhodnutí jediného akcionáře obchodní společnosti Veletrhy Brno, a.s. - návrh investičního plánu,
+Výstavba skladové haly, pro roky 2025-2027
+4. Rozhodnutí jediného akcionáře obchodní společnosti Brněnské komunikace a.s. - návrh změn v
+dozorčí radě společnosti v návaznosti na změnu stanov
+5. Návrhy rozpočtů na rok 2025 příspěvkových organizací zřízených městem Brnem
+6. Návrh rozpočtových opatření v souvislosti s účelově přijatými transfery z rozpočtů ústřední nebo
+územní úrovně České republiky
+7. Zahraniční pracovní cesta do Tchaj-peje, Tchaj-wan, ve dnech 18. – 22. března 2025
+8. Veřejná zakázka malého rozsahu „Provádění stěhovacích prací pro Magistrát města Brna“ – výběr
+dodavatele a návrh smlouvy
+9. Souhlas zřizovatele Úrazové nemocnice v Brně s podáním žádosti o podporu v rámci výzvy
+„Podpora a zvyšování kvality preventivních screeningových programů II – kolorektální karcinom"
+10. Návrh na poskytnutí individuální neinvestiční dotace organizaci Chorvatsko - český spolek, z.s. na
+projekt "Putovní výstava obrazů o Chorvatsku a vystoupení souboru Češka beseda Veliki i Mali
+Zdenci"- návrh rozpočtového opatření
+11. Návrh na uzavření dodatku č. 2 ke smlouvě o poskytnutí individuální investiční dotace společnosti
+STAREZ - SPORT, a.s. na realizaci projektu „Rekonstrukce ledové plochy haly Rondo“
+12. Návrh Dodatku č. 1 ke Smlouvě o zajištění přepravy seniorů a těžce zdravotně postižených
+občanů
+13. Otevřená jednofázová soutěž o návrh „Náhrobek Milana Kundery“ – návrh jmenování členů poroty
+14. Návrh prodeje movitého majetku svěřeného k hospodaření Národnímu divadlu Brno, příspěvkové
+organizaci
+15. Připomínky statutárního města Brna k projednání návrhu změny č. 4 územního plánu Česká
+16. Souhlas se zpracováním investičního záměru na akci "Rekonstrukce Čestného pohřebiště
+spojeneckých vojsk a účastníků domácího odboje z období 2. světové války"
+17. Souhlas se zpracováním investičního záměru na akci "Rekonstrukce cesty k hradu Špilberk z ul.
+Gorazdova"
+18. Akceptace žádostí o investiční dotace v rámci dotačního programu Podpora vytváření zelených
+střech
+19. Veřejná zakázka malého rozsahu "Volejbalové kurty Lužánky - oprava hřišť" - výběr dodavatele a
+návrh smlouvy
+20. Návrh smlouvy s Centrálou cestovního ruchu - Jižní Morava, z.s.p.o. o společném zadávání pro
+veřejné zakázky malého rozsahu na realizaci společné expozice města Brna a jižní Moravy na
+Holiday World & Region World v Praze a Caravaning Brno 2025
+21. Přesun finančních prostředků mezi Odborem kultury MMB a Odborem strategického rozvoje a
+spolupráce MMB, zajištění prostředků na úhradu faktur - návrh rozpočtového opatření
+22. Návrh na poskytnutí darů v rámci „Vánoční akce 2024“ probíhající na e-shopu městských služeb
+Brno iD
+23. Dohoda o vypořádání závazku ze smlouvy mezi statutárním městem Brnem a SNIP & CO,
+reklamní společností, spol. s r. o.
+24. Bytové družstvo Ibsenka 91011 - výzva k úhradě náhrady škody
+25. Nadlimitní veřejná zakázka na služby „Zpracování projektové dokumentace a výkon autorského
+dozoru pro výstavbu v lokalitě ulice Terezy Novákové, k.ú. Řečkovice II. etapa“ - zahájení zadávacího
+řízení
+26. Bytové domy Přízřenice - návrh Smlouvy o právu provést stavbu - napojení místní komunikace na
+silnice č. III/15281 a III/15278 ve vlastnictví Jihomoravského kraje
+27. Žádost městské části Brno-střed o udělení předchozího souhlasu Rady města Brna s uzavřením
+dodatku č. 1 k nájemní smlouvě o nájmu bytů v domě Bratislavská 40, Brno
+
+                                                  2
+28. Návrh na uzavření nájemní smlouvy na pronájem sociálního bytu v domě Jabloňová 28,Brno,
+projekt "Programové zabydlování domácností v bytové nouzi metodou Critical Time Intervention a
+Implementace Městské nájemní agentury"
+29. Návrh na uzavření/neuzavření dodatku k nájemní smlouvě na pronájem sociálního bytu v domě
+Bratislavská 39, Brno
+30. Přesun běžných a kapitálových výdajů v rámci rozpočtu Odboru správy majetku MMB, návrh
+rozpočtového opatření
+31. Veřejná zakázka malého rozsahu „Staňkova 47 v Brně - oprava střechy“ – žádost o uzavření
+dodatku ke smlouvě o dílo
+32. Veřejná zakázka malého rozsahu „Tř. Kpt. Jaroše 24 v Brně - oprava uliční fasády a stavební
+úpravy sklepních prostor“ – žádost o prodloužení termínu dokončení díla, dílčí fakturaci, navýšení
+ceny díla a změnu díla
+33. Veřejná zakázka malého rozsahu „Elektro přípojka TJ Favorit, Brno, Pisárky, ulice Bauerova“ –
+návrh dodatku č. 1 ke smlouvě o dílo
+34. Veřejná zakázka malého rozsahu „Nádražní 10, Brno, oprava fasády, stavební práce“ – návrh
+dodatku č. 1 ke smlouvě o dílo
+35. Návrhy smluv o krátkodobém nájmu prostor v Křížové chodbě Nové radnice v Brně v roce 2025 –
+mezinárodní nožířské výstavy
+36. Návrh výpůjčky částí pozemků p. č. 1938/299 a 1938/301, vše v k. ú. Bystrc
+37. Plnění cílů dle Územní energetické koncepce statutárního města Brna na období 2024-2028 -
+návrh dalšího postupu
+38. Městské standardy v oblasti výstavby a rekonstrukce budov a posouzení možností realizace
+vhodných energetických opatření při výstavbě a následném provozování Janáčkova kulturního centra
+39. Veřejná zakázka malého rozsahu „Školení a konzultace k novým verzím e-Spisu“ - výběr
+dodavatele a návrh smlouvy
+40. Zjednodušené podlimitní řízení „Integrovaný systém strategické vizibility kritických služeb v
+reálném čase“ – návrh na vyloučení účastníka zadávacího řízení
+41. Souhlas se zpracováním investičního záměru na akci "Rolencova - rekonstrukce ulice"
+42. Souhlas se zpracováním investičního záměru na akci "Tvrdého - rekonstrukce uličního prostoru a
+komunikací"
+43. Veřejná zakázka malého rozsahu Technická studie „Kontaktní zóna VMO JIH“ - výběr dodavatele,
+návrh smlouvy
+44. Rámcová dohoda o spolupráci při koordinaci, přípravě a realizaci záměru stavby "II/384 Brno -
+Bystrc MÚK Kamenolom" - návrh dodatku č. 1
+45. Nadlimitní veřejná zakázka na služby s názvem „Zpracování projektové dokumentace a výkon
+autorského dozoru pro stavbu FSIK – dočasná odstavná plocha pro autobusy a demolice rampy ÚAN
+Zvonařka“ - výběr dodavatele a návrh smlouvy
+46. Podlimitní veřejná zakázka na stavební práce „Zoo Brno - rozšíření výběhu ledního medvěda“ -
+výzva k podání nabídek
+47. Návrh smlouvy o budoucí smlouvě o zřízení věcného břemene k pozemku p.č. 177/3 v k.ú.
+Pisárky se společností GasNet, s.r.o.
+48. Nadlimitní veřejná zakázka na stavební práce "Brno, Dřevařská – rekonstrukce kanalizace a
+vodovodu" - návrh změny závazku, návrh dodatku č. 3
+49. Návrh Dohody o ukončení smlouvy o nájmu Městského fotbalového stadionu na adrese Srbská
+47a, Brno, a záměr provozování fotbalového stadionu společností STAREZ – SPORT, a. s.
+50. Rozhodnutí jediného akcionáře obchodní společnosti STAREZ - SPORT, a.s. - návrh změn v
+představenstvu
+
+
+
+Přítomni:
+JUDr. Markéta Vaňková, Mgr. René Černý. RNDr. Filip Chvátal, Ph.D., JUDr. Robert Kerndl. Ing.
+Karin Podivinská, Bc. Tomáš Aberl, Ing. arch. Petr Bořecký. Petr Bořecký (KDU), Ing. Petr Kratochvíl,
+JUDr. Irena Matonohová, JUDr. PhDr. Martin Příborský, EMLE, JUDr. Hana Doležalová, Mgr. Tomáš
+Petr, Mgr. Roman Burian, Bc. Filip Poňuchálek.
+
+Nepřítomen:
+
+
+                                                  3
+JUDr. Jiří Oliva.
+
+
+
+
+1a. Organizační změna Magistrátu města Brna – Odboru zdraví a Odboru participace
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. schvaluje
+ke dni 1. 1. 2025
+převod funkčního místa koordinátor projektu „Brno-Zdravé město“ (7100/03) z Odboru zdraví (7100)
+do Odboru participace (6100) na pozici 6100/03.
+
+2. schvaluje
+ke dni 1. 1. 2025
+v souladu s ustanovením § 102, odst. 2 písm. m) zákona č. 128/2000 Sb., o obcích (obecní zřízení),
+v platném znění, aktualizaci Organizačního řádu MMB, která tvoří přílohu č. 1 tohoto zápisu. Ověřená
+příloha je uložena na Organizačním odboru MMB.
+
+***
+3. RMB ukládá vedoucí Odboru zdraví MMB a vedoucímu Odboru participace MMB promítnout
+schválenou organizační změnu do popisů pracovních funkcí a předložit je prostřednictvím
+Organizačního odboru MMB formou návrhu interní organizační změny tajemníkovi MMB ke schválení.
+***
+úkol č. [R9/112/1a]
+zodpovídá: OZ          [19]
+termín: [bezodkladně]
+
+Schváleno jednomyslně 8 členy.                                                                       Matonohová
+                                        Podivinská
+
+
+
+
+                                                                                        Kratochvíl
+                                                                 Ing. arch.
+   Vaňková
+
+
+
+
+                                                                 Bořecký
+
+
+
+                                                                              Bořecký
+                     Chvátal
+
+
+
+                               Kerndl
+                     RNDr.
+             Černý
+   JUDr.
+
+
+
+
+                               JUDr.
+
+
+
+
+                                                                                                     JUDr.
+
+
+                                                                                                                  JUDr.
+                     Ph.D.
+
+
+
+
+                                                     Aberl
+
+
+
+
+                                                                                                                  Oliva
+             Mgr.
+
+
+
+
+                                                                              Petr
+                                        Ing.
+
+
+
+
+                                                                                        Ing.
+                                                     Bc.
+
+
+
+
+  pro        pro      pro      nepř.      pro         pro        pro          pro        nepř.       pro          -----
+
+
+
+
+1b. Úkoly uložené Radě města Brna zasedáním Zastupitelstva města Brna č. Z9/22
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna ukládá splnění úkolů vyplývajících z usnesení zasedání Zastupitelstva města Brna
+č. Z9/22:
+
+1.Úkol č. Z9/22/06/01
+Rozpočet statutárního města Brna na rok 2025
+
+***
+RMB ukládá vedoucí Odboru rozpočtu a financování MMB zabezpečit rozpis rozpočtu města Brna na
+rok 2025 podle § 14 zákona č. 250/2000 Sb., o rozpočtových pravidlech územních rozpočtů,
+v platném znění, v členění dle podrobné rozpočtové skladby, účelových znaků, nástrojů a zdrojů
+financování (ÚZ), jmenovitých náplní vybraných položek běžných výdajů a konkrétních investičních
+
+
+                                                             4
+akcí (ORG)
+Termín: do 6. 1. 2025
+***
+úkol č. [R9/112/1b/01]
+zodpovídá: vedoucí ORF             [24]
+termín: [viz usnesení]
+
+2.Úkol č. Z9/22/06/02
+Rozpočet statutárního města Brna na rok 2025
+
+***
+RMB ukládá vedoucí Odboru rozpočtu a financování MMB předložit Radě města Brna a následně
+Zastupitelstvu města Brna současně s projednáváním závěrečného účtu statutárního města Brna za
+rok 2025 přehled rozpočtových opatření, schválených Radou města Brna na základě pověření dle
+bodu D usnesení Z9/22 ZMB, bod 6.
+Termín: do 26. 5. 2026
+***
+úkol č. [R9/112/1b/02]
+zodpovídá: vedoucí ORF             [24]
+termín: [viz usnesení]
+
+3. Úkol č. Z9/22/06/03
+Rozpočet statutárního města Brna na rok 2025
+
+***
+RMB ukládá vedoucí Odboru rozpočtu a financování MMB předložit Radě města Brna a následně
+Zastupitelstvu města Brna formou informativní zprávy souhrnný rozpočet statutárního města Brna
+na rok 2025, v členění na schválený rozpočet města Brna a rozpočty městských částí, schválené
+jejich zastupitelstvy
+.Termín: do 29. 4. 2025
+  ***
+úkol č. [R9/112/1b/03]
+zodpovídá: vedoucí ORF              [24]
+termín: [viz usnesení]
+
+4. Úkol č. Z9/22/06/04
+Rozpočet statutárního města Brna na rok 2025
+
+***
+RMB ukládá vedoucí Odboru rozpočtu a financování MMB předložit Radě města Brna a následně
+Zastupitelstvu města Brna formou informativní zprávy schválené rozpočty příspěvkových organizací,
+zřízených městem Brnem, které budou respektovat schválený rozpočet města Brna na rok 2025
+Termín: do 29. 4. 2025
+ ***
+úkol č. [R9/112/1b/04]
+zodpovídá: vedoucí ORF              [24]
+termín: [viz usnesení]
+
+5. Úkol č. Z9/22/06/05
+Rozpočet statutárního města Brna na rok 2025
+
+
+
+
+***
+RMB ukládá vedoucí Odboru rozpočtu a financování MMB předložit Radě města Brna a následně
+Zastupitelstvu města Brna současně s projednáváním závěrečného účtu statutárního města Brna za
+rok 2024 přehled rozpočtových opatření, schválených Radou města Brna na základě pověření dle
+bodu D usnesení Z9/13 ZMB, bod 14.
+
+
+                                                 5
+Termín: do 10. 6. 2025"
+***
+úkol č. [R9/112/1b/05]
+zodpovídá: vedoucí ORF               [24]
+termín: [viz usnesení]
+
+6. Úkol č. Z9/22/36
+Poskytnutí účelového investičního transferu městské části Brno-Kohoutovice na realizaci akce "49-24
+Komunitní zahrada při ul. Kopaniny Brno-Kohoutovice“ - rozpočtové opatření
+
+***
+RMB ukládá vedoucímu Odboru životního prostředí MMB zajistit poukázání finančních prostředků
+městské části Brno-Kohoutovice až po předložení smluvní dokumentace na realizaci akce "49-24
+Komunitní zahrada při ul. Kopaniny Brno-Kohoutovice“
+Termín: dle usnesení
+***
+úkol č. [R9/112/1b/06]
+zodpovídá: vedoucí OŽP             [10]
+termín: [viz usnesení]
+
+7. Úkol č. Z9/22/37
+Poskytnutí účelového investičního transferu městské části Brno-sever na realizaci komunitní zahrady
+na ulici Bieblova - rozpočtové opatření
+
+***
+RMB ukládá vedoucímu Odboru životního prostředí MMB zajistit poukázání finančních prostředků
+městské části Brno-sever až po předložení smluvní dokumentace na realizaci komunitní zahrady na
+ulici Bieblova
+Termín: dle usnesení
+***
+úkol č. [R9/112/1b/07]
+zodpovídá: vedoucí OŽP            [10]
+termín: [viz usnesení]
+
+8. Úkol č. Z9/22/38
+Poskytnutí investičního transferu městské části Brno-Žabovřesky na realizovanou zelenou střechu na
+budově radnice na adrese Horova 28, rozpočtové opatření
+
+***
+RMB ukládá vedoucímu Odboru životního prostředí MMB zajistit poukázání finančních prostředků
+městské části Brno-Žabovřesky až po předložení smluvní dokumentace na realizovanou zelenou
+střechu na budově radnice na adrese Horova 28
+T: dle usnesení
+***
+úkol č. [R9/112/1b/08]
+zodpovídá: vedoucí OŽP             [10]
+termín: [viz usnesení]
+
+9. Úkol č. Z9/22/40
+Poskytnutí investičního transferu městské části Brno-jih na realizaci projektu Zahrádkářská kolonie
+Bernáčkova, rozpočtové opatření
+
+
+
+
+***
+RMB ukládá vedoucímu Odboru životního prostředí MMB zajistit poukázání finančních prostředků
+městské části Brno-jih až po předložení smluvní dokumentace na realizaci projektu Zahrádkářská
+kolonie Bernáčkova
+T: dle usnesení
+
+                                                  6
+***
+úkol č. [R9/112/1b/09]
+zodpovídá: vedoucí OŽP              [10]
+termín: [viz usnesení]
+
+10. Úkol č. Z9/22/60
+Projekt "Dům pro seniory Bystrc" - posouzení projektu
+
+***
+RMB ukládá vedoucímu Odboru implementace evropských fondů MMB zajistit přípravu žádosti
+ze Státního fondu podpory investic, programu Dostupné nájemní bydlení na projekt "Dům pro seniory
+Bystrc" v rámci parametrů uvedených v posouzení projektu.
+T: do 30. 4. 2025
+***
+úkol č. [R9/112/1b/10]
+zodpovídá: vedoucí OIEF               [3258]
+termín: [viz usnesení]
+
+11. Úkol č. Z9/22/61
+Projekt "Kontaktní centrum Koliště" - rozhodnutí o poskytnutí dotace
+
+***
+RMB ukládá vedoucímu Odboru implementace evropských fondů MMB předložit Radě města Brna a
+následně Zastupitelstvu města Brna závěrečné vyúčtování projektu "Kontaktní centrum Koliště"
+T: po ukončení projektu
+***
+úkol č. [R9/112/1b/11]
+zodpovídá: vedoucí OIEF             [3258]
+termín: [viz usnesení]
+
+12. Úkol č. Z9/22/62
+Projekt "Rozšíření monitoringu a logování síťových prvků SMB" – rozhodnutí o poskytnutí dotace
+
+***
+RMB ukládá vedoucímu Odboru implementace evropských fondů MMB předložit Radě města Brna a
+následně Zastupitelstvu města Brna závěrečné vyúčtování projektu "Rozšíření monitoringu a
+logování síťových prvků SMB"
+T: po ukončení projektu
+***
+úkol č. [R9/112/1b/12]
+zodpovídá: vedoucí OIEF             [3258]
+termín: [viz usnesení]
+
+13. Úkol č. Z9/22/65
+Postup při zpeněžení pozemků p.č. 2615/1, 2615/49, 2615/54, 2615/55, 2825/6, 2828/2, 2828/203,
+2828/204, 2861/1, 2861/2, 2861/3 v k.ú. Černovice nebo jejich částí
+
+***
+RMB ukládá vedoucímu Odboru strategického rozvoje a spolupráce MMB za součinnosti s vedoucí
+Majetkového odboru MMB zajistit vypracování komplexního návrhu zadání koncesního řízení včetně
+podmínek a kritérií jejich hodnocení a tento návrh předložit Radě města Brna a následně
+Zastupitelstvu města Brna.
+T: bezodkladně"
+***
+úkol č. [R9/112/1b/13]
+zodpovídá: vedoucí OSRS,MO                  [3306,3224]
+termín: [viz usnesení]
+
+14. Úkol č. Z9/22/71/01
+Adresný záměr úplatného převodu spoluvlastnických podílů na pozemcích p. č. 1658/5 a p.č. 1658/6,
+
+                                                  7
+v k. ú. Černovice, pod bytovým domem č. p. 1191 v k.ú. Černovice, Brno, Bytovému družstvu
+Kneslova, družstvo
+
+***
+RMB ukládá vedoucí Bytového odboru MMB zajistit zveřejnění záměru úplatného převodu
+spoluvlastnických podílů statutárního města Brna na pozemcích p.č. 1658/5 a p.č. 1658/6 v k.ú.
+Černovice za cenu 573 575 Kč Družstvu;
+T: bezodkladně
+***
+úkol č. [R9/112/1b/14]
+zodpovídá: vedoucí BO               [3225]
+termín: [viz usnesení]
+
+15. Úkol č. Z9/22/71/02
+Adresný záměr úplatného převodu spoluvlastnických podílů na pozemcích p. č. 1658/5 a p.č. 1658/6,
+v k. ú. Černovice, pod bytovým domem č. p. 1191 v k.ú. Černovice, Brno, Bytovému družstvu
+Kneslova, družstvo
+
+***
+RMB ukládá vedoucí Bytového odboru MMB zajistit zpracování návrhu narovnání s Bytovým
+družstvem Kneslova, družstvo a nájemci-členy tohoto družstva v souladu s přijatým usnesením.
+T: bezodkladně
+***
+úkol č. [R9/112/1b/15]
+zodpovídá: vedoucí BO             [3225]
+termín: [viz usnesení]
+
+Schváleno jednomyslně 8 členy.
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro      nepř.      pro         pro        pro          pro        nepř.       pro          -----
+
+
+
+
+1c. Stanovení odměny řediteli Základní školy, Brno, Košinova 22, příspěvkové organizace, za
+realizaci projektu Ministerstva školství, mládeže a tělovýchovy Podpora rovných příležitostí
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna schvaluje odměnu řediteli Základní školy, Brno, Košinova 22, příspěvkové
+organizace, Borisi Mičánkovi, za realizaci projektu Ministerstva školství, mládeže a tělovýchovy
+Podpora rovných příležitostí (Výzva Ministerstva školství, mládeže a tělovýchovy k předkládání
+žádostí o poskytnutí dotace z Národního plánu obnovy na podporu základních škol s nadprůměrným
+zastoupením sociálně znevýhodněných žáků; č. j.: MSMT-1179/2024-3), dle přílohy č. 2 tohoto
+zápisu. Ověřená příloha je uložena na Organizačním odboru MMB.
+
+Schváleno jednomyslně 8 členy.
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro      nepř.      pro         pro        pro          pro        nepř.       pro          -----
+
+                                                            8
+2. Oprava památníku "Obětem válek a násilí" v Brně-Černovicích (VH: CZE6203-34181) -
+souhlas s podáním žádosti o podporu
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna souhlasí s podáním žádosti o podporu z rozpočtu Ministerstva obrany ČR v rámci
+Výzvy k podání žádosti o dotaci na zabezpečení péče o válečné hroby městskou částí Brno-
+Černovice na projekt s názvem Oprava památníku "Obětem válek a násilí" v Brně-Černovicích (VH:
+CZE6203-34181).
+
+Schváleno jednomyslně 8 členy.
+
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro      nepř.      pro         pro        pro          pro        nepř.       pro          -----
+
+
+
+
+3. Rozhodnutí jediného akcionáře obchodní společnosti Veletrhy Brno, a.s. - investiční plán,
+Výstavba skladové haly, pro roky 2025-2027
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. bere na vědomí
+v působnosti valné hromady obchodní společnosti Veletrhy Brno, a.s., informace související s
+návrhem investičního plánu obchodní společnosti Veletrhy Brno, a.s., Výstavba skladové haly, pro
+roky 2025-2027.
+
+
+2. schvaluje
+v působnosti valné hromady obchodní společnosti Veletrhy Brno, a.s., investiční plán obchodní
+společnosti Veletrhy Brno, a.s., Výstavba skladové haly, pro roky 2025-2027, který tvoří přílohu č. 3
+tohoto zápisu. Ověřená příloha je uložena na Organizačním odboru MMB.
+
+
+3. pověřuje
+primátorku města Brna vydat rozhodnutí jediného akcionáře obchodní společnosti Veletrhy Brno, a.s.,
+v souladu s přijatým usnesením.
+
+Schváleno jednomyslně 8 členy.
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro      nepř.      pro         pro        pro          pro        nepř.       pro          -----
+
+                                                            9
+4. Rozhodnutí jediného akcionáře obchodní společnosti Brněnské komunikace a.s. - návrh
+změn v dozorčí radě společnosti v návaznosti na změnu stanov
+Bylo hlasováno po kratší rozpravě o doplněném návrhu usnesení.
+
+Rada města Brna
+
+1. odvolává
+v působnosti valné hromady obchodní společnosti Brněnské komunikace a.s.
+Mgr. Filipa Ledera
+Ing. Davida Trlla
+Ing. Jiřího Charváta
+Antonína Crhu
+Petra Bauera
+Ing. Hanu Stuchlík Kašpaříkovou
+z funkce člena dozorčí rady obchodní společnosti Brněnské komunikace a.s. dnem 31. 12. 2024;
+
+2. volí
+v působnosti valné hromady obchodní společnosti Brněnské komunikace a.s.
+- Mgr. Filip Leder, člen Zastupitelstva města Brna
+- Ing. David Trllo, člen Zastupitelstva města Brna
+- Ing. Jiří Charvát xxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx
+- Antonín Crha xxxxxxxxxxxxxxxxx xxxxxxxxxxxx xxxxxxxxxxxx
+- Petr Bauer, xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxx xxxxxxxxxxxxx
+- Lenka Vystrčilová xxxxxxxxxxxxx xxxxxxxxxxxxxxxx xxxxxxxxxxxx
+do funkce člena dozorčí rady obchodní společnosti Brněnské komunikace a.s. dnem 1. 1. 2025;
+
+3. pověřuje
+primátorku města Brna vydat rozhodnutí jediného akcionáře obchodní společnosti Brněnské
+komunikace a.s. v souladu s přijatým usnesením.
+
+Schváleno jednomyslně 8 členy.
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro      nepř.      pro         pro        pro          pro        nepř.       pro          -----
+
+
+
+
+5. Rozpočty na rok 2025 příspěvkových organizací zřízených městem Brnem
+Při projednávání bodu byli přítomni Ing. Jana Červencová, vedoucí Odboru rozpočtu a financování
+MMB. Bylo hlasováno po kratší rozpravě o stažení materiálu – pro hlasovalo jednomyslně 10 členů.
+
+
+
+
+                                                           10
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+6. Rozpočtová opatření v souvislosti s účelově přijatými transfery z rozpočtů ústřední nebo
+územní úrovně České republiky
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna schvaluje na základě usnesení Z9/13. Zastupitelstva města Brna, bod 14.4.D.4,
+rozpočtová opatření, týkající se účelově přijatých transferů z rozpočtů ústřední nebo územní úrovně
+České republiky, dle přílohy č. 4 tohoto zápisu. Ověřená příloha je uložena na Organizačním odboru
+MMB.
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+7. Zahraniční pracovní cesta do Tchaj-peje, Tchaj-wan, ve dnech 18. – 22. března 2025
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna schvaluje zahraniční pracovní cestu JUDr. PhDr. Martina Příborského, EMLE,
+člena Zastupitelstva města Brna, do Tchaj-peje, Tchaj-wan, ve dnech 18. – 22. března 2025 (a v době
+potřebné na cestu) za účelem účasti na „2025 Smart City Summit & Expo“.
+
+Schváleno jednomyslně 10 členy.
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+8. Veřejná zakázka malého rozsahu „Provádění stěhovacích prací pro Magistrát města Brna“ –
+výběr dodavatele a smlouva
+Bylo hlasováno bez rozpravy.
+
+
+                                                           11
+Rada města Brna
+
+1. vybírá
+u veřejné zakázky malého rozsahu na služby „Provádění stěhovacích prací pro Magistrát města Brna“
+k uzavření smlouvy dodavatele A + A RENAX, s.r.o., Přízová 3, 602 00 Brno, IČO 25568388.
+
+
+2. schvaluje
+smlouvu mezi statutárním městem Brnem a dodavatelem A + A RENAX, s.r.o., Přízová 3, 602 00
+Brno, IČO 25568388, která tvoří přílohu č. 5 tohoto zápisu. Ověřená příloha je uložena na
+Organizačním odboru MMB.
+
+
+3. pověřuje
+vedoucí Odboru vnitřních věcí MMB podpisem výše uvedené smlouvy
+
+***
+4. RMB ukládá vedoucí Odboru vnitřních věcí MMB zajistit uveřejnění smlouvy v registru smluv.
+T: do 30 dnů od jejího uzavření
+***
+úkol č. [R9/112/08]
+zodpovídá: OVV              [22]
+termín: [viz usnesení]
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+9. Souhlas zřizovatele Úrazové nemocnice v Brně s podáním žádosti o podporu v rámci výzvy
+„Podpora a zvyšování kvality preventivních screeningových programů II – kolorektální
+karcinom"
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna souhlasí s podáním žádosti o podporu v rámci výzvy „Podpora a zvyšování kvality
+preventivních screeningových programů II – kolorektální karcinom" příspěvkovou organizací města
+Brna - Úrazovou nemocnicí v Brně s tím, že žádost nepředpokládá finanční spoluúčast města Brna.
+
+Schváleno jednomyslně 10 členy.
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+                                                           12
+10. Poskytnutí individuální neinvestiční dotace organizaci Chorvatsko - český spolek, z.s. na
+projekt "Putovní výstava obrazů o Chorvatsku a vystoupení souboru Češka beseda Veliki i Mali
+Zdenci"- rozpočtové opatření
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. schvaluje
+     poskytnutí individuální neinvestiční dotace z rozpočtu města Brna Chorvatsko - českému
+        spolku, z.s., se sídlem Veslařská 3265/25c, Žabovřesky, 637 00 Brno, IČO 177 09 008 ve výši
+        40 tis. Kč na projekt "Putovní výstava obrazů o Chorvatsku a vystoupení souboru Češka
+        beseda Veliki i Mali Zdenci"
+     smlouvu o poskytnutí individuální neinvestiční dotace z rozpočtu města Brna Chorvatsko -
+        českému spolku, z.s., se sídlem Veslařská 3265/25c, Žabovřesky, 637 00 Brno, IČO 177 09
+        008 ve výši 40 tis. Kč na projekt "Putovní výstava obrazů o Chorvatsku a vystoupení souboru
+        Češka beseda Veliki i Mali Zdenci", která tvoří přílohu č. 6a tohoto zápisu
+     rozpočtové opatření dle tabulky, která tvoří přílohu č. 6b tohoto zápisu, z důvodu poskytnutí
+        individuální neinvestiční dotace z rozpočtu města Brna Chorvatsko - českému spolku, z.s., na
+        projekt "Putovní výstava obrazů o Chorvatsku a vystoupení souboru Češka beseda Veliki i
+        Mali Zdenci"
+
+2. pověřuje
+     vedoucího Odboru školství a mládeže Magistrátu města Brna podpisem této smlouvy.
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+11. Návrh na uzavření dodatku č. 2 ke smlouvě o poskytnutí individuální investiční dotace
+společnosti STAREZ - SPORT, a.s. na realizaci projektu „Rekonstrukce ledové plochy haly
+Rondo“
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. doporučuje
+Zastupitelstvu města Brna vzít na vědomí žádost společnosti STAREZ - SPORT, a.s., se sídlem
+Křídlovická 911/34, 603 00 Brno, IČO: 269 32 211 o uzavření dodatku ke Smlouvě o poskytnutí
+individuální investiční dotace z rozpočtu města Brna uzavřené dne 7. 5. 2024, č. smlouvy
+5124091717, na realizaci projektu „Rekonstrukce ledové plochy haly Rondo“ (dále jen „projekt“);
+
+
+2. doporučuje
+Zastupitelstvu města Brna schválit uzavření dodatku č. 2 ke Smlouvě o poskytnutí individuální
+investiční dotace z rozpočtu města Brna uzavřené dne 7. 5. 2024, č. smlouvy 5124091717, jehož
+předmětem je prodloužení období, kdy mohou vzniknout a být uhrazeny uznatelné náklady projektu a
+s tím související prodloužení termínu pro vyúčtování dotace o jeden rok;
+
+3. doporučuje
+
+
+                                                           13
+Zastupitelstvu města Brna pověřit vedoucího Odboru sportu Magistrátu města Brna podpisem tohoto
+dodatku.
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+12. Dodatek č. 1 ke Smlouvě o zajištění přepravy seniorů a těžce zdravotně postižených
+občanů
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. schvaluje
+Dodatek č. 1 ke smlouvě č. 7224170267 o zajištění přepravy seniorů a těžce zdravotně postižených
+občanů, uzavřené mezi statutárním městem Brnem a Dopravním podnikem města Brna, a. s., se
+sídlem Hlinky 64/151, Pisárky, 603 00 Brno, IČO: 25508881, který tvoří přílohu č. 31 tohoto zápisu.
+Ověřená příloha je uložena na Organizačním odboru MMB.
+
+
+2. pověřuje
+vedoucího Odboru sociální péče Magistrátu města Brna podpisem tohoto dodatku.
+
+Schváleno jednomyslně 10 členy.
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+13. Otevřená jednofázová soutěž o návrh „Náhrobek Milana Kundery“ – jmenování členů
+poroty
+Při projednávání bodu byli přítomni Mgr. Kateřina Vorlíčková, vedoucí Odboru kultury MMB a Mgr. Jiří
+Kučera, vedoucí 1. úseku MMB. Bylo hlasováno po kratší rozpravě o stažení materiálu – pro
+hlasovalo jednomyslně 10 členů.
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+                                                           14
+14. Prodej movitého majetku svěřeného k hospodaření Národnímu divadlu Brno, příspěvkové
+organizaci
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna souhlasí s prodejem movitého majetku svěřeného Národnímu divadlu Brno,
+příspěvkové organizaci, nákladního automobilu Renault Mascott, inv. číslo 432500, rok pořízení 2000,
+pořizovací cena 1 395 558 Kč, zůstatková cena 0,00 Kč, za maximální nabídnutou cenu 26 000 Kč
+včetně DPH.
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+15. Připomínky statutárního města Brna k projednání návrhu změny č. 4 územního plánu Česká
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna schvaluje připomínky statutárního města Brna k projednání návrhu změny č. 4
+územního plánu Česká, které tvoří přílohu č. 7 tohoto zápisu. Ověřená příloha je uložena na
+Organizačním odboru MMB.
+
+Schváleno jednomyslně 10 členy.
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+16. Souhlas se zpracováním investičního záměru na akci "Rekonstrukce Čestného pohřebiště
+spojeneckých vojsk a účastníků domácího odboje z období 2. světové války"
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna souhlasí se zpracováním investičního záměru na akci „Rekonstrukce Čestného
+pohřebiště spojeneckých vojsk a účastníků domácího odboje z období 2. světové války“.
+
+Schváleno jednomyslně 10 členy.
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+                                                           15
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+17. Souhlas se zpracováním investičního záměru na akci "Rekonstrukce cesty k hradu Špilberk
+z ul. Gorazdova"
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna souhlasí se zpracováním investičního záměru na akci "Rekonstrukce cesty k hradu
+Špilberk z ul. Gorazdova".
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+18. Akceptace žádostí o investiční dotace v rámci dotačního programu Podpora vytváření
+zelených střech
+Bylo hlasováno po kratší rozpravě o doplněném návrhu usnesení a úpravě v příloze.
+
+Rada města Brna uděluje
+- příslib, kterým akceptuje žádosti o dotaci v rámci dotačního programu "Podpora vytváření zelených
+střech" dle přílohy "Přehled podaných žádostí o dotaci v rámci dotačního programu Podpora vytváření
+zelených střech", která tvoří přílohu č. 8 tohoto zápisu, vyjma žádosti ZS 2024 052, Společenství
+vlastníků Šámalova 1822/12, 615 00 Brno, která nesplnila podmínky dle dotačního programu, a vyjma
+kapitálových obchodních společností. Ověřená příloha je uložena na Organizačním odboru MMB.
+
+Schváleno jednomyslně 10 členy.
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+19. Veřejná zakázka malého rozsahu "Volejbalové kurty Lužánky - oprava hřišť" - výběr
+dodavatele a smlouva
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. vybírá
+u veřejné zakázky malého rozsahu na stavební práce "Volejbalové kurty Lužánky - oprava hřišť" k
+
+                                                           16
+uzavření smlouvy dodavatele STAVOS PROFESSIONAL s.r.o., se sídlem Pražákova 1008/69, 639 00
+Brno, IČO: 11790041
+
+2. schvaluje
+smlouvu o dílo mezi statutárním městem Brnem a dodavatelem STAVOS PROFESSIONAL s.r.o., se
+sídlem Pražákova 1008/69, 639 00 Brno, IČO: 11790041, která tvoří přílohu č. 9 tohoto zápisu.
+Ověřená příloha je uložena na Organizačním odboru MMB.
+
+
+3. pověřuje
+vedoucího Odboru participace MMB podpisem výše uvedené smlouvy.
+
+
+Pro návrh usnesení hlasovalo 9 členů, nikdo nebyl proti, 1 člen se zdržel hlasování.
+
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        zdržel       pro        pro         pro          -----
+                                                                se
+
+
+
+
+20. Smlouva s Centrálou cestovního ruchu - Jižní Morava, z.s.p.o. o společném zadávání pro
+veřejné zakázky malého rozsahu na realizaci společné expozice města Brna a jižní Moravy na
+Holiday World & Region World v Praze a Caravaning Brno 2025
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. schvaluje
+smlouvu o společném zadávání mezi statutárním městem Brnem a Centrálou cestovního ruchu - Jižní
+Morava, z.s.p.o., se sídlem Radnická 365/2, 602 00 Brno, IČO: 75063638, za účelem jejich spojení do
+sdružení zadavatelů ve smyslu ustanovení § 7 zákona č. 134/2016 Sb., o zadávání veřejných
+zakázek, v platném znění, při zadávání dvou veřejných zakázek malého rozsahu na služby s názvem
+"Realizace společné expozice města Brna a jižní Moravy na veletrhu Holiday World & Region World v
+Praze v roce 2025" a „Realizace společné expozice města Brna a jižní Moravy na veletrhu
+Caravaning Brno 2025“, která tvoří přílohu č. 10 tohoto zápisu. Ověřená příloha je uložena na
+Organizačním odboru MMB.
+
+
+2. pověřuje
+vedoucího Kanceláře marketingu a cestovního ruchu MMB podpisem smlouvy.
+
+
+Schváleno jednomyslně 10 členy.
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+                                                           17
+21. Přesun finančních prostředků mezi Odborem kultury MMB a Odborem strategického
+rozvoje a spolupráce MMB, zajištění prostředků na úhradu faktur - rozpočtové opatření
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna schvaluje rozpočtové opatření dle tabulky, která tvoří přílohu č. 11 tohoto zápisu, za
+účelem zajištění prostředků na úhradu faktur.
+
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+22. Poskytnutí darů v rámci „Vánoční akce 2024“ probíhající na e-shopu městských služeb
+Brno iD
+Bylo hlasováno bez rozpravy včetně předloženého doplňku.
+
+Rada města Brna schvaluje poskytnutí darů městských služeb Brno iD v podobě:
+- 3 ks roční předplatní jízdenky (1 ks v kategorii děti/studenti, 1 ks v
+kategorii důchodci/inv.důchodci/65-70 a 1 ks v základní kategorii)
+- 3 ks dárkového poukazu na služby společnosti STAREZ – SPORT, a.s.
+- 3 ks dárkového poukazu na služby (jeden rodinný vstup) Zoo Brno a stanice zájmových činností,
+příspěvková organizace
+- 3 ks balíčku obsahujícího čtyři otevřené vstupenky na Hvězdárnu a planetárium Brno, příspěvková
+organizace
+
+uživatelům eshopu městských služeb BRNOID.CZ, jejichž seznam tvoří přílohu č. 12 tohoto zápisu.
+Ověřená příloha je uložena na Organizačním odboru MMB.
+
+
+Schváleno jednomyslně 10 členy.
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+23. Smlouva o vypořádání závazků ze smlouvy mezi statutárním městem Brnem a SNIP & CO,
+reklamní společností, spol. s r. o.
+
+                                                           18
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. schvaluje
+smlouvu o vypořádání závazků ze smlouvy mezi statutárním městem Brnem a SNIP & CO, reklamní
+společností, spol. s r. o., se sídlem Špitálka 113/41, Trnitá, 602 00 Brno, IČO: 46966234, která tvoří
+přílohu č. 13 tohoto zápisu. Ověřená příloha je uložena na Organizačním odboru MMB.
+
+
+2. pověřuje
+vedoucího Odboru strategického rozvoje a spolupráce MMB podpisem dohody o vypořádání závazků.
+
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+24. Bytové družstvo Ibsenka 91011 - výzva k úhradě náhrady škody
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. bere na vědomí
+žádost Bytového družstva Ibsenka 91011, se sídlem Ibsenova 123/10, 638 00 Brno, IČO 03804399
+(dále jen "Družstvo") o úhradu pohledávky ve výši 903 828 Kč, kterou Družstvo nárokuje po
+statutárním městu Brnu z titulu předsmluvní odpovědnosti v souvislosti s neúspěšným procesem
+privatizace bytového domu Ibsenova 9, 10, 11, Brno.
+
+
+2. neschvaluje
+- úhradu uplatněné náhrady škody v částce 903 828 Kč Družstvu z titulu předsmluvní odpovědnosti
+statutárního města Brna za nedokončený prodej bytového domu Ibsenova 9, 10, 11, Brno Družstvu,
+- mimosoudní jednání mezi statutárním městem Brnem a Družstvem o úhradě této pohledávky, např.
+poskytnutím slevy na nájemném jednotlivým členům Družstva v celkové výši odpovídající souhrnné
+výši této pohledávky.
+
+3. schvaluje
+návrh odpovědi Družstvu, právně zastoupeného xxxxxxxxx xxxxxxxxxxxxx, advokátem, který je
+přílohou č. 14 tohoto zápisu. Ověřená příloha je uložena na Organizačním odboru MMB.
+
+Schváleno jednomyslně 10 členy.
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+                                                           19
+25. Nadlimitní veřejná zakázka na služby „Zpracování projektové dokumentace a výkon
+autorského dozoru pro výstavbu v lokalitě ulice Terezy Novákové, k.ú. Řečkovice II. etapa“ -
+zahájení zadávacího řízení
+Bylo hlasováno po kratší rozpravě o doplněném návrhu usnesení.
+
+Rada města Brna
+
+1. schvaluje
+- zahájení zadávacího řízení veřejné zakázky na služby „Zpracování projektové dokumentace a výkon
+autorského dozoru pro výstavbu v lokalitě ulice Terezy Novákové, k.ú. Řečkovice II. etapa“ v
+nadlimitním režimu v souladu s ustanovením §56 zákona č. 134/2016 Sb., o zadávání veřejných
+zakázek, ve znění pozdějších předpisů (dále jen "zákon"), v otevřeném řízení
+- údaje obsažené ve formuláři "Oznámení o zahájení zadávacího řízení", který tvoří přílohu č. 15a
+tohoto zápisu,
+- zadávací podmínky této veřejné zakázky obsažené v zadávací dokumentaci dle přílohy č. 15b tohoto
+zápisu.
+
+Ověřené přílohy jsou uloženy na Organizačním odboru MMB.
+(Přílohy č. 2 a č. 3 Zadávací dokumentace jsou uloženy pro velký rozsah na Bytovém odboru MMB).
+
+
+2. souhlasí
+s přiměřeným prodloužením lhůty pro podání nabídek, nastanou-li skutečnosti podle §98 odst. 4 a 5
+zákona.
+
+
+***
+3. RMB ukládá vedoucí Bytového odboru MMB zajistit zpřístupnění obsahu nabídek a dále jejich
+kontrolu v souladu s ustanovením § 109 zákona
+T: po uplynutí lhůty pro podání nabídek
+***
+úkol č. [R9/112/25/01]
+zodpovídá: BO              [3225]
+termín: [viz usnesení]
+
+
+4. zřizuje
+Hodnoticí komisi, která je zároveň oprávněna posuzovat splnění požadavků na kvalifikaci účastníka
+zadávacího řízení ve složení:
+
+členové:
+- Ing. David Trllo, člen Zastupitelstva města Brna
+- Ing. Karin Podivinská, náměstkyně Rady města Brna
+- Petr Bořecký, člen Rady města Brna
+- JUDr. Iva Marešová, vedoucí Bytového odboru MMB
+- Ing. Jan Sponar, vedoucí Oddělení bytové výstavby a správy bytového fondu Bytového odboru MMB
+náhradníci:
+- JUDr. Michal Chládek, MBA, člen Zastupitelstva města Brna
+
+
+                                               20
+- Ing. arch. Petr Bořecký, člen Rady města Brna
+- Mgr. Marek Viskot, člen Zastupitelstva města Brna
+- Mgr. Eva Bartošová, vedoucí Právního oddělení Bytového odboru MMB
+- Ing. Alena Blatná, projektový manažer Bytového odboru MMB
+
+5. svěřuje
+v souladu s ustanovením § 102 odst. 3 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění
+pozdějších předpisů Bytovému odboru MMB pravomoc schválit změnu zadávací dokumentace na
+základě podaných žádostí o vysvětlení zadávací dokumentace s výjimkou změny kvalifikačních
+podmínek a hodnotících kritérií.
+
+
+6. pověřuje
+vedoucí Bytového odboru MMB:
+- jednáním za statutární město Brno u této veřejné zakázky
+- vysvětlením zadávací dokumentace včetně jejich změn vyjma kvalifikačních podmínek a hodnotících
+kritérií
+
+
+***
+7. RMB ukládá vedoucí Bytového odboru MMB zajistit prostřednictvím společnosti MT Legal s.r.o.,
+advokátní kancelář, Jana Babáka 2733/11, Královo Pole, 612 00 Brno, IČO: 283 05 043:
+- odeslání formuláře „Oznámení o zahájení zadávacího řízení“ k uveřejnění ve Věstníku veřejných
+zakázek a Úředním věstníku Evropské unie
+***
+úkol č. [R9/112/25/02]
+zodpovídá: BO            [3225]
+termín: [bezodkladně]
+
+***
+8. RMB ukládá vedoucí Bytového odboru MMB zajistit prostřednictvím společnosti MT Legal s.r.o.,
+advokátní kancelář, Jana Babáka 2733/11, Královo Pole, 612 00 Brno, IČO: 283 05 043:
+- uveřejnění zadávací dokumentace s výjimkou formuláře „Oznámení o zahájení zadávacího řízení“
+na profilu zadavatele.
+T: ode dne uveřejnění oznámení o zahájení zadávacího řízení
+***
+úkol č. [R9/112/25/03]
+zodpovídá: BO            [3225]
+termín: [viz usnesení]
+
+***
+9. RMB ukládá vedoucí Bytového odboru MMB zajistit prostřednictvím společnosti MT Legal s.r.o.,
+advokátní kancelář, Jana Babáka 2733/11, Královo Pole, 612 00 Brno, IČO: 283 05 043:
+- další náležitosti stanovené zákonem a prováděcími právními předpisy k tomuto zákonu
+***
+úkol č. [R9/112/25/04]
+zodpovídá: BO               [3225]
+termín: [viz usnesení]
+
+
+Schváleno jednomyslně 9 členy.
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      nepř.     pro       pro         pro        pro          pro        pro         pro          -----
+
+
+                                                           21
+26. Bytové domy Přízřenice - Smlouva o právu provést stavbu - napojení místní komunikace na
+silnice č. III/15281 a III/15278 ve vlastnictví Jihomoravského kraje
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. schvaluje
+Smlouvu o právu provést stavbu, jejímž předmětem je udělení souhlasu k vybudování nové místní
+komunikace a její napojení na silnice č. III/15281 a III/15278 v rámci výstavby Bytových domů
+Přízřenice na pozemcích p. č. 937 a 927 v k. ú. Přízřenice, uzavíranou mezi statutárním městem
+Brnem a Jihomoravským krajem se sídlem Žerotínovo náměstí 449/3, 601 82 Brno, IČO 70888337,
+která tvoří přílohu č. 16 tohoto zápisu. Ověřená příloha je uložena na Organizačním odboru MMB.
+
+
+2. pověřuje
+vedoucí Bytového odboru MMB podpisem Smlouvy o právu provést stavbu mezi statutárním městem
+Brnem a Jihomoravským krajem se sídlem Žerotínovo náměstí 449/3, 601 82 Brno, IČO 70888337.
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+27. Žádost městské části Brno-střed o udělení předchozího souhlasu Rady města Brna
+s uzavřením dodatku č. 1 k nájemní smlouvě o nájmu bytů v domě Bratislavská 40, Brno
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. bere na vědomí
+žádost městské části Brno-střed o udělení předchozího souhlasu Rady města Brna s uzavřením
+dodatku č. 1 k nájemní smlouvě týkající se rozšíření předmětu nájmu o byty č. 2 a č. 4 v domě
+Bratislavská 40, Brno, uzavřené s Armádou správy v České republice, z.s., IČO 40613411,
+Petržílkova 2565/23, Stodůlky, 158 00 Praha, a to dle čl. 3, odst. 6 Pravidel pronájmu bytů v domech
+majetku statutárního města Brna (dále jen „Pravidla“)
+
+2. uděluje
+městské části Brno-střed dle čl. 3, odst. 6 Pravidel předchozí souhlas s uzavřením dodatku č. 1
+k nájemní smlouvě týkající se rozšířením předmětu nájmu o byty č. 2 a č. 4 v domě Bratislavská 40,
+Brno, uzavřené se společností Armáda spásy v České republice, z. s., IČO 40613411, Petržílkova
+2565/23, Stodůlky, 158 00 Praha, za nájemné ve výši 589 415 Kč/rok s tím, že nájemné bude
+každoročně k 01.07. zvyšováno pronajímatelem o míru inflace vyjádřenou přírůstkem indexu
+spotřebitelských cen oznámenou Českým statistickým úřadem za předchozí kalendářní rok.
+
+Schváleno jednomyslně 10 členy.
+
+
+                                                           22
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+28. Uzavření nájemní smlouvy na pronájem sociálního bytu v domě Jabloňová 28, Brno,
+projekt "Programové zabydlování domácností v bytové nouzi metodou Critical Time
+Intervention a Implementace Městské nájemní agentury"
+Bylo hlasováno po kratší rozpravě o úpravě usnesení a změně v příloze.
+
+Rada města Brna
+
+1. bere na vědomí
+- skutečnost, že xxxxxxxxxxx xxxxxxxxxxx xxxxxxx, porušila Dohody o splátkách dluhu uzavřené dne
+01.08.2024 a 11.11.2024, které se staly splatnými a nesplnila podmínky pro prodloužení nájemní
+smlouvy stanovené usnesením Rady města Brna přijatým na R9/108 RMB schůzi konané dne
+27.11.2024,
+- žádost xxxxxxxxx xxxxxxxxxxxx o narovnání právního stavu k bytu ze dne 06.12.2024.
+
+2. schvaluje
+uzavření nájemní smlouvě na pronájem sociálního bytu č. xxx, o velikosti 2+kk, v domě Jabloňová
+28, Brno, s xxxxxxxxxx xxxxxxxxx xxxxxxx, na dobu určitou - 6 měsíců, za nájemné ve výši 94,10
+Kč/m2/měsíc, s tím, že nájemné bude každoročně k 01.07. upravováno o míru inflace vyhlášenou
+Českým statistickým úřadem, maximálně však do výše nájemného stanoveného dle nařízení vlády
+č. 146/2003 Sb., o použití prostředků Státního fondu rozvoje bydlení ke krytí části nákladů spojených
+s výstavbou bytů pro příjmově vymezené osoby, ve znění pozdějších předpisů (dále jen "nařízení
+vlády č. 146/2003 Sb." ), za podmínek, že xxxxxxxx xxxxxxxxxxxxx:
+
+       nebude před podpisem nájemní smlouvy dlužit na nájemném, úhradách za plnění
+        poskytovaná s užíváním bytu, vyúčtování služeb za rok 2023 ani na příslušenství,
+       nebude před podpisem nájemní smlouvy dlužit na bezdůvodném obohacení za užívání bytu
+        od 01.12.2024 do uzavření nájemní smlouvy,
+       ke dni uzavření dodatku k nájemní smlouvy na pronájem bytu bude splňovat podmínky dle
+        nařízení vlády č. 146/2003 Sb. a podmínky stanovené Pravidly pronájmu bytů v domech v
+        majetku statutárního města Brna,
+       doloží doklady k ověření splnění podmínek podle nařízení vlády č. 146/2003 Sb.,
+       na své náklady uhradí notářský zápis s doložkou vykonatelnosti.
+
+a to vše splní nejpozději do 31 .01.2025.
+K prodloužení doby nájmu bytu dojde pouze za podmínky, že xxxxxxx xxxxxxxxx bude splácet dluh
+vůči městské části Brno-střed z nájmu bytu č. x v domě Václavská 15 v Brně.
+
+Pro návrh usnesení hlasovalo 9 členů, nikdo nebyl proti, 1 člen se zdržel hlasování.
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+                                                           23
+  pro       pro      pro       pro       pro        zdržel      pro          pro        pro         pro          -----
+                                                      se
+
+
+
+
+29. Uzavření dodatku k nájemní smlouvě na pronájem sociálního bytu v domě Bratislavská 39,
+Brno
+Bylo hlasováno bez rozpravy o variantě A).
+
+Rada města Brna schvaluje
+uzavření dodatku k nájemní smlouvě na pronájem sociálního bytu č. x, o velikosti 1+kk, v domě
+Bratislavská 39, Brno, s xxxxxxxxxxx xxxxxxxxxx xxxxxxx, na dobu určitou – 6 měsíců, za nájemné ve
+výši 94,10 Kč/m2/měsíc, s tím, že nájemné bude každoročně k 01.07. upravováno o míru inflace
+vyhlášenou Českým statistickým úřadem za předchozí kalendářní rok, za podmínek stanovených
+Statutem sociálního bytu, který tvoří přílohu č. 1 Pravidel pronájmu bytů v domech v majetku
+statutárního města Brna, a dále za podmínky, že xxxxx xxxxxxxxxx:
+
+- přihlásí další osobu obývající uvedený byt správci domu k zálohám na služby spojené s užíváním
+bytu.
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+30. Přesun běžných a kapitálových výdajů v rámci rozpočtu Odboru správy majetku MMB,
+návrh rozpočtového opatření
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna schvaluje rozpočtové opatření dle tabulky, která tvoří přílohu č. 17 tohoto zápisu z
+důvodu nutnosti přesunu běžných a kapitálových výdajů v rámci rozpočtu Odboru správy majetku
+MMB.
+
+Schváleno jednomyslně 10 členy.
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+31. Veřejná zakázka malého rozsahu „Staňkova 47 v Brně - oprava střechy“ – žádost o
+uzavření dodatku ke smlouvě o dílo
+Bylo hlasováno bez rozpravy.
+
+                                                           24
+Rada města Brna
+
+1. bere na vědomí
+písemnosti dodavatele IDEA stavby s.r.o., Olomoucká 3419/9, Židenice, 618 00 Brno, IČO 19087225:
+
+       žádost ze dne 11. 12. 2024 o uzavření dodatku ke smlouvě o dílo na prodloužení termínu
+        plnění díla do 20. 1. 2025 a změnu předmětu plnění a ceny dle změnových listů;
+       písemnosti doručené dne 26. 11. 2024 – informace o zastavení provádění prací a dne 28. 11.
+        2024 - informace o zastavení provádění prací – zúžení na část stavby;
+
+
+skutečnost, že dodavatel nedoložil ke dni 11. 12. 2024 všechny potřebné dokumenty (odsouhlasené
+dozorem investora) nutné ke zpracování dodatku č. 2 ke smlouvě o dílo č. 6624054844 ze dne 2. 10.
+2024 mezi statutárním městem Brnem a dodavatelem IDEA stavby s.r.o., Olomoucká 3419/9,
+Židenice, 618 00 Brno, IČO 19087225, u veřejné zakázky malého rozsahu na stavební práce
+„Staňkova 47 v Brně - oprava střechy“;
+
+
+***
+2. RMB ukládá vedoucímu Odboru správy majetku MMB předložit materiál týkající se dalšího postupu
+u veřejné zakázky „Staňkova 47 v Brně - oprava střechy“.
+T: 31. 1. 2025
+***
+úkol č. [R9/112/31]
+zodpovídá: OSM            [3239]
+termín: [viz usnesení]
+
+Schváleno jednomyslně 10 členy.
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+32. Veřejná zakázka malého rozsahu „Tř. Kpt. Jaroše 24 v Brně - oprava uliční fasády a
+stavební úpravy sklepních prostor“ – žádost o prodloužení termínu dokončení díla, dílčí
+fakturaci, navýšení ceny díla a změnu díla
+Bylo hlasováno bez rozpravy společně s body 33-34.
+
+Rada města Brna
+
+1. bere na vědomí
+     žádost dodavatele PRIVILEG, spol. s r.o., Údolní 596/35, Brno-město, 602 00 Brno, IČO
+        47910976, o prodloužení termínu dokončení díla, dílčí fakturaci, navýšení ceny díla a změnu
+        díla;
+     skutečnost, že dodavatel nedoložil ke dni 11. 12. 2024 všechny potřebné dokumenty
+        (odsouhlasené dozorem investora) nutné ke zpracování dodatku č. 1 ke smlouvě o dílo č.
+        6624051093 ze dne 27. 2. 2024 mezi statutárním městem Brnem a dodavatelem PRIVILEG,
+        spol. s r.o., Údolní 596/35, Brno-město, 602 00 Brno, IČO 47910976, u veřejné zakázky
+        malého rozsahu na stavební práce „Tř. Kpt. Jaroše 24 v Brně - oprava uliční fasády a
+        stavební úpravy sklepních prostor“
+
+
+                                                           25
+***
+2. RMB ukládá vedoucímu Odboru správy majetku MMB předložit materiál týkající se dalšího postupu
+u veřejné zakázky „Tř. Kpt. Jaroše 24 v Brně - oprava uliční fasády a stavební úpravy sklepních
+prostor“.
+T: 31. 1. 2025
+***
+úkol č. [R9/112/08]
+zodpovídá: OSM            [3239]
+termín: [viz usnesení]
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+33. Veřejná zakázka malého rozsahu „Elektro přípojka TJ Favorit, Brno, Pisárky, ulice
+Bauerova“ – dodatek č. 1 ke smlouvě o dílo
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. bere na vědomí
+žádost dodavatele KYTLICA-elektro team s.r.o., Poděbradova 364/16, Královo Pole, 612 00 Brno,
+IČO 26914301, o snížení ceny díla a změnu předmětu díla;
+
+2. schvaluje
+dodatek č. 1 ke smlouvě o dílo č. 6624055106 ze dne 22. 10. 2024 mezi statutárním městem Brnem
+a dodavatelem KYTLICA-elektro team s.r.o., Poděbradova 364/16, Královo Pole, 612 00 Brno, IČO
+26914301, u veřejné zakázky malého rozsahu na stavební práce „Elektro přípojka TJ Favorit, Brno,
+Pisárky, ulice Bauerova“, který tvoří přílohu č. 18 tohoto zápisu. Ověřená příloha je uložena na
+Organizačním odboru MMB.
+
+
+3. pověřuje
+vedoucího Odboru správy majetku MMB podpisem dodatku č. 1 ke smlouvě o dílo č. 6624055106 ze
+dne 22. 10. 2024.
+
+Schváleno jednomyslně 10 členy.
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+                                                           26
+34. Veřejná zakázka malého rozsahu „Nádražní 10, Brno, oprava fasády, stavební práce“ –
+dodatek č. 1 ke smlouvě o dílo
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. bere na vědomí
+žádost dodavatele Iva Žilky, Durďákova 369/68, 613 00, Brno - Černá Pole, IČO 05583152, o
+prodloužení doby plnění a dílčí fakturaci;
+
+
+2. schvaluje
+dodatek č. 1 ke smlouvě o dílo č. 6624055500 ze dne 6. 11. 2024 mezi statutárním městem Brnem
+a dodavatelem Ivem Žilkou, Durďákova 369/68, 613 00, Brno - Černá Pole, IČO 05583152, u veřejné
+zakázky malého rozsahu na stavební práce „Nádražní 10, Brno, oprava fasády, stavební práce“, který
+tvoří přílohu č. 19 tohoto zápisu. Ověřená příloha je uložena na Organizačním odboru MMB.
+
+
+3. pověřuje
+vedoucího Odboru správy majetku MMB podpisem dodatku č. 1 ke smlouvě o dílo č. 6624055500 ze
+dne 6. 11. 2024.
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+35. Smlouvy o krátkodobém nájmu prostor v Křížové chodbě Nové radnice v Brně v roce 2025
+– mezinárodní nožířské výstavy
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. bere na vědomí
+žádosti společnosti Omega accessories, s.r.o., Nové sady 988/2, Staré Brno, 602 00 Brno, IČO
+05419000, o krátkodobý pronájem prostor Křížové chodby Nové radnice v Brně pro uspořádání 32.
+ročníku mezinárodní nožířské výstavy Brno Super 2025 a 22. ročníku mezinárodní nožířské výstavy
+Podzimní nože Brno 2025;
+
+2. schvaluje
+- uzavření smlouvy o krátkodobém nájmu prostor v Křížové chodbě Nové radnice v Brně, č. p. 196, na
+pozemcích p. č. 493, 498 a 503 v k. ú. Město Brno, ve dnech 21. 3. - 22. 3. 2025 mezi statutárním
+městem Brnem jako pronajímatelem a společností Omega accessories, s.r.o., Nové sady 988/2, Staré
+Brno, 602 00 Brno, IČO 05419000, jako nájemcem za účelem uspořádání 32. ročníku mezinárodní
+nožířské výstavy Brno Super 2025;
+Smlouva o krátkodobém nájmu tvoří přílohu č. 20a tohoto zápisu. Ověřená příloha je uložena na
+Organizačním odboru MMB.
+
+
+                                                           27
+- uzavření smlouvy o krátkodobém nájmu prostor v Křížové chodbě Nové radnice v Brně, č. p. 196, na
+pozemcích p. č. 493, 498 a 503 v k. ú. Město Brno, ve dnech 24. 10. – 25. 10. 2025 mezi statutárním
+městem Brnem jako pronajímatelem a společností Omega accessories, s.r.o., Nové sady 988/2, Staré
+Brno, 602 00 Brno, IČO 05419000, jako nájemcem za účelem uspořádání 22. ročníku mezinárodní
+nožířské výstavy Podzimní nože Brno 2025;
+Smlouva o krátkodobém nájmu tvoří přílohu č. 20b tohoto zápisu. Ověřená příloha je uložena na
+Organizačním odboru MMB.
+
+
+3. pověřuje
+vedoucího Odboru správy majetku MMB podpisem smluv o krátkodobém nájmu prostor.
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+36. Výpůjčka částí pozemků p. č. 1938/299 a 1938/301, vše v k. ú. Bystrc
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. bere na vědomí
+- žádost Armády spásy v České republice, z. s., se sídlem Petržílkova 2565/23, Stodůlky, 158 00
+Praha, IČO: 406 13 411 (dále jen „Armáda spásy“), vlastníka dočasné stavby nezapsané v katastru
+nemovitostí, postavené na částech pozemků ve vlastnictví statutárního města Brna p. č. 1938/299 a
+1938/301, vše v k. ú. Bystrc, doručenou dne 10. 10. 2024, ve věci výpůjčky částí těchto pozemků.
+
+- skutečnost, že již Z8/11. Zastupitelstvo města Brna na svém zasedání konaném dne 5. 11. 2019,
+bod 129, schválilo výpůjčku předmětných částí pozemků Armádě spásy na dobu 5 let, přičemž dne 6.
+1. 2020 byla s Armádou spásy uzavřena smlouva o výpůjčce č. 6319124530 a tato doba vyprší k datu
+6. 1. 2025.
+
+- skutečnost, že Armáda spásy v předmětné stavbě dlouhodobě poskytuje sociální službu
+registrovanou jako Nízkoprahové zařízení pro děti a mládež Centrum mládeže Jonáš.
+
+- skutečnost, že stavba ve vlastnictví Armády spásy, postavená na částech předmětných pozemků ve
+vlastnictví statutárního města Brna, je dočasná stavba, nezapsaná v katastru nemovitostí, jejíž doba
+trvání vypršela v roce 2011.
+
+
+2. schvaluje
+- výpůjčku částí pozemků:
+p. č. 1938/299 - ostatní plocha, jiná plocha, o výměře 5 m2 v k. ú. Bystrc
+p. č. 1938/301 - ostatní plocha, jiná plocha, o výměře 153 m2 v k. ú. Bystrc
+Armádě spásy v České republice, z. s. na dobu 5 let
+a za podmínek smlouvy o výpůjčce nemovitých věcí, která tvoří přílohu č. 21 tohoto zápisu. Ověřená
+příloha je uložena na Organizačním odboru MMB.
+
+
+                                                           28
+3. pověřuje
+- vedoucí Majetkového odboru MMB k podpisu smlouvy o výpůjčce nemovitých věcí.
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+37. Plnění cílů dle Územní energetické koncepce statutárního města Brna na období 2024-2028
+- další postup
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. bere na vědomí
+současný stav a možnosti dalšího postupu za účelem plnění cílů stanovených v rámci Územní
+energetické koncepce statutárního města Brna na období 2024 – 2028, jak jsou popsané v důvodové
+zprávě tohoto materiálu.
+
+
+***
+2. RMB ukládá vedoucímu Oddělení městské energetiky MMB zajistit
+- zpracování Akčního plánu k Územní energetické koncepci statutárního města Brna na období 2025
+– 2028
+- zpracování podkladů pro aktualizaci Akčního plánu pro udržitelnou energii a klima (SECAP)
+reflektující     poslední     vývoj    v     oblasti     energetiky     na      úrovni     SMB
+- zpracování rámcového materiálu za účelem veřejné prezentace aktuální pozice SMB v oblasti
+energetiky vč. jeho krátkodobých a střednědobých cílů a dlouhodobých          vizí v této oblasti
+- zpracování podkladů pro možnou aktualizaci městských dokumentů a předpisů za účelem podpory
+vytápění nových či stávajících budov ze SZTE a/nebo zamezení odpojování od SZTE v maximálně
+možném rozsahu.
+***
+úkol č. [R9/112/37/01]
+zodpovídá: OME              [3335]
+termín: [viz usnesení]
+
+
+***
+3. RMB ukládá vedoucímu Oddělení městské energetiky MMB vypracovat návrh aktualizace agendy
+Oddělení městské energetiky MMB vč. způsobu fungování a nezbytných změn v rámci interních
+předpisů a normativních dokumentů MMB.
+***
+úkol č. [R9/112/37/01]
+zodpovídá: OME             [3335]
+termín: [viz usnesení]
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                           29
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+38. Městské standardy v oblasti výstavby a rekonstrukce budov a posouzení možností
+realizace vhodných energetických opatření při výstavbě a následném provozování Janáčkova
+kulturního centra
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. bere na vědomí
+současný stav a možnosti dalšího postupu ve věci městských standardů v oblasti výstavby a
+rekonstrukce budov dle důvodové zprávy tohoto materiálu.
+
+***
+2. RMB ukládá vedoucímu Oddělení městské energetiky MMB zajistit zpracování komplexního
+Městského standardu energetiky a podkladů pro aktualizaci Standardů novostaveb bytových domů
+schválených pro výstavbu bydlení dle Strategie bydlení města Brna 2018 – 2030.
+***
+úkol č. [R9/112/38/01]
+zodpovídá: OME            [3335]
+termín: [bezodkladně]
+
+
+***
+3. RMB ukládá vedoucímu Oddělení městské energetiky MMB na základě projektové dokumentace
+pro provádění stavby zajistit posouzení a vyhodnocení možností realizace případných vhodných
+energetických opatření v rámci projektu „Janáčkovo kulturní centrum v Brně" a při jeho následném
+provozování.
+***
+úkol č. [R9/112/38/02]
+zodpovídá: OME              [3335]
+termín: [bezodkladně]
+
+Schváleno jednomyslně 10 členy.
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+39. Veřejná zakázka malého rozsahu „Školení a konzultace k novým verzím e-Spisu“ - výběr
+dodavatele a smlouva
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. vybírá
+
+                                                           30
+u veřejné zakázky malého rozsahu na služby „Školení a konzultace k novým verzím e-Spisu“
+k uzavření smlouvy dodavatele ICZ a.s., se sídlem Na hřebenech II 1718/10, Nusle, 140 00 Praha 4,
+IČO 25145444 a ICZ.DMS a.s., se sídlem Na hřebenech II 1718/10, Nusle, 140 00 Praha 4, IČO
+06696805.
+
+2. schvaluje
+smlouvu o poskytování služeb mezi statutárním městem Brnem a ICZ a.s., se sídlem Na hřebenech II
+1718/10, Nusle, 140 00 Praha 4, IČO 25145444 a ICZ.DMS a.s., se sídlem Na hřebenech II 1718/10,
+Nusle, 140 00 Praha 4, IČO 06696805, která tvoří přílohu č. 22 tohoto zápisu. Ověřená příloha je
+uložena na Organizačním odboru MMB.
+
+3. pověřuje
+vedoucího Odboru městské informatiky MMB podpisem této smlouvy.
+
+***
+4. RMB ukládá vedoucímu Odboru městské informatiky MMB zajistit uveřejnění uzavřené smlouvy na
+veřejnou zakázku v registru smluv.
+T: do 30 dnů od uzavření smlouvy
+***
+úkol č. [R9/112/39]
+zodpovídá: OME             [3335]
+termín: [viz usnesení]
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+40. Zjednodušené podlimitní řízení „Integrovaný systém strategické vizibility kritických služeb
+v reálném čase“ – vyloučení účastníka zadávacího řízení
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. vylučuje
+v souladu s § 48 odst. 2 písm. a) a § 48 odst. 4 zákona č. 134/2016 Sb., o zadávání veřejných
+zakázek, ve znění pozdějších předpisů, společnost K-net Technical International Group, s.r.o., se
+sídlem Antonínská 565/20, Veveří, 602 00 Brno, IČO 47916745, z další účasti v zadávacím řízení na
+podlimitní veřejnou zakázku na dodávky „Integrovaný systém strategické vizibility kritických služeb v
+reálném čase“ z důvodů uvedených v rozhodnutí o vyloučení účastníka.
+
+2. schvaluje
+text rozhodnutí o vyloučení účastníka zadávacího řízení K-net Technical International Group, s.r.o., se
+sídlem Antonínská 565/20, Veveří, 602 00 Brno, IČO 47916745, který tvoří přílohu č. 23 tohoto
+zápisu. Ověřená příloha je uložena na Organizačním odboru MMB.
+
+
+3. pověřuje
+vedoucího Odboru městské informatiky MMB podpisem rozhodnutí o vyloučení účastníka zadávacího
+řízení
+
+                                                           31
+***
+4. RMB ukládá vedoucímu Odboru městské informatiky MMB zajistit uveřejnění rozhodnutí o
+vyloučení účastníka zadávacího řízení na profilu zadavatele.
+***
+úkol č. [R9/112/40]
+zodpovídá: OMI           [23]
+termín: [bezodkladně]
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+  pro       pro      pro       pro       pro        Bc.
+                                                     pro        pro          pro        pro         pro          -----
+
+
+
+
+41. Souhlas se zpracováním investičního záměru na akci "Rolencova - rekonstrukce ulice"
+Bylo hlasováno bez rozpravy společně s bodem 42.
+
+Rada města Brna souhlasí se zpracováním investičního záměru na akci "Rolencova - rekonstrukce
+ulice".
+
+Schváleno jednomyslně 10 členy.
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+42. Souhlas se zpracováním investičního záměru na akci "Tvrdého - rekonstrukce uličního
+prostoru a komunikací"
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna souhlasí se zpracováním investičního záměru na akci "Tvrdého - rekonstrukce
+uličního prostoru a komunikací".
+
+Schváleno jednomyslně 10 členy.
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+                                                           32
+43. Veřejná zakázka malého rozsahu Technická studie „Kontaktní zóna VMO JIH“ - výběr
+dodavatele, smlouva
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. vybírá
+u veřejné zakázky malého rozsahu na služby Technická studie „Kontaktní zóna VMO JIH“ k uzavření
+smlouvy dodavatele knesl kynčl architekti s.r.o., se sídlem Šumavská 416/15, 602 00 Brno, IČO:
+47912481.
+
+2. schvaluje
+smlouvu o dílo mezi statutárním městem Brnem a společností knesl kynčl architekti s.r.o., se sídlem
+Šumavská 416/15, 602 00 Brno, IČO: 47912481, která tvoří přílohu č. 24 tohoto zápisu.
+Ověřená příloha je uložena na Organizačním odboru MMB.
+
+3. pověřuje
+vedoucího Odboru dopravy MMB podpisem smlouvy.
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+44. Rámcová dohoda o spolupráci při koordinaci, přípravě a realizaci záměru stavby "II/384
+Brno - Bystrc MÚK Kamenolom" - dodatek č. 1
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna schvaluje dodatek č. 1 k rámcové dohodě o spolupráci při koordinaci, přípravě a
+realizaci záměru stavby "II/384 Brno - Bystrc MÚK Kamenolom" uzavíraný mezi statutárním městem
+Brnem a Jihomoravským krajem, Žerotínovo náměstí 449/3, 602 00 Brno, IČO 708 88 337, který tvoří
+přílohu č. 25 tohoto zápisu. Ověřená příloha je uložena na Organizačním odboru MMB.
+
+Schváleno jednomyslně 10 členy.
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+                                                           33
+45. Nadlimitní veřejná zakázka na služby s názvem „Zpracování projektové dokumentace a
+výkon autorského dozoru pro stavbu FSIK – dočasná odstavná plocha pro autobusy a
+demolice rampy ÚAN Zvonařka“ - výběr dodavatele a smlouva
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. vybírá
+pro nadlimitní veřejnou zakázku na služby zadávanou v otevřeném řízení podle § 56 zákona č.
+134/2016 Sb., o zadávání veřejných zakázek (dále jen „zákon“) s názvem „Zpracování projektové
+dokumentace a výkon autorského dozoru pro stavbu FSIK – dočasná odstavná plocha pro autobusy a
+demolice rampy ÚAN Zvonařka“ následujícího účastníka zadávacího řízení:
+
+      SUDOP BRNO, spol. s r.o. se sídlem Kounicova 688/26, Veveří, 602 00 Brno, IČO: 44960417
+
+2. schvaluje
+smlouvu o zpracování projektové dokumentace a o výkonu autorského dozoru mezi statutárním
+městem Brnem a společností SUDOP BRNO, spol. s r.o. se sídlem Kounicova 688/26, Veveří, 602 00
+Brno, IČO: 44960417 na veřejnou zakázku s názvem „Zpracování projektové dokumentace a výkon
+autorského dozoru pro stavbu FSIK – dočasná odstavná plocha pro autobusy a demolice rampy ÚAN
+Zvonařka“ zadávanou v otevřeném řízení dle § 56 zákona, která tvoří přílohu č. 26a tohoto
+zápisu. Ověřená příloha je uložena na Organizačním odboru MMB.
+
+3. schvaluje
+udělení plné moci vybranému dodavateli dle první části usnesení k zajištění plnění předmětu veřejné
+zakázky s názvem „Zpracování projektové dokumentace a výkon autorského dozoru pro stavbu FSIK
+– dočasná odstavná plocha pro autobusy a demolice rampy ÚAN Zvonařka“ zadávanou v otevřeném
+řízení dle § 56 zákona, která tvoří přílohu č. 26b tohoto zápisu. Ověřená příloha je uložena na
+Organizačním odboru MMB.
+
+
+4. pověřuje
+vedoucího Odboru investičního MMB bezodkladně po uplynutí lhůty zákazu uzavřít smlouvu podle §
+246 zákona podpisem smlouvy o zpracování projektové dokumentace a o výkonu autorského dozoru.
+
+5. pověřuje
+vedoucího Odboru investičního MMB po uzavření smlouvy podpisem plné moci dle třetí části tohoto
+usnesení jménem statutárního města Brna.
+T: bezodkladně
+
+***
+6. RMB ukládá vedoucímu Odboru investičního MMB zajistit prostřednictvím společnosti MT Legal
+s.r.o., advokátní kancelář, se sídlem Jana Babáka 2733/11, Královo Pole, 612 00 Brno, IČO:
+28305043:
+- odeslání oznámení o výběru účastníkovi zadávacího řízení.
+***
+úkol č. [R9/112/45/01]
+zodpovídá: OI           [14]
+termín: [bezodkladně]
+
+***
+7. RMB ukládá vedoucímu Odboru investičního MMB zajistit prostřednictvím společnosti MT Legal
+s.r.o., advokátní kancelář, se sídlem Jana Babáka 2733/11, Královo Pole, 612 00 Brno, IČO:
+28305043:
+- odeslání formuláře „Oznámení o výsledku zadávacího řízení" k uveřejnění ve Věstníku veřejných
+ zakázek a Úředním věstníku Evropské unie.
+T: do 30 dnů od uzavření výše uvedené smlouvy
+
+                                                34
+***
+úkol č. [R9/112/45/02]
+zodpovídá: OI              [14]
+termín: [bezodkladně]
+
+***
+8. RMB ukládá vedoucímu Odboru investičního MMB zajistit prostřednictvím společnosti MT Legal
+s.r.o., advokátní kancelář, se sídlem Jana Babáka 2733/11, Královo Pole, 612 00 Brno, IČO:
+28305043:
+- zveřejnění písemné zprávy na profilu zadavatele.
+T: 30 pracovních dnů od ukončení zadávacího řízení
+***
+úkol č. [R9/112/45/03]
+zodpovídá: OI           [14]
+termín: [bezodkladně]
+
+***
+9. RMB ukládá vedoucímu Odboru investičního MMB zajistit prostřednictvím společnosti MT Legal
+s.r.o., advokátní kancelář, se sídlem Jana Babáka 2733/11, Královo Pole, 612 00 Brno, IČO:
+28305043:
+- uveřejnění hypertextového odkazu na smlouvu uveřejněnou v registru smluv na profilu zadavatele.
+T: do 30 dnů od jejího uzavření
+***
+úkol č. [R9/112/45/04]
+zodpovídá: OI            [14]
+termín: [bezodkladně]
+
+***
+10. RMB ukládá vedoucímu Odboru investičního MMB zajistit prostřednictvím společnosti MT Legal
+s.r.o., advokátní kancelář, se sídlem Jana Babáka 2733/11, Královo Pole, 612 00 Brno, IČO:
+28305043:
+další náležitosti stanovené zákonem a prováděcími právními předpisy k tomuto zákonu.
+***
+úkol č. [R9/112/45/01]
+zodpovídá: OI             [15]
+termín: [bezodkladně]
+
+Schváleno jednomyslně 10 členy.
+                                                                                                        Matonohová
+                                           Podivinská
+
+
+
+
+                                                                                           Kratochvíl
+                                                                    Ing. arch.
+  Vaňková
+
+
+
+
+                                                                    Bořecký
+
+
+
+                                                                                 Bořecký
+                    Chvátal
+
+
+
+                                  Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                                  JUDr.
+
+
+
+
+                                                                                                        JUDr.
+
+
+                                                                                                                     JUDr.
+                    Ph.D.
+
+
+
+
+                                                        Aberl
+
+
+
+
+                                                                                                                     Oliva
+            Mgr.
+
+
+
+
+                                                                                 Petr
+                                           Ing.
+
+
+
+
+                                                                                           Ing.
+                                                        Bc.
+
+
+
+
+  pro       pro      pro           pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+46. Podlimitní veřejná zakázka na stavební práce „Zoo Brno - rozšíření výběhu ledního
+medvěda“ - výzva k podání nabídek
+Bylo hlasováno po kratší rozpravě o doplněném návrhu usnesení.
+
+Rada města Brna
+
+1. schvaluje
+výzvu k podání nabídek podle § 53 odst. 1 zákona č. 134/2016 Sb., o zadávání veřejných zakázek, ve
+
+                                                               35
+znění pozdějších předpisů (dále jen "zákon") na podlimitní veřejnou zakázku na stavební práce "Zoo
+Brno - rozšíření výběhu ledního medvěda", která zároveň obsahuje zadávací podmínky této veřejné
+zakázky. Výzva       k    podání     nabídek     tvoří    přílohu    č.   27     tohoto     zápisu.
+Ověřená příloha je uložena na Organizačním odboru MMB s výjimkou přílohy č. 2 výzvy k podání
+nabídek, která je uložena z důvodu velkého rozsahu na Odboru investičním MMB.
+
+2. souhlasí
+s přiměřeným prodloužením lhůty pro podání nabídek, nastanou-li skutečnosti podle § 98 zákona.
+
+3. svěřuje
+v souladu s ustanovením § 102 odst. 3 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění
+pozdějších předpisů Odboru investičnímu MMB pravomoc rozhodnout:
+
+      o změně zadávacích podmínek v návaznosti na žádost o vysvětlení s výjimkou změny
+       technické kvalifikace a hodnotících kritérií,
+      jménem statutárního města Brna o námitkách u veřejné zakázky „Zoo Brno - rozšíření výběhu
+       ledního medvěda“ v souladu s ustanovením § 245 zákona.
+
+4. zřizuje
+hodnotící komisi, která bude zároveň oprávněna posuzovat kvalifikaci, ve složení:
+členové:
+1. RNDr. Filip Chvátal, Ph.D., náměstek primátorky
+2. Bc. Tomáš Aberl, člen Rady města Brna
+3. Ing. Karel Vlček, vedoucí Oddělní přípravy a realizace pozemních staveb Odboru investičního MMB
+4. Mgr. Radana Dungelová, ředitelka Zoo Brno
+5. Mgr. Šárka Bohuslavová, právník Odboru investičního MMB
+6. Mgr. Pavla Linhartová Malá, investiční manažer účelové výstavby Odboru investičního MMB
+
+náhradníci:
+1. Bc. Jakub Hruška, člen Zastupitelstva města Brna
+2. Ing. Pavel Kříž, Ph.D., člen Zastupitelstva města Brna
+3. Ing. Dagmar Kovaříková Průchová, investiční manažer účelové výstavby Odboru investičního MMB
+4. Ing. Miroslav Janota, vedoucí technického úseku Zoo Brno
+5. Mgr. Bc. Barbora Koudelková, právník Odboru investičního MMB
+6. Ing. Jiřina Versteegh, investiční manažer účelové výstavby Odboru investičního MMB
+
+5. stanoví
+oprávnění hodnotící komise, která bude zároveň oprávněna posuzovat kvalifikaci, jednat a usnášet
+se, jsou-li přítomny nejméně tři pětiny členů nebo náhradníků. Komise rozhoduje většinou hlasů
+přítomných členů nebo náhradníků.
+
+***
+6. RMB ukládá vedoucímu Odboru investičního MMB zajistit:
+- uveřejnění zadávací dokumentace včetně výzvy na profilu zadavatele
+- další náležitosti stanovené zákonem a prováděcími právními předpisy k tomuto zákonu
+***
+úkol č. [R9/112/46]
+zodpovídá: OI              [14]
+termín: [bezodkladně]
+
+
+7. pověřuje
+vedoucího Odboru investičního MMB
+
+      podpisem rozhodnutí o námitkách u veřejné zakázky "Zoo Brno - rozšíření výběhu ledního
+       medvěda" v souladu s ustanovením § 245 zákona
+
+Schváleno jednomyslně 10 členy.
+
+                                                36
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+47. Smlouva o budoucí smlouvě o zřízení věcného břemene k pozemku p.č. 177/3 v k.ú. Pisárky
+se společností GasNet, s.r.o.
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. schvaluje
+smlouvu o budoucí smlouvě o zřízení věcného břemene pro stavbu „STL plynovod a přípojky pro
+Multifunkční sportovní a kulturní pavilon“ mezi statutárním městem Brnem, jako budoucím povinným
+a společností GasNet, s.r.o., Klíšská 940/96, Klíše, 400 01 Ústí nad Labem, IČO 27295567, jako
+budoucím oprávněným, která spočívá v právu zřídit a provozovat na pozemku p.č. 177/3 v k.ú.
+Pisárky plynárenské zařízení a v právu vstupovat a vjíždět na tento pozemek v souvislosti
+se zřizováním, stavebními úpravami, opravami, provozováním a odstraněním plynárenského zařízení,
+která tvoří přílohu č. 28 tohoto zápisu. Ověřená příloha je uložena na Organizačním odboru MMB.
+
+
+2. pověřuje
+vedoucího Odboru investičního MMB podpisem smlouvy o budoucí smlouvě o zřízení věcného
+břemene.
+
+Schváleno jednomyslně 10 členy.                                                                     Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+48. Nadlimitní veřejná zakázka na stavební práce "Brno, Dřevařská – rekonstrukce kanalizace a
+vodovodu" - změna závazku, dodatek č. 3
+Bylo hlasováno po kratší rozpravě a úpravě v příloze.
+
+Rada města Brna
+
+1. schvaluje
+změnu závazku u nadlimitní veřejné zakázky na stavební práce „Brno, Dřevařská – rekonstrukce
+kanalizace a vodovodu" zadané v užším řízení podle § 58 zákona č. 134/2016 Sb., o zadávání
+veřejných zakázek, ve znění pozdějších předpisů (dále jen „zákon“), a to dle ustanovení § 222 odst. 6
+zákona.
+
+2. schvaluje
+dodatek č. 3 ke smlouvě o dílo mezi statutárním městem Brnem a společností FIRESTA-Fišer,
+rekonstrukce, stavby a.s., sídlem Mlýnská 388/68, Trnitá, 602 00 Brno, IČO: 25317628, společností
+Dopravní stavby Brno, s.r.o., sídlem Trnkova 2617/150, Líšeň, 628 00 Brno, IČO: 45474281 a
+
+
+                                                           37
+společností PORR a.s., sídlem Dubečská 3238/36, Strašnice, 100 00 Praha 10, IČO: 43005560,
+jakožto společníky společnosti s názvem "Společnost DŘEVAŘSKÁ", který tvoří přílohu č. 29 tohoto
+zápisu. Ověřená příloha je uložena na Organizačním odboru MMB.
+
+3. pověřuje
+vedoucího Odboru dopravy MMB a vedoucího Odboru investičního MMB podpisem dodatku č. 3 ke
+smlouvě o dílo.
+
+***
+4. RMB ukládá vedoucímu Odboru investičního MMB zajistit uveřejnění dodatku č. 3 ke smlouvě o
+dílo v registru smluv.
+T: do 30 dnů od uzavření dodatku č. 3
+***
+úkol č. [R9/112/48]
+zodpovídá: OI           [14]
+termín: [viz usnesení]
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+49. Dohoda o ukončení smlouvy o nájmu Městského fotbalového stadionu na adrese Srbská
+47a, Brno, a záměr provozování fotbalového stadionu společností STAREZ – SPORT, a. s.
+Bylo hlasováno bez rozpravy.
+
+Rada města Brna
+
+1. schvaluje
+Dohodu o ukončení smlouvy o nájmu Městského fotbalového stadionu na adrese Srbská 47a, Brno, č.
+74012024 uzavřené dne 7. 10. 2001, ve znění jejich dodatků, mezi statutárním městem Brnem jako
+pronajímatelem a společností FC ZBROJOVKA BRNO, a.s., Srbská 2838/47a, 612 00 Brno, IČO: 253
+32 457 jako nájemcem, ke dni 30. 6. 2024, a to za splnění níže uvedených podmínek:
+
+       statutární město Brno do 31. 5. 2025 uzavře se společností STAREZ – SPORT, a.s., se
+        sídlem Křídlovická 911/34, Staré Brno, 603 00 Brno, IČO: 269 32 211 novou smlouvu o
+        provozování s účinností ke dni 1. 7. 2025, jejímž předmětem bude správa a provoz
+        Městského fotbalového stadionu na adrese Srbská 47a, Brno ve prospěch společnosti
+        STAREZ; a současně
+       společnost STAREZ – SPORT, a.s. uzavře do 31. 5. 2025 s FC ZBROJOVKA BRNO, a.s.
+        smlouvu s účinností ke dni 1. 7. 2025, jejímž předmětem bude užívání Městského fotbalového
+        stadionu na adrese Srbská 47a, Brno ve prospěch FC ZBROJOVKA BRNO, a.s..
+
+Dohoda tvoří přílohu č. 30 tohoto zápisu. Ověřená příloha je uložena na Organizačním odboru MMB.
+
+
+2. souhlasí
+se záměrem provozování Městského fotbalového stadionu na adrese Srbská 47a, Brno společností
+
+
+                                                           38
+STAREZ–SPORT, a. s., od 1. 7. 2025.
+
+3. pověřuje
+vedoucího Odboru sportu MMB podpisem dohody o ukončení smlouvy o nájmu.
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+50. Rozhodnutí jediného akcionáře obchodní společnosti STAREZ - SPORT, a.s. - změna v
+představenstvu
+Bylo hlasováno po kratší rozpravě a úpravě usnesení.
+
+Rada města Brna
+
+1. bere na vědomí
+v působnosti valné hromady obchodní společnosti STAREZ - SPORT, a.s. odstoupení Libora
+Zábranského z funkce člena představenstva obchodní společnosti STAREZ - SPORT, a.s. ze dne
+16. 12. 2024.
+
+2. schvaluje
+v působnosti valné hromady obchodní společnosti STAREZ - SPORT, a.s. zánik funkce v souladu s
+ustanovením § 58 odst. 3 zákona č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon o
+obchodních korporacích), ve znění pozdějších předpisů, na základě žádosti odstupujícího člena
+představenstva Libora Zábranského dnem 18. 12. 2024;
+
+3. pověřuje
+Primátorku města Brna vydat rozhodnutí jediného akcionáře obchodní společnosti STAREZ –
+SPORT,
+a. s., v souladu s přijatým usnesením.
+
+4. pověřuje
+primátorku města Brna vydat rozhodnutí jediného akcionáře obchodní společnosti                                           STAREZ -
+SPORT, a.s., v souladu s přijatým usnesením.
+
+Schváleno jednomyslně 10 členy.
+                                                                                                    Matonohová
+                                       Podivinská
+
+
+
+
+                                                                                       Kratochvíl
+                                                                Ing. arch.
+  Vaňková
+
+
+
+
+                                                                Bořecký
+
+
+
+                                                                             Bořecký
+                    Chvátal
+
+
+
+                              Kerndl
+                    RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                              JUDr.
+
+
+
+
+                                                                                                    JUDr.
+
+
+                                                                                                                 JUDr.
+                    Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                                 Oliva
+            Mgr.
+
+
+
+
+                                                                             Petr
+                                       Ing.
+
+
+
+
+                                                                                       Ing.
+                                                    Bc.
+
+
+
+
+  pro       pro      pro       pro       pro         pro        pro          pro        pro         pro          -----
+
+
+
+
+                                                           39
+JUDr. Markéta Vaňková v. r.           Mgr. René Černý v. r.
+      primátorka                   1. náměstek primátorky
+
+
+
+Ověřovatelé:
+Petr Bořecký v. r.
+Bc. Tomáš Aberl v. r.
+
+
+
+
+V Brně dne 18. 12. 2024
+Zapsala: Lenka Kadlecová
+
+
+
+
+                              40
+

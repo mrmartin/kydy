@@ -1,0 +1,133 @@
+Rada města Brna
+
+Z9/05. zasedání Zastupitelstva města Brna
+konané dne 28.2.2023
+
+
+
+      12. Aktualizace rozpočtu Odboru městské informatiky MMB –
+                únor 2023 – návrh rozpočtového opatření
+
+Anotace
+Odbor městské informatiky MMB předkládá orgánům města Brna návrh rozpočtového opatření, jehož
+důvodem je realizace veřejné zakázky „Pořízení 3D modelu budov pro území statutárního města Brna –
+fáze IV “. 3D model budov je nepostradatelným podkladem pro projekční činnost a procesy územního
+plánování. Je vhodným a důležitým podkladem při rozhodovacích procesech, souvisejících s vlivem
+navržených stavebních objektů na stávající zástavbu.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   rozpočtové opatření dle tabulky, která tvoří přílohu č. ..... tohoto zápisu, z důvodu
+                               zapojení Fondu rezerv a rozvoje v souvislosti se zajištěním finančních prostředků na
+                               financování předmětu plnění veřejné zakázky „Pořízení 3D modelu budov pro území
+                               statutárního města Brna – fáze IV“.
+
+
+
+Stanoviska
+
+Finanční výbor ZMB projedná materiál na svém zasedání dne 22. 02. 2023.
+Rada města Brna projedná materiál na své schůzi R9/020 konané dne 22. 02. 2023.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. David Menšík
+  vedoucí odboru - Odbor městské informatiky
+  20.2.2023 v 16:41
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  21.2.2023 v 12:00
+
+
+
+
+Sestava vytvořena 21.2.2023 v 12:58                           1/1                              Vygenerováno programem eMMB
+
+
+                                                                                                               Strana 1 / 4
+                                 Obsah materiálu
+Návrh usnesení                                              1-1
+Obsah materiálu                                             2-2
+Důvodová zpráva                                             3-3
+Příloha k usnesení (RO Navýšení rozpočtu OMI_2023_3D.pdf)   4-4
+
+
+
+
+                                                             Strana 2 / 4
+                                          Důvodová zpráva:
+
+Odbor městské informatiky MMB předkládá orgánům města Brna návrh rozpočtového opatření, jehož
+důvodem je realizace veřejné zakázky „Pořízení 3D modelu budov pro území statutárního města Brna
+– fáze IV “.
+
+3D model budov je nepostradatelným podkladem pro projekční činnost a procesy územního plánování.
+Je vhodným a důležitým podkladem při rozhodovacích procesech, souvisejících s vlivem navržených
+stavebních objektů na stávající zástavbu (zhodnocení panoramat, výškových poměrů, průhledů, dopadů
+na chráněné pohledy, památkovou péči, zastínění atd.). 3D model budov se dá využít při různých
+analýzách, např. pro šíření hluku, zjištění dopadů lidské činnosti na životní prostředí nebo při sledování
+šíření znečištění vzduchu. Je významnou datovou sadou i pro širokou veřejnost a v rámci otevřených
+dat jej není možné ničím nahradit.
+
+V roce 2020 bylo na základě požadavků odborných útvarů rozhodnuto o pořízení nového 3D modelu
+budov v detailu, který odpovídá potřebám dnešní doby. Jedná se zejména o skutečné výšky říms,
+dohodnuté podrobnosti na střechách vymodelovaných v reálném tvaru i další prvky, které jsou pro práci
+s modelem důležité. V letech 2020 - 2022 byl v každém roce postupně pořizován 3D model budov té
+části města, která odpovídala prioritám stanoveným odbornými útvary MMB, tedy od městské
+památkové rezervace v centru směrem k okrajovým částem města. Na rok 2023 je naplánována čtvrtá
+a zároveň poslední fáze projektu na vytvoření 3D modelu budov města Brna v dohodnuté podrobnosti
+zpracování.
+Odbor městské informatiky vypsal podlimitní veřejnou zakázku na pořízení 3D modelu budov na těch
+částech území města Brna, které v předcházejících fázích nebyly těmito daty pokryty. Jejím úspěšným
+dokončením bude završen celoměstský projekt. Vzhledem k tomu, že výsledná datová sada bude
+zavedena do majetku, je potřeba realizovat rozpočtové opatření, které zajistí, že platbu za dokončenou
+čtvrtou fázi projektu bude možné uhradit z investičních prostředků.
+
+Z těchto důvodů OMI předkládá tabulku rozpočtového opatření, které je nezbytně nutné k zajištění
+finančních prostředků na financování předmětu plnění veřejné zakázky „Pořízení 3D modelu budov pro
+území statutárního města Brna – fáze IV “. Rozpočtovým opatřením budou převedeny potřebné finanční
+prostředky ve výši 5.445 tis. Kč z Fondu rezerv a rozvoje – rezervy na vykrytí potřeb roku 2023 do
+rozpočtu OMI na § 6171 – Činnost místní správy a akci 2359 GIS datové sady.
+
+
+Finanční výbor ZMB projedná materiál na svém zasedání dne 22. 02. 2023.
+
+Rada města Brna projedná materiál na své schůzi R9/020 konané dne 22. 02. 2023.
+
+Materiál nepodléhá projednání v komisích Rady města Brna.
+
+
+
+
+                                                                                                      Strana 3 / 4
+                                                    Rozpočtové opatření
+                                                                                                                                 v tis. Kč
+Kapitálové výdaje - zvýšení
+ ORJ      §     pol.    ÚZ    ORG                       Věcná náplň                         Upravený rozpočet       Úprava       Rozpočet
+                                                                                               k 14.2.2023        rozpočtu + -   po změně
+  5300 6171      6119         2359   GIS datové sady                                                            0        5 445         5 445
+
+Financování - zvýšení
+ ORJ     §      pol.    ÚZ    ORG                       Věcná náplň                           Upr. rozpočet       Úprava         Rozpočet
+                                                                                               k 14.2.2023      rozpočtu + -     po změně
+  1700           8115                Zapojení Fondu rezerv a rozvoje - rezervy na vykrytí              -654 626        5 445        -649 181
+                                     potřeb roku 2023
+
+
+
+
+                                                                                                                                       Strana 4 / 4
+

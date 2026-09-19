@@ -1,0 +1,202 @@
+Rada města Brna
+
+Z9/29. zasedání Zastupitelstva města Brna
+konané dne 14.10.2025
+
+
+
+   24. Návrh rozpočtového opatření – aktualizace očekávaného
+čerpání rozpočtu kapitálových výdajů Odboru městské informatiky
+                        MMB v roce 2025
+
+Anotace
+Finanční náklady se týkají budování centrálního systému Log managementu SMB. Aktivity v tomto
+projektu se zaměřují primárně na zabezpečení informačních systémů v prostředí SMB. Ve fázi rozvoje,
+ve které se projekt nachází, je naplánováno postupné připojování zdrojů logů z informačních systémů
+městských částí, městských firem a organizací. Harmonogram těchto aktivit je zpracováván Kanceláří
+kybernetické bezpečnosti MMB.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   rozpočtové opatření dle tabulky, na základě navržené aktualizace rozpočtu
+                               kapitálových výdajů Odboru městské informatiky MMB v roce 2025, které tvoří
+                               přílohu č. … tohoto zápisu.
+
+
+
+Stanoviska
+
+Finanční výbor ZMB projedná materiál na svém zasedání dne 8. 10. 2025.
+Rada města Brna projednala materiál na své schůzi R9/146 konané dne 1. 10. 2025
+a doporučila ZMB ke schválení.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. David Menšík
+  vedoucí odboru - Odbor městské informatiky
+  6.10.2025 v 13:25
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  7.10.2025 v 08:06
+
+
+
+Sestava vytvořena 7.10.2025 v 08:06                         1/1                            Vygenerováno programem eMMB
+
+
+                                                                                                           Strana 1 / 4
+                               Obsah materiálu
+Návrh usnesení                                           1-1
+Obsah materiálu                                          2-2
+Důvodová zpráva                                          3-3
+Příloha k usnesení (13_RO_09_09_2025_RMB_3D Model.pdf)   4-4
+
+
+
+
+                                                          Strana 2 / 4
+                                     Důvodová zpráva ZMB:
+
+  Odbor městské informatiky MMB předkládá orgánům města Brna návrh rozpočtového opatření,
+  jehož předmětem je návrh aktualizace rozpočtu kapitálových výdajů Odboru městské informatiky
+  MMB v roce 2025.
+
+  Na základě uzavřené smlouvy o vybudování centrálního systému Log managementu
+  č. 5322170025 uzavřenou s dodavatelem AXENTA a.s. se postupně plní cíle projektu „Log
+  management statutárního města Brna“. Aktivity v tomto projektu se zaměřují primárně na
+  zabezpečení informačních systémů v prostředí statutárního města Brna. Ve fázi rozvoje, ve které
+  se projekt nachází, je naplánováno postupné připojování zdrojů logů z informačních systémů
+  městských částí, městských firem a organizací. Harmonogram těchto aktivit, který je zpracováván
+  Kanceláří kybernetické bezpečnosti MMB, je závislý na úspěšnosti jednání s dotčenými stranami.
+  Aktivní zájem projevily společnosti Veletrhy Brno, a.s. a STAREZ – SPORT, a.s. V současné době
+  probíhá zpřesňování zadání pro městské části a Veletrhy Brno, a.s.
+
+  Z výše uvedeného je zřejmé, že plánování finančních prostředků do určitého období je přímo
+  závislé na aktivitě subjektů mimo Odbor městské informatiky MMB, a je tedy velmi obtížné
+  zpřesňování finančních potřeb pro konkrétní období. Z tohoto důvodu žádáme o převod finančních
+  prostředků k realizaci cílů v následujícím roce 2026.
+
+  Dále bude v příštím roce potřeba realizovat veřejnou zakázku na aktualizaci 3D modelu budov pro
+  území statutárního města Brna, která je nezbytná pro udržení využitelnosti stávajícího 3D modelu,
+  který je nepostradatelným podkladem pro projekční činnost a procesy územního plánování. 3D
+  model budov je vhodným a důležitým podkladem při rozhodovacích procesech, souvisejících
+  s vlivem navržených stavebních objektů na stávající zástavbu. 3D model budov se dá využít při
+  různých analýzách. Je významnou datovou sadou i pro širokou veřejnost a v rámci otevřených dat,
+  přičemž jej není možné ničím nahradit. Je proto navržena aktualizace celkem 1097 budov 3D
+  modelu, které mezi lety pořizování jednotlivých fází (2020–2023) prošly různou mírou změny
+  (objemová a obvodová změna, kompletní přestavba nebo například demolice a případná nová
+  výstavba). Díky tomuto přístupu bude 3D model aktuální a sjednocený. Analýza dostupných
+  datových zdrojů s budovami, které je potřeba aktualizovat byla dokončena interními silami na
+  Oddělení GIS Odboru městské informatiky MMB na konci srpna, výběrové řízení na aktualizaci
+  tedy nebylo možné vypsat dříve než v září. Vzhledem k náročnosti zpracování aktualizace a
+  termínům fakturací na konci roku hrozí riziko, že by nebyl dostatečný prostor pro kontrolu
+  správnosti odevzdaného plnění veřejné zakázky a na případné opravy nedostatků.
+
+  Na základě navržené aktualizace rozpočtu kapitálových výdajů Odboru městské informatiky MMB
+  v roce 2025 Odbor městské informatiky MMB předkládá tabulku rozpočtového opatření.
+
+  Materiál nepodléhá projednání v komisích Rady města Brna.
+
+  Finanční výbor ZMB projedná materiál 8. 10. 2025.
+
+  Rada města Brna projednala materiál na své schůzi R9/146 konané dne 1. 10. 2025 a doporučila
+  ZMB ke schválení.
+
+  Schváleno jednomyslně 10 členy.
+                                                                                              Matonohová
+                                     Podivinská
+
+
+
+
+                                                                                 Kratochvíl
+                                                          Ing. arch.
+Vaňková
+
+
+
+
+                                                          Bořecký
+
+
+                                                                       Bořecký
+                  Chvátal
+
+
+
+                            Kerndl
+                  RNDr.
+          Černý
+JUDr.
+
+
+
+
+                            JUDr.
+
+
+
+
+                                                                                              JUDr.
+
+
+                                                                                                           JUDr.
+                  Ph.D.
+
+
+
+
+                                                  Aberl
+
+
+
+
+                                                                                                           Oliva
+          Mgr.
+
+
+
+
+                                     Ing.
+
+
+
+
+                                                                                 Ing.
+                                                  Bc.
+
+
+
+
+ pro       pro     pro       pro      pro          pro     pro         pro        pro           ---        pro
+
+
+
+
+                                                                                                                   Strana 3 / 4
+                                                   Rozpočtové opatření
+                                                                                                            v tis. Kč
+Kapitálové výdaje - přesun
+ ORJ      §     pol.    ÚZ   ORG                       Věcná náplň       Upravený rozpočet     Úprava       Rozpočet
+                                                                            k 9.9.2025       rozpočtu + -   po změně
+  5300 6171     6119           2712 Architektonický koncept ICT                        1 500         -597           903
+  5300 6171     6119           2359 GIS Datové sady                                        0          597           597
+
+
+
+
+                                                                                                                  Strana 4 / 4
+

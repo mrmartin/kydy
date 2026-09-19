@@ -1,0 +1,7 @@
+Postup:
+Je třeba to udělat dvakrát jednou s osobními údaji v zápise a jednou bez osobních údajů s xxx
+Projit data a zkontrolovat opravene soubory, tzn. je tam napr. soubor Vysledky_04-09-07_15-23_81257_oprava.html tak je třeba jej přejmenovat na Vysledky_04-09-07_15-23_81257.html a původní soubor Vysledky_04-09-07_15-23_81257.html smazat, nesmí tam být nic s názvem *_oprava.html
+Vytvorit novy adresar "zmb-z5-XXX" a nahrat data (https://apl.brno.cz/protokoly-zmb/zmb-z5-XXX/) a přihrát soubor znak.gif
+Nahrat HTML zapis do adresare https://apl.brno.cz/protokoly-zmb/zmb.htm
+Spustit script https://apl.brno.cz/protokoly-zmb/index.php?adresar=zmb-z5-XXX
+Zkontrolovat zda odkazy odpovidaji hlasovani obcas jsou tam i protokoly ktere nemaji odkaz v zapisu, tzn. takove smazat, protoze jinak rozhodi cislovani napr.  je treba uvedeno "(hlasování č. 94 a č. 95 neprovedeno - technická chyba)" v tom pripade najit hlasovani 94 a 95 a smazat.

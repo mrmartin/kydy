@@ -1,0 +1,418 @@
+Rada města Brna
+
+Z9/27. zasedání Zastupitelstva města Brna
+konané dne 10.6.2025
+
+
+
+     77. Projekt "Rozvoj ITS v Brně, 4. etapa" - posouzení projektu,
+                     návrh rozpočtového opatření
+
+Anotace
+Posouzení projektu včetně návrhu rozpočtového opatření k projektu „Rozvoj ITS v Brně, 4. etapa“, který
+je zaměřený na zlepšení dopravní infrastruktury a zvýšení efektivity dopravy ve městě Brně. Projekt
+zahrnuje tři hlavní aktivity: - Dopravní informační centrum Brno – 3. etapa; - Sběr dopravních dat pro
+dopravní analýzu v Brně; - Navádění na vybraná parkoviště. Celkové náklady projektu se odhadují na
+242 mil. Kč, výše podpory pak 111 mil. Kč. U všech řešených aktivit probíhá projektová příprava. V
+aktivitě Dopravní informační centrum Brno se již zpracovává technická specifikace pro výběr dodavatele.
+Fyzická realizace projektu je předpokládána v letech 2025–2028.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                    - posouzení projektu "Rozvoj ITS v Brně, 4. etapa“, které tvoří přílohu č…tohoto
+                                zápisu
+                                - zařazení projektu ORG 5560 “Rozvoj ITS v Brně, 4. etapa“ s celkovými náklady ve
+                                výši 242 000 tis. Kč a dobou realizace 2025–2028 do rozpočtu kapitálových výdajů
+                                města Brna
+                                - rozpočtové opatření dle tabulky, která tvoří přílohu č. … tohoto zápisu, za účelem
+                                realizace projektu ORG 5560 “Rozvoj ITS v Brně, 4. etapa“ financovaného z Fondu
+                                kofinancování projektů
+
+2. souhlasí                     s přípravou žádosti o podporu z Operačního programu Doprava na projekt „Rozvoj
+                                ITS v Brně, 4. etapa“ v rámci parametrů uvedených v posouzení projektu
+
+3. ukládá                       Radě města Brna zajistit přípravu žádosti o podporu z Operačního programu
+                                Doprava na projekt „Rozvoj ITS v Brně, 4. etapa“ v rámci parametrů uvedených v
+                                posouzení projektu
+                                T: 30. 9. 2025
+
+
+Stanoviska
+
+Materiál projednala Rada města Brna na R9/133. schůzi konané dne 4. 6. 2025 a stanovisko bude
+sděleno.
+Materiál byl předložen na zasedání Finančního výboru Zastupitelstva města Brna konaném dne 4.
+6. 2025.
+
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Sestava vytvořena 3.6.2025 v 09:08                             1/2                              Vygenerováno programem eMMB
+
+
+                                                                                                                Strana 1 / 12
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Ivan Hloušek
+  vedoucí odboru - Odbor implementace evropských fondů
+  3.6.2025 v 08:33
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel                                         Spolupodepisovatel
+
+  Elektronicky podepsáno                                       Elektronicky podepsáno
+
+  Ing. Bc. Pavel Pospíšek                                      Mgr. Radek Řeřicha
+  vedoucí odboru - Odbor dopravy                               vedoucí úseku - 4. úsek
+  3.6.2025 v 09:08                                             3.6.2025 v 09:08
+
+
+
+
+Sestava vytvořena 3.6.2025 v 09:08                       2/2                             Vygenerováno programem eMMB
+
+
+                                                                                                         Strana 2 / 12
+                                   Obsah materiálu
+Návrh usnesení                                                               1-2
+Obsah materiálu                                                              3-3
+Důvodová zpráva                                                              4-5
+Příloha k usnesení (Posouzení - IV etapa.pdf)                               6 - 11
+Příloha k usnesení (R9_133 Projekt Rozvoj ITS v Brně, 4. etapa - RO.pdf)   12 - 12
+
+
+
+
+                                                                               Strana 3 / 12
+                                            Důvodová zpráva
+
+V souladu s Metodikou implementace projektů (spolu)financovatelných z evropských fondů a národních
+programů je kolektivním orgánům města Brna předloženo ke schválení posouzení projektu a návrh
+rozpočtového opatření k projektu „Rozvoj ITS v Brně, 4. etapa“.
+
+Cílem projektu „Rozvoj ITS v Brně, 4. etapa“ je zvýšení kvality řízení dopravního provozu, zvýšení
+bezpečnosti, zvýšení efektivity dopravy pro cestující jak individuální, tak hromadnou dopravou na území
+města Brna a Brněnské metropolitní oblasti. Dále zvýšení kvality sběru informací o stavu dopravy
+prostřednictvím kamerového detekčního systému v důležitých dopravních profilech pro potřeby analýzy
+dopravy a optimalizaci řízení dopravy, efektivní plánování dopravních projektů a poskytování těchto
+informací veřejnosti.
+
+Projekt řeší realizaci části investičního záměru města Brna „Rozvoj dopravní telematiky v letech 2021-
+2027“, konkrétně kapitoly II. Dohledový subsystém, III.a Navádění na vybraná parkoviště a parkovací
+domy a poskytování dopravních informací a IV.c DIC Brno.
+
+Aktivity projektu:
+Dopravní informační centrum Brno – 3. etapa
+Předmětem je realizace třetí etapy dopravního informačního centra pro zpracování, analýzu
+a poskytování dopravních informací, včetně expertního modulu pro potřeby analýzy vývoje dopravní
+situace a optimalizaci řízení dopravy na světelně signalizačních zařízeních na křižovatkách.
+
+Sběr dopravních dat pro dopravní analýzu v Brně
+Předmětem je instalace a provoz kamerového systému pro sběr a analýzu dopravních dat na přibližně
+35 lokalitách na malém městském okruhu a středním městském okruhu v Brně.
+
+Navádění na vybraná parkoviště
+Předmětem je realizace pevného dopravního značení a proměnného značení pro účely navádění
+na parkovací objekty, včetně řídící části a datového propojení proměnného dopravního značení
+s Centrálním technickým dispečinkem společnosti Brněnské komunikace a.s.
+
+Projekt „Rozvoj ITS v Brně, 4. etapa“ je svým zaměřením v souladu s Programem Doprava 2021–2027,
+prioritou 1 - Evropská, celostátní a regionální mobilita, Specifickým cílem: Rozvoj a posilování udržitelné,
+inteligentní a intermodální celostátní, regionální a místní mobility odolné vůči změnám klimatu, včetně
+lepšího přístupu k síti TEN-T a přeshraniční mobility a opatřením 06 – ITS – dopravní telematika.
+Projekt bude podán do 7. výzvy Operačního programu Doprava 2021–2027 v rámci opatření 06 – ITS
+ve městech. Projekt je součástí Integrované strategie rozvoje BMO 21+ a nástroje ITI.
+
+Předpokládané celkové náklady projektu jsou 242 000 000 Kč včetně DPH, přičemž způsobilé výdaje
+jsou ve výši 130 588 236 Kč a nezpůsobilé ve výši 111 411 764 Kč. Dotace se předpokládá ve výši
+111 000 00 Kč (85 % z celkových způsobilých výdajů). Požadavek na finanční spoluúčast žadatele lze
+předpokládat ve výši 131 000 000 Kč.
+
+
+
+Předpokládaná struktura výdajů projektu "Rozvoj ITS v Brně, 4. etapa" (včetně DPH)
+
+Celkové výdaje projektu                                        242 000 000 Kč                100,0 %
+Nezpůsobilé výdaje                                              111 411 764 Kč                46,0 %
+Způsobilé výdaje                                               130 588 236 Kč                 54,0 %
+Výše podpory                                                    111 000 000 Kč                45,9 %
+Spolufinancování města Brna                                    131 000 000 Kč                 54,1 %
+
+Nositelem projektu za statutární město Brno bude v souladu s Metodikou implementace projektů
+(spolu)financovatelných z evropských fondů a národních programů Odbor dopravy MMB.
+
+
+
+
+                                                                                                        Strana 4 / 12
+Stanoviska dotčených orgánů:
+Materiál byl předložen Radě města Brna na schůzi č. R9/133 konané dne 4. 6. 2025 a stanovisko
+bude sděleno.
+Materiál nebyl z časových důvodů projednán v Komisi dopravy RMB.
+Materiál byl předložen na zasedání Finančního výboru Zastupitelstva města Brna konaném dne
+4. 6. 2025.
+
+
+
+
+                                                                                                Strana 5 / 12
+Posouzení projektu se skládá z těchto částí:
+
+
+   1.      Záměr projektu
+
+        a) Obecné údaje
+
+        b) Legislativní a strategický průmět, popis projektu
+
+   2.      Financování projektu
+
+
+
+
+                                                               Strana 6 / 12
+                                            ZÁMĚR PROJEKTU – část A.
+                                                A .1. PŘEDKLADATEL
+1. Plný název předkladatele projektu:
+Statutární město Brno, Dominikánské náměstí 1, 602 00 Brno
+2. Právní statut:
+Statutární město (dle zákona č. 128/2000 Sb., o obcích)
+                                    A. 2. KONTAKTNÍ OSOBA A PARTNEŘI PROJEKTU
+1. Nositel projektu:
+Odbor dopravy MMB
+2. Jméno kontaktní osoby (nositele projektu):
+Mgr. Kateřina Nedvědová
+3. Adresa, telefon, mobil, e-mail, webová stránka kontaktní osoby:
+Odbor dopravy, Referát realizace projektů / referent telematiky a MKDS
+Email: nedvedova.katerina@brno.cz
+Tel.: +420 542 174 536
+4. Přehled partnerů participujících na projektu:
+
+5. Adresa, telefon, mobil, e-mail, webová stránka partnerů na projektu:
+
+6. Způsob spolupráce partnerů na projektu:
+
+                                      A. 3. VŠEOBECNÉ INFORMACE O PROJEKTU
+1. Název projektu:
+Rozvoj ITS v Brně, 4. etapa
+2. Umístění projektu:
+Území statutárního města Brna
+3. Cíle projektu, jeho účel:
+Cílem projektu „Rozvoj ITS v Brně, 4. etapa“ je zvýšení kvality řízení dopravního provozu, zvýšení bezpečnosti,
+zvýšení efektivity dopravy pro cestující jak individuální, tak hromadnou dopravou na území města Brna a Brněnské
+metropolitní oblasti. Dále zvýšení kvality sběru informací o stavu dopravy prostřednictvím kamerového detekčního
+systému v důležitých dopravních profilech pro potřeby analýzy dopravy a optimalizaci řízení dopravy, efektivní
+plánování dopravních projektů a poskytování těchto informací veřejnosti.
+
+4. Výchozí stav:
+Do roku 2021 statutární město Brno realizovalo v rámci předchozího investičního záměru investice do dopravní
+telematiky v rozsahu cca 500 mil. Kč. Přesto je oblast dopravní telematiky v Brně dosud nedostatečně rozvinutá.
+Současný stav řízení dopravy na některých křižovatkách neodpovídá intenzitě individuální a veřejné dopravy,
+některé SSZ zařazené v projektu nejsou řízeny dynamicky nebo nejsou vybaveny systémem pro preferenci vozidel
+MHD.
+
+5. Předpokládané výsledky/výstupy projektu:
+Rozvoj ITS v Brně, 4. etapa je projektem zaměřeným na zlepšení dopravní infrastruktury a zvýšení efektivity dopravy
+ve městě Brně. Tento projekt zahrnuje tři hlavní aktivity:
+Dopravní informační centrum Brno – 3. etapa: Tato část projektu se zaměřuje na rozšíření a modernizaci dopravního
+informačního centra, které poskytuje aktuální informace o dopravní situaci, nehodách a dalších událostech.
+Modernizované dopravní informační centrum umožní rychlejší a přesnější reakce na dopravní události, což povede
+k plynulejší a bezpečnější dopravě.
+
+Sběr dopravních dat pro dopravní analýzu v Brně: Tato aktivita zahrnuje instalaci a provoz kamerového systému
+pro sběr a analýzu dopravních dat. Shromážděná data budou využita ke sčítání dopravy, detailní analýze dopravních
+toků, identifikaci problémových míst a návrhu opatření pro zlepšení dopravní situace. Tato data budou také sloužit
+jako podklad pro plánování budoucích dopravních projektů.
+
+
+
+
+                                                                                                         Strana 7 / 12
+Navádění na vybraná parkoviště: Tato aktivita se zaměřuje na implementaci systému pro navádění řidičů na volná
+parkovací místa na vybraných parkovištích ve městě. Systém navádění na parkoviště pomůže snížit čas strávený
+hledáním parkovacího místa, což povede ke snížení emisí a zlepšení celkové dopravní situace ve městě.
+
+Projekt Rozvoj ITS v Brně, 4. etapa je nezbytný pro zajištění efektivního a moderního řízení dopravy ve městě Brně.
+Potřebnost projektu vychází z následujících důvodů:
+Zlepšení dopravní situace: Modernizace dopravního informačního centra a sběr dopravních dat umožní rychlejší a
+přesnější reakce na dopravní události, což povede k plynulejší dopravě a snížení kongescí.
+
+Efektivní plánování: Shromážděná dopravní data budou sloužit jako podklad pro analýzu a plánování budoucích
+dopravních projektů, což umožní efektivnější využití finančních prostředků.
+
+Snížení emisí, úspora času při jízdě: Implementace systému navádění na parkoviště pomůže zkrátit cestovní čas
+strávený hledáním parkovacího místa, což povede ke snížení emisí a zlepšení kvality ovzduší ve městě.
+
+Unikátnost projektu spočívá v jeho komplexním přístupu k řešení dopravních problémů ve městě Brně. Kombinace
+modernizace dopravního informačního centra, sběru a analýzy dopravních dat a implementace systému navádění
+na parkoviště představuje inovativní řešení pro zvýšení efektivity a bezpečnosti dopravy.
+
+6. Předpokládané dopady projektu:
+- Zvýšení kvality řízení dopravního provozu, zvýšení bezpečnosti, zvýšení efektivity dopravy pro cestující jak osobní
+tak hromadnou dopravou na území Brněnské metropolitní oblasti. Díky lepšímu řízení dopravy a informovanosti
+cestujících dojde ke zkrácení doby strávené v dopravních prostředcích, což přinese úsporu času pro všechny
+účastníky dopravy.
+- Zvýšení kvality sběru informací o stavu dopravy a poskytování nových dopravních informací veřejnosti (v rámci
+Dopravního informačního centra Brno).
+- Snížení emisí, díky efektivnějšímu navádění na parkoviště se snižuje počet najetých kilometrů při hledání
+parkovacího místa, což vede ke snížení emisí výfukových plynů a zlepšení kvality ovzduší ve městě
+
+7. Cílové skupiny:
+Cílovou skupinu tvoří účastníci dopravy na území Brněnské metropolitní oblasti (cestující individuální dopravou,
+cestující veřejnou dopravou, cyklisté, pěší).
+
+
+
+
+                                                                                                           Strana 8 / 12
+                                             ZÁMĚR PROJEKTU – část B.
+                                                 B. 1. POPIS PROJEKTU
+1. Jednotlivé aktivity projektu:
+Aktuální stav přípravy projektu včetně řešení majetkoprávních vztahů:
+
+Přípravná fáze:
+- Dopravní informační centrum Brno – 3. etapa:
+Pro Dopravní informační centrum Brno – 3. etapa je zpracována technická specifikace pro výběr dodavatele.
+Nevyžaduje majetkoprávní přípravu a SP/ÚR.
+- Navádění na vybraná parkoviště:
+Probíhá zpracování projektové dokumentace pro Navádění na vybraná parkoviště. Byla zahájena majetkoprávní
+příprava pro Navádění na vybraná parkoviště. Po dokončení projektové dokumentace ve stupni pro územní a
+stavební řízení bude podána žádost o příslušné povolení záměru.
+- Sběr dopravních dat pro dopravní analýzu v Brně
+Probíhá zpracování projektové dokumentace pro Sběr dopravních dat pro dopravní analýzu v Brně. Po dokončení
+projektové dokumentace ve stupni pro územní a stavební řízení bude podána žádost o příslušné povolení záměru.
+Předpoklad vydání povolení záměru (ÚR/SP) do 06/2026.
+
+Realizační fáze:
+V rámci realizační fáze proběhne realizace projektu, přičemž se předpokládá zahájení v říjnu 2025 a ukončení
+v prosinci 2028.
+
+Udržitelnost projektu:
+Finanční zdroje pro provozní náklady (správa a údržba pořízeného majetku) jsou vyčleněny v rozpočtu Odboru
+dopravy Magistrátu města Brna. Na základě stávající příkazní smlouvy bude pořízený majetek svěřen do správy
+společnosti Brněnské komunikace a.s.
+
+2. Časová náročnost projektu:
+Je uveden předpokládaný harmonogram realizace jednotlivých částí projektu. V harmonogramu projektu jsou
+ponechány časové rezervy pro realizaci zadávacího řízení i pro předpokládané období fyzické realizace.
+Zpracování projektové dokumentace 12/2023-12/2025.
+Územní a stavební řízení 06/2025-06/2026.
+Výběr zhotovitele (3 veřejné zakázky) 07/2025 - 12/2027.
+Realizace 10/2025 - 12/2028.
+3. Indikátory:
+     • Počet zařízení a služeb ITS – Cílová hodnota počtu implementovaných nebo optimalizovaných zařízení /
+        systémů / služeb v rámci realizace projektu: 3
+
+4. Hrubý rozpočet na celou dobu trvání projektu:
+
+1. Dopravní informační centrum, Navádění na vybraná parkoviště a Sběr dopravních dat
+Předpokládané způsobilé výdaje (včetně inženýringu během realizace): 130 588 236 Kč
+
+2. Nezpůsobilé výdaje (DPH): 111 411 764 Kč
+
+Celkové náklady: 242 000 000 Kč
+
+
+                                       B. 2. STRATEGICKÝ A LEGISLATIVNÍ PRŮMĚT
+1. Soulad se Strategií Brno 2050:
+Projekt je v souladu s prioritou č. 5 Doprava a technická infrastruktura Strategie pro Brno, a to konkrétně se
+strategickým cílem 5.1 Zlepšit kvalitu vnitřní a vnější dostupnosti města, s opatřením 5.1.1. Zajištění komfortní MHD,
+IDS a opatřením 5.1.2 Řešení dopravy, ochrana centra před nadměrnou dopravou, parkování.
+
+
+
+
+                                                                                                          Strana 9 / 12
+2. Soulad s odvětvovými koncepčními dokumenty MMB:
+Projekt je v souladu s dokumentem „Strategie rozvoje dopravní telematiky ve městě Brně" (z roku 2007) v
+následujících opatřeních:
+Kapitola C. Rozsah plánované realizace: ŘÍZENÍ DOPRAVYPROMĚNNÝM DOPRAVNÍM ZNAČENÍM
+Kapitola C. Rozsah plánované realizace: DOPRAVNÍ INFORMAČNÍ CENTRUM BRNO
+Kapitola C. Rozsah plánované realizace: SBĚR DOPRAVNÍCH DAT
+
+Projekt je dále v souladu s Akčním plánem rozvoje inteligentních dopravních systémů (ITS) v ČR do roku 2020 (s
+výhledem do roku 2050) (z roku 2015), kde naplňuje následující strategické a specifické cíle v oblasti ITS:
+Strategický cíl č. 1: Efektivní, inteligentní a dopravní infrastruktura s kvalifikovaným obslužným personálem
+Strategický cíl č. 2: Zajištění plynulosti dopravního provozu a s tím spojené snížení celkových časových ztrát v
+dopravním provozu
+Věcný specifický cíl č. 2.1: Zvýšení informovanosti účastníků dopravního provozu Strategický cíl č.
+3: Zvýšení bezpečnosti dopravního provozu
+3. Soulad s územním plánem města Brna:
+Projekt je v souladu s Územním plánem města Brna.
+4. Legislativní audit:
+Veškeré aktivity plánované v rámci tohoto projektu jsou zcela v souladu s platnou legislativou ČR i EU. Realizací
+tohoto projektu nevznikají žádná právní rizika pro žádný subjekt. Neočekávaná rizika mohou přijít se změnami z
+legislativní úrovně. Projektový cyklus na statutárním městě Brně počítá s řadou metodik, aby nebylo možné realizaci
+projektu nějakým způsobem poškodit. Existence metodik dostatečně eliminuje vnitřní legislativní riziko. Vnější
+legislativní riziko lze jen těžko úplně odstranit, legislativa přijatá na národní úrovni může neočekávaně změnit
+parametry projektů (daňové reformy apod.).
+                                             B. 3. OSTATNÍ INFORMACE
+
+1. Majetkové poměry:
+Byla zahájena majetkoprávní příprava, předpoklad dokončení je do června 2026.
+2. Synergie:
+Projekt má vazbu na další opatření Strategie ISR BMO 21+, např. opatření A.5: Omezení/regulace individuální
+automobilové dopravy. V projektu bude v rámci rekonstrukce SSZ posílena funkce preference MHD.
+
+3. Zajištění udržitelnosti projektu:
+Finanční zdroje pro provozní náklady (správa a údržba pořízeného majetku) jsou vyčleněny v rozpočtu Odboru
+dopravy Magistrátu města Brna. Na základě stávající příkazní smlouvy bude pořízený majetek svěřen do správy
+společnosti Brněnské komunikace a.s.
+
+
+
+
+                                                                                                        Strana 10 / 12
+                                       Financování projektu
+
+Projekt „Rozvoj ITS v Brně, 4. etapa“ je svým zaměřením v souladu s Programem Doprava 2021–
+2027, prioritou 1 - Evropská, celostátní a regionální mobilita, Specifickým cílem: Rozvoj a posilování
+udržitelné, inteligentní a intermodální celostátní, regionální a místní mobility odolné vůči změnám
+klimatu, včetně lepšího přístupu k síti TEN-T a přeshraniční mobility a opatřením 06 – ITS – dopravní
+telematika.
+
+Projekt bude podán do 7. výzvy Operačního programu Doprava 2021–2027 v rámci opatření 06 - ITS
+ve městech. Projekt je součástí Integrované strategie rozvoje BMO 21+ a nástroje ITI.
+
+Projekty podpořené z tohoto dotačního zdroje mohou získat dotaci až 85 % ze způsobilých nákladů.
+Nezpůsobilé výdaje a podíl žadatele budou hrazeny z vlastních zdrojů žadatele. Dotační prostředky
+budou příjemci propláceny ex-post na základě schválených žádostí o platbu.
+
+
+ Rozpočet na celou dobu trvání projektu "Rozvoj ITS v Brně, 4. etapa" (včetně DPH)
+ Fáze                                        Výdaje na projekt                             Příjmy
+                                                                                         z projektu
+                                      investiční                 neinvestiční
+ Přípravná                                        0,00                            0                   0
+ Realizační                                242 000 000                            0                   0
+                                                                         10 000 000
+ Provozní                                             0                                               0
+                                                               (po dobu udržitelnosti)
+ Celkem                                    242 000 000                   10 000 000                   0
+
+
+
+Předpokládaná struktura výdajů projektu "Rozvoj ITS v Brně, 4. etapa" (včetně DPH)
+
+Celkové výdaje projektu                                     242 000 000 Kč               100,0 %
+Nezpůsobilé výdaje                                          111 411 764 Kč                46,0 %
+Způsobilé výdaje                                            130 588 236 Kč                54,0 %
+Výše podpory                                                111 000 000 Kč                45,9 %
+Spolufinancování města Brna                                 131 000 000 Kč                54,1 %
+
+
+
+
+                                                                                                   Strana 11 / 12
+                                                                Rozpočtové opatření                                          v tis. Kč
+Kapitálové výdaje - přesun
+ ORJ      §       Položka    ÚZ/ZJ   ORG                                    Věcná náplň   Upr. rozpočet     Úprava       Rozpočet
+                                                                                           k 26.5.2025    rozpočtu + -   po změně
+  5900   3639         6121           5099 Předprojektová příprava                               18 700            -200        18 500
+  5400   2229         6122           5560 Rozvoj ITS v Brně, 4. etapa                                0             200           200
+

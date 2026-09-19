@@ -1,0 +1,232 @@
+Statutární město Brno
+Rada města Brna
+
+
+
+
+                      Postup předkládání materiálů do Rady města Brna
+
+                              (Příloha Jednacího řádu Rady města Brna)
+
+
+
+
+Schválený na schůzi RMB č. R9/037 dne 14. 6. 2023 ve znění změn schválených na schůzi RMB č. R9/067 dne 17. 1. 2024 a R9/105
+dne 6. 11. 2024
+                                                                               Obsah
+Článek 1 Základní ustanovení a odpovědnost .................................................................................................. 3
+Článek 2 Role .................................................................................................................................................... 4
+Článek 3 Postup při předkládání materiálů ........................................................................................................ 4
+Článek 4 Závěrečná ustanovení ........................................................................................................................ 7
+
+
+
+
+                                                                                 2
+Tento závazný postup ke zpracování a předkládání materiálů pro schůze Rady města Brna se vydává
+v souladu s ustanovením článku 5 odst. 3 Jednacího řádu Rady města Brna, v platném znění.
+
+                                            Článek 1
+                               Základní ustanovení a odpovědnost
+1.1.   Materiály do RMB jsou zpracovávány a předkládány v aplikaci eMMB (dále jen „aplikace“) podle
+       stanovených termínů schůzí RMB, jejichž zadání do aplikace a aktualizaci garantuje Organizační odbor
+       MMB.
+1.2.   Odpovědným útvarem MMB za aplikaci včetně její provozuschopnosti, aktualizace, administrace
+       přístupů a oprávnění (osoby, role apod.) je Odbor městské informatiky MMB, přičemž aktuálnost
+       dodaných podkladů k administraci přístupů a oprávnění garantují pro:
+       - zaměstnance statutárního města Brna zařazené do MMB Personální oddělení MMB,
+       - zaměstnance statutárního města Brna zařazené do Městské policie Brno (dále jen „MP Brno“) její
+         ředitel,
+       - právníky MMB/MP Brno garantující právní správnost materiálu vedoucí příslušných útvarů
+         MMB/ředitel MP Brno,
+       - ředitele příspěvkových organizací zřízených statutárním městem Brnem příslušné útvary MMB dle
+         Přílohy č. 3 Organizačního řádu MMB (tzv. odvětvové útvary),
+       - předsedu a místopředsedu představenstva či jiné oprávněné osoby obchodních společností, jichž je
+         statutární město Brno jediným akcionářem, Kancelář koncernového výboru.
+       Aktuálnost seznamu členů ZMB, starostů městských částí (dále jen „MČ“) a tajemníků Úřadů městských
+       částí (dále jen „ÚMČ“) garantuje Organizační odbor MMB.
+       Určení rolí dle článku 2 tohoto Postupu garantují vedoucí příslušného útvaru MMB a ředitel MP Brno.
+1.3.   Stručný návod k aplikaci, zejména k užití příslušných ovládacích prvků, je k dispozici v aplikaci. Za
+       správnost a aktualizaci návodu je odpovědný Odbor městské informatiky MMB.
+1.4.   Podpisem materiálu v aplikaci se kromě podpisu rozumí i souhlasné vyjádření.
+1.5.   Za vyhotovení materiálů, jejich náležitosti, věcnou a právní bezchybnost obsahu, úpravu příloh dle
+       určených standardů a formátů a za dodržení stanovených termínů pro odevzdání materiálů odpovídají:
+       - v případě zpracování zaměstnanci MMB vedoucí příslušných odborů MMB, vedoucí samostatných
+         oddělení MMB a příslušní vedoucí úseků MMB;
+       - v případě zpracovatelů mimo MMB (ÚMČ, MP Brno, příspěvkové organizace a obchodní společnosti,
+         jichž je statutární město Brno jediným akcionářem) starosta, ředitel MP Brno, ředitel příspěvkové
+         organizace či předseda představenstva příslušné obchodní společnosti,
+       kteří jsou povinni u každého materiálu (včetně informativních zpráv) na „kartě“ PODPIS potvrdit
+       podpisem správnost a úplnost materiálu.
+       Možnost podpisu materiálu vedoucím dotčeného útvaru (v rámci aplikace použita terminologie
+       dotčených odborů/orgánů) se zpřístupní až po podpisu předkladatele.
+       Pokud vedoucí dotčeného útvaru s materiálem nesouhlasí, nebo má k materiálu výhrady, uvede na
+       „kartě“ PODPIS své vyjádření.
+1.6.   Před projednáním materiálu v RMB je materiál předložen k vyjádření příslušné komisi RMB (mimo
+       materiálů nepodléhajících projednání v komisích RMB, případně materiálů, které nebyly předloženy
+       komisím RMB k projednání z časových důvodů).
+
+
+
+
+                                                     3
+                                                     Článek 2
+                                                       Role
+2.1.   V roli „Předkladatel“ je v aplikaci osoba podle článku 5 odst. 3 Jednacího řádu RMB. V aplikaci má
+       přístup k materiálům, jichž je předkladatelem a materiálům, jichž je útvar MMB, MČ, MP Brno či
+       organizace (spolu)předkladatelem či (spolu)zpracovatelem.
+2.2.   V roli „Zpracovatel“ je v aplikaci osoba pověřená předkladatelem k vypracování materiálu, která je
+       předkladateli odpovědná za formální, obsahovou a věcnou správnost materiálu. V případě písm. a) až
+       f) článku 5 odst. 3 Jednacího řádu RMB to je zpravidla zaměstnanec MMB, v případě písm. g) je to
+       zpravidla zaměstnanec příslušné obchodní společnosti nebo zaměstnanec Kanceláře koncernového
+       výboru, v případě písm. h) je to zaměstnanec ÚMČ, v případě písm. i) zaměstnanec MP Brno. V aplikaci
+       má přístup ke všem materiálům, jichž je (spolu)zpracovatelem. Je-li zpracovatelem osoba dle článku 5
+       odst. 3 Jednacího řádu RMB, může být současně i předkladatelem.
+2.3.   V roli „Dotčený odbor/orgán“ je v aplikaci:
+       - vedoucí útvaru MMB (případně jeho zástupce) či osoba dotčená návrhem usnesení;
+       - u materiálu s finančním dopadem, u materiálu, kterým se navrhuje zařazení investičních akcí do
+         závazného plánu investic a navýšení rozpočtových nákladů, vedoucí Odboru rozpočtu a financování
+         MMB (případně jeho zástupce);
+       - u dispozic s nemovitým majetkem vedoucí Majetkového odboru MMB (případně jeho zástupce);
+       - u materiálu s návrhy, které mají dopad do struktury MMB, jeho Organizačního řádu nebo počtu
+         plánovaných funkčních míst vedoucí Organizačního odboru MMB a vedoucí Personálního oddělení
+         MMB (případně jejich zástupci), přičemž před předložením materiálu je předkladatel povinen
+         postupovat v souladu s příslušným řídícím aktem tajemníka MMB;
+       - ve stanovených případech ředitel příspěvkové organizace zřízené městem.
+       Vedoucí „Dotčeného odboru/orgánu“ má přístup k materiálům doručeným mu k podpisu; po jejich
+       odevzdání zpracovatelem má přístup pouze k jejich prohlížení.
+2.4.   V roli „Právník“ je v aplikaci právník odboru, samostatného oddělení, právník jiného odboru téhož úseku
+       MMB, popř. jiný právník, který předkladateli garantuje právní bezchybnost materiálu včetně jeho příloh.
+2.5.   V roli „Právník garantující právní správnost usnesení“ jsou v aplikaci právníci Právního oddělení
+       Organizačního odboru MMB (dále jen „Právní oddělení“). Mají přístup jak k materiálům doručeným jim
+       ke kontrole, tak i ke všem odevzdaným materiálům.
+2.6.   V roli „Přizvaná osoba“ je v aplikaci osoba, u které zpracovatel či předkladatel považuje za vhodné, aby
+       byla s materiálem seznámena. Má přístup pouze k prohlížení konkrétního materiálu.
+
+                                               Článek 3
+                                   Postup při předkládání materiálů
+3.1.   Zpracovatel založí v aplikaci nový bod vybráním příslušného termínu schůze RMB. Poté vyplňuje
+       základní povinné položky na „kartě“ MATERIÁL.
+3.2.   V případě, že je materiál do RMB předkládán členem ZMB, za komisi/výbor, či za klub v ZMB, bude
+       materiál zpracován tajemníkem komise/výboru, věcně příslušným útvarem MMB, popř. Organizačním
+       odborem MMB. Tato skutečnost se uvede v anotaci.
+3.3.   Zpracovatel vyplní další příslušné položky na „kartě“ MATERIÁL, přičemž:
+       - pokud je předkládaný materiál zpracováván na základě usnesení RMB/ZMB nebo bylo
+         o problematice jednáno a rozhodováno na předchozích schůzích RMB, musí být na „kartě“
+         MATERIÁL v „genezi případu“ uveden odkaz na příslušné usnesení RMB/ZMB a číslo úkolu, či
+         uvedeno příslušné usnesení,
+
+
+
+                                                        4
+       - pokud je návrh usnesení zpracován ve variantách, musí být v důvodové zprávě k jedné z variant
+         uvedeno doporučující stanovisko předkladatele (útvaru) se zdůvodněním a uvedením výhod,
+         nevýhod a možných důsledků jednotlivých variant.
+3.4.   V odůvodněných případech požádá zpracovatel o vyhotovení mimořádného výpisu usnesení zvolením
+       příslušného požadavku prostřednictvím ikony           na „kartě“ MATERIÁL. Výpis mu bude
+       zpracován Oddělením spolupráce s volenými orgány Organizačního odboru MMB (dále jen „Oddělení
+       spolupráce s volenými orgány“). V případě, že je součástí usnesení příloha, a při schvalování na schůzi
+       RMB nedošlo k její změně, bude příloha vygenerována z aplikace.
+3.5.   Na „kartě“ STANOVISKA zpracovatel uvede skutečnost, že materiál nepodléhá projednání v komisích
+       RMB, či nebyl v komisích RMB projednán z časových důvodů.
+3.6.   Po vyplnění všech „karet“ včetně vložení důvodové zprávy, pokud je součástí materiálu, a dalších
+       souvisejících dokumentů odešle zpracovatel, právník, nebo předkladatel materiál Právnímu oddělení ke
+       schválení. U materiálu s finančním dopadem doplní zpracovatel, právník nebo předkladatel před
+       kontrolou příslušné zaměstnance Odboru rozpočtu a financování MMB jako přizvané osoby. V případě
+       zjištění jakýchkoliv nedostatků je zpracovatel povinen je odstranit, přičemž do doby zjednání nápravy
+       Právní oddělení neschválí návrh usnesení a materiál vrátí z kontroly.
+3.7.   Při předkládání materiálu členem ZMB se na tento materiál nevztahuje povinnost zaslat jej ke kontrole
+       Právnímu oddělení a rovněž není povinnost právní garance materiálu právníkem.
+3.8.   Po schválení Právním oddělením a po určení příslušných podepisujících osob požádá zpracovatel,
+       právník, nebo předkladatel tyto osoby o podpis materiálu.
+3.9.   Po formální stránce musí být vkládané dokumenty vyhotoveny dle stanovených standardů a vloženy ve
+       strojově čitelném formátu PDF. Maximální přípustná velikost je formát A3. Dokumenty nesmí obsahovat
+       vektorová data.
+3.10. Pokud materiál podléhá projednání v příslušné komisi, předá jí zpracovatel materiál prostřednictvím
+      „karty“ KOMISE/VÝBORY. Tajemník komise zařadí materiál do programu nejbližšího jednání komise,
+      pokud je materiál ve stavu „odevzdán“ nejpozději 5 kalendářních dní přede dnem jednání komise.
+      Zpracovatel a předkladatel mají v aplikaci k dispozici kalendář jednání jednotlivých komisí a podle toho
+      materiál zařadí na schůzi RMB.
+3.11. Tajemník komise bezodkladně po projednání v komisi vyplní na „kartě“ KOMISE/VÝBORY informace
+      o hlasování v komisi, včetně jmenovitého hlasování členů komise, příp. další text, pokud komise
+      schválila změnu nebo nepřijala usnesení, či další požadované či potřebné informace z jednání komise.
+3.12. V případě, že tajemník komise vyplní informace dle odst. 11 po lhůtě pro odevzdání materiálu dle
+      odst. 14, bude předán členům RMB souhrn informací o projednání materiálů v komisích, jehož
+      předložení zajistí Organizační odbor MMB.
+3.13. Po vyplnění stanovených údajů, vložení příslušných dokumentů a podepsání materiálu všemi určenými
+      osobami odevzdá předkladatel v aplikaci materiál. Odevzdáním materiálu se jeho název zobrazí
+      v návrhu programu příslušné schůze RMB.
+3.14. Materiál je nutné odevzdat nejpozději 6 dnů před konáním příslušné schůze RMB do 14.00 hodin,
+      není-li z organizačních důvodů stanoveno jinak. V případě, že materiál není do tohoto termínu
+      odevzdán, aplikace bod do návrhu programu nezařadí.
+3.15. Pokud je RMB předkládáno rozhodnutí/oznámení o výběru návrhu u soutěže o návrh vyhlášené
+      v souladu se zákonem č. 134/2016 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů,
+      zajistí předkladatel i předložení přílohy k protokolu o průběhu soutěže o návrh a dále vizualizaci
+      oceněných návrhů. Tyto dokumenty se nahrají v rámci materiálu na „kartě“ DOKUMENTY jako
+      informační dokumenty, případně je možné jejich rozeslání e-mailem prostřednictvím odkazu na
+      uzamčenou sdílenou složku všem osobám účastnícím se pravidelně schůzí RMB, a to v termínu
+
+
+
+
+                                                      5
+      nejpozději 5 dnů před konáním příslušné schůze RMB do 10.00 hodin, případně je možné ve
+      stejném termínu předat odpovídající počet flash disků na Oddělení spolupráce s volenými orgány.
+3.16. Organizační odbor MMB následně seřadí body programu do pořadí dle zvyklostí, a to nejpozději 6 dnů
+      před konáním příslušné schůze RMB do 15.00 hodin. Od tohoto termínu bude umožněn přístup
+      k obsahu konkrétní schůze RMB členům RMB, tajemníkovi MMB a určeným zaměstnancům MMB.
+3.17. Pro členy RMB, kteří požadují materiály v listinné podobě, zajišťuje jejich tisk Organizační odbor MMB.
+      Pokud přílohy a další dokumentace materiálu přesahují 50 stran, vytiskne se na centrální rozmnožovně
+      pouze titulní list materiálu a důvodová zpráva. Požaduje-li člen RMB vytištění celého materiálu, příp.
+      informačních dokumentů, zajistí tisk individuálně jeho asistentka nebo sekretariát.
+3.18. V případě obsáhlých materiálů přesahujících 50 stran přiloží zpracovatel důležité dokumenty, které musí
+      členové RMB obdržet vytištěné, jako přílohy k materiálu na „kartě“ MATERIÁL. Další přílohy
+      informativního či doplňujícího charakteru přiloží jako „informační dokumenty“ na „kartě“ DOKUMENTY.
+      Informační dokumenty se nezapočítávají do limitu 50 stran, současně jsou uvedeny jejich názvy pod
+      „Obsahem materiálu“. Zpracovatelský útvar doručí na Organizační odbor MMB jeden kompletní výtisk
+      takového rozsáhlého materiálu, včetně informačních dokumentů, určený „k nahlédnutí“ členům RMB při
+      jednání. Informace o tom musí být uvedena v „anotaci“ na kartě MATERIÁL.
+3.19. V mimořádných případech lze materiál předložit bez dodržení termínu stanoveného v odst14 a 15 tohoto
+      článku (tzv. materiál „na stůl“). Postup zpracování materiálu je obdobný jako v odst. 1 až 13 tohoto
+      článku, přičemž je nutno jej v aplikaci odevzdat nejpozději v den konání schůze RMB nejpozději
+      do 8:30 hodin. Po tomto termínu již nebude možné do aplikace vložit žádný nový materiál či doplněk
+      materiálu. V anotaci materiálu předkládaného „na stůl“ uvede zpracovatel důvod jeho mimořádného
+      zařazení.
+      Souhlas s předložením materiálu podle tohoto odstavce vyjádří primátor/primátorka města Brna,
+      náměstek, jiný člen RMB či tajemník MMB svým podpisem na materiálu. Bez tohoto podpisu nebude
+      materiál v aplikaci odevzdán. Body „na stůl“ se v aplikaci automaticky řadí až za body odevzdané
+      v řádném termínu.
+3.20. V případě odevzdání materiálu podle odst. 19 tohoto článku či doplňku k již odevzdanému materiálu
+      v aplikaci podle odst. 14 tohoto článku zajistí předkladatel jeho vytištění a odevzdání stanoveného počtu
+      kopií na Oddělení spolupráce s volenými orgány pro distribuci v listinné podobě. Předkladatel zajistí
+      předání listinné podoby těchto materiálů den před konáním příslušné schůze RMB do 14.30
+      hodin, v odůvodněných případech v den konání schůze RMB do 8.30 hodin.
+3.21. Nejpozději následující den po konání schůze RMB do 12.00 hodin odevzdá předkladatel kompletní
+      materiál v listinné podobě, určený k archivaci, na Oddělení spolupráce s volenými orgány.
+      Předkladatel svým vlastnoručním podpisem na materiálu potvrdí jeho totožnost s elektronickým
+      materiálem odevzdaným v aplikaci a projednaným na schůzi RMB.
+3.22. V případě úpravy přílohy k usnesení na schůzi RMB je třeba odevzdat 2 výtisky schválené přílohy
+      k usnesení parafované odpovědnou osobou na Oddělení spolupráce s volenými orgány. V případě
+      požadavku na mimořádný výpis zajistí předkladatel odevzdání 3 výtisků.
+3.23. V případě, že je schůze RMB svolána operativně mimo stanovený harmonogram schůzí RMB, termíny
+      uvedené v tomto článku se použijí přiměřeně. V anotaci materiálu předkládaného na schůzi RMB mimo
+      stanovený harmonogram uvede předkladatel důvod jeho zařazení.
+3.24. U informativních zpráv nejsou podpis právníka a kontrola Právním oddělením nutnou součástí
+      zpracování.
+3.25. V aplikaci jsou v případě potřeby operativně zveřejňovány aktuální termínové a časové údaje (resp.
+      jejich změny).
+
+
+
+
+                                                      6
+                                          Článek 4
+                                     Závěrečná ustanovení
+4.1.   Postup předkládání materiálů do Rady města Brna byl schválen na R9/037. schůzi Rady města Brna
+       dne 14. 6. 2023 pod bodem č. 10.
+
+
+
+
+                                                  7
+

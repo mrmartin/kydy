@@ -1,0 +1,905 @@
+Rada města Brna
+
+Z9/02. zasedání Zastupitelstva města Brna
+konané dne 15.11.2022
+
+
+
+ 58. Projekty "Fotovoltaický systém pro městskou část Brno-Líšeň"
+               - změna parametrů posouzení projektů
+
+Anotace
+Instalace fotovoltaických systémů na střechy objektů, které má ve správě městská část Brno-Líšeň s
+odhadem celkových nákladů 5,9 mil. Kč. Změna parametrů posouzení projektů se týká změny dotačního
+zdroje vč. souvisejících podmínek. Žádosti bude možné podat do výzvy nového Operačního programu
+Životní prostředí 2021–2027. Nositelem projektu je MČ Brno-Líšeň, které bylo také svěřeno investorství.
+Žadatelem bude statutární město Brno. „Fotovoltaický systém ZŠ Masarova“ – odhad celkových nákladů
+1,9 mil. Kč, odhad výše dotace 1,3 mil. Kč „Fotovoltaický systém ZŠ a MŠ Horníkova“ – odhad celkových
+nákladů 1,6 mil. Kč, odhad výše dotace 1,1 mil. Kč „Fotovoltaický systém ZŠ Novolíšeňská“ – odhad
+celkových nákladů 2,4 mil. Kč, odhad výše dotace 1,6 mil. Kč Vlastní realizace je předpokládána do
+konce r. 2022.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   - změnu parametrů posouzení projektu „Fotovoltaický systém ZŠ Masarova“, které
+                               tvoří přílohu č. … tohoto zápisu
+                               - změnu parametrů posouzení projektu „Fotovoltaický systém ZŠ a MŠ Horníkova“,
+                               které tvoří přílohu č. … tohoto zápisu
+                               - změnu parametrů posouzení projektu „Fotovoltaický systém ZŠ Novolíšeňská“,
+                               které tvoří přílohu č. … tohoto zápisu
+
+2. souhlasí                    - s přípravou žádosti o dotaci z Operačního programu Životní prostředí na projekt
+                               „Fotovoltaický systém ZŠ Masarova“ v rámci parametrů uvedených v posouzení
+                               projektu
+                               - s přípravou žádosti o dotaci z Operačního programu Životní prostředí na projekt
+                               „Fotovoltaický systém ZŠ a MŠ Horníkova“ v rámci parametrů uvedených v
+                               posouzení projektu
+                               - s přípravou žádosti o dotaci z Operačního programu Životní prostředí na projekt
+                               „Fotovoltaický systém ZŠ Novolíšeňská“ v rámci parametrů uvedených v posouzení
+                               projektu
+
+3. ukládá                      - Radě města Brna zajistit přípravu žádosti o dotaci z Operačního programu Životní
+                               prostředí na projekt „Fotovoltaický systém ZŠ Masarova“ v rámci parametrů
+                               uvedených v posouzení projektu
+                               - Radě města Brna zajistit přípravu žádosti o dotaci z Operačního programu Životní
+                               prostředí na projekt „Fotovoltaický systém ZŠ a MŠ Horníkova“ v rámci parametrů
+                               uvedených v posouzení projektu
+                               - Radě města Brna zajistit přípravu žádosti o dotaci z Operačního programu Životní
+                               prostředí na projekt „Fotovoltaický systém ZŠ Novolíšeňská“ v rámci parametrů
+                               uvedených v posouzení projektu
+
+                               T: do 31. 5. 2023
+
+Sestava vytvořena 8.11.2022 v 14:02                          1/2                             Vygenerováno programem eMMB
+
+
+                                                                                                             Strana 1 / 21
+Stanoviska
+
+Materiál byl předložen Radě města Brna na schůzi č. R9/003 konané dne 9.11. 2022 a stanovisko
+bude sděleno.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Ivan Hloušek
+  vedoucí odboru - Odbor implementace evropských fondů
+  8.11.2022 v 09:56
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel                                        Spolupodepisovatel
+
+  Elektronicky podepsáno
+                                                               Elektronicky podepsáno
+  Mgr. Radek Řeřicha                                           Mgr. Břetislav Štefan
+  vedoucí Úseku 4. náměstka primátorky - Úsek 4.
+                                                               starosta - MČ Brno-Líšeň
+  náměstka primátorky
+                                                               8.11.2022 v 08:21
+  8.11.2022 v 10:30
+
+
+
+
+Sestava vytvořena 8.11.2022 v 14:02                      2/2                              Vygenerováno programem eMMB
+
+
+                                                                                                          Strana 2 / 21
+                                  Obsah materiálu
+Návrh usnesení                                                                1-2
+Obsah materiálu                                                               3-3
+Důvodová zpráva                                                               4-6
+Příloha k usnesení (Fotovoltaický systém ZŠ Novolíšeňská - upravené          7 - 11
+posouzení projektu.pdf)
+Příloha k usnesení (Fotovoltaický systém ZŠ a MŠ Horníkova - upravené       12 - 16
+posouzení projektu.pdf)
+Příloha k usnesení (Fotovoltaický systém ZŠ Masarova - upravené posouzení   17 - 21
+projektu.pdf)
+
+
+
+
+                                                                                Strana 3 / 21
+                                          Důvodová zpráva
+Kolektivním orgánům města Brna jsou v souladu s Metodikou implementace projektů
+(spolu)financovatelných z evropských fondů a národních programů předkládány změny parametrů
+posouzení projektu „Fotovoltaický systém ZŠ Masarova“, „Fotovoltaický systém ZŠ a MŠ
+Horníkova“ a „Fotovoltaický systém ZŠ Novolíšeňská“. Důvodem předložení tohoto materiálu
+do kolektivních orgánů města Brna je změna dotačního titulu vč. souvisejících podmínek.
+
+Posouzení projektů v rámci Operačního programu Životní prostředí 2014-2020 byla schválena na Z8/24.
+zasedání Zastupitelstva města Brna konaném dne 16. února 2021. Žádosti o dotace a návrh na pověření
+městské části Brno-Líšeň investorskou činností byly schváleny na R8/132. schůzi Rady města Brna,
+konané dne 13. února 2021.
+
+Žádosti o dotace na projekty byly podány dne 1. března 2021. Z důvodu velkého převisu všech
+podaných žádostí nad celkovou alokací výzvy není bohužel pravděpodobné, že by žádosti byly úspěšné,
+zatím ani nebyly hodnoceny.
+
+Investorství bylo Radou města Brna svěřeno MČ Brno-Líšeň. Všechny budovy jsou ve vlastnictví
+statutárního města Brna a jsou svěřeny do užívání městské části. Žádat o udělení licence pro podnikání
+v energetických odvětvích budou subjekty, pro které bude určen fotovoltaický systém – tedy základní
+školy. MČ Brno-Líšeň již vybrala zhotovitele a zahájila fyzickou realizaci projektů. Předpokládá se, že
+by projekty měly být fyzicky zrealizovány do konce roku 2022.
+
+Na konci léta 2022 byla vypsána výzva z nového Operačního programu Životní prostředí 2021–2027,
+která je zaměřená na obnovitelné zdroje energie ve veřejných budovách. Je vhodná i pro tyto projekty.
+Změna parametrů posouzení projektů se tedy týká změny dotačního zdroje. Původní posouzení
+zahrnovalo 4 projekty. Projekt „Fotovoltaický systém poliklinika Horníkova“ zakládá veřejnou podporu.
+V tomto případě, aby mohly být výdaje způsobilé, musí být podána žádost o dotaci před zahájením
+zadávacího řízení, což nelze splnit. Proto tento projekt do nové výzvy podán nebude.
+
+Cílem projektů je realizace úspor energií prostřednictvím instalace fotovoltaického systému (dále FV)
+na střechy objektů, které má ve správě městská část Brno-Líšeň. Vyrobená elektrická energie bude
+využita pro vlastní spotřebu, přebytky mohou být dodávány do sítě. Dle zpracovaných energetických
+posouzení se předpokládá celkové roční snížení provozních nákladů o 490 tis. Kč a celková roční
+úspora energie 97,266 MWh.
+
+Aktivity těchto projektů svým zaměřením spadají do Operačního programu Životní prostředí 2021–2027,
+Specifického cíle 1.2 Podpora energie z obnovitelných zdrojů v souladu se směrnicí (EU) 2018/2001,
+včetně kritérií udržitelnosti stanovených v uvedené směrnici, Opatření 1.2.1 Výstavba a rekonstrukce
+obnovitelných zdrojů energie pro veřejné budovy. Příjem žádostí probíhá v rámci aktuální 11. výzvy do
+31. května 2023.
+
+Celkové výdaje na realizaci všech projektů se předpokládají ve výši 5,9 mil. Kč a měly by být všechny
+způsobilé. Tato částka vychází z již vysoutěžených rozpočtů na realizaci. Dotace je odhadována na 4
+mil. Kč, což je 67 % z celkových způsobilých nákladů. Při dopracování žádosti o dotaci může dojít ke
+změně celkových nákladů projektů, případně k úpravě struktury financování.
+
+Rada městské části Brno-Líšeň na své schůzi konané dne 3. 2. 2021 projednala podíl městské části na
+dofinancování těchto projektů ve výši 50 % z celkové finanční spoluúčasti statutárního města Brna.
+
+
+
+
+                                                                                                   Strana 4 / 21
+Původní struktura výdajů za všechny projekty "Fotovoltaický systém pro městskou část
+Brno-Líšeň" (včetně DPH)
+Celkové výdaje projektů                                     7 120 514 Kč         100,0 %
+Nezpůsobilé výdaje                                                  0 Kč            0,0 %
+Způsobilé výdaje                                            7 120 514 Kč         100,0 %
+Výše dotace                                                 4 247 636 Kč          59,6 %
+Spolufinancování města Brna                                 1 436 439 Kč          20,2 %
+Spolufinancování městské části Brno-Líšeň                   1 436 439 Kč          20,2 %
+
+
+Aktualizovaná struktura výdajů za všechny projekty "Fotovoltaický systém pro městskou
+část Brno-Líšeň" (včetně DPH)
+Celkové výdaje projektů                                     5 883 717 Kč         100,0 %
+Nezpůsobilé výdaje                                                  0 Kč            0,0 %
+Způsobilé výdaje                                            5 883 717 Kč         100,0 %
+Výše dotace                                                 3 968 261 Kč          67,4 %
+Spolufinancování města Brna                                  957 728 Kč           16,3 %
+Spolufinancování městské části Brno-Líšeň                    957 728 Kč           16,3 %
+
+
+
+Aktualizovaná struktura výdajů projektu „Fotovoltaický systém ZŠ Masarova“ (včetně DPH)
+
+Celkové výdaje projektu                                     1 860 782 Kč         100,0 %
+Nezpůsobilé výdaje                                                  0 Kč            0,0 %
+Způsobilé výdaje                                            1 860 782 Kč         100,0 %
+Výše dotace                                                 1 317 824 Kč          70,8 %
+Spolufinancování města Brna                                  271 479 Kč           14,6 %
+Spolufinancování městské části Brno-Líšeň                    271 479 Kč           14,6 %
+Roční snížení provozních nákladů (MWh/rok)                                         34,778
+Roční úspora energie (vč. DPH)                                                 179 500 Kč
+
+
+Aktualizovaná struktura výdajů projektu „Fotovoltaický systém ZŠ a MŠ Horníkova“ (včetně
+DPH)
+Celkové výdaje projektu                                     1 639 549 Kč         100,0 %
+Nezpůsobilé výdaje                                                  0 Kč            0,0 %
+Způsobilé výdaje                                            1 639 549 Kč         100,0 %
+Výše dotace                                                 1 078 297 Kč          65,8 %
+Spolufinancování města Brna                                  280 626 Kč           17,1 %
+Spolufinancování městské části Brno-Líšeň                    280 626 Kč           17,1 %
+Roční snížení provozních nákladů (MWh/rok)                                         25,307
+Roční úspora energie (vč. DPH)                                                 144 456 Kč
+
+
+
+
+                                                                                        Strana 5 / 21
+  Aktualizovaná struktura výdajů projektu „Fotovoltaický systém ZŠ Novolíšeňská“ (včetně
+  DPH)
+  Celkové výdaje projektu                                         2 383 386 Kč           100,0 %
+  Nezpůsobilé výdaje                                                       0 Kč             0,0 %
+  Způsobilé výdaje                                                2 383 386 Kč           100,0 %
+  Výše dotace                                                     1 572 140 Kč             66,0 %
+  Spolufinancování města Brna                                       405 623 Kč             17,0 %
+  Spolufinancování městské části Brno-Líšeň                         405 623 Kč             17,0 %
+  Roční snížení provozních nákladů (MWh/rok)                                               37,181
+  Roční úspora energie (vč. DPH)                                                      166 561 Kč
+
+
+
+Nositelem projektu v souladu s Metodikou implementace projektů (spolu)financovatelných
+z evropských fondů a národních programů je MČ Brno-Líšeň. Žadatelem bude statutární město Brno.
+
+
+Stanoviska dotčených orgánů:
+
+Materiál byl předložen Radě města Brna na schůzi č. R9/003 konané dne 9.11. 2022 a stanovisko bude
+sděleno.
+Materiál nepodléhá projednání v komisích RMB
+
+
+
+
+                                                                                              Strana 6 / 21
+Upravené posouzení projektu „Fotovoltaický systém ZŠ Novolíšeňská“ se skládá z těchto částí:
+
+                     1.   Záměr projektu
+                          a)     Obecné údaje
+                          b)     Legislativní a strategický průmět, popis projektu
+                          c)     Financování
+                     2.   Analýza dotačních příležitostí
+
+
+
+
+                                                                                         Strana 7 / 21
+                        PROJEKTOVÝ ZÁMĚR – část A.
+                             A .1. PŘEDKLADATEL
+1. Plný název předkladatele projektu:
+Statutární město Brno, Dominikánské náměstí 1, 602 00 Brno
+
+2. Právní statut:
+statutární město (dle zákona č. 128/2000 Sb., o obcích)
+
+                  A. 2. KONTAKTNÍ OSOBA A PARTNEŘI PROJEKTU
+1. Nositel projektu:
+Statutární město Brno, MČ Brno-Líšeň
+
+2. Jméno kontaktní osoby (nositele):
+JUDr. PhDr. Martin Příborský, EMLE. – místostarosta
+
+
+3. Adresa, telefon, mobil, e-mail, webová stránka kontaktní osoby:
+Úřad městské části Brno-Líšeň
+Jírova 2, 628 00 Brno-Líšeň
+e-mail: priborsky@brno-lisen.cz
+telefon: 770 195 187
+
+4. Přehled partnerů participujících na projektu: -
+5. Adresa, telefon, mobil, e-mail, webová stránka partnerů na projektu: -
+6. Způsob spolupráce partnerů na projektu: -
+                  A. 3. VŠEOBECNÉ INFORMACE O PROJEKTU
+1. Název projektu:
+Fotovoltaický systém ZŠ Novolíšeňská
+
+
+2. Umístění projektu:
+Střecha objektu školského zařízení
+Novolíšeňská 2411/10, 628 00 Brno-Líšeň
+3. Cíle projektu, jeho účel:
+Cílem projektu je dosažení energetických úspor budovy ZŠ Novolíšeňská, a to prostřednictvím
+instalace fotovoltaického systému na střechu budovy.
+Z pohledu ochrany životního prostředí dojde ke snížení produkce znečišťujících látek, především CO2.
+4. Výchozí stav:
+V současné době je veškerá el. energie potřebná pro chod ZŠ Novolíšeňská odebírána z distribuční
+sítě.
+
+5. Předpokládané výsledky projektu:
+Výsledkem projektu bude instalovaný fotovoltaický systém na ploché střeše budovy.
+
+
+6. Předpokládané dopady projektu:
+Zlepšení životního prostředí snížením produkce znečišťujících látek, především CO2.
+Ekonomický dopad do rozpočtu města Brna – dle zpracovaného energetického posouzení předpoklad
+snížení provozních nákladů o 166 561 tis. Kč ročně; roční úspora energie 37,181 MWh.
+
+
+7. Cílové skupiny:
+Všichni uživatelé objektu a zřizovatel (v rámci snížení spotřeby energie za sledované období).
+
+
+
+
+                                                                                                 Strana 8 / 21
+                        PROJEKTOVÝ ZÁMĚR – část B.
+                               B. 1. POPIS PROJEKTU
+Přípravná fáze
+    • Studie Instalace solárního systému na výrobu elektřiny (říjen 2020)
+    • Projektová dokumentace (leden 2021)
+    • Energetické posouzení (leden 2021)
+
+Realizační fáze
+   • umístění kačírku na plochou střechu základní školy – izolace střechy od FV
+   • osazení krystalických panelů – panely budou upevněny na samonosné konstrukci
+   • uložení nových kabelů
+   • umístění střídačů a rozváděčů
+   • připojení do rozvodného systému
+
+Provozní fáze
+   • servis FV panelů, revize
+
+2. Časová náročnost projektu:
+    • žádost o dotaci z Operačního programu Životní prostředí – do 31. 5. 2023
+    • vlastní realizace – do konce roku 2022
+    • Žádost o udělení licence pro podnikání v energetických odvětvích (na Energetický regulační
+       ústav)
+    • udržitelnosti projektu – 5 let po jeho ukončení (zajistí nositel projektu; není hrazeno z dotace)
+
+3. Indikátory:
+Snížení konečné spotřeby energie ve veřejných budovách - 37,181 MWh ročně
+4. Hrubý rozpočet na celou dobu trvání projektu:
+
+Odhad celkových výdajů – 2 383 386 Kč včetně 21 % DPH; z toho:
+   • realizace: 2 227 464 Kč
+   • projektová příprava (PD, en. posouzení, TDI): 155 922 Kč
+
+                           B. 2. STRATEGICKÝ A LEGISLATIVNÍ PRŮMĚT
+1. Soulad se Strategií Brno 2050:
+Projekt je v rámci Strategie Brno 2050 v souladu s hodnotou Energeticky šetrné, nezávislé a odolné
+město, a to s dílčím cílem D „Zvýšit podíl místních obnovitelných zdrojů na energetickém zásobování
+města na základě technologických inovací“, prioritou D1 „Prosazovat rostoucí podíl nízko-emisních
+kapacit (fotovoltaické, vodní a větrné elektrárny, výroba z bioplynu, biomasy a komunálního odpadu)“.
+2. Soulad s odvětvovými koncepčními dokumenty MMB:
+Projekt je v souladu s Akčním plánem udržitelné energetiky a klimatu SECAP a Územní energetickou
+koncepcí statutárního města Brna.
+3. Soulad s územním plánem města Brna:
+Irelevantní vzhledem k povaze projektu
+
+
+4. Legislativní audit:
+Veškeré aktivity plánované v rámci tohoto projektu jsou v souladu s platnou legislativou ČR i EU.
+Realizací tohoto projektu nevznikají žádná právní rizika pro žádný subjekt.
+
+
+
+
+                                                                                                    Strana 9 / 21
+                               PROJEKTOVÝ ZÁMĚR – část C.
+                                         C. 1. FINANCOVÁNÍ
+
+1. Rozpočet na celou dobu trvání projektu:
+ fáze
+                                     Výdaje na projekt
+                      v Kč     investiční         provozní                 Příjmy z projektu
+přípravná                            155 922 Kč
+realizační                         2 227 464 Kč
+Provozní
+Celkem                             2 383 386 Kč
+
+
+
+
+2. Možnosti financování
+
+          v Kč                 Částka         %                      Upřesnění
+Vlastní zdroje
+Rozpočet města                405 623 Kč     17,0 Fond kofinancování projektů
+Ostatní veřejné zdroje        405 623 Kč     17,0 Rozpočet MČ Brno-Líšeň
+EU                          1 572 140 Kč     66,0 Operační program Životní prostředí
+Privátní zdroje
+jiné
+         Celkem             2 383 386 Kč 100,0
+
+
+                                     C. 2. OSTATNÍ INFORMACE
+
+1. Majetkové poměry:
+Projekt bude realizován na střeše objektu s č.p. 2411/10, která se nachází na parcele 7458/1, k.ú. Líšeň.
+Jedná se o budovu Základní školy, Brno, Novolíšeňská 10, příspěvkové organizace, která je v majetku
+statutárního města Brna a byla svěřena městské části Brno-Líšeň, zřizovateli této ZŠ. ZŠ je zde
+v bezúplatném nájmu.
+
+
+2. Synergie:
+---
+
+3. Zajištění udržitelnosti projektu:
+Udržitelnosti po dobu nejméně 5 let po ukončení realizace projektu zajistí z vlastních zdrojů nositel
+projektu. Jedná se zejména o servis a revize FV panelů.
+
+
+
+
+                                                                                                     Strana 10 / 21
+                                Analýza dotačních příležitostí
+
+Projekt Fotovoltaický systém ZŠ Novolíšeňská svým zaměřením spadá do Operačního programu
+Životní prostředí 2021–2027, Specifického cíle 1.2 Podpora energie z obnovitelných zdrojů v souladu
+se směrnicí (EU) 2018/2001, včetně kritérií udržitelnosti stanovených v uvedené směrnici, Opatření
+1.2.1 Výstavba a rekonstrukce obnovitelných zdrojů energie pro veřejné budovy. Jednou
+z podporovaných aktivit je financování instalace fotovoltaického systému.
+
+Příjem žádostí probíhá v rámci aktuální 11. výzvy do 31. května 2023.
+
+Celkové náklady na realizaci projektu se předpokládají ve výši 2 383 386 Kč. Celá výše nákladů by
+měla být způsobilá. Dotace je odhadována na 1 572 140 Kč.
+
+Podmínky Operačního programu Životní prostředí pro instalaci FV systému
+   • FV systém musí být umístěn pouze na střešní konstrukci nebo na obvodové zdi budovy
+   • maximální navrhovaná roční výroba elektřiny z fotovoltaického systému nesmí být vyšší než
+      roční spotřeba elektřiny v budově
+   • podporovány jsou pouze krystalické FV moduly s účinností nejméně 14 % a tenkovrstvé FV
+      moduly s účinností nejméně 10 %
+   • hodnota využití instalovaného výkonu pro lokální spotřebu musí dosahovat min. 750 hod./rok
+
+Dle zpracovaného en. posouzení i projektové dokumentace bude projekt tyto podmínky splňovat.
+
+Přehled způsobilých výdajů:
+   • stavební práce, dodávky a služby spojené s realizací fotovoltaických systémů
+   • projektová příprava, technický dozor – ve výši 7 % ze způsobilých realizačních výdajů
+
+Rozpočet projektu
+
+  realizační výdaje                2 227 464 Kč
+  projektová příprava                155 922 Kč
+  celkem                           2 383 386 Kč
+
+Zdroje krytí projektu
+Dle dokumentu Pravidla pro žadatele a příjemce Operačního programu Životní prostředí je možné
+získat podporu ve výši 75 % ze způsobilých výdajů. Zároveň je zejména v závislosti na navrženém
+výkon fotovoltaické elektrárny stanoven maximální limit dotace.
+
+  Aktualizovaná struktura výdajů projektu „Fotovoltaický systém ZŠ Novolíšeňská“ (včetně
+  DPH)
+  Celkové výdaje projektu                                               2 383 386 Kč         100,0 %
+  Nezpůsobilé výdaje                                                           0 Kč            0,0 %
+  Způsobilé výdaje                                                      2 383 386 Kč         100,0 %
+  Výše dotace                                                           1 572 140 Kč          66,0 %
+  Spolufinancování města Brna                                            405 623 Kč           17,0 %
+  Spolufinancování městské části Brno-Líšeň                              405 623 Kč           17,0 %
+  Roční snížení provozních nákladů (MWh/rok)                                                  37,181
+  Roční úspora energie (vč. DPH)                                                       166 561 Kč
+
+
+
+
+                                                                                                  Strana 11 / 21
+Upravené posouzení projektu „Fotovoltaický systém ZŠ a MŠ Horníkova“ se skládá z těchto
+                                        částí:
+
+                  1. Záměr projektu
+                       a) Obecné údaje
+                       b) Legislativní a strategický průmět, popis projektu
+                       c) Financování
+                 2.   Analýza dotačních příležitostí
+
+
+
+
+                                                                                      Strana 12 / 21
+                        PROJEKTOVÝ ZÁMĚR – část A.
+                             A .1. PŘEDKLADATEL
+1. Plný název předkladatele projektu:
+Statutární město Brno, Dominikánské náměstí 1, 602 00 Brno
+
+2. Právní statut:
+statutární město (dle zákona č. 128/2000 Sb., o obcích)
+
+                  A. 2. KONTAKTNÍ OSOBA A PARTNEŘI PROJEKTU
+1. Nositel projektu:
+Statutární město Brno, MČ Brno-Líšeň
+
+2. Jméno kontaktní osoby (nositele):
+JUDr. PhDr. Martin Příborský, EMLE. – místostarosta
+
+
+3. Adresa, telefon, mobil, e-mail, webová stránka kontaktní osoby:
+Úřad městské části Brno-Líšeň
+Jírova 2, 628 00 Brno-Líšeň
+e-mail: priborsky@brno-lisen.cz
+telefon: 770 195 187
+
+4. Přehled partnerů participujících na projektu: -
+5. Adresa, telefon, mobil, e-mail, webová stránka partnerů na projektu: -
+6. Způsob spolupráce partnerů na projektu: -
+                  A. 3. VŠEOBECNÉ INFORMACE O PROJEKTU
+1. Název projektu:
+Fotovoltaický systém ZŠ a MŠ Horníkova
+
+
+2. Umístění projektu:
+Střecha objektu ZŠ a MŠ Horníkova
+Horníkova 2170/1, 628 00 Brno-Líšeň
+3. Cíle projektu, jeho účel:
+Cílem projektu je dosažení energetických úspor budovy ZŠ a MŠ Horníkova, a to prostřednictvím
+instalace fotovoltaického systému na střechu budovy.
+Z pohledu ochrany životního prostředí dojde ke snížení produkce znečišťujících látek, především CO2.
+4. Výchozí stav:
+V současné době je veškerá el. energie potřebná pro chod ZŠ a MŠ Horníkova odebírána z distribuční
+sítě.
+
+5. Předpokládané výsledky projektu:
+Výsledkem projektu bude instalovaný fotovoltaický systém na ploché střeše budovy.
+
+
+6. Předpokládané dopady projektu:
+Zlepšení životního prostředí snížením produkce znečišťujících látek, především CO2.
+Ekonomický dopad do rozpočtu města Brna – dle zpracovaného energetického posouzení předpoklad
+snížení provozních nákladů o 144,5 tis. Kč ročně; roční úspora energie 25,307 MWh.
+
+
+7. Cílové skupiny:
+Všichni uživatelé objektu a zřizovatel (v rámci snížení spotřeby energie za sledované období).
+
+
+
+
+                                                                                                  Strana 13 / 21
+                        PROJEKTOVÝ ZÁMĚR – část B.
+                               B. 1. POPIS PROJEKTU
+Přípravná fáze
+    • Studie Instalace solárního systému na výrobu elektřiny (říjen 2020)
+    • Projektová dokumentace (leden 2021)
+    • Energetické posouzení (leden 2021)
+
+Realizační fáze
+   • umístění kačírku na plochou střechu základní školy – izolace střechy od FV
+   • osazení krystalických panelů – panely budou upevněny na samonosné konstrukci
+   • uložení nových kabelů
+   • umístění střídačů a rozváděčů
+   • připojení do rozvodného systému
+
+Provozní fáze
+   • servis FV panelů, revize
+
+2. Časová náročnost projektu:
+    • žádost o dotaci z Operačního programu Životní prostředí – do 31. 5. 2023
+    • vlastní realizace – do konce roku 2022
+    • Žádost o udělení licence pro podnikání v energetických odvětvích (na Energetický regulační
+       ústav)
+    • udržitelnosti projektu – 5 let po jeho ukončení (zajistí nositel projektu; není hrazeno z dotace)
+
+3. Indikátory:
+Snížení konečné spotřeby energie ve veřejných budovách - 25,307 MWh ročně
+4. Hrubý rozpočet na celou dobu trvání projektu:
+
+Odhad celkových výdajů – 1 639 549 Kč včetně 21 % DPH; z toho:
+   • realizace: 1 532 289 Kč
+   • projektová příprava (PD, en. posouzení, TDI): 107 260 Kč
+
+                           B. 2. STRATEGICKÝ A LEGISLATIVNÍ PRŮMĚT
+1. Soulad se Strategií Brno 2050:
+Projekt je v rámci Strategie Brno 2050 v souladu s hodnotou Energeticky šetrné, nezávislé a odolné
+město, a to s dílčím cílem D „Zvýšit podíl místních obnovitelných zdrojů na energetickém zásobování
+města na základě technologických inovací“, prioritou D1 „Prosazovat rostoucí podíl nízko-emisních
+kapacit (fotovoltaické, vodní a větrné elektrárny, výroba z bioplynu, biomasy a komunálního odpadu)“.
+2. Soulad s odvětvovými koncepčními dokumenty MMB:
+Projekt je v souladu s Akčním plánem udržitelné energetiky a klimatu SECAP a Územní energetickou
+koncepcí statutárního města Brna.
+3. Soulad s územním plánem města Brna:
+Irelevantní vzhledem k povaze projektu
+
+
+4. Legislativní audit:
+Veškeré aktivity plánované v rámci tohoto projektu jsou v souladu s platnou legislativou ČR i EU.
+Realizací tohoto projektu nevznikají žádná právní rizika pro žádný subjekt.
+
+
+
+
+                                                                                                    Strana 14 / 21
+                              PROJEKTOVÝ ZÁMĚR – část C.
+                                         C. 1. FINANCOVÁNÍ
+
+1. Rozpočet na celou dobu trvání projektu:
+ fáze
+                                     Výdaje na projekt
+                      v Kč     investiční         provozní                Příjmy z projektu
+přípravná                           107 260 Kč
+realizační                        1 532 289 Kč
+Provozní
+Celkem                            1 639 549 Kč
+
+
+2. Možnosti financování
+
+          v Kč                Částka         %                     Upřesnění
+Vlastní zdroje
+Rozpočet města                280 626 Kč    17,1 Fond kofinancování projektů
+Ostatní veřejné zdroje        280 626 Kč    17,1 Rozpočet MČ Brno-Líšeň
+EU                          1 078 297 Kč    65,8 Operační program Životní prostředí
+Privátní zdroje
+jiné
+         Celkem             1 639 549 Kč 100,0
+
+
+                                     C. 2. OSTATNÍ INFORMACE
+
+1. Majetkové poměry:
+Projekt bude realizován na střeše objektu s č.p. 2170/1, která se nachází na parcelách 6188/3, 6188/11,
+k.ú. Líšeň. Jedná se o budovu Základní školy a mateřské školy, Brno, Horníkova 1, příspěvkové
+organizace, která je v majetku statutárního města Brna a byla svěřena městské části Brno-Líšeň,
+zřizovateli této ZŠ. ZŠ je zde v bezúplatném nájmu.
+
+
+2. Synergie:
+---
+
+3. Zajištění udržitelnosti projektu:
+Udržitelnosti po dobu nejméně 5 let po ukončení realizace projektu zajistí z vlastních zdrojů nositel
+projektu. Jedná se zejména o servis a revize FV panelů.
+
+
+
+
+                                                                                                    Strana 15 / 21
+                                Analýza dotačních příležitostí
+
+Projekt Fotovoltaický systém ZŠ a MŠ Horníkova svým zaměřením spadá do Operačního programu
+Životní prostředí 2021–2027, Specifického cíle 1.2 Podpora energie z obnovitelných zdrojů v souladu
+se směrnicí (EU) 2018/2001, včetně kritérií udržitelnosti stanovených v uvedené směrnici, Opatření
+1.2.1 Výstavba a rekonstrukce obnovitelných zdrojů energie pro veřejné budovy. Jednou
+z podporovaných aktivit je financování instalace fotovoltaického systému.
+
+Příjem žádostí probíhá v rámci aktuální 11. výzvy do 31. května 2023.
+
+Celkové náklady na realizaci projektu se předpokládají ve výši 1 639 549 Kč. Celá výše nákladů by
+měla být způsobilá. Dotace je odhadována na 1 078 297 Kč.
+
+Podmínky Operačního programu Životní prostředí pro instalaci FV systému
+   • FV systém musí být umístěn pouze na střešní konstrukci nebo na obvodové zdi budovy
+   • podporovány jsou pouze monofaciální moduly z monokrystalického křemíku (s min. účinností
+      19 %), monofaciální moduly z multikrystalického křemíku (s min. účinností 18 %), bifaciální
+      moduly (s min. účinností 19 %) a tenkovrstvé moduly (s min. účinností 12 %)
+   • u měničů je vyžadována min. účinnost 97 %
+   • podporovány jsou pouze výrobny s případným jedním předávacím místem do přenosové nebo
+      distribuční soustavy
+
+Dle zpracovaného en. posouzení i projektové dokumentace bude projekt tyto podmínky splňovat.
+
+Přehled způsobilých výdajů:
+   • stavební práce, dodávky a služby spojené s realizací fotovoltaických systémů
+   • projektová příprava, technický dozor – ve výši 7 % ze způsobilých realizačních výdajů
+
+Rozpočet projektu
+
+ realizační výdaje                 1 532 289 Kč
+ projektová příprava                107 260 Kč
+ celkem                            1 639 549 Kč
+
+Zdroje krytí projektu
+Dle dokumentu Pravidla pro žadatele a příjemce Operačního programu Životní prostředí je možné
+získat podporu ve výši 75 % ze způsobilých výdajů. Zároveň je zejména v závislosti na navrženém
+výkon fotovoltaické elektrárny stanoven maximální limit dotace.
+
+  Aktualizovaná struktura výdajů projektu „Fotovoltaický systém ZŠ a MŠ Horníkova“ (včetně
+  DPH)
+  Celkové výdaje projektu                                               1 639 549 Kč         100,0 %
+  Nezpůsobilé výdaje                                                           0 Kč            0,0 %
+  Způsobilé výdaje                                                      1 639 549 Kč         100,0 %
+  Výše dotace                                                           1 078 297 Kč          65,8 %
+  Spolufinancování města Brna                                            280 626 Kč           17,1 %
+  Spolufinancování městské části Brno-Líšeň                              280 626 Kč           17,1 %
+  Roční snížení provozních nákladů (MWh/rok)                                                  25,307
+  Roční úspora energie (vč. DPH)                                                       144 456 Kč
+
+
+
+
+                                                                                                  Strana 16 / 21
+Upravené posouzení projektu „Fotovoltaický systém ZŠ Masarova“ se skládá z těchto částí:
+
+                   1.   Záměr projektu
+                        a) Obecné údaje
+                        b) Legislativní a strategický průmět, popis projektu
+                        c) Financování
+                   2.   Analýza dotačních příležitostí
+
+
+
+
+                                                                                       Strana 17 / 21
+                        PROJEKTOVÝ ZÁMĚR – část A.
+                             A .1. PŘEDKLADATEL
+1. Plný název předkladatele projektu:
+Statutární město Brno, Dominikánské náměstí 1, 602 00 Brno
+
+2. Právní statut:
+statutární město (dle zákona č. 128/2000 Sb., o obcích)
+
+                  A. 2. KONTAKTNÍ OSOBA A PARTNEŘI PROJEKTU
+1. Nositel projektu:
+Statutární město Brno, MČ Brno-Líšeň
+
+2. Jméno kontaktní osoby (nositele):
+JUDr. PhDr. Martin Příborský, EMLE. – místostarosta
+
+
+3. Adresa, telefon, mobil, e-mail, webová stránka kontaktní osoby:
+Úřad městské části Brno-Líšeň
+Jírova 2, 628 00 Brno-Líšeň
+e-mail: priborsky@brno-lisen.cz
+telefon: 770 195 187
+
+4. Přehled partnerů participujících na projektu: -
+5. Adresa, telefon, mobil, e-mail, webová stránka partnerů na projektu: -
+6. Způsob spolupráce partnerů na projektu: -
+                  A. 3. VŠEOBECNÉ INFORMACE O PROJEKTU
+1. Název projektu:
+Fotovoltaický systém ZŠ Masarova
+
+
+2. Umístění projektu:
+Střecha objektu ZŠ Masarova
+Masarova 2360/11, 628 00 Brno-Líšeň
+3. Cíle projektu, jeho účel:
+Cílem projektu je dosažení energetických úspor budovy ZŠ Masarova, a to prostřednictvím instalace
+fotovoltaického systému na střechu budovy.
+Z pohledu ochrany životního prostředí dojde ke snížení produkce znečišťujících látek, především CO2.
+4. Výchozí stav:
+V současné době je veškerá el. energie potřebná pro chod ZŠ Masarova odebírána z distribuční sítě.
+
+5. Předpokládané výsledky projektu:
+Výsledkem projektu bude instalovaný fotovoltaický systém na ploché střeše budovy.
+
+
+6. Předpokládané dopady projektu:
+Zlepšení životního prostředí snížením produkce znečišťujících látek, především CO2.
+Ekonomický dopad do rozpočtu města Brna – dle zpracovaného energetického posouzení předpoklad
+snížení provozních nákladů o 179,5 tis. Kč ročně; roční úspora energie 34,778 MWh
+
+
+7. Cílové skupiny:
+Všichni uživatelé objektu a zřizovatel (v rámci snížení spotřeby energie za sledované období).
+
+
+
+
+                                                                                                  Strana 18 / 21
+                        PROJEKTOVÝ ZÁMĚR – část B.
+                               B. 1. POPIS PROJEKTU
+Přípravná fáze
+    • Studie Instalace solárního systému na výrobu elektřiny (říjen 2020)
+    • Projektová dokumentace (leden 2021)
+    • Energetické posouzení (leden 2021)
+
+Realizační fáze
+   • umístění kačírku na plochou střechu základní školy – izolace střechy od FV
+   • osazení krystalických panelů – panely budou upevněny na samonosné konstrukci
+   • uložení nových kabelů
+   • umístění střídačů a rozváděčů
+   • připojení do rozvodného systému
+
+Provozní fáze
+   • servis FV panelů, revize
+
+2. Časová náročnost projektu:
+    • žádost o dotaci z Operačního programu Životní prostředí – do 31. 5. 2023
+    • vlastní realizace – do konce roku 2022
+    • Žádost o udělení licence pro podnikání v energetických odvětvích (na Energetický regulační
+       ústav)
+    • udržitelnosti projektu – 5 let po jeho ukončení (zajistí nositel projektu; není hrazeno z dotace)
+
+3. Indikátory:
+Snížení konečné spotřeby energie ve veřejných budovách - 34,778 MWh ročně
+4. Hrubý rozpočet na celou dobu trvání projektu:
+
+Odhad celkových výdajů – 1 860 782 Kč včetně 21 % DPH; z toho:
+   • realizace: 1 739 048 Kč
+   • projektová příprava (PD, en. posouzení, TDI): 121 734 Kč
+
+                           B. 2. STRATEGICKÝ A LEGISLATIVNÍ PRŮMĚT
+1. Soulad se Strategií Brno 2050:
+Projekt je v rámci Strategie Brno 2050 v souladu s hodnotou Energeticky šetrné, nezávislé a odolné
+město, a to s dílčím cílem D „Zvýšit podíl místních obnovitelných zdrojů na energetickém zásobování
+města na základě technologických inovací“, prioritou D1 „Prosazovat rostoucí podíl nízko-emisních
+kapacit (fotovoltaické, vodní a větrné elektrárny, výroba z bioplynu, biomasy a komunálního odpadu)“.
+2. Soulad s odvětvovými koncepčními dokumenty MMB:
+Projekt je v souladu s Akčním plánem udržitelné energetiky a klimatu SECAP a Územní energetickou
+koncepcí statutárního města Brna.
+3. Soulad s územním plánem města Brna:
+Irelevantní vzhledem k povaze projektu
+
+
+4. Legislativní audit:
+Veškeré aktivity plánované v rámci tohoto projektu jsou v souladu s platnou legislativou ČR i EU.
+Realizací tohoto projektu nevznikají žádná právní rizika pro žádný subjekt.
+
+
+
+
+                                                                                                    Strana 19 / 21
+                               PROJEKTOVÝ ZÁMĚR – část C.
+                                         C. 1. FINANCOVÁNÍ
+
+1. Rozpočet na celou dobu trvání projektu:
+ fáze
+                                     Výdaje na projekt
+                      v Kč     investiční         provozní                 Příjmy z projektu
+přípravná                            121 734 Kč
+realizační                         1 739 048 Kč
+Provozní
+Celkem                             1 860 782 Kč
+
+
+2. Možnosti financování
+
+          v Kč                 Částka         %                      Upřesnění
+Vlastní zdroje
+Rozpočet města                271 479 Kč     14,6 Fond kofinancování projektů
+Ostatní veřejné zdroje        271 479 Kč     14,6 Rozpočet MČ Brno-Líšeň
+EU                          1 317 824 Kč     70,8 Operační program Životní prostředí
+Privátní zdroje
+jiné
+         Celkem             1 860 782 Kč 100,0
+
+
+                                     C. 2. OSTATNÍ INFORMACE
+
+1. Majetkové poměry:
+Projekt bude realizován na střeše objektu s č.p. 2360/11, která se nachází na parcele 6204/1, k.ú. Líšeň.
+Jedná se o budovu Základní školy, Brno, Masarova 11, příspěvkové organizace, která je v majetku
+statutárního města Brna a byla svěřena městské části Brno-Líšeň, zřizovateli této ZŠ. ZŠ je zde
+v bezúplatném nájmu.
+
+
+2. Synergie:
+---
+
+3. Zajištění udržitelnosti projektu:
+Udržitelnosti po dobu nejméně 5 let po ukončení realizace projektu zajistí z vlastních zdrojů nositel
+projektu. Jedná se zejména o servis a revize FV panelů.
+
+
+
+
+                                                                                                     Strana 20 / 21
+                                Analýza dotačních příležitostí
+
+Projekt Fotovoltaický systém ZŠ Masarova svým zaměřením spadá do Operačního programu Životní
+prostředí 2021–2027, Specifického cíle 1.2 Podpora energie z obnovitelných zdrojů v souladu se
+směrnicí (EU) 2018/2001, včetně kritérií udržitelnosti stanovených v uvedené směrnici, Opatření 1.2.1
+Výstavba a rekonstrukce obnovitelných zdrojů energie pro veřejné budovy. Jednou z podporovaných
+aktivit je financování instalace fotovoltaického systému.
+
+Příjem žádostí probíhá v rámci aktuální 11. výzvy do 31. května 2023.
+
+Celkové náklady na realizaci projektu se předpokládají ve výši 1 860 782 Kč. Celá výše nákladů by
+měla být způsobilá. Dotace je odhadována na 1 317 825 Kč.
+
+Podmínky Operačního programu Životní prostředí pro instalaci FV systému
+   • FV systém musí být umístěn pouze na střešní konstrukci nebo na obvodové zdi budovy
+   • podporovány jsou pouze monofaciální moduly z monokrystalického křemíku (s min. účinností
+      19 %), monofaciální moduly z multikrystalického křemíku (s min. účinností 18 %), bifaciální
+      moduly (s min. účinností 19 %) a tenkovrstvé moduly (s min. účinností 12 %)
+   • u měničů je vyžadována min. účinnost 97 %
+   • podporovány jsou pouze výrobny s případným jedním předávacím místem do přenosové nebo
+      distribuční soustavy
+
+Dle zpracovaného en. posouzení i projektové dokumentace bude projekt tyto podmínky splňovat.
+
+Přehled způsobilých výdajů:
+   • stavební práce, dodávky a služby spojené s realizací fotovoltaických systémů
+   • projektová příprava, technický dozor – ve výši 7 % ze způsobilých realizačních výdajů
+
+Rozpočet projektu
+
+  realizační výdaje                1 739 048 Kč
+  projektová příprava                121 734 Kč
+  celkem                           1 860 782 Kč
+
+Zdroje krytí projektu
+Dle dokumentu Pravidla pro žadatele a příjemce Operačního programu Životní prostředí je možné získat
+podporu ve výši 75 % ze způsobilých výdajů. Zároveň je zejména v závislosti na navrženém výkon
+fotovoltaické elektrárny stanoven maximální limit dotace.
+
+
+  Aktualizovaná struktura výdajů projektu „Fotovoltaický systém ZŠ Masarova“ (včetně DPH)
+
+  Celkové výdaje projektu                                               1 860 782 Kč         100,0 %
+  Nezpůsobilé výdaje                                                           0 Kč            0,0 %
+  Způsobilé výdaje                                                      1 860 782 Kč         100,0 %
+  Výše dotace                                                           1 317 824 Kč          70,8 %
+  Spolufinancování města Brna                                            271 479 Kč           14,6 %
+  Spolufinancování městské části Brno-Líšeň                              271 479 Kč           14,6 %
+  Roční snížení provozních nákladů (MWh/rok)                                                  34,778
+  Roční úspora energie (vč. DPH)                                                         179 500 Kč
+
+
+
+
+                                                                                                 Strana 21 / 21
+

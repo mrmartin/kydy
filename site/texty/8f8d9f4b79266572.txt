@@ -1,0 +1,219 @@
+Rada města Brna
+
+Z9/33. zasedání Zastupitelstva města Brna
+konané dne 3.3.2026
+
+
+
+  58. Projekt "Zvýšení kybernetické bezpečnosti, monitoring sítě a
+  zajištění vysoké dostupnosti IS Nemocnice Milosrdných Bratří" –
+                      návrh pověřovacího aktu
+
+Anotace
+Návrh pověřovacího aktu na projekt „Zvýšení kybernetické bezpečnosti, monitoring sítě a zajištění
+vysoké dostupnosti IS Nemocnice Milosrdných Bratří“. Projekt posílí infrastrukturu, podpoří plnou
+funkčnost nemocničního informačního systému organizace a všech dalších provozních systémů NMB.
+Celkové náklady na projekt se předpokládají ve výši 60 mil. Kč, předpoklad dotace je ve výši 42,5 mil.
+Kč. Realizace projektu se předpokládá v rozmezí 1.3.2026 – 31.10.2027.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   pověřovací akt ve vztahu k Nemocnici Milosrdných bratří, příspěvkové organizaci,
+                               se sídlem Polní 553/3, Štýřice, 639 00 Brno, IČO: 48512478, v rámci projektu
+                               „Zvýšení kybernetické bezpečnosti, monitoring sítě a zajištění vysoké dostupnosti IS
+                               Nemocnice Milosrdných Bratří“ předkládaného do Integrovaného regionálního
+                               operačního programu IROP 2021-2027 v rámci 4. výzvy Kybernetická bezpečnost,
+                               který tvoří přílohu č….tohoto zápisu.
+
+
+Stanoviska
+
+Materiál byl předložen Radě města Brna na schůzi č. R9/165 konané dne 25. 2. 2026 a stanovisko
+bude sděleno.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Ivan Hloušek
+  vedoucí odboru - Odbor implementace evropských fondů
+  23.2.2026 v 14:32
+  Garance správnosti, zákonnosti materiálu
+
+
+
+
+Sestava vytvořena 24.2.2026 v 11:11                          1/2                              Vygenerováno programem eMMB
+
+
+                                                                                                              Strana 1 / 6
+Spolupodepisovatel                     Spolupodepisovatel
+
+  Elektronicky podepsáno                    Elektronicky podepsáno
+
+  Mgr. Jiří Kučera                          JUDr. Eva Rabušicová
+  vedoucí úseku - 1. úsek                   vedoucí odboru - Odbor zdraví
+  24.2.2026 v 11:11                         23.2.2026 v 14:51
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  24.2.2026 v 08:45
+
+
+
+
+Sestava vytvořena 24.2.2026 v 11:11   2/2                                   Vygenerováno programem eMMB
+
+
+                                                                                            Strana 2 / 6
+                                  Obsah materiálu
+Návrh usnesení                                                        1-2
+Obsah materiálu                                                       3-3
+Důvodová zpráva                                                       4-4
+Příloha k usnesení (Z9_33_Projekt Zvýšení kybernetické bezpečnosti–   5-6
+POVĚŘOVACÍ AKT - kopie.pdf)
+
+
+
+
+                                                                       Strana 3 / 6
+                                          Důvodová zpráva
+
+
+Kolektivním orgánům města je předkládán návrh pověřovacího aktu na projekt „Zvýšení kybernetické
+bezpečnosti, monitoring sítě a zajištění vysoké dostupnosti IS Nemocnice Milosrdných Bratří“. Město
+Brno pověřuje Nemocnici Milosrdných bratří, příspěvkovou organizaci (dále také NMB), výkonem
+specializovaných činností v rámci závazku veřejné služby, které jsou dotačním projektem podporované.
+Projekt byl podán do 4.výzvy Integrovaného regionálního operačního programu 2021-2027, oblast
+eGovernment a kybernetická bezpečnost, specifický cíl 1.1. Využívání přínosů digitalizace pro občany,
+podniky, výzkumné organizace a veřejné orgány.
+Souhlas s podáním žádosti o podporu a návrh na pověření nemocnice investorskou činností byl
+schválen Radou města Brna na schůzi č. R8/231 konané dne 10. 8. 2022.
+Navrhované řešení povede ke zvýšení odolnosti nemocnice proti stále častějším kybernetickým útokům.
+V případě nenadálé události bude NMB ještě lépe připravena na obnovu informačních systémů, nutných
+pro její provoz, a to ve velmi krátkém čase. Technologické prvky potom doplní celé řešení jak v kontextu
+plné funkčnosti řešení, tak i z pohledu technologických nároků na bezpečnost, důvěryhodnost
+a dostupnost informací dle standardů v dnešní době.
+
+Celkové náklady na projekt se při podání žádosti v roce 2022 předpokládaly ve výši 60 mil. Kč.
+Maximální způsobilé výdaje činí dle parametrů výzvy 50 mil. Kč. Předpoklad dotace je ve výši 42,5 mil.
+Kč. NMB předpokládá, že celkové náklady budou nižší s ohledem na cenový vývoj technických
+softwarových opatření Po ukončení výběrového řízení bude NMB žádat o finanční prostředky na
+předfinancování realizace projektu a bude řešena výše spoluúčasti města Brna.
+
+
+
+Struktura výdajů projektu “Zvýšení kybernetické bezpečnosti, monitoring sítě a zajištění vysoké
+dostupnosti IS Nemocnice Milosrdných Bratří“ (včetně DPH)
+Celkové výdaje projektu                                      60 390 643,83 Kč           100,0 %
+Nezpůsobilé výdaje                                                10 390 754,00 Kč             17,2 %
+Způsobilé výdaje                                                  49 999 889,83 Kč             82,8 %
+Výše dotace                                                       42 499 906,35 Kč             70,4 %
+Výše kofinancování                                                17 890 737,48 Kč             29,6 %
+
+
+Realizace projektu se předpokládá v rozmezí 1.3.2026 – 31.10.2027.
+
+Nositelem projektu v souladu s Metodikou implementace projektů (spolu)financovatelných
+z evropských fondů a národních programů (dále jen „metodika“) je Nemocnice Milosrdných bratří,
+příspěvková organizace.
+
+
+Stanoviska dotčených orgánů:
+Materiál nepodléhá projednání v komisích RMB.
+Materiál byl předložen Radě města Brna na schůzi č. R9/165 konané dne 25. 2. 2026 a stanovisko
+bude sděleno.
+
+
+
+
+                                                                                                    Strana 4 / 6
+                                         POVĚŘOVACÍ AKT
+
+   Dle rozhodnutí Komise (2012/21/EU) o použití čl. 106 odst. 2 Smlouvy o fungování EU na státní
+podporu ve formě vyrovnávací platby za závazek veřejné služby udělené určitým podnikům pověřeným
+                      poskytováním služeb obecného hospodářského zájmu
+                                        (Rozhodnutí SGEI)
+
+
+Pověřovatel:
+Statutární město Brno, se sídlem Dominikánské náměstí 196/1, 602 00 Brno, IČO: 44992785
+
+
+Poskytovatel služby obecného hospodářského zájmu:
+Nemocnice Milosrdných bratří, příspěvková organizace, se sídlem Polní 553/3, Štýřice 639 00
+Brno, IČO: 48512478, DIČ: CZ48512478, zapsaná v Obchodním rejstříku spisová značka Pr 13 vedená
+u Krajského soudu v Brně
+
+
+
+
+Pověřovatel Statutární město Brno, se sídlem Dominikánské nám. 196/1, 602 00 Brno,
+IČO: 44992785, pověřuje Nemocnici Milosrdných bratří, příspěvkovou organizaci, se sídlem Polní
+553/3, Štýřice 639 00 Brno, IČO: 48512478, DIČ: CZ48512478, zapsanou v Obchodním rejstříku
+spisová značka Pr 13 vedenou u Krajského soudu v Brně k poskytování služeb obecného
+hospodářského zájmu – poskytování zdravotních služeb v souladu s oprávněním k poskytování
+zdravotních služeb podle zákona č.372/2011 Sb., o zdravotních službách a podmínkách jejich
+poskytování (zákon o zdravotních službách), ve znění pozdějších předpisů, na období 10 let,
+počínaje rokem 2026.
+
+Náplň a trvání závazku veřejné služby:
+
+Pověřovatel Statutární město Brno, se sídlem Dominikánské nám. 196/1, 602 00 Brno, IČO: 44992785,
+je zřizovatelem Nemocnice Milosrdných bratří, příspěvkové organizace, se sídlem Polní 553/3, Štýřice
+639 00 Brno, IČO: 48512478, DIČ: CZ48512478, zapsané v Obchodním rejstříku spisová značka Pr 13
+vedená u Krajského soudu v Brně. Hlavním účelem organizace je poskytování zdravotních služeb
+a zajištění dostupné a kvalitní zdravotní péče.
+
+Vymezení hlavního účelu a tomu odpovídajícího předmětu činnosti:
+Nemocnice Milosrdných bratří, příspěvková organizace je poskytovatelem akutní lůžkové péče
+standardní ve všech základních oborech, akutní lůžkové péče intenzivní, ambulantní zdravotní péče a
+rovněž následné lůžkové péče. Je držitelem oprávnění k poskytování zdravotních služeb.
+
+Trvání závazku veřejné služby: 10 let
+Mechanismus a výpočet pro kontrolu a přezkoumání vyrovnávací platby:
+Poskytovatel služby obecného hospodářského zájmu nepožaduje po Pověřovateli vyrovnávací platbu
+na období 10 let, počínaje rokem 2026, ve vztahu k projektu “Zvýšení kybernetické bezpečnosti,
+monitoring sítě a zajištění vysoké dostupnosti IS Nemocnice Milosrdných Bratří“ předkládaného do
+4. výzvy IROP Kybernetická bezpečnost.
+Mechanismus a výpočet pro kontrolu a přezkoumání vyrovnávací platby Poskytovatel služby obecného
+hospodářského zájmu k Pověřovacímu aktu nedokládá.
+
+Opatření k zamezení a vrácení jakékoliv nadměrné vyrovnávací platby:
+Pověřovatel není vázán vůči Poskytovateli služby obecného hospodářského zájmu k zasílání části
+vyrovnávací platby dle závazných ukazatelů na období 10 let, počínaje rokem 2026, ve vztahu
+
+
+
+
+                                                                                                Strana 5 / 6
+k projektu “Zvýšení kybernetické bezpečnosti, monitoring sítě a zajištění vysoké dostupnosti IS
+Nemocnice Milosrdných Bratří“ předkládaného do 4. výzvy IROP Kybernetická bezpečnost.
+
+Opatření k zamezení a vrácení jakékoliv nadměrné vyrovnávací platby se tak k Pověřovacímu aktu
+nedokládá.
+Tento Pověřovací akt je vyhotoven v souladu s Rozhodnutím Komise (2012/21/EU) o použití čl.
+106 odst. 2 Smlouvy o fungování EU na státní podporu ve formě vyrovnávací platby za závazek
+veřejné služby udělené určitým podnikům pověřeným poskytováním služeb obecného
+hospodářského zájmu (Rozhodnutí SGEI).
+
+
+
+
+JUDr. Markéta Vaňková
+Primátorka města Brna
+
+
+
+
+                                                                                           Strana 6 / 6
+

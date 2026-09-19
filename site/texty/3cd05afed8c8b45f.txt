@@ -1,0 +1,104 @@
+                                                            Schválená bilance zdrojů a výdajů města Brna na rok 2024 (v tis. Kč)
+                                                                                                                                          Město Brno
+            položka                                                                                                                                                      %           %
+č.ř.      podseskupení                                            PŘÍJMY                                 Skutečnost       SR           Oč. skuteč.        SR          SR 2024     SR 2024
+              třída                                                                                         2022         2023             2023           2024         SR 2023    Oč.s. 2023
+ 1                    1111 Příjem z daně z příjmů fyzických osob placené plátci                              2 091 042     2 230 000         2 520 000    2 570 000        115,2       102,0
+ 2                    1112 Příjem z daně z příjmů fyzických osob placená poplatníky                            181 645       140 000           180 000      180 000        128,6       100,0
+ 3                    1113 Příjem z daně z příjmů fyzických osob vybírané srážkou                              403 775       390 000           560 000      490 000        125,6        87,5
+ 4                    1121 Příjem z daně z příjmů právnických osob                                           3 053 527     3 190 000         4 090 000    4 010 000        125,7        98,0
+ 5                    1211 Příjem z daně z přidané hodnoty                                                   6 934 323     7 400 000         7 400 000    7 600 000        102,7       102,7
+ 6                    1511 Příjem z daně z nemovitých věcí                                                     257 369       250 000           250 000      450 000        180,0       180,0
+ 7                           Daňové výnosy (ř.1 až ř.6)                                                     12 921 681    13 600 000        15 000 000   15 300 000        112,5       102,0
+ 8                    1122 Příjem z daně z příjmů právnických osob za obce - VPČ                                90 277                          47 254
+ 9                    1122 Příjem z daně z příjmů právnických osob za obce - rozpočtová činnost**)             125 298       250 000           135 194      250 000       100,0       184,9
+10                    133x Příjem z poplatků a odvodů v oblasti životního prostředí                              2 731         2 030             2 840        2 545       125,4        89,6
+11                    134x Příjem z místních poplatků z vybraných činností a služeb                            238 760       224 823           224 823      227 225       101,1       101,1
+12                    135x Příjem z ostatních odvodů z vybraných činností a služeb                               4 395         3 900             3 935        3 700        94,9        94,0
+13                    136x Příjem ze správních a soudních poplatků                                              83 997        72 727            76 106       76 237       104,8       100,2
+14                    138x Příjem z daní, poplatků a jiných peněžitých plnění v oblasti hazardních her         140 986       130 000           150 000      170 000       130,8       113,3
+15                     tř. 1 Daňové příjmy celkem (ř.7 až ř.14)                                             13 608 125    14 283 480        15 640 152   16 029 707       112,2       102,5
+16                    211x Příjem z vlastní činnosti                                                           115 653       123 757           123 231      152 417       123,2       123,7
+17                    212x Příjem z odvodů přebytků organizací s přímým vztahem                                102 813       120 271           120 271      100 041        83,2        83,2
+18                    213x Příjem z pronájmu nebo pachtu majetku                                               155 345       153 017           155 465      162 628       106,3       104,6
+19                    214x Přijaté výnosy z finančního majetku                                                 115 208        55 066            96 685       67 310       122,2        69,6
+20                    221x Přijaté sankční platby                                                               69 155        71 145            71 553       68 507        96,3        95,7
+21      2 mimo výše uved. Jiné nedaňové příjmy                                                                 269 852       124 669           185 638      289 998       232,6       156,2
+22                    tř. 2 Nedaňové příjmy celkem (ř.16 až ř.21)                                              828 026       647 925           752 843      840 901       129,8       111,7
+23                    311x Příjem z prodeje dlouhodobého majetku - bytové domy a pozemky                       204 703       150 500           163 000       51 000        33,9        31,3
+24                    311x Příjem z prodeje dlouhodobého majetku - ostatní                                     219 846       200 100           190 405      400 100       200,0       210,1
+25             312x + 32xx Ostatní kapitálové příjmy                                                            21 221                          47 944       20 000                    41,7
+26                     tř. 3 Kapitálové příjmy celkem (ř.23 až ř.25)                                           445 770       350 600           401 349      471 100       134,4       117,4
+27                           Vlastní příjmy celkem (ř.15 + ř.22 + ř.26)                                     14 881 921    15 282 005        16 794 344   17 341 708       113,5       103,3
+28                    4112 Transfery ze státního rozpočtu v rámci souhrnného dotačního vztahu                  197 067       200 238           200 238      198 491        99,1        99,1
+29                    4121 Neinvestiční přijaté transfery od obcí                                                   15            25                25           25       100,0       100,0
+30              4131, 4132 Převody z vlastních fondů                                                           869 079       902 897           902 971      962 841       106,6       106,6
+32              4137, 4251 Neinvestiční a investiční přijaté transfery od městských částí (a mezi MČ)           62 175        57 209            78 907       52 150        91,2        66,1
+33      4 mimo výše uved. Ostatní přijaté transfery                                                          1 225 629
+34                     tř. 4 Přijaté transfery celkem (ř.28 až ř.33)                                         2 353 965     1 160 369        1 182 141     1 213 507       104,6       102,7
+35             tř. 1 až tř. 4 PŘÍJMY celkem (ř.27 + ř.34)                                                  17 235 886     16 442 374       17 976 485    18 555 215       112,8       103,2
+
+       *) Daň z příjmů právnických osob za město z rozpočtové činnosti je v příjmech i ve výdajích ve stejné výši a neovlivňuje saldo příjmů a výdajů
+       Pro srovnatelnost jsou vyloučeny účelové transfery, přijaté z ostatních veřejných rozpočtů během roku
+                                                                                                                                             Město Brno
+            položka                                                                                                                                                           %           %
+č.ř.      podseskupení                                          VÝDAJE                                     Skutečnost       SR            Oč. skuteč.        SR            SR 2024     SR 2024
+              třída                                                                                           2022         2023              2023           2024           SR 2023    Oč.s. 2023
+ 1                    501x Platy                                                                                 948 612     1 004 555          1 059 172    1 018 127          101,4        96,1
+ 2                    502x Výdaje na ostatní platby za provedenou práci                                           65 758        40 024             56 055       52 911          132,2        94,4
+ 3                    503x Povinné a zákonné pojistné placené zaměstnavatelem                                    336 862       362 599            385 060      370 431          102,2        96,2
+ 4                    516x Výdaje na nákup služeb                                                              1 507 567     1 707 281          1 726 860    1 952 167          114,3       113,0
+ 5                    5171 Opravy a udržování                                                                    620 159       554 430            729 131      748 253          135,0       102,6
+ 6                    5213 Neinvestiční transfery nefinančním podnikatelům - DPmB                              2 464 000     2 750 000          2 750 000    2 680 000           97,5        97,5
+ 7                    5331 Neinvestiční příspěvky zřízeným příspěvkovým organizacím                            2 239 705     2 295 328          2 350 644    2 340 026          101,9        99,5
+ 8                    5347 Neinvestiční transfery městským částem - ORF                                        1 810 206     1 922 308          2 067 875    2 284 693          118,9       110,5
+ 9                    5347 Neinvestiční transfery městským částem - OŠML                                          66 092        29 050            144 550       45 681          157,2        31,6
+10                    5347 Neinvestiční transfery městským částem - OI, ostatní útvary                           171 566         8 700             29 733        6 519           74,9        21,9
+                                                                                       **)
+11                    5365 Daň z příjmů právnických osob za obce - rozpočtová činnost                            125 298       250 000            135 194      250 000          100,0       184,9
+12              5901, 5903 Rezervy rozpočtu                                                                                     70 388                         100 090          142,2
+13      5 mimo výše uved. Běžné výdaje bez DPPO a transferů městu a městským částem                           2 094 889      1 827 257           665 726     1 944 569          106,4       292,1
+14                      tř.5 Běžné výdaje celkem (ř.1 až ř.13)                                               12 450 714     12 821 920        12 100 000    13 793 467          107,6       114,0
+15      6 mimo níže uved. Kapitálové výdaje bez transferů městským částem                                     3 960 905      5 006 207         4 362 766     5 402 250          107,9       123,8
+16                    6363 Investiční transfery městským částem - ORF                                             4 332          4 332             4 332         4 430          102,3       102,3
+17                    6363 Investiční transfery městským částem - OŠML                                          152 989        173 650           253 766       140 110           80,7        55,2
+18                    6363 Investiční transfery městským částem - OI, ostatní útvary                            156 600         88 758           179 136       107 593          121,2        60,1
+19                     tř. 6 Kapitálové výdaje celkem (ř.15 až ř.18)                                          4 274 826      5 272 947         4 800 000     5 654 383          107,2       117,8
+20              tř. 5 + tř. 6 VÝDAJE celkem (ř.14 + ř.19)                                                    16 725 540     18 094 867        16 900 000    19 447 850         107,5        115,1
+
+                                                                                                                                             Město Brno
+           položka                                                                                                                                                            %            %
+č.ř.     podseskupení                                      FINANCOVÁNÍ                                     Skutečnost       SR            Oč. skuteč.        SR            SR 2024      SR 2024
+             třída                                                                                            2022         2023              2023           2024           SR 2023     Oč.s. 2023
+ 1              8115,8901 Financování - změna stavu prostředků na ban. účtech, operace likvidity                                               -1 162 038
+ 2             8113/8905 Krátkodobé přijaté půjčené prostředky, nepřevedené částky vyrovnávající schodek                     2 263 405                       1 137 625          50,3
+ 3                   8115 Zapojení/tvorba Fondu rezerv a rozvoje                                                              -658 226           148 377      -398 558          60,6
+ 4                   8115 Tvorba Fondu krytí škod                                                                              -10 420           -14 885        -5 000          48,0          33,6
+ 5                   8115 Zapojení Fondu bytové výstavby                                                                        87 042             2 562       224 885         258,4       8 777,7
+ 6                   8115 Zapojení Fondu kofinancování projektů                                                                 43 120            74 011        68 873         159,7          93,1
+ 7                   8115 Zapojení/tvorba Fondu mobility                                                                        93 424           -79 133        71 848          76,9
+                                                                                                               -199 820
+ 8                   8115 Zapojení/tvorba Fondu developerských projektů                                                         16 000           -21 220        76 277         476,7
+ 9                   8115 Zapojení Sociálního fondu                                                                                                9 997
+10                   8115 Zapojení/tvorba veřejné sbírky na Varhany pro Brno                                                        315             -111             315
+11                   8115 Zapojení veřejné sbírky na Útulek pro opuštěná zvířata                                                  2 220              393           1 000        45,0        254,5
+12                   8115 Zapojení veřejné sbírky na zmírnění následků pandemie                                                                      136
+13                   8115 Snížení financování (tvorba rezervy)                                                                -110 000                         -50 000          45,5
+14                   8115 Použití finančních prostředků minulých let                                                           236 140           275 953        75 897          32,1         27,5
+16                   8224 Uhrazené splátky dlouhodobých přijatých úvěrů od EIB                                 -310 526       -310 527          -310 527      -310 527         100,0        100,0
+17                    tř. 8 FINANCOVÁNÍ celkem (ř.1 až ř.16)                                                   -510 346      1 652 493        -1 076 485      892 635           54,0
+
+                                                                                                                                             Město Brno
+           položka                                     PŘEHLED HOSPODAŘENÍ                                                                                                    %           %
+č.ř.     podseskupení                                                                                      Skutečnost       SR            Oč. skuteč.        SR            SR 2024     SR 2024
+             třída                                                                                            2022         2023              2023           2024           SR 2023    Oč.s. 2023
+  1           tř. 1 až tř. 4 Příjmy celkem                                                                    17 235 886    16 442 374         17 976 485   18 555 215          112,8       103,2
+  2                     tř. 8 Financování celkem                                                                -510 346     1 652 493         -1 076 485      892 635           54,0
+  3                           ZDROJE celkem                                                                   16 725 540    18 094 867         16 900 000   19 447 850          107,5       115,1
+  4             tř. 5 a tř. 6 Výdaje celkem                                                                   16 725 540    18 094 867         16 900 000   19 447 850          107,5       115,1
+  5                           POTŘEBY celkem                                                                  16 725 540    18 094 867         16 900 000   19 447 850          107,5       115,1
+
+
+       *) Daň z příjmů právnických osob za město z rozpočtové činnosti je v příjmech i ve výdajích ve stejné výši a neovlivňuje saldo příjmů a výdajů
+       Pro srovnatelnost jsou vyloučeny účelové transfery, přijaté z ostatních veřejných rozpočtů během roku
+

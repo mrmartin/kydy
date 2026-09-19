@@ -1,0 +1,380 @@
+Rada města Brna
+
+Z9/07. zasedání Zastupitelstva města Brna
+konané dne 16.5.2023
+
+
+
+        55. Projekt "Rozvoj ITS v Brně, 1. etapa" - změna parametrů
+                             posouzení projektu
+
+Anotace
+Důvodem změny parametrů posouzení projektu „Rozvoj ITS v Brně, 1. etapa“ je jednak navýšení aktivit
+projektu oproti schválenému posouzení, když byl projekt doplněn o dopravně inženýrské softwary, dále
+pak oproti schválenému posouzení narostly ceny za vybudování a rekonstrukci světelně signalizačních
+zařízení. Projekt předpokládá rekonstrukci/vybudování několika lokalit podle struktury investičního
+záměru města Brna „Rozvoj dopravní telematiky v letech 2021-2027“: - Rekonstrukce 6 světelných
+signalizačních zařízení (vč. kamerového dohledu a preference MHD), - Vybudování 3 nových světelných
+signalizačních zařízení, - Pořízení 2 dopravně inženýrských softwarů. Změna spočívá v rozšíření aktivity
+projektu a navýšení celkových nákladů z 80,5 mil. Kč na 120,7 mil. Kč.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. bere na vědomí změnu parametrů posouzení projektu „Rozvoj ITS v Brně, 1. etapa“
+
+2. schvaluje                    - upravené posouzení projektu „Rozvoj ITS v Brně, 1. etapa“", které tvoří přílohu č…
+                                tohoto zápisu
+                                - zvýšení celkových nákladů projektu ORG 5509 „Rozvoj ITS v Brně, 1. etapa“
+                                z 80 513 tis. Kč (z toho kapitálové výdaje 80 463 tis. Kč, běžné výdaje 50 tis. Kč) na
+                                120 700 tis. Kč (z toho kapitálové výdaje 120 650 tis. Kč, běžné výdaje 50 tis. Kč)
+
+
+Stanoviska
+
+Materiál byl předložen Radě města Brna na schůzi č. R9/031 konané dne 10. 5. 2023 a stanovisko
+bude sděleno
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Ivan Hloušek
+  vedoucí odboru - Odbor implementace evropských fondů
+  9.5.2023 v 10:30
+  Garance správnosti, zákonnosti materiálu
+
+
+
+
+Sestava vytvořena 9.5.2023 v 13:37                             1/2                              Vygenerováno programem eMMB
+
+
+                                                                                                                Strana 1 / 10
+Spolupodepisovatel                     Spolupodepisovatel
+
+  Elektronicky podepsáno                   Elektronicky podepsáno
+
+  Ing. Bc. Pavel Pospíšek                  Mgr. Radek Řeřicha
+  vedoucí odboru - Odbor dopravy           vedoucí úseku - 4. úsek
+  9.5.2023 v 13:37                         9.5.2023 v 11:27
+
+
+
+
+Sestava vytvořena 9.5.2023 v 13:37   2/2                             Vygenerováno programem eMMB
+
+
+                                                                                     Strana 2 / 10
+                                  Obsah materiálu
+Návrh usnesení                                                             1-2
+Obsah materiálu                                                            3-3
+Důvodová zpráva                                                            4-5
+Příloha k usnesení (Upravené posouzení projektu_Řízení ITS 1 etapa.pdf)   6 - 10
+
+
+
+
+                                                                             Strana 3 / 10
+                                           Důvodová zpráva
+
+Kolektivním orgánům města Brna je v souladu s Metodikou implementace projektů
+(spolu)financovatelných z evropských fondů a národních programů předkládána změna parametrů
+posouzení projektu „Rozvoj ITS v Brně, 1. etapa“. Důvodem změny parametrů posouzení projektu je
+jednak navýšení aktivit projektu oproti schválenému posouzení, když byl projekt doplněn o dopravně
+inženýrské softwary, dále pak oproti schválenému posouzení narostly ceny za vybudování
+a rekonstrukci světelně signalizačních zařízení.
+
+Posouzení projektu bylo schváleno na Z8/39. zasedání Zastupitelstva města Brna konaném dne
+21. června 2022. Podání žádosti o dotaci bylo schváleno Radou města Brna schůzi R9/023 konané
+22. března 2023. Samotná žádost o podporu byla podána 31. března 2023.
+
+Cílem projektu „Rozvoj ITS v Brně, 1. etapa“ je zvýšení kvality řízení dopravního provozu, zvýšení
+bezpečnosti, zvýšení efektivity dopravy pro cestující jak individuální, tak hromadnou dopravou na území
+města Brna. Do roku 2021 statutární město Brno realizovalo v rámci předchozího investičního záměru
+investice do dopravní telematiky v rozsahu cca 500 mil. Kč. Přesto je oblast dopravní telematiky v Brně
+dosud nedostatečně rozvinutá. Současný stav řízení dopravy na některých křižovatkách neodpovídá
+intenzitě individuální a veřejné dopravy, některé SSZ zařazené v projektu nejsou řízeny dynamicky nebo
+nejsou vybaveny systémem pro preferenci vozidel MHD.
+
+V rámce aktivit projektu budou realizovány následující:
+- Rekonstrukce 6 světelných signalizačních zařízení - vč. kamerového dohledu a preference MHD
+(Pisárky – Antonína Procházky, Černovická – Černovické nábřeží, Gajdošova – Táborská, Hladíkova –
+Masná, Svatoplukova – Rokytova, Kníničská – Veslařská).
+- Nová výstavba 3 světelných signalizačních zařízení - vč. kamerového dohledu a preference MHD
+(Osová – Pod nemocnicí, Obřanská – Wágnerova, Přístavní – Obvodová).
+Součástí rekonstrukce a výstavby SSZ je implementace kooperativních inteligentních dopravních
+systémů (C-ITS).
+- Pořízení dopravně inženýrského softwaru pro modelování dopravy.
+- Pořízení dopravně inženýrského softwaru pro sčítání dopravy.
+
+Výše uvedené lokality byly do projektu „Rozvoj ITS v Brně, 1. etapa“ vybrány hlavně proto, že jsou již
+projekčně připraveny, mají kladné vyjádření dotčených orgánů, a tedy mohou být rychle realizovány.
+
+Obsah projektu „Rozvoj ITS v Brně, 1. etapa“ svojí náplní spadá do Operačního programu Doprava,
+prioritní osy 2: Silniční infrastruktura na síti TEN-T, veřejná infrastruktura pro čistou mobilitu a řízení
+silničního provozu, ve které je podporován rozvoj systémů a služeb včetně ITS (Inteligentní dopravní
+systémy) ve městech pro řízení dopravy a ovlivňování dopravních proudů na městské silniční síti, dále
+též rozvoj infrastruktur prostorových dat a zavádění nových technologií a aplikací pro ochranu dopravní
+infrastruktury i optimalizaci dopravy. Inteligentní dopravní systémy a služby jsou nedílnou součástí
+TENT, umožňují zvyšovat komfort a bezpečnost dopravy a optimalizovat využití kapacity infrastruktury
+a také poskytují informační služby účastníkům dopravního provozu v reálném čase o běžných a zejména
+i o mimořádných situacích.
+
+V době mezi zpracováním posouzení projektu (červen 2022) a podáním žádosti o dotaci (březen 2023)
+došlo upřesnění několika zásadních parametrů, které měly klíčový vliv na sestavování rozpočtu
+projektové žádost.
+V uvedeném mezidobí došlo k dokončení projekčních prací, a tedy i k dokončení finálních rozpočtů
+jednotlivých SSZ, dále byly do rozpočtu projektu doplněny výdaje za dopravně inženýrské softwary,
+čímž došlo o navýšení o více než 30 % oproti původnímu posouzení. Výše změny je důvodem
+k předložení změny parametrů posouzení projektu. Nezpůsobilé výdaje projektu jsou tvořeny DPH,
+které je dle výzvy OPD nezpůsobilé a výdaji, které přesáhly finanční limit na způsobilé výdaje (95 mil.)
+též definovaný výzvou OPD.
+
+Celkové výdaje na realizaci projektu se předpokládají ve výši 120 699 460,94 mil. Kč, z toho způsobilé
+výdaje budou v hodnotě 95 000 000 Kč a nezpůsobilé 25 699 460,94 Kč. Míra dotace je dle pravidel
+OPD 85 % ze způsobilých výdajů, což je 80 750 000 Kč
+
+
+
+
+                                                                                                       Strana 4 / 10
+Původní struktura výdajů projektu „Rozvoj ITS v Brně, 1. etapa“ (včetně DPH)
+Celkové výdaje projektu                                         80 512 808 Kč           100,0 %
+Nezpůsobilé výdaje                                                        0 Kč             0,0 %
+Způsobilé výdaje                                                80 512 808 Kč           100,0 %
+Výše dotace                                                     68 435 887 Kč             85,0 %
+Spolufinancování města Brna                                     12 076 921 Kč             15,0 %
+
+Upravená struktura výdajů projektu „Rozvoj ITS v Brně, 1. etapa“ (včetně DPH)
+Celkové výdaje projektu                                     120 699 460,94 Kč          100,00 %
+Nezpůsobilé výdaje                                           25 699 460,94 Kč           21,29 %
+Způsobilé výdaje                                             95 000 000,00 Kč           78,71 %
+Výše dotace                                                  80 750 000,00 Kč           66,90 %
+Spolufinancování města Brna                                  39 949 460,94 Kč           33,10 %
+
+
+Nositelem projektu v souladu s Metodikou implementace projektů (spolu)financovatelných
+z evropských fondů a národních programů je Odbor dopravy MMB.
+
+
+Stanoviska dotčených orgánů:
+Materiál byl předložen Radě města Brna na schůzi č. R9/031 konané dne 10. 5. 2023 a stanovisko
+bude sděleno.
+Materiál nebyl z časových důvodů projednán v komisích RMB.
+
+
+
+
+                                                                                                 Strana 5 / 10
+Upravené posouzení projektu se skládá z těchto částí:
+
+
+  1.      Záměr projektu
+
+       a) Obecné údaje
+
+       b) Legislativní a strategický průmět, popis projektu
+
+       c) Financování
+
+ 2.       Analýza dotačních příležitostí
+
+
+
+
+                                                              Strana 6 / 10
+                        PROJEKTOVÝ ZÁMĚR – část B.
+                                B. 1. POPIS PROJEKTU
+1. Jednotlivé aktivity projektu:
+Projekt vychází ze struktury investičního záměru města Brna „Rozvoj dopravní telematiky v letech 2021-
+2027“. Obsahem projektu je následující:
+1. Stavby a rekonstrukce SSZ včetně preference MHD
+Rekonstrukce SSZ na 6 vybraných křižovatkách (Pisárky – Antonína Procházky, Černovická –
+Černovické nábřeží, Gajdošova – Táborská, Hladíkova – Masná, Svatoplukova – Rokytova, Kníničská
+- Veslařská) – tj. v některých případech rekonstrukce řadičů světelného signalizačního zařízení (SSZ)
+včetně preference MHD, stožárů, indukčních smyček, návěstidel, kabelových rozvodů, instalace C-ITS
+systémů, případně úpravy ploch pro pěší a přechodů pro chodce včetně bezbariérových úprav prostorů
+křižovatek, instalace kamerového dohledu, připojení SSZ křižovatky k dopravní ústředně instalované
+na Centrálním technickém dispečinku Brněnských komunikací a.s.
+Výstavba nových SSZ na 3 vybraných křižovatkách (Osová – Pod nemocnicí, Obřanská – Wágnerova,
+Přístavní – Obvodová)
+V investičním záměru „Rozvoj dopravní telematiky v letech 2021-2027“ je zařazeno více než 120 SSZ
+k rekonstrukci či nové výstavbě, v projektu je tedy řešena dílčí etapa realizace celého investičního
+záměru.
+2. Dopravně inženýrský software
+- Pořízení dopravně inženýrského softwaru pro modelování dopravy.
+- Pořízení dopravně inženýrského softwaru pro sčítání dopravy.
+2. Časová náročnost projektu:
+1. Výběr projektanta, zpracování PD                         Do 08/2022
+2. Zpracování žádosti o podporu včetně povinných příloh     09/2022–03/2023
+3. Výběrové řízení na dodavatele                            05/2023–12/2023
+4. Fyzická realizace                                        03/2024–12/2024
+
+Předpokládané zahájení samotné realizace projektu je v březnu 2024.
+Ukončení projektu se předpokládá v prosinci 2024.
+
+3. Indikátory:
+     • Počet zařízení a služeb ITS – Cílová hodnota počtu implementovaných nebo optimalizovaných
+        zařízení / systémů / služeb v rámci realizace projektu: 1
+
+4. Hrubý rozpočet na celou dobu trvání projektu:
+
+1. Stavby a rekonstrukce SSZ včetně preference MHD
+Předpokládané náklady (včetně inženýringu během realizace): 110 342 357,30 Kč
+
+2. Dopravně inženýrský software: 5 137 883,97
+
+3. Rozpočtová rezerva na nepředvídané události (do 10 % celkových rozp. nákladů): 5 219 219,67 Kč
+
+Celkové náklady: 120 699 460,94 Kč
+                        B. 2. STRATEGICKÝ A LEGISLATIVNÍ PRŮMĚT
+    1. Soulad se Strategií Brno 2050:
+Předkládaný projekt je v souladu se Strategií Brno 2050, zejména s hodnotou Kompaktní a vyvážené
+město, kdy se prostřednictvím ITS usiluje o naplnění dílčího cíle „Vytvořit město krátkých vzdáleností“
+a s hodnotou Město s efektivní a udržitelnou mobilitou, kde se usiluje o naplnění dílčího cíle „Vytvořit
+efektivní a prostupný dopravní systém umožňující snadnou volbu druhu dopravy, který nejlépe odpovídá
+požadavků uživatelů – obyvatel města“.
+
+    2. Soulad s odvětvovými koncepčními dokumenty MMB:
+Soulad se schváleným investičním záměrem „Rozvoj dopravní telematiky v letech 2021-2027
+
+
+
+
+                                                                                                    Strana 7 / 10
+Projekt je v souladu s dokumentem „Strategie rozvoje dopravní telematiky ve městě Brně" v
+následujících opatřeních:
+Kapitola B. Hlavní oblasti pro aplikaci DTMB a C. Rozsah plánované realizace: ŘÍZENÍ DOPRAVY
+SVĚTELNÝMI SIGNALIZAČNÍMI ZAŘÍZENÍMI a PREFERENCE VOZIDEL MHD
+Kapitola B. Hlavní oblasti pro aplikaci DTMB a C. Rozsah plánované realizace: Televizní dohled
+Kapitola B. Hlavní oblasti pro aplikaci DTMB a C. Rozsah plánované realizace: ŘÍZENÍ DOPRAVY
+PROMĚNNÝM DOPRAVNÍM ZNAČENÍM)
+Kapitola B. Hlavní oblasti pro aplikaci DTMB a C. Rozsah plánované realizace:
+CENTRÁLNÍTECHNICKÝ DISPEČINK)
+Kapitola B. Hlavní oblasti pro aplikaci DTMB a C. Rozsah plánované realizace: DOPRAVNÍ
+INFORMAČNÍ CENTRUM BRNO)
+Kapitola B. Hlavní oblasti pro aplikaci DTMB a C. Rozsah plánované realizace: KOMUNIKACE,
+TRASY PRO PŘENOSY DAT)
+
+Projekt je dále v souladu s Akčním plánem rozvoje inteligentních dopravních systémů (ITS) v ČR do
+roku 2020 (s výhledem do roku 2050), kde naplňuje následující strategické a specifické cíle v oblasti
+ITS:
+Strategický cíl č. 1: Efektivní, inteligentní a dopravní infrastruktura s kvalifikovaným obslužným
+personálem
+Strategický cíl č. 2: Zajištění plynulosti dopravního provozu a s tím spojené snížení celkových
+časových ztrát v dopravním provozu
+
+3. Soulad s územním plánem města Brna:
+Projekt je v souladu s Územním plánem města Brna.
+
+4. Legislativní audit:
+Veškeré aktivity plánované v rámci tohoto projektu jsou zcela v souladu s platnou legislativou ČR i EU.
+Realizací tohoto projektu nevznikají žádná právní rizika pro žádný subjekt. Neočekávaná rizika mohou
+přijít se změnami z legislativní úrovně. Projektový cyklus na statutárním městě Brně počítá s řadou
+metodik, aby nebylo možné realizaci projektu nějakým způsobem poškodit. Existence metodik
+dostatečně eliminuje vnitřní legislativní riziko. Vnější legislativní riziko lze jen těžko úplně odstranit,
+legislativa přijatá na národní úrovni může neočekávaně změnit parametry projektů (daňové reformy
+apod.).
+
+
+
+
+                                                                                                       Strana 8 / 10
+                               PROJEKTOVÝ ZÁMĚR – část C.
+                                          C. 1. FINANCOVÁNÍ
+
+1. Rozpočet na celou dobu trvání projektu:
+ fáze                                       Výdaje na projekt                    Příjmy
+                            v Kč                                               z projektu
+                                        investiční        provozní
+
+ Přípravná
+ Příprava a zabezpečení výstavby           2 450 433,00
+
+ Realizační
+ Náklady na realizaci vč. zajištění     118 249 027,94
+ publicity a rozpočtové rezervy
+
+ Celkem                                 120 699 460,94
+
+Provozní fáze:
+
+Roční provozní výdaje se předpokládají ve výši 1 100 000 Kč.
+
+                             2. Možnosti financování
+          v Kč                Částka        %                     Upřesnění
+
+Vlastní zdroje
+Rozpočet města            39 949 460,94     33,1 Fond kofinancování projektů
+Ostatní veřejné zdroje
+EU                        80 750 000,00     66,9 Operační program Doprava
+Privátní zdroje
+Jiné
+
+      Celkem              120 699 460,94    100
+Poznámky:
+
+
+                                      C. 2. OSTATNÍ INFORMACE
+
+1. Majetkové poměry:
+Investice bude realizována na velkém množství pozemků na území města Brna. Majetkoprávní příprava
+pro vydání územního rozhodnutí je součástí přípravných činností projektu.
+2. Synergie:
+Projekt plně zapadá do Integrované strategie rozvoje Brněnské metropolitní oblasti, konkrétně do
+prioritní oblasti Udržitelná mobilita.
+3. Zajištění udržitelnosti projektu:
+Provoz vybudované infrastruktury převezme do ukončení realizace společnost Brněnské komunikace
+a.s.
+Finanční udržitelnost projektu bude zajištěna úhradou provozních výdajů z rozpočtu statutárního města
+Brna.
+
+
+
+
+                                                                                                  Strana 9 / 10
+                                    Analýza dotačních příležitostí
+
+Obsah projektu „Rozvoj ITS v Brně, 1. etapa“ svojí náplní spadá do Operačního programu Doprava,
+prioritní osy 2: Silniční infrastruktura na síti TEN-T, veřejná infrastruktura pro čistou mobilitu a řízení
+silničního provozu, ve které je podporován rozvoj systémů a služeb včetně ITS (Inteligentní dopravní
+systémy) ve městech pro řízení dopravy a ovlivňování dopravních proudů na městské silniční síti, dále
+též rozvoj infrastruktur prostorových dat a zavádění nových technologií a aplikací pro ochranu dopravní
+infrastruktury i optimalizaci dopravy. Inteligentní dopravní systémy a služby jsou nedílnou součástí TEN-
+T, umožňují zvyšovat komfort a bezpečnost dopravy a optimalizovat využití kapacity infrastruktury a také
+poskytují informační služby účastníkům dopravního provozu v reálném čase o běžných a zejména
+i o mimořádných situacích.
+
+
+Celkové náklady na projekt činí 120 699 460,94 Kč, podle podané žádosti o podporu by mohly být
+způsobilé výdaje ve výši 95 000 000 Kč.
+
+
+Rozpočet projektu (tis. Kč)
+- Stavby a rekonstrukce SSZ včetně preference MHD (včetně TDI)……. 110 342 357,30 Kč
+- Dopravně inženýrský software……………………………………………… 5 137 883,97 Kč
+- Rozpočtová rezerva na nepředvídané události …………………….……… 5 219 219,67 Kč
+
+
+Zdroje krytí projektu
+Projekty podpořené z tohoto dotačního zdroje mohou získat dotaci až 85 % ze způsobilých
+nákladů. Strukturu zdrojů krytí projektu ukazuje následující tabulka:
+
+Struktura nákladů projektu
+Upravená struktura výdajů projektu „Rozvoj ITS v Brně, 1. etapa“ (včetně DPH)
+Celkové výdaje projektu                                          120 699 460,94 Kč             100,00 %
+Nezpůsobilé výdaje                                                 25 699 460,94 Kč             21,29 %
+Způsobilé výdaje                                                   95 000 000,00 Kč             78,71 %
+Výše dotace                                                        80 750 000,00 Kč             66,90 %
+Spolufinancování města Brna                                        39 949 460,94 Kč             33,10 %
+
+
+
+
+                                                                                                       Strana 10 / 10
+

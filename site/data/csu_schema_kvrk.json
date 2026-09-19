@@ -1,0 +1,148 @@
+{
+  "@context": ["http://www.w3.org/ns/csvw",{"@language": "cs"}],
+  "url": "kvrk.csv",
+  "dc:description": "Registr kandidátů", 
+  "tableSchema": { 
+    "columns": [{
+      "name": "DATUMVOLEB",
+      "titles": "DATUMVOLEB",
+      "dc:description": "Datum konání voleb (formát RRRRMMDD) - první den voleb",
+      "required": true,
+      "datatype": "number"
+    },{
+      "name": "OKRES",
+      "titles": "OKRES",
+      "dc:description": "Kód okresu dle CNUMNUTS",
+      "required": true,
+      "datatype": "number"
+    },{
+      "name": "KODZASTUP",
+      "titles": "KODZASTUP",
+      "dc:description": "Kód voleného zastupitelstva",
+      "required": false,
+      "datatype": "number"
+    },{
+      "name": "COBVODU",
+      "titles": "COBVODU",
+      "dc:description": "Číslo volebního obvodu",
+      "required": false,
+      "datatype": "number"
+    },{
+      "name": "POR_STR_HL",
+      "titles": "POR_STR_HL",
+      "dc:description": "Pořadí strany na hlasovacím lístku",
+      "required": false,
+      "datatype": "number"
+    },{
+      "name": "OSTRANA",
+      "titles": "OSTRANA",
+      "dc:description": "Kód volební strany v rámci voleného zastupitelstva",
+      "required": true,
+      "datatype": "number"
+    },{
+      "name": "PORCISLO",
+      "titles": "PORCISLO",
+      "dc:description": "Pořadí na KL (hlasovacím lístku)",
+      "required": false,
+      "datatype": "number"
+    },{
+      "name": "JMENO",
+      "titles": "JMENO",
+      "dc:description": "Jméno, příp. i další jména",
+      "required": true,
+      "datatype": "string"
+    },{
+      "name": "PRIJMENI",
+      "titles": "PRIJMENI",
+      "dc:description": "Příjmení",
+      "required": true,
+      "datatype": "string"
+    },{
+      "name": "TITULPRED",
+      "titles": "TITULPRED",
+      "dc:description": "Tituly před jménem",
+      "required": true,
+      "datatype": "string"
+    },{
+      "name": "TITULZA",
+      "titles": "TITULZA",
+      "dc:description": "Tituly za příjmením",
+      "required": true,
+      "datatype": "string"
+    },{
+      "name": "VEK",
+      "titles": "VEK",
+      "dc:description": "Věk",
+      "required": true,
+      "datatype": "number"
+    },{
+      "name": "POVOLANI",
+      "titles": "POVOLANI",
+      "dc:description": "Povolání",
+      "required": true,
+      "datatype": "string"
+    },{
+      "name": "BYDLISTEN",
+      "titles": "BYDLISTEN",
+      "dc:description": "Název obce - bydliště",
+      "required": true,
+      "datatype": "string"
+    },{
+      "name": "PSTRANA",
+      "titles": "PSTRANA",
+      "dc:description": "Kód politické příslušnosti",
+      "required": true,
+      "datatype": "number"
+    },{
+      "name": "NSTRANA",
+      "titles": "NSTRANA",
+      "dc:description": "Kód navrhující strany",
+      "required": true,
+      "datatype": "number"
+    },{
+      "name": "PLATNOST",
+      "titles": "PLATNOST",
+      "dc:description": "Platnost (A = platný, N = neplatný, odvolaný)",
+      "required": true,
+      "datatype": "string"
+    },{
+      "name": "POCHLASU",
+      "titles": "POCHLASU",
+      "dc:description": "Počet hlasů, které kandidát získal",
+      "required": true,
+      "datatype": "number"
+    },{
+      "name": "PRESKOCENI",
+      "titles": "PRESKOCENI",
+      "dc:description": "A=kandidát splnil podmínku pro přeskočení pořadí zvolení, N=defaultní hodnota (nesplněna podmínka pro přeskočení pořadí zvolení)",
+      "required": true,
+      "datatype": "string"
+    },{
+      "name": "POCPROCVSE",
+      "titles": "POCPROCVSE",
+      "dc:description": "Procento získaných hlasů (bez zaokrouhlení)",
+      "required": true,
+      "datatype": "number"
+    },{
+      "name": "MANDAT",
+      "titles": "MANDAT",
+      "dc:description": "A = zvolen, N = nezvolen",
+      "required": true,
+      "datatype": "string"
+    },{
+      "name": "PORADIMAND",
+      "titles": "PORADIMAND",
+      "dc:description": "Pořadí přidělení mandátu (01 až = hodnotě položky MANDATY v rámci KODZASTUP nebo KODZASTUP a COBVODU, 00 = strana nezískala mandát nebo kandidát e náhradníkem)",
+      "required": true,
+      "datatype": "number"
+    },{
+      "name": "PORADINAHR",
+      "titles": "PORADINAHR",
+      "dc:description": "Pořadí náhradníka (01 až = hodnotě položky MANDATY-1 v rámci KODZASTUP nebo KODZASTUP a COBVODU, 00 = strana nezískala mandát nebo kandidát byl zvolen)",
+      "required": true,
+      "datatype": "number"
+    }
+    ],
+    "primaryKey": ["DATUMVOLEB","KODZASTUP","COBVODU","POR_STR_HL","PORCISLO"]
+  }
+}

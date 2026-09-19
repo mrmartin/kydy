@@ -1,0 +1,77 @@
+             Schválená bilance zdrojů a výdajů města Brna na rok 2022 (v tis. Kč)
+        položka                                                                                         Schválený
+č.ř. podseskupení                                            PŘÍJMY                                      rozpočet
+         třída                                                                                             2022
+ 1              1111 Příjem z daně z příjmů fyzických osob placené plátci                                    1 900 000
+ 2              1112 Příjem z daně z příjmů fyzických osob placené poplatníky                                   90 000
+ 3              1113 Příjem z daně z příjmů fyzických osob vybírané srážkou                                    290 000
+ 4              1121 Příjem z daně z příjmů právnických osob                                                 2 770 000
+ 5              1211 Příjem z daně z přidané hodnoty                                                         5 800 000
+ 6              1511 Příjem z daně z nemovitých věcí                                                           250 000
+ 7                     Daňové výnosy (ř.1 až ř.6)                                                           11 100 000
+ 8              1122 Příjem z daně z příjmů právnických osob za obce - rozpočtová činnost                      250 000
+ 9              133x Příjem z poplatků a odvodů v oblasti životního prostředí                                     2 015
+10              134x Příjem z místních poplatků z vybraných činností a služeb                                  222 218
+11              135x Příjem z ostatních odvodů z vybraných činností a služeb                                      3 900
+12              136x Příjem ze správních a soudních poplatků                                                    66 252
+13              138x Příjem z daní, poplatků aj. obdobných peněžitých plnění v oblasti hazardních her           65 000
+14               tř. 1 Daňové příjmy celkem (ř.7 až ř.13)                                                   11 709 385
+15              211x Příjem z vlastní činnosti                                                                  91 758
+16              212x Příjem z odvodů organizací s přímým vztahem                                               160 544
+17              213x Příjem z pronájmu nebo pachtu majetku                                                     148 743
+18              214x Přijaté výnosy z finančního majetku                                                          2 713
+19              221x Přijaté sankční platby                                                                     59 165
+20 2 mimo výše uved. Jiné nedaňové příjmy                                                                      137 200
+21              tř. 2 Nedaňové příjmy celkem (ř.15 až ř.20)                                                    600 123
+22              311x Příjem z prodeje dlouhodobého majetku - bytové domy a pozemky                             180 900
+23              311x Příjem z prodeje dlouhodobého majetku - ostatní                                           790 100
+24               tř. 3 Kapitálové příjmy celkem (ř.22 + ř.23)                                                  971 000
+25                     Vlastní příjmy (ř.14 + ř.21 + ř.24)                                                  13 280 508
+26              4112 Neinvestiční přijaté transfery ze SR v rámci souhrnného dotačního vztahu                  197 066
+27              4121 Neinvestiční přijaté transfery od obcí                                                          25
+28        4131, 4132 Neinvestiční převody z vlastních fondů                                                    931 446
+29              4137 Neinvestiční převody od městských částí                                                    41 907
+30               tř. 4 Přijaté transfery celkem (ř.26 až ř.29)                                               1 170 444
+31         tř. 1 až tř. 4 PŘÍJMY celkem (ř.25 + ř.30)                                                       14 450 952
+
+        položka                                                                                         Schválený
+č.ř. podseskupení                                           VÝDAJE                                       rozpočet
+         třída                                                                                             2022
+ 1              501x Platy                                                                                     905 878
+ 2              502x Výdaje na ostatní platby za provedenou práci                                               49 183
+ 3              503x Povinné a zákonné pojistné placené zaměstnavatelem                                        328 397
+ 4              516x Výdaje na nákup služeb                                                                  1 643 649
+ 5              5171 Opravy a udržování                                                                        541 598
+ 6        5193/5213 Výdaje na dopravní územní obslužnost - DPmB, a.s.                                        2 184 000
+ 7              5331 Neinvestiční příspěvky zřízeným příspěvkovým organizacím                                2 181 276
+ 8              5347 Neinvestiční převody městským částem - ORF                                              1 693 231
+ 9              5347 Neinvestiční převody městským částem - OŠML                                                12 865
+10              5347 Neinvestiční převody městským částem - OI                                                  12 700
+11              5365 Výdaje na daň z příjmů právnických osob za obce - rozpočtová činnost                      250 000
+12        5901, 5903 Rezervy rozpočtu                                                                          110 542
+13 5 mimo výše uved. Ostatní běžné výdaje                                                                    1 192 272
+14                tř.5 Běžné výdaje celkem (ř.1 až ř.13)                                                    11 105 591
+15 6 mimo níže uved. Kapitálové výdaje bez investičních převodů městským částem                              5 836 601
+16              6363 Investiční převody městským částem - ORF                                                     4 332
+17              6363 Investiční převody městským částem - OŠML                                                 188 110
+18              6363 Investiční převody městským částem - OI, OŽP                                               83 297
+19               tř. 6 Kapitálové výdaje celkem (ř.15 až ř.18)                                               6 112 340
+20          tř. 5 + tř. 6 VÝDAJE celkem (ř.14 + ř.19)                                                       17 217 931
+
+         položka                                                                                        Schválený
+č.ř.   podseskupení                                     FINANCOVÁNÍ                                      rozpočet
+           třída                                                                                           2022
+ 1               8113 Zapojení volných zdrojů minulých let                                                   3 000 000
+ 2               8115 Změny stavu krátkodobých prostředků na bankovních účtech                                    2 000
+ 3               8115 Tvorba Fondu rezerv a rozvoje                                                           -428 410
+ 4               8115 Tvorba Fondu krytí škod                                                                   -10 200
+ 5               8115 Zapojení Fondu bytové výstavby                                                           181 778
+ 6               8115 Zapojení Fondu kofinancování projektů                                                    237 660
+ 7               8115 Zapojení Fondu mobility                                                                    95 679
+ 8               8115 Zapojení Sociálního fondu                                                                     757
+ 9               8115 Zapojení veřejné sbírky na Útulek pro opuštěná zvířata                                        445
+10               8115 Snížení financování (tvorba rezervy)                                                      -90 000
+11               8115 Použití účelových finančních prostředků minulých let                                       87 797
+12               8224 Uhrazené splátky dlouhodobých přijatých půjčených prostředků od EIB                     -310 527
+13                tř. 8 FINANCOVÁNÍ celkem (ř.1 až ř.12)                                                     2 766 979
+

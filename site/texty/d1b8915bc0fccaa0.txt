@@ -1,0 +1,1404 @@
+Rada města Brna
+
+Z9/13. zasedání Zastupitelstva města Brna
+konané dne 12.12.2023
+
+
+
+    7. Návrh obecně závazné vyhlášky statutárního města Brna,
+  kterou se mění a doplňuje obecně závazná vyhláška statutárního
+   města Brna č. 20/2001, kterou se vydává Statut města Brna, ve
+                     znění pozdějších vyhlášek
+
+Anotace
+Jedná se o aktualizaci obecně závazné vyhlášky statutárního města Brna č. 20/2001, kterou se vydává
+Statut města Brna, ve znění pozdějších vyhlášek (dále jen „Statut města Brna“, příp. „Statut“), která je
+sestavena především v souvislosti se záměrem přesunu působnosti obecního stavebního úřadu z
+městských částí na Magistrát města Brna.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. vydává                      obecně závaznou vyhlášku statutárního města Brna, kterou se mění obecně závazná
+                               vyhláška statutárního města Brna č. 20/2001, kterou se vydává Statut města Brna,
+                               ve znění pozdějších vyhlášek, která tvoří přílohu č.....tohoto zápisu.
+
+
+Stanoviska
+
+Materiál byl předložen na R9/062. schůzi Rady města Brna, konanou dne 6. 12. 2023.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Eva Chaloupková, vz. JUDr. Hana
+  Doležalová
+  vedoucí odboru - Organizační odbor
+  5.12.2023 v 12:22
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  JUDr. Rostislav Obrlík
+  vedoucí úseku - Úsek tajemníka
+  5.12.2023 v 13:05
+
+
+
+
+Sestava vytvořena 5.12.2023 v 13:05                         1/1                            Vygenerováno programem eMMB
+
+
+                                                                                                           Strana 1 / 26
+                                  Obsah materiálu
+Návrh usnesení                                        1-1
+Obsah materiálu                                       2-2
+Důvodová zpráva                                      3 - 16
+Příloha (Usnesení 10. Sněmu starostů.pdf)           17 - 17
+Příloha k usnesení (Vyhlaska SMB c_2023 (6).pdf)    18 - 26
+
+
+
+
+                                                        Strana 2 / 26
+                                       Důvodová zpráva
+
+Úprava v oblasti orgánů města (čl. 5)
+Textace je upravena v souvislosti s novou terminologií uvedenou v zákoně č. 283/2021 Sb., stavební
+zákon (dále jen „NSZ“).
+
+Úprava v oblasti orgánů městských částí (čl. 12, 13)
+Textace je upravena v souvislosti s novou terminologií uvedenou NSZ, pravomoci se nemění.
+
+
+Úprava v oblasti územního rozvoje a výstavby (čl. 17, 18)
+Úprava Statutu spočívá v přenesení působnosti obecního stavebního úřadu z městských částí na MMB.
+
+
+Úprava v oblasti tvorby a ochrany životního prostředí (čl. 21, 22)
+Změny souvisí zejména s přijetím zákona č. 148/2023 Sb., o jednotném environmentálním stanovisku
+(dále jen „JES“), jímž dochází k přesunu kompetencí týkajících se povolování kácení dřevin rostoucích
+mimo les. MMB by povoloval kácení dřevin rostoucích mimo les pro stavby vyžadující JES nebo jeho
+část, včetně ukládání provést náhradní výsadbu. Městské části (dále také jen „MČ“) budou vydávat
+povolení ke kácení dřevin rostoucích mimo les pouze mimo záměry vyžadující JES a nadále budou vést
+přehled pozemků vhodných pro náhradní výsadbu. Vzhledem k rozštěpení kompetencí v oblasti
+povolování kácení dřevin by MČ i MMB vedly evidenci uložené náhradní výstavby v Geografickém
+informačním systému (GIS) města Brna (Pasport zeleně). Další změny v této oblasti souvisí s vydáním
+NSZ a navazující změnou zákona č. 201/2012 Sb., o ochraně ovzduší, ve znění pozdějších předpisů.
+Dále se jedná o změnu související se zpřesněním typu dokumentace, k níž se obec vyjadřuje,
+zpracovávané krajským úřadem v souvislosti s prevencí závažných havárií způsobených nebezpečnými
+látkami dle zákona č. 224/2015 Sb.
+
+
+Úprava v oblasti majetku (čl. 25, 26)
+Textace je upravena v souvislosti s novou terminologií uvedenou v NSZ s doplněním výjimky v případě
+uzavření plánovací smlouvy z úrovně města.
+
+
+Úprava v oblasti dopravy a silničního hospodářství (čl. 29, 30)
+Agendu speciálních stavebních úřadů I. stupně na silnicích II. a III. třídy a místních komunikacích
+základního komunikačního systému (ZKS) bude s účinností NSZ vykonávat obecní stavební úřad I.
+stupně, MČ by tedy zůstala působnost silničního správního úřadu I. stupně na komunikacích, jak je
+doposud rozděleno mezi MMB a MČ.
+
+
+Úprava v oblasti vodního hospodářství (čl. 33, 34)
+Agenda speciálních stavebních úřadů pro povolování vodních děl, které s účinností NSZ zanikají,
+přechází na obecní stavební úřady. Působnost vodoprávního úřadu je Statutem rozdělena mezi MMB a
+MČ, kterým bylo svěřeno povolování staveb studní pro fyzické osoby a s nimi související povolení k
+nakládání s vodami. Z důvodů zavedení JES, která nemohou vydávat MČ, a sjednocení výkonu státní
+správy na úseku vodního hospodářství, je navrhováno převedení kompetencí vodoprávních úřadů (tj.
+povolování nakládání s vodami, vydávání závazných stanovisek apod.) na MMB.
+
+
+Úprava v oblasti zemědělství, ochrany zemědělského půdního fondu, veterinární a
+rostlinolékařské péče (čl. 35, 36)
+Je navržen přesun výkonu státní správy v 1. stupni na úseku zemědělství podle zákona č. 252/1997 Sb.,
+o zemědělství, ve znění pozdějších předpisů. Rozmach žádostí o evidenci zemědělského podnikatele
+nastal v 90. letech 20. století a po roce 2015, v současné době se pohybuje počet těchto žádostí mezi
+20 – 30 ročně. Některé MČ se s žádostmi doposud nesetkaly. K výkonu agendy je třeba programové
+
+                                                 1
+
+
+
+                                                                                                 Strana 3 / 26
+vybavení a jeho každoroční obnovování a také zkouška odborné způsobilosti. Současně podle zákona
+spadá tato agenda pod obecní úřad obce s rozšířenou působností. Městským částem byla činnost
+svěřena Statutem a s ohledem na výše uvedené komplikace se navrhuje její vrácení příslušnému odboru
+MMB.
+
+
+Úprava v oblasti finančního hospodaření (čl. 76)
+Dochází k vypuštění obsoletního písm. b) v odst. 11 a dále k úpravě související s přenesením činnosti
+obecního stavebního úřadu na MMB, kdy v odst. 54 dochází ke zpřesnění formulace týkající se žádostí
+MČ o účelové dotace, návratné finanční výpomoci a zápůjčky ze státního rozpočtu, státních fondů nebo
+z rozpočtu kraje, u kterých je nutné udělení předchozího souhlasu Rady města Brna.
+
+Změny v odkazech
+Provedena revize a aktualizace stávajících odkazů dle stavu k listopadu 2023, zejména se jedná o
+změny v souvislosti s novým stavebním zákonem a změnou souvisejících zákonů.
+
+Příloha č. 2
+Jsou zapracovány všechny navrhované změny přenesení působnosti z městských částí na MMB v
+souvislosti s NSZ. Dále dochází k aktualizaci názvů právních předpisů v souladu s oficiálními názvy
+těchto právních předpisů uvedenými ve Sbírce zákonů, jakož i k doplnění textu „ve znění pozdějších
+předpisů“ u těch právních předpisů, které již byly novelizovány.
+
+Příloha č. 3
+V souvislosti s obdrženým stanoviskem Ministerstva vnitra ČR týkajícího se označování písemností
+města Brna a jeho městských částí, dochází k vypuštění této úpravy ve Statutu. Tuto oblast bude nově
+spravovat Kancelář marketingu a cestovního ruchu MMB, pro MČ byla vytvořena Organizačním
+odborem MMB Metodika pro označování písemností vyhotovených orgány městských částí. Z tohoto
+důvodu dojde k přečíslování příloh a odkazů na přílohy v rámci celého Statutu, kdy přílohy označené
+jako Přílohy č. 4 až 9 se nově budou označovat jako Přílohy č. 3 až 8. V souvislosti s tím dochází i k
+úpravě textace Preambule spočívající ve vypuštění příslušné oblasti, jakož i k úpravě článků 80 a 83.
+
+Příloha č. 7
+Jako další stavby a území celoměstského zájmu jsou doplněny záměry, u kterých byla uzavřena mezi
+stavebníkem a městem plánovací smlouva.
+
+Příloha č. 8
+S ohledem na vznik nové mateřské školy v městské části Brno-Bystrc dochází k doplnění této přílohy.
+_________________________________________________________________________________
+
+Porovnání textu
+                                           PREAMBULE
+
+
+V přílohách je uvedeno:
+ - vymezení území městských částí,
+ - přehled činností v přenesené působnosti, které vykonávají některé městské části pro jiné městské
+   části,
+ - označování písemností vyhotovených orgány města a orgány městských částí,
+ - majetek města svěřený městským částem,
+ - pravidla pro svěřování majetku města městským částem,
+ - Kontrolní řád města Brna,
+ - zajišťování krizového řízení při krizových situacích,
+ - stavby a území celoměstského zájmu,
+ - přehled příspěvkových organizací a obchodních společností se 100% účastí, zřízených či založených
+   městem Brnem a městem Brnem-městskými částmi.
+
+                                                  2
+
+
+
+                                                                                                  Strana 4 / 26
+                              ČLÁNEK 5 – PRIMÁTOR MĚSTA BRNA
+[2] Primátor města Brna:
+h) zastupuje město jako účastníka řízení v územních řízeních o povolení záměru a správních řízeních
+prováděných umístění stavby, o změně využití území a o změně stavby a o změně vlivu stavby na využití
+území podle zvláštních právních předpisů,21a), 22) ve kterých má město ze zákona postavení účastníka
+řízení, a to:
+     − v případě staveb a území celoměstského zájmu dle Přílohy č. 8 7 tohoto Statutu, nebo
+      − v případě, kdy předmět řízení staveb a území, které zasahujíe na území dvou a více městských
+         částí a v územních řízeních, nebo
+     − u záměrů na území sousedních obcí.
+V době nepřítomnosti primátora zastupují město náměstci primátora. Na základě usnesení schůze Rady
+města Brna, jež je přímo pověří k zastupování v rámci konkrétního řízení či k podpisu vyjádření za
+město, jsou náměstci oprávněni zastupovat město i v době přítomnosti primátora. K zastupování za
+město v rámci konkrétního řízení může být usnesením schůze Rady města Brna pověřen i jiný člen
+Zastupitelstva města Brna, stejně tak jako k podpisu vyjádření za město,
+i) zastupuje město jako účastníka řízení v těch správních řízeních prováděných podle zvláštních
+právních předpisů, 21a) ve kterých má město ze zákona postavení účastníka řízení a předmět řízení
+zasahuje do správních obvodů dvou a více MČ nebo se jedná o stavbu celoměstského zájmu dle Přílohy
+č. 8 tohoto Statutu. V době nepřítomnosti primátora zastupují město náměstci primátora. Na základě
+usnesení schůze Rady města Brna, jež je přímo pověří k zastupování v rámci konkrétního řízení či k
+podpisu vyjádření za město, jsou náměstci oprávněni zastupovat město i v době přítomnosti primátora.
+K zastupování za město v rámci konkrétního řízení může být usnesením schůze Rady města Brna
+pověřen i jiný člen Zastupitelstva města Brna, stejně tak jako k podpisu vyjádření za město,
+
+
+                      ČLÁNEK 10 – TAJEMNÍK MAGISTRÁTU MĚSTA BRNA
+[2] Tajemník Magistrátu města Brna:
+c) stanoví podle zvláštních právních předpisů 18) platy všem zaměstnancům města zařazeným do
+Magistrátu města Brna,18),
+
+                              ČLÁNEK 12 - RADA MĚSTSKÉ ČÁSTI
+[3] Rada městské části rozhoduje:
+        - o vydávání stanovisek ke stavebním záměrům jiných stavebníků pro zpracování vyjádření
+           primátora k projektovým dokumentacím pro vydání územního rozhodnutí o povolení záměru
+           nebo společného povolení dle zvláštního právního předpisu,22)
+
+[7] Ukládá pokuty ve věcech samostatné působnosti; tuto působnost může rada městské části svěřit úřadu
+městské části nebo starostovi zcela, nebo zčásti, 20)
+
+
+                                     ČLÁNEK 13 – STAROSTA
+[10] Starosta zastupuje město jako účastníka řízení v územních řízeních o povolení záměru na území
+příslušné městské části a dále ve správních řízeních prováděných podle zvláštních právních
+předpisů,21a) ve kterých má město ze zákona postavení účastníka řízení; výjimku tvoří případy uvedené
+v čl. 5 odst. [2] písm. h) a i) tohoto Statutu.
+
+
+                                 ÚZEMNÍ ROZVOJ A VÝSTAVBA
+                                ČLÁNEK 17 - PŮSOBNOST MĚSTA
+[1] Samostatná působnost:
+    a) zajišťuje uzavírání plánovacích smluv, smluv o výstavbě dopravní a technické infrastruktury dle
+      zvláštního předpisu,148a22) smluv o spolupráci a smluv o investičním příspěvku v případě staveb v
+
+
+
+                                                  3
+
+
+
+                                                                                                   Strana 5 / 26
+         celoměstském zájmu v souladu se Zásadami pro spolupráci s investory na rozvoji veřejné
+         infrastruktury statutárního města Brna,
+[2] Přenesená působnost:
+      d) pověřuje jeden z územně příslušných stavebních úřadů provedením řízení u staveb zasahujících do
+         územních obvodů více stavebních úřadů,
+      e) pověřuje k projednání a rozhodnutí věci jiný věcně příslušný podřízený stavební úřad z důvodu
+         vyloučení všech úředních osob,
+      df) vykonává státní dozor působnost obecního stavebního úřadu a kontrolu ve věcech stavebního
+      řádu. na území města Brna podle zvláštního právního předpisu.22)
+
+                       ČLÁNEK 18 - PŮSOBNOST MĚSTSKÝCH ČÁSTÍ
+[1] Samostatná působnost:
+     f) vydávají stanoviska ke stavebním záměrům jiných stavebníků pro zpracování vyjádření primátora
+k projektovým dokumentacím pro vydání územního rozhodnutí o povolení záměru nebo společného
+povolení dle zvláštního právního předpisu,22) a to ve lhůtách v souladu se Zásadami pro spolupráci s
+investory na rozvoji veřejné infrastruktury statutárního města Brna, přičemž, není-li stanovisko vydáno
+ve stanovené lhůtě, má se za to, že městská část nemá ke stavebním záměrům námitek, [2] Přenesená
+působnost:
+       a) vydávají územně plánovací informace o podmínkách vydání územního rozhodnutí, o
+          podmínkách vydání územního souhlasu a o podmínkách provedení jednoduchých staveb bez
+          předchozího územního rozhodnutí nebo územního souhlasu,
+       b) provádějí řízení, rozhodují a vykonávají pravomoc jako obecné stavební úřady I. stupně na
+          území městské části u staveb realizovaných v územním obvodu příslušné městské části nebo
+          pokud jsou k tomu pověřeny městem.
+nevykonávají.
+
+                         TVORBA A OCHRANA ŽIVOTNÍHO PROSTŘEDÍ
+                             ČLÁNEK 21 - PŮSOBNOST MĚSTA
+[1]    Samostatná působnost:
+      g) zajišťuje asanační a odchytové služby; zajišťuje zřízení útulků pro opuštěná zvířata,
+      mn) na úseku ochrany ovzduší: 33)
+          -    stanoví obecně závaznou vyhláškou města Brna podmínky pro spalování suchého
+               rostlinného materiálu v otevřeném ohništi za účelem jeho odstranění,
+          -    stanoví, při plnění příslušných zákonných podmínek a po projednání s příslušnými
+               městskými částmi, opatřením obecné povahy zónu s omezením provozu motorových
+               silničních vozidel,
+          -    vydává vyjádření k umístění, provedení a užívání stavby stacionárního zdroje neuvedeného
+               ve zvláštním právním předpisu,33d)
+          -    vede evidenci stacionárních zdrojů znečištění ovzduší neuvedených ve zvláštním právním
+               předpisu,33d)
+
+      op) vyjadřuje se k návrhům bezpečnostního programu, bezpečnostní zprávy a vnějšího havarijního plánu
+          nebo jejich aktualizace pro krajský úřad dokumentace,31c)
+
+
+
+[2]    Přenesená působnost:
+       a) vydává jednotné environmentální stanovisko (dále „JES“) 65) z hlediska zvláštních zákonů v
+          rozsahu působnosti obce s rozšířenou působností,21a), 31), 35), 60), 139)
+       b) poskytuje předběžnou informaci,22)
+
+
+                                                      4
+
+
+
+                                                                                                   Strana 6 / 26
+     c) poskytuje předběžnou konzultaci,31), 33), 35)
+     d) na úseku odpadového hospodářství:31)
+        -   vykonává v 1. stupni státní správu na úseku odpadového hospodářství,31h),
+        -   vykonává agendu spojenou s nezákonně soustředěným odpadem, vyzývá vlastníka
+            nemovité věci k předání odpadů do zařízení určeného k nakládání s odpady, přijímá
+            oznámení o zahájení provozu mobilního zařízení k využívání odpadů, vydává povolení k
+            upuštění od odděleného soustřeďování odpadů, ukládá rozhodnutím provozovateli zařízení
+            provést využití nebo odstranění odpadů, uděluje souhlas k provozování malého zařízení,
+            kontroluje hlášení o provozovaných komunitních kompostárnách, kontroluje a zpracovává
+            hlášení původců odpadů a provozovatelů zařízení a zasílá ministerstvu údaje o každém
+            vydaném rozhodnutí, ukládá opatření k nápravě, projednává přestupky v
+            1. stupni,31d),
+e)      na úseku ochrany ovzduší:33) - spolupracuje s Ministerstvem životního prostředí při přípravě a
+         aktualizaci programu zlepšování kvality ovzduší,
+        - vydává závazná stanoviska k umístění, provedení a užívání stavby stacionárního zdroje
+            neuvedeného ve zvláštním právním předpisu, 33d)
+        -   provádí kontroly povinností provozovatelů stacionárních zdrojů,33a)
+        -   ukládá opatření ke zjednání nápravy a zastavení provozu stacionárního zdroje,
+        -   projednává přestupky podle zvláštního právního předpisu,33) mimo přestupků za pálení na
+            otevřeném ohništi jiného materiálu než suchého rostlinného materiálu neznečištěného
+            chemickými látkami,
+        -   ukládá pokuty za přestupky právnickým a podnikajícím fyzickým osobám 33b),
+        -   zpřístupňuje informace z oblasti ochrany ovzduší města,
+        -   vydává vyjádření k závaznému stanovisku Krajského úřadu k umístění stacionárního zdroje
+            uvedeného v příloze č. 2 zvláštního právního předpisu 33) kromě území městské části Brno-
+            Maloměřice a Obřany a městské části Brno-Ořešín.
+        f)) na úseku ochrany přírody a krajiny:35)
+        -   vydává povolení ke kácení dřevin rostoucích mimo les k záměrům vyžadujících JES a
+            ukládá náhradní výsadbu,65)
+        -   uskutečňuje kontrolu provádění náhradní výsadby uložené JES, včetně souvisejících
+            ustanovení,65)
+        -   vede evidenci náhradní výsadby v Geografickém informačním systému (GIS) města Brna
+            (Pasport zeleně),
+        -   vydává závazná stanoviska k zásahům do významných krajinných prvků, registruje
+            významné krajinné prvky,
+        -   vyhlašuje památné stromy, ochranná pásma, vydává souhlasy k ošetření památných
+            stromů,
+        -   podílí se na vytváření ústředního seznamu ochrany přírody pro území města Brna,
+        -   vydává souhlas ke zřizování, rušení účelových komunikací, stezek a pěšin mimo zastavěná
+            území městských částí na území města Brna,
+        -   vymezuje a hodnotí místní systém ekologické stability,
+        -   může vyzvat k prokázání povoleného způsobu nabytí zvláště chráněné rostliny, živočicha,
+        -   ukládá opatření ve věci omezení a zákazu činnosti fyzickým a právnickým osobám,
+        -   vykonává státní dozor v ochraně přírody a krajiny,
+
+
+
+
+                                                        5
+
+
+
+                                                                                                  Strana 7 / 26
+       -   rozhoduje o možnosti a podmínkách uvedení do původního stavu ve věci odstranění
+           následků neoprávněných zásahů do přírody a krajiny, ukládá náhradní opatření,
+       -   vykonává obecnou ochranu rostlin a živočichů,
+
+                       ČLÁNEK 22 - PŮSOBNOST MĚSTSKÝCH ČÁSTÍ
+[1] Samostatná působnost:
+    q) na úseku ochrany přírody a krajiny:35)
+       -   jsou účastníkem řízení vedeného krajským úřadem o vydání povolení k provozu zařízení ke
+           skladování, sběru, úpravě, využití nebo odstranění odpadu, 31b) s výjimkou případů
+           uvedených v čl. 21 odst. 1, písm. on) tohoto Statutu,
+
+
+[2] Přenesená působnost:
+    c) na úseku ochrany přírody a krajiny:35)
+       -   vydávají povolení ke kácení dřevin rostoucích mimo les, pokud není součástí JES,65) v
+           případech povolení ke kácení dřevin rostoucích mimo les ukládají náhradní výsadbu, vedou
+           přehled pozemků vhodných k náhradní výsadbě a ukládají provedení nezbytných zásahů
+           včetně pokácení dřevin a jsou oprávněny k pozastavení, omezení nebo zákazu kácení
+           dřevin, ukládají náhradní výsadbu, vedou přehled pozemků vhodných k náhradní výsadbě
+           a ukládají provedení nezbytných zásahů včetně pokácení dřevin, vedou evidenci
+           náhradních výsadeb v Geografickém informačním systému (GIS) města Brna (Pasport
+           zeleně),
+       -   vykonávají dozor v ochraně památných stromů a jejich ochranných pásem před škodlivými
+           vlivy z okolí a dozor v registrovaných významných krajinných prvcích,
+       -   vedou přehled o veřejně přístupných účelových komunikacích, stezkách a pěšinách ve
+           svém správním obvodu,
+       -   navrhují zřizování či rušení účelových komunikací, stezek a pěšin ve svém správním
+           obvodu,
+       -   projednávají v 1. stupni přestupky na úseku poškození a nepovoleného kácení stromů
+           rostoucích mimo les dle zvláštních předpisů,
+       -   ukládají pokuty v 1. stupni za neprovedení uložené náhradní výsadby dřevin,
+
+                                                MAJETEK
+                                ČLÁNEK 25 - PŮSOBNOST MĚSTA
+[1] Samostatná působnost:
+
+   e) zastupuje město jako vlastníka nemovitostí v řízeních prováděných podle stavebního zákona, a
+       to včetně stavebních záměrů týkajících se svěřeného nemovitého majetku u nichž je z úrovně
+       města uzavřena plánovací smlouva dle stavebního zákona, a dále při řízeních o pozemkových
+       úpravách,
+
+                                                MAJETEK
+                         ČLÁNEK 26 - PŮSOBNOST MĚSTSKÝCH ČÁSTÍ
+[1] Samostatná působnost:
+   c) zastupují město v majetkoprávních záležitostech týkajících se majetku města jim svěřeného nebo
+       majetku ve vlastnictví třetích osob užívaného městskou částí, příspěvkovou organizací zřízenou
+       městskou částí, popřípadě organizační složkou městské části, před soudy, státním
+       zastupitelstvím a jinými orgány, zastupují město jako vlastníka v řízeních prováděných podle
+       stavebního zákona ve věcech týkajících se svěřeného nemovitého majetku města, s výjimkou
+
+
+                                                   6
+
+
+
+                                                                                                 Strana 8 / 26
+          případů uvedených v ustanovení čl. 25 odst. 1 písm. e); v případě stavebního řízení dle
+          stavebního zákona týkajícího se nemovitého majetku svěřeného v Příloze č. 4 3-část I tohoto
+          Statutu (školy a školská zařízení) jsou městské části povinny vyžádat si souhlas věcně
+          příslušného útvaru města,
+
+
+                               DOPRAVA A SILNIČNÍ HOSPODÁŘSTVÍ
+                                  ČLÁNEK 29 - PŮSOBNOST MĚSTA
+[2] Přenesená působnost:
+  a)     vykonává působnost silničního správního úřadu I. stupně a státní dozor na silnicích
+            II. a III. třídy a na místních komunikacích ZKS,
+  b)     vykonává působnost speciálního stavebního úřadu I. stupně ve věcech silnic II. a III. třídy a
+         místních komunikací ZKS,
+
+
+                           ČLÁNEK 30 - PŮSOBNOST MĚSTSKÝCH ČÁSTÍ
+[2] Přenesená působnost:
+       a) vykonávají působnost speciálního stavebního úřadu I. stupně na místních a veřejně přístupných
+           účelových komunikacích (mimo ZKS) dle pasportního informačního systému vedeného
+           městem,
+
+
+                                   VODNÍ HOSPODÁŘSTVÍ ČLÁNEK
+                                       33 - PŮSOBNOST MĚSTA
+[2] Přenesená působnost:
+       a) v 1. stupni vykonává působnost vodoprávního úřadu, která podle zákona o vodách a zákona o
+          vodovodech a kanalizacích pro veřejnou potřebu přísluší obecním úřadům obcí s rozšířenou
+          působností,121) s výjimkou pravomocí svěřených městským částem na základě čl. 34 odst. 2
+          písm. b) tohoto Statutu,
+       b) vykonává působnost speciálního stavebního úřadu I. stupně u vodních děl, která dle zákona
+          přísluší obecním úřadům obcí s rozšířenou působností, s výjimkou pravomocí svěřených
+          městským částem na základě čl. 34 odst. 2 písm. c) tohoto Statutu, 65)
+       bc) řídí, kontroluje a koordinuje činnost účastníků ochrany před povodněmi, zpracovává
+       Povodňový plán města Brna,.122)
+       d) projednává v 1. stupni přestupky na úseku vodního hospodářství.
+
+
+                           ČLÁNEK 34 - PŮSOBNOST MĚSTSKÝCH ČÁSTÍ
+[2] Přenesená působnost:
+       a) vykonávají působnost vodoprávního úřadu, která podle zákona o vodách přísluší obecním
+          úřadům, upravují, omezují, popřípadě zakazují obecné nakládání s povrchovými vodami, 124)
+       b) povolují pro potřeby jednotlivých občanů (domácností) odběr povrchových a podzemních vod,
+          a zřizování, změny a odstraňování vodních děl, která s tímto odběrem nebo nakládáním
+          souvisejí, rozhodují v případech, kdy jim přísluší povolovat vodní díla, též o ostatních
+          vodohospodářských záležitostech týkajících se tohoto vodního díla, vydávají souhlas ke
+          stavbám jednotlivých obytných budov v záplavových územích a k průzkumným
+          hydrogeologickým vrtům pro následné vybudování studny pro potřeby jednotlivých občanů
+
+
+
+
+                                                    7
+
+
+
+                                                                                                   Strana 9 / 26
+        (domácností), vyjadřují se v případech, v nichž jsou příslušné k udělení povolení nebo souhlasu,
+        127)
+
+
+    c) vykonávají působnost speciálního stavebního úřadu I. stupně u vodních děl uvedených v písm.
+       b) tohoto odstavce, 65)
+
+               ZEMĚDĚLSTVÍ, OCHRANA ZEMĚDĚLSKÉHO PŮDNÍHO FONDU, VETERINÁRNÍ A
+                                           ROSTLINOLÉKAŘSKÉ PÉČE
+                                       ČLÁNEK 35 - PŮSOBNOST MĚSTA
+[2] Přenesená působnost:
+    a) v 1. stupni vykonává státní správu na úseku ochrany zemědělského půdního fondu, 139)
+    b) na úseku veterinární péče vydává na návrh krajské veterinární správy nařízení obce,115)
+    c) v 1. stupni provádí správní řízení o uložení pokuty nebo povinnosti složit kauci podle zvláštních
+       předpisů.,70)
+    d) v 1. stupni vykonává státní správu na úseku zemědělství podle zákona o zemědělství.143)
+
+                             ČLÁNEK 36 - PŮSOBNOST MĚSTSKÝCH ČÁSTÍ
+[2] Přenesená působnost:
+    a) vykonávají v 1. stupni státní správu na úseku:
+       - veterinární péče, která přísluší obecním úřadům,118)
+       - rostlinolékařské péče, která přísluší obecním úřadům a obecním úřadům obcí s rozšířenou
+         působností, včetně projednávání přestupků,140)
+     -   zemědělství podle zákona o zemědělství, která přísluší obecním úřadům obcí s rozšířenou
+         působností, včetně projednávání přestupků, 143)
+
+                       ČÁST IV. HOSPODAŘENÍ MĚSTA A MĚSTSKÝCH ČÁSTÍ
+                              ČLÁNEK 76 - FINANČNÍ HOSPODAŘENÍ
+Příjmy městské části
+[11] Příjmy z prodeje nemovitého majetku, a to následovně:
+a)      – 20 % příjmů z prodeje nemovitého majetku města (mimo příjmy z prodeje dle odst. 12 tohoto
+článku) snížených o výdaje související s prodejem. Tyto příjmy se rozdělí městským částem způsobem
+uvedeným v odst. [9] tohoto článku,
+b)      příjmy z prodeje svěřeného nemovitého majetku uskutečněného do 6. 11. 2003 (mimo příjmů z
+prodeje řešeného jiným dokumentem, 57) snížené o částku rovnající se dani z převodu nemovitých věcí,
+podléhají režimu dělení, ve kterém 50 % z těchto příjmů připadne městské části, ve které byl tento
+prodej realizován, a 50 % městu. Pro tyto případy se nepoužije ustanovení písm. a) tohoto odstavce.
+
+Práva a povinnosti městské části
+[34] Příspěvek ze státního rozpočtu na výkon státní správy se poskytuje městským částem adresně na
+výkon činnosti stavebních a matričních úřadů, na výkon veřejného opatrovnictví a městské části Brno-
+střed na výkon činnosti zvláštního matričního úřadu. Na ostatní výkon státní správy se příspěvek
+poskytuje podle počtu obyvatel městských částí. Městské části si na základě smluvních vztahů
+vzájemně převedou prostředky v těch případech, kdy některá městská část vykonává určitou část státní
+správy pro jinou městskou část.
+Ostatní ustanovení
+
+
+
+
+                                                   8
+
+
+
+                                                                                                    Strana 10 / 26
+[54] Městské části žádají o účelové dotace, návratné finanční výpomoci a zápůjčky ze státního rozpočtu,
+státních fondů nebo z rozpočtu kraje:
+a)      u nichž je vyžadována finanční spoluúčast města a zároveň, nebo je za město možné podat
+pouze jednu žádost, nebo
+b)     u nichž není vyžadována finanční spoluúčast města a zároveň je za město možné podat pouze
+jednu žádost, nebo
+c)       u nichž je vyžadována finanční spoluúčast města a zároveň je za město možné podat více než
+jednu žádost, po udělení předchozího souhlasu ze strany Rady města Brna.
+Městské části žádají o O účelové dotace, návratné finanční výpomoci a zápůjčky ze státního rozpočtu,
+státních fondů nebo z rozpočtu kraje, u nichž není vyžadována finanční spoluúčast města a zároveň ,
+nebo je za město možné podat více než jednu žádost, žádají městské části bez předchozího souhlasu
+ze strany města/Rady města Brna., pouze jsou pPo podání žádosti jsou povinny informovat město o
+jejím tomto podání. , k K jejich přijetí a uzavření smlouvy jsou městské části oprávněny rovněž bez
+souhlasu Rady města Brna.
+
+                   ČLÁNEK 78 - VZÁJEMNÁ SOUČINNOST MĚSTA A MĚSTSKÝCH ČÁSTÍ
+[10] V řízeních, ve kterých město zastupuje dle čl. 5 odst. [2] písm. h) a i) tohoto Statutu primátor města
+Brna, město požádá dotčené městské části o stanovisko.
+
+
+              ČLÁNEK 80 - OZNAČOVÁNÍ PÍSEMNOSTÍ VYHOTOVENÝCH ORGÁNY MĚSTA A
+              MĚSTSKÝCH ČÁSTÍ A UŽÍVÁNÍ ÚŘEDNÍCH RAZÍTEK
+[2] Všechny písemnosti, které jsou vyhotoveny orgány města a orgány městských částí v otázkách
+samostatné a přenesené působnosti, se označují dle Přílohy č. 3 tohoto Statutu.
+
+                           ČLÁNEK 83 - PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ
+[2] Přílohy tohoto Statutu tvoří:
+     Příloha č. 1 - Vymezení území městských částí
+     Příloha č. 2 - Vzájemný výkon přenesené působnosti
+     Příloha č. 3 - Označování písemností vyhotovených orgány města a orgány městských částí
+     Příloha č. 34 - Majetek města svěřený městským částem
+     Příloha č. 45 - Pravidla pro svěřování majetku města městským částem
+     Příloha č. 56 - Kontrolní řád města Brna
+     Příloha č. 67 - Zajišťování krizového řízení
+     Příloha č. 78 - Stavby a území celoměstského zájmu
+     Příloha č. 89 - Přehled příspěvkových organizací a obchodních společností se 100% účastí
+     zřízených či založených městem Brnem a městem Brnem - městskými částmi.
+
+
+
+
+                                                     9
+
+
+
+                                                                                                       Strana 11 / 26
+                                             ODKAZY
+
+
+10)       např. zák. č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních
+          korporacích), ve znění pozdějších předpisů,
+           - zákon č. 143/1992 Sb., o platu a odměně za pracovní pohotovost v rozpočtových a některých
+              dalších organizacích a orgánech, ve znění pozdějších předpisů
+11)       zák. č. 117/2001 Sb., o veřejných sbírkách a o změně některých zákonů (zákon o veřejných
+          sbírkách), ve platném znění pozdějších předpisů
+11a) § 6 odst. 6 písm. c) zák. č. zák. č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební
+         zákon), ve znění pozdějších předpisů
+13a) obecně závazná vyhláška statutárního města Brna č. 1/1992, kterou se ve městě Brně zřizuje městská
+         policie, ve znění pozdějších vyhlášek
+18)           - zák. č. 143/1992 Sb., o platu a odměně za pracovní pohotovost v rozpočtových a v některých
+              dalších organizacích a orgánech, ve znění pozdějších předpisů
+           - nařízení vlády č. 564/2006 Sb., o platových poměrech zaměstnanců ve veřejných službách a
+              správě
+              nařízení vlády č. 341/2017 Sb., o platových poměrech zaměstnanců ve veřejných službách a
+               správě, ve znění pozdějších předpisů
+20)       § 58 zák. č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů
+21a)     - zák. č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění pozdějších
+              předpisů
+           - zák. č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých
+              zákonů (zákon o vodovodech a kanalizacích), ve znění pozdějších předpisů
+           - zák. č. 541/2020 Sb., o odpadech, ve znění pozdějších předpisů
+           - zák. č. 62/1988 Sb., o geologických pracích, ve znění pozdějších předpisů,
+           - zák. č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon), ve znění
+              pozdějších předpisů
+           - zákon č. 59/2006 Sb., o prevenci závažných havárií způsobených vybranými nebezpečnými
+              chemickými látkami nebo chemickými přípravky a o změně zákona č. 258/2000 Sb., o ochraně
+               veřejného zdraví a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, a
+               zákona č. 320/2002 Sb., o změně a zrušení některých zákonů v souvislosti s ukončením
+               činnosti okresních úřadů, ve znění pozdějších předpisů,
+              (zákon o prevenci závažných havárií), ve znění pozdějších předpisů
+           - zák. č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů
+           - vyhláška č. 205/2009 Sb., o zjišťování emisí ze stacionárních zdrojů a o provedení některých
+              dalších ustanovení zák. o ochraně ovzduší, ve znění pozdějších předpisů
+22)           zák. č. 183/2006 283/2021 Sb., o územním plánování a stavebním řádu (stavební zákon), ve
+              znění pozdějších předpisů
+Pozn.: Všechny další odkazy v textu na konkrétní §§ budou řešeny odkazem 22).
+31a)       § 5, § 59, § 60 zák. č. 541/2020 Sb., o odpadech
+31c) § 22 zák.ona č. 224/201559/2006 Sb., o prevenci závažných havárií způsobených vybranými
+          nebezpečnými chemickými látkami nebo chemickými směsmi a o změně zákona č. 634/2004 Sb.,
+          o správních poplatcích, přípravky a o změně zákona č. 258/2000 Sb., o ochraně veřejného zdraví
+          a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, a zákona č.
+           320/2002 Sb., o změně a zrušení některých zákonů v souvislosti s ukončením činnosti okresních
+           úřadů, ve znění pozdějších předpisů (zákon o prevenci závažných havárií), ve znění pozdějších
+           předpisů
+36) zák. č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších
+          předpisů
+42) vyhl. MŽP č. 457/2001 Sb., o odborné způsobilosti a o úpravě některých dalších otázek souvisejících s
+          posuzováním vlivů na ŽP
+
+
+
+                                                 10
+
+
+
+                                                                                                  Strana 12 / 26
+44)      obecně závazná vyhláška statutárního města Brna o stanovení systému shromažďování, sběru,
+         přepravy,       třídění, využívání       a       odstraňování komunálního odpadu
+                 vznikajícího
+         na území statutárního města Brna
+48)   zák. č. 420/2004 Sb., o přezkoumávání hospodaření územních samosprávných celků a dobrovolných
+         svazků obcí, ve znění pozdějších předpisů, a zák. č. 421/2004 Sb., o změně zákonů souvisejících
+         s přijetím zákona o přezkoumávání hospodaření územních samosprávných celků a dobrovolných
+         svazků obcí, ve znění pozdějších předpisů
+57)    Pravidla prodeje domů, bytů a nebytových prostor v těchto domech z vlastnictví města do vlastnictví
+         právnických a fyzických osob, v platném znění
+65)    § 15 zák. č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon) ve znění
+         pozdějších předpisů zák. č. 148/2023 Sb., o jednotném environmentálním stanovisku
+105)     zák. č. 89/2012 Sb., občanský zákoník
+127)    § 8 odst. 1 písm. a) bod 1 a 5, § 8 odst. 1 písm. b) bod 1 a 5, § 15 a § 17 zák. č. 254/2001 Sb., o
+         vodách, ve znění pozdějších předpisů
+129)    zák. č. 240/2000 Sb., o krizovém řízení a o změně některých zákonů (krizový zákon), ve znění
+         pozdějších předpisů
+133)       § 29 odst. 6 zák č. 320/2001 Sb., o finanční kontrole ve veřejné správě a o změně některých
+         dalších zákonů, ve znění pozdějších předpisů
+133b)    § 33 vyhl. č. 416/2004 Sb., kterou se provádí zákon č. 320/2001 Sb., o finanční kontrole ve
+         veřejné správě
+ 137) např.:
+         - zák. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů,
+         - zák. č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů,
+         - zák. č. 435/2004 Sb., o zaměstnanosti, ve znění pozdějších předpisů
+138)     zák. č. 435/2004 Sb., o zaměstnanosti, ve platném znění pozdějších předpisů
+140)   § 73 odst. 1, a 2 a 3 zák. č. 326/2004 Sb., o rostlinolékařské péči a o změně některých souvisejících
+         zákonů, ve znění pozdějších předpisů
+148)   §§ 18,19 zák. č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění
+         pozdějších předpisů
+148a)    §§ 66 a 88 zák. č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve
+         znění pozdějších předpisů
+151)    zák. č. 585/2004 Sb., o branné povinnosti a jejím zajišťování (branný zákon), ve znění pozdějších
+         předpisů
+155)     Příloha č. 14 k vyhlášce. č. 207/2001300/2006 Sb., kterou se provádí                         zákon
+         č. 301/2000115/2006 Sb., o registrovaném partnerství a o změně některých souvisejících zákonů,
+         a kterou se mění vyhláška č. 207/2001 Sb., kterou se provádí zák. 301/2000 Sb., o matrikách,
+         jménu a příjmení a o změně některých souvisejících zákonů, ve znění pozdějších předpisů
+
+V odkazech 6a), 12), 12a), 13d) ve druhé odrážce, 14d), 15), 23), 24), 29), 30), 31), 31b), 31d), 31e), 31f),
+31g), 31h), 33), 33a), 33b), 33c), 39), 43), 47a), 52) v obou odrážkách, 54), 55), 56), 58), 59), 61), 75a),
+79), 81), 87) v první odrážce, 88), 91), 92), 96), 97), 98), 102), 105), 106), 106a), 107), 107a), 108), 133a),
+133b), 149), 152), 159), 159a), 159b), 159c), 159d) a 159e) je na konec názvu právního předpisu doplněna
+čárka a dovětek „ve znění pozdějších předpisů“.
+
+
+V odkazech 7), 15), 28) v první odrážce, 32), 41), 41a), 50), 53), 60) v první odrážce, 63), 68), 69), 70), 72),
+73), 75), 84) ve druhé odrážce, 91), 109), 114), 115), 117), 118), 119), 121), 122), 123), 124), 128), 133),
+133a), 133b), 134), 140) a 142) dojde k úpravě v souladu s oficiálními názvy těchto právních předpisů
+uvedenými ve Sbírce zákonů.
+
+
+
+
+                                                    11
+
+
+
+                                                                                                       Strana 13 / 26
+                          Příloha č. 2 Vzájemný výkon přenesené působnosti
+
+
+Městská část Brno-Královo Pole vykonává státní správu pro:
+městskou části Brno-Útěchov na úseku:
+7. Stavebního úřadu           -       zák. č. 183/2006 Sb., o územním plánování a stavebním řádu
+                                  (stavební zákon), ve znění pozdějších předpisů.
+78. Dopravy a silničního - zák. č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších
+hospodářství předpisů, včetně činnosti speciálního stavebního úřadu dle ust. § 15
+                                odst. 1 písm. c) zák. č. 183/2006 Sb., o územním plánování a stavebním
+                                řádu (stavební zákon), ve znění pozdějších předpisů.
+9. Vodního hospodářství - § 8 odst. 1 písm. a) bod 1 a 5, § 8 odst. 1 písm. b) bod 1 a 5, § 15, § 17 odst.
+                                1 písm. c), § 78 a § 105 zák. č. 254/2001 Sb., o vodách, ve znění
+                                pozdějších předpisů,.
+                              - § 15 zák. č. 183/2006 Sb., o územním plánování a stavebním řádu (
+                                  stavební zákon), ve znění pozdějších předpisů.
+
+městskou část Brno-Jehnice na úseku:
+6. Zemědělství, ochrany   - § 46 písm. a) zák. č. 166/1999 Sb., o veterinární          péči, ve
+zemědělského půdního                  znění pozdějších předpisů,
+fondu, veterinární a      - § 70 odst. 2, § 73 odst. 1 a 2-3 zák. č. 326/2004 Sb., o rostlinolékařské
+rostlinolékařské péče         péči a o změně některých souvisejících zákonů, ve znění pozdějších
+                                  předpisů,
+                              -   § 2e - § 2h, § 5 odst. 1 písm. a) a b), § 5a odst. 1 zák. č. 252/1997
+                                  Sb., o zemědělství, ve znění pozdějších předpisů,
+                              -   § 13 zák. č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších
+                                  předpisů.
+
+
+8. Dopravy a silničního       -   zák. č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších
+hospodářství                      předpisů včetně činnosti speciálního stavebního úřadu dle ust. § 15
+                                  odst. 1 písm. c) zák. č. 183/2006 Sb., o územním plánování a
+                                  stavebním řádu (stavební zákon), ve znění pozdějších předpisů.
+
+
+10. Vodního hospodářství      -   § 8 odst. 1 písm. a) bod 1 a 5, § 8 odst. 1 písm. b) bod 1 a 5, § 15, §
+                                  17 odst. 1 písm. c), § 78 a § 105 zák. č. 254/2001 Sb., o vodách, ve
+                                  znění pozdějších předpisů,
+                              -   § 15 zák. č. 183/2006 Sb., o územním plánování a stavebním řádu
+                                  (stavební zákon), ve znění pozdějších předpisů.
+
+Městská část Brno-Bystrc vykonává státní správu pro: městskou
+části Brno-Žebětín na úseku:
+1. Dopravy a silničního - zák. č. 183/2006 Sb., o územním plánování a       stavebním řádu hospodářství
+(stavební zákon), ve znění pozdějších předpisů, § 15 odst. 1 písm. c)“.
+městskou část Brno-Kníničky na úseku:
+1. Dopravy a silničního    - zák. č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších
+hospodářství                   předpisů včetně činnosti speciálního stavebního úřadu dle ust. § 15
+                               odst. 1 písm. c) zák. č. 183/2006 Sb., o územním plánování a
+                               stavebním řádu (stavební zákon), ve znění pozdějších předpisů.
+2. Vodního hospodářství    - § 8 odst. 1 písm. a) bod 1 a 5, § 8 odst. 1 písm. b) bod 1 a 5, § 15, § 17
+                               odst. 1 písm. c), § 78 a § 105 zák. č. 254/2001 Sb., o vodách, ve znění
+                               pozdějších předpisů,
+
+
+
+                                                    12
+
+
+
+                                                                                                       Strana 14 / 26
+                             -    § 15 zák. č. 183/2006 Sb., o územním plánování a stavebním řádu (
+                                  stavební zákon), ve znění pozdějších předpisů.
+23. Zemědělství, ochrany     -    § 46 písm. a) zák. č. 166/1999 Sb., o veterinární péči, ve znění
+zemědělského půdního              pozdějších předpisů,
+fondu, veterinární a         -    § 70 odst. 2, § 73 odst. 1 a 2-3 zák. č. 326/2004 Sb., o rostlinolékařské
+rostlinolékařské péče:            péči a o změně některých souvisejících zákonů, ve znění pozdějších
+                                  předpisů,
+                             -    § 2e - § 2h, § 5 odst. 1 písm. a) a b), § 5a odst. 1 zák. č. 252/1997
+                                  Sb., o zemědělství, ve znění pozdějších předpisů,
+                             -    § 13 zák. č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších
+                                  předpisů.
+101. Zdravotnictví           -    § 11 zák. č. 251/2016 Sb., o některých přestupcích, ve znění pozdějších
+                                  předpisů,
+                             -    § 29 zák. č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů.
+
+
+Městská část Brno-Řečkovice a Mokrá Hora vykonává státní správu pro:
+městskou části Brno-Ořešín na úseku:
+1. Zemědělství, ochrany    - § 46 písm. a) zák. č. 166/1999 Sb., o veterinární         péči, ve
+zemědělského půdního                  znění pozdějších předpisů,
+fondu, veterinární a       - § 70 odst. 2, § 73 odst. 1 a 2-3 zák. č. 326/2004 Sb., o rostlinolékařské
+rostlinolékařské péče          péči a o změně některých souvisejících zákonů, ve znění pozdějších
+                                  předpisů,
+                             -    § 2e - § 2h, § 5 odst. 1 písm. a) a b), § 5a odst. 1 zák. č. 252/1997
+                                  Sb., o zemědělství, ve znění pozdějších předpisů,
+                             -    § 13 zák. č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších
+                                  předpisů.
+1. Požární ochrany           -    § 29 odst. 3 písm. a), b) zák. č. 133/1985 Sb., o požární ochraně, ve
+                                  úplném znění pozdějších předpisů.
+10.Dopravy a silničního      -    zák. č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších
+hospodářství                      předpisů včetně činnosti speciálního stavebního úřadu dle ust. § 15
+                                  odst. 1 písm. c) zák. č. 183/2006 Sb., o územním plánování a
+                                  stavebním řádu (stavební zákon), ve znění pozdějších předpisů.
+
+U názvů právních předpisů č. 239/2000 Sb., č. 207/2001 Sb., č. 289/1995 Sb., č. 166/1999 Sb., č.
+326/2004 Sb. a č. 128/2000 Sb. dojde k úpravě v souladu s oficiálními názvy těchto právních předpisů
+uvedenými ve Sbírce zákonů.
+
+
+U právních předpisů č. 541/2020 Sb., č. 542/2020 Sb. a č. 201/2012 Sb. je na konec názvu právního
+předpisu doplněna čárka a text „ve znění pozdějších předpisů“.
+
+
+                                               Příloha č. 3 se
+                                               vypouští
+Přílohy č. 4 až 9 se nově označují jako přílohy č. 3 až 8.
+
+
+                                               Příloha č. 7
+Všeobecně:
+-   stavby vyšší než 40 m (měřeno od úrovně ulice před hlavním vstupem),
+-   záměry, u kterých byla uzavřena mezi stavebníkem a městem plánovací smlouva.
+
+
+
+
+                                                    13
+
+
+
+                                                                                                       Strana 15 / 26
+                                         Příloha č. 8
+Přehled příspěvkových organizací zřízených statutárním městem Brnem a statutárním
+městem Brnem – městskými částmi a obchodních společností se 100% majetkovou účastí
+statutárního města Brna a statutárního města Brna – městských částí
+
+
+Část II – Příspěvkové organizace zřízené statutárním městem Brnem – městskými částmi a
+obchodní společnosti se 100% majetkovou účastí statutárního města Brna – městských částí
+
+
+13. Městská část Brno-Bystrc
+Mateřská škola SLUNÍČKO, Brno, Štouračova 23, příspěvková organizace
+Mateřská škola DUHA, Brno, Kachlíkova 21, příspěvková organizace
+Mateřská škola KAMECHY, Brno, Kavčí 3, příspěvková organizace
+Mateřská škola MAXÍK, Brno, Nad Dědinou 23, příspěvková organizace
+Mateřská škola SKŘIVÁNEK, Brno, Kachlíkova 19, příspěvková organizace
+
+
+
+
+Materiál byl předložen Komisi legislativně organizační Rady města Brna na její zasedání dne 5. 12.
+2023.
+
+
+
+
+                                               14
+
+
+
+                                                                                              Strana 16 / 26
+                                         USNESENÍ
+                 10. jednání Sněmu starostů konaného dne 30. listopadu 2023
+
+
+
+5. Projednání návrhů obecně závazných vyhlášek statutárního města Brna
+
+a) Návrh obecně závazné vyhlášky statutárního města Brna o místních poplatcích
+S 10 – 3
+
+Sněm starostů doporučuje Radě města Brna doporučit Zastupitelstvu města Brna schválit obecně
+závaznou vyhlášku statutárního města Brna o místních poplatcích.
+
+
+b) Návrh obecně závazné vyhlášky statutárního města Brna, kterou se mění a doplňuje obecně závazná
+   vyhláška statutárního města Brna č. 20/2001, kterou se vydává Statut města Brna, ve znění
+   pozdějších vyhlášek
+S 10 – 4
+
+Sněm starostů nesouhlasí
+s návrhem obecně závazné vyhlášky statutárního města Brna, kterou se mění a doplňuje obecně
+závazná vyhláška statutárního města Brna č. 20/2001, kterou se vydává Statut města Brna, ve znění
+pozdějších vyhlášek.
+
+Sněm starostů požaduje
+změnit návrh obecně závazné vyhlášky tak, aby působnost obecního stavebního úřadu I. stupně
+vykonávaly městské části a odvolacím orgánem byl Magistrát města Brna.
+
+Sněm starostů doporučuje
+- vypustit změny v majetku čl. 25 a 26, uvedené v předloženém návrhu;
+- vypustit z přílohy č. 7 Statutu města Brna odrážku „- záměry, u kterých byla uzavřena mezi
+  stavebníkem a městem plánovací smlouva.“
+
+
+
+
+                                                                   Mgr. Vladan Krásný v. r.
+                                                               předsedající 10. Sněmu starostů
+
+
+
+
+                                                1
+
+
+
+                                                                                                 Strana 17 / 26
+                Statutární město Brno
+                Zastupitelstvo města Brna
+
+
+
+
+Obecně závazná vyhláška č. XX/2023,
+
+kterou se mění obecně závazná vyhláška statutárního města Brna č. 20/2001, kterou se vydává Statut
+města Brna, ve znění pozdějších vyhlášek
+
+
+
+
+DATUM NABYTÍ ÚČINNOSTI: X. X. 2023
+
+
+
+
+Magistrát města Brna, Dominikánské náměstí 196/1, 601 67 Brno, tel.: 542 173 590, e-mail: informace@brno.cz
+
+                                                                                                              Strana 18 / 26
+                                       Statutární město Brno
+
+                                Obecně závazná vyhláška č. XX/2023,
+kterou se mění obecně závazná vyhláška statutárního města Brna č. 20/2001, kterou se vydává Statut
+                           města Brna, ve znění pozdějších vyhlášek
+
+
+
+Zastupitelstvo města Brna se na Z9/XX. zasedání konaném dne X. X. 2023 pod bodem č. X usneslo vydat
+na základě ustanovení § 130 a v souladu s ustanovením § 84 odst. 2 písm. h) zákona č. 128/2000 Sb.,
+o obcích (obecní zřízení), ve znění pozdějších předpisů, tuto obecně závaznou vyhlášku (dále jen „vyhláška“):
+
+
+
+                                                 Článek 1
+                                              Změna vyhlášky
+Obecně závazná vyhláška statutárního města Brna č. 20/2001, kterou se vydává Statut města Brna, ve znění
+obecně závazných vyhlášek statutárního města Brna č. 21/2001, 25/2001, 2/2002, 5/2002, 7/2002, 24/2002,
+3/2003, 10/2003, 1/2004, 4/2004, 14/2004, 9/2005, 15/2006, 18/2006, 1/2007, 7/2007, 1/2008, 13/2008,
+2/2009, 3/2009, 12/2009, 4/2010, 14/2010, 23/2010, 7/2011, 16/2011, 1/2012, 10/2012, 5/2013, 16/2013,
+2/2014, 8/2014, 7/2015, 1/2016, 12/2016, 7/2017, 17/2017, 14/2018, 11/2019, 13/2019, 28/2020, 7/2021,
+19/2021, 20/2022 a 6/2023, se mění takto:
+
+
+1. V Preambuli – se:
+   v části – V přílohách je uvedeno:
+   − třetí odrážka zrušuje.
+
+
+2. V části II. – Orgány města, zastupitelstva a rady města, orgány městských částí – se:
+   v článku 4
+   v odst. 3
+   − v písm. d) odkaz „11a)“ nahrazuje odkazem „22)“,
+
+   v článku 5
+   v odst. 2
+   − písm. h) zní: „zastupuje město jako účastníka řízení v řízeních o povolení záměru a správních řízeních
+     prováděných podle zvláštních právních předpisů,21a), 22) ve kterých má město ze zákona postavení
+     účastníka řízení, a to:
+     - v případě staveb a území celoměstského zájmu dle Přílohy č. 7 tohoto Statutu, nebo
+     - v případě, kdy předmět řízení zasahuje na území dvou a více městských částí, nebo
+     - u záměrů na území sousedních obcí.
+     V době nepřítomnosti primátora zastupují město náměstci primátora. Na základě usnesení schůze Rady
+     města Brna, jež je přímo pověří k zastupování v rámci konkrétního řízení či k podpisu vyjádření za
+     město, jsou náměstci oprávněni zastupovat město i v době přítomnosti primátora. K zastupování za
+     město v rámci konkrétního řízení může být usnesením schůze Rady města Brna pověřen i jiný člen
+     Zastupitelstva města Brna, stejně tak jako k podpisu vyjádření za město,“,
+   − písm. i) zrušuje,
+   − dosavadní písm. j) až x) označují jako písm. i) až w),
+   − v písm. t) text „Přílohy č. 7“ nahrazuje textem „Přílohy č. 6“,
+
+Datum nabytí účinnosti: X. X. 2023                                                           Strana 2 (celkem 9)
+
+
+
+                                                                                                        Strana 19 / 26
+Statutární město Brno
+Obecně závazná vyhláška č. XX/2023, kterou se mění obecně závazná vyhláška statutárního města Brna č. 20/2001, kterou se vydává
+Statut města Brna, ve znění pozdějších vyhlášek
+
+
+   v článku 9
+   v odst. 3
+    −    v písm. h) text „Přílohy č. 7“ nahrazuje textem „Přílohy č. 6“,
+
+   v článku 10
+   v odst. 2
+    −    písm. c) zní: „stanoví platy všem zaměstnancům města zařazeným do Magistrátu města Brna,18)“,
+
+   v článku 12
+   v odst. 3
+    −    osmá odrážka zní: „o vydávání stanovisek ke stavebním záměrům jiných stavebníků pro zpracování
+         vyjádření primátora k projektovým dokumentacím pro vydání rozhodnutí o povolení záměru dle
+         zvláštního právního předpisu, 22)“,
+
+    v článku 12
+    −    odst. [7] zrušuje,
+    −    dosavadní odst. [8] označuje jako odst. [7],
+
+   v článku 13
+    −    odst. 10 zní: „Starosta zastupuje město jako účastníka řízení v řízeních o povolení záměru na území
+         příslušné městské části a dále ve správních řízeních prováděných podle zvláštních právních
+         předpisů,21a) ve kterých má město ze zákona postavení účastníka řízení; výjimku tvoří případy
+         uvedené v čl. 5 odst. [2] písm. h) tohoto Statutu.“,
+    −    v odst. 14 text „Příloze č. 7“ nahrazuje textem „Příloze č. 6“,
+
+   v článku 14
+    −    v odst. 8 text „Přílohy č. 7“ nahrazuje textem „Přílohy č. 6“.
+
+
+3. V části III. – Působnosti města a městských částí podle jednotlivých oborů působnosti – se:
+   v článku 17
+   v odst. 1
+    −    v písm. a) odkaz „148)“ nahrazuje odkazem „22)“,
+    −    písm. c) zní: „zajišťuje uzavírání plánovacích smluv dle zvláštního předpisu 22) a smluv o investičním
+         příspěvku v případě staveb v celoměstském zájmu v souladu se Zásadami pro spolupráci s investory
+         na rozvoji veřejné infrastruktury statutárního města Brna,“,
+
+   v odst. 2
+    −    písm. d) a e) zrušují,
+    −    dosavadní písm. f) označuje jako písm. d),
+    −    písm. d) zní: „vykonává působnost obecního stavebního úřadu a kontrolu ve věcech stavebního řádu
+         na území města Brna podle zvláštního právního předpisu.22)“,
+
+   v článku 18
+   v odst. 1
+   − písm. f) zní: „vydávají stanoviska ke stavebním záměrům jiných stavebníků pro zpracování vyjádření
+     primátora k projektovým dokumentacím pro vydání rozhodnutí o povolení záměru dle zvláštního
+     právního předpisu,22) a to ve lhůtách v souladu se Zásadami pro spolupráci s investory na rozvoji veřejné
+     infrastruktury statutárního města Brna, přičemž, není-li stanovisko vydáno ve stanovené lhůtě, má se
+     za to, že městská část nemá ke stavebním záměrům námitek,“,
+
+
+
+Datum nabytí účinnosti: X. X. 2023                                                                          Strana 3 (celkem 9)
+
+
+
+                                                                                                                       Strana 20 / 26
+Statutární město Brno
+Obecně závazná vyhláška č. XX/2023, kterou se mění obecně závazná vyhláška statutárního města Brna č. 20/2001, kterou se vydává
+Statut města Brna, ve znění pozdějších vyhlášek
+
+
+   v článku 18
+   − odst. [2] zní: „nevykonávají.“,
+
+   v článku 21
+   v odst. 1
+   − písm. g) zrušuje,
+   − dosavadní písm. h) až r) označují jako písm. g) až q),
+   − v písm. m) doplňuje třetí a čtvrtá odrážka, které zní:
+     „- vydává vyjádření k umístění, provedení a užívání stavby stacionárního zdroje neuvedeného
+        ve zvláštním právním předpisu,33d),
+     - vede evidenci stacionárních zdrojů znečištění ovzduší neuvedených ve zvláštním právním
+        předpisu,33d)“,
+   − v písm. n) text „Přílohy č. 8“ nahrazuje textem „Přílohy č. 7“,
+   − písm. o) zní: „vyjadřuje se k návrhům bezpečnostní dokumentace,31c)“,
+
+   v odst. 2
+   − vkládají nová písmena a) až c), která zní:
+     „a) vydává jednotné environmentální stanovisko (dále „JES“) 65) z hlediska zvláštních zákonů v rozsahu
+     působnosti obce s rozšířenou působností,21a), 31), 35), 60), 139)
+     b) poskytuje předběžnou informaci,22)
+     c) poskytuje předběžnou konzultaci,31), 33), 35)“,
+   − dosavadní písm. a) až h) označují jako písm. d) až k),
+   − v písm. e) druhá a osmá odrážka zrušují,
+   − v písm. f) vkládá nová první až třetí odrážka, které zní:
+     „- vydává povolení ke kácení dřevin rostoucích mimo les k záměrům vyžadujících JES a ukládá
+     náhradní výsadbu, 65)
+     - uskutečňuje kontrolu provádění náhradní výsadby uložené JES, včetně souvisejících ustanovení, 65)
+     - vede evidenci náhradní výsadby v Geografickém informačním systému (GIS) města Brna (Pasport
+     zeleně),“,
+    − v písm. g) odkaz „36)“ nahrazuje odkazem „22)“,
+
+   v článku 22
+   v odst. 1
+   − v písm. l) odkaz „42)“ zrušuje,
+   − v písm. p) text „Přílohy č. 4“ nahrazuje textem „Přílohy č. 3“,
+   − v písm. q) text „písm. o)“ nahrazuje textem „písm. n)“,
+
+   v odst. 2
+   − v písm. c) první odrážka zní: „vydávají povolení ke kácení dřevin rostoucích mimo les, pokud není
+     součástí JES,65), v případech povolení ke kácení dřevin rostoucích mimo les ukládají náhradní výsadbu,
+     vedou přehled pozemků vhodných k náhradní výsadbě a ukládají provedení nezbytných zásahů včetně
+     pokácení dřevin a jsou oprávněny k pozastavení, omezení nebo zákazu kácení dřevin, vedou evidenci
+     náhradních výsadeb v Geografickém informačním systému (GIS) města Brna (Pasport zeleně),“,
+
+   v článku 25
+   v odst. 1
+   − písm. e) zní: „zastupuje město jako vlastníka nemovitostí v řízeních prováděných podle stavebního
+     zákona, a to včetně stavebních záměrů týkajících se svěřeného nemovitého majetku u nichž je z úrovně
+
+
+
+Datum nabytí účinnosti: X. X. 2023                                                                          Strana 4 (celkem 9)
+
+
+
+                                                                                                                       Strana 21 / 26
+Statutární město Brno
+Obecně závazná vyhláška č. XX/2023, kterou se mění obecně závazná vyhláška statutárního města Brna č. 20/2001, kterou se vydává
+Statut města Brna, ve znění pozdějších vyhlášek
+
+
+       města uzavřena plánovací smlouva dle stavebního zákona, a dále při řízeních o pozemkových
+       úpravách,“
+
+   článku 26
+   v odst. 1
+   − písm. c) zní: „zastupují město v majetkoprávních záležitostech týkajících se majetku města jim
+     svěřeného nebo majetku ve vlastnictví třetích osob užívaného městskou částí, příspěvkovou organizací
+     zřízenou městskou částí, popřípadě organizační složkou městské části, před soudy, státním
+     zastupitelstvím a jinými orgány, zastupují město jako vlastníka v řízeních prováděných podle stavebního
+     zákona ve věcech týkajících se svěřeného nemovitého majetku města, s výjimkou případů uvedených
+     v ustanovení čl. 25 odst. 1 písm. e); v případě řízení dle stavebního zákona týkajícího se nemovitého
+     majetku svěřeného v Příloze č. 3 – část I tohoto Statutu (školy a školská zařízení) jsou městské části
+     povinny vyžádat si souhlas věcně příslušného útvaru města,“,
+
+   v článku 29
+   v odst. 2
+   − písm. b) zrušuje,
+   − dosavadní písm. c) až i) označují jako písm. b) až h),
+
+   v článku 30
+   v odst. 2
+   − písm. a) zrušuje,
+   − dosavadní písm. b) až d) označují jako písm. a) až c),
+
+   v článku 33
+   v odst. 2
+   − v písm. a) text „s výjimkou pravomocí svěřených městským částem na základě čl. 34 odst. 2 písm. b)
+     tohoto Statutu,“ zrušuje,
+   − písm. b) a d) zrušují,
+   − dosavadní písm. c) označuje jako písm. b),
+
+   v článku 34
+   v odst. 2
+   − písm. b) a c) zrušují,
+   − dosavadní písm. d) označuje jako písm. b),
+
+   v článku 35
+   v odst. 2
+   − na konci písm. c) tečka nahrazuje čárkou a doplňuje se písm. d), které zní: „v 1. stupni vykonává státní
+     správu na úseku zemědělství podle zákona o zemědělství.143)“,
+
+   v článku 36
+   v odst. 2
+   − v písm. a) třetí odrážka zrušuje,
+
+   v článku 69
+   v odst. 2
+   − v písm. b) text „Příloze č. 7“ nahrazuje textem „Příloze č. 6“,
+   − v písm. f) odkaz „129)“ nahrazuje odkazem „16)“ a odkaz „151)“ nahrazuje odkazem „74)“,
+
+   v článku 70
+
+
+Datum nabytí účinnosti: X. X. 2023                                                                          Strana 5 (celkem 9)
+
+
+
+                                                                                                                       Strana 22 / 26
+Statutární město Brno
+Obecně závazná vyhláška č. XX/2023, kterou se mění obecně závazná vyhláška statutárního města Brna č. 20/2001, kterou se vydává
+Statut města Brna, ve znění pozdějších vyhlášek
+
+
+   v odst. 2
+   − v písm. b) text „Příloze č. 7“ nahrazuje textem „Příloze č. 6“.
+
+
+4. V části IV. – Hospodaření města a městských částí – se:
+   v článku 75
+   − v odst. 2 text „Příloze č. 4“ nahrazuje textem „Příloze č. 3“ a text „Příloha č. 4“ nahrazuje textem
+     „Příloha č. 3“,
+   − v odst. 4 v písm. a) text „Přílohou č. 5“ nahrazuje textem „Přílohou č. 4“,
+
+   v článku 76
+   v odst. 8
+   − v písm. e) a f) text „Přílohy č. 4“ nahrazuje textem „Přílohy č. 3“,
+
+   v článku 76
+  −    odst. [11] zní: 20 % příjmů z prodeje nemovitého majetku města (mimo příjmy z prodeje dle odst. 12
+       tohoto článku) snížených o výdaje související s prodejem. Tyto příjmy se rozdělí městským částem
+       způsobem uvedeným v odst. [9] tohoto článku,
+   − v odst. 34 slova „stavebních a“ zrušují,
+   − odst. 54 zní: „Městské části žádají o účelové dotace, návratné finanční výpomoci a zápůjčky ze
+     státního rozpočtu, státních fondů nebo z rozpočtu kraje:
+     a) u nichž je vyžadována finanční spoluúčast města a zároveň je za město možné podat pouze jednu
+     žádost, nebo
+     b) u nichž není vyžadována finanční spoluúčast města a zároveň je za město možné podat pouze jednu
+     žádost, nebo
+     c) u nichž je vyžadována finanční spoluúčast města a zároveň je za město možné podat více než jednu
+     žádost,
+     po udělení předchozího souhlasu ze strany Rady města Brna.
+     Městské části žádají o účelové dotace, návratné finanční výpomoci a zápůjčky ze státního rozpočtu,
+     státních fondů nebo z rozpočtu kraje, u nichž není vyžadována finanční spoluúčast města a zároveň je
+     za město možné podat více než jednu žádost, bez předchozího souhlasu ze strany Rady města Brna.
+     Po podání žádosti jsou povinny informovat město o tomto podání. K jejich přijetí a uzavření smlouvy
+     jsou oprávněny rovněž bez souhlasu Rady města Brna.“,
+
+   v článku 78
+   − v odst. 7 odkaz „137)“ nahrazuje odkazem „26)“,
+   − v odst. 10 se text „a i)“ zrušuje.
+
+
+5. V části V. – Ostatní ustanovení – se:
+   v článku 80
+   − odst. 2 zrušuje,
+   − dosavadní odst. [3] a [4] označují jako odst. [2] a [3],
+
+   v článku 83
+   −     odst. 2 zní: „Přílohy tohoto Statutu tvoří:
+         Příloha č. 1 - Vymezení území městských částí
+         Příloha č. 2 - Vzájemný výkon přenesené působnosti
+         Příloha č. 3 - Majetek města svěřený městským částem
+         Příloha č. 4 - Pravidla pro svěřování majetku města městským částem
+
+Datum nabytí účinnosti: X. X. 2023                                                                          Strana 6 (celkem 9)
+
+
+
+                                                                                                                       Strana 23 / 26
+Statutární město Brno
+Obecně závazná vyhláška č. XX/2023, kterou se mění obecně závazná vyhláška statutárního města Brna č. 20/2001, kterou se vydává
+Statut města Brna, ve znění pozdějších vyhlášek
+
+
+         Příloha č. 5 - Kontrolní řád města Brna
+         Příloha č. 6 - Zajišťování krizového řízení
+         Příloha č. 7 - Stavby a území celoměstského zájmu
+         Příloha č. 8 - Přehled příspěvkových organizací a obchodních společností se 100% účastí zřízených
+         či založených městem Brnem a městem Brnem - městskými částmi.“.
+
+
+6. V odkazech – se:
+   − názvy právních předpisů uvedené u odkazů 7), 15), 28) v první odrážce, 32), 41), 41a), 50), 53), 60)
+     v první odrážce, 63), 68), 69), 70), 72), 73), 75), 84) ve druhé odrážce, 91), 109), 114), 115), 117), 118),
+     119), 121), 122), 123), 124), 128), 133), 133a), 133b), 134), 140) a 142) upravují v souladu s oficiálními
+     názvy těchto právních předpisů uvedenými ve Sbírce zákonů,
+   − odkaz 10) zní: „např. zák. č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon
+     o obchodních korporacích), ve znění pozdějších předpisů“,
+   − u odkazů 11) a 138) text „v platném znění“ nahrazuje textem „ve znění pozdějších předpisů“,
+   − odkaz 13a) zní: „obecně závazná vyhláška statutárního města Brna, kterou se ve městě Brně zřizuje
+     městská policie“,
+   − odkaz 18) zní: nařízení vlády č. 341/2017 Sb., o platových poměrech zaměstnanců ve veřejných
+     službách a správě, ve znění pozdějších předpisů“,
+   − odkaz 21a) zní:
+     „- zák. č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění pozdějších
+       předpisů
+     - zák. č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých zákonů
+       (zákon o vodovodech a kanalizacích), ve znění pozdějších předpisů
+     - zák. č. 541/2020 Sb., o odpadech, ve znění pozdějších předpisů
+     - zák. č. 62/1988 Sb., o geologických pracích, ve znění pozdějších předpisů,
+     - zák. č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon), ve znění pozdějších
+       předpisů
+     - zák. č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů“,
+   − odkaz 22) zní: „zák. č. 283/2021 Sb., stavební zákon, ve znění pozdějších předpisů“,
+   − odkaz 31c) zní: „zák. č. 224/2015 Sb., o prevenci závažných havárií způsobených vybranými
+     nebezpečnými chemickými látkami nebo chemickými směsmi a o změně zákona č. 634/2004 Sb.,
+     o správních poplatcích, ve znění pozdějších předpisů, (zákon o prevenci závažných havárií), ve znění
+     pozdějších předpisů“,
+   − odkaz 48) zní: „zák. č. 420/2004 Sb., o přezkoumávání hospodaření územních samosprávných celků
+     a dobrovolných svazků obcí, ve znění pozdějších předpisů a zák. č. 421/2004 Sb., o změně zákonů
+     souvisejících s přijetím zákona o přezkoumávání hospodaření územních samosprávných celků
+     a dobrovolných svazků obcí“,
+   − odkaz 65) zní: „zák. č. 148/2023 Sb., o jednotném environmentálním stanovisku“,
+   − odkaz 140) zní: „§ 73 odst. 1 a 2 zák. č. 326/2004 Sb., o rostlinolékařské péči a o změně některých
+     souvisejících zákonů, ve znění pozdějších předpisů“,
+   − odkaz 155) zní: „Příloha č. 4 k vyhlášce č. 207/2001 Sb., kterou se provádí zákon č. 301/2000 Sb.,
+     o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění pozdějších
+     předpisů“,
+  −    v odkazech 6a), 12), 12a), 13d) ve druhé odrážce, 14d), 15), 23), 24), 29), 30), 31), 31b), 31d), 31e),
+       31f), 31g), 31h), 33), 33a), 33b), 33c), 39), 43), 47a), 52) v obou odrážkách, 54), 55), 56), 58), 59), 61),
+
+
+
+Datum nabytí účinnosti: X. X. 2023                                                                          Strana 7 (celkem 9)
+
+
+
+                                                                                                                       Strana 24 / 26
+Statutární město Brno
+Obecně závazná vyhláška č. XX/2023, kterou se mění obecně závazná vyhláška statutárního města Brna č. 20/2001, kterou se vydává
+Statut města Brna, ve znění pozdějších vyhlášek
+
+
+       75a), 79), 81), 87) v první odrážce, 88), 91), 92), 96), 97), 98), 102), 105), 106), 106a), 107), 107a),
+       108), 133a), 133b), 149), 152), 159), 159a), 159b), 159c), 159d) a 159e) na konci názvu zákona
+       doplňuje čárka a text „ve znění pozdějších předpisů“,
+   − odkazy 11a), 20), 31a), 36), 42), 44), 57), 105), 127), 129), 133), 133b), 137), 148), 148a) a 151) zrušují.
+
+
+7. V příloze č. 2 – Vzájemný výkon přenesené působnosti – se:
+   −    názvy právních předpisů č. 239/2000 Sb., č. 207/2001 Sb., č. 289/1995 Sb., č. 166/1999 Sb.,
+        č. 326/2004 Sb. a č. 128/2000 Sb. upravují v souladu s oficiálními názvy těchto právních předpisů
+        uvedenými ve Sbírce zákonů,
+   −    u právních předpisů č. 541/2020 Sb., č. 542/2020 Sb. a č. 201/2012 Sb. na konci názvu právního
+        předpisu doplňuje čárka a text „ve znění pozdějších předpisů“,
+
+   v odst. Městská část Brno-Královo Pole vykonává státní správu pro:
+   městskou část Brno-Útěchov na úseku:
+   − body 7 a 9 zrušují,
+   − dosavadní bod 8 označuje jako bod 7,
+   − v bodě 7 text „včetně činnosti speciálního stavebního úřadu dle ust. § 15 odst. 1 písm. c) zák.
+     č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších
+     předpisů.“ zrušuje,
+
+   městskou část Brno-Jehnice na úseku:
+   − v bodě 6 druhá odrážka zní: „§ 70 odst. 2, § 73 odst. 1 a 2 zák. č. 326/2004 Sb., o rostlinolékařské péči
+     a o změně některých souvisejících zákonů, ve znění pozdějších předpisů,“,
+   − v bodě 6 třetí odrážka zrušuje,
+   − v bodě 8 text „včetně činnosti speciálního stavebního úřadu dle ust. § 15 odst. 1 písm. c) zák. č.
+     183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů.“
+     zrušuje,
+   − bod 10 zrušuje,
+
+   v odst. Městská část Brno-Bystrc vykonává státní správu pro:
+   městskou část Brno-Žebětín na úseku:
+   − bod 1 zrušuje,
+   − dosavadní bod 2 označuje jako bod 1,
+
+   městskou část Brno-Kníničky na úseku:
+   − v bodě 1 text „včetně činnosti speciálního stavebního úřadu dle ust. § 15 odst. 1 písm. c) zák.
+     č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších
+     předpisů.“ zrušuje,
+   − bod 2 zrušuje,
+   − dosavadní body 3 až 12 označují jako body 2 až 11,
+   − v bodě 2 druhá odrážka zní: „§ 70 odst. 2, § 73 odst. 1 a 2 zák. č. 326/2004 Sb., o rostlinolékařské péči
+     a o změně některých souvisejících zákonů, ve znění pozdějších předpisů,“,
+   − v bodě 2 třetí odrážka zrušuje,
+   − v bodě 10 druhá odrážka zrušuje,
+
+   v odst. Městská část Brno-Řečkovice a Mokrá Hora vykonává státní správu pro:
+   městskou část Brno-Ořešín na úseku:
+
+
+
+
+Datum nabytí účinnosti: X. X. 2023                                                                          Strana 8 (celkem 9)
+
+
+
+                                                                                                                       Strana 25 / 26
+Statutární město Brno
+Obecně závazná vyhláška č. XX/2023, kterou se mění obecně závazná vyhláška statutárního města Brna č. 20/2001, kterou se vydává
+Statut města Brna, ve znění pozdějších vyhlášek
+
+
+   − v bodě 1 druhá odrážka zní: „§ 70 odst. 2, § 73 odst. 1 a 2 zák. č. 326/2004 Sb., o rostlinolékařské péči
+     a o změně některých souvisejících zákonů, ve znění pozdějších předpisů,“,
+   − v bodě 1 třetí odrážka zrušuje,
+   − v bodě 3 text „v úplném znění“ nahrazuje textem „ve znění pozdějších předpisů“,
+   − v bodě 10 text „včetně činnosti speciálního stavebního úřadu dle ust. § 15 odst. 1 písm. c) zák.
+     č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších
+     předpisů.“ zrušuje.
+
+
+8. Příloha č. 3 – Označování písemností vyhotovených orgány města a orgány městských částí – se
+   zrušuje.
+   Přílohy č. 4 až 9 se označují jako přílohy č. 3 až 8.
+
+
+9. Příloha č. 7 – Stavby a území celoměstského zájmu – se:
+   − v části „Všeobecně:“ v první odrážce tečka nahrazuje čárkou a doplňuje se druhá odrážka, která
+     zní: „- záměry, u kterých byla uzavřena mezi stavebníkem a městem plánovací smlouva.“.
+
+
+10. V příloze č. 8 – Přehled příspěvkových organizací zřízených statutárním městem Brnem
+    a statutárním městem Brnem – městskými částmi a obchodních společností se 100% majetkovou
+    účastí statutárního města Brna a statutárního města Brna – městských částí – se:
+
+   v části II – Příspěvkové organizace zřízené statutárním městem Brnem – městskými částmi
+   a obchodní společnosti se 100% majetkovou účastí statutárního města Brna – městských částí
+
+   v odst. 13. Městská část Brno-Bystrc:
+   − pod stávající 3. řádek vkládá nový řádek, který zní: „Mateřská škola MAXÍK, Brno, Nad Dědinou 23,
+     příspěvková organizace“.
+
+
+                                                         Článek 2
+                                                         Účinnost
+Tato vyhláška nabývá účinnosti dnem 1. 1. 2024 s výjimkou změn ustanovení čl. 17 odst. 2, čl. 18 odst. 2,
+čl. 29, čl. 30, čl. 33, čl. 34, čl. 76 odst. 34 a přílohy č. 2, které nabývají účinnosti dnem 1. 7. 2024.
+
+
+
+
+                                                 JUDr. Markéta Vaňková
+                                                  primátorka města Brna
+
+
+
+
+                                                  Mgr. René Černý
+                                          1. náměstek primátorky města Brna
+
+
+
+
+Datum nabytí účinnosti: X. X. 2023                                                                          Strana 9 (celkem 9)
+
+
+
+                                                                                                                       Strana 26 / 26
+

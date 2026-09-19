@@ -1,0 +1,829 @@
+﻿kandidat_id,cislo_listiny,listina,poradi,jmeno,titul_pred,titul_za,vek,povolani,platnost,osoba_id,mandat_2022_2026,soucasny_zastupitel,kandidatka_2022,klub_2026_09_18,metoda_spojeni,zdroj_id
+2026-01-01,1,Sociální demokracie,1,Zdeněk Slavík,Mgr.,,54,vedoucí oddělení,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-02,1,Sociální demokracie,2,Miloslav Podal,,,61,obchodní ekonom,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-03,1,Sociální demokracie,3,Jiří Polák,,,47,jednatel společnosti,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-04,1,Sociální demokracie,4,Hana Ferina,Bc.,,38,asistentka právního oddělení,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-05,1,Sociální demokracie,5,Jozef Daniel,,,55,předseda organizace Brno Tým,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-06,1,Sociální demokracie,6,Andrea Vašíčková,Bc.,DiS.,38,zdravotní sestra,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-07,1,Sociální demokracie,7,Jan Foltýn,Mgr.,MBA,61,technicko-hospodářský pracovník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-08,1,Sociální demokracie,8,Josef Mach,Mgr.,,55,středoškolský učitel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-09,1,Sociální demokracie,9,Michal Krátký,Mgr. Bc.,,47,referent pro krizové řízení,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-10,1,Sociální demokracie,10,Stanislav Zahradník,,,53,mistr elektro,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-11,1,Sociální demokracie,11,Karel Neumann,,,58,OSVČ dopravce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-12,1,Sociální demokracie,12,Ivan Riziky,,,59,OSVČ elektrotechnik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-13,1,Sociální demokracie,13,Kamil Franc,Ing.,,55,stavební inženýr,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-14,1,Sociální demokracie,14,Jiří Zonyga,Bc.,,52,produktový manažer,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-15,1,Sociální demokracie,15,Radim Urbánek,Mgr. Bc.,,48,státní zaměstnanec,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-16,1,Sociální demokracie,16,Radomil Pařízek,,,61,odborný prodejce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-17,1,Sociální demokracie,17,Petra Kuklová,,,51,vedoucí prodejny,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-18,1,Sociální demokracie,18,Vlastimil Závadský,Ing.,,67,ekonom,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-19,1,Sociální demokracie,19,Karolína Podalová,,,21,asistentka prodeje,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-20,1,Sociální demokracie,20,Milan Horáček,,,55,OSVČ – dopravce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-21,1,Sociální demokracie,21,Jakub Kolář,,,35,technik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-22,1,Sociální demokracie,22,Jana Jöbstl,,,68,ekonomka – analytička,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-23,1,Sociální demokracie,23,Tomáš Mottl,,,45,rozpočtář,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-24,1,Sociální demokracie,24,Anna Čechová,,,64,pokladní,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-25,1,Sociální demokracie,25,Radek Pospíšil,,,53,dispečer CTD,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-26,1,Sociální demokracie,26,Václav Božek,Mgr.,CSc.,77,fyzik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-27,1,Sociální demokracie,27,Lukáš Špenik,,,37,mechanik NC strojů,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-28,1,Sociální demokracie,28,Petra Kupčíková,,,53,vedoucí prodejny,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-29,1,Sociální demokracie,29,Marek Murdych,,,33,odborný prodavač,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-30,1,Sociální demokracie,30,Tomáš Bauer,,,50,OSVČ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-31,1,Sociální demokracie,31,Silvie Bučková,,,38,administrativa,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-32,1,Sociální demokracie,32,Michal Nový,,,58,řidič technických vozidel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-33,1,Sociální demokracie,33,Jan Rossi,,,46,stavební technik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-34,1,Sociální demokracie,34,David Hanák,,,52,dispečer,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-35,1,Sociální demokracie,35,Martin Poláček,,,50,dispečer,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-36,1,Sociální demokracie,36,David Klapal,,,45,provozní restaurace,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-37,1,Sociální demokracie,37,Lucie Vohrabalová,,,44,referent,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-38,1,Sociální demokracie,38,Martina Murdychová,,,59,ekonom obchodu,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-39,1,Sociální demokracie,39,Jana Slavíková,,,58,dětská zdravotní sestra,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-40,1,Sociální demokracie,40,Jan Jursa,,,59,vedoucí střediska,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-41,1,Sociální demokracie,41,Jaroslav Crlík,Ing.,,65,technik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-42,1,Sociální demokracie,42,Hana Pačinková,,,59,kuchařka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-43,1,Sociální demokracie,43,Vít Mareš,,,21,student,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-44,1,Sociální demokracie,44,Miroslav Havlíček,,,52,servisní technik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-45,1,Sociální demokracie,45,Rostislav Kubišta,,,57,OSVČ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-46,1,Sociální demokracie,46,Marie Prachařová,,,60,ekonom obchodního provozu,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-47,1,Sociální demokracie,47,Jan Mikulášek,,,79,strojní zámečník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-48,1,Sociální demokracie,48,Pavel Koš,,,41,pracovník technických služeb,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-49,1,Sociální demokracie,49,Miroslav Kračmer,,,58,správce sportovního areálu,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-50,1,Sociální demokracie,50,Lukáš Ferina,Bc.,,39,prodejce náhradních dílů – technická podpora,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-51,1,Sociální demokracie,51,Miroslava Kočařová,,,71,referentka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-52,1,Sociální demokracie,52,Jana Hamplová,Bc.,,67,ekonomka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-53,1,Sociální demokracie,53,Jana Hamrová,,,50,místopředsedkyně NNO Brno Tým,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-54,1,Sociální demokracie,54,David Pollák,,,48,stavební mistr,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-01-55,1,Sociální demokracie,55,Zdeněk Smolík,,,69,OSVČ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-01,2,Lidovci a Starostové – Brno blíž lidem,1,Jakub Hruška,Bc.,,40,starosta MČ Brno-Kohoutovice,A,jakub-hruska,ano,ano,Lidovci a Starostové (KDU-ČSL + Starostové a nezávislí),Lidovci a Starostové,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-02-02,2,Lidovci a Starostové – Brno blíž lidem,2,Irena Matonohová,JUDr.,,53,radní města Brna pro školství,A,irena-matonohova,ano,ano,Lidovci a Starostové (KDU-ČSL + Starostové a nezávislí),Lidovci a Starostové,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-02-03,2,Lidovci a Starostové – Brno blíž lidem,3,Marie Jílková,Mgr.,,49,krajská zastupitelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-04,2,Lidovci a Starostové – Brno blíž lidem,4,Michal Marek,JUDr.,,52,starosta MČ Brno-Medlánky a zastupitel Brna,A,michal-marek,ano,ano,Lidovci a Starostové (KDU-ČSL + Starostové a nezávislí),Lidovci a Starostové,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-02-05,2,Lidovci a Starostové – Brno blíž lidem,5,Petr Hladík,Mgr.,,42,poslanec Parlamentu ČR,A,petr-hladik,ano,ano,Lidovci a Starostové (KDU-ČSL + Starostové a nezávislí),Lidovci a Starostové,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-02-06,2,Lidovci a Starostové – Brno blíž lidem,6,Radomír Vondra,,,57,starosta MČ Brno-Tuřany a zastupitel Brna,A,radomir-vondra,ano,ano,Lidovci a Starostové (KDU-ČSL + Starostové a nezávislí),Lidovci a Starostové,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-02-07,2,Lidovci a Starostové – Brno blíž lidem,7,Martin Černý,,,43,starosta MČ Brno-Bosonohy,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-08,2,Lidovci a Starostové – Brno blíž lidem,8,Petr Bořecký,,,38,radní města Brna pro participaci,A,petr-borecky-1,ano,ano,Lidovci a Starostové (KDU-ČSL + Starostové a nezávislí),Lidovci a Starostové,jméno + titul architekta + listina,73b68b4ff9d559e8
+2026-02-09,2,Lidovci a Starostové – Brno blíž lidem,9,Martin Maleček,Mgr.,,57,starosta MČ Brno-sever a zastupitel Brna,A,martin-malecek,ano,ano,Lidovci a Starostové (KDU-ČSL + Starostové a nezávislí),Lidovci a Starostové,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-02-10,2,Lidovci a Starostové – Brno blíž lidem,10,Filip Leder,Mgr.,,52,starosta MČ Brno-Žabovřesky a advokát,A,filip-leder,ano,ano,Lidovci a Starostové (KDU-ČSL + Starostové a nezávislí),Lidovci a Starostové,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-02-11,2,Lidovci a Starostové – Brno blíž lidem,11,Libor Zabloudil,,,55,"podnikatel, cestovatel a zastupitel MČ Brno-střed",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-12,2,Lidovci a Starostové – Brno blíž lidem,12,Patrik Cibere,Mgr.,,30,acquisition manager a zastupitel MČ Brno-Vinohrady,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-13,2,Lidovci a Starostové – Brno blíž lidem,13,Kateřina Basel,Ing. Mgr.,,26,manažerka na Masarykově univerzitě a předsedkyně Mladých lidovců,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-14,2,Lidovci a Starostové – Brno blíž lidem,14,Tereza Chladilová,Mgr. et Mgr.,,38,"supervizorka, koučka a zastupitelka městské části Brno-Královo Pole",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-15,2,Lidovci a Starostové – Brno blíž lidem,15,Simona Ondroušková,Ing.,,52,podnikatelka a zastupitelka MČ Brno-Starý Lískovec,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-16,2,Lidovci a Starostové – Brno blíž lidem,16,Filip Chvátal,RNDr.,Ph.D.,40,náměstek primátorky města Brna,A,filip-chvatal,ano,ano,Lidovci a Starostové (KDU-ČSL + Starostové a nezávislí),Lidovci a Starostové,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-02-17,2,Lidovci a Starostové – Brno blíž lidem,17,Štěpán Juránek,Bc.,,36,"místostarosta MČ Brno-Židenice, pedagog a sportovní trenér",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-18,2,Lidovci a Starostové – Brno blíž lidem,18,Tereza Karafiátová,Mgr.,,42,obchodněprávní ředitelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-19,2,Lidovci a Starostové – Brno blíž lidem,19,Martin Krytinář,PhDr.,,41,vedoucí úřadu a zastupitel MČ Brno-Slatina,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-20,2,Lidovci a Starostové – Brno blíž lidem,20,Marian Charvát,Ing. Bc.,,52,obchodní ředitel a zastupitel MČ Brno-Královo Pole,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-21,2,Lidovci a Starostové – Brno blíž lidem,21,Jakub Holas,Ing. arch.,,40,1. místostarosta MČ Brno-jih a architekt,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-22,2,Lidovci a Starostové – Brno blíž lidem,22,Jaroslav Suchý,Mgr.,,55,učitel angličtiny a zastupitel města Brna,A,jaroslav-suchy,ano,ano,Lidovci a Starostové (KDU-ČSL + Starostové a nezávislí),Lidovci a Starostové,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-02-23,2,Lidovci a Starostové – Brno blíž lidem,23,Martin Vérteši,Mgr. et Mgr.,Ph.D.,31,předseda Mladých Starostů Jihomoravského kraje a PR manažer,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-24,2,Lidovci a Starostové – Brno blíž lidem,24,Jiří Dvořáček,Mgr.,,56,místostarosta MČ Brno-Starý Lískovec,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-25,2,Lidovci a Starostové – Brno blíž lidem,25,Petra Quittová,Bc.,,54,starostka MČ Brno-Černovice,A,petra-quittova,ano,ne,Lidovci a Starostové (KDU-ČSL + Starostové a nezávislí),,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-02-26,2,Lidovci a Starostové – Brno blíž lidem,26,Vít Beran,Ing.,,59,starosta MČ Brno-Žebětín,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-27,2,Lidovci a Starostové – Brno blíž lidem,27,Pavel Crhan,,,57,podnikatel v gastronomii a místostarosta MČ Brno-Žabovřesky,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-28,2,Lidovci a Starostové – Brno blíž lidem,28,Jitka Ivičičová,Mgr.,,45,starostka MČ Brno-Vinohrady a advokátka,A,jitka-ivicicova,ano,ne,Lidovci a Starostové (KDU-ČSL + Starostové a nezávislí),,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-02-29,2,Lidovci a Starostové – Brno blíž lidem,29,Jan Suchý,Ing.,,60,ředitel domova mládeže a zastupitel MČ Brno-Bystrc,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-30,2,Lidovci a Starostové – Brno blíž lidem,30,Lucie Stará,Mgr. et Mgr.,,48,starostka MČ Brno-Bohunice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-31,2,Lidovci a Starostové – Brno blíž lidem,31,Michal Krejsa,Bc.,,41,odborný referent a zastupitel MČ Brno-Vinohrady,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-32,2,Lidovci a Starostové – Brno blíž lidem,32,Hana Pospíšilová,Mgr.,,53,místostarostka MČ Brno-Nový Lískovec a vedoucí lékárny,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-33,2,Lidovci a Starostové – Brno blíž lidem,33,Martin Žák,Bc.,,44,podnikatel a zastupitel MČ Brno-Kníničky,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-34,2,Lidovci a Starostové – Brno blíž lidem,34,Marek Brauner,Ing.,DiS.,39,inspektor provozu Zdravotnické záchranné služby JMK,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-35,2,Lidovci a Starostové – Brno blíž lidem,35,Miroslav Kopál,,,50,podnikatel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-36,2,Lidovci a Starostové – Brno blíž lidem,36,David Řepa,,,28,místostarosta MČ Brno-Komín,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-37,2,Lidovci a Starostové – Brno blíž lidem,37,Jiří Belcredi Knauer,Ing.,,43,realitní makléř,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-38,2,Lidovci a Starostové – Brno blíž lidem,38,Michal Chaloupka,Bc.,,23,student a zastupitel MČ Brno-Líšeň,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-39,2,Lidovci a Starostové – Brno blíž lidem,39,Ilja Kašík,Mgr. Bc.,,47,"specialista veřejných zakázek, sportovní trenér a zastupitel MČ Brno-Bystrc",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-40,2,Lidovci a Starostové – Brno blíž lidem,40,Martin Glogar,Mgr.,,46,místostarosta MČ Brno-sever,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-41,2,Lidovci a Starostové – Brno blíž lidem,41,Tomáš Bravený,Ing.,,69,podnikatel a důchodce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-42,2,Lidovci a Starostové – Brno blíž lidem,42,Hana Korvasová,Mgr.,,66,zakladatelka Lipky a metodička,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-43,2,Lidovci a Starostové – Brno blíž lidem,43,Karel Mikula,Mgr.,,59,ředitel gymnázia a zastupitel MČ Brno-střed,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-44,2,Lidovci a Starostové – Brno blíž lidem,44,Iva Paďourková,Mgr.,,54,místostarostka MČ Brno-jih a projektová manažerka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-45,2,Lidovci a Starostové – Brno blíž lidem,45,Jiřina Bočková,,,74,důchodkyně,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-46,2,Lidovci a Starostové – Brno blíž lidem,46,Eva Sychrová,Ing. arch.,,40,místostarostka MČ Brno-Kohoutovice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-47,2,Lidovci a Starostové – Brno blíž lidem,47,Filip Hanus,,,20,předseda Mladých Starostů v Brně a student práv,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-48,2,Lidovci a Starostové – Brno blíž lidem,48,Josef Šumbera,Ing.,,59,ředitel společnosti a zastupitel MČ Brno-Ivanovice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-49,2,Lidovci a Starostové – Brno blíž lidem,49,Patrik Evanžin,Ing.,,54,úvěrový specialista a finanční poradce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-50,2,Lidovci a Starostové – Brno blíž lidem,50,Marian Bednařík,,,36,technický manažer – FC Zbrojovka Brno,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-51,2,Lidovci a Starostové – Brno blíž lidem,51,Petr Hlaváček,Ing.,,49,softwarový architekt,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-52,2,Lidovci a Starostové – Brno blíž lidem,52,Lucie Grůzová,Mgr. et Mgr.,Ph.D.,41,místostarostka MČ Brno-Židenice a pedagožka na MUNI,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-53,2,Lidovci a Starostové – Brno blíž lidem,53,Zdeněk Vlach,,,40,obchodník v ICT a DJ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-54,2,Lidovci a Starostové – Brno blíž lidem,54,Martin Vrubel,Mgr.,Ph.D.,40,místostarosta MČ Brno-střed a vysokoškolský učitel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-02-55,2,Lidovci a Starostové – Brno blíž lidem,55,Václav Šicha,Mgr. Bc.,Ph.D.,47,místostarosta MČ Brno-Jehnice a referent odboru životního prostředí,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-01,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",1,Natálie Vencovská,MgA.,,28,"designérka, odbornice na veřejný prostor",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-02,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",2,Jana Drápalová,Ing.,,63,starostka MČ Brno-Nový Lískovec,A,jana-drapalova,ano,ano,Zelení a Žít Brno s podporou Idealistů,Zelení a Žít Brno s podpor. Id,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-03-03,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",3,Kristýna Fuchsová,JUDr.,,52,právnička v sociálních službách,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-04,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",4,Jiří Malenovský,,,45,"provozovatel restaurace VEGALITÉ, hudebník, kulturní manažer",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-05,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",5,Petr Kunc,Ing.,,48,"autorizovaný inženýr, starosta MČ Brno-Židenice",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-06,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",6,Petr Kalousek,BcA.,,46,"spoluzakladatel festivalu Meeting Brno, hudebník",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-07,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",7,Jasna Flamiková,Mgr.,,57,"zastupitelka města Brna a MČ Brno-střed, ekoložka, koučka",A,jasna-flamikova,ano,ano,Zelení a Žít Brno s podporou Idealistů,Zelení a Žít Brno s podpor. Id,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-03-08,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",8,Matouš Vencálek,Mgr.,,37,"religionista, zastupitel města Brna a MČ Brno-Bystrc",A,matous-vencalek,ano,ano,Zelení a Žít Brno s podporou Idealistů,Zelení a Žít Brno s podpor. Id,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-03-09,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",9,Milada Blatná,Mgr.,,64,starostka MČ Brno-Komín,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-10,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",10,Ivana Fajnorová,,,58,"starostka MČ Brno-Jundrov, spisovatelka",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-11,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",11,Ludmila Kutálková,Ing.,,63,starostka MČ Brno-Maloměřice a Obřany,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-12,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",12,David Veselý,Ing.,,59,"vodohospodář, projektový manažer",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-13,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",13,Veronika Holcnerová,Bc.,,42,datová inženýrka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-14,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",14,Martin Reiner,,,62,"spisovatel, nakladatel",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-15,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",15,Gabriela Stögerová,Ing.,,47,"památkářka, expertka na veřejnou zeleň",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-16,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",16,Vojtěch Pospíšil,Mgr.,,30,advokát,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-17,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",17,Veronika Surá,Ing.,,36,"podnikatelka, zahradnice, autorka knih Kvítka v bytě",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-18,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",18,Heřman Dušek,,,25,"student, kulturní pracovník",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-19,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",19,Monika Šimková,Mgr.,,56,projektová manažerka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-20,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",20,Filip Vaculík,,,38,"krejčí, ředitel Salonu č4",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-21,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",21,Martina Vidová,Mgr.,,38,"PR manažerka, gastroinfluencerka",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-22,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",22,Petr Dimitrov,Mgr.,,40,"podnikatel, výrobce kimchi, zakladatel značky Dimchi",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-23,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",23,Klára Kubíčková,Bc.,,47,"novinářka, autorka knihy Roztěkané",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-24,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",24,Viktor Piorecký,Mgr.,,47,sociolog,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-25,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",25,Ruth Konvalinková,Mgr.,Ph.D.,54,ředitelka Evangelického gymnázia a základní školy Filipka Brno,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-26,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",26,Leopold Bartoš,Ing.,,68,"aktivní senior, dříve IT",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-27,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",27,Marie Kala,Mgr. et Mgr.,Ph.D.,37,"odborná asistentka, Centrum jazykového vzdělávání, Univerzita obrany",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-28,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",28,Ivo Skopal,Mgr.,,37,"spisovatel, auditor",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-29,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",29,Petra Hlaváčková,Mgr.,Ph.D.,45,historička architektury se zaměřením na gender,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-30,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",30,Jakub Houška,Ing.,Ph.D.,49,"vedoucí odboru ekologie krajiny ve Výzkumném ústavu pro krajinu, v. v. i.",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-31,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",31,Anne Meredith Johnson,,B.A.,58,"editorka, spoluzakladatelka Czech Theater",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-32,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",32,David Oplatek,Mgr.,,47,sociální pracovník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-33,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",33,Yvonna Gaillyová,RNDr.,CSc.,70,"environmentalistka, ředitelka Ekologického institutu Veronica",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-34,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",34,Lukáš Kala,Mgr.,Ph.D.,43,"vedoucí zahraničního oddělení MENDELU, sociolog",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-35,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",35,Martina Kurowski,Mgr. et Mgr.,Ph.D.,45,"odborná asistentka na Pedagogické fakultě MU, sociální pedagožka",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-36,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",36,Dalibor Levíček,Mgr.,MBA,48,pedagog,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-37,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",37,Zuzana Sankotová Morávková,Ing. arch.,,50,"architektka, edukátorka",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-38,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",38,Jindřich Cinka,Mgr.,,42,"právník, provozovatel deskoheren Za Zrcadlem a Před Zrcadlem",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-39,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",39,Eva Kučerová,MUDr.,,37,lékařka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-40,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",40,Martin Slovák,Ing.,,48,"stavební inženýr, provozovatel a spolumajitel hudebního klubu Kabinet MÚZ",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-41,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",41,Irena Koláčná,,,54,"místostarostka MČ Brno-Jundrov, administrativní pracovnice",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-42,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",42,Ctirad Macháček,MUDr.,,43,"lékař, odborný asistent na Lékařské fakultě MU",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-43,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",43,Adéla Mišove,,MSci,29,"molekulární genetička, doktorandka na Lékařské fakultě MU",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-44,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",44,Martin Šrom,Ing. Bc.,,45,"pedagog, zástupce ředitele environmentálního vzdělávacího zařízení Lipka",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-45,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",45,Petr Machálek,Bc.,,49,VŠ pedagog a konzultant,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-46,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",46,Libor Brzobohatý,BcA.,,31,divadelní dramaturg,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-47,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",47,Jan Hollan,RNDr.,Ph.D.,70,"fyzik, environmentalista",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-48,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",48,Benjamín Skála,Bc.,,42,"administrativní pracovník ve školství, fotograf, wikipedista",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-49,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",49,Johana Drlíková,Mgr.,,36,"environmentalistka na Ústavu výzkumu globální změny AV ČR, předsedkyně ČSOP Morava",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-50,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",50,Daniel Timmerberg,,,46,projektový manažer,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-51,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",51,Hana Kratochvílová,,,37,copywriterka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-52,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",52,Pavel Klammert,Mgr.,,34,"datový inženýr, edukátor",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-53,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",53,Iva Valentová,Ing.,,61,administrativní pracovnice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-54,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",54,Jaroslav Ostrčilík,Mgr.,,43,"mediální konzultant, iniciátor Pouti smíření, spoluzakladatel festivalu Meeting Brno",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-03-55,3,"ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)",55,Michal Berg,BcA.,,46,manažer v think-tanku Fakta o klimatu,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-01,4,ANO 2011,1,Václav Trojan,MVDr. Ing.,Ph.D.,41,vedoucí pěstírny léčebného konopí FNUSA,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-02,4,ANO 2011,2,Ondřej Ludka,prof. MUDr.,Ph.D.,52,přednosta kliniky,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-03,4,ANO 2011,3,Jindřich Rybka,Ing.,"BA., MBA",56,vedoucí oddělení BKOM,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-04,4,ANO 2011,4,Iva Kremitovská,Ing. arch.,,65,"architektka, podnikatelka",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-05,4,ANO 2011,5,Miroslav Kubásek,RNDr.,Ph.D.,52,"zastupitel města Brna, ekolog",A,miroslav-kubasek,ano,ano,ANO 2011,ANO 2011,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-04-06,4,ANO 2011,6,Zuzana Olga Artimová,PaedDr. Ing.,"MBA, LL.M.",62,místostarostka MČ Brno-Královo Pole,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-07,4,ANO 2011,7,Libor Tupa,,,41,radní MČ Brno-Žabovřesky,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-08,4,ANO 2011,8,Hana Chorvátová,,,52,"ekonom, radní MČ Brno-Slatina",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-09,4,ANO 2011,9,Sabina Havránková,Ing.,MBA,30,marketingový specialista,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-10,4,ANO 2011,10,Ondřej Procházka,Ing.,,53,senior export manager,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-11,4,ANO 2011,11,Tomáš Hejl,,MBA,40,"místostarosta MČ Brno-Bystrc, zastupitel JMK",A,tomas-hejl,ano,ne,ANO 2011,,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-04-12,4,ANO 2011,12,Ludmila Oulehlová,,,62,místostarostka MČ Brno-střed,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-13,4,ANO 2011,13,Jiří Škárek,,DiS.,51,zdravotnický záchranář,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-14,4,ANO 2011,14,Aleš Kvíčala,Ing.,,43,místostarosta MČ Brno-Královo Pole,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-15,4,ANO 2011,15,Zdeněk Sklenář,Ing. et Ing.,,50,podnikatel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-16,4,ANO 2011,16,Adam Stanislav,Ing.,,24,"ekonom, záchranář",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-17,4,ANO 2011,17,Pavel Tyralík,Mgr. Ing.,,62,místostarosta MČ Brno-Žabovřesky,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-18,4,ANO 2011,18,Ondřej Maršálek,Ing.,,27,stavební inženýr,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-19,4,ANO 2011,19,Vladimír Hemerka,Mgr.,,52,ředitel společnosti,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-20,4,ANO 2011,20,Petr Bauer,,,48,místostarosta MČ Brno-Žebětín,A,petr-bauer,ano,ne,ANO 2011,,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-04-21,4,ANO 2011,21,Zdeněk Machů,Ing.,,49,místostarosta MČ Brno-střed,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-22,4,ANO 2011,22,Denisa Kocmánková,Ing.,MBA,46,"ekonomka, radní MČ Brno-Bystrc",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-23,4,ANO 2011,23,Tomáš Zima,Mgr.,,34,brand manažer,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-24,4,ANO 2011,24,David Hoffmann,Ing. arch.,,53,"zastupitel JMK, MČ Brno-Žabovřesky",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-25,4,ANO 2011,25,Michael Kinc,Ing.,,28,softwarový inženýr,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-26,4,ANO 2011,26,Tereza Mašková,,,35,podnikatelka v oblasti obchodu,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-27,4,ANO 2011,27,Vladimír Jirmus,Ing.,,59,technik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-28,4,ANO 2011,28,Matěj Chmela,,,48,technik staveb,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-29,4,ANO 2011,29,Tomáš Pokorný,,,54,podnikatel ve stavebnictví,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-30,4,ANO 2011,30,Tomáš Cimbálník,Ing. Bc.,,45,projektový manažer,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-31,4,ANO 2011,31,Miroslav Krupica,,,31,mediální producent,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-32,4,ANO 2011,32,Šárka Zemanová,Ing.,Ph.D.,55,"manager, radní MČ Brno-Líšeň",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-33,4,ANO 2011,33,David Beran,Ing.,Ph.D.,46,ředitel obchodu medical device,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-34,4,ANO 2011,34,Miroslav Slavíček,,,54,vedoucí přepravní kontroly,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-35,4,ANO 2011,35,Tomáš Doupovec,,,50,majitel vendingové společnosti,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-36,4,ANO 2011,36,Tomáš Machalický,Ing.,,50,"burzovní makléř, zastupitel MČ Brno-Komín",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-37,4,ANO 2011,37,Jakub Brychta,,,35,obchodní zástupce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-38,4,ANO 2011,38,Ivo Nádeníček,,,35,podnikatel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-39,4,ANO 2011,39,Jan Čebiš,Mgr.,DiS.,47,advokátní koncipient,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-40,4,ANO 2011,40,Antonín Brzobohatý,Ing.,,70,důchodce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-41,4,ANO 2011,41,Vladislav Musil,prof. Ing.,CSc.,73,vysokoškolský učitel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-42,4,ANO 2011,42,Radim Tomečka,Mgr.,,33,advokát,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-43,4,ANO 2011,43,Zdeněk Dosoudil,,,50,servisní technik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-44,4,ANO 2011,44,Radek Dykast,Ing.,MBA,31,manažer cestovního ruchu,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-45,4,ANO 2011,45,Radek Voneš,Bc.,MBA,55,jednatel společnosti,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-46,4,ANO 2011,46,Lenka Vystrčilová,,,46,asistentka jednatele,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-47,4,ANO 2011,47,Bořivoj Nakládal,,,73,důchodce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-48,4,ANO 2011,48,Jan Sedláček,Mgr.,,45,kulturní pracovník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-49,4,ANO 2011,49,Alena Pokorná,Bc.,,54,"pečující, speciální pedagog",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-50,4,ANO 2011,50,František Šenk,Ing.,,56,stavební technik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-51,4,ANO 2011,51,Bohumil Nečas,,,75,zastupitel MČ Brno-Bystrc,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-52,4,ANO 2011,52,Jitka Vítková,,,70,důchodkyně,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-53,4,ANO 2011,53,Jiřina Fischerová,Mgr.,,37,radní MČ Brno-střed,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-54,4,ANO 2011,54,Věroslav Kučírek,Bc.,,49,OSVČ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-04-55,4,ANO 2011,55,Michal Netolický,Ing.,,27,"manager, lektor na VŠ",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-01,5,Za Lužánky,1,Jana Tichá Janulíková,Mgr. et Mgr.,,50,ředitelka TIC Brno,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-02,5,Za Lužánky,2,Lukáš Winkler,Bc.,,37,"podnikatel, vůdčí osobnost fanoušků, SLO Zbrojovka Brno",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-03,5,Za Lužánky,3,Tomáš Koláčný,Bc.,,34,"tvůrce Dáme na vás, emeritní náměstek, manažer, designer",A,tomas-kolacny,ano,ano,Česká pirátská strana,,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-05-04,5,Za Lužánky,4,Jiří Horský,Ing.,,50,"bývalý ředitel KORDIS, dopravní analytik",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-05,5,Za Lužánky,5,Marek Fišer,Ing.,,43,"bývalý radní města Brna, kosmopolita a polyglot",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-06,5,Za Lužánky,6,Helena Vařejková,Ing. arch.,,64,"architektka, zahrádkářka, zastupitelka MČ Brno-Královo Pole",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-07,5,Za Lužánky,7,Pavel Knecht,Ing.,,40,manažer a trenér mládeže,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-08,5,Za Lužánky,8,Jan Grmela,Ing.,,39,"manažer, sládek, zastupitel MČ Brno-Žabovřesky",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-09,5,Za Lužánky,9,Ladislava Blažková,Bc.,,39,"sociální pracovnice, publicistka, moderátorka a stand-uperka",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-10,5,Za Lužánky,10,Martin Štefka,Bc.,,35,"podnikatel, ragbista, tvůrce Podcast Flinta",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-11,5,Za Lužánky,11,Iva Palkovská,JUDr.,,35,právnička kanceláře veřejného ochránce práv ČR,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-12,5,Za Lužánky,12,Josef Hron,,,75,trenér,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-13,5,Za Lužánky,13,Patricie Částková,Mgr.,,55,dramaturgyně opery Národního divadla Brno,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-14,5,Za Lužánky,14,Michal Žvák,,,46,OSVČ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-15,5,Za Lužánky,15,Alan Novotný,,,48,"herec Městského divadla Brno, zbrojovák",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-16,5,Za Lužánky,16,Patrik Prudík,,,35,IT specialista,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-17,5,Za Lužánky,17,Vanda Klestilová,,,31,kulturní produkční,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-18,5,Za Lužánky,18,Gabriel Kurtis,Ing. arch.,,42,architekt,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-19,5,Za Lužánky,19,Karolína Mičková,,,36,podnikatelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-20,5,Za Lužánky,20,Ondřej Štaud,PhDr.,Ph.D.,41,"HR manager, pedagog a zastupitel MČ Brno-Řečkovice a Mokrá Hora",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-21,5,Za Lužánky,21,Magdalena Kocábová,Ing.,,37,podnikatelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-22,5,Za Lužánky,22,Emanuele Ruggiero,MgA.,,58,filmový režisér,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-23,5,Za Lužánky,23,Alžběta Mrázková,,,19,"studentka, budoucí právnička",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-24,5,Za Lužánky,24,Vojtěch Šrubař,Ing.,,37,generální sekretář Českého volejbalového svazu,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-25,5,Za Lužánky,25,Ellen Sordo,,,26,make-up artist,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-26,5,Za Lužánky,26,Kamil Albrecht,Mgr.,,47,pedagog,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-27,5,Za Lužánky,27,Lukáš Kučera,,,44,OSVČ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-28,5,Za Lužánky,28,Karel Crha,MUDr.,,41,lékař,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-29,5,Za Lužánky,29,Lubomír Maršálek,,,80,"bývalý kustod FC Zbrojovka Brno, správce tenisových kurtů, důchodce",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-30,5,Za Lužánky,30,Marika Kupková,PhDr.,Ph.D.,53,kurátorka Galerie TIC,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-31,5,Za Lužánky,31,Vladimír Bajer,,,53,manager,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-32,5,Za Lužánky,32,Simona Kumpanová Valachovičová,Ing.,,38,"vedoucí sekretariátu TIC Brno, noční manažerka klubu Fléda",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-33,5,Za Lužánky,33,Radim Zvejška,,,22,číšník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-34,5,Za Lužánky,34,Ondřej Anton,doc. Ing.,Ph.D.,58,"univerzitní pedagog, diagnostika stavebních konstrukcí",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-35,5,Za Lužánky,35,Jiří Filip,Mgr.,,44,"moderátor, organizátor trhů",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-36,5,Za Lužánky,36,Lucie Grmelová,Ing.,,39,jednatelka společnosti,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-37,5,Za Lužánky,37,Jan Holčík,,,52,manažer,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-38,5,Za Lužánky,38,Lenka Otřísalová,,,53,učitelka ZŠ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-39,5,Za Lužánky,39,Veronika Matýsková,,,39,logoped,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-40,5,Za Lužánky,40,Tomáš Bubela,Mgr.,,37,manažer a právník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-41,5,Za Lužánky,41,Šárka Špičková,Mgr.,,49,učitelka ZŠ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-42,5,Za Lužánky,42,Lucie Číhalová,,,32,administrativní pracovník v oblasti bezpečnosti práce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-43,5,Za Lužánky,43,Pavel Havlík,Bc.,,43,"marketingový specialista, kameraman",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-44,5,Za Lužánky,44,Lenka Solničková,,,57,servírka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-45,5,Za Lužánky,45,Jitka Albrechtová,Ing.,,46,manažerka v nakladatelství,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-46,5,Za Lužánky,46,Filip Nechvátal,,,32,provozní klubu,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-47,5,Za Lužánky,47,Miroslav Procházka,,,46,živnostník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-48,5,Za Lužánky,48,Adéla Doležalová,,,21,"studentka, vinařka",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-49,5,Za Lužánky,49,Lenka Bělková,Mgr.,,60,překladatelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-50,5,Za Lužánky,50,Božena Číhalová,,,54,recepční,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-51,5,Za Lužánky,51,Hynek Polášek,,,39,IT specialista,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-52,5,Za Lužánky,52,Iva Svobodová,,,41,krejčová,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-53,5,Za Lužánky,53,Mark Teerink,,,36,"manažer lidských zdrojů, zástupce expatů",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-54,5,Za Lužánky,54,Martin Hořanský,Bc.,,30,"support representative, předseda SVJ Renneská",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-05-55,5,Za Lužánky,55,Zora Fišerová,,,72,"důchodkyně, zahrádkářka",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-01,6,"ODS, TOP 09 a nezávislí",1,Kamila Zlatušková,MgA.,Ph.D.,45,televizní producentka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-02,6,"ODS, TOP 09 a nezávislí",2,Tomáš Aberl,Bc.,,38,radní města Brna,A,tomas-aberl,ano,ano,SPOLEČNĚ - ODS a TOP 09,SPOLEČNĚ - ODS a TOP 09,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-06-03,6,"ODS, TOP 09 a nezávislí",3,Andrea Pazderová,Ing.,,58,"starostka MČ Brno Královo-Pole, zastupitelka města Brna",A,andrea-pazderova,ano,ano,SPOLEČNĚ - ODS a TOP 09,SPOLEČNĚ - ODS a TOP 09,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-06-04,6,"ODS, TOP 09 a nezávislí",4,Martin Basel,Ing. Mgr.,,32,místostarosta MČ Brno-sever,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-05,6,"ODS, TOP 09 a nezávislí",5,Vojtěch Mencl,Ing. arch.,,56,"starosta MČ Brno-střed, urbanista",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-06,6,"ODS, TOP 09 a nezávislí",6,Martin Příborský,JUDr. PhDr.,EMLE,49,"zastupitel města Brna, právník",A,martin-priborsky,ano,ano,SPOLEČNĚ - ODS a TOP 09,SPOLEČNĚ - ODS a TOP 09,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-06-07,6,"ODS, TOP 09 a nezávislí",7,Martin Silnica,Mgr.,,29,právník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-08,6,"ODS, TOP 09 a nezávislí",8,David Grund,Ing.,,38,"starosta MČ Brno-jih, krajský zastupitel, zastupitel města Brna",A,david-grund,ano,ano,SPOLEČNĚ - ODS a TOP 09,SPOLEČNĚ - ODS a TOP 09,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-06-09,6,"ODS, TOP 09 a nezávislí",9,David Trllo,Ing.,,42,"zastupitel města Brna, ekonom",A,david-trllo,ano,ano,SPOLEČNĚ - ODS a TOP 09,SPOLEČNĚ - ODS a TOP 09,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-06-10,6,"ODS, TOP 09 a nezávislí",10,Michal Chládek,Mgr.,,31,"krajský zastupitel, právník",A,michal-chladek,ano,ano,SPOLEČNĚ - ODS a TOP 09,SPOLEČNĚ - ODS a TOP 09,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-06-11,6,"ODS, TOP 09 a nezávislí",11,Matyáš Svoboda,Mgr.,,36,"místostarosta MČ Brno-Královo Pole, advokát",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-12,6,"ODS, TOP 09 a nezávislí",12,Pavel Urubek,Ing.,,47,"zastupitel města Brna, podnikatel, jednatel",A,pavel-urubek,ano,ano,SPOLEČNĚ - ODS a TOP 09,SPOLEČNĚ - ODS a TOP 09,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-06-13,6,"ODS, TOP 09 a nezávislí",13,Vladan Krásný,Mgr.,,58,"starosta MČ Brno-Starý Lískovec, zastupitel města Brna",A,vladan-krasny,ano,ano,SPOLEČNĚ - ODS a TOP 09,SPOLEČNĚ - ODS a TOP 09,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-06-14,6,"ODS, TOP 09 a nezávislí",14,Igor Fučík,Bc.,MBA,51,"1. místostarosta MČ Brno-Žabovřesky, ekonom",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-15,6,"ODS, TOP 09 a nezávislí",15,Michal Velička,Ing.,,48,místostarosta MČ Brno-Kohoutovice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-16,6,"ODS, TOP 09 a nezávislí",16,Natálie Kreisl,Bc.,,26,podnikatelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-17,6,"ODS, TOP 09 a nezávislí",17,Pavel Jankůj,Ing.,,64,"zastupitel města Brna, obchodně-technický ředitel",A,pavel-jankuj,ano,ano,SPOLEČNĚ - ODS a TOP 09,SPOLEČNĚ - ODS a TOP 09,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-06-18,6,"ODS, TOP 09 a nezávislí",18,Peter Krupka,RNDr.,Ph.D.,61,ředitel Gymnázia Brno-Řečkovice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-19,6,"ODS, TOP 09 a nezávislí",19,Jana Bohuňovská,Ing.,,66,starostka MČ Brno-Ivanovice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-20,6,"ODS, TOP 09 a nezávislí",20,Šárka Cechová,JUDr.,,45,"místostarostka MČ Brno-Útěchov, advokátka",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-21,6,"ODS, TOP 09 a nezávislí",21,Roman Vašina,Ing.,,68,daňový poradce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-22,6,"ODS, TOP 09 a nezávislí",22,Tomáš Jára,Ing.,,46,"místostarosta MČ Brno-Bystrc, provozně-technický ředitel",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-23,6,"ODS, TOP 09 a nezávislí",23,Marek Duchaň,Mgr.,,25,"fyzik, doktorand",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-24,6,"ODS, TOP 09 a nezávislí",24,Jakub Ostrý,Mgr.,,44,"místostarosta MČ Brno-Černovice, manažer",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-25,6,"ODS, TOP 09 a nezávislí",25,Stanislav Michalík,Ing.,,63,koordinátor výstavby Janáčkova kulturního centra,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-26,6,"ODS, TOP 09 a nezávislí",26,Nikola Staňková,Ing.,,38,podnikatelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-27,6,"ODS, TOP 09 a nezávislí",27,Michael Brázda,Mgr. et Mgr.,LL.M.,50,"1. místostarosta MČ Brno-Nový Lískovec, advokát, pedagog",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-28,6,"ODS, TOP 09 a nezávislí",28,Evžen Šik,,,59,ekonom,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-29,6,"ODS, TOP 09 a nezávislí",29,Tomáš Krčmař,Ing.,,29,aplikační manažer,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-30,6,"ODS, TOP 09 a nezávislí",30,Dagmar Seidlová,MUDr.,Ph.D.,61,"zastupitelka města Brna, primářka ARO FN Brno",A,dagmar-seidlova,ano,ano,SPOLEČNĚ - ODS a TOP 09,SPOLEČNĚ - ODS a TOP 09,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-06-31,6,"ODS, TOP 09 a nezávislí",31,František Vižďa,doc. RNDr.,Ph.D.,57,"fyzik, vysokoškolský pedagog",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-32,6,"ODS, TOP 09 a nezávislí",32,Jiří Herman,RNDr.,Ph.D.,70,"zastupitel města Brna, bývalý ředitel gymnázia Jaroška",A,jiri-herman,ano,ano,SPOLEČNĚ - ODS a TOP 09,SPOLEČNĚ - ODS a TOP 09,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-06-33,6,"ODS, TOP 09 a nezávislí",33,Jindřich Vobořil,Mgr.,Pg.Dip.,60,předseda správní rady Společnosti Podané ruce o.p.s.,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-34,6,"ODS, TOP 09 a nezávislí",34,Karel Pelikán,Mgr. Bc.,,27,právník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-35,6,"ODS, TOP 09 a nezávislí",35,Dana Filipi,,,56,místostarostka MČ Brno-Řečkovice a Mokrá Hora,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-36,6,"ODS, TOP 09 a nezávislí",36,Ivo Borovec,,MBA,50,grafický designer,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-37,6,"ODS, TOP 09 a nezávislí",37,Lenka Boričová,Bc.,,33,ekonomka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-38,6,"ODS, TOP 09 a nezávislí",38,Veronika Zelinko Vardanová,Mgr.,,42,personální manažerka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-39,6,"ODS, TOP 09 a nezávislí",39,Richard Foltýn,,,53,sportovní manažer a producent,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-40,6,"ODS, TOP 09 a nezávislí",40,Jan Oulehla,,,26,"podnikatel, student",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-41,6,"ODS, TOP 09 a nezávislí",41,Damir Solak,Mgr.,,29,soudní tlumočník a překladatel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-42,6,"ODS, TOP 09 a nezávislí",42,Martina Sieglová,Mgr.,,25,"PR specialistka, projektová koordinátorka",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-43,6,"ODS, TOP 09 a nezávislí",43,Tomáš Bernard,Bc.,DiS.,38,zdravotní laborant,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-44,6,"ODS, TOP 09 a nezávislí",44,Jana Břenková,Mgr. Bc.,,41,vedoucí nízkoprahového zařízení pro děti a mládež,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-45,6,"ODS, TOP 09 a nezávislí",45,Lukáš Boula,,,44,místostarosta MČ Brno-jih,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-46,6,"ODS, TOP 09 a nezávislí",46,Filip Krejčí,Mgr.,,26,právník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-47,6,"ODS, TOP 09 a nezávislí",47,Eva Svobodová,Ing.,,72,ekonomka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-48,6,"ODS, TOP 09 a nezávislí",48,Zuzana Dubová,MgA.,,42,"scenáristka, režisérka, pedagog",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-49,6,"ODS, TOP 09 a nezávislí",49,Petr Punčochář,Mgr.,,56,ředitel základní školy,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-50,6,"ODS, TOP 09 a nezávislí",50,Jiří Zorník,,,75,radní MČ Brno-Kohoutovice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-51,6,"ODS, TOP 09 a nezávislí",51,Michal Lepka,Bc.,,57,energetický manažer,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-52,6,"ODS, TOP 09 a nezávislí",52,Vlastimil Válek,prof. MUDr.,"CSc., MBA, EBIR",66,"lékař-radiolog, poslanec",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-53,6,"ODS, TOP 09 a nezávislí",53,Nikola Michelčíková,Bc.,,35,obchodní zástupce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-54,6,"ODS, TOP 09 a nezávislí",54,Julia Čorná,Bc.,,27,personalistka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-06-55,6,"ODS, TOP 09 a nezávislí",55,Michal Mikulka,,,20,"asistent poslankyně, student",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-01,7,Restart pro Brno,1,Martin Říha,,,57,"krajský zastupitel, rozpočtář",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-02,7,Restart pro Brno,2,Petra Rédová Fajmonová,,,50,"krajská zastupitelka, zdravotní sestra",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-03,7,Restart pro Brno,3,Vladimír Kotek,MUDr.,"Ph.D., MBA",66,primář,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-04,7,Restart pro Brno,4,Petr Hudlík,,,72,zastupitel MČ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-05,7,Restart pro Brno,5,Vilém Ožana,Mgr.,,59,pedagog,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-06,7,Restart pro Brno,6,Jana Hochmannová,,,64,důchodkyně,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-07,7,Restart pro Brno,7,Václav Fišer,Ing.,,64,technicko-hospodářský pracovník – krizové řízení,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-08,7,Restart pro Brno,8,Vincent Šudík,Ing.,,68,důchodce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-09,7,Restart pro Brno,9,Martin Valoušek,,,49,stavbyvedoucí,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-10,7,Restart pro Brno,10,Libor Chládek,Ing.,BA,48,mistr,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-11,7,Restart pro Brno,11,Jiří Hráček,,,40,administrativní pracovník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-12,7,Restart pro Brno,12,Tomáš Foral,Ing.,,61,zahradní architekt,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-13,7,Restart pro Brno,13,Jiří Králík,Bc.,,44,invalidní důchodce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-14,7,Restart pro Brno,14,Kateřina Svobodová,Bc.,,28,úřednice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-15,7,Restart pro Brno,15,Lucie Zajícová,,,63,jednatelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-16,7,Restart pro Brno,16,Václav Hladký,,,50,operátor,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-17,7,Restart pro Brno,17,Vladimíra Quirencová,,,75,důchodkyně,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-18,7,Restart pro Brno,18,Martin Svoboda,,,30,vedoucí prodejny,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-19,7,Restart pro Brno,19,Pavel Valach,,,49,řidič MHD,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-20,7,Restart pro Brno,20,Sofie Svobodová,,,21,studentka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-21,7,Restart pro Brno,21,Aneta Štefanková,,,24,studentka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-22,7,Restart pro Brno,22,Tereza Havlová,,,24,studentka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-23,7,Restart pro Brno,23,Vilém Ožana,Mgr.,,27,právník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-24,7,Restart pro Brno,24,Pavel Hladík,,,42,technik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-25,7,Restart pro Brno,25,Eva Pekárková,,,38,barmanka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-26,7,Restart pro Brno,26,Lenka Sochorová,,DiS.,39,zdravotní sestra,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-27,7,Restart pro Brno,27,Lenka Malá,Mgr.,,62,učitelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-28,7,Restart pro Brno,28,Antonín Nekvapil,,,41,podnikatel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-29,7,Restart pro Brno,29,Petra Baráková,,,42,OSVČ - kadeřnice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-30,7,Restart pro Brno,30,David Svoboda,,,42,řidič,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-31,7,Restart pro Brno,31,Ester Brdičková,,,45,vedoucí provozu,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-32,7,Restart pro Brno,32,Jaroslav Škarvada,Ing.,Ph.D.,45,informatik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-33,7,Restart pro Brno,33,Marek Čáp,,,45,OSVČ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-34,7,Restart pro Brno,34,Dana Hoskovcová,,,47,účetní,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-35,7,Restart pro Brno,35,Miloš Vavruša,,,48,OSVČ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-36,7,Restart pro Brno,36,Kamila Jadrná,Ing. Bc.,,50,úřednice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-37,7,Restart pro Brno,37,Petra Šlesingerová,,,50,kantýnská,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-38,7,Restart pro Brno,38,Petra Kvapilová,,,50,řidička MHD,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-39,7,Restart pro Brno,39,Jan Dvořák,,,53,nákupčí,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-40,7,Restart pro Brno,40,Jiří Fazor,,,56,invalidní důchodce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-41,7,Restart pro Brno,41,Krista Košťálová,Mgr.,,69,pedagožka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-42,7,Restart pro Brno,42,Jarmila Štefanková,,,57,prodavačka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-43,7,Restart pro Brno,43,Galya Petrova Rudova,,,58,prodavačka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-44,7,Restart pro Brno,44,Ludvík Hubicsák,,,58,technik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-45,7,Restart pro Brno,45,Simona Truksová,,,62,technik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-46,7,Restart pro Brno,46,Miroslav Sojka,,,64,důchodce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-47,7,Restart pro Brno,47,Jarmila Danhelová,,,65,důchodkyně,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-48,7,Restart pro Brno,48,Alena Kellerová,,,66,důchodkyně,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-49,7,Restart pro Brno,49,Miroslava Žáčková,,,81,důchodkyně,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-50,7,Restart pro Brno,50,Jitka Procházková,,,71,důchodkyně,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-51,7,Restart pro Brno,51,Miroslava Pelikánová,,,73,důchodkyně,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-52,7,Restart pro Brno,52,Vlasta Konečná,,,73,důchodkyně,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-53,7,Restart pro Brno,53,Milan Krišo,,,79,důchodce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-54,7,Restart pro Brno,54,Zdeněk Zimola,,,79,důchodce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-07-55,7,Restart pro Brno,55,Josef Borek,,,82,loutkoherec,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-01,8,Brnoklidem,1,Karin Podivinská Karasová,Ing.,,60,"náměstkyně primátorky, 2014-2022 starostka MČ Brno-Královo Pole",A,karin-podivinska-karasova,ano,ano,ANO 2011,Brnoklidem a nezávislí zastupitelé,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-08-02,8,Brnoklidem,2,Petr Bořecký,Ing. arch.,,49,"architekt, radní města Brna, popularizátor Starého Brna",A,petr-borecky,ano,ano,ANO 2011,Brnoklidem a nezávislí zastupitelé,jméno + titul architekta + listina,73b68b4ff9d559e8
+2026-08-03,8,Brnoklidem,3,Kateřina Jarošová,Bc.,MBA,53,"zastupitelka města Brna pro oblast marketingu, chovatelka psů, folkloristka",A,katerina-jarosova,ano,ano,ANO 2011,Brnoklidem a nezávislí zastupitelé,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-08-04,8,Brnoklidem,4,Petr Souček,Ing.,,45,"projektant, krajský zastupitel JMK",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-05,8,Brnoklidem,5,Karel Kalivoda,Ing.,,60,"zástupce ředitele DPMB, zastupitel města Brna",A,karel-kalivoda,ano,ano,ANO 2011,Brnoklidem a nezávislí zastupitelé,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-08-06,8,Brnoklidem,6,Petr Levíček,Ing.,,62,podnikatel,A,petr-levicek,ano,ano,"SPD, TRIKOLORA, MORAVANÉ a nezávislí",Brnoklidem a nezávislí zastupitelé,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-08-07,8,Brnoklidem,7,Martin Landa,Mgr.,,50,"vedoucí majetkového odboru, 2014-2018 starosta MČ Brno-střed",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-08,8,Brnoklidem,8,Bohumil Šimek,JUDr.,,67,"právník, emeritní hejtman JMK",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-09,8,Brnoklidem,9,Ivo Rovný,MUDr.,MBA,57,lékař-chirurg,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-10,8,Brnoklidem,10,Vít Prýgl,,MBA,66,člen představenstva DPMB,A,vit-prygl,ano,ano,ANO 2011,Brnoklidem a nezávislí zastupitelé,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-08-11,8,Brnoklidem,11,Soňa Ledvinková,Ing.,,47,OSVČ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-12,8,Brnoklidem,12,Jiří Karásek,Mgr.,,66,"místostarosta MČ Brno-Vinohrady, učitel na SŠ",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-13,8,Brnoklidem,13,Robert Kurucz,,,40,"redaktor, OSVČ",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-14,8,Brnoklidem,14,Ondřej Šťastník,Ing.,,54,podnikatel v zemědělství,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-15,8,Brnoklidem,15,Daniel Kypr,Mgr. Ing.,,55,OSVČ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-16,8,Brnoklidem,16,Sabina Benešová,Mgr. et Mgr.,"DiS., LL.M.",32,"právnička, zastupitelka města Brna",A,sabina-benesova,ano,ano,ANO 2011,Brnoklidem a nezávislí zastupitelé,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-08-17,8,Brnoklidem,17,Alena Gruberová,MUDr.,,69,praktická lékařka,A,alena-gruberova,ano,ano,ANO 2011,Brnoklidem a nezávislí zastupitelé,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-08-18,8,Brnoklidem,18,Pavel Kříž,Ing.,,61,místostarosta MČ Brno-Bystrc,A,pavel-kriz,ano,ano,ANO 2011,Brnoklidem a nezávislí zastupitelé,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-08-19,8,Brnoklidem,19,Natalie Rovná,,,33,specialistka na nábor zaměstnanců,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-20,8,Brnoklidem,20,Petr Oupor,,,54,laborant,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-21,8,Brnoklidem,21,Ivo Kučera,MgA.,,78,dirigent,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-22,8,Brnoklidem,22,Renata Polášková,Mgr.,,58,právnička,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-23,8,Brnoklidem,23,Jana Novotná,Ing.,,58,ekonomka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-24,8,Brnoklidem,24,Ilona Sedláková,Mgr.,,59,advokátka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-25,8,Brnoklidem,25,Petr Jelínek,Mgr.,,44,strážník městské policie,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-26,8,Brnoklidem,26,Petr Janáček,Mgr.,,41,"podnikatel, zastupitel MČ Brno-Kohoutovice",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-27,8,Brnoklidem,27,Tomáš Buček,Mgr.,,41,advokát,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-28,8,Brnoklidem,28,Martin Štourač,Ing.,,42,produktový manažer v oblasti bytového interiéru,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-29,8,Brnoklidem,29,Michal Palaščak,doc. Ing.,,55,"architekt, VŠ pedagog, laureát Ceny města Brna",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-30,8,Brnoklidem,30,Lenka Mazurová,Ing. arch.,,36,architektka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-31,8,Brnoklidem,31,Agáta Védlová,Ing.,,63,manažerka kvality,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-32,8,Brnoklidem,32,Marie Škárková,,,67,učitelka v ZUŠ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-33,8,Brnoklidem,33,Jana Pejchalová,JUDr.,,67,advokátka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-34,8,Brnoklidem,34,Pavla Kabache,,,43,manažerka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-35,8,Brnoklidem,35,Vanessa Karasová,,DiS.,23,farmaceutická asistentka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-36,8,Brnoklidem,36,Jaroslav Matula,,,59,řidič,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-37,8,Brnoklidem,37,Daria Petýrková,Bc.,,37,asistentka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-38,8,Brnoklidem,38,Petr Kadlčík,Ing. arch.,,48,architekt,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-39,8,Brnoklidem,39,Barbara Karasová,,DiS.,25,zdravotní sestra,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-40,8,Brnoklidem,40,Petr Kovač,Mgr.,,71,emeritní ředitel gymnázia,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-41,8,Brnoklidem,41,Luďka Rokytová,Ing.,,60,daňová poradkyně,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-42,8,Brnoklidem,42,Pavel Konečný,,,47,operátor,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-43,8,Brnoklidem,43,Lukas Galia,,,19,"student, trenér fotbalu",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-44,8,Brnoklidem,44,Lenka Novotná,Ing.,Ph.D.,40,stavební inženýrka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-45,8,Brnoklidem,45,Pavla Matulová,,,59,odborná referentka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-46,8,Brnoklidem,46,Barbora Olbertová,Bc.,DiS.,32,účetní,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-47,8,Brnoklidem,47,Andrea Pelánová,,DiS.,52,oční optička,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-48,8,Brnoklidem,48,Petra Česalová,Mgr.,,55,učitelka v ZŠ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-49,8,Brnoklidem,49,Adam Truska,,,40,stavební inženýr,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-50,8,Brnoklidem,50,Iva Tejkalová,,,54,grafička,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-51,8,Brnoklidem,51,Ladislav Fuksa,Ing.,,60,invalidní důchodce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-52,8,Brnoklidem,52,Anželika Kopijevská,,,49,poštovní doručovatelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-53,8,Brnoklidem,53,Ivana Kašparová,,,52,"ekonomka, personalistka",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-54,8,Brnoklidem,54,René Pelán,,,60,zdravotník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-08-55,8,Brnoklidem,55,Věra Benešová,,,80,důchodkyně,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-01,9,Motoristé sobě,1,Tomáš Kratochvíl,JUDr.,,58,starosta MČ Brno-Bystrc,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-02,9,Motoristé sobě,2,Lubor Novák,Ing.,,60,prezident mezinárodní sportovní střelecké organizace,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-03,9,Motoristé sobě,3,Quoc Tan Pham,Mgr.,,40,advokát,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-04,9,Motoristé sobě,4,Veronika Jurůjová,Mgr.,,27,ředitelka mateřské školy,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-05,9,Motoristé sobě,5,Igor Stehno,,,58,majitel dopravní a logistické společnosti,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-06,9,Motoristé sobě,6,Iva Mihulová,MUDr.,,59,vedoucí lékařka mamodiagnostického centra FN Brno,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-07,9,Motoristé sobě,7,Jaromír Špaček,Mgr.,,44,ředitel základní školy,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-08,9,Motoristé sobě,8,František Urbanec,JUDr.,,76,advokát,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-09,9,Motoristé sobě,9,Hana Stejná,Ing.,,49,"ekonomka, finanční konzultantka",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-10,9,Motoristé sobě,10,Petr Šulc,JUDr.,,66,právník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-11,9,Motoristé sobě,11,Petr Šebl,Bc.,,57,"fotograf, reklamní specialista",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-12,9,Motoristé sobě,12,Petr Zábrš,,,51,vedoucí realizace reklamní společnosti,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-13,9,Motoristé sobě,13,Dalibor Barták,,,58,řidič MHD,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-14,9,Motoristé sobě,14,Štěpán Chour,,,29,elektrotechnik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-15,9,Motoristé sobě,15,Ludmila Jimramovská,Mgr. et Mgr.,,68,psycholog,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-16,9,Motoristé sobě,16,Lukáš Mihula,Bc.,,22,"student, administrátor sportovních dat",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-17,9,Motoristé sobě,17,Radek Hudec,,,41,"autodopravce, influencer",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-18,9,Motoristé sobě,18,Matěj Špalek,,,23,"student, fotbalový trenér",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-19,9,Motoristé sobě,19,Richard Navara,,,25,manažer pro řízení podnikatelských procesů,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-20,9,Motoristé sobě,20,Adam Peter Wolfsberg,Mgr.,,37,expert v oblasti palných zbraní,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-21,9,Motoristé sobě,21,Vladimír Malý,RNDr.,,74,chemik analytik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-22,9,Motoristé sobě,22,Oldřich Beránek,,,34,řidič převozu krve a zdravotnického materiálu,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-23,9,Motoristé sobě,23,Marek Hořanský,Mgr.,,45,správce IT sítě,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-24,9,Motoristé sobě,24,Michal Voráček,Ing.,,60,ředitel společnosti podnikající v energetice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-25,9,Motoristé sobě,25,Jiří Matušek,Ing. arch.,,66,architekt,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-26,9,Motoristé sobě,26,Martin Sedlák,,,57,autodopravce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-27,9,Motoristé sobě,27,Martin Chytil,,,48,automobilový závodník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-28,9,Motoristé sobě,28,Michal Vítek,,,36,řidič,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-29,9,Motoristé sobě,29,Ivan Fencl,Ing.,Ph.D.,68,dopravní inženýr,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-30,9,Motoristé sobě,30,Roman Valíček,,,30,automobilový dopravce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-31,9,Motoristé sobě,31,Ricardo Markusek,,,30,automobilový dopravce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-32,9,Motoristé sobě,32,Daniel Kresek,,,40,výpravčí ve vozovně,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-33,9,Motoristé sobě,33,Božena Bartáková,,,58,kuchařka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-34,9,Motoristé sobě,34,Jana Špalková,,,49,zdravotní sestra,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-35,9,Motoristé sobě,35,Jiří Hnátek,,,44,řidič MHD,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-36,9,Motoristé sobě,36,Lukáš Klíma,,,35,"kuchař, číšník",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-37,9,Motoristé sobě,37,Tamara Lowáková,Mgr.,,74,"dramaturgyně, režisérka",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-38,9,Motoristé sobě,38,Lucie Franková,,,36,řidička MHD,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-39,9,Motoristé sobě,39,Martin Frank,,,36,řidič MHD,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-40,9,Motoristé sobě,40,Jiří Grepl,,,42,kuchař,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-41,9,Motoristé sobě,41,Roman Brixa,,,57,řidič MHD,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-42,9,Motoristé sobě,42,Martina Hégrová,,,44,řidička MHD,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-43,9,Motoristé sobě,43,Jan Strbačka,,,74,řidič MHD,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-44,9,Motoristé sobě,44,Karel Kalina,,,49,řidič MHD,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-45,9,Motoristé sobě,45,Ivana Juračková,,,59,řidička MHD,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-46,9,Motoristé sobě,46,Jiří Golka,,,43,barber,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-47,9,Motoristé sobě,47,Adam Kříčka,,,40,sanitář na operačním sále,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-48,9,Motoristé sobě,48,Michal Sirovátka,,,58,skladník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-49,9,Motoristé sobě,49,Hana Winklerová,,,38,ekonomka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-50,9,Motoristé sobě,50,Filip Kobza,,,21,závozník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-51,9,Motoristé sobě,51,Radovan Papež,,,53,řidič autobusu,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-52,9,Motoristé sobě,52,Jana Papežová,,,43,prodavačka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-53,9,Motoristé sobě,53,David Čelechovský,,,43,stavební dělník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-54,9,Motoristé sobě,54,Lucie Kopalová,,,38,pečovatelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-09-55,9,Motoristé sobě,55,Petr Paulczynski,Ing.,,80,účetní poradce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-10-01,10,"Demokratická strana zelených - ZA PRÁVA ZVÍŘAT, sdružení DSZ - ZA PRÁVA ZVÍŘAT a NK",1,Ivona Galová,,,64,"OSVČ, ochránce zvířat",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-10-02,10,"Demokratická strana zelených - ZA PRÁVA ZVÍŘAT, sdružení DSZ - ZA PRÁVA ZVÍŘAT a NK",2,Pavla Müllerová,,,51,"asistentka na autosalónu, ochránce zvířat",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-10-03,10,"Demokratická strana zelených - ZA PRÁVA ZVÍŘAT, sdružení DSZ - ZA PRÁVA ZVÍŘAT a NK",3,Martina Doleželová,,,45,"pracovník v sociálních službách, ochránce zvířat",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-01,11,Brno Brňankám a Brňanům! (B3!),1,Matúš Bóna,Mgr.,,56,právník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-02,11,Brno Brňankám a Brňanům! (B3!),2,Jana Buchtová,,,38,"účetní, kamelot",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-03,11,Brno Brňankám a Brňanům! (B3!),3,Rastislav Lučanský,,,55,"jednatel společnosti, člen poradního orgánu vlády pro bezpečnost a lidská práva",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-04,11,Brno Brňankám a Brňanům! (B3!),4,Tomáš Ulrich,Mgr.,Ph.D.,49,učitel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-05,11,Brno Brňankám a Brňanům! (B3!),5,Štefan Brychnač,,,45,"podnikatel, muzikant",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-06,11,Brno Brňankám a Brňanům! (B3!),6,Eulalie Líčeníková,,,41,"instruktorka esoterické tantra jógy, asistentka učitele",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-07,11,Brno Brňankám a Brňanům! (B3!),7,Elemír Jonáš,,,54,invalidní důchodce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-08,11,Brno Brňankám a Brňanům! (B3!),8,Martin Fejfárek,,,53,údržbář,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-09,11,Brno Brňankám a Brňanům! (B3!),9,Daniela Hoffman,Mgr.,,37,"mateřská dovolená, manažer",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-10,11,Brno Brňankám a Brňanům! (B3!),10,Michal Musil,,,50,"učitel odborného výcviku, truhlář",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-11,11,Brno Brňankám a Brňanům! (B3!),11,Tereza Binarová,,,40,IT administrátor,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-12,11,Brno Brňankám a Brňanům! (B3!),12,Jiří Schauer,RNDr.,,65,učitel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-13,11,Brno Brňankám a Brňanům! (B3!),13,Darek Galle,,,55,řidič,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-14,11,Brno Brňankám a Brňanům! (B3!),14,Lenka Jonášová,,,40,kuchařka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-15,11,Brno Brňankám a Brňanům! (B3!),15,Petr Říháček,,,44,pracovník pořádkové služby,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-16,11,Brno Brňankám a Brňanům! (B3!),16,Milena Minksová,Mgr.,,38,učitelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-17,11,Brno Brňankám a Brňanům! (B3!),17,Richard Sehnal,,,63,"podnikatel, majitel diskotéky",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-18,11,Brno Brňankám a Brňanům! (B3!),18,Zdeněk Franta,,,54,operátor výroby,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-19,11,Brno Brňankám a Brňanům! (B3!),19,Jiří Pardon,,,35,kuchař,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-20,11,Brno Brňankám a Brňanům! (B3!),20,Helena Musilová,,,69,"důchodkyně, prodavačka",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-21,11,Brno Brňankám a Brňanům! (B3!),21,Radim Fuksa,,,38,kuchař,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-22,11,Brno Brňankám a Brňanům! (B3!),22,Renata Podroužková,,,61,"zdravotní sestra, péče o osobu blízkou",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-23,11,Brno Brňankám a Brňanům! (B3!),23,Zdeněk Mucha,,,42,lešenář,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-24,11,Brno Brňankám a Brňanům! (B3!),24,Kateřina Tománková,,,37,kuchařka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-25,11,Brno Brňankám a Brňanům! (B3!),25,Tomáš Smolka,,,50,zemědělec,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-26,11,Brno Brňankám a Brňanům! (B3!),26,Veronika Černoušková,,,40,barmanka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-27,11,Brno Brňankám a Brňanům! (B3!),27,Antonio Parči,,,26,zedník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-28,11,Brno Brňankám a Brňanům! (B3!),28,Renáta Ličková,,,57,strojařka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-29,11,Brno Brňankám a Brňanům! (B3!),29,Pavel Vlasák,,,42,montér suchých staveb,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-30,11,Brno Brňankám a Brňanům! (B3!),30,Kateřina Miková,,,29,pokladní,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-31,11,Brno Brňankám a Brňanům! (B3!),31,Vojtěch Kroka,,,37,zedník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-32,11,Brno Brňankám a Brňanům! (B3!),32,Jindra Rybářová,,,79,účetní,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-33,11,Brno Brňankám a Brňanům! (B3!),33,Daniel Kučera,,,37,knihovník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-34,11,Brno Brňankám a Brňanům! (B3!),34,Věra Pouzová,,,73,hospodská,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-35,11,Brno Brňankám a Brňanům! (B3!),35,Filip Konečný,,,19,zahradník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-36,11,Brno Brňankám a Brňanům! (B3!),36,Olga Škaroupková,,,48,pečovatelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-37,11,Brno Brňankám a Brňanům! (B3!),37,Jan Wittreich,,,58,řidič,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-38,11,Brno Brňankám a Brňanům! (B3!),38,Vlastimil Ryšavý,,,65,důchodce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-39,11,Brno Brňankám a Brňanům! (B3!),39,Dalibor Kutek,,,60,zámečník-svářeč,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-40,11,Brno Brňankám a Brňanům! (B3!),40,Milan Kubát,,,73,zedník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-41,11,Brno Brňankám a Brňanům! (B3!),41,Vladimír Simon,,,75,mechanik elektrických zařízení,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-42,11,Brno Brňankám a Brňanům! (B3!),42,Patrik Kopkan,,,27,IT specialista,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-43,11,Brno Brňankám a Brňanům! (B3!),43,Kamila Snášelová,,,61,úřednice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-44,11,Brno Brňankám a Brňanům! (B3!),44,Monika Bendová,,,53,školní asistentka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-45,11,Brno Brňankám a Brňanům! (B3!),45,Josef Havel,,,44,"invalidní důchodce, vrátný",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-46,11,Brno Brňankám a Brňanům! (B3!),46,Karel Kopl,,,69,"důchodce, montér ocelových konstrukcí",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-47,11,Brno Brňankám a Brňanům! (B3!),47,Daniel Svoboda,,,30,kuchař,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-48,11,Brno Brňankám a Brňanům! (B3!),48,Jaroslav Šenk,,,44,zedník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-49,11,Brno Brňankám a Brňanům! (B3!),49,Martin Huječek,,,41,stěhovák,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-50,11,Brno Brňankám a Brňanům! (B3!),50,Petr Hlaváček,,,50,"zámečník, svářeč",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-51,11,Brno Brňankám a Brňanům! (B3!),51,Petr Chylík,,,55,"invalidní důchodce, správce parku",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-52,11,Brno Brňankám a Brňanům! (B3!),52,Jiří Kuba,,,60,technik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-53,11,Brno Brňankám a Brňanům! (B3!),53,Miloslav Macháček,,,55,elektromechanik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-54,11,Brno Brňankám a Brňanům! (B3!),54,Jiří Banda,,,60,"dělník, kamelot",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-11-55,11,Brno Brňankám a Brňanům! (B3!),55,Vasil Prokipčák,,,47,jeřábník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-01,12,PŘÍSAHA občanské hnutí,1,Petr Vokřál,Ing.,,62,podnikatel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-02,12,PŘÍSAHA občanské hnutí,2,Ivana Peková,Bc.,,53,podnikatelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-03,12,PŘÍSAHA občanské hnutí,3,Leoš Němec,Mgr.,,54,"sociolog, výchova, prevence",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-04,12,PŘÍSAHA občanské hnutí,4,Ivana Dvořáková,,,38,OSVČ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-05,12,PŘÍSAHA občanské hnutí,5,Jindřich Zuziak,Ing.,,60,"ekonom, zastupitel MČ Brno-Žabovřesky",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-06,12,PŘÍSAHA občanské hnutí,6,Martin Hovorka,MVDr.,Ph.D.,72,podnikatel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-07,12,PŘÍSAHA občanské hnutí,7,Radek Sedláček,,,24,"IT specialista, zastupitel MČ Brno-Vinohrady",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-08,12,PŘÍSAHA občanské hnutí,8,Ivana Cyprianová,,,50,koordinátorka klinických studií,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-09,12,PŘÍSAHA občanské hnutí,9,David Truksa,,,30,IT správce HW a SW,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-10,12,PŘÍSAHA občanské hnutí,10,Šárka Čajánková,,,59,OSVČ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-11,12,PŘÍSAHA občanské hnutí,11,Petr Eckelt,,,59,správa nemovitostí,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-12,12,PŘÍSAHA občanské hnutí,12,Pavel Brudík,,,31,OSVČ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-13,12,PŘÍSAHA občanské hnutí,13,Milan Pek,,,65,podnikatel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-14,12,PŘÍSAHA občanské hnutí,14,Jan Petřík,Bc.,,35,podnikatel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-15,12,PŘÍSAHA občanské hnutí,15,Nikola Výpustková,Bc.,,33,zdravotní laborant,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-16,12,PŘÍSAHA občanské hnutí,16,Roman Atanasov Lankov,,,57,podnikatel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-17,12,PŘÍSAHA občanské hnutí,17,Jan Prášek,,,66,OSVČ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-18,12,PŘÍSAHA občanské hnutí,18,Iveta Fišerová,Bc.,,62,administrativní pracovnice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-19,12,PŘÍSAHA občanské hnutí,19,Zita Přichystalová,Ing.,,62,OSVČ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-20,12,PŘÍSAHA občanské hnutí,20,Petr Špetlík,,,47,podnikatel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-21,12,PŘÍSAHA občanské hnutí,21,Jiří Adámek,Ing.,,65,senior,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-22,12,PŘÍSAHA občanské hnutí,22,Markéta Mičudová,,,54,OSVČ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-23,12,PŘÍSAHA občanské hnutí,23,Hana Živná,,,45,administrativní pracovnice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-24,12,PŘÍSAHA občanské hnutí,24,Vít Fišer,,,32,manager,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-25,12,PŘÍSAHA občanské hnutí,25,Tomáš Hovorka,,,39,"Automotiv, operátor",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-26,12,PŘÍSAHA občanské hnutí,26,Hana Nováčková,,,42,OSVČ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-27,12,PŘÍSAHA občanské hnutí,27,Jarmila Petříková,,,61,OSVČ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-28,12,PŘÍSAHA občanské hnutí,28,Martina Babáková,,,53,administrativní pracovnice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-29,12,PŘÍSAHA občanské hnutí,29,Ladislava Truksová,,,51,obchodní prodejce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-30,12,PŘÍSAHA občanské hnutí,30,Alexander Berger,,,48,zaměstnanec v gastronomii,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-31,12,PŘÍSAHA občanské hnutí,31,Jiří Výpustek,,,41,vedoucí skladu,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-32,12,PŘÍSAHA občanské hnutí,32,Kateřina Marečková,,,50,podnikatelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-33,12,PŘÍSAHA občanské hnutí,33,Michaela Sedláčková,,,56,vedoucí prodejny,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-34,12,PŘÍSAHA občanské hnutí,34,Gabriela Cvrčková,MUDr.,,29,lékařka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-35,12,PŘÍSAHA občanské hnutí,35,Denisa Střeštíková,,,52,účetní,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-36,12,PŘÍSAHA občanské hnutí,36,Zuzana Hrdličková,,,44,pracovnice Vězeňské služby ČR,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-37,12,PŘÍSAHA občanské hnutí,37,Michal Karel,,DiS.,27,zdravotní laborant,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-38,12,PŘÍSAHA občanské hnutí,38,Pavel Klíma,,,69,senior,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-39,12,PŘÍSAHA občanské hnutí,39,Jana Hadová,Bc.,,64,senior,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-40,12,PŘÍSAHA občanské hnutí,40,Stanislav Petřík,,,66,senior,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-41,12,PŘÍSAHA občanské hnutí,41,Kristýna Člaňková,,,31,dělník ve výrobě,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-42,12,PŘÍSAHA občanské hnutí,42,Lenka Šidliáková,,,52,zaměstnanec v gastronomii,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-43,12,PŘÍSAHA občanské hnutí,43,Richard Zelinka,,,59,referent logistiky,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-44,12,PŘÍSAHA občanské hnutí,44,Zuzana Janoušková,,,24,pokladní,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-45,12,PŘÍSAHA občanské hnutí,45,Ivana Adámková,,,65,asistent ve školství,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-46,12,PŘÍSAHA občanské hnutí,46,Simona Kudrnová,,,52,zaměstnanec v gastronomii,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-47,12,PŘÍSAHA občanské hnutí,47,Marie Hrdličková,,,72,senior,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-48,12,PŘÍSAHA občanské hnutí,48,Slávka Pichlerová,,,83,senior,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-49,12,PŘÍSAHA občanské hnutí,49,Anna Jirásková,,,81,senior,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-50,12,PŘÍSAHA občanské hnutí,50,Jiří Adámek,,,21,student,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-51,12,PŘÍSAHA občanské hnutí,51,Zuzana Dvořáková,,,61,nezaměstnaná,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-52,12,PŘÍSAHA občanské hnutí,52,Martina Zelinková,,,34,mateřská dovolená,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-53,12,PŘÍSAHA občanské hnutí,53,Jana Adámková,,,21,student,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-54,12,PŘÍSAHA občanské hnutí,54,Alena Srncová,,,52,nezaměstnaná,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-12-55,12,PŘÍSAHA občanské hnutí,55,Jiřina Střeštíková,,,73,senior,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-01,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",1,Klára Liptáková,Ing.,,56,"krajská zastupitelka, ekonomka",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-02,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",2,Jiří Klein,Ing.,,64,"zastupitel MČ Brno-Bystrc, grafik",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-03,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",3,Milan Jirků,,,43,IT specialista,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-04,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",4,Ondřej Jurásek,,,53,ekonom obchodního provozu,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-05,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",5,Petr Doležel,Mgr.,,52,učitel na gymnáziu,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-06,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",6,Michal Dovrtěl,Ing.,,65,datový analytik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-07,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",7,Miloš Vrážel,Ing.,,66,referent právního oddělení,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-08,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",8,Hana Zejdová,,,64,mistryně Evropy v bezmotorovém létání,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-09,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",9,Jaroslava Hauserová,,,70,"úřednice, ekonomka",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-10,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",10,Marek Otevřel,Mgr.,Ph.D.,50,vývojový inženýr – aerospace,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-11,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",11,Antonín Pavlica,,,43,IT specialista,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-12,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",12,Miroslav Střeštík,,,55,technik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-13,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",13,Jiří Přichystal,,,56,vedoucí technik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-14,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",14,Josef Válka,,,59,správce objektu,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-15,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",15,Radomír Bobek,Mgr.,,46,datový inženýr,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-16,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",16,Jan Matoušek,,,47,vedoucí dispečer BKOM,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-17,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",17,Zuzana Loukotová,,,61,administrativní pracovnice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-18,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",18,Jáchym Frank,Mgr. Ing.,,62,právně-ekonomický vedoucí,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-19,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",19,Alexander Jan Doležel,,,22,student,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-20,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",20,Jiří Stejkora,Mgr.,,63,učitel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-21,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",21,Lenka Jůzová,Ing.,,59,účetní,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-22,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",22,Pavla Hejnová,JUDr.,,63,právnička,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-23,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",23,Jan Najbrt,,,69,strojírenský technik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-24,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",24,Naděžda Otevřelová,Mgr.,,77,emeritní profesorka gymnázia,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-25,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",25,Miroslav Ondrák,,,53,manažer,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-26,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",26,Kamil Gregůrek,,,38,podnikatel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-27,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",27,Veronika Antonínová,,,57,podnikatelka v gastronomii,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-28,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",28,Zdeňka Hermannová,,,64,manažerka restaurace,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-29,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",29,Daniel Čermák,,,33,security manager,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-30,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",30,Jiří Brančík,,,47,plánovač výroby,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-31,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",31,Irena Marečková,,,57,administrativní pracovnice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-32,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",32,Pavel Blahoudek,,,56,státní zaměstnanec,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-33,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",33,Radoslava Kocmanová,,,56,učitelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-34,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",34,Monika Čevelová,,,34,kuchařka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-35,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",35,Martin Zdráhal,,,53,správce sítě,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-36,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",36,Olga Doleželová,,,81,důchodkyně,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-37,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",37,Dáša Zigalová,Bc.,,66,úřednice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-38,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",38,Marie Gregůrková,Ing.,,64,učitelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-39,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",39,Barbara John Žurman,Mgr.,,43,učitelka dějepisu,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-40,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",40,Lenka Kleinová,,,58,učitelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-41,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",41,Etela Šímová,,,62,vychovatelka dětí autistického spektra,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-42,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",42,Mirko Musil,,,43,vedoucí směny,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-43,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",43,Martin Kuchař,,,56,provozní technik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-44,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",44,Darja Heinigová,,,62,účetní,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-45,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",45,Petr Poláček,,,63,technik na STK,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-46,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",46,Kristýna Doleželová,,,30,asistentka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-47,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",47,Vít Lopour,,,32,IT specialista,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-48,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",48,Pavel Sedláček,,,58,technik údržby,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-49,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",49,Marcela Brandstätterová,,,54,správkyně,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-50,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",50,Martin Chlup,,,49,vedoucí dispečer FN Bohunice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-51,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",51,Yvetta Zatočilová,,,44,manažerka provozu,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-52,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",52,Jarmila Juříčková,,,41,prodavačka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-53,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",53,Helena Magulová,,,50,sociální pracovnice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-54,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",54,Lubomír Kotrba,,,63,podnikatel s tiskem,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-13-55,13,"BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",55,Lubor Pospíchal,Ing.,,46,specialista na kvalitu vody,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-01,14,Nové Brno,1,Michal Sedláček,prof. Ing. arch.,,63,architekt a vysokoškolský profesor,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-02,14,Nové Brno,2,Markéta Peringerová,Mgr.,,39,"pedagožka, historička umění, na rodičovské",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-03,14,Nové Brno,3,Milan Šulc,Ing. Mgr.,,39,"právník, manažer a podnikatel",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-04,14,Nové Brno,4,Pavel Boucnik,Ing.,Ph.D.,53,"datový analytik, autor průvodce po českých nádražích",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-05,14,Nové Brno,5,Barbora Šálková,Mgr.,,26,právnička,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-06,14,Nové Brno,6,Michal Šulc,Mgr. et  Mgr. Ing.,,39,advokát a cyklistický nadšenec,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-07,14,Nové Brno,7,Kristýna Pitharasová,,,33,office manažerka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-08,14,Nové Brno,8,Petr Holeček,Mgr.,,69,"pedagog, divadelní režisér",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-09,14,Nové Brno,9,Julie Sitarová,Ing.,,31,"projektová manažerka, lektorka tance, na rodičovské",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-10,14,Nové Brno,10,Jan Mičan,MUDr.,Ph.D.,30,lékař - neurolog,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-11,14,Nové Brno,11,Petr Vlček,MUDr.,Ph.D.,64,lékař - chirurg,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-12,14,Nové Brno,12,Hana Philippi,Ing.,,49,projektová manažerka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-13,14,Nové Brno,13,František Fajt,Ing.,,42,produktový manažer ve stavebnictví,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-14,14,Nové Brno,14,Jiří Tlamka,,,40,OSVČ - Vinohradský kutil,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-15,14,Nové Brno,15,Filip Hanák,,,39,designér a stratég,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-16,14,Nové Brno,16,Kristýna Drábková,Mgr.,,32,"produkční, na rodičovské",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-17,14,Nové Brno,17,Markéta Matoušková,JUDr.,,62,"právnička, průvodkyně, cvičitelka fitness",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-18,14,Nové Brno,18,Eva La Rocca,Mgr.,,41,speciální pedagožka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-19,14,Nové Brno,19,Pavel Benda,Mgr.,,47,specialista prezentace projektů,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-20,14,Nové Brno,20,Milan Voltr,,,72,učitel autoškoly,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-21,14,Nové Brno,21,Antonín Václavík,Mgr.,Ph.D.,51,učitel na základní škole,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-22,14,Nové Brno,22,Radoslav Kobza,Ing. arch.,,61,"architekt, majitel rezortu Maximus",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-23,14,Nové Brno,23,Hana Krajčíková,Mgr. Ing.,,41,advokátka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-24,14,Nové Brno,24,Jonáš Pelčák,,,19,student práv,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-25,14,Nové Brno,25,Marek Dartagnan Rychlonozka Sedláček,,,23,student matematiky,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-26,14,Nové Brno,26,Veronika Koppová,,,23,studentka ekonomie,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-27,14,Nové Brno,27,Renata Kobzová,MUDr.,,60,"zubařka, podnikatelka",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-28,14,Nové Brno,28,Helena Glombová,,,54,zdravotní sestra,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-29,14,Nové Brno,29,Ondřej Adame,,,39,specialista pro energeticky úsporná řešení,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-30,14,Nové Brno,30,Hana Čalkovská,Mgr.,,38,projektová manažerka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-31,14,Nové Brno,31,Andrea Trefulková,Mgr.,,33,učitelka v mateřské škole,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-32,14,Nové Brno,32,Lukáš Čoupek,Ing.,,41,finanční auditor,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-33,14,Nové Brno,33,Jan Mayer,Mgr.,,39,manažer v IT,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-34,14,Nové Brno,34,Eva Koppová,,,54,"ekonomka, účetní poradce",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-35,14,Nové Brno,35,Michaela Skotáková Záhorská,Ing. arch.,,75,architektka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-36,14,Nové Brno,36,Pavel Gebauer,Ing. et Ing. arch.,,29,architekt,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-37,14,Nové Brno,37,Karla Pokludová,Ing. arch.,,58,architektka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-38,14,Nové Brno,38,Viktor Rudiš,Ing. arch.,,99,"architekt, autor sídliště Lesná",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-39,14,Nové Brno,39,Karel Tuza,prof. Ing.,CSc.,78,"architekt, zakladatel A PLUS a.s.",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-40,14,Nové Brno,40,Antonín Sedláček,Ing.,,89,projektant v důchodu,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-41,14,Nové Brno,41,Dana Hrbková,Ing.,,40,produktový manažer ve farmacii,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-42,14,Nové Brno,42,Jaroslav Kováč,Bc.,,39,majitel realitní kanceláře,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-43,14,Nové Brno,43,Jan Štětka,Mgr.,,39,učitel na základní škole,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-44,14,Nové Brno,44,Marie Nováčková,Ing.,,39,vyšší rada na finančním úřadě,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-45,14,Nové Brno,45,František Navrátil,Ing.,,70,vedoucí správy nemovitostí,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-46,14,Nové Brno,46,Michaela Kyjonková,,,35,podnikatelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-47,14,Nové Brno,47,Petr Čermák,Mgr.,,39,právník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-48,14,Nové Brno,48,Jarmila Horáčková,,,58,pěstitelka a prodejkyně zeleniny a ovoce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-49,14,Nové Brno,49,Filip Červinka,Ing.,,29,"ekonom, specialista na prevenci praní špinavých peněz a finanční kriminality",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-50,14,Nové Brno,50,Tomáš Filip,Ing.,,38,"podnikatel, softwarový inženýr",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-51,14,Nové Brno,51,Monika Střítecká,Mgr.,,38,učitelka na základní škole,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-52,14,Nové Brno,52,Martina Hanáková,,,48,učitelka v mateřské škole,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-53,14,Nové Brno,53,Aleš Kolář,,,59,sportovní manažer v házené,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-54,14,Nové Brno,54,Simona Jánská,,,39,specialistka na finančním úřadě,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-14-55,14,Nové Brno,55,Josef Šlapal,prof. RNDr.,CSc.,70,matematik a vysokoškolský profesor,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-01,15,Piráti a Fakt Brno TU!,1,Adam Zemek,Mgr.,,35,"brněnský zastupitel, programátor",A,adam-zemek,ano,ano,Česká pirátská strana,Česká pirátská strana,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-15-02,15,Piráti a Fakt Brno TU!,2,Jitka Bidlová,Ing. arch.,Ph.D.,48,architektka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-03,15,Piráti a Fakt Brno TU!,3,David Pokorný,Ing.,Ph.D.,31,fyzik a učitel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-04,15,Piráti a Fakt Brno TU!,4,Marek Lahoda,Mgr.,,34,"geograf, datař, brněnský zastupitel",A,marek-lahoda,ano,ano,Česká pirátská strana,Česká pirátská strana,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-15-05,15,Piráti a Fakt Brno TU!,5,Filip Havlíček,PhDr.,,40,"projektový manažer, zastupitel MČ Brno-střed",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-06,15,Piráti a Fakt Brno TU!,6,Marek Šoška,Mgr. et Mgr.,,28,manažer vzdělávací instituce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-07,15,Piráti a Fakt Brno TU!,7,Kristina Javůrková,Mgr. Bc.,,37,"zakladatelka a jednatelka vzdělávací organizace, headhunterka",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-08,15,Piráti a Fakt Brno TU!,8,Nina Hájková,Mgr.,,31,marketingová manažerka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-09,15,Piráti a Fakt Brno TU!,9,Antonín Trčálek,Ing.,,43,místostarosta MČ Brno-jih,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-10,15,Piráti a Fakt Brno TU!,10,Iveta Sebastiâová Paulová,Bc.,,41,právní specialistka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-11,15,Piráti a Fakt Brno TU!,11,Monika Lukášová Spilková,Mgr.,Ph.D.,39,"brněnská zastupitelka, historička",A,monika-lukasova-spilkova,ano,ano,Česká pirátská strana,Česká pirátská strana,jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-15-12,15,Piráti a Fakt Brno TU!,12,Oldřich Peprla,Ing.,,43,podnikatel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-13,15,Piráti a Fakt Brno TU!,13,Kristýna Hvižďová,Mgr. Bc.,,35,"učitelka, lektorka",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-14,15,Piráti a Fakt Brno TU!,14,Lenka Bartolšicová,MgA.,,57,"herečka, pedagožka",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-15,15,Piráti a Fakt Brno TU!,15,Michal Škerle,Mgr. et Mgr.,,42,"právník, pedagog, vedoucí Centra prevence v Brně",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-16,15,Piráti a Fakt Brno TU!,16,Jan Tichý,Ing.,,32,dopravní a energetický specialista,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-17,15,Piráti a Fakt Brno TU!,17,Anežka Lexmanová,Mgr.,,24,učitelka v mateřské školce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-18,15,Piráti a Fakt Brno TU!,18,Žaneta Rochová,Mgr.,,31,právnička,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-19,15,Piráti a Fakt Brno TU!,19,Petr Springinsfeld,Bc.,,28,manažer obchodního týmu a zastupitel MČ Brno-střed,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-20,15,Piráti a Fakt Brno TU!,20,Denisa Zlámalová,Mgr.,,29,vědkyně,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-21,15,Piráti a Fakt Brno TU!,21,Tomáš Řepa,Mgr. Bc.,Ph.D.,40,"odborný asistent, vojenský historik",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-22,15,Piráti a Fakt Brno TU!,22,Petr Viewegh,Ing.,Ph.D.,39,"učitel, vědec, vysokoškolský pedagog",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-23,15,Piráti a Fakt Brno TU!,23,Ondřej Kapitančik,,,32,"manažer, ředitel kulturního festivalu",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-24,15,Piráti a Fakt Brno TU!,24,Andrea Frajtová,Ing.,,39,rodičovská dovolená,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-25,15,Piráti a Fakt Brno TU!,25,Ayudh Ray,,,21,"student, koordinátor Mladého Pirátstva",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-26,15,Piráti a Fakt Brno TU!,26,Monika Mucsková,Ing.,,27,lektorka na VŠ,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-27,15,Piráti a Fakt Brno TU!,27,Lukáš Doležal,Bc.,,37,projektový manažer,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-28,15,Piráti a Fakt Brno TU!,28,Martin Hájek,Mgr.,,37,referent majetkové správy,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-29,15,Piráti a Fakt Brno TU!,29,Tomáš Psota,Ing.,MBA,41,"manažer, zastupitel MČ Brno-střed",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-30,15,Piráti a Fakt Brno TU!,30,Karolína Křížová,MgA.,,42,grafická designérka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-31,15,Piráti a Fakt Brno TU!,31,Victoria Marlene Gabriel,,,19,studentka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-32,15,Piráti a Fakt Brno TU!,32,Roman Bartolšic,Ing.,,34,manažer v IT,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-33,15,Piráti a Fakt Brno TU!,33,Tereza Marti Pazdírek,Mgr.,,38,manažerka v cestovním ruchu,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-34,15,Piráti a Fakt Brno TU!,34,Eva Ivánová,Bc.,,28,produkční,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-35,15,Piráti a Fakt Brno TU!,35,Veronika Hladíková,Ing. arch.,,43,architektka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-36,15,Piráti a Fakt Brno TU!,36,Michael Hanzelka,Mgr.,,41,obchodní manažer,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-37,15,Piráti a Fakt Brno TU!,37,Barbora Cvanová,,,40,podnikatelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-38,15,Piráti a Fakt Brno TU!,38,Valentina Skoupá,Bc.,DiS.,31,mzdová účetní,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-39,15,Piráti a Fakt Brno TU!,39,Jacek Ślewczuk,Mgr.,,34,"psycholog, tlumočník, průvodce",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-40,15,Piráti a Fakt Brno TU!,40,Jaroslav Síč,Bc.,,24,PR specialista,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-41,15,Piráti a Fakt Brno TU!,41,Barbora Konečná,Bc.,,35,rodičovská dovolená,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-42,15,Piráti a Fakt Brno TU!,42,Emanuela Humplík Pinto,Mgr.,,37,právnička,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-43,15,Piráti a Fakt Brno TU!,43,Jitka Sládková,Ing. Mgr.,Ph.D.,44,manažerka inovací a rozvoje,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-44,15,Piráti a Fakt Brno TU!,44,Tomáš Pavlovský,Ing. arch.,Ph.D.,48,"architekt, pedagog",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-45,15,Piráti a Fakt Brno TU!,45,Filip Teplý,,,43,"majitel čokoládovny, podnikatel",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-46,15,Piráti a Fakt Brno TU!,46,Ivana Kopřivová,Ing.,,54,učitelka v mateřské školce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-47,15,Piráti a Fakt Brno TU!,47,Jana Přikrylová,Mgr.,,41,advokátka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-48,15,Piráti a Fakt Brno TU!,48,Martin Behanec,Mgr.,,25,právník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-49,15,Piráti a Fakt Brno TU!,49,Filip Slaný,Mgr.,,25,právník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-50,15,Piráti a Fakt Brno TU!,50,Sarah Amálie Dreslerová,Bc.,,31,produkční virtuálních licencí,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-51,15,Piráti a Fakt Brno TU!,51,Martin Ondruš,Mgr.,Ph.D.,54,scénograf,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-52,15,Piráti a Fakt Brno TU!,52,Dávid Kampo,Ing.,,28,biomedicínský inženýr,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-53,15,Piráti a Fakt Brno TU!,53,Jitka Matýšková,,,41,certifikovaná dula,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-54,15,Piráti a Fakt Brno TU!,54,Dana Janíčková,Mgr.,,68,pedagožka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-15-55,15,Piráti a Fakt Brno TU!,55,Vendula Svobodová,RNDr.,,34,"poslankyně, zastupitelka MČ Brno-Starý Lískovec, předsedkyně spolku Blechy v kožichu",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-01,16,SPD a nezávislí,1,Jiří Kment,Bc.,,48,"manažer informačních technologií, zastupitel města Brna",A,jiri-kment,ano,ano,"SPD, TRIKOLORA, MORAVANÉ a nezávislí","SPD, TRIKOLORA, MORAVANÉ a NK",jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-16-02,16,SPD a nezávislí,2,Leoš Prokeš,,MBA,43,"zastupitel města Brna a MČ Brno-střed, asistent poslankyně",A,leos-prokes,ano,ano,"SPD, TRIKOLORA, MORAVANÉ a nezávislí","SPD, TRIKOLORA, MORAVANÉ a NK",jedinečná shoda jména v obou registrech,73b68b4ff9d559e8
+2026-16-03,16,SPD a nezávislí,3,Jana Nováková Fránková,Mgr.,,58,právnička,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-04,16,SPD a nezávislí,4,Tomáš Kotas,ak. arch.,,65,"architekt, zastupitel Jihomoravského kraje a MČ Brno-střed",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-05,16,SPD a nezávislí,5,Boris Latýn,Ing. Mgr.,,47,"IT manažer, zastupitel MČ Brno-Kohoutovice",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-06,16,SPD a nezávislí,6,Petr Havelka,Ing.,,47,"oceňovatel nemovitostí, zastupitel MČ Brno-sever",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-07,16,SPD a nezávislí,7,Diana Chodžajanová,,,24,"studentka práv, zastupitelka MČ Brno-střed",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-08,16,SPD a nezávislí,8,Petr Koš,,,58,"strážník městské policie, zastupitel MČ Brno-Královo Pole",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-09,16,SPD a nezávislí,9,Jiří Doležel,Mgr.,,49,"učitel, zastupitel MČ Brno-jih",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-10,16,SPD a nezávislí,10,Bohumír Myslín,Ing.,,51,provozní ředitel,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-11,16,SPD a nezávislí,11,František Novák,Mgr.,,65,"prodejce stavební techniky, zastupitel MČ Brno-sever",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-12,16,SPD a nezávislí,12,Oleg Beznosik,Mgr.,,50,obchodní manažer,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-13,16,SPD a nezávislí,13,Karel Kočí,,,52,živnostník - opravář,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-14,16,SPD a nezávislí,14,Marek Svitavský,,,54,"obchodní ředitel, zastupitel MČ Brno-Židenice",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-15,16,SPD a nezávislí,15,František Kročil,,,66,"živnostník, zastupitel MČ Brno-Bohunice",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-16,16,SPD a nezávislí,16,Tomáš Dojiva,,,54,"technický pracovník, zastupitel MČ Brno-Tuřany",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-17,16,SPD a nezávislí,17,Barbora Kolenčíková,,,40,pracovnice ve školství,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-18,16,SPD a nezávislí,18,Petr Rozkošný,MVDr.,,60,veterinář,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-19,16,SPD a nezávislí,19,Antonín Růžička,Ing.,,65,strojní inženýr,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-20,16,SPD a nezávislí,20,Ivana Reichová,MgA.,,65,učitelka hudby,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-21,16,SPD a nezávislí,21,Patrik Pávek,,,50,"zaměstnanec Policie ČR, zastupitel MČ Brno-sever",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-22,16,SPD a nezávislí,22,Roman Freimuth,,,65,"manažer hudební školy, zastupitel MČ Brno-střed",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-23,16,SPD a nezávislí,23,Jana Baronová,,,74,poštovní doručovatelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-24,16,SPD a nezávislí,24,Erika Ani Grigorjanová,Bc.,,22,studentka medicíny,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-25,16,SPD a nezávislí,25,Pavlína Stehlíková,,,54,překladatelka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-26,16,SPD a nezávislí,26,Vladislav Stuchlík,,,76,fotbalový rozhodčí,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-27,16,SPD a nezávislí,27,Vladimír Macka,,,66,řidič,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-28,16,SPD a nezávislí,28,Bedřich Zach,,,64,živnostník ve stavebnictví,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-29,16,SPD a nezávislí,29,Iva Řežábková,PhDr.,,69,projektová referentka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-30,16,SPD a nezávislí,30,Marek Sedlák,,,52,"dobrovolný hasič, trenér, řidič specializovaného vozidla",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-31,16,SPD a nezávislí,31,Michael Stavjař,,,27,nákupčí,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-32,16,SPD a nezávislí,32,Tomáš Bukvald,,,26,finanční poradce,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-33,16,SPD a nezávislí,33,Dana Slezáková,,DiS.,53,zdravotní sestra,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-34,16,SPD a nezávislí,34,Petr Novotný,Ing.,,44,manažer IT,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-35,16,SPD a nezávislí,35,Karel Matúš,,,46,specialista v logistice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-36,16,SPD a nezávislí,36,Alexander Raděv,,,52,pracovník v provozu,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-37,16,SPD a nezávislí,37,Zdeňka Kotasová,,,48,administrativní pracovnice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-38,16,SPD a nezávislí,38,Richard Hotový,,,32,pracovník v logistice,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-39,16,SPD a nezávislí,39,Petr Král,,,68,vzduchotechnik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-40,16,SPD a nezávislí,40,Tomáš Přikryl,,,32,živnostník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-41,16,SPD a nezávislí,41,Petra Suchánková,,,40,odborná referentka ve stavebnictví,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-42,16,SPD a nezávislí,42,Akop Chodžajan,,,52,jednatel marketingové společnosti,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-43,16,SPD a nezávislí,43,Emil Pospíchal,,,45,stavbyvedoucí,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-44,16,SPD a nezávislí,44,Roman Machálek,,,58,"bezpečnostní pracovník, zastupitel MČ Brno-Bohunice",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-45,16,SPD a nezávislí,45,Martin Neduchal,,,28,elektrotechnik,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-46,16,SPD a nezávislí,46,Martin Svoboda,Ing.,,58,IT administrátor,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-47,16,SPD a nezávislí,47,Leon Prokeš,,,18,živnostník,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-48,16,SPD a nezávislí,48,František Kořínek,,,65,pracovník v autodopravě,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-49,16,SPD a nezávislí,49,Lenka Havelková,,,44,zdravotní sestra,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-50,16,SPD a nezávislí,50,Lenka Šlachtová,,,65,bezpečnostní pracovnice ostrahy,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-51,16,SPD a nezávislí,51,Libuše Čermáková,,,54,kuchařka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-52,16,SPD a nezávislí,52,Jarmila Motalová,,,76,projektová manažerka,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-53,16,SPD a nezávislí,53,Nikola Hruban,,,36,barman,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-54,16,SPD a nezávislí,54,Jaroslav Smoleňák,,,58,vedoucí pracovník údržby,A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8
+2026-16-55,16,SPD a nezávislí,55,Karel Cholek,,,66,"strojní technolog, zastupitel MČ Brno-Slatina",A,,ne,ne,,,bez shody mezi 61 držiteli mandátu období,73b68b4ff9d559e8

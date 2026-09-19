@@ -1,0 +1,1591 @@
+Rada města Brna                                                                                     B | R | N | o l
+
+Z9/37. zasedání Zastupitelstva města Brna
+konané dne 15.9.2026
+
+
+
+277. Návrh plánovací smlouvy „Obytný blok Skořepka Vlhká, Brno
+
+Anotace
+Předmětem plánovací smlouvy je dohoda mezi městem a investorem o vybudování dopravní a technické
+infrastruktury v rámci výstavby nového obytného bloku mezi ulicemi Skořepka, Vlhká a Koliště,
+koordinaci této stavby s investičním záměrem města - bytového domu a mateřské školy, vybudování
+ploch veřejného prostoru a poskytnutí investičního příspévku investorem městu ve výši 26.872.572 Kč.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                     Plánovací smlouvu „Obytný blok Skořepka - Vlhká, Brno“ mezi statutárním městem
+                                 Brnem a společností Hutcham Real, s.r.o., se sídlem Pontassievská 944/10, 669 02
+                                 Znojmo, IČO: 080 82 065, která tvoří přílohu č. ... tohoto zápisu.
+
+2. pověřuje                     vedoucího Odboru investičního MMB podpisem plánovací smlouvy.
+
+
+Stanoviska
+
+
+Materiál bude projednán na R9/192. schůzi Rady města Brna konané dne 9. 9. 2026.
+Stanovisko bude sděleno.
+
+
+
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+   Ing. Tomáš Pivec MBA
+  vedoucí odboru - Odbor investiční
+   8.9.2026 v 08:29
+  Garance správnosti, zákonnosti materiálu
+
+ Spolupodepisovatel
+
+  Elektronicky podepsáno
+   Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+   8.9.2026 v 08:00
+
+
+
+Sestava vytvořena 8.9.2026 v 08:29                             1/1                             Vygenerováno programem eMMB
+
+
+                                                                                                                Strana 1/36
+                                                                s|a|uJoj
+
+
+                                    Obsah materiálu
+Návrh usnesení                                                      1-1
+Obsah materiálu                                                     2-2
+Důvodová zpráva                                                     3-4
+Příloha k usnesení (Plánovací smlouva Skořepka final RMB.pdf)      5-24
+Příloha k usnesení (Příloha č. 1 PS Skořepka.pdf)                 25-25
+Příloha k usnesení (Příloha č. 2 PS Skořepka.pdf)                 26 - 26
+Příloha k usnesení (Příloha č. 3 PS Skořepka.pdf)                 27-27
+Příloha k usnesení (Příloha č. 4 PS Skořepka.pdf)                 28-28
+Příloha k usnesení (Příloha č. 4 PS Skořepka 2.pdf)               29 -209
+Příloha k usnesení (Příloha č. 5 PS Skořepka.pdf)                 30 - 30
+Informační dokument (Vizualizace.pdf)                             31 - 36
+
+
+
+
+                                                                      NOE e:107: PAST)
+                                      Důvodová zpráva
+
+Statutární město Brno (dále jen „„Město Brno“) a společnost Hutcham Real, s.r.o.,
+IČO: 080 82 065, se sídlem Pontassievská 944/10, 669 02 Znojmo (dále jen „Investor“)
+společně uzavřely Memorandum o spolupráci ze dne 08.02.202T, jehož předmětem bylo
+stanovení základních principů a vzájemných očekávání při celkové revitalizaci území
+označovaného jako Skořepka, v k.ú. Trnitá, a stanovení zásad pro nové vlastnické uspořádání
+území.
+
+Záměrem Města Brna a Investora je realizovat v městské části města Brna Brno-střed,
+v lokalitě ulic Vlhká x Skořepka x Koliště Investiční záměr pod názvem „OBYTNÝ BLOK
+SKOŘEPKA-VLHKÁ, BRNO“ dále jen „Investiční záměr“.
+Na řešeném území budou umístěny čtyři nové budovy (objekty — A, B, C a D), včetně
+venkovních úprav týkajících se dopravní přístupnosti a úpravy veřejného prostoru. Investorem
+objektu A je Město Brno a investorem objektů B, C a D je Investor.
+
+Pro uvedený Investiční záměr byla dne (02/2026) generálním projektantem společností EA
+architekti s.r.o., ICO: 29194865, se sídlem Rezkova 934/54, 602 00 Brmo zpracována
+Dokumentace pro povolení záměru.
+
+Na základě výše uvedeného tedy došlo s Investorem k dohodě o uzavření Plánovací smlouvy
+„Obytný blok Skořepka Vlhká, Brno“ (dále jen „Smlouva“).
+
+Předmětem předkládané smlouvy je stanovení podmínek spolupráce Města Brna a Investora
+při přípravě a realizaci Investičního záměru, úprava práv a povinností obou stran pro zajištění
+budoucího vlastnictví, správy, provozování a údržby nezbytné veřejné infrastruktury
+a stanovení podmínek poskytnutí a rozsahu Investičního příspěvku.
+
+V rámci Investičního záměru bude Investorem vybudována následující nezbytná veřejná
+infrastruktura, která bude následně převedena do vlastnictví Města Brna, které zajistí její
+správu, údržbu a provozování:
+-      TS 04.1 — Prodloužení stoky splaškové kanalizace
+-      TS 05.1 — Prodloužení vodovodního řadu
+-      TS 05.2— Přípojky vody ABCD a zrušení stávající vodovodní přípojky
+-      TS 07.1 — Hospodaření s dešťovými vodami — retence, vsaky, veřejný prostor
+-      TS 10.1— Rozvody VO -— část I
+-      TS 10.2— Rozvody VO — část II
+-      PS 01.1 — Doprava veřejného prostranství — vjezd objekt D (SO 04)
+-      PS 01.2 — Doprava — vjezd objekt B
+-      PS 01.3— Doprava — vjezd objekt C
+-      PS 01.4- Křižovatka; PS 01.5 - Komunikace a parkovací stání; PS 01.6 - Chodník
+       v nové ulici
+-      PS 02.1 — Sadové úpravy — veřejné prostranství
+-      PS 02.4— Sadové úpravy
+
+Smluvní strany se dohodly, že Investor poskytne Městu Brnu Investiční příspěvek ve formě
+peněžního plnění a nepeněžního plnění.
+Peněžní plnění Investor poskytne Městu Brnu do Fondu developerských projektů, které je
+sjednáno v předběžné celkové výši 26.872.572 Kč.
+
+
+
+
+                                                                                             Strana 3 /36
+ Splatnost peněžního plnění je rozdělena do dvou příp. dalších splátek. a to následovně:
+1. splátka — první část Peněžního plnění ve výši 10% z předpokládané výše Investičního
+příspěvku ve formě Peněžního plnění, tj. částku ve výši 2.687 257,20 Kč, poskytne Investor
+Městu do 60 dnů od nabytí právní moci povolení Investičního záměru; částka bude k datu
+nabytí právní moci povolení Investičního záměru upravena o inflaci dle čl. 7.6. smlouvy.
+
+2. splátka Peněžního plnění bude uhrazena po nabytí právní moci kolaudačního rozhodnutí
+pro danou etapu Investičního záměru dle Dokumentace skutečného provedení pro danou etapu
+Investičního záměru, od kterého se odečte (1) výše 1. splátky bez valorizace, tj. příslušné
+procento z předpokládané výše Investičního příspěvku ve formě Peněžního plnění, a (11)
+hodnota Nepeněžního plnění poskytovaného dle této smlouvy upravená o inflaci obdobně dle
+čl. 7.6. smlouvy.
+
+Případně další splátky - zbývající část bude uhrazena po nabytí právní moci kolaudačního
+rozhodnutí pro danou etapu Investičního záměru dle Dokumentace skutečného provedení pro
+danou etapu Investičního záměru; částka pro danou etapu investičního záměru bude k datu
+podání žádosti o vydání kolaudačního rozhodnutí pro danou etapu Investičního záměru
+upravena o inflaci dle čl. 7.6. smlouvy.
+
+Investor dále bezúplatně převede Městu Brnu kompletní projektovou dokumentaci pro
+povolení záměru k objektu A (SO 01 — bytový dům s MŠ) v hodnotě ve výši 2.985.000 Kč,
+a to nejpozději do 31.12.2026, včetně výhradní postupitelné licence k autorskému dílu.
+Investor se zavazuje zajistit spolu s vypracováním projektové dokumentace inženýring stavby
+vč. získání pravomocného povolení záměru k objektu A. Investor se zavazuje do devadesáti
+(90) dnů ode dne nabytí právní moci takového rozhodnutí bezúplatně převést na město práva
+stavebníka z takto pravomocného rozhodnutí týkající se objektu A. Město se zavazuje
+poskytnout Investorovi veškerou nezbytnou součinnost.
+
+V rámci Investičního záměru bude Investorem vybudováno také veřejně přístupné
+prostranství určené k obecnému užívání širokou veřejností. Umístění veřejného prostranství
+se předpokládá na pozemcích (část) 1092/1, parc. č. 1092/2, parc. č. 1092/3, parc. č. 1093/2,
+(část) parc. č. 1093/1, (část) parc. č. 1087/1, parc. č. 1093/6 a parc. č. 1096 a (část) parc. č.
+1097/1 vše vk.úů. Trnitá, obec Brno, přičemž se předpokládá uzavření smlouvy o zřízení
+služebnosti užívání veřejného prostranství ve prospěch Města. Služebnost bude zřízena
+bezúplatně, na dobu neurčitou a ve prospěch Města Brna, přičemž její rozsah bude vymezen k
+celým dotčeným pozemkům nebo k jejich částem podle geometrického plánu, který na své
+náklady zajistí Investor. Veškeré náklady na údržbu veřejného prostranství ponese Investor.
+ Přílohy smlouvy tvoří:
+a)       Příloha č. 1: Koordinační situace Investičního záměru
+b)       Příloha č. 2: Katastrální výkres Investičního záměru
+c)       Příloha č. 3: Situace Nezbytné veřejné infrastruktury
+ d)      Příloha č. 4: Situace odsouhlasené OD a BKOM ze dne 12.3.2026
+e)       Příloha č. 5: Situace veřejného prostranství
+
+Návrh Smlouvy byl připraven ze strany Města Brna s přihlédnutím k připomínkám Investora.
+
+Materiál nebyl z časových důvodů projednán v Komisi investiční RMB.
+
+Materiál byl projednán na R9/192. schůzi Rady města Brna konané dne 9. 9. 2026.
+Stanovisko bude sděleno.
+
+
+
+
+                                                                                              Strana 4/36
+                                         Plánovací smlouva
+                               Obytný blok Skořepka — Vlhká, Brno
+       uzavřená dle $ [30 a násl. zákona č. 283/2021 Sb., stavební zákon, ve znění pozdějších
+    předpisů a dle Zásad pro spolupráci s investory na rozvoji veřejné infrastruktury statutárního
+                                             města Brna
+
+Smluvní strany:
+Statutární město Brno
+se sídlem Dominikánské náměstí 196/1, Brno-město, 602 00 Brno
+IČO: 449 92 785
+Zastoupené JUDr. Markétou Vaňkovou, primátorkou města Brna
+k podpisu smlouvy pověřen: Ing. Tomáš Pivec, MBA, vedoucí Odboru investičního
+Magistrátu města Brna
+č. účtu Fondu developerských projektů: 111385222/0800
+(dále také jako „Město“)
+
+a
+
+
+Hutcham Real, s.r.o.
+se sídlem Pontassievská 944/10, 669 02 Znojmo
+IČO: 08082065
+společnost zapsaná v obchodním rejstříku vedeném u Krajského soudu v Brně, pod sp. zn. C
+148753
+zastoupená jednatelem (B) Ing. Ladislavem Fňoukou, Sokolská 571, 373 11 Ledenice,
+den vzniku funkce 4. listopadu 2025 a jednatelem (B) Otou Kohoutkem, Sadová 469, 669 02
+Suchohrdly, den vzniku funkce 4. listopadu 2025
+
+(dále také jako „Investor“)
+
+(Město a Investor dále společně jako Smluvní strany)
+
+                                         1.   Uvodní ustanovení
+1.1. Investor hodlá realizovat Investiční záměr (jak je podrobněji definován dále v této
+     smlouvě). Smluvní strany si jsou vědomy, že Investiční záměr vyvolá v dotčeném území
+     zvýšené nároky na Veřejnou infrastrukturu, které bude nezbytné uspokojit. Podpora nové
+     výstavby je v zájmu Města a Investor má zájem se na rozvoji území dotčeného Investičním
+     záměrem podílet.
+1.2. Zasazovat se o všestranný rozvoj svého území a zvyšování jeho kvality a nabídky
+     příležitostí pro život lidí je základní povinností Města v jeho samostatné působnosti
+     vyplývající z ústavně zaručeného práva na samosprávu podle čl. 8 a čl. 100 Ústavy České
+     republiky. O tento rozvoj se může Město zasazovat rovněž prostřednictvím spolupráce
+     s Investorem v souvislosti s Investičním záměrem.
+1.3. Tato smlouva je uzavřena podle pravidel obsažených v Zásadách pro spolupráci s investory
+     na rozvoji veřejné infrastruktury statutárního města Brna, aktuálně platnými v době
+     uzavření této smlouvy (dále jen „Zásady““). Pojmy užívané s velkým písmenem
+     nedefinované v této smlouvě, mají stejný význam jako v Zásadách.
+1.4. Město     před   uzavřením   této   smlouvy   posoudilo   její zamýšlený   obsah   a konstatuje,
+       že uzavření této smlouvy naplňuje podmínky dle $ 130 a násl. Stavebního zákona, jakož
+
+                                                     1
+
+
+
+                                                                                                   Strana 5 /36
+    1 $ 159 odst. 2 Správního řádu, jelikož uzavření této smlouvy je v souladu s veřejným
+    zájmem. Soulad s veřejným zájmem plyne především z dále uvedeného:
+       a) | smlouva byla sjednána v rámci předvídatelného, transparentního           a rovného
+            postupu podle Zásad při respektování jejich principů;
+       b) | Město prostřednictvím této smlouvy a spolupráce z ní vyplývající získalo možnost
+              vyjádřit se k základním aspektům a podobě Investičního záměru, přičemž postoje
+              a vyjádření Města Investor zohlednil a reflektoval v podobě Investičního záměru,
+              což přispělo k participaci Města a spolupráci s Investorem na budoucí podobě
+              území Města;
+       c) | Investiční příspěvek byl sjednán na základě Zásad jako spoluúčast Investora na
+            zvýšených nákladech Města na Veřejnou infrastrukturu nebo Veřejné služby.
+
+                                     2.   Předmět smlouvy
+2.1. Předmětem této smlouvy je stanovení podmínek spolupráce Smluvních stran při přípravě
+     a realizaci Investičního záměru, úprava práv a povinností Smluvních stran pro zajištění
+     budoucího vlastnictví, správy, provozování a údržby Nezbytné veřejné infrastruktury
+     a stanovení podmínek poskytnutí a rozsahu Investičního příspěvku.
+2.2. Investor se touto smlouvou zavazuje za podmínek stanovených níže zejména:
+       a) | dodržet Základní parametry Investičního záměru;
+       b) | vybudovat a převést do vlastnictví Města Nezbytnou veřejnou infrastrukturu;
+       c) © zřídit Služebnost veřejného užívání k Veřejnému prostranství Investičního záměru;
+            a
+       d) | poskytnout Městu Investiční příspěvek.
+2.3. Město se touto smlouvou zavazuje za podmínek stanovených níže zejména:
+       a)   | nezměnit ÚPmB či nepřijmout nový územní plán, v jejichž důsledku by nebylo
+              možné realizovat Investiční záměr;
+       b)      nepodávat opravné prostředky proti Investičnímu záměru z důvodů, které jsou
+              v souladu se Základními parametry; a
+       c) | poskytnout Investorovi nezbytnou součinnost       v rámci   samostatné   působnosti
+            při povolení a realizaci Investičního záměru.
+
+                                     3.   Investiční záměr
+
+3.1. Investor a Město hodlají realizovat v městské části města Brna Brno-střed, v lokalitě ulic
+     Vlhká x Skořepka x Koliště investiční záměr pod názvem „OBYTNÝ BLOK
+      SKOŘEPKA-VLHKÁ, BRNO“. Na řešeném území budou umístěny 4 nové budovy
+     (objekty — A, B, C a D) vč. venkovních úprav týkajících se dopravní přístupnosti a úpravy
+     veřejného prostoru. Investorem objektu A je Město a investorem objektů B, C a D
+     je Investor.
+3.2. Mezi Městem a Investorem byly za účelem majetkoprávní přípravy a koordinace jejich
+     investičních záměrů uzavřeny tyto smlouvy:
+   - © Memorandum o spolupráci ze dne 08.02.2021, jejímž předmětem bylo stanovení
+       základních principů a vzájemných očekávání při celkové revitalizaci území Skořepka —
+       Brno   3
+
+
+
+
+                                                                                             Strana 6/36
+   - © Směnnou smlouvu, smlouvu o zřízení služebnosti, smlouvu o spolupráci, smlouvu
+       o zřízení předkupního práva a smlouvu o zřízení zákazu zcizení ze dne 29.07.2022,
+       jejímž předmětem bylo první vlastnické uspořádání území Skořepka — Brmo,
+   - © Kupní smlouvu ze dne 09.08.2024, jejímž předmětem byl převod vlastnického práva
+       k pozemku parc. č. 1087/7 v k.ú. Trnitá, obec Brno z vlastnictví Investora do vlastnictví
+       Města,
+   - © Směnnou smlouvu, smlouvu o zřízení práva stavby, smlouvu o zřízení služebností,
+       smlouvu o smlouvě budoucí o smlouvě o zřízení služebnosti a smlouvu o spolupráci ze
+       dne 19.02.2025, jejímž předmětem bylo druhé vlastnické uspořádání území Skořepka —
+       Brno.
+
+3.3. Pro Investiční záměr byla (02/2026) generálním projektantem společností EA architekti
+    s..o., ICO: 29194865, se sídlem Rezkova 934/54, 602 00 Brno zpracována Dokumentace
+    pro povolení záměru (dále jen „Dokumentace“). Koordinační situace a katastrální situační
+    výkres, které jsou součástí Dokumentace, tvoří přílohy č. 1 a č. 2 této smlouvy.
+3.4. Smluvní strany se dohodly, že Investor je povinen dodržet a respektovat v každé fázi
+     realizace a existence Investičního záměru následující základní parametry Investičního
+     záměru, které byly stanoveny na základě Dokumentace (dále jen „Základní parametry“):
+       a) | rozsah HPP Investičního záměru může činit maximálně (22 393,81 m?);
+       b)      výška Investičního záměru může činit maximálně 25,5 m s lokální dominantou
+               max. 34 m;
+       c)      Investiční záměr může obsahovat maximálně 260 bytových jednotek a maximálně
+               11 nebytových jednotek:
+       d) | Investiční záměr musí obsahovat minimálně 160 parkovacích stání.
+3.5. Nestanoví-li tato smlouva jinak, je možné povolit odchylku od Základních parametrů
+     na základě písemné odůvodněné žádosti Investora adresované Městu, přičemž odchylka se
+     povoluje na základě písemného souhlasu uděleného souhlasem vydaným na základě
+     rozhodnutí (souhlasu) rady Města. Změna Základních parametrů dle předchozí věty nabývá
+     účinnosti k okamžiku, kdy je souhlas Města doručen Investorovi, o čemž musí Investor
+     následně Město bez zbytečného odkladu informovat. V případě, že bude povolena
+     odchylka od Základního parametru spočívajícím v rozsahu HPP Investičního záměru,
+     bude součástí souhlasu 1 informace o navýšení Investičního příspěvku a zohlednění tohoto
+     navýšení ve druhé splátce Peněžního plnění. Realizace Investičního záměru v souladu
+     s povolenou odchylkou není porušením Základních parametrů.
+3.6. Smluvní strany se ve smyslu $ 130 Stavebního zákona zavazují poskytnout si vzájemně
+     součinnost při přípravě a uskutečňování Investičního záměru a dále postupovat při jeho
+    uskutečňování     ujednaným   způsobem,   to vše   vrozsahu   a za podmínek   uvedených   dále
+    v této smlouvě.
+       Zahájení a ukončení výstavby Investičního záměru
+3.7. Investor předpokládá zahájení výstavby Investičního záměru do dvou (2) let od nabytí
+     právní moci rozhodnutí o povolení Investičního záměru.
+3.8. Investor se zavazuje dokončit výstavbu Investičního záměru nejpozději do pěti (5) let
+     od nabytí právní moci rozhodnutí o povolení Investičního záměru. Dokončením výstavby
+     se rozumí nabytí právní moci kolaudačního rozhodnutí pro Investiční záměr včetně
+     Nezbytné veřejné infrastruktury.
+
+
+
+
+                                                                                               Strana 7 /36
+             Provádění Investičního záměru
+3.9. Investor je povinen zpracovat veškerou stavebně technickou dokumentaci potřebnou pro
+     Investiční záměr a zajistit vydání veškerých povolení a rozhodnutí příslušných orgánů
+     potřebných k provedení Investičního záměru v souladu se Standardy Města a Základními
+     parametry. Investor je povinen provést výstavbu Investičního záměru v souladu se
+     Standardy Města, Základními parametry, vydanými rozhodnutími a obecně závaznými
+     právními předpisy upravujícími provádění výstavby.
+3.10.       Investor se zavazuje informovat Město o průběhu provádění výstavby Investičního
+         záměru a předložit Městu pravomocné povolení pro Investiční záměr do 30 dní ode dne
+         nabytí právní moci.
+3.11.       Investor se zavazuje provést nezbytná opatření na pozemcích dotčených výstavbou
+         Investičního záměru zabraňující ohrožení veřejných zájmů. Pro účely této smlouvy se
+         nezbytným opatřením zabraňujícím ohrožení veřejných zájmů rozumí zejména umožnění
+         vjezdu zdravotnických vozidel, vozidel hasičů apod.
+3.12..      Investor se zavazuje, že Investičním záměrem nedojde ke znečištění povrchových ani
+         podzemních vod a že stavební odpad bude z místa vzniku bezodkladně odstraňován tak,
+         aby nedocházelo k nepříznivému a nepřiměřenému estetickému či hygienickému dopadu
+         na životní prostředí. Při provádění stavebních prací bude dbáno na to, aby negativní vlivy
+         na přilehlé okolí, zejména dočasná hlučnost a prašnost, byly minimalizovány a Investor
+         odpovídá za veškerou újmu vzniklou při provádění výstavby.
+
+                                 4.   Nezbytná veřejná infrastruktura
+4.1. V rámci Investičního záměru bude vybudována                 nezbytná   veřejná   infrastruktura,
+     která bude převedena do vlastnictví Města:
+         - © TS 04.1 — Prodloužení stoky splaškové kanalizace
+         - © TS 05.1 — Prodloužení vodovodního řadu;
+         -   TS 07.1- Hospodaření s dešťovými vodami — retence, vsaky, veřejný prostor
+         -   TS 10.1— Rozvody VO -— část I
+         -   TS 10.2- Rozvody VO -— část II
+         - © PS 01.1— Doprava veřejného prostranství — vjezd objekt D (SO 04)
+         - © PS 01.2- Doprava- vjezd objekt B
+         - © PS 013- Doprava- vjezd objekt C
+         -   PS 01.4- Křižovatka; PS 01.5 - Komunikace a parkovací stání; PS 01.6 - Chodník
+             v nové ulici
+         - © PS 02.1— Sadové úpravy — veřejné prostranství
+         -   PS 02.4- Sadové úpravy
+             (dále jen „Nezbytná veřejná infrastruktura“)
+
+             TS 04.1 — Prodloužení stoky splaškové kanalizace
+                Objekt řeší vybudování nové splaškové kanalizační stoky a její napojení na stávající
+                kanalizační systém. Nová kanalizační stoka bude sloužit pro odvedení splaškových
+                vod z řešeného obytného bloku. Do nové stoky budou napojeny kanalizační přípojky
+                objektů A a B. Stavební objekt bude umístěn do pozemků parc. č. 1093/6,
+                parc. č. 1096, parc. č. 1097/1 a parc. č. 1099/1 vše v k.ú. Trnitá, obec Brno;
+             TS 05.1 — Prodloužení vodovodního řadu;
+
+
+
+
+                                                                                                  Strana 8 / 36
+       Objekt řeší Vybudování nového vodovodního řadu, napojeného na stávající
+       vodovodní řad DN 150 LI v majetku SMB - správa BVaK a dále výstavbu dvou
+       nových vodovodních přípojek pro objekt SO 01 A a pro objekt SO 02 B, které budou
+       napojeny na výše uvedený nový vodovod. Součástí objektu je také zrušení stávající
+       vodovodní přípojky. Stavební objekt bude umístěn do pozemků parc. č. 1093/6,
+       parc. č. 1096, parc. č. 1097/1 a parc. č. 1099/1 vše v k.ú. Trnitá, obec Brno.
+-   TS 07.1— Hospodaření s dešťovými vodami — retence, vsaky, veřejný prostor
+      Objekt řeší vybudování nově zhotovovaného dešťového potrubí pro odvádění
+      srážkových vod z nově budované komunikace, včetně chodníků a parkovacích stání
+      pro přístup k budoucím objektům A, B, D. Srážkové vody budou potrubím svedeny
+      do vsakovacího zařízení na pozemku stavebníka. Vsakovací objekt i dešťové potrubí
+      je dimenzovány na celý veřejný prostor s komunikací u objektu A, B a D. Stavební
+      objekt bude umístěn do pozemků parc. č. 1087/1, parc. č. 1092/1, parc. č. 1092/2,
+      parc. č. 1092/3, parc. č. 1093/2, parc. č. 1093/6, parc. č. 1096 a parc. č. 1097/1
+      vše v kú. Trnitá, obec Brno.
+-   TS 10.1— Rozvody VO - část I
+       Objekt řeší vybudování nové části VO veřejné trvalé komunikace a přeložku VO
+       vulici Vlhká. Stavební objekt bude umístěn do pozemků parc. č. 684,
+       parc. č. 1094/1, parc. č. 1096, parc. č. 1097/1 a parc. č. 1099/1 vše v k.ú. Trnitá, obec
+       Brno.
+-   TS 10.2— Rozvody VO -— část II
+       Objekt řeší 2. etapu vybudování nového VO obytného bloku. Navrženo je 12 nových
+       světelných bodů, z toho sedm pro osvětlení komunikace a pět pro osvětlení
+       chodníku.     Stavební objekt bude umístěn do pozemků parc. č. 1092/1,
+       parc. č. 1092/2, parc. č. 1093/6 a parc. č. 1097/1 vše v k.ú. Trnitá, obec Brno.
+- © PS 01.1 Doprava veřejného prostranství — vjezd objekt D (SO 04)
+       Objekt řeší vybudování nové veřejně přístupné místní komunikace navazující na
+       komunikaci řešenou objekty PS 01.4—01.6. Součástí objektu je 17 parkovacích stání,
+       chodník podél budovy, sjezd do bytového domu a související zpevněné plochy.
+       Řešeným projektem je zároveň zrušená dočasná komunikace, kterou sousední
+       projekt navrhl do doby výstavby trvalé místní komunikace. Stavební objekt bude
+       umístěn do pozemků parc. č. 1087/1, parc. č. 1092/1, parc. č. 1092/2, parc. č. 1092/3,
+       parc. č. 1093/1, parc. č .1093/2 a parc. č. 1093/6 vše v k.ú. Trnitá, obec Brno.
+- © PS01.2 Doprava — vjezd objekt B
+       Objekt řeší dopravní napojení podzemních garáží objektu B na místní komunikace
+       ul Vlhká včetně čekacího prostoru před auto výtahy a úpravy navazujícího
+       chodníku. Stavební objekt bude umístěn do pozemků parc. č. 1099/1 a parc. č. 1096
+       oba v ků. Trnitá, obec Brno.
+- © PS01.3 Doprava — vjezd objekt C
+       Objekt řeší napojení podzemních garáží objektu C na místní komunikaci
+       ul Skořepka včetně úpravy uličního prostoru pro míjení protijedoucích vozidel.
+       Stavební objekt bude umístěn do pozemku parc. č. 1079/1 v k.ú. Trnitá, obec Brno.
+- © PS 01.4 - Křižovatka; PS 01.5 - Komunikace a parkovací stání; PS 01.6 - Chodník
+    v nové ulici
+       Objekty řeší Soubor dopravních staveb zahrnující novou křižovatku z ul. Vlhká,
+       novou komunikaci, parkovací stání a nový chodník před objekty A a B:
+
+
+
+
+                                                                                             Strana 9/36
+            PS 01.4 — Křižovatka - úprava napojení nové místní komunikace na stávající
+           jednosměrnou komunikaci v ulici Vlhká. Součástí objektu jsou související úpravy
+            zpevněných ploch a doplnění chodníku podél ulice Vlhká. Stavební objekt bude
+            umístěn do pozemků parc. č. 684, parc. č. 1094/1, parc. č. 1096, parc. č. 1097/1
+            a parc. č. 1099/1 vše v k.ú. Trnitá, obec Brno.
+            PS 01.5 — Komunikace a parkovací stání - vybudování nové obousměrné místní
+           komunikace. Součástí objektu je 12 parkovacích stání, plochy zeleně mezi
+           vybranými parkovacími místy a sjezd ke stávajícímu objektu. Stavební objekt bude
+           umístěn do pozemků parc. č. 1094/1, parc. č. 1096, parc. č. 1097/1, parc. č. 1093/6
+           vše v kú. Trnitá, obec Brno.
+           PS 01.6— Chodník v nové ulici - vybudování nového chodníku podél nově navržené
+           komunikace. Stavební objekt bude umístěn do pozemků parc. č. 1097/1
+           a parc. č. 1093/6 oba v k.ú. Trnitá, obec Brno.
+    - © PS 02.1 — Sadové úpravy — veřejné prostranství
+           Objekt řeší sadové a vegetační úpravy ploch: výsadbu nových stromů, založení
+           trvalkových záhonů, trávníkových a mlatových ploch. Stavební objekt bude umístěn
+           do pozemků parc. č. 1087/1, parc. č. 1092/1, parc. č. 1092/2, parc. č. 1092/3,
+           parc. č. 1093/1, parc. č. 1093/2, parc. č. 1093/6 a parc. č. 1094/1 vše v k.ú. Trnitá,
+           obec Brno.
+    -   PS 02.4- Sadové úpravy
+           Objekt řeší asanaci stávajících dřevin, výsadbu stromů, založení trvalkových záhonů
+           a trávníků. Stavební objekt bude umístěn do pozemků parc. č. 1093/6,
+           parc. č. 1094/1, parc. č. 1096 a parc. č. 1097/1 vše v k.ú. Trnitá, obec Brno.
+4.2. Financování výstavby Nezbytné veřejné infrastruktury zajistí Investor na své náklady.
+    Dopravní infrastruktura a Sadové úpravy
+4.3. Investor se zavazuje nejpozději do jednoho (1) roku ode dne nabytí právní moci
+     kolaudačního rozhodnutí pro stavební objekty PS 01.1., PS 0.1.2., PS 0.1.3, PS 01.4.,
+     PS 01.5.,PS01.6.,PS02.1.PS024aTS07.1 dále jen „Dopravní infrastruktura a Sadové
+     úpravy“ doručit Městu písemnou žádost o uzavření smlouvy o převodu Dopravní
+     infrastruktury a Sadových úprav do vlastnictví Města, a to včetně částí pozemků dotčených
+     Dopravní infrastrukturou a Sadovými úpravami, které nebudou ke dni takové žádosti
+     ve vlastnictví Města.
+4.4. Investor se zavazuje uzavřít smlouvu o převodu Dopravní infrastruktury a Sadových úprav
+     nejpozději do dvou (2) let od nabytí právní moci kolaudačního rozhodnutí pro Dopravní
+     infrastrukturu a Sadové úpravy.
+4.5. Město se zavazuje zaplatit Investorovi za převod Dopravní infrastruktury a Sadových úprav
+     včetně příslušné části pozemků pod Dopravní infrastrukturou a Sadovými úpravami
+     celkem částku ve výši 1.000,- Kč včetně DPH.
+4.6. Investor se zavazuje na své náklady zajistit zpracování geometrického plánu skutečného
+     zaměření Dopravní infrastruktury a Sadových úprav, resp. pozemků pod Dopravní
+     infrastrukturou a Sadovými úpravami, a zajistit jeho potvrzení příslušným katastrálním
+     úřadem. Investor se zavazuje zajistit do doby převodu Dopravní infrastruktury a Sadových
+     úprav do vlastnictví Města na své náklady jejich správu a údržbu.
+        Veřejné osvětlení
+4.7. Investor se zavazuje nejpozději do jednoho (1) roku ode dne nabytí právní moci
+     kolaudačního rozhodnutí pro stavební objekty veřejného osvětlení (TS 10.1., TS 10.2.)
+
+
+
+
+                                                                                              Strana 10/36
+         dále jen „Veřejné osvětlení“ doručit Městu písemnou          žádost   o uzavření   smlouvy
+         o převodu Veřejného osvětlení do vlastnictví Města.
+4.8. Investor se zavazuje uzavřít smlouvu o převodu Veřejného osvětlení nejpozději
+     do dvou (2) let od nabytí právní moci kolaudačního rozhodnutí pro Veřejné osvětlení.
+4.9. Město      se zavazuje zaplatit Investorovi za převod Veřejného osvětlení částku ve výši
+         1.000,- Kč včetně DPH.
+4.10.        V případě, že se v době převodu Veřejného osvětlení do vlastnictví Města, bude Veřejné
+         osvětlení nacházet na pozemcích jiného vlastníka než Města, je Investor povinen zajistit
+         uzavření bezúplatné smlouvy o zřízení služebnosti mezi Městem, provozovatelem
+         Veřejného osvětlení a vlastníkem pozemku. V případě požadavku vlastníka pozemku na
+         úhradu úplaty za zřízení služebnosti se zavazuje Investor poskytnout bezúplatně na účet
+         Města částku požadovanou vlastníkem takových pozemků za zřízení služebnosti. Investor
+         je povinen na své náklady zajistit zpracování geometrického plánu pro vyznačení věcného
+         břemene k části pozemku, na kterém se nachází Veřejné osvětlení, a zajistit jeho potvrzení
+         příslušným katastrálním úřadem. Investor se zavazuje, že do doby převodu Veřejného
+         osvětlení do vlastnictví Města zajistí na své náklady provoz, správu a údržbu Veřejného
+         osvětlení.
+            Vodovodní a kanalizační síť
+4.11.       Investor se zavazuje v dostatečném předstihu, nejpozději 20 dnů před podáním žádosti
+         o vydání kolaudačního rozhodnutí pro stavební objekty (TS 04.1. a TS 05.1.) dále jen
+         „Vodovodní a kanalizační síť“ doručit Městu písemnou žádost o uzavření smlouvy
+         o převodu Vodovodní a kanalizační sítě do vlastnictví Města.
+4.12.       Investor se zavazuje uzavřít smlouvu o převodu Vodovodní a kanalizační sítě nejpozději
+         do šesti (6) měsíců od nabytí právní moci kolaudačního rozhodnutí pro Vodovodní
+         a kanalizační síť.
+4.13..      Město se zavazuje zaplatit Investorovi za převod Vodovodní a kanalizační sítě částku
+         ve výši 1.000,- Kč včetně DPH za každý stavební objekt Vodovodní a kanalizační sítě.
+4.14..      V případě, že se v době převodu Vodovodní a kanalizační sítě do vlastnictví Města bude
+         Vodovodní a kanalizační síť nacházet na pozemcích jiného vlastníka než Města, je Investor
+         povinen zajistit uzavření bezúplatné smlouvy o zřízení služebnosti mezi Městem,
+         provozovatelem Vodovodní a kanalizační sítě a vlastníkem pozemku. V případě požadavku
+         vlastníka pozemku na úhradu úplaty za zřízení služebnosti se zavazuje Investor poskytnout
+         bezúplatně na účet Města částku požadovanou vlastníkem takového pozemku za zřízení
+         služebnosti. Investor je povinen na své náklady zajistit zpracování geometrického plánu
+         pro vyznačení věcného břemene k části pozemku, na kterém se nachází Vodovodní
+         a kanalizační síť, a zajistit jeho potvrzení příslušným katastrálním úřadem.
+4.15..      V případě, že Vodovodní a kanalizační síť nebude z jakýchkoliv důvodů převedena do
+         vlastnictví Města se Investor zavazuje uzavřít s Městem, v dohodnuté lhůtě, dohodu mezi
+         vlastníky provozně      souvisejících vodovodů      a kanalizací pro veřejnou potřebu
+         dle ust. $ 8 zákona č. 274/200T Sb., zákona o vodovodech a kanalizacích pro veřejnou
+         potřebu, ve znění pozdějších předpisů.
+            Společná ustanovení
+4.16.       Převody Nezbytné veřejné infrastruktury budou realizovány dle platných podmínek pro
+         převody novostaveb do vlastnictví Města.
+4.17..      Město se zavazuje převzít Nezbytnou veřejnou infrastrukturu do svého vlastnictví
+         a zajistit její provozování, správu a údržbu za těchto podmínek:
+
+
+
+
+                                                                                                 Strana 11/36
+            a) | Nezbytná veřejná infrastruktura bude vybudována bez vad a nedodělků v souladu
+                 se Standardy Města a povoleními příslušných správních orgánů a bude pro ni
+                 vydáno pravomocné kolaudační rozhodnutí;
+            b)      Investor poskytne Městu záruku na Nezbytnou veřejnou infrastrukturu v délce
+                    alespoň šedesát (60) měsíců od převzetí Nezbytné veřejné infrastruktury Městem
+                    nebo vdélce sjednané ve smlouvě o převodu dané Nezbytné veřejné
+                    infrastruktury;
+            c)      Investor © Městu      předá     dokumenty | související    s Nezbytnou © veřejnou
+                    infrastrukturou, zejména dokumentaci skutečného provedení Nezbytné veřejné
+                    infrastruktury zpracovanou podle účinných právních předpisů, geometrický plán,
+                    záruční listy, technické listy, prohlášení o shodě a další související dokumentaci
+                    Nezbytné veřejné infrastruktury, a to pro řádné, nerušené a bezpečné užívání
+                    předmětu Nezbytné veřejné infrastruktury;
+            d)      bude   zajištěna    funkčnost       celého     systému   vybi udované   Nezbytné         veřejné
+                    infrastruktury;
+            e) | bude zajištěn právní vztah Města nebo příslušného provozovatele či správce
+                 Nezbytné veřejné infrastruktury k pozemkům, na nichž bude Nezbytná veřejná
+                 infrastruktura umístěna (podle konkrétního případu budou převedeny pozemky,
+                 resp. části pozemků pod stavebními objekty příslušné Nezbytné veřejné
+                 infrastruktury na Město, příp. uzavřeny smlouvy o zřízení věcného břemene ve
+                 prospěch Města).
+4.18.       Pokud nebude Nezbytná veřejná infrastruktura převedena z jakéhokoliv důvodu do
+         vlastnictví Města, zavazuje se Investor uzavřít s Městem nejpozději do 3 let ode dne nabytí
+         právní moci kolaudačního rozhodnutí pro příslušnou Nezbytnou veřejnou infrastrukturu
+         smlouvu o zřízení služebnosti k pozemkům ve vlastnictví Města dle „Metodiky pro
+         uzavírání smluv o zřízení služebnosti k služebným pozemkům ve vlastnictví statutárního
+         města Brna dotčeným stavbami inženýrských sítí“ (nestanoví-li tato smlouva u konkrétní
+         Nezbytné veřejné infrastruktury jinak). Za tím účelem zajistí investor na svůj náklad
+         zpracování potřebného počtu geometrických plánů pro vyznačení rozsahu věcného
+         břemene k části pozemku a jejich potvrzení příslušným katastrálním úřadem.
+4.19..      Investor zajistí, aby převáděné pozemky pod Nezbytnou veřejnou infrastrukturou v době
+         převodu do vlastnictví Města nebyly zatíženy exekucí nebo soudním výkonem rozhodnutí,
+         služebností (s výjimkou služebností zřízených ve prospěch Města a jednotlivých vlastníků,
+         správců a provozovatelů inženýrských sítí), dále aby nebyly zatíženy zejména zástavním
+         právem, předkupním právem či jinými právy třetích osob.
+4.20..      Smluvní strany shodně prohlašují, že Nezbytná veřejná infrastruktura bude sloužit
+         obecnému užívání. Je proto ve veřejném zájmu, aby tato mohla být užívána občany
+         obvyklým způsobem. Smluvní strany se výslovně dohodly, že v souvislosti s výstavbou,
+         převodem a správou Nezbytné veřejné infrastruktury, a dalšími činnostmi s těmito
+         souvisejícími, které jsou předpokládány touto smlouvouči zvyklostmi, nebude Investorovi
+         a ani jeho právním nástupcům náležet jakákoliv úplata, náhrada nákladůči jakékoliv jiné
+         plnění, vyjma plnění předpokládaných touto smlouvou, a Investor se tímto jakýchkoliv
+         takovýchto nároků, kdyby v budoucnu 1 přes toto ujednání vznikly, předem vzdává.
+
+                                            5.   Veřejné prostranství
+5.1.V       rámci     Investičního     záměru    bude     na     pozemcích   (část)   1092/1,   parc.   č.   1092/2,
+         parc. č. 1092/3, parc. č. 1093/2, (část) parc. č. 1093/1, (část) parc. č.č 1087/1 „ parc.č. 1093/6,
+
+
+
+
+                                                                                                                 Strana 12/36
+      parc. č. 1096 a (část) parc. č. 1097/1 vše v k.ú. Trnitá, obec Brno realizována výstavba
+      veřejného prostranství (dále jen Veřejné prostranství), jak je zakreslena v příloze č. (5)
+      smlouvy. Jedná se o plochy, které budou mít charakter veřejného prostranství.
+      Pozemky parc. č. 1092/1, parc. č. 1092/2, parc. č. 1092/3, parc. č. 1093/1, parc. č. 1087/1
+      a parc. č. 1097/1 vše vk.ú. Trnitá, obec Brno jsou ke dni uzavření této smlouvy
+      ve vlastnictví Investora.
+
+      Pozemek parc. č. 1096 v k.ú. Trnitá, obec Brno se ke dni uzavření této smlouvy nachází ve
+      vlastnictví Města.
+
+      Pozemky parc. č. 1093/2, parc. č. 1093/6 oba v k.ú. Trnitá, obec Brno se ke dni uzavření
+      této smlouvy nacházejí ve vlastnictví Správy železnic, státní organizace (dále jen SŽ).
+      Město a Investor činí společně kroky k tomu, aby byly pozemky SŽ pod veřejným
+      prostranstvím převedeny do vlastnictví Města nebo Investora.
+
+      V případě, že by nedošlo k převodu vlastnictví pozemků ze SŽ na Město nebo na Investora,
+      zavazuje se Investor uzavřít s Městem smlouvu o zřízení služebnosti užívání veřejného
+      prostranství ke svým pozemkům (část) parc. č. 1092/1, parc. č. 1092/2. parc. č. 1092/3,
+      (část) parc. č. 1093/1, (část) parc. č. 1087/1 a (část) parc. č. 1097/1 vše v k.ú. Trnitá, obec
+      Brno a současně zajistit uzavření téže smlouvy, za níže uvedených podmínek, mezi Městem
+      a SŽ k pozemkům parc. č. 1093/2 a parc. č. 1093/6 oba v kú. Trnitá, obec Brno.
+
+     . Smluvní strany souhlasně prohlašují, že Veřejné prostranství je veřejně přístupný prostor,
+NN)
+la
+
+
+
+
+       který bude sloužit obecnému užívání, tj. veřejnému užívání, užívání širokou veřejností,
+       předem neomezeným okruhem subjektů, a který nebude převeden do vlastnictví Města.
+       Smluvní strany souhlasně prohlašují, že je ve veřejném zájmu, zájmu Města 1 zájmu
+       Investora, aby Veřejné prostranství mohli užívat všichni občané obvyklým, dovoleným
+       a majetek nepoškozujícím způsobem a obě Smluvní strany s tímto užíváním širokou
+       veřejností souhlasí.
+     . Město   a   Investor   se   touto   smlouvou   zavazi ují   uzavřít   mezi   sebou smlouvu    o   zřízení
+VA
+ .
+
+
+
+
+      služebnosti užívání Veřejného prostranství jako veřejného statku, jejímž předmětem bude
+      veřejné užívání Veřejného prostranství s tím, že po veřejně přístupných průchodech lze
+      chodit a dopravovat se po nich lidskou silou, zdržovat se na nich, a to nepřetržitě a bez
+      jakéhokoliv omezení, dvacet čtyři hodin denně (dále jen Služebnost veřejného užívání).
+      Služebnost veřejného užívání bude zřízena k celým pozemkům nebo k jejich částí dle
+      geometrického plánu, který nechá zpracovat a zajistí jeho potvrzení příslušným
+      katastrálním úřadem na své náklady Investor.
+5.4. Služebnost veřejného užívání bude ve prospěch Města zřízena bezúplatně                         a na dobu
+     neurčitou.
+5.5. Veškeré náklady na údržbu Veřejného prostranství ponese Investor a v souvislosti
+     s užíváním Veřejného prostranství nebude Investorovi náležet jakákoliv úplata, náhrada
+     nákladů či jakékoliv jiné plnění a Investor se tímto jakýchkoliv takovýchto nároků, kdyby
+     v budoucnu 1 přes toto ujednání vznikly, předem vzdává.
+26. Smluvní strany se zavazují uzavřít smlouvu o zřízení Služebnosti veřejného užívání
+    nejpozději do dne vydání kolaudačního rozhodnutí pro Investiční záměr nebo jeho části
+    zahrnující některou z částí Veřejného prostranství. Nedohodnou-li se Smluvní strany jinak,
+    účinnost smlouvy o zřízení Služebnosti veřejného užívání bude odložena na okamžik
+    nabytí právní moci kolaudačního rozhodnutí pro Investiční záměr či jeho Část zahrnující
+    Veřejné prostranství či jeho část. Investor se zavazuje, že Město o plánované kolaudaci
+
+
+
+
+                                                                                                             Strana 13/36
+    dopředu vyrozumí a předá Městu všechny               nezbytné   podklady    pro přípravu   návrhu
+    smlouvy. Návrh smlouvy připraví Město.
+5.7. V případě, kdy by z jakýchkoliv právních či faktických důvodů v době, kdy by Služebnost
+    veřejného užívání měla být zřízena, nebylo možné využít institut Služebnosti veřejného
+    užívání, zavazuje se Investor uzavřít s Městem jinou smlouvu či učinit jiné jednání,
+    které zajistí, aby Veřejné prostranství mohly bez omezení a bezúplatně užívat všechny
+    fyzické osoby po dobu neurčitou. Jestliže Služebnost veřejného užívání nebude
+    z jakéhokoliv důvodu zřízena ke dni vydání kolaudačního rozhodnutí pro Investiční záměr,
+    zavazuje se Investor strpět bezúplatné užívání Veřejného prostranství ze strany veřejnosti
+    na základě závazku sjednaného touto smlouvou a stejný závazek sjednat 1 pro své právní
+    nástupce.
+5.8. Investor se zavazuje, že se v době ode dne uzavření této smlouvy až do dne uzavření
+     smlouvy o zřízení Služebnosti veřejného užívání zdrží jakéhokoliv jednání (právního 1
+     faktického), které by zmařilo či jen bylo způsobilé zmařit zřízení Služebnosti veřejného
+     užívání.
+
+                               6.     Závazky a součinnost Města
+6.I. Město touto smlouvou přebírá v dále uvedeném rozsahu a za dále uvedených podmínek
+    závazky dle $ 131 odst. 1 Stavebního zákona.
+6.2. Město se podle $ 131 odst. 1 písm. c) Stavebního zákona po dobu trvání této smlouvy,
+     zavazuje nepřijmout změnu ÚPmB ani jakoukoliv jinou změnu územně plánovací
+     dokumentace či novou územně plánovací dokumentaci nebo jiné opatření obecné povahy,
+     v jejichž důsledku by nebylo možné realizovat Investiční záměr. Za porušení závazku dle
+     tohoto odstavce se nepovažuje změna či přijetí nové územně plánovací dokumentace, která
+     byla vyvolaná nadřazenou územně plánovací dokumentací ve smyslu 8 73 odst.3a 8 112
+     Stavebního zákona, nebo jinak postupem Města dle veřejnoprávních předpisů, od kterých
+     se Město nemůže odchýlit.
+6.3. Město se podle $ 131 odst. 1 písm. d) Stavebního zákona zavazuje, že po dobu trvání této
+     smlouvy nebude ve správních nebo soudních řízeních týkajících se povolení Investičního
+     záměru uplatňovat návrhy, vyjádření a opravné prostředky, z důvodů takových vlastností
+     Investičního záměru, které jsou v souladu se Základními parametry. Město je však
+     oprávněno v jednotlivých řízeních uplatňovat návrhy, vyjádření a opravné prostředky
+     V případě:
+       a)    že projednávaný        Investiční   záměr   bude   v předmětných     řízeních   v rozporu
+             se sjednanými Základními parametry;
+       b)   | z důvodu jiných vlastností Investičního záměru než těch, které byly projednány a
+              odsouhlaseny jako Základní parametry; v takovém případě bude Město vždy
+              postupovat v dobré víře a musí o důvodech svého postupu vždy bezodkladně
+              informovat Investora a jednat s ním o řešení vzniklé situace; nebo
+       c) | že vyjdou najevo nové významné skutečnosti, které se mohou dotýkat zájmů
+            hájených Městem nebo veřejného zájmu, a které nebyly ke dni uzavření této
+            smlouvy Městu známy, a to zejména, nikoliv však výlučně, skutečnosti vyplývající
+            ze stanovisek dotčených orgánů či předložených znaleckých posudků.
+6.4. Město poskytne Investorovi další nezbytnou součinnost v rámci samostatné působnosti pro
+     povolení, provedení a dokončení Investičního záměru v souladu se Základními parametry.
+     Součinnost dle předchozí věty Město poskytne v rámci svých možností na základě
+
+
+
+                                                   10
+
+
+
+                                                                                                    Strana 14/36
+     předchozí výzvy Investora bez zbytečného odkladu po doručení takové výzvy a v rozsahu
+     nezbytném a/nebo vhodném k naplnění účelu této smlouvy.
+6.5. Město si vyhrazuje možnost odmítnout plnění svých závazků vůči Investorovi dle této
+     smlouvy, v případech a rozsahu, ve kterém:
+         a)   | by bylo poskytnutí součinnosti v rozporu s právními předpisy;
+         b)    Investor při povolování nebo realizaci Investičního záměru nedodrží Základní
+               parametry;
+         c) | Investor podstatným způsobem porušuje tuto smlouvu.
+        Město je vtakovém případě oprávněno vyjádřit nesouhlas s Investičním záměrem,
+        neposkytovat Investorovi součinnost a neplnit další závazky podle této smlouvy, dokud
+        nebude zjednána náprava. V takovém případě Město musí o důvodech pro odepření
+        součinnosti nebo neplnění svých závazků Investora bezodkladně písemně informovat.
+
+                                         7.   Investiční příspěvek
+7.1. Smluvní strany se dohodly, že Investor poskytne Městu, v souladu s ustanoveními Zásad,
+     Investiční příspěvek v předběžné výši 26.872.572,-Kč. Předběžná výše Investičního
+     příspěvku byla stanovena v souladu se Zásadami jako násobek počtu m“ HPP
+     dle Dokumentace pro povolení záměru Investičního záměru, tj. (22 393,81 m“ HPP) m*
+     a Základní     sazby   v aktuální    výši ke dmi uzavření        této smlouvy,     tj. částky    ve výši
+     1 200,- Kč.
+7.2. Investor poskytne Investiční příspěvek Městu ve formě Peněžního plnění a Nepeněžního
+     plnění za podmínek stanovených níže.
+        Peněžní plnění
+7.3. Investor poskytne Městu do Fondu developerských projektů Peněžní plnění v předběžné
+     celkové výši 26.872.572,-Kč, upravené o inflaci dle čl. 7.6 smlouvy. Konečná výše
+     Peněžního plnění bude určena jako součet jednotlivých splátek Peněžního plnění dle čl. 7.4
+     smlouvy.'
+7.4. Splatnost Peněžního plnění sjednávají Smluvní strany ve splátkách, a to následovně:
+         a)   1. splátka — první část Peněžního plnění ve výši 10% z předpokládané výše
+              Investičního příspěvku ve formě Peněžního plnění, tj. částku ve výši
+              2.687.257,20,-Kč, poskytne Investor Městu do 60 dnů od nabytí právní moci
+              povolení Investičního záměru; částka bude k datu nabytí právní moci povolení
+              Investičního záměru upravena o inflaci dle čl. 7.6 smlouvy;
+        b)    2. splátka a případně další splátky - zbývající část Peněžního plnění bude uhrazena
+              vždy po nabytí právní moci kolaudačního rozhodnutí pro danou etapu Investičního
+              záměru. 2. splátku ve výši vypočtené jako násobek (1) Zakladní sazby ve výši ke
+              dni uzavření této smlouvy a (11) počtu m2 HPP Investičního záměru podle
+              Dokumentace skutečného provedení pro danou etapu Investičního záměru,
+              od kterého se odečte (1) výše 1. splátky bez valorizace, tj. příslušné procento
+              z předpokládané výše Investičního příspěvku ve formě Peněžního plnění,
+              a (11) hodnota Nepeněžního plnění poskytovaného dle této smlouvy upravená
+
+1 Město uzavírá tuto smlouvu jako osoba nepovinná k dani ve smyslu $ 5 odst. 4 zákona č. 235/2004 Sb., o dani z
+přidané hodnoty, ve znění pozdějších předpisů. Pro případ, že by došlo k takové změně výkladu zákona nebo k
+jiné skutečnosti, v jejímž důsledku by Městu vznikla povinnost uplatnit daň z přidané hodnoty, není tato daň
+zahrnuta ve výši Investičního příspěvku a Investor je povinen Městu příslušnou částku daně doplatit na základě
+daňového dokladu vystaveného Městem.
+
+                                                       H
+
+
+
+                                                                                                            Strana 15 / 36
+            o inflaci obdobně dle čl. 7.6 Smlouvy, poskytne Investor Městu do devadesáti (90)
+            dnů od nabytí právní moci kolaudačního rozhodnutí pro danou etapu Investičního
+            záměru; částka 2. splátky bude k datu podání žádosti o vydání kolaudačního
+            rozhodnutí Investičního záměru upravena o inflaci dle čl. 7.6 smlouvy.
+            Případné další splátky poskytne Investor Městu ve výši vypočtené jako násobek (1)
+            Základní sazby ve výši ke dni uzavření této smlouvy a (ii) počtu m2 HPP
+            Investičního záměru podle Dokumentace skutečného provedení pro danou etapu do
+            devadesáti (90) dnů od nabytí právní moci kolaudačního rozhodnutí pro danou
+            etapu Investičního záměru; částka pro danou etapu Investičního záměru bude k datu
+            podání žádosti o vydání kolaudačního rozhodnutí pro danou etapu Investičního
+            záměru upravena o inflaci dle čl. 7.6 smlouvy.
+7.5. Investor je povinen předložit Městu Dokumentaci skutečného provedení nejpozději
+     společně s podáním žádosti o vydání kolaudačního rozhodnutí Investičního záměru.
+    Na základě předložené Dokumentace        skutečného provedení zašle Město             Investorovi
+    písemně výpočet druhé splátky Investičního příspěvku ve formě Peněžního plnění. Pokud
+    se Dokumentace skutečného provedení v průběhu řízení o vydání kolaudačního rozhodnutí
+    změní, bude výpočet druhé splátky Investičního příspěvku upraven dle finální
+    Dokumentace skutečného provedení ověřené stavebním úřadem.
+7.6. Smluvní strany se dohodly, že výše dosud neposkytnuté části Peněžního plnění se vždy ke
+     dni I. května každého kalendářního roku automaticky zvyšuje o míru inflace vyjádřenou
+    podle   indexu   vypočteného   dle pravidel        této   smlouvy   za uplynulý   kalendářní   rok
+    (dále jen Inflační index). Částky, které jsou předmětem valorizace podle tohoto článku, se
+    vždy zvýší o tolik procentních bodů, kolik činí výše Inflačního indexu; nejvýše však
+    v souhrnu o 20 procentních bodů za celou dobu trvání této smlouvy pro každou částku,
+    která je předmětem valorizace podle tohoto článku. Takto valorizované částky nahrazují
+    původní částky v příslušných ustanoveních této smlouvy a stávají se základem pro
+    případnou další indexaci v příštích letech.
+       Inflační index za uplynulý kalendářní rok se rovná výši roční míry inflace vyjádřené
+       v procentech podle přírůstku průměrného ročního indexu cen stavebních děl podle
+       klasifikace CZ-CC (souhrnné položky stavební díla) za uplynulý kalendářní rok
+       vydávaným Českým statistickým úřadem. Pokud by výsledná hodnota dle uvedeného
+       výpočtu Inflačního indexu byla nižší než nula, pak se Inflační index daného
+       kalendářního roku rovná nule.
+       Nepeněžní plnění
+7.7. Investor poskytne Městu kompletní projektovou dokumentaci pro povolení záměru
+     k objektuA (SO 01 — bytový dům s MŠ), která je umístěna v rámci   voy uvedené
+    věl. IT. odst.   1 této smlouvy v hodnotě ve výši 2.985.000- Kč v souladus           následujícími
+    podmínkami:
+       a) | ve stupni projektové dokumentace pro provádění stavby pro prostory mateřské
+            školy a školní zahrady; Dokumentace bude způsobilá tvořit součást zadávací
+            dokumentace veřejné zakázky na stavební práce v podrobnostech vyžadovaných
+            zákonem č. 134/2016 Sb., o zadávání veřejných zakázek, v platném znění a jeho
+            prováděcími předpisy, zejména vyhláškou č. 169/2016 Sb., o stanovení rozsahu
+            dokumentace veřejné zakázky na stavební práce a soupisu stavebních prací,
+            dodávek a služeb s výkazem výměr.
+       b) | projektová dokumentace bude připravena v souladu s pokyny Města a v souladu
+            se Stavebním zákonem včetně prováděcích právních předpisů.
+
+                                                  12
+
+
+
+                                                                                                   Strana 16/36
+         c)   Investor se zavazuje zajistit spolu s vypracováním projektové dokumentace
+              mženýring stavby vč. získání pravomocného povolení záměru k objektu A.
+              Investor se zavazuje do devadesáti (90) dnů ode dne nabytí právní moci takového
+              rozhodnutí bezúplatně převést na město práva stavebníka z takto pravomocného
+              rozhodnutí týkající se objektu A. Město se zavazuje poskytnout Investorovi
+              veškerou nezbytnou součinnost.
+         d) | Investor předá Městu projektovou dokumentaci ve strojově čitelném formátu a ve
+              dvou (2) paré vpapírové podobě k převzetí v dostatečném předstihu, a to
+              nejpozději do 31.12.2026.
+         e)   Investor poskytne Městu výhradní postupitelnou licenci k autorskému dílu
+              projektové dokumentace, která bude v územně a množstevně neomezeném
+              rozsahu umožňovat užití projektové dokumentace všemi známými způsoby včetně
+              oprávnění Města udílet podlicence, a to na celou dobu trvání autorských
+              majetkových práv, a uzavře k tomu příslušnou licenční smlouvu nejpozději do
+              31.12.2026, za cenu ve výši 1.000,- Kč vč. DPH.
+         f. | projektová dokumentace musí splňovat minimálně kvalitu odpovídající, resp.
+              požadovanou dle vyhlášky č. 264/2020 Sb., o energetické náročnosti budov,
+              ve znění pozdějších předpisů.
+7.8. Město se zavazuje poskytnout Investorovi nezbytnou součinnost v souvislosti s převzetím
+     a převodem řádně a v souladu s touto smlouvou provedeného Nepeněžního plnění (nebo
+     jeho části) do vlastnictví Města. Pokud taková součinnost nebude Investorovi řádně a včas
+     poskytnuta (např. Město z důvodů na své straně neoprávněně neuzavře smlouvu o převodu
+     vlastnického práva k Nepeněžnímu plnění), není Investor v prodlení s plněním jeho
+     povinností předat Městu konkrétní Nepeněžní plnění, anebo převést vlastnické právo na
+     Město ke konkrétnímu Nepeněžnímu plnění, ve lhůtách stanovených touto smlouvou.
+7.9. Není-li v této smlouvě stanoveno jinak, Město se zavazuje převzít Nepeněžní plnění nebo
+     jeho část bez zbytečného odkladu, nejpozději však do 12 (dvanácti) kalendářních měsíců
+     ode dne, kdy (1) bude předmět dílčí části Nepeněžního plnění řádně dokončen a (11) Investor
+     písemně vyzve Město ke kontrole a převzetí dané části Nepeněžního plnění a předloží za
+     tímto účelem Městu veškerou potřebnou dokumentaci. Město poskytne Investorovi za
+     účelem převzetí a přijetí Nepeněžního plnění do vlastnictví nezbytnou součinnost.
+7.10..   Pro případ, že by Nepeněžní plnění nebo jeho dílčí část:
+         a) © nebylo Investorem poskytnuto v souladu s touto smlouvou; nebo
+         b) | nemohlo být pro porušení smlouvy Investorem řádně užíváno nebo využito;
+         je Město oprávněno takové Nepeněžní plnění nebo jeho část nepřevzít a/nebo
+         nepřijmout do vlastnictví a/nebo neuzavřít k tomu příslušné realizační smlouvy, a to až
+         do doby nápravy a uvedení Nepeněžního plnění nebo jeho Části do souladu s touto
+         smlouvou.
+
+                               8.   Utvrzení závazků ze smlouvy
+         Nezbytná veřejná infrastruktura
+8.1. Poruší-li Investor svou povinnost převést Nezbytnou veřejnou infrastrukturu do vlastnictví
+     Města dle sjednaných podmínek a ve lhůtách dle této smlouvy a nezjedná nápravu ani
+     v dodatečné Ihůtě devadesát (90) dnů od doručení písemného upozornění ze strany Města,
+     je povinen uhradit Městu smluvní pokutu ve výši 150.000,-Kč za každý jednotlivý případ
+     porušení. V případě že nedojde k převodu objektů (či jejich částí) nezbytné veřejné
+
+                                                13
+
+
+
+                                                                                             Strana 17/36
+    infrastruktury na Město z důvodu nezískání práv k pozemkům SŽ dle čl. 5.1.této smlouvy,
+    není investor povinen hradit smluvní pokutu dle tohoto článku této smlouvy.
+8.2. Poruší-li Investor svou povinnost zajistit správu, údržbu či provozování Nezbytné veřejné
+     infrastruktury do doby jejího převodu do vlastnictví Města a nezjedná nápravu ani
+     v dodatečné lhůtě devadesát (90) dnů od doručení písemného upozornění ze strany Města,
+     je povinen uhradit Městu smluvní pokutu ve výši 150.000,- Kč za každý jednotlivý případ
+     porušení. V případě, že Investor poruší závazek zajistit správu, údržbu a provozování
+     Nezbytné veřejné infrastruktury, je Město oprávněno dle vlastní úvahy zajistit správu,
+     údržbu a provozování dané Nezbytné veřejné infrastruktury na náklady a nebezpečí
+    Investora.
+8.3. Poruší-li Investor svůj závazek uzavřít s Městem za sjednaných podmínek dohodu mezi
+     vlastníky provozně souvisejících vodovodů a kanalizací pro veřejnou potřebu dle
+     ust. $ 8 zákona č. 274/2001 Sb., zákona o vodovodech a kanalizacích pro veřejnou potřebu,
+    ve znění pozdějších předpisů a nezjedná nápravu ani v dodatečné lhůtě devadesát (90) dnů
+    dnů od doručení písemného upozornění ze strany Města, je povinen uhradit Městu smluvní
+    pokutu ve výši 200.000,- Kč za každý jednotlivý případ porušení.
+       Služebnost veřejného užívání
+   . Poruší-h Investor svou povinnost uzavřít smlouvu o zřízení Služebnosti veřejného užívání
+     dle čl. 5.3 smlouvy a nezjedná nápravu ani v dodatečné lhůtě devadesát (90) dnů
+     od doručení písemného upozornění ze strany Města, pak uhradí Městu smluvní pokutu
+     ve výši 250.000,-Kč za každý jednotlivý případ porušení.
+       Nedodržení Základních parametrů
+8.5. Poruší-li Investor svou povinnost dodržet při realizaci Investičního záměru sjednané
+     Základní parametry dle čl. 3.4 smlouvy a nezjedná nápravu ani v dodatečné lhůtě
+     stoosmdesát (180) dnů od doručení písemného upozornění ze strany Města, pak uhradí
+     Městu smluvní pokutu ve výši 300.000,-Kč za každý jednotlivý případ porušení. Dojde-li
+     jedním jednáním nebo opomenutím Investora nebo více jednáními Či opomenutími
+     Investora, které jsou spojeny blízkou časovou, věcnou a místní souvislostí k porušení více
+     Základních parametrů (např. v rámci výstavby jedné budovy v rozporu s více Základními
+     parametry), považují se všechna taková porušení pro účely úhrady smluvní pokuty za jeden
+     případ porušení.
+       Nepředložení Dokumentace skutečného provedení
+                       ==    I TN-                 mm   c++- X
+
+
+
+
+8.6. Poruší-li Investor svou povinnost předložit Městu Dokumentaci skutečného provedení
+     nejpozději s podáním žádosti o vydání kolaudačního rozhodnutí Investičního záměru
+     a nezjedná nápravu ani v dodatečné lhůtě třiceti dnů (30), pak uhradí Městu smluvní pokutu
+     ve výši 150.000,-Kč za každý jednotlivý případ porušení.
+       Dradlaní        c   hradní       finanční
+       A   1UUIUILIL   3   ULECIKIX/U   LLICIILIMUILI
+
+
+
+8.7. Bude-li Investor v prodlení se splněním jeho závazků (kteréhokoli z nich) k zaplacení
+     jakékoliv finanční částky dle této smlouvy, je povinen uhradit Městu úrok z prodlení ve
+     výši 0,1 % z dlužné částky, s jejímž zaplacením je Investor v prodlení, za každý započatý
+     den prodlení. Bude-li však sazba úroku z prodlení stanovená nařízením vlády podle $ 1970
+     Občanského zákoníku kdykoli během prodlení Investora vyšší než shora smluvená sazba,
+     použije se v takovém období tato vyšší sazba úroku z úroku prodlení dle nařízení vlády.
+       Nepeněžní plnění
+8.8. Poruší-li Investor svou povinnost převést vlastnické právo Či sjednat jiné právo (např.
+     licenční oprávnění k projektové dokumentaci) k Nepeněžnímu plnění ve prospěch Města
+     ve sjednané lhůtě a nezjedná nápravu ani v dodatečné lhůtě devadesát (90) dnů
+
+                                                                 14
+
+
+                                                                                             Strana 18/36
+         od doručení písemného upozornění ze strany Města, je Město oprávněno požadovat
+         namísto Nepeněžního plnění náhradní finanční plnění, ve výši násobku předpokládané
+         hodnoty konkrétního Nepeněžního plnění, kterou je Město oprávněno navýšit o inflaci
+         obdobně postupem dle čl. 7.6 smlouvy.
+8.9. Požádalo-li Město o náhradní finanční plnění dle čl. 8.8 smlouvy, pak okamžikem úhrady
+     takového plnění zaniká závazek Investora poskytnout konkrétní Nepeněžní plnění. Investor
+     je povinen uhradit náhradní finanční plnění do Fondu developerských projektů ve lhůtě
+     stanovené Městem v písemné výzvě.
+            Společná ustanovení
+8.10.       Investor se zavazuje zaplatit Městu smluvní pokutu do 30 dní poté, co mu bude doručena
+         výzva Města k jejímu uhrazení.
+8.11.        Zaplacením kterékoli smluvní pokuty nezaniká závazek, který smluvní pokuta zajišťuje,
+         není-li v konkrétním případě výslovně stanoveno jinak.
+8.12..     Zaplacením    smluvní   pokuty   současně    není   dotčeno   právo   Města   na   náhradu   škody
+         v rozsahu, v jakém tato není kryta nárokem ze smluvní pokuty. Investor je povinen takto
+         uplatněnou náhradu škody na první výzvu Městu uhradit.
+8.13.        Ujednáním ani zaplacením smluvní pokuty za porušení povinnosti Investora
+         v souvislosti s výstavbou Nezbytné veřejné infrastruktury není dotčeno právo Města na
+         náhradu škody Městu vzniklé v plné výši a Město má právo uplatnit vůči Investorovi právo
+         na náhradu škody, která Městu vznikla v souvislosti s výstavbou Nezbytné veřejné
+         infrastruktury a Investor je povinen takto uplatněnou náhradu škody na první výzvu Městu
+         uhradit.
+8.14.       Smluvní strany konstatují, že smluvní pokuty sjednané v této smlouvě považují za
+         přiměřené s přihlédnutím k hodnotě a významu zajišťovaných povinností. Funkcí
+         sjednaných smluvních pokut je především funkce preventivní a sankční, a to zejména u
+         smluvních pokut, které zajišťují právní jistotu a zájmy Města, které nemají pouze
+         majetkový význam.
+
+                                   9.   Odpovědnost Smluvních stran
+9.1. Ani jedna ze Smluvních stran není odpovědná za své prodlení, a/nebo následky porušení
+     svých povinností dle této smlouvy, a za takové prodlení či porušení proti ní nelze
+         uplatňovat žádné smluvní sankce, prokáže-li, že prodlení či porušení povinností jsou
+         důsledkem události vyšší moci. Za vyšší moc se pro účely této smlouvy považuje:
+            a) © mimořádná nepředvídatelná a nepřekonatelná překážka vzniklá nezávisle na vůli
+                 příslušné Smluvní strany, tj. zejména epidemie, ozbrojené konflikty a přírodní
+                 katastrofy, a to pouze za podmínky, že splňují předpoklady uvedené v této větě;
+                 nebo
+            b)   | nezákonné rozhodnutí nebo nesprávný úřední postup orgánů veřejné moci;
+           pokud jsou zároveň příčinou prodlení nebo porušení povinnosti Smluvní stranou a v
+           případě Investora taktéž současně pouze za podmínky, že žádnou z výše uvedených
+           okolností nezpůsobil, byť zčásti, Investor svým jednáním, opomenutím či jakýmkoli
+           jiným konáním Investora (např. podáním podnětu k orgánu veřejné moci apod.).
+9.2. Každá Smluvní strana je povinna bez zbytečného odkladu poté, co zjistí, že událost vyšší
+         moci způsobí její prodlení s plněním povinnosti dle této smlouvy nebo porušení jejích
+         smluvních povinností, tuto skutečnost písemně oznámit druhé Smluvní straně. Smluvní
+
+
+
+                                                       15
+
+
+
+                                                                                                           Strana 19/36
+         strana, která svoji oznamovací povinnost dle předchozí věty řádně a včas nesplní, nemůže
+         se již této události vyšší moci dovolávat.
+9.3. Město nenese odpovědnost za nesplnění povinnosti z této smlouvy v důsledku zákonem
+     vynuceného jednání (např. na základě výsledku místního referenda, které bylo iniciováno
+     přípravným výborem). V takovém případě vstoupí Smluvní strany v dobré víře do
+     vzájemných jednání, a to za účelem nalezení řešení takto vzniklé situace. Výsledkem těchto
+     jednání bude uzavření dodatku k této smlouvě, kterým Smluvní strany upraví svá vzájemná
+     práva a povinnosti v návaznosti na dotčené zákonem vynucené jednání při zachování
+     smyslu a účelu této smlouvy.
+9.4. Na základě dohody Smluvních stran se tímto vylučuje právo kterékoli ze Smluvních stran
+     na náhradu ušlého zisku, který by jinak mohla Smluvní strana požadovat za porušení
+     povinností uvedených v této smlouvě a Smluvní strany se tímto vzdávají práva na náhradu
+     ušlého zisku.
+
+                           10. Převod pozemk
+            Informování o existenci smlouvy
+10.1.        Investor se zavazuje, že bude své případné právní nástupce vč. případných nabyvatelů
+         pozemků, na nichž hodlá realizovat Investiční záměr, tj. pozemků parc. č. 1083,
+         parc. č. 1084, parc. č. 1087/1, parc. č. 1087/3, parc. č. 1087/4, parc. č. 1087/5,
+         parc. č. 1088/1, parc. č. 1088/2, parc. č. 1092/1, parc. č. 1092/2, parc. č. 1092/3, parc. č.
+         1092/4, parc. č. 1093/1, parc. č. 1097/1, parc. č. 1097/3, parc. č. 1098/3 a parc. č. 1102/2
+         vše v k.ú. Trnitá, obec Brno (dále jen Pozemky), nebo jejich části, prokazatelně informovat
+         o existenci a obsahu této smlouvy ve znění případných pozdějších dodatků a dále se
+         zavazuje, že smluvně zaváže své případné právní nástupce nebo nabyvatele Pozemků
+         k tomu, že 1 tito budou mít povinnost informovat své případné právní nástupce o existenci
+         a obsahu této smlouvy ve znění případných pozdějších dodatků.
+            Převod Pozemků
+10.2.         Investor je oprávněn převést Pozemky nebo jejich část na třetí osobu bez předchozího
+         souhlasu Města, přičemž převod Pozemků na třetí osobu není důvodem pro zánik
+         jakýchkoli závazků nebo povinností Investora dle této smlouvy. Pro případ, že Investor
+         převede vlastnické právo k Pozemkům nebo jejich části na třetí osobu, zavazuje se zajistit
+         a odpovídá za to, že nový vlastník Pozemků bude postupovat tak, aby byly včas a řádně
+         splněny všechny povinnosti Investora dle této smlouvy (zejména závazek dodržet Základní
+         parametry při výstavbě na převedených Pozemcích nebo závazek uhradit Peněžní plnění
+         aj.). Nebudou-li povinnosti Investora dle této smlouvy splněny z důvodu konání či
+         opomenutí nového vlastníka Pozemků nebo jejich části, považuje se takové jednání nebo
+         opomenutí za porušení povinností Investora dle této smlouvy a Investor odpovídá, jako by
+         tuto smlouvu porušil sám, včetně případných sankcí, a to bez ohledu na převod Pozemků
+         na třetí osobu.
+            Postoupení smlouvy
+10.3..      Tato smlouva, jednotlivá práva a povinnosti z této smlouvy vyplývající nebo jejich část
+         nesmí být souladu s $ 130 odst. 2 Stavebního zákona postoupeny na třetí osobu bez
+         předchozího písemného souhlasu druhé Smluvní strany.
+10.4.       Bude-li mít Investor zájem, např. v souvislosti se zcizením Pozemků na jinou osobu,
+         o postoupení této smlouvy na třetí osobu, oznámí tuto skutečnost Městu. Investor
+         specifikuje subjekt potenciálního postupníka a poskytne dostatek informací o svém záměru
+         ve vztahu k naplnění účelu této smlouvy. Město se zavazuje vstoupit s Investorem
+         a zamýšleným postupníkem do jednání ohledně uzavření smlouvy o postoupení této
+
+                                                    16
+
+
+
+                                                                                                   Strana 20 / 36
+        smlouvy bezodkladně od doručení oznámení podle předchozího odstavce. Město uzavření
+        smlouvy o postoupení bez rozumného důvodu neodmítne. Město je oprávněno odepřít
+        udělení souhlasu zejména v případě důvodných pochybností, že zamýšlený postupník bude
+        schopen dostát svým závazkům vůči Městu plynoucích z této smlouvy. Investor při postupu
+        dle tohoto odstavce poskytne plnou součinnost v souvislosti s jednáním o uzavření
+        smlouvy o postoupení a zajistí plnou součinnost zamýšleného postupníka.
+           Přeměny
+10.5.      Pro případ, že má být provedena přeměna obchodní společnosti Investora ve smyslu
+        zákona č. 125/2008 Sb., o přeměnách obchodních společností a družstev, ve znění
+        pozdějších předpisů, popř. dle jiného obdobného právního předpisu, nebo pokud Investor
+        zamýšlí převést svůj obchodní závod nebo jeho část, je Investor vždy povinen oznámit tuto
+        skutečnost bezodkladně Městu.
+
+                                  11. Trvání a ukončení smlouvy
+11.1.      Tato smlouva (nejde-li o trvalé povinnosti podle čl. 11.2 smlouvy níže) je uzavřena na
+        dobu určitou, a to do:
+           a)   splnění veškerých závazků a transakcí předpokládaných touto smlouvou
+                (a navazujícími smlouvami) včetně poskytnutí celého Investičního příspěvku,
+                dokončení veškeré výstavby a zprovoznění veškerých staveb v rámci Investičního
+                záměru;
+           b)   řádného zřízení a vzniku všech služebností a věcných či jiných práv dle této
+                smlouvy, navazujících smluv nebo v souvislosti s nimi;
+           c) | vypořádání veškerých práv a povinností mezi Smluvními stranami vyplývajících
+                z této smlouvy a navazujících smluv;
+           podle toho, která z výše uvedených skutečností nastane později.
+11.2.       Smluvní strany berou na vědomí, že některé povinnosti Investora podle této smlouvy
+        jsou sjednány trvale, přičemž se jedná především o povinnosti, které podle své povahy a
+        účelu mají trvat po neomezenou dobu, tedy 1 po poskytnutí Investičního příspěvku a po
+        provedení a zprovoznění veškerých staveb v rámci Investičního záměru (např. povinnost
+        Investora dodržet Základní parametry) a/nebo které mají zůstat v platnosti 1 po jakémkoli
+        předčasném ukončení této smlou
+11.3.      Tato smlouva může být ukončena pouze:
+           a) | výpovědí, a to výpovědí Města výhradně z důvodů uvedených v čl. 11.5 smlouvy
+                nebo výpovědí Investora výhradně z důvodů uvedených v čl. 11.6 smlouvy;
+           b) | zrušením této smlouvy nebo její Části při přezkumu dle $ 165 odst. 2 nebo 3
+                Správního řádu, pokud bylo zjištěno, že byla uzavřena v rozporu s právními
+                předpisy;
+           c) © zrušením této smlouvy k návrhu některé ze Smluvních stran postupem a z důvodů
+                dle $ 167 Správního řádu; nebo
+           d) | dohodou Smluvních stran.
+11.4.      Od této smlouvy není možné v souladu s $ 170 Správního řádu odstoupit. Smluvní
+        strany z opatrnosti vylučují použití všech dispozitivních ustanovení Občanského zákoníku
+        zakládajících právo na výpověď, odstoupení či jiné jednostranné ukončení této smlouvy
+        a vzdávají se práva domáhat se zrušení závazků ze smlouvy soudem, a to s výjimkou jejího
+        ukončení sjednaným postupem v dále výslovně sjednaných případech.
+
+
+                                                  17
+
+
+
+                                                                                              Strana 21 / 36
+11.5.     Město je oprávněno vypovědět tuto smlouvu výhradně z následujících důvodů:
+           a) | poruší-li Investor povinnost dodržet při přípravě a realizaci Investičního záměru
+                Základní parametry, a toto porušení nenapraví ani v dodatečně stanovené lhůtě
+                (180) dnů od doručení písemného upozornění ze strany Města;
+          b)     poruší-li Investor povinnost uhradit Investiční příspěvek ve sjednaných lhůtách
+                splatnosti, a toto porušení nenapraví ani v dodatečně stanovené lhůtě (90) dnů od
+                doručení písemné výzvy ze strany Města;
+           c) | Město nenabude vlastnické či jiné sjednané právo k Nepeněžnímu plnění
+                a Nezbytné veřejné infrastruktuře ve lhůtách a za podmínek této smlouvy, a toto
+                porušení Investor nenapraví ani v dodatečně stanovené lhůtě (90) dnů od doručení
+                písemného upozornění ze strany Města;
+           d) | povolení Investičního záměru nenabude právní moci nejpozději do (31.12. 2030);
+           e) | kolaudační rozhodnutí pro Investiční záměr nenabude právní moci nejpozději
+                do (31.12.2040).
+11.6.     Investor je oprávněn vypovědět tuto smlouvu výhradně z následujících důvodů:
+           a) | poruší-li Město své povinnosti dle čl. 6.2 smlouvy, a toto porušení nenapraví ani
+                v dodatečně stanovené lhůtě 12 měsíců od doručení písemného upozornění ze
+                strany Investora;
+          b) | poruší-li Město své povinnosti dle čl. 6.3 smlouvy, a toto porušení nenapraví ani
+               v dodatečně stanovené lhůtě 60 dnů od doručení písemného upozornění ze strany
+               Investora a zároveň toto porušení významně ztíží přípravu nebo realizaci
+               Investičního záměru.
+11.7.       Výpověď vyvolá účinky, je-li řádně doručena druhé Smluvní straně. Smluvní strany
+        sjednávají výpovědní dobu v délce trvání dvou měsíců. Výpovědní doba začne běžet
+        prvního dne kalendářního měsíce následujícího po kalendářním měsíci, V němž došlo
+        k doručení písemné výpovědi druhé Smluvní straně a končí uplynutím posledního dne
+        příslušného kalendářního měsíce. Uplynutím výpovědní doby zanikají všechna práva
+        a povinnosti obou Smluvních stran z této smlouvy, s výjimkou ustanovení, která na základě
+        dohody Smluvních stran, právních předpisů nebo podle své povahy a účelu mají přetrvat
+        1 po ukončení této smlouvy.
+11.8.      Výpovědí nejsou dotčeny nároky na smluvní pokuty nebo náhradu škody v důsledku
+
+11.9.      Smluvní strany se dohodly, že v případě ukončení této smlouvy výpovědí ze sjednaných
+        výpovědních důvodů:
+           a) | ze strany Města, se dosud Investorem poskytnutá část Investičního příspěvku dle
+                této smlouvy nevrací;
+          b)    ze strany Investora, je Město povinno vrátit Investorovi dosud poskytnutý
+                Investiční příspěvek, a to na účet, ze kterého Investor Investiční příspěvek poskytl
+                (neurčí-li Investor písemně jinak).
+11.10. Smluvní strany se dále dohodly, že v případě ukončení této smlouvy výpovědí z důvodů
+     uvedených včl. 11.5 písm. a) a b) smlouvy nastává splatnost dosud neuhrazeného
+         W“
+     Peněžního plnění k okamžiku doručení výpovědi Investorovi.
+11.11. Investor prohlašuje, že na sebe přebírá nebezpečí změn okolností, pokud tato změna
+     spočívá ve změně tržních podmínek souvisejících s financováním nebo realizací
+     developerských projektů, změně poptávky po koupi bytových a nebytových jednotek či
+
+                                                   18
+
+
+
+                                                                                                  Strana 22 / 36
+         jejich nájmu, v nepříznivém vlivu souběžné realizace jiných developerských projektů na
+         území Města, ve změně cenové úrovně nájemného za nebytové prostory či cenové úrovně
+         nemovitých věcí, ve změně ceny stavebních prací nebo materiálů nebo změny ceny lidské
+         práce. Investor prohlašuje, že uvedené skutečnosti pro něj proto nejsou rozhodující při
+         stanovení obsahu této smlouvy ve smyslu $ 167 odst. 1 písm. b) Správního řádu. Tyto
+         okolnosti nebudou mít vliv na plnění povinností Investora dle této smlouvy.
+11.12. Bude-li kterékoli ustanovení této smlouvy zrušeno nebo bude-li dán důvod pro jeho
+     zrušení, nedotýká se tato skutečnost ostatních ustanovení této smlouvy, která jsou plně
+     oddělitelná a mají podle vůle Smluvních stran přetrvat 1 samostatně.
+11.13. Dojde-li k pravomocnému zrušení části této smlouvy, zavazují se Smluvní strany, že bez
+     zbytečného odkladu zahájí jednání o řešení této situace a nahradí zrušenou část této
+     smlouvy nebo celou smlouvu novou plánovací smlouvou ve smyslu $ 130 a násl.
+     Stavebního zákona nebo dodatkem k této smlouvě tak, aby nová plánovací smlouva
+     či dodatek k této smlouvě co nejlépe odpovídaly původně zamýšlenému účelu Smluvních
+     stran a původnímu obsahu této smlouvy a tak, aby byl zajištěn soulad s právními předpisy
+     (dále jen Nová smlouva).
+11.14. Do uzavření Nové smlouvy se Smluvní strany zavazují postupovat ve vzájemné
+     koordinaci a součinnosti tak, aby neohrozily účel této smlouvy a možnost jeho naplnění,
+     zejména pak nahrazení zrušené části smlouvy nebo zrušené smlouvy Novou smlouvou.
+     Smluvní strany si do uzavření Nové smlouvy nejsou povinny vracet jakákoli plnění
+     poskytnutá podle této smlouvy, 1 kdyby byla zrušena ustanovení této smlouvy, která
+         zakládala původní právní titul pro dané plnění.
+
+                                       12. Závěrečná ustanovení
+12.1.       Investor bude doručovat veškerá oznámení, informace a rozhodnutí dle této smlouvy
+         prostřednictvím e-mailu na adresu: chudackova.radomira(W)brno.cz.
+12.2.       Není-li v této smlouvě stanoveno jinak, lze tuto smlouvu měnit pouze na základě
+         písemné dohody Smluvních stran, formou písemných dodatků. Jiná forma změn této
+         smlouvy je vyloučena. Za písemnou formu nebude pro účely této smlouvy považována
+         výměna e-mailových či jiných elektronických zpráv.
+12.3.       Smluvní strany prohlašují, že skutečnosti uvedené v této smlouvě nepovažují za
+         obchodní tajemství dle $ 504 Občanského zákoníku a udělují souhlas k jejich užití
+         a zveřejnění bez stanovení jakýchkoli dalších podmínek.
+12.4..      Jakékoli smlouvy uzavřené na základě této smlouvy zůstávají v platnosti 1 v případě
+         pozbytí platnosti, ukončení či zrušení této smlouvy a všechny tyto smlouvy jsou na sobě
+         vzájemně nezávislé.
+12.5.        Tato smlouva, smlouvy na ni navazující, jakož 1 veškeré právní vztahy z nich vzniklé
+         nebo s nimi související, se řídí českým právem. K přezkumu souladu této smlouvy
+         s právními předpisy dle $ 165 Správního řádu a k rozhodování sporů z této smlouvy
+         je v souladu s $ 132 Stavebního zákona příslušný Krajský úřad Jihomoravského kraje.
+12.6.       "Tato smlouva je uzavřena a nabývá platnosti dnem jejího podpisu druhou Smluvní
+         stranou. Město zašle bezodkladně po uzavření této smlouvy tuto příslušnému úřadu
+         územního plánování, který zajistí její vložení do národního geoportálu územního
+         plánování.
+12.7..       Smluvní strany vycházejí z úmyslu vykládat ustanovení této smlouvy, kdykoli to bude
+         možné, jako platná, účinná a vynutitelná v souladu se závaznými právními předpisy. Bude-
+         li některé ustanovení této smlouvy shledáno neplatným, neúčinným nebo zdánlivým nebo
+
+
+                                                    19
+
+
+
+                                                                                               Strana 23 / 36
+        nevymahatelným, taková neplatnost, neúčinnost, zdánlivost nebo nevymahatelnost
+        nezpůsobí neplatnost, neúčinnost, zdánlivost či nevymahatelnost celé smlouvy s tím,
+        že v takovém případě bude celá smlouva vykládána tak, jako by neobsahovala jednotlivá
+        neplatná, neúčinná, zdánlivá nebo nevymahatelná ustanovení, a v tomto smyslu budou
+        vykládána a vymáhána 1 práva smluvních stran vyplývající z této smlouvy. Smluvní strany
+        se dále zavazují, že budou navzájem spolupracovat s cílem nahradit takové neplatné,
+        neúčinné, zdánlivé nebo nevymahatelné ustanovení platným, účinným a vymahatelným
+        ustanovením, jímž bude dosaženo stejného ekonomického výsledku (v maximálním
+        možném rozsahu v souladu s právními předpisy), jako bylo zamýšleno ustanovením,
+        jež bylo shledáno neplatným, neúčinným, zdánlivým či nevymahatelným.
+12.8.      Tato smlouva bude uveřejněna v registru smluv ve smyslu zákona č. 340/2015 Sb.,
+        o zvláštních podmínkách účinnosti některých smluv, uveřejňování těchto smluv a o registru
+        smluv (zákon o registru smluv), ve znění pozdějších předpisů. Tato smlouva nabyde
+        účinnosti dnem jejího uveřejnění v registru smluv.
+12.9.      Doložka: Tato smlouva byla schválena na Z...../........ zasedání Zastupitelstva města
+        Brna, konaném dne ....................
+12.10. Smluvní strany uzavírají tuto smlouvu dobrovolně, dle jejich pravé, vážné a svobodné
+     vůle.
+12.11. Přílohy této smlouvy tvoří:
+           a) | Příloha č. 1: Koordinační situace Investičního záměru
+           b) | Příloha č. 2: Katastrální výkres Investičního záměru
+           c) | Příloha č. 3: Situace Nezbytné veřejné infrastruktury
+           d) | Příloha č. 4: Situace odsouhlasené OD a BKOM           12. 3. 2026
+           e) © Příloha č. 5: Situace veřejného prostranství
+
+ V Brně dne ...................ee                      V Brně dne ...................e
+
+ Město:                                                Investor
+
+
+
+
+ Statutární město Brno                                 Hutcham Real, s.r.o.
+ Ing. Tomáš Pivec, MBA                                 Ing. Ladislav Fňouka — jednatel B
+ vedoucí Odboru investičního
+ Magistrát města Brna
+
+
+                                                       V Brně dne...
+
+                                                       Investor:
+
+
+
+
+                                                         utcham Real,     s.r.o
+                                                       Ota Kohoutek — jednatel B
+
+
+
+
+                                                  20
+
+
+
+                                                                                              Strana 24 / 36
+                                                   ooo
+                                                              é
+                                                                                                                        P]                                                       4                                                    /   1   AM
+                                                                                                                                           cost
+                                                                                                                    297 ropa nomoantjeznsnane
+                                                                                                                  km goeooa    u nn otát
+
+
+
+
+                                                                                                                                                            7886, NooeNa
+         EÍMYZ NTOAOd Did AOVLNAHVOC
+                            mg ry
+                        ONE VAHA
+                  VAONS KOTA ANL.BO            Ů
+     ,        ZZN     ná                   /
+XL            Sava TE MOEKS KU         Z
+                                                                                                                                                                                       AO GEES VSA,                        A
+                                                                                                                                                                                     . (epvccy   gu poupě ZOVZTTVNÝM YAOUBAU | KLSL
+                                                                                                                             o                   A     or                    8
+                                                                                                                         ň       om                                 ZL
+                                                                                                                                                     el láyy" O 4ODAzD
+                                                                                                                 a
+                                                                                                        o Zemana oos
+                                                                                                                                            nu                        9 „=
+                                                                                            -                E        Z           nhpro
+                                                                                                        (KAY       SES U           SOE
+                                                                                                         pegi papí pem IBO RO DL 0
+                                                                                                                                       STOJ
+                                                                                                        ZENVÁCN WSYODO VELNAD OHALDVLNOS
+                                                               M
+                                                         PSÝ0O04B0H 3KOTMA0O MAOSNAA   .-
+                                                                                   =
+                                                                        py
+                                                                                                    =    FVE                          dání
+                                                                                                +
+                          veanc FOR
+      (RMEHYZ JETKOMOÍ žáci SOV NAHDKO
+                                 au 5
+                              ONA VAHA.
+                   ROE        OTA ANLLBO
+                                                                        :   B   8|E
+
+
+
+
+                                                                                      m
+                                                                                      a
+                                               1 ba 0 pm ae T NĚ   E
+
+
+
+
+                                                                                      P-
+                                                   (K zpoza  94    KT
+                                                                                                                                                     nuzeeom
+                                                                                                                                                           oa
+                                                                                                                                        ee;   Suaeezy oapy py
+                  EVE             Y
+L
+          „APAV NSLE NEBUOE   I            ]
+         „RDS ENONA MNOU      I            ]
+                              l            ]
+                              EI
+                              EZZ
+ETO                                                                                                 2       i
+                Sr                                                                               AERĚNE SHS KUP PRESEZEMSRÉŘ.
+                 JV
+
+                      ==          E =                                                      zlé                              |
+                                  zae02E                                                   sě                                   |
+            E
+                              —
+                              S S
+                                                                                           s
+                                                                                           3
+                                                                                                                        E
+                      mE      OU
+                                                                                           3
+                                                                                           jj
+=                              m                                                                                    I               I
+                                                                                                                                                                                                                                                                                     ooo,   5
+                                                                                                                                                                                                                                                     ©        |-|
+                                                                                                                                                                                                                                                           le
+                                                                                                                                                                                             ze
+
+
+
+
+                                                                                                                                                                             i
+                                                                                                                                                                                                                                                                            dysšol
+
+
+
+
+                                                                                                                                                                               = E
+                                                                                                                                                                                                                                                         MZZAMÉA        /
+                                                                                                                          inorojzaumanu
+                                                                                                                     (nos bas dz van ec
+                                                                                                                                                                                                                                                                    /
+                                                                                                                                                                                                                              A       Paz
+                                                                                                                                                                                                                                  S     on   opony
+                                                                                                                                      vaplyumeízu                                                            (ta Duh BD BOŠ
+                                                                                                                    sí 990 pp pi         a o                                                              VDO A0    3 PaE
+                                                                                                               „ÚB ABBLYE POOL      16050 Ap P A DP            F
+                                                                                                                 (OKB 0 UB     hrou      Oi AOA JUNO       P
+                                                                                                                     OY OHNODVAOOD
+                                                                                                                              REZZO) ODA | FD 31
+                                                                                                               DCTI VENOS ZNTOKE MA
+                                                                                                                                 Bug noupsbě
+                                                                                                                             ZP09L
+                                                                                                                  Jord RDDODOA OPVAVUSEN
+                                         —————     gn                                                ESS       l]                     ou dno
+                                                                                                                                          RACEK                                                   sono
+                                                                                                                                                                                         Et tvpancto
+                                                                              r            Sf                           SSROOEDOH VO OKNO
+                                                                                                                                      i                                                            ejné
+                                          EE      EM             ===
+                                         —————   =..                                                                                                                                    STO     MEP p
+                                                           m     —                                                                                     z               ORONÝCH VV DRE ZE E NAS Výhra
+      ADO NBA
+OSY PONOR
+                                                  AE      EB                       :            be
+                      E MID K     HE                                                   =“
+                              U   Tacé                 [TE ETO   E                                                                a
+                       TMO HD      16
+                       TOTO HLD    E]                       m8   T Wm]
+                      [KATI        26                                         in       X                                     +
+                TEA       O OU     tě                       ma   TM]
+RO   IDO   VE                             r                        vozí                                    k                                                       |
+                                                                          I                                                                                                                   I                                         I
+      9£ / 87 euenS
+                                                                                                          c o   | |                    —
+          Um:              WOMA BARJdS - ABIdN UOIUgaAB]S aDBNJIS                                                     " „.
+                                                                                                                                   a
+                       m
+                                                                                                                                       l]
+                                                                                                                               ]
+                                                                                                                             hg 60! 7
+    p0'0S
+    -Wa   AAOLAA
+                                                       E)
+                            NAZWYZ |NAIOAÓdi Ožtd BOV LNEWXOG
+                                                     SOta00Hz
+                   i                                         i re
+                                                    ONEEVYHA
+                                         WMMAHOMS   HOJAAMLARO
+                                                          vrryee
+                                          OE E UE JETS UMP ACB
+                                                   SU“ 148 MONOI
+                                                                    nA meie0a W480 ynoviz -30440nou [Z]
+                                                                                            "VONAD=I
+|
+                                                                                                                                            „oh řinakeaě setá ná násě A urnanedoýa eo enh om aup 918 A
+                                                                                                                                                         102-8- “
+
+
+
+
+                                                                                                                                                   c
+                                                                                                                                                                                 Aneds £
+                                                                                                                                            '5'B 90BYIUNUUOX OYSUBUJY usoupajods
+                                                                                                                                                SWS IAJoIUJSEJA Op Uepongyd S oLUJSEUNOS
+PAE Oko asn
+
+
+
+
+                                                                                                                                                                                                           has
+       čo                                                              MNOMA BABIdS- ABIdO UDIUJSABS sDENIS
+        AZIAJY /NSAHNAA 01812                                                                                  (S34)      LNAWNMOO
+                           ad                                                                                                  159
+       pyxe                                                                                                                           "
+                        LYWHO4                                                                                               1NArgo   L
+            :                                                                                                                         /                                                           )
+       ose'|                                                     NaAAWYZ       INAIOAOd          OHd 1VLNAMANMOG                                                                          =     :
+                       OMUYJM                                                                      AOVINANONO ZAOLNEPONd NABNLS                                                                o
+   ANAIVNGJTAO AMZYMWZ 07813
+                                                                     ONYE VMHTA IDNINMWN
+       bb       a SZ
+                                                 Va LNA9 OHINIMYLNON                            INAFÓOGVN.              zpr asan
+  BIBLVAODWHdZ    AMZVWWZ O1513                                                                       owlouz zos89
+       Se0č/č|                                                                                   "OUP BASADISSEIUOI
+                         wniva                                                                     "JS JED    LUEUOINH     HOLSAANÍ
+                                                                                                                                          /
+                                                                                 IWAODVYdAA
+                                                                                                 ZV ydp-ajea PaE
+                                                                         INYLM3POdd [INO03A
+                                                                                                   9,90bz1p5 XE|8]
+                                                                        WIM3(Odid ANOAAOdOCZ
+                                                                                                          oLIA 00 209
+                                                                                                    SL/9L+ PXSABIUNS
+                                                                       LY3OdA MANIZNÍ [NAVIH        "OS AO ST
+                                                                            INYLMATOHd
+                                                                                               YSL :WasÁs AAoaupeinos
+     EE
+                                                                                                    Adg 1W9jsÁs ÁROMSÍA
+                                                                                                                                                  PLETE
+                                                                                                                                              >
+                                                                                                                                                  i TT
+                                                                                                                                                                   On
+                                                                                      ALYZTEO JONOGNE - VHYD INANN          ——
+                                                                                                          DVAVIS ZGA ———
+                                                                                                         ANAZNAVN ZGA ——
+                                                                                                      ANZZUAVN ANV8H        ———
+                                                                                         FTVAYLS = ANVEH ANABWVZ
+                                                                                       HSALIAOKAN MALSYLYM ANWEH           ———
+                                                                                                    MINdoHo oirwayis [O]
+                                                                                                 ZOVMINNKOM Jorwayis [C]
+                                              AERVA XNA DYNVdLLB LU 001 "WOZL-08 VAISOM VAOTNZ-JNYLS JowAoMšvd             [C]
+                                  OS ATLBAS   3 OEXOZ "0ZX0Z OLXOZ O LWAMOJ XIA 'UW5 OZ "$ VAZVIJ VADNOLÍA - MINTOHO [E]
+                                          AAMVA EIA yNVd[LS 101 00L VOZI-08 VYLSON VAOTIZ- VLVAOZIMM VN3B4AZ [C]
+                                                  ARE XI yN Vel] ES IU DOL OZI-08 VMLSOM VAOTOZ - JOVMINNAOM [1]
+                                                                                                                "ONA
+                                                                                                                                                         Zee     EKK            KO            DD OUJE A
+                                                                                                                                                                    A3   C "6   k
+                                                                                                                                                                     )              6
+                                                                                                                                                         '$'"B 90BYIUNLUOx oYSUBUIE HSOUDaJ|ods AABIIS £
+                                                                                                                                                            AWS IMDILYSEJA Op Lugpongad S dwsejyunos
+ALSNVHLSOYA JNIAYZA
+     Ri Sv LY AOVALIS
+                                                                                                                                         Wok                                                                                                                                                                                                                                  —
+                                                                                                                                                                                                                                                                                             E                   st
+                                                                                                                                                                                        zob
+                                                                                                                                                                                                                                                                                                                                                              ase                           EOL
+                                                                                                                                                                                                                                                                                                                       wz0ě
+          ASEAMAA JNYVNUSD
+         un
+          anaee     ADXROUd                                                                         ;
+                                                                            Ji
+                                                                                                                                                                                                                                                                                                                                                                       sta,               SfezoL
+                                                                                                                                                                                                                                                                                                                                                                                                                                 sol
+                                                                                                                                                                                                                                                                                                    vezo,                                                                                                                 BB0L
+                                                                                                                                                                                                                                                                                                                                        ELO
+                                                                                                                                                                                                                                                                                                                                                                           Ea
+                                                                                                                                                                                                                                                                                                                                                                            -
+                                                                                                                                                                                                                                              sol                  um
+                ONE HA                                                                                                                                                                                                                                                           z
+     HOKEIYONS OTA ANLASO
+                     oznaee                                                                                                                                                                                       :
+                                                                                                                      mt
+                                                                                                                                                                                                                                                  spor
+                                                                                                                                                                                              ma
+                                                                        a            T=
+                                                                                                                                                                                                                                                                                     za
+                                                                                                                                                                                                                                                                                                                ss0,                                                                                           Bydejoyo
+                                                                                                                                                                                                                                                                                                                                                                                  o
+                                                                                                                                                                                                                                                                                                                                              wo
+                                                                                                                                                                                                                                        RAD
+                                                                                                                                                                                                                                                     zao                                                                                                                                           7
+                                                                                                                                                                                                                                                                                                                                                                                                                  LC
+                               |    |         |
+                                        [8
+                                                                                                         =
+                                                                   ba                                                                                                                                                                                                                                                                                          -
+                               5
+                               —
+                               —. K
+                                                                                                                                                                                                                                                          veě0,                                             š
+                                                                                                                                                                      sa)
+                                                                                                                                         =
+                               m                                                                                                                                                                                                                                                                    šš
+                                                                                                                                                                                                                                                         ojesa,                                                                                                                                        ZE90,
+                                                                                                                                                                                                                                                                                                                                    went
+                                                               |
+                                                      <
+                              ————
+                                                                                                                                                                                                                                                                                                                                           í                               :
+                                    a
+                                                                                                                                         M     S,        at   z jl
+                                                                                                                                                                                                                                                                                                                                   kb
+                                                                                                                                                                                                                                                                                                                                                   s
+                                                                                                                                                                                                                                                                                                                                                                    -—-=
+                                                                                                                                                                                                                                                                                                                                                                                      =
+                                                                                                                                                                      ž           | 4              +e60i
+                                                                                                                                                         ae                                                                                                                                                                   al
+                                                                                                           ž
+                                                                                                                                                                                                                                                                                                 umn===               -=
+                                                                                                                                                                                                                                                                                  Ve6oL
+                                                                                                                                                              :
+                                                                                                                                                                                                                                                                                          -—-=
+                                                                                                                                                                                                                                                                                 ==="                                                                                                     e/ž60,
+                                                                                                                                                                                    3                           i
+                                                                                                                                                                          HosoL     :                             n                           -          ==="              =="
+                                                                            š                                                       $                                               i
+                                                                            š                                  '                    ]]
+                                                                                                                                                                                                                                                                                                                                                       zen,
+                                                  .
+                                                                                                                                                                                                                       |
+                                                                                                                                                    :                                                      we6ol 1 1
+                                                                                                                                                                                                                       |
+                              jEn                                                                ez80,
+                                                                                                                                                                                                                           1
+                                                                                                                                                                                                                           11
+                                                                                                                                                zlt80,
+                                                                                                                                                                                                                                A   1                                   9re60,
+                                                                                                                                                                                                                                    A 4Í                                                                                                      Hy6ot
+                                                                                                                                                                                                                                        i
+                                                                                                                      zy80,
+                                                                                                                                                                                                                ži
+                                                                                                  £/B60L
+                                                                                                                                                                          úáře -               =="
+                                                                                                                       ve801
+                                                                                                               o-
+                                                                                 T                       tl
+                                                          58                     L-===
+                                                                                 I
+                                                                                                                       nasok
+                                                                                          9801
+                                                                                                                      um,
+                              ——                                                                                                                                                                                                                           Z/p99
+                               |
+                                                                                                                              sos
+                                                                                                                                                                                              m)
+                                                                                                                                                                  2
+                                                                                                                                                                  8
+                                                                                                                                                                  s
+                               jí                                                                              W999
+                 -===          =
+  OTK NSA           E60
+                                        zs9
+ PRUTAOY ZONA
+                       voe
+P MR ná)
+PAAKA kase)
+S
+    s
+        15
+zad
+      Strana 35 / 36
+aZd
+
+      : Strana 36 / 36
+

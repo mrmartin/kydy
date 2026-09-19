@@ -1,0 +1,104 @@
+Volby.cz - otevřená data pro volby do zastupitelstev obcí 2022 - Český statistický úřad | ČSÚ
+www.volby.cz
+www.czso.cz
+Úvod
+>
+Otevřená data pro volby
+> 
+              Otevřená data pro volby do zastupitelstev obcí konané 23.09. - 24.09.2022
+Otevřená data pro volby do zastupitelstev obcí konané 23.09. - 24.09.2022
+Český statistický úřad na základě usnesení vlády ze dne 4. dubna 2012 č. 243, kterým vláda schválila Akční plán České republiky "Partnerství pro otevřené vládnutí", zveřejňuje dostupná data z výsledků voleb do zastupitelstev obcí v otevřených formátech zároveň s textovým popisem obsahu zveřejněných dat.
+Popis XML souborů pro volbu do zastupitelstev obcí:
+PDF
+/
+HTML
+(verze 1.0 - 19.8.2022)
+Obce - XML data - celkové výsledky za ČR
+-
+XSD popis
+do parametru
+datumvoleb
+uvádějte datum dle
+seznamu konaných voleb
+(formát RRRRMMDD)
+Obce - XML data - výsledky za okresy a obce
+-
+XSD popis
+parametr nuts=CZXXXX: CZXXXX je kód okresu dle
+číselníku NUTS (MS Excel)
+/
+HTML
+,
+do parametru
+datumvoleb
+uvádějte datum dle
+seznamu konaných voleb
+(formát RRRRMMDD)
+Obce - XML data - výsledky za zastupitelstvo obce
+-
+XSD popis
+parametr cislo_obce=xxxxxx: XXXXXX je kód zastupitelstva dle registru RZCOCO,
+do parametru
+datumvoleb
+uvádějte datum dle
+seznamu konaných voleb
+(formát RRRRMMDD)
+Obce - XML data - výsledky za okrsky (dávky)
+-
+XSD popis
+parametr davka=číslo, kde číslo je pořadí dávky, pokud není uvedeno, vrací poslední dostupnou dávku,
+do parametru
+datumvoleb
+uvádějte datum dle
+seznamu konaných voleb
+(formát RRRRMMDD)
+Registry, číselníky a okrsková data - jednotlivé soubory ke stažení
+(stav k 28.03.2026 - výsledky řádných i navazujících voleb)
+Registry - XML soubory
+/
+Excel soubory
+/
+CSV (CSVW)
+(stav k 28.03.2026 - výsledky řádných i navazujících voleb)
+Popis registrů:
+PDF
+/
+HTML
+/
+XSD
+(aktualizace k 23.06.2024)
+Číselníky XML a Excel (stav k 28.03.2026)
+/
+CSV (CSVW)
+Popis použitých číselníků:
+PDF
+/
+HTML
+/
+XSD
+(aktualizace k 23.06.2024)
+Obce - okrsková data -
+XML
+/
+Excel
+/
+CSV (CSVW)
+(stav k 28.03.2026 - výsledky řádných i navazujících voleb)
+Popis okrskových dat:
+PDF
+/
+HTML
+/
+XSD
+(aktualizace k 23.06.2024)
+Hranice volebních okrsků:
+Shapefile
+GeoJson
+Podmínky pro využívání a další zveřejňování statistických údajů ČSÚ
+Zpět:
+Otevřená data pro volby
+© Český statistický úřad, 2026
+Otevřená data
+Prohlášení o přístupnosti
+Ministerstvo vnitra
+Ministerstvo zahraničních věcí

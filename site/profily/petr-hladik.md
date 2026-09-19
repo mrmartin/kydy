@@ -1,0 +1,86 @@
+# Petr Hladík
+
+Stav k 18. 9. 2026. [Zpět na rozcestník](../index.html).
+
+**Mandát:** 2022-09-24 až trvá k uzávěrce. **Dnešní funkce:** neuvolnění členové ZMB.
+
+**Kandidátka 2022:** Lidovci a Starostové (KDU-ČSL + Starostové a nezávislí); pozice 1; osobní hlasy 23091. Zvolen/a v řádných volbách. Osobní hlasy nejsou preferenční procento ani počet výhradních příznivců.
+
+**Klub uvedený na městském webu:** Lidovci a Starostové. Klub, volební listina a členství v politické straně jsou různé údaje.
+
+Volební zdroj: [otevřená data ČSÚ — archiv](https://www.volby.cz/opendata/kv2022/KV2022reg20260328_csv.zip); [web](https://www.volby.cz/opendata/kv2022/KV2022reg20260328_csv.zip). Doklad nástupu: [nástup — archiv](https://www.volby.cz/opendata/kv2022/KV2022reg20260328_csv.zip); [web](https://www.volby.cz/opendata/kv2022/KV2022reg20260328_csv.zip).
+
+Aktuální úřední profil: [profil města — archiv](https://www.brno.cz/w/petr-hladik); [web](https://www.brno.cz/w/petr-hladik).
+
+## Doložené členství v orgánech
+
+| Orgán | Role na webu | Doklad |
+| --- | --- | --- |
+| Komise životního prostředí Rady města Brna | Předseda | [složení — archiv](https://www.brno.cz/w/komise-zivotniho-prostredi-rady-mesta-brna); [web](https://www.brno.cz/w/komise-zivotniho-prostredi-rady-mesta-brna) |
+
+## Osobní hlasování
+
+| Použitelné protokoly se jménem | Ano | Ne | Zdržel/a se | Nehlasoval/a | Nepřítomen/na v protokolu |
+| --- | --- | --- | --- | --- | --- |
+| 3255 | 1917 | 11 | 18 | 119 | 1190 |
+
+Jde o stav při jednotlivých hlasováních, nikoli docházku na celá zasedání. Statistika zahrnuje běžná i procedurální hlasování; není žebříčkem pracovitosti. Neplatná hlasování a dílčí elektronický protokol Z9/11 č. 12 jsou ze souhrnu vyloučeny. Chybějící či neveřejné jmenovité hlasy se nedoplňují odhadem.
+
+| Datum | Rozhodnutí | Osobní hlas | Protokol |
+| --- | --- | --- | --- |
+| 2022-12-13 | Rozpočet 2023 | Ano | [Z9-03-064 — archiv](https://apl.brno.cz/protokoly-zmb/zmb-z9-03/20221213-64-42181.html); [web](https://apl.brno.cz/protokoly-zmb/zmb-z9-03/20221213-64-42181.html) |
+| 2023-06-20 | Financování multifunkční haly | nepřít. | [Z9-08-094 — archiv](https://apl.brno.cz/protokoly-zmb/zmb-z9-08/20230620-94-38788.html); [web](https://apl.brno.cz/protokoly-zmb/zmb-z9-08/20230620-94-38788.html) |
+| 2023-10-18 | Zavedení tajné volby o SAKO | nepřít. | [Z9-11-007 — archiv](https://apl.brno.cz/protokoly-zmb/zmb-z9-11/20231018-7-47404.html); [web](https://apl.brno.cz/protokoly-zmb/zmb-z9-11/20231018-7-47404.html) |
+| 2023-12-12 | Rozpočet 2024 | nepřít. | [Z9-13-026 — archiv](https://apl.brno.cz/protokoly-zmb/zmb-z9-13/20231212-26-37854.html); [web](https://apl.brno.cz/protokoly-zmb/zmb-z9-13/20231212-26-37854.html) |
+| 2024-12-10 | Vydání územního plánu | Ano | [Z9-22-011 — archiv](https://apl.brno.cz/protokoly-zmb/zmb-z9-22/20241210-11-34554.html); [web](https://apl.brno.cz/protokoly-zmb/zmb-z9-22/20241210-11-34554.html) |
+| 2024-12-10 | Rozpočet 2025 | Ano | [Z9-22-016 — archiv](https://apl.brno.cz/protokoly-zmb/zmb-z9-22/20241210-16-35980.html); [web](https://apl.brno.cz/protokoly-zmb/zmb-z9-22/20241210-16-35980.html) |
+| 2025-03-25 | Audit TIC — návrh Tomáše Koláčného | nepřít. | [Z9-25-075 — archiv](https://apl.brno.cz/protokoly-zmb/zmb-z9-25/20250325-75-41035.html); [web](https://apl.brno.cz/protokoly-zmb/zmb-z9-25/20250325-75-41035.html) |
+| 2025-03-25 | Audit TIC — návrh Markéty Vaňkové | nepřít. | [Z9-25-076 — archiv](https://apl.brno.cz/protokoly-zmb/zmb-z9-25/20250325-76-41086.html); [web](https://apl.brno.cz/protokoly-zmb/zmb-z9-25/20250325-76-41086.html) |
+| 2025-12-10 | Regulace pyrotechniky | nepřít. | [Z9-31-011 — archiv](https://apl.brno.cz/protokoly-zmb/zmb-z9-31/20251210-11-31014.html); [web](https://apl.brno.cz/protokoly-zmb/zmb-z9-31/20251210-11-31014.html) |
+| 2025-12-10 | Rozpočet 2026 | nepřít. | [Z9-31-022 — archiv](https://apl.brno.cz/protokoly-zmb/zmb-z9-31/20251210-22-33889.html); [web](https://apl.brno.cz/protokoly-zmb/zmb-z9-31/20251210-22-33889.html) |
+| 2026-04-14 | Zařazení nesouhlasu se Sudetoněmeckým sněmem | Nehlasoval | [Z9-34-004 — archiv](https://apl.brno.cz/protokoly-zmb/zmb-z9-34/20260414-4-34348.html); [web](https://apl.brno.cz/protokoly-zmb/zmb-z9-34/20260414-4-34348.html) |
+| 2026-05-19 | Závěrečný účet 2025 | Ano | [Z9-35-010 — archiv](https://apl.brno.cz/protokoly-zmb/zmb-z9-35/20260519-10-33804.html); [web](https://apl.brno.cz/protokoly-zmb/zmb-z9-35/20260519-10-33804.html) |
+
+[Všechna osobní hlasování — CSV](petr-hladik_hlasy.csv). Předmět a usnesení se musí číst společně: např. hlas o zařazení bodu není hlasem o jeho věcném obsahu.
+
+## Stopy činnosti v zápisech
+
+Automatický rejstřík pasáží obsahujících jméno, s odkazem na originál. Může obsahovat cizí zmínku o osobě, společnou rozpravu nebo procedurální úkon; nejde o ověřený počet vystoupení ani automatické připsání autorství. Výběr níže zvýhodňuje výskyty slov navrhl, požádal, upozornil a interpelace.
+
+**Z9/36, strana PDF 137:**
+
+> Mgr. Petr Hladík: Já si myslím, a možná chci vyzvat pana kolegu Kmenta, protože my totiž nejsme v rozporu s tím principem. Na druhou stranu, já sám vlastně nevím, kdo vlastní tu místnost, kdo ji provozuje, jak často. Několikrát jsem tam byl, ale, a souhlasím s tím, že by chtěla trošičku jako dát do modernějšího designu. Využití pro školy, proč ne, ale chtělo by to mít nějaké vlastně větší informace. Tady souhlasím s paní primátorkou. Jestli by si nechtěl spíše upravit to usnesení takovým způsobem, že by třeba požádal nebo zavázal Radu města Brna. Vidím, že paní náměstkyně Podivinská se k tomu hlásí, že by veškeré ty informace zastupitelstvu zjistila. Pak jsme to projednávali na nějakém bodě příštího zastupitelstva, kdy by to bylo s tou podkladovou zprávou, se všemi informacemi a s nějakými možnostmi řešení. Protože ten princip jako takový si myslím, že je správný nebo dobrý nebo chvályhodný. Na druhou stranu ta míra informací, které k tomu dneska jako zastupitelé asi nemáme, tak si spíš zaslouží prostě, jak říká pan náměstek Kerndl, nějaké ještě další bádání. Takže proto bych apeloval na pana zastupitele Kmenta, případně bych v tomto něco podobného navrhl. Děkuji.
+
+[Z9/36, fyzická strana PDF 137 — archiv](https://www.brno.cz/documents/20121/15320598/Z9-36-Z-U-P2.pdf/e8b26311-764b-bcd7-34fc-8ff33387421e); [web](https://www.brno.cz/documents/20121/15320598/Z9-36-Z-U-P2.pdf/e8b26311-764b-bcd7-34fc-8ff33387421e).
+
+**Z9/35, strana PDF 7:**
+
+> Mgr. Petr Hladík: Vážený pane náměstku, vážení členové rady, vážené zastupitelky, zastupitelé, krásné dobré dopoledne. My s tímhle materiálem nemáme žádný problém, podpoříme to, nicméně překvapuje nás tam jedna věc, že kolegové z hnutí ANO měli čtyři roky paní Artimovou jako členku dozorčí rady, a myslím si, že z úrovně dozorčí rady je ta správná úroveň kontroly, a ne z úrovně kontrolního výboru, protože podle zákona o obcích samozřejmě ta úroveň kontroly dceřiné společnosti, společnosti vlastněné městem Brnem, je přiměřená, respektive ty kompetence jsou poměrně, poměrně malé. Zároveň jsme za náš klub předložili do rady návrh na restrukturalizaci téhle té dceřiné společnosti vzhledem k tomu, že ty výsledky nejsou uspokojivé, a ta původní náplň, tak, jak měla být založena ještě v minulém období, tak bohužel úplně neodpovídá tomu, jak to fakticky je. A musím říct, že mě hodně mrzí i to zrušení vlastně toho fondu na opravy, respektive těch střech zařízení, které tady, které tady vlastně měly tomu doprovázet, tak, aby se vlastně ty technické věci
+
+[Z9/35, fyzická strana PDF 7 — archiv](https://www.brno.cz/documents/20121/14976202/Z9-35-Z+U_P1.pdf/d937b61b-fa83-8ca9-ed63-a719543ef659); [web](https://www.brno.cz/documents/20121/14976202/Z9-35-Z+U_P1.pdf/d937b61b-fa83-8ca9-ed63-a719543ef659).
+
+**Z9/21, strana PDF 52:**
+
+> Mgr. Petr Hladík: Já bych se vlastně přidal k obou dvoum pánům náměstkům. Myslím si, že chci poděkovat vedení města Brna především za to, že to dotáhlo, tudletu záležitost, a myslím si, že je to, že to je velmi dobré. Je to vlastně výhodné pro všechny. Je to výhodné pro město, je to výhodné pro, pro biskupství, potažmo církev, a je to výhodné pro Brňany. Protože tady vzniknou 2 instituce, jedna kulturní, jedna vzdělávací, které tady prostě občanům města Brna sloužit budou. Já chci připomenout, že v tom objektu Jan, na Jánské Johann Gregor Mendel učil, a biskupství zde chce zřídit církevní základní školu s odkazem právě na Mendela. Myslím si, že to bude vlastně velmi dobré ten vyu, ten objekt, který dneska, on je rozsáhlý, školský objekt, dneska není využívaný pro vzdělávání, zvýší se tím kapacity a myslím si, že s církevním základním, mateřským i střední školstvím na území města Brna máme dobré zkušenosti. Takže není tady vlastně důvod, proč se domnívat, že by to fungovat nemělo. A samozřejmě to, že z Chlebodárovy vily, vzniklé k roku 28, ten, to muzeum, které si rozhodně město Brno a jeho obyvatelé zaslouží, k odkazu stoletého výročí úmrtí Johanna Gregora Mendela, je velmi dobré. A já bych naopak kolegy požádal, aby to podpořili, protože si myslím, že to je velmi dobrý výraz toho, že město Brno tady de, přes různé politické reprezentace, správnou cestou.
+
+[Z9/21, fyzická strana PDF 52 — archiv](https://www.brno.cz/documents/20121/11374461/Z9-21-Z+U_P2.pdf/46462a1d-ca36-1be6-797f-d1a790e73c5b); [web](https://www.brno.cz/documents/20121/11374461/Z9-21-Z+U_P2.pdf/46462a1d-ca36-1be6-797f-d1a790e73c5b).
+
+**Z9/34, strana PDF 1:**
+
+> Omluveni: Mgr. Petr Hladík (od 11.30), Mgr. Vladan Krásný (do 11.00), Mgr. Břetislav Štefan, Ing. Pavel Outrata (10.30−11.00), doc. RNDr. Anna Putnová, Ph.D., MBA (od 12.30), Leoš Prokeš, MBA (od 11.00), JUDr. PhDr. Martin Příborský, EMLE (11.30-13.00)
+
+[Z9/34, fyzická strana PDF 1 — archiv](https://www.brno.cz/documents/20121/14724735/Zápis Z9_34-Z+U_P1.pdf/65894a13-c5dd-8cd2-07bf-01dcca5a46d1); [web](https://www.brno.cz/documents/20121/14724735/Zápis Z9_34-Z+U_P1.pdf/65894a13-c5dd-8cd2-07bf-01dcca5a46d1).
+
+**Z9/33, strana PDF 1:**
+
+> Připojeni on-line: Mgr. Petr Hladík, Ing. Daniel Struž, MBA, Libor Zábranský.
+
+[Z9/33, fyzická strana PDF 1 — archiv](https://www.brno.cz/documents/20121/14326396/Z9-33-Z+U_P1.pdf/d627687e-5a13-582b-5d57-38c8d470d478); [web](https://www.brno.cz/documents/20121/14326396/Z9-33-Z+U_P1.pdf/d627687e-5a13-582b-5d57-38c8d470d478).
+
+**Z9/31, strana PDF 1:**
+
+> Omluveni: Mgr. Petr Hladík, Petr Levíček, MBA, Mgr. Pavel Outrata.
+
+[Z9/31, fyzická strana PDF 1 — archiv](https://www.brno.cz/documents/20121/13566120/Z9-31-Z+U_P1.pdf/8b5e917f-4bec-2ce3-66e7-17ae3b0f1f21); [web](https://www.brno.cz/documents/20121/13566120/Z9-31-Z+U_P1.pdf/8b5e917f-4bec-2ce3-66e7-17ae3b0f1f21).
+
+[Všechny nalezené pasáže — CSV](petr-hladik_pasaze.csv).

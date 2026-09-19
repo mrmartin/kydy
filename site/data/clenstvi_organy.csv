@@ -1,0 +1,81 @@
+﻿osoba_id,organ,funkce,zneni_web,zdroj_id
+andrea-pazderova,Finanční výbor ZMB,Předseda,Ing. Andrea Pazderová,4666b6eacdc7e557
+michal-marek,Finanční výbor ZMB,Místopředseda,JUDr. Michal Marek,4666b6eacdc7e557
+jana-drapalova,Finanční výbor ZMB,Členové,Ing. Jana Drápalová,4666b6eacdc7e557
+jiri-kment,Finanční výbor ZMB,Členové,Bc. Jiří Kment,4666b6eacdc7e557
+marek-lahoda,Finanční výbor ZMB,Členové,Mgr. Marek Lahoda,4666b6eacdc7e557
+daniel-struz,Finanční výbor ZMB,Členové,"Ing. Daniel Struž, MBA",4666b6eacdc7e557
+tomas-skricka,Kontrolní výbor ZMB,Předseda,"doc. MUDr. Tomáš Skřička, CSc.",4fb358bdc289f8b9
+sabina-benesova,Kontrolní výbor ZMB,Místopředseda,"Mgr. Sabina Benešová, DiS., LL.M.",4fb358bdc289f8b9
+jakub-hruska,Kontrolní výbor ZMB,Členové,Bc. Jakub Hruška,4fb358bdc289f8b9
+vit-prygl,Kontrolní výbor ZMB,Členové,Vít Prýgl,4fb358bdc289f8b9
+adam-zemek,Kontrolní výbor ZMB,Členové,Mgr. Adam Zemek,4fb358bdc289f8b9
+monika-lukasova-spilkova,Výbor pro národnostní menšiny ZMB,Předsedkyně,"Mgr. Monika Lukášová Spilková, Ph.D.",62b8f0920d75a799
+michal-chladek,Výbor pro národnostní menšiny ZMB,Místopředseda,"JUDr. Michal Chládek, MBA",62b8f0920d75a799
+tomas-kolacny,Výbor pro národnostní menšiny ZMB,Členové,Bc. Tomáš Koláčný,62b8f0920d75a799
+bretislav-stefan,Výbor pro národnostní menšiny ZMB,Členové,Mgr. Břetislav Štefan,62b8f0920d75a799
+martin-malecek,Komise bezpečnosti a veřejného pořádku Rady města Brna,Předseda,Mgr. Martin Maleček,fcbad40aeecc0fcb
+daniel-struz,Komise bezpečnosti a veřejného pořádku Rady města Brna,Místopředseda,"Ing. Daniel Struž, MBA",fcbad40aeecc0fcb
+pavel-jankuj,Komise dopravní Rady města Brna,Předseda,Ing. Pavel Jankůj,f7ffaaa4df628701
+vit-prygl,Komise dopravní Rady města Brna,Místopředseda,Vít Prýgl,f7ffaaa4df628701
+petr-bauer,Komise dopravní Rady města Brna,Členové,Petr Bauer,f7ffaaa4df628701
+jasna-flamikova,Komise dopravní Rady města Brna,Členové,Mgr. Jasna Flamiková,f7ffaaa4df628701
+jiri-kment,Komise dopravní Rady města Brna,Členové,Bc. Jiří Kment,f7ffaaa4df628701
+marek-lahoda,Komise dopravní Rady města Brna,Členové,Mgr. Marek Lahoda,f7ffaaa4df628701
+sabina-benesova,Komise bydlení Rady města Brna,Členové,"Mgr. Sabina Benešová, DiS., LL.M.",be55ea4e802ceaf9
+blanka-borovska,Komise bydlení Rady města Brna,Členové,Mgr. Bc. Blanka Borovská,be55ea4e802ceaf9
+david-trllo,Komise bydlení Rady města Brna,Členové,Ing. David Trllo,be55ea4e802ceaf9
+jiri-herman,Komise energetiky Rady města Brna,Předseda,"RNDr. Jiří Herman, Ph.D.",d2e5419b1fe19253
+filip-leder,Komise energetiky Rady města Brna,Místopředseda,Mgr. Filip Leder,d2e5419b1fe19253
+jana-drapalova,Komise energetiky Rady města Brna,Členové,Ing. Jana Drápalová,d2e5419b1fe19253
+jakub-hruska,Komise energetiky Rady města Brna,Členové,Bc. Jakub Hruška,d2e5419b1fe19253
+tomas-kolacny,Komise energetiky Rady města Brna,Členové,Bc. Tomáš Koláčný,d2e5419b1fe19253
+pavel-kriz,Komise energetiky Rady města Brna,Členové,"Ing. Pavel Kříž, Ph.D.",d2e5419b1fe19253
+andrea-pazderova,Komise energetiky Rady města Brna,Členové,Ing. Andrea Pazderová,d2e5419b1fe19253
+kristyna-cerna,Komise kulturní Rady města Brna,Členové,Kristýna Černá,7a760dab22ad9f9e
+alena-gruberova,Komise kulturní Rady města Brna,Členové,MUDr. Alena Gruberová,7a760dab22ad9f9e
+tomas-skricka,Komise kulturní Rady města Brna,Členové,"Doc. MUDr. Tomáš Skřička, CSc.",7a760dab22ad9f9e
+monika-lukasova-spilkova,Komise kulturní Rady města Brna,Členové,"Mgr. Monika Lukášová Spilková, Ph.D.",7a760dab22ad9f9e
+michal-marek,Komise legislativně organizační Rady města Brna,Členové,JUDr. Michal Marek,4c32ba990caa8f83
+monika-lukasova-spilkova,Komise legislativně organizační Rady města Brna,Členové,"Mgr. Monika Lukášová Spilková, Ph.D.",4c32ba990caa8f83
+bretislav-stefan,Komise legislativně organizační Rady města Brna,Členové,Mgr. Břetislav Štefan,4c32ba990caa8f83
+karel-kalivoda,Komise investiční Rady města Brna,Předseda,Ing. Karel Kalivoda,5157bede1d76917e
+pavel-jankuj,Komise investiční Rady města Brna,Místopředseda,Ing. Pavel Jankůj,5157bede1d76917e
+jakub-hruska,Komise investiční Rady města Brna,Členové,Bc. Jakub Hruška,5157bede1d76917e
+pavel-kriz,Komise investiční Rady města Brna,Členové,"Ing. Pavel Kříž, Ph.D.",5157bede1d76917e
+filip-leder,Komise investiční Rady města Brna,Členové,Mgr. Filip Leder,5157bede1d76917e
+leos-prokes,Komise investiční Rady města Brna,Členové,"Leoš Prokeš, MBA",5157bede1d76917e
+radomir-vondra,Komise investiční Rady města Brna,Členové,Radomír Vondra,5157bede1d76917e
+jitka-ivicicova,Komise majetková Rady města Brna,Členové,Mgr. Jitka Ivičičová,51182b64988a199f
+michal-marek,Komise majetková Rady města Brna,Členové,JUDr. Michal Marek,51182b64988a199f
+david-trllo,Komise majetková Rady města Brna,Členové,Ing. David Trllo,51182b64988a199f
+marek-viskot,Komise majetková Rady města Brna,Členové,Mgr. Bc. Marek Viskot,51182b64988a199f
+vladan-krasny,Komise pro informační technologie Rady města Brna,Předseda,Mgr. Vladan Krásný,2af87f8a25bcc9b2
+jiri-kment,Komise pro informační technologie Rady města Brna,Členové,Bc. Jiří Kment,2af87f8a25bcc9b2
+adam-zemek,Komise pro informační technologie Rady města Brna,Členové,Mgr. Adam Zemek,2af87f8a25bcc9b2
+marek-lahoda,"Komise Rady města Brna pro veřejný prostor, bezpečnost dopravy a aktivní mobilitu („BESIP“)",Předseda,Mgr. Marek Lahoda,3027b38f254ea603
+jasna-flamikova,"Komise Rady města Brna pro veřejný prostor, bezpečnost dopravy a aktivní mobilitu („BESIP“)",Místopředsedkyně,Mgr. Jasna Flamiková,3027b38f254ea603
+radomir-vondra,"Komise Rady města Brna pro veřejný prostor, bezpečnost dopravy a aktivní mobilitu („BESIP“)",Členové,Radomír Vondra,3027b38f254ea603
+martin-priborsky,Komise Rady města Brna pro chytré a otevřené město,Předseda,"JUDr. PhDr. Martin Příborský, EMLE",c6b2c7f7e99fb9cc
+tomas-kolacny,Komise Rady města Brna pro chytré a otevřené město,Členové,Bc. Tomáš Koláčný,c6b2c7f7e99fb9cc
+matous-vencalek,Komise Rady města Brna pro chytré a otevřené město,Členové,Mgr. Matouš Vencálek,c6b2c7f7e99fb9cc
+tomas-aberl,Komise Rady města Brna pro tělovýchovu a sport,Předseda,Bc. Tomáš Aberl,c900c0a0b3e7a76d
+jaroslav-suchy,Komise Rady města Brna pro tělovýchovu a sport,Členové,Mgr. Jaroslav Suchý,c900c0a0b3e7a76d
+vladan-krasny,Komise Rady města Brna pro tělovýchovu a sport,Členové,Mgr. Vladan Krásný,c900c0a0b3e7a76d
+petra-quittova,Komise Rady města Brna pro tělovýchovu a sport,Členové,Bc. Petra Quittová,c900c0a0b3e7a76d
+marek-viskot,Komise Rady města Brna pro tělovýchovu a sport,Členové,Mgr. Bc. Marek Viskot,c900c0a0b3e7a76d
+pavel-kriz,Komise územního plánování a rozvoje Rady města Brna,Předseda,"Ing. Pavel Kříž, Ph.D.",3f44a042d4adc2a8
+jana-drapalova,Komise územního plánování a rozvoje Rady města Brna,Členové,Ing. Jana Drápalová,3f44a042d4adc2a8
+martin-malecek,Komise územního plánování a rozvoje Rady města Brna,Členové,Mgr. Martin Maleček,3f44a042d4adc2a8
+alena-gruberova,Komise sociální Rady města Brna,Členové,MUDr. Alena Gruberová,386545d9f7cecbb0
+radomir-vondra,Komise výchovy a vzdělávání Rady města Brna,Předseda,Radomír Vondra,e92df1cb3f305283
+jiri-herman,Komise výchovy a vzdělávání Rady města Brna,Místopředseda,"RNDr. Jiří Herman, Ph.D.",e92df1cb3f305283
+tomas-anderle,Komise výchovy a vzdělávání Rady města Brna,Členové,"Mgr. Bc. Tomáš Anderle, MBA, LL.M.",e92df1cb3f305283
+kristyna-cerna,Komise výchovy a vzdělávání Rady města Brna,Členové,Kristýna Černá,e92df1cb3f305283
+matous-vencalek,Komise výchovy a vzdělávání Rady města Brna,Členové,Mgr. Matouš Vencálek,e92df1cb3f305283
+dagmar-seidlova,Komise zdravotní a prorodinné politiky Rady města Brna,Předsedkyně,"MUDr. Dagmar Seidlová, Ph.D.",2f5edb08e1414059
+alena-gruberova,Komise zdravotní a prorodinné politiky Rady města Brna,Místopředsedkyně,MUDr. Alena Gruberová,2f5edb08e1414059
+jitka-ivicicova,Komise zdravotní a prorodinné politiky Rady města Brna,Členové,Mgr. Jitka Ivičičová,2f5edb08e1414059
+petr-levicek,Komise zdravotní a prorodinné politiky Rady města Brna,Členové,"Petr Levíček, MBA",2f5edb08e1414059
+petr-hladik,Komise životního prostředí Rady města Brna,Předseda,Mgr. Petr Hladík,20692e8b145ed295
+jasna-flamikova,Komise životního prostředí Rady města Brna,Členové,Mgr. Jasna Flamiková,20692e8b145ed295

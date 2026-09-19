@@ -1,0 +1,89 @@
+Volby.gov.cz - Otevřená data pro volby do zastupitestev obcí 2026 - Český statistický úřad | ČSÚ
+Přejít k obsahu
+Domů
+Otevřená data pro volby
+Otevřená data pro volby do zastupitestev obcí 2026
+Otevřená data pro volby do zastupitestev obcí 2026
+Český statistický úřad na základě usnesení vlády ze dne 4. dubna 2012 č. 243, kterým vláda schválila Akční plán České republiky "Partnerství pro otevřené vládnutí", 
+                          zveřejňuje dostupná data z výsledků voleb do zastupitestev obcí v otevřených formátech zároveň s textovým popisem obsahu zveřejněných dat.
+XML - průběžné plnění při zpracování
+Popis XML souborů pro volby do zastupitelstev obcí 2026:
+PDF
+/
+HTML
+(verze 1.0 - 14.09.2026)
+Obce - XML data - celkové výsledky za ČR
+-
+XSD popis
+Obce - XML data - výsledky za okresy a obce
+-
+XSD popis
+CZXXXX je kód okresu dle
+číselníku NUTS (MS Excel)
+/
+HTML
+Obce - XML data - výsledky za zastupitelstvo obce
+-
+XSD popis
+Poznámka: XXXXXX je kód zastupitelstva dle registru RZCOCO
+Obce - XML data - výsledky za okrsky (dávky)
+-
+XSD popis
+Poznámka: NNNNN je číslo (pořadí) dávky (vedoucí nuly), vysledky_okrsky.xml vrací poslední dávku
+Obce - XML data - výsledky za obce (dávky)
+-
+XSD popis
+Poznámka: NNNNN je číslo (pořadí) dávky (vedoucí nuly), vysledky_obce.xml vrací poslední dávku
+Registry, číselníky a okrsková data - jednotlivé soubory ke stažení
+stav k 15.09.2026
+Registry - zip balíky
+XML soubory
+/
+Excel
+/
+CSV (CSVW)
+/
+JSON
+stav k 15.09.2026
+Popis registrů:
+PDF
+/
+HTML
+/
+XSD
+Číselníky - zip balíky
+XML soubory
+/
+Excel
+/
+CSV (CSVW)
+/
+JSON
+stav k 15.09.2026
+Popis použitých číselníků:
+PDF
+/
+HTML
+/
+XSD
+Data za volební okrsky - zip balíky
+XML soubory / 
+                            Excel / 
+                            CSV (CSVW) / 
+                            JSON
+bude zveřejněno po ukončení zpracování
+Popis okrskových dat:
+PDF
+/
+HTML
+/
+XSD
+Hranice volebních okrsků 2026
+Datový portál GIS (GeoJSON, Esri Shape, GeoPackage, Esri File Geodatabase)
+Podmínky pro využívání a další zveřejňování statistických údajů ČSÚ
+© Český statistický úřad, 2026
+Otevřená data
+Prohlášení o přístupnosti
+Ministerstvo vnitra
+Ministerstvo zahraničních věcí
+@czstatistika

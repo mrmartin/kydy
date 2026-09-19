@@ -1,0 +1,1342 @@
+Rada města Brna
+
+Z9/06. zasedání Zastupitelstva města Brna
+konané dne 4.4.2023
+
+
+
+      110. Zapojení Fondu rezerv a rozvoje - návrh na poskytnutí
+   bezúročné zápůjčky z rozpočtu města Brna městské části Brno-
+   Židenice na dokončení rekonstrukce objektu Šámalova 2411/10,
+                 Brno, návrh rozpočtového opatření
+
+Anotace
+Zastupitelstvu města Brna je předkládán materiál týkající se poskytnutí zápůjčky ve výši 19 000 tis. Kč z
+rozpočtu města Brna městské části Brno-Židenice na dokončení rekonstrukce objektu Šámalova
+2411/10, Brno.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   a) poskytnutí bezúročné zápůjčky ve výši 19 000 000 Kč z rozpočtu města Brna
+                               městské části Brno-Židenice na dokončení rekonstrukce objektu Šámalova
+                               2411/10, Brno, a to za stanovených podmínek zápůjčky, které tvoří přílohu č. ...
+                               tohoto zápisu
+                               b) rozpočtové opatření dle tabulky, která tvoří přílohu č. ... tohoto zápisu, z důvodu
+                               poskytnutí zápůjčky
+
+
+Stanoviska
+
+Materiál byl předložen Radě města Brna na schůzi č. R9/024 konané dne 29.3.2023 a stanovisko
+bude sděleno.
+Materiál byl předložen na schůzi Finančního výboru Zastupitelstva města Brna konanou dne
+29.3.2023.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Petr Kunc
+  eRMB - MČ Brno-Židenice
+  29.3.2023 v 15:51
+  Garance správnosti, zákonnosti materiálu
+
+
+
+
+Sestava vytvořena 30.3.2023 v 06:40                           1/1                               Vygenerováno programem eMMB
+
+
+                                                                                                                Strana 1 / 39
+                                  Obsah materiálu
+Návrh usnesení                                        1-1
+Obsah materiálu                                       2-2
+Důvodová zpráva                                      3 - 37
+Příloha k usnesení (Podminky.pdf)                   38 - 38
+Příloha k usnesení (RO_zapujcka_Zidenice.pdf)       39 - 39
+
+
+
+
+                                                        Strana 2 / 39
+Důvodová zpráva:
+
+Zastupitelstvu města Brna je předkládán návrh na poskytnutí bezúročné zápůjčky z rozpočtu města
+Brna na dokončení rekonstrukce objektu Šámalova 2411/10 Brno-Židenice. Nově zde vzniknou 3
+ordinace pro dětské lékaře a školské prostory o ploše 402,66 m2.
+
+
+Pro daný objekt byl v roce 2019 zpracován Znalecký posudek č.12/2019 Ing. Robertem Liškou. Z něj
+vyplynuly požadavky na nutné statické zajištění objektu. Byla tedy následně zpracována PD statického
+zajištění, získáno stavební povolení a následně byla v letech 2021-2022 provedena realizace těchto
+prací. Ty zahrnovaly zejména kompletní výměnu suterénního zdiva, provedení nových základových
+konstrukcí, hydroizolace a ležaté kanalizace. Byl odstraněn strop na 1.PP a byl nahrazen novou
+železobetonovou konstrukcí. Všechny stropní konstrukce v ostatních podlažích byly kompletně
+sanovány a zesíleny. Proběhlo odstranění veškerých rozvodů technické infrastruktury a všech omítek,
+části zdiva byly přezděny nebo zesíleny. Tyto stavební práce byly provedeny ve výši 6 955 853 Kč.
+
+Bezúročná zápůjčka bude využita na dokončení rekonstrukce, tedy vybudování dětských ordinací
+v přízemí objektu a ve dvou dalších nadzemních podlažích zřízení učeben a výukových prostor.
+
+Nájemné, včetně případné finanční spoluúčasti městské části, pak bude použito na splátky této
+bezúročné zápůjčky.
+
+
+
+  Struktura investičních výdajů projektu „Rekonstrukce objektu Šámalova 2411/10 Brno-Židenice “
+                                        (v tis. Kč, včetně DPH)
+
+ MČ: příprava (projektová dokumentace)                                           972         3,6 %
+
+ MČ: stavba – 1. část                                                          3 153        11,6 %
+
+ Město (transfer z rozpočtu OI MMB, rok 2022): stavba – 1. část                4 000        14,8 %
+
+ Město (zápůjčka): dokončení rekonstrukce - předpoklad                        19 000        70,0 %
+
+                             CELKEM                                          27 125       100,0 %
+
+
+
+Přílohy:
+
+    1. Znalecký posudek č.12/2019 Ing. Robert Liška
+    2. Rekapitulace investičních nákladů
+    3. Vizualizace
+
+
+
+
+Materiál nepodléhá projednání v komisích Rady města Brna.
+
+Materiál byl předložen na R9/024. schůzi Rady města Brna konanou dne 29. 3. 2023 a stanovisko
+bude sděleno.
+
+
+
+
+                                                 1
+                                                                                                Strana 3 / 39
+                              ZNALECKÝ POSUDEK
+                                             č. 12/2019
+
+Znalecký posudek — technické posouzení stavu objektu v k.ú.Židenice, Šámalova 10, Brno, posouzení
+jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků krátkodobé životnosti, posouzení
+objektu jako celku ze statického pohledu, posouzení objektu po stránce statického zabezpečení a
+předpokládaných nákladů na statické zabezpečení.
+
+
+
+
+Objednatel:                                     Statutární město Brno,
+                                                Městská část Brno-Židenice
+                                                Gajdošova 7
+                                                615 00 Brno
+                                                 IČ: 44992785
+                                                 DIČ: CZ44992785
+
+
+
+                                                technické posouzení stavu objektu v k.ú.Židenice, Šámalova
+                                                10, Brno, posouzení jednotlivých prvků dlouhodobé
+                                                životnosti, posouzení jednotlivých prvků krátkodobé
+                                                životnosti, posouzení objektu jako celku ze statického
+                                                pohledu, posouzení objektu po stránce statického
+                                                zabezpečení a předpokládaných nákladů na statické
+                                                zabezpečení
+
+
+
+Vypracoval:                                     Ing.Robert Liška
+                                                Vršovická 30
+                                                664 47 Střelice
+                                                Znalec, obor stavebnictví
+
+
+
+
+Znalecký posudek obsahuje včetně titulního listu 28 stran textu včetně přílohy s fotodokumentací.
+Objednateli se předává ve 2 vyhotoveních.
+
+Ve Střelicích 31.3.2019
+                                                                                  UMC       Brno-Zidenice
+                                                                                  Doruceno:      12.04.2019
+                                                                                  BZID      05532/19
+                                                                                  listy:1         prilohy:
+
+
+
+
+                                                       2
+                                                                                  TU ULU
+                                                                                  bcO5es713fd18f
+
+                                                                                                              Strana 4 / 39
+ZP 12/2019              Znalecký posudek — technické posouzení stavu objektu v k.ú.Židenice, Šámalova
+10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků
+krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení objektu
+po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení
+
+
+ Osnova členění znaleckého posudku                                       :
+
+A. Úvod
+              1. Úvod
+
+B. Nález
+                        Úkol
+             NOOROGNT
+
+
+
+
+                        Prohlídka nemovitosti
+                        Podklady pro vypracování znaleckého posudku
+                        Vlastnické a evidenční údaje
+                        Dokumentace a skutečnost
+                        Literatura
+                        Vymezení pojmů
+
+C.   Posudek
+
+              1. Popis objektu s výsledky místního šetření
+              2. Odborné posouzení objektu
+              3. Posouzení vlastnických poměrů
+
+D.   Celkové zhodnocení, závěr
+
+E. Přílohy
+
+
+
+
+                                                            3
+                                                                                                        Strana 5 / 39
+ZP 12/2019 Znalecký posudek— technické posauzení stavu objektu v k. ú.Židenice, Šáma
+10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvá
+krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení obje
+po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení
+
+
+A. ÚVOD
+1.Úvod
+Tento znalecký posudek — technické posouzení stavu objektu v k.ú.Židenice, Šámalova 16
+Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků
+krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení obje
+po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení.
+
+Objednatel:              Statutární město Brno,
+                         Městská část Brno-Židenice
+                         Gajdošova 7
+                         615 00 Brno
+                         IČ: 44992785
+                         DIČ: CZ44992785
+
+
+Zvláštní požadavky:
+
+                nejsou
+
+Na zpracování odborného vyjádření se podíleli:
+Ing.Liška Robert, znalec, obor stavebnictví
+Ing.Martin Špička, Brněnská 1435/122, Šlapanice, autorizovaný inženýr geotechnika, stati
+dynamika staveb, konzultant
+
+
+
+
+                           4
+                                                                          Strana 6 / 39
+    ZP 12/2019 Znalecký posudek — technické posouzení stavu objektu v k.ú.Židenice, Šámalova
+     10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků
+    krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení objektu
+    po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení
+
+    B. NÁLEZ
+    1.Úkol
+    Na základě zjištěných skutečností vypracovat znalecký posudek - technické posouzení stavu
+    objektu v k.ú.Židenice, Šámalova 10, Brno,
+    1) posouzení jednotlivých prvků dlouhodobé životnosti
+    2) posouzení jednotlivých prvků krátkodobé životnosti
+    3) posouzení objektu jako celku ze statického pohledu
+    4) posouzení objektu po stránce statického zabezpečení a předpokládaných nákladů na
+    statické zabezpečení
+
+    2. Prohlídka nemovitosti
+    Prohlídka objektu byla realizována za přítomnosti Ing.Roberta Lišky — zpracovatele Znaleckého
+    posudku a Mgr.Veroniky Singrové — vedoucí odboru správy majetku, Úřadu městské části Brno
+    - Židenice. Při místním šetření 04.03.2019 byla provedena kompletní prohlídka objektu v
+X
+
+
+
+
+    k.ú.Židenice, Šámalova 10, Brno a téhož dne byla předána objednávka zhotoviteli znaleckého
+    posudku. Dne 07.03 a 08.03.2019 byly realizovány sondy do nosných konstrukcí objektu. Další
+    místní šetření bylo realizováno dne 11.03.2019 za účasti Ing.Roberta Lišky — zpracovatele
+    Znaleckého posudku a Ing.Martina Špičky - konzultanta Znaleckého posudku. Dne 18.03.2019
+    byly realizovány sondy do nosných konstrukcí a zjištění stavu základů objektu. Následně dne
+    20.03.2019 bylo realizováno místní šetření a veškeré tyto poznatky byly zapracovány do
+    Znaleckého posudku.
+
+    3. Podklady pro vypracování znaleckého posudku
+    - objednávka ze dne 04.03.2019
+    - Dílčí projektová dokumentace, STAVEBNÍ ÚPRAVY A UDRŽOVACÍ PRÁCE V OBJEKTU
+      ZÁKLADNÍ A MATEŘSKÉ ŠKOLY BASIC, zpracované KEEO DESIGN, ing.Davidem
+     Lapčíkem, ze dne 21.05.2018
+                 «   Půdorys   1.NP-stávající   stav,   ve Znaleckém   posudku   označeno   1.S (suterén)
+                 «   Půdorys   2.NP-stávající   stav,   ve Znaleckém   posudku   označeno   1.NP
+                 «   Půdorys   3.NP-stávající   stav,   ve Znaleckém   posudku   označeno   2.NP
+                 «   Půdorys   4.NP-stávající   stav,   ve Znaleckém   posudku   označeno   3.NP
+    - Dokumentaci pro realizaci stavby, STAVEBNĚ-TECHNICKÝ STAV OBJEKTU ŠÁMALOVA
+    10, ŽIDENICE, zodpovědný projektant: Ing.arch.Jakub Roleček, ze dne únor 2019
+    - výsledky místního šetření
+    - fotodokumentace
+
+    4.Vlastnické a evidenční údaje
+    V rámci tohoto znaleckého posudku nebyly zjišťovány vlastnické poměry.
+
+    5. Dokumentace a skutečnost
+    Posouzení skutečného stavu      objektu k datu místního šetření 04.03.2019 a k projektové
+    dokumentaci: STAVEBNÍ       ÚPRAVY A UDRŽOVACÍ PRÁCE V OBJEKTU                    ZÁKLADNÍ A
+    MATEŘSKÉ ŠKOLY BASIC, zpracované KEEO DESIGN, Ing.Davidem Lapčíkem, ze dne
+    21.05.2018
+        « | Půdorys 1.NP-slávající stav, ve Znaleckém posudku označeno 1.S (suterén)
+            Na úrovni výše uvedeného podlaží, jsou vybourány dělící příčky mezi místností číslo
+            107, 108, 109 a 110. Dále mezi místnosti číslo 111 a 112, 114, 115 a 116. V mistnosti
+            číslo 107 a na rozmezí místnosti č. 108 a 109 je osazen ocelový svařenec (průvlak)
+
+
+
+
+                                                            5
+                                                                                                            Strana 7 / 39
+                                                                                                                                  ZP 12/2019 Zi
+ZP 12/2019 Znalecký posudek— technické posouzení stavu objektu v k. ú Židenice, Šámalova
+                                                                                                                                  10, Brno, poso,
+10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků
+                                                                                                                                  krátkodobé živ
+krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení objektu
+                                                                                                                 :                po stránce stat
+po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení
+
+          v úrovní stropní konstrukce na ocelové sloupy, které jsou kotvené na betonové patky.                                     Dříve ČSN 01
+          Tento svařenec se rovněž nachází v místnosti číslo 111 a 112 (označení viz. projektová                                  Charakteristik
+          dokumentace). Na úrovní půdorysu 1.NP, resp. 1.S (suterénu) jsou vybourány veškeré                                       « kritérium po
+          vrstvy podlah až na terén, popř. podsyp. V projektové dokumentaci je uvedeno, že
+          veškeré zdivo je realizováno z cihel pálených plných. Toto tvrzení neodpovídá                                           « okamžik po:
+                                                                                                                                  * mechanism
+          skutečnosti, na základě sond bylo zjištěno, že nosné zdivo objektu s jednotlivými
+          místnostmi číslo 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118a 119 je                                     poruchy
+                                                                                                                                  * projev porur
+          tvořeno škvárobetonem (popis místností odpovídá projektové dokumentaci). Ostatní
+           nosné zdivo je realizováno z cihel s páleným střepem zděné na maltu.                                                   * příčina poru
+    « | Půdorys 2.NP-stávající stav, ve Znaleckém posudku označeno 1NP
+           Na úrovni výše uvedeného podlaží, nejsou zjištěny žádné odchylky od předložené
+           projektové dokumentace. Pouze vnitřní dvouramenné schodiště je předěleno OSB
+           deskou pro zamezení vstupu do suterénu.                                                                                 «       důsledek pc
+           Půdorys 3.NP-stávající stav, ve Znaleckém posudku označeno 2NP
+     « © Naúrovní výše uvedeného podlaží, nejsou zjištěny žádné odchylky od předložené
+                                                                                                                                   Třídění poruci
+           projektové dokumentace.
+                                                                                                                                   * poruchazv
+     « | Půdorys 4.NP-stávající stav, ve Znaleckém posudku označeno 3.NP
+                                                                                                                                  příčin
+           Na úrovni výše uvedeného podlaží, nejsou zjištěny žádné odchylky od předložené
+                                                                                                                                   * poruchazv
+           projektové dokumentace.
+                                                                                                                     i            příčin
+Posouzení skutečného stavu objektu k datu místního šetření 04.03.2019ak Dokumentaci pro                                                                  |
+                                                                                                                                   * nezávislápi
+realizací stavby, STAVEBNĚ-TECHNICKÝ STAV OBJEKTU ŠÁMALOVA 10, ŽIDENICE,
+                                                                                                                                   prvku                 '
+zodpovědný projektant: Ing.arch.Jakub Roleček, ze dne únor 2019
+                                                                                                                                   « závislá porn        |
+      « © Popis jednotlivých konstrukcí je řešen v samostatné kapitole Odborné posouzení
+                                                                                                                                   prvku                 :
+            objektu.
+                                                                                                                                   «       konstrukční
+
+Z6. =Literatura                                                                                                                    « systematick
+                                                                                                                                   porucha
+ «       Zákon č. 183/2006 Sb. v platném znění stavební zákon                                                                      * výrobní por:
+ «       vyhláška č. 499/2006 Sb. v platném znění o dokumentaci staveb                                                             * provozní po
+ *       vyhláška č. 268/2009 Sb. v platném znění o technických požadavcích na stavby
+                                                                                                                                   *       porucha do:
+ 7. Vymezení pojmů
+ K dané problematice se vztahují některé vybrané statě z právních a technických norem:
+                                                                                                                                   « opravárens
+                                                                                                                                   porucha
+ Dříve ČSN 01 0102/1981 Jevy, stavy a činnosti
+ * vada                 rozdíl mezi pozorovanou           hodnotou     některé veličiny a její správnou   nebo
+                               očekávanou hodnotou (ČSN 01 0101/1970)                                                                  Třídění poruci
+                                                      ,                  ,          .                                              «       náhlá poruc
+                               ,       s
+ *       porucha               jev spočívající v ukončení provozuschopného stavu objektu
+                                                                                                                                                          i
+         poškození             jev spočívající v narušení bezvadného stavu objektu
+                                                                                                                                       *   postupnáp     '
+     «   bezvadný stav          stav objektu, ve kterém objekt odpovídá všem požadavkům stanoveným
+                                technickou dokumentací
+     *   provozuschopný stav    stav objektu, ve kterém je objekt schopen plnit (nebo plní) stanovené funkce
+                                a   dodržuje   hodnoty   stanovených       parametrů   v mezích   stanovených                          «   občasná pc
+                                technickou dokumentací
+
+         poruchový stav         stav objektu, při kterém objekt není schopen plnit požadovanou funkci                                  Třídění poruc.
+     «
+                                v mezich, daných technickou dokumentací                                                  :             * závada
+                                                                                                                         i
+     «    provoz                stav, při kterém objekt plní požadovanou funkci
+     «    prostoj               stav, při kterém objekt v době užívání není v provozu
+                                jev, spočívající v obnovení schopností objektu, objekt po poruše plní                        ©         *   úplná poruc
+     «    obnova
+                                požadované funkce podle technických podmínek; k obnově může dojít např.
+                                okamžitou      výměnou     nebo.  ukončením     opravy porušeného prvku                       :
+                                 uvažovaného objektu                                                                         i         «   částečná pí
+
+
+
+
+                                                                       6
+                                                                                                                                  Strana 8 / 39
+          ZP 12/2019 Znalecký posudek— technické posouzení stavu objektu v k.ú. Židenice, Šámalova
+          10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků
+          krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení objektu
+          po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení
+
+          Dříve ČSN 01 0102/1981 Poruchy
+          Charakteristika poruch
+          « kritérium poruchy       souhrn znaků charakterizujících přechod objektu z bezporuchového stavu
+                                    do stavu poruchového
+          « okamžik poruchy         okamžik přechodu objektu z bezporuchového stavu do stavu poruchového
+          « mechanismus             souhrn fyzikálních, chemických nebo jiných procesů, vedoucích ke vzniku
+          poruchy                   poruchy objektu
+          « projev poruchy          způsob, jakým se poruchový stav projevuje
+          «   příčina poruchy       okolnosti, činnosti nebo rozhodnutí osob, které vyvolají nebo zrychlí
+                                    mechanismus poruchy; rozlišují se vnější příčiny způsobené nedodržením
+                                    provozních podmínek a vnitřní příčiny způsobené nedostatky při projekci,
+                                    konstrukci a výrobě objektu
+          «   důsledek poruchy      souhm technických, ekonomických a společenských účinků vzniku
+                                    poruchového objektu
+
+        Třídění poruch podle příčin jejich vzniku
+       « porucha z vnějších © porucha vzniklá nedodržením stanovených provozních podmínek a
+      příčin                        předpisů pro zatěžování, obsluhu a údržbu
+       « porucha z vnitřních   porucha způsobená vlastní nedokonalostí objektu při zachování
+      příčin                   stanovených provozních podmínek a předpisů pro zatěžování
+       « nezávislá porucha     porucha prvku soustavy, která nebyla způsobena vadou (nebo poruchou)
+      prvku                    jiného prvku soustavy
+       « závislá porucha       porucha prvku soustavy, která byla způsobena vadou (nebo poruchou)
+       prvku                   jiného prvku soustavy
+       « konstrukční porucha © porucha způsobená chybou konstruktéra nebo nedokonalostí konstrukčních
+                               metod
+       « systematická          porucha opakující se u stejných výrobků a způsobená konstrukčními
+       porucha                 nedostatky objektu, závadami ve výrobním procesu apod.
+       « výrobní porucha       porucha způsobená nedodržením stanoveného výrobního postupu
+       « provozní porucha      porucha způsobená nedodržením stanovených provozních předpisů a
+                               (nebo) podmínek
+       * porucha dožitím       souhrnný název pro poruchy vzniklé jako důsledek stámuti, opotřebování,
+                               únavy nebo jiného mechanismu, naznačující blízký konec technického
+                               života objektu (porucha únavou, porucha opotřebováním, porucha stárnutím
+                               apod.)
+       * opravárenská          porucha způsobená nedokonalosti opravy nebo nedodržením stanoveného
+      porucha                      předpisu pro opravu
+bo
+       Třídění poruch podle jejich časového průběhu
+      * náhlá porucha            porucha vzniklá prudkou změnou (skokem) hodnot jednoho nebo několika
+                                 parametrů objektu; zpravidla nemůže být předvídána na základě výsledků
+                               * předchozí prohlídky nebo zkoušky
+      * postupná porucha         porucha vzniklá v důsledku postupné změny hodnot jednoho nebo několika
+jm                               parametrů objektu; zpravidla může být zjištěna nebo předvídána předchozí
+
+ce                                 prohlídkou nebo zkouškou
+ch    «       občasná porucha      porucha objektu, která trvá po omezenou dobu, po níž objekt opět dosáhne
+                                   bezporuchového stavu bez vnějšího zásahu
+
+«cí    Třídění poruch podle jejich důsledku a stupně porušení provozuschopnosti
+      *+ závada                 drobná vada, která nemá vliv na schopnost objektu plnit požadovanou
+
+                                   funkci v provozu
+lní   *       úplná porucha        porucha v důsledku odchylek hodnot jednoho nebo několika parametrů
+př.                                objektu od úrovně stanovené technickými podmínkami, a to takových
+ku                                 odchylek, které úplně zabraňují použití objektu
+      «       částečná porucha     porucha v důsledku odchylek hodnot jednoho nebo několika hlavních
+                                   parametrů objektu od úrovně stanovené technickými podmínkami, nikoli
+
+                                                                                                            6
+
+
+                                                             7
+                                                                                                                Strana 9 / 39
+ZP 12/2019 Znalecký posudek— technické posouzení stavu objektu v.k.ú.Židenice, Šámalova
+10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků
+krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení objektu
+po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení
+
+                              však takových odchylek, které by úplně zabránily použití objektu
+«   havarijní porucha         porucha, která je náhlá a úplná
+«   degradační porucha      © porucha, která je postupná a částečná
+
+Dříve ČSN 01 0660/1987 Opravy a údržba
+« údržba               souhrn všech technických a organizačních opatření zaměřených                    na
+                       udržování nebo obnovování provozuschopného stavu objektu
+* oprava               soubor činností zaměřených na obnovování provozuschopného nebo
+                       bezvadného stavu objektu, nebo jeho součástí.
+                              Pozn.: Do oprav je možno zahrnout přípravu, hledání vady. kontrolu
+                              technického stavu, obnovu součástí, montáž apod. Některé činnosti opravy
+                              se mohou prolínat s obsahem některých činnosti preventivní údržby.
+                              Oprava objektů se může provádět výměnou nebo obnovou jednotlivých
+                              součástí a skupin
+«   technická diagnostika     proces zjišťování technického stavu objektu se zadanou přesností a
+                              věrohodností
+
+
+
+
+                                                   8
+                                                                                                   Strana 10 / 39
+ZP 12/2019 Znalecký posudek — technické posouzení stavu objeklu v k. ú.Židenice, Šámalova
+10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků
+krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení objektu
+po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení
+
+C. POSUDEK
+1. Popis objektu s výsledky místního šetření
+Předmětem posouzení je objekt v k.ú.Židenice, Šámalova 10, Brno. Jedná se o koncový objekt,
+který je podsklepený, má tři nadzemní podlaží. Objekt respektuje uliční čárou, je lehce
+zalomený.
+Objekt je přístupný po zpevněné komunikaci. Ze dvorní části je samostatný vstup do kotelny,
+skladu a suterénu objektu.
+Celkový objekt pro účely Znaleckého posudku rozdělíme z důvodu popisu jednotlivých
+konstrukcí na dva objekty. Při čelním pohledu z ulice Šámalova nazveme levou část objektu
+objekt „A“ a pravou část objekt „B“. Objekt je provozně propojený, ale tvoří jeden funkční celek.
+Je zřejmé, že obě části nejsou realizovány ve stejném časovém období.
+Popis objektu „A“ :
+Objekt je přístupný samostatným vstupem z ulice Šámalova pomocí venkovního schodiště a
+nebo pomocí rampy pro imobilní. Rovněž je možno vstoupit do objektu z dvorní části na
+spojovací dvouramenné schodiště, odkud je přístup do jednotlivých částí objektu. Objekt je
+přibližně čtvercového tvaru (10 070 x 9 630) a skládá se z vnitřního dvouramenného schodiště
+z úrovně prvního podzemního podlaží až do třetího nadzemního podlaží.
+Na úrovní prvního podzemního podlaží se nachází pouze podesta se vstupem do dvorní části,
+dále kotelna se samostatným vstupem, dva sklady rovněž se samostatnými vstupy a jedním
+skladem, který je přístupný z podzemního podlaží objektu „B“.
+Na úrovni prvního nadzemního podlaží se nachází dvouramenné vnitřní schodiště, šatna,
+kancelář, koupelna, WC a kuchyně. Tato část objektu je provozně propojena s objektem „B“
+Na úrovni druhého nadzemního podlaží se nachází vnitřní dvouramenné schodiště a učebna,
+která je provozně propojena s objektem „B“.
+Na úrovní třetího nadzemního podlaží se nachází vnitřní dvouramenné schodiště, recepce,
+kuchyně, WC, umyvadlo a ředitelna. Přes recepci je možno vstoupit do objektu „B“.
+Tento popis objektu odpovídá předložené projektové dokumentaci a skutečnosti zjištěné při
+místním šetření.
+
+
+
+
+                                                    9
+                                                                                                    Strana 11 / 39
+ ZP 12/2019   Znalecký posudek — technické posouzení stavu objektu v k.ú.Žid
+                                                                            enice,    Šámalova        ZP 12/201
+ 10, Brno, posouzení jednotlivých prvků dlouhodobé životnos
+                                                            ti, posouzení jednotlivých prvků          10, Brno, p
+ krátkodobé životnosti, posouzení objektu jako celku ze statického
+                                                                   pohledu, posouzení objektu         Krátkodobé
+ po stránce statického zabezpečení a předpokládaných
+                                                        nákladů na statické zabezpečení              po stránce
+
+                                                                                                      1152116.
+                                                                                                      je zachova
+                                                                                                      vybourány
+                                                                                                      Na úrovni p
+                                                                                                      dvouramer
+                                                                                                      propojena :
+                                                                                                      Na úrovni c
+                                                                                                      chodba, W.
+                                                                                                      objektu je [
+                                                                                                      předložené
+                                                                                                      Na úrovní t
+                                                                                                      dvouramen
+
+
+
+
+Popis: uliční pohled na část objektu s označením „A“
+
+Popis objektu „B“ :                                               m            .      :
+Do popisovaného objektu je možno samostatně vstoupit z dvorní části a nebo z jednotlivých
+úrovní z objektu „A“.                                                .     .
+Na úrovni prvního podzemního podlaží se nachází dle předložené projektové dokumentace
+chodba, šest skladů, plynoměr, školník, vnitřní dvouramenné schodiště s východem do dvorní
+části, umyvárna a nářadí. Tento stav neodpovídá výsledkům místního šetření, na úrovni prvního
+podzemního podlaží se nachází pouze dva sklady (m.č.111, 112), plynoměr, sklady m.č.114,
+
+
+
+
+                                                             10
+                                                                                                 Strana 12 / 39
+ZP 12/2019 Znalecký posudek— technické posouzení stavu objektu v k. ú.Židenice, Šámalova
+10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků
+krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení objektu
+po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení
+
+115 a 116 jsou vybourány dělící příčky a tudíž vnikl jeden samostatný prostor. Místnost školníka
+je zachovaná, V místnostech nářadí (108), skladu (109) a umývárny (110) jsou rovněž
+vybourány dělící příčky a vznikl jeden samostatný prostor.
+Na úrovni prvního nadzemního podlaží se nachází výdejna jídla s hernou, lehárna, vnitřní
+dvouramenné schodiště, chodba, úklid, umývárna a záchody. Tato část objektu je provozně
+propojena s objektem „A“. Tato dispozice odpovídá skutečnosti.
+Na úrovni druhého nadzemního podlaží se nachází tři učebny, vnitřní dvouramenné schodiště,
+chodba, WC invalidi, úklid, VVC chlapci, umyvadlo chlapci, umyvadlo dívky, VYC dívky. Tato část
+objektu je provozně propojena s objektem „A“ a popsaná dispozice odpovídá skutečnosti a
+předložené projektové dokumentaci.
+Na úrovní třetího nadzemního podlaží se nachází dvě kanceláře, sborovna, vnitřní propojovací
+dvouramenné schodiště a dvě půdy.
+
+
+
+
+                                                                                              10
+
+
+                                                    11
+                                                                                                   Strana 13 / 39
+ZP 12/2019 Znalecký posudek — technické posouzení stavu objektu v k.ú.Židenice, Šámalova                            ZP
+10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků                          10,
+krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení objektu                        kré
+po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení                             po
+
+
+
+
+Popis: uliční pohled na část objektu s označením „B
+
+
+2. Odborné posouzení objektu
+   s © posouzení jednotlivých prvků dlouhodobé životnosti
+           Základy — u objektu „A“ nebyly zjišťovány, vzhledem k tomu, že objekt nevykazuje
+           vady ani poruchy lze předpokládat, že je tato část stabilizovaná.
+
+
+
+                                                                                               1
+
+                                                      12
+                                                                                                   Strana 14 / 39
+ZP 12/2019 Znalecký posudek — technické posouzení stavu objektu v k.ú.Židenice, Šámalova
+10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků
+krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení objektu
+po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení
+
+            U části objektu „B“ byly realizovány sondy u obvodového zdiva i u nosného zdiva a
+            lze konstatovat:
+       = © v místnosti číslo 111 u obvodové zdi směrem do ulice byl zjištěn betonový základ o
+            hloubce cca 250mm    pod úrovní stávajícího terénu, u nosné zdi k místnosti číslo
+            103 byl zjištěn betonový základ o tloušťce ooa 200mm a u středové nosné zdi byl
+            zjištěn rozšířený betonový základ o tloušťce cca 120mm, v tomto případě se
+            jednalo zřejmě o podkladní beton pro následnou konstrukci bednění
+
+       -©   v místnosti číslo 113 u vnitřní nosné zdi směrem k místnosti číslo 112 byl zjištěn
+            základ o hloubce cca 250mm
+
+       - © v místnosti číslo 114, 115 a 116 byla realizována sonda u dělící nosné zdi směrem
+           k místnosti číslo 113 a byl zajištěn základ o hloubce cca 200mm, u obvodového
+           zdiva směrem do ulice byl zajištěn základ o hloubce cca 150mm
+
+       - © V mistnosti číslo 117 byla realizována sonda u obvodového zdiva směrem do dvorní
+           části a byl zajištěn rozšířený základ o tloušťce cca 200mm, u vnitřní nosné zdi
+           směrem k vnitřnímu schodišti byl rovněž zajištěn rozšířený základ o tloušťce
+           200mm
+
+       - © V místnosti číslo 118 byla naproti nástupnímu rameni vnitřního schodiště u středové
+           nosné zdi realizována sonda a byl zajištěn základ ze škvárobetonu o hloubce cca
+           500mm, v téže místnosti byla realizována sonda u vnitřní dělící nosné zdi a
+           místností číslo 109 a 110, byl zde zjištěn základ ze škvárobetonu o hloubce cca
+            500mm
+            Na základě zjištěných skutečností lze konstatovat, že objekt „B“ nemá základy,
+            resp. betonová vrstva pod nosnými zdmi je spíše vyrovnávací vrstva a
+            škvárobetonový základ není vhodný jelikož nemá rozšířenou plochu pro přenesení
+            napětí do základové spáry.
+
+            Svislé nosné konstrukce — u objektu „A“ bylo na základě sond zjištěno, že svislé
+            nosné stěny jsou realizovány z pálených cihel zděné na maltu ve všech patrech
+            objektu.
+
+            U objektu „B“ bylo na základě sond zjištěno, že svislé nosné zdivo v suterénu (v
+            projektové dokumentaci označeno 1.NP) je realizováno ze škvárobetonu, misty
+            proložené kamenem a cihlou. Toto zdivo je ve velmi špatném stavu, drolí se jen
+            drobným mechanickým otěrem. V důsledku tohoto stavu, nelze odebrat z tohoto
+            zdiva vrt a zjistit pevnost v tlaku zdiva. Ve škvárobetonovém zdivu nebyla zjištěna
+            výztuž v místě narušení nosného zdiva a dále bylo zajištěno lokální proložení
+            pálenou cihlou a kamenem, což oslabuje pevnost zdiva v tlaku. Jedná se o
+            nekompaktní konstrukci zdiva. Na základě sond v následujících nadzemních
+            podlažích je obvodové zdivo realizováno z pálených cihel zděné na maltu.
+
+            Na základě zjištěných skutečností lze konstatovat, že objekt „B“ na úrovni suterénu
+            (v projektové dokumentaci označeno 1.NP) je v nesoudržném stavu a vykazuje
+            značné narušení. Jedná se o nekompaktní zdivo.
+
+            Vodorovné nosné konstrukce — u objektu „A“ bylo na základě sond zjištěno, že
+            stropy jsou realizovány pomocí keramických stropních vložek HURDIS a ocelových
+            nosníků, Nad keramickými vložkami byl realizován betonový potěr, následně
+            škvárový násyp, dále betonová mazanina a nášlapná vrstva z PVC. Betonový potěr
+            nad keramickou vložkou spolupůsobí s touto vložkou, což není vhodné a může dojít
+            k „rohlíkovatění“ betonu a tudíž praskání keramické vložky u spodního líce, Sondy
+            byly realizovány v místnostech číslo 202, 302 a 402 na rozmezí chodby místnost
+            číslo 407.
+
+
+
+
+                                                                                                  12
+
+
+                                                  13
+                                                                                                       Strana 15 / 39
+ZP 12/2019 Znalecký posudek- technické posouzení stavu objektu v k.ú.Židenice, Šámalova
+10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků
+krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení objektu
+po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení
+
+            U objektu „B“ na základě sond bylo zjištěno, že stropní konstrukce nad suterénem
+           je realizována (v projektové dokumentaci označeno 1.NP) z monolitického betonu
+            opatřená hladkou výztuží, v nosném směru o dimenzi 4,5mm, osové vzdálenosti
+            250-330mm a v opačném směru 7,5mm a osové vzdálenosti 180-220mm. Hladká
+            výztuž se nyní nesmí navrhovat do železobetonových konstrukcí. Tloušťka
+            betonové desky v místě sond byla zjištěna 100 až 115 mm, na tuto desku byl
+            proveden škvárový násyp, do kterého jsou osazeny povaly 80/70mm, na ty jsou
+            osazeny prkna a OSB desky o tloušťce 50mm a nášlapná vrstva PVC. Sondy byly
+            realizovány v místnosti číslo 211 jídelně cca uprostřed místnosti a 211 herny v rohu
+            u štítového zdiva a středové nosné zdi. Další sondy byly realizovány v místnosti
+            číslo 212 u středové zdi a u obvodového zdiva směrem do dvorní části, Monolitická
+            nosná deska s hladkou výztuží vykazuje značnou deformaci konstrukce, tento stav
+            je zřejmý při pohledu na trhliny a průhyby vzniklé na této konstrukci. Je zřejmé, že
+            tyto deformace se projevily již dříve, proto v místnosti číslo 212 jsou osazeny dva
+            ocelové nosníky, které tvoří podpůrnou konstrukci stropu. Stropní konstrukce nad
+            suterénem (v projektové dokumentaci označeno 1.NP) je v havarijním stavu, místy
+             je nedostatečně podepřená, hrozí nebezpečí zřícení. Stropní konstrukce nad 1.NP
+             (v projektové dokumentaci označeno 2.NP) je v místě sondy v místnosti číslo 310
+             realizována jako dřevěná pomocí nosného trámu 180/220. Na trámy jsou osazeny
+            dřevěné desky, následně povaly 100/70, dřevěná prkna a OSB desky s nášlapnou
+            vrstvou PVC. V místnosti číslo 311 je stropní konstrukce realizována pomocí
+             dřevěného trámu 150/200, na tyto trámy jsou osazeny dřevěná desky, betonová
+             mazanina, potěr a nášlapná vrstva z PVC. Stropní konstrukce nad 2.NP (v
+             projektové dokumentaci označeno 3.NP) je realizována pomocí dřevěných
+             stropních trámů 80/200, na které jsou osazeny desky, poval do násypu, následně
+             prkna a OSB desky s nášlapnou vrstvou z PVC.
+            Na základě zjištěných skutečností lze konstatovat, že objekt   „B“ nad úrovní
+            suterénu (v projektové dokumentaci označeno 1.NP) je v havarijním stavu a
+            stávající podepření stropní konstrukce je nedostačující. Doporučuji bez odkladu
+            realizovat podepření stropní konstrukce v suterénu v místech vybouraných příček
+            S plošným roznesením zatížením (nedoporučuji bodové podepření).
+
+            Střešní nosné konstrukce — u objektu „A“ i „B“ je střešní konstrukce řešena jako
+            trámová konstrukce, v půdním prostoru je zřejmé zatékání do konstrukce krovu, což
+            má negativní vliv na konstrukci krovu.
+
+            Na základě zjištěných skutečností lze konstatovat,   že konstrukce krovu je narušena
+            vlivem zatékání do střešní konstrukce.
+
+            Schodišťové konstrukce — u objektu „A“ je dvouramenné schodiště řešeno jako
+            ocelové s dřevěnými nášlapy a ocelovým zábradlím.
+
+            U objektu „B“ je dvouramenné schodiště řešeno jako betonové s ocelovým
+            zábradlím.
+
+            Na základě zjištěných skutečností lze konstatovat, že schodiště objektu    „A“ i „B“
+            nevykazuje žádné zjevné narušení.
+    « | posouzení jednollivých prvků krátkodobé životnosti
+             Povrchové úpravy stěn (omítky, obklady, nátěry, ...) - u objektu „A“ i „B“ jsou
+            omítky, obklady a nátěry na jednotlivých úrovních podlaží v dobrém stavu.
+            Standardní úroveň vybavení odpovídá předešlému užívání (mateřská škola a
+            základní škola). Pouze na úrovní suterénu (v projektové dokumentaci označeno
+            1.NP) jsou omítky, obklady a nátěry v havarijním stavu, a nebo chybí úplně, jsou
+            mechanicky narušené vlivem stavebních úprav v tomto prostoru započaté.
+
+             Podlahy - u objektu „A“ i „B“ jsou podlahy na jednotlivých úrovních podlaží
+             v dobrém stavu. Standardní úroveň vybavení odpovídá předešlému užívání
+             (mateřská škola a základní škola). Na objektu „B“ na úrovní suterénu (V projektové
+
+                                                                                                   13
+
+
+                                                  14
+                                                                                                        Strana 16 / 39
+ZP 12/2019 Znalecký posudek— technické posouzení stavu objektu v k.ú.Židenice, Šámalova
+10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků
+krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení objektu
+po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení
+
+            dokumentaci označeno 1.NP) podlahy úplně chybí, v místnosti číslo 107, 108 a 109
+            jsou pouze pozůstatky podlah. Na úrovní 2.NP a 3,NP (v projektové dokumentaci
+            označeno 3.NP a 4.NP) vykazují podlahy lehký průhyb při jednotlivém průchodu,
+            tento stav již neodpovídá standardu, jedná se o částečnou poruchu.
+            Oplechování — parapety, lemování střechy, žlaby a svody jsou realizovány z
+            pozinkovaného plechu bez povrchové úpravy. V tomto případě se nejedná o
+            havarijní stav, pouze nutno ověřit funkčnost klempířských prvků na střešní rovině
+            z důvodu zatékání.
+            Výplně otvorů — okna jsou dřevěná zdvojená, namátkovou kontrolou bylo zjištěno,
+            že jsou funkční pro zajištění větrání, ale s ohledem na již požadovaný standard a
+            samotný stav s ohledem na údržbu jsou na pokraji životnosti,
+
+           Izolační vrstvy - u objektu „B“ nebyly zjištěny hydroizolace, tudíž objekt není
+           chráněn proti zemní vlhkosti. Tento stav je zjevný na zdivu v suterénu (v projektové
+           dokumentaci označeno 1.NP),
+
+   « | posouzení objektu jako celku ze statického pohledu
+
+           Objekt „A“ je ze statického hlediska na základě místních šetření a jednotlivých
+           zajištěných sond bez zjevných závad. Lze jej užívat bez jakýchkoliv omezení a
+           úprav. Jednotlivé prvky dlouhodobé životnosti nevykazují žádnou zjevnou vadu a
+           tudíž jako celek jedná se o bezproblémový stav objektu „A“.
+
+           Objekt „B“ je ze statického hlediska v havarijním stavu, vykazuje zásadní narušení
+           nosného zdiva suterénu (v projektové dokumentaci označeno 1.NP), chybějící
+           základy, nebo nedostatečné základy. Rovněž stropní konstrukce nad suterénem (v
+           projektové dokumentaci označeno 1.NP) vykazuje havarijní stav, doporučuji tento
+           stav bezodkladně řešit s ohledem na bezpečnost zdraví osob pohybujících se
+           v okolí objektu a na okolní majetek, který by byl vlivem dalších deformací objektu
+           ohrožen. Jedná se o úplnou poruchu objektu s ohledem na narušení jednotlivých
+           nosných konstrukcí v suterénu. Doporučuji realizovat statické zabezpečení objektu
+           „B“ dalšími podporami v suterénu. Stávající jsou nedostačující. Uzavřít prostor pro
+           vstup do 1.NP (v projektové dokumentací označeno 2.NP), V těchto prostorách by
+           neměly být realizovány žádné práce, které by aktivovali další deformace objektu.
+           V případě rozhodnutí, že dojde k demolici objektu „B“ a zachování objektu „A“ je
+           nezbytné tyto práce realizovat se značnou opatrností tak, aby nedošlo k narušení
+           statiky objektu „A“
+
+   * | předpoklad nákladů na statické zabezpečení
+
+           Objekt „B“ je možno staticky provizorně zabezpečit pouze v krátkodobém horizontu,
+           po dobu nezbytně nutnou. Předpoklad nákladů pro krátkodobé statické
+           zabezpečení cca 100 000,-( podepření a zazdění průchodu mezi objektem „A“ a
+           objektem „B“. Z dlouhodobého hlediska a s ohledem na neúnosnost nosných stěn
+           suterénu (v projektové dokumentací označeno 1.NP) a havarijního stavu stropní
+           konstrukce, S ohledem na to, že nejsou realizovány základy pod nosnými zdmi,
+           nosné zdí jsou v havarijním stavu a stropní konstrukce nad neúnosnými zdmi je
+           v havarijním stavu není možné provádět odbourávání jednotlivých částí nosného
+           zdiva, v tomto místě realizovat základový pas, vyzdít nosné zdivo a tyto kroky
+           provádět s postupným provázáním základů a nosného zdiva s podepřením stropní
+           konstrukce. Částečné odbourávání by staticky narušovalo únosnost a stabilitu
+           dalších částí nosných konstrukcí a tím by docházelo k ohrožení pracovníků
+           pohybujících se v tomto prostoru. Dále by tyto práce narušovaly ostatní prvky a
+           vzniklé deformace by narušovaly jejich bezvadný stav. S ohledem na opotřebení
+           jednotlivých konstrukcí a zbytkovou životnost, doporučuji tuto část objektu odbourat.
+
+
+
+
+                                                                                                14
+
+                                                  15
+                                                                                                     Strana 17 / 39
+ZP 12/2019 Znalecký posudek — technické posouzení stavu objektu v k.ú.Židenice, Šámalova                             ZP
+10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků                           10,
+krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení objektu                         krá
+po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení                                  Bo
+
+3. Posouzení vlastnických poměrů
+Znalecký posudek neřeší majetkové poměry, nebylo předmětem zadání.
+                                                                                                                     Te
+
+
+
+
+                                                                                                                      sk
+                                                                                                                      z
+
+
+                                                                                                                       T
+                                                                                                                       m
+
+
+
+
+                                                                                               15
+
+
+                                                   16
+                                                                                                    Strana 18 / 39
+ZP 12/2019 Znalecký posudek — technické posouzení stavu objektu v k.ú.Židenice, Šámalova
+10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků
+krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení objektu
+po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení
+
+D. CELKOVÉ ZHODNOCENÍ, ZÁVĚR
+Tento    znalecký   posudek   je zpracováno   za   účelem      - technického         posouzení        stavu    objektu    v
+k.ú.Židenice, Šámalova 10, Brno
+
+    1)    posouzení jednotlivých prvků dlouhodobé životnosti
+
+          U objektu „B“ nosné stěny v suterénu (v projektové dokumentaci označeno 1.NP)
+          a stropní konstrukce nad suterénem (v projektové dokumentaci označeno 1.NP)
+          jsou v havarijním stavu, jedná se o úplnou poruchu, poruchový stav! Základy
+          v této části objektu chybí a nebo jsou nedostatečné!
+
+    2)    posouzení jednotlivých prvků krátkodobé životnosti
+
+          Jednotlivé prvky krátkodobé životnosti jsou ve standardním a nebo v
+          podstandardním provedení.
+
+    3)    posouzení objektu jako celku ze statického pohledu
+
+          Objekt „B“ Ize považovat za poruchový stav, úplnou poruchu. Jedná se o
+          havarijní stav. Doporučuji okamžitě řešit tento stav s ohledem na případné
+          nebezpečí na přilehlé okolí. Nedoporučuji v tomto objektu realizovat jakoukoliv
+          činnost, která by vedla ke zhoršení již velmi nebezpečného stavu.
+
+    4)    posouzení objektu po stránce statického zabezpečení a předpokládaných nákladů na
+          statické zabezpečení
+
+          S ohledem na zjištěné skutečnosti lze konstatovat, že realizovat trvalé statické
+          zabezpečení objektu „B“ nelze bezpečně realizovat.
+
+Objednatel prohlašuje, že zhotoviteli znaleckého posudku nebyly zatajeny ani zkresleny žádné
+skutečnosti, které by jej uvedly v omyl při zpracování tohoto odborného posouzení a se
+zpracováním souhlasí.
+
+Upozornění:
+Tento znalecký posudek smí být rozmnožován pouze jako celek, a to s přílohami, které k němu
+náležejí.
+                                                               Znalecká             doložka
+                                               Znalecký posudek jsem podal jako znalec jmeno
+Ve Střelicích 31.03.2019                                                                     vaný      rozhodnutím
+                                              Krajského soudu v Brně ze dne 12.6. 2012, čj. Spr
+                                                                                                      4544/2011-26
+                                               pro základní obor stavebnictví, pro odvětví stavb
+                                                                                                 »y obytné a stavby
+                                              průmyslové,                              E op
+                                               Znalecký úkon je zapsán pod poř..     lena. znalec. deníku.
+Ing.Robert Liška                               Znalečné a náhradu nákladů (náhr. mzdy) účtuji
+                                                                                              podlepřipojené
+Znalec, obor stavebnictví                     likvidace na základě dokladů čís. „42/7213
+                                              otisk kulaté pečeti               podpis znalce
+
+
+
+
+                                                                                                                         16
+
+
+                                                         17
+                                                                                                                              Strana 19 / 39
+ZP 12/2019 Znalecký posudek — technické posouzení stavu objektu v k. ú.Židenice, Šámalova
+10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků
+krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení objektu
+po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení
+
+E. PŘÍLOHY
+
+
+
+
+Foto č. 1: uliční pohled na posuzovaný objekt, který za účelem posudku byl rozdělen na objekt
+„A“ a objekt „B“
+
+
+
+
+                                                                                               17
+
+
+                                              18
+                                                                                                Strana 20 / 39
+  ZP 12/2019 Znalecký posudek — techn
+                                          ické posouzení stavu objektu v k.ú.Ž
+  10, Brno, posouzení jednotlivých prvků                                        idenice, Šámalova
+                                           dlouhodobé životnosti, posouzení jedno
+  krátkodobé životnosti, posouzení objek                                           tlivých prvků
+                                         tu jako celku ze sta. tického pohledu, poso
+ po stránce statického zabezpečení a                                                 uzení objektu
+                                       předpokládan ých ná kladů na statické
+                                                                                zabezpečení
+
+
+
+
+Foto č. 2: dvorní pohled na posuzovaný objekt
+                                              , který za účelem posudku byl rozdělen
+„A“ a objekt „B“                                                                     na objekt
+
+
+
+
+                                                                                               18
+
+                                                       19
+                                                                                                     Strana 21 / 39
+   ZP 12/2019 Znalecký posudek — technické posou
+                                                    zení stavu objektu v k.ú.Židenice, Šámalova
+    10, Brno, posouzení jednotlivých prvků dlouhodobé
+                                                       životnosti, posouzení jednotlivých prvků
+   krátkodobé životnosti, posouzení objektu jako celku ze static
+                                                                  kého pohledu, posouzení objektu
+   po stránce statického zabezpečení a předpokládaných nákla
+                                                                 dů na statické zabezpečení
+
+
+
+
+                                                                                                        ©
+
+
+
+
+                                                                                                                         n
+
+
+
+                                                                                                    U
+
+
+
+
+         ROPNÝ          né   i:       x        ň      Ň   ý   oo:        a      s
+Foto č. 3: Detailní pohled na betonový základ                                                                            Fc
+                                              v místnosti číslo 114, 115 a 116 který byl sondou
+zajištěn u obvodového zdiva směrem    do ulice, základ o hloubce cca 150mm                                               ze
+
+
+
+
+                                                                                              19
+
+                                                              20
+                                                                                                        Strana 22 / 39
+      ZP 12/2019 Znalecký posudek — technické posouzení stavu objektu v
+                                                                             k.ú.Židenice, Šámalova
+.     10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouze
+                                                                            ní jednotlivých prvků
+      krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu,
+                                                                                  posouzení objektu
+     po stránce statického zabezpečení a předpokládaných nákladů na statické
+                                                                                  zabezpečení
+      P
+
+
+
+
+    . Foto č. 4: Detailní pohled na rozšířený betonový základ v místnosti číslo 117 u obvodové
+                                                                                              ho
+     zdiva směrem   do dvorní části, základ o tloušťce cca   200mm
+
+                                                                                                                         |
+                                                                                                                         1M8
+                                                                                                                         C
+
+                                                                                                                         l
+
+
+
+
+                                                                                                   20
+
+
+                                                             21
+                                                                                                        Strana 23 / 39
+                                                                                idenice, Šámalova
+                                       ici ké posouzení stavu objektu v k.ú.Ž
+ZP 12/2019 Znalecký posudek — techn                                       í   jednotlivých prvků
+                                         dlouhodobé životnosti, posouzen
+10, Brno, posouzení jednotlivých p rvků                             pohl edu,   poso uzení objektu
+                                      ktu jako celku ze statického
+krátkodobé životnosti, posouzení obje                            na  stati cké  zabe zpečení
+                                    a předpoklá daných nákladů
+po stránce statického zabezpečení
+
+                                                                                             tj
+
+
+
+
+                                                              místností číslo 107 a111
+   Foto č. 5: Detailní pohled na nosné středové zdivo mezi
+
+
+
+
+                                22
+                                                                                     Strana 24 / 39
+ZP 12/2019   Znalecký posudek— technické posouzení stavu objektu v k.ú.Židenice, Šámalova
+10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků
+krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení objektu
+po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení
+
+                       U
+
+
+
+
+Foto č. 6: Detailní pohled na nosné vnitřní zdivo mezi místností číslo 109, 110 a 118
+
+
+
+
+                                                                                               22
+
+
+                                                    23
+                                                                                                    Strana 25 / 39
+                                                                       v k.ú.Židenice, Šámalova
+ZP 12/2019 Znalecký posudek — technické posouzení stavu objektu
+                                                           i,   posouze  ní jednotlivých prvků
+10, Brno, posouzení jednotlivých prvků dlouhodobé životnost
+                                                    ze statické ho  pohledu,  posouzení objektu
+krátkodobé životnosti, posouzení objektu jako celku
+                                             ládaných  nákladů   na  statické zabezpe čení
+po stránce statického zabezpečení a předpok
+
+
+
+
+                                                                    i číslo 211
+ Foto č. 7: Detailní pohled na sondu do obvodového zdiva v místnost
+
+
+
+
+                                24
+                                                                                   Strana 26 / 39
+     ZP 12/2019 Znalecký posudek — technické posouzení stavu objektu v k.ú.Židenice, Šámalova
+     10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků
+     krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení objektu
+     „po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení
+
+
+
+
+©
+
+
+
+
+     Foto č. 8: Detailní pohled na sondu v stropní konstrukci v místnosti číslo 211
+r“
+
+
+
+
+                                                                                                    24
+
+
+                                                         25
+                                                                                                         Strana 27 / 39
+ZP 12/2019 Znalecký posudek-— technické posouzení stavu objektu v k.ú.Židenice, Šámalova
+10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků
+krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení objektu
+po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení
+
+
+
+
+                                            x
+Foto č. 9: Detailní pohled na sondu v stropní konstrukci vmístnosti číslo 310
+
+
+
+
+                             26
+                                                                                Strana 28 / 39
+ZP 12/2019 Znalecký posudek — technické posouzení stavu objektu v k. ú.Židenice, Šámalova
+10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků
+krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení objektu
+po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení
+
+
+
+
+Foto č. 10: Detailní pohled na sondu v stropní konstrukci v místnosti číslo 202
+
+
+
+
+                                                                                               26
+
+
+                                                  27
+                                                                                                    Strana 29 / 39
+ZP 12/2019 Znalecký posudek— technické posouzení stavu objektu v K.ú. Židenice, Šámalova
+10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků
+krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení objektu
+po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení
+
+
+
+
+Foto č. 11; Detailní pohled na obnaženou výztuž stropní konstrukce nad místností číslo 107,
+108 a 109
+
+
+
+
+                               28
+                                                                                Strana 30 / 39
+ZP 12/2019 Znalecký posudek — technické posouzení stavu objektuv k.ú.Židenice, Šámalova
+10, Brno, posouzení jednotlivých prvků dlouhodobé životnosti, posouzení jednotlivých prvků
+krátkodobé životnosti, posouzení objektu jako celku ze statického pohledu, posouzení objektu
+po stránce statického zabezpečení a předpokládaných nákladů na statické zabezpečení
+
+
+
+
+ Foto č. 12: Detailní pohled na dříve provedené podepření stropní konstrukce v místnosti číslo
+ 117                 ;
+
+
+
+
+                                                                                                   28
+
+
+                                             29
+                                                                                                 Strana 31 / 39
+                                        Reka         lace investičních nákladů:
+Investor
+                            Statutární město Brno, Dominikánské námměstí                 196/1, 602 00 Brno-město
+
+Akce
+                                                 REKONSTRUKCE ŠÁMALOVA 2411/10
+                                                                   kú. Židenice
+
+Stupeň                                           Dokumentace pro stavební povolení
+
+
+
+
+              D.1.1-D.1.3           ITEKTON      -                                                                     10,11
+              D.1.4.A               vo     TECHN          INSTALACE                                               532
+                1.4.B                                                                                           1134 187,00
+                1.4.0                                                                                                1     00
+                1.4D          ELEKTROINSTALACE                                                                  2 057 311,30
+              D.1.4.E                     TP                                                                       86 013,00
+
+                              STA          OBJEKTY - CELKEM                                                  14 690 221,41
+
+                                        STAVEN       ZBUDOV                                                         220     32
+                              MIMOSTA             DOPRAVA                                                           146
+                                                                           ZHOTOVITELE                               73451,11
+                              ÚKLID STAVBY,   LIKVIDACE                         A        STAVEBNÍ   SUTI             14
+
+                                          A OSTA                        - CELKEM                               455
+
+Stavební                                                   a VON    celkem:
+
+
+
+
+CELKEM ZA AKCI ( bez DPH )
+DPH 21%
+CELKEM ZA AKCI ( vč. DPH)
+
+Vypracoval:
+
+
+
+
+                                                                      30
+                                                                                                                                 Strana 32 / 39
+                      M       A          A
+
+                          v       V (A
+
+
+
+
+ŠÁMALOVA 10        vizualizace - venkovní - zulice    2Z
+              31
+                                             Strana 33 / 39
+                                      MUČKA VESELÝ ARCHITEKTI
+
+
+
+
+ŠÁMALOVA 10        vizualizace - venkovní - zulice      25
+                                                        —v
+              32
+                                             Strana 34 / 39
+                           VVN
+
+
+
+
+ŠÁMALOVA 10        vizualizace - venkovní - ze zahrady   26
+              33
+                                                Strana 35 / 39
+                                   AN             MÚČKA VESELÝ ARCHITEKTI
+                                            .
+
+
+
+
+              ==
+      |
+      i
+      ď
+      E
+
+
+
+
+SKO       0             vizualizace - LNP - ordinace                27
+                   34
+                                                         Strana 36 / 39
+                                 VAVAVA
+
+
+
+
+ŠÁMALOVA 10        vizualizace   - INP   - ordinace            28
+              35
+                                                      Strana 37 / 39
+Podmínky poskytnutí bezúročné zápůjčky městské části Brno–Židenice
+z rozpočtu města Brna v roce 2023
+
+Příjemce: statutární město Brno, městská část Brno-Židenice, Gajdošova 7, 615 00 Brno
+
+Účel zápůjčky: Dokončení rekonstrukce objektu Šámalova 2411/10, 615 00 Brno. Nově zde
+vzniknou 3 ordinace pro dětské lékaře a školské prostory o ploše 402,66 m2.
+
+
+Výše zápůjčky: 19 000 000 Kč
+
+Doba splatnosti: 15 let, splácení od roku 2025, a to 1 jednorázovou roční splátkou ve výši
+minimálně 1.266.666 Kč a splatnou do dne 15. 12. příslušného kalendářního roku.
+
+Splácení: účet č. 111019222/0800
+
+
+V Brně dne …………….. 2023
+
+
+
+……………………………………………..
+
+
+
+
+                                                                                             Strana 38 / 39
+                                                                         Rozpočtové opatření
+                                                                                                                                                                       v tis. Kč
+
+Běžné výdaje - zvýšení
+ ORJ       §     Položka   ÚZ   ORG                                                    Věcná náplň                                  Upr. rozpočet    Úprava       Rozpočet
+                                                                                                                                    k 22.03.2023   rozpočtu + -   po změně
+  1700    6330      5347         7170 Převody mezi městem Brnem a městskými částmi                                                       1 934 308       19 000      1 953 308
+
+                                      Investiční zápůjčka MČ Brno-Židenice; Dokončení rekonstrukce objektu Šámalova 2411/10, Brno                       19 000
+
+
+Financování - zvýšení
+ ORJ      §      Položka   ÚZ   ORG                                                    Věcná náplň                                  Upr. rozpočet    Úprava       Rozpočet
+                                                                                                                                    k 22.03.2023   rozpočtu + -   po změně
+  1700              8115              Zapojení Fondu rezerv a rozvoje - rezervy na vykrytí potřeb roku 2023                               -323 657       19 000       -304 657
+
+
+
+
+                                                                                                                                                                  Strana 39 / 39
+

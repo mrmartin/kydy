@@ -1,0 +1,1580 @@
+Rada města Brna
+
+Z9/32. zasedání Zastupitelstva města Brna
+konané dne 20.1.2026
+
+
+
+       96. Návrh Dodatku č. 2 ke Smlouvě o spolupráci při výstavbě
+         veřejné infrastruktury „Obytný soubor Podbělová Líšeň“
+
+Anotace
+Předmětem Dodatku č. 2 ke Smlouvě o spolupráci při výstavbě veřejné infrastruktury „Obytný soubor
+Podbělová Líšeň“ je úprava definice stavebního záměru a jeho rozdělení na etapy (infrastruktura a
+následná výstavba domů). Dodatek aktualizuje rozsah a technické parametry budované infrastruktury a
+stanovuje podmínky pro uzavření budoucí plánovací smlouvy k výstavbě domů, včetně úhrady
+investičního příspěvku.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   Dodatek č. 2 ke Smlouvě o spolupráci při výstavbě veřejné infrastruktury „Obytný
+                               soubor Podbělová Líšeň“ č. 5621173113 mezi statutárním městem Brnem a
+                               společností Líšeň Develop, s.r.o., se sídlem Hlinky 45/114, Pisárky, 603 00 Brno, IČO
+                               282 69 411, který tvoří přílohu č. ... tohoto zápisu.
+
+2. pověřuje                    vedoucího Odboru investičního MMB podpisem výše uvedeného Dodatku č. 2.
+
+
+Stanoviska
+
+Materiál bude projednán dne 14. 1. 2026 na R9/160. schůzi Rady města Brna.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Tomáš Pivec MBA
+  vedoucí odboru - Odbor investiční
+  13.1.2026 v 12:57
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  13.1.2026 v 12:38
+
+
+
+
+Sestava vytvořena 13.1.2026 v 12:57                          1/1                              Vygenerováno programem eMMB
+
+
+                                                                                                              Strana 1 / 32
+                                   Obsah materiálu
+Návrh usnesení                                                                    1-1
+Obsah materiálu                                                                   2-2
+Důvodová zpráva                                                                   3-3
+Příloha (Smlouva o spolupráci_Obytný soubor Podbělová Líšeň (4).pdf)             4 - 18
+Příloha (Dodatek č. 1_Obytný soubor Podbělová Líšeň (uzavřen dne               19 - 21
+27.03.2024).pdf)
+Příloha k usnesení (Dodatek č. 2_Obytný soubor Podbělová Líšeň_finální.pdf)     22 - 27
+Příloha k usnesení (Příloha č. 2_Příloha plánovací smlouvy - komunikace.pdf)    28 - 28
+Příloha k usnesení (Příloha č. 3_Příloha plánovací smlouvy - kanalizace,        29 - 29
+vodovod.pdf)
+Příloha k usnesení (Příloha č. 4_Příloha plánovací smlouvy - veřejné            30 - 30
+osvětlení.pdf)
+Příloha k usnesení (Příloha č. 5_Situace potvrzená BKOM a OD MMB ze dne         31 - 31
+25. 9. 2025.pdf)
+Příloha k usnesení (Příloha č. 6_Koordinační situační výkres C.3 – dopravní a   32 - 32
+technická infrastruktura.pdf)
+
+
+
+
+                                                                                    Strana 2 / 32
+                                   Důvodová zpráva
+
+Dne 16. 7. 2021 byla mezi statutárním městem Brnem (dále jen „Město“) a společností Líšeň
+Develop, s.r.o., se sídlem Hlinky 45/114, Pisárky, 603 00 Brno, IČO: 282 69 411 (dále jen
+„Stavebník“), uzavřena Smlouva o spolupráci při výstavbě veřejné infrastruktury
+č. 5621173113 ve znění dodatku č. 1 ze dne 27. 3. 2024 (dále jen Smlouva). Předmětem
+Smlouvy je úprava práv a povinností smluvních stran v rámci přípravy a realizace veřejné
+infrastruktury budované v rámci stavebního záměru pod názvem „Obytný soubor Podbělová
+Líšeň“ (dále jen Stavební záměr).
+
+S ohledem na změnu právní úpravy (nabytí účinnosti zákona č. 283/2021 Sb., stavební zákon)
+a nabytí účinnosti nového Územního plánu města Brna, již není možné realizovat záměr
+v původním procesním režimu. Z tohoto důvodu byla pro Stavební záměr v červnu 2025
+zpracována nová projektová dokumentace – dokumentace pro povolení stavby dopravní
+a technické infrastruktury (DPS-I).
+
+Tato změna vyvolala potřebu úpravy definice Stavebního záměru ve Smlouvě a jeho rozdělení
+na etapu budování veřejné infrastruktury a etapu výstavby samotných bytových a rodinných
+domů.
+
+Dodatkem č. 2 dochází k zohlednění těchto změn. Aktualizuje se rozsah a technické parametry
+veřejné infrastruktury přebírané Městem (zejména doplnění nové opěrné stěny IO 202, změna
+materiálu vodovodu, úprava počtu svítidel veřejného osvětlení a aktualizace délek
+inženýrských sítí). Dále dochází k aktualizaci výčtu pozemků dotčených stavbou dle nového
+majetkoprávního stavu.
+
+Stavebník se v Dodatku č. 2 zavazuje, že před podáním žádosti o povolení záměru pro stavby
+domů předloží Městu příslušnou projektovou dokumentaci a uzavře s Městem samostatnou
+Plánovací smlouvu. V této nové smlouvě bude výše Investičního příspěvku stanovena na
+základě hrubé podlažní plochy (HPP) budovaných staveb v souladu s aktuálními Zásadami pro
+spolupráci s investory (Aktualizace č. 1, schválená ZMB dne 10. 12. 2025).
+Nahrazují se přílohy č. 1, 2, 3, 4 a 5 Smlouvy novou dokumentací a výkresy. Původní přílohy
+č. 6 a 7 se vypouštějí a doplňuje se nová příloha č. 6 (Koordinační situační výkres).
+
+Materiál nepodléhá projednání v Komisi investiční RMB.
+
+Materiál bude projednán dne 14. 1. 2026 na R9/160. schůzi Rady města Brna.
+
+
+
+
+                                                                                        Strana 3 / 32
+                         v°.
+                         o.
+                <   <6
+           '<<0 . V--,
+                                                                                    č. smlouvy: 562117.3113
+
+                               Smlouva o spolupráci při výstavbě veřejné infrastruktury
+                                          „Obytný soubor Podbělová Líšeň“
+*
+                                                       ČI. 1
+                                                   Smluvní strany
+
+    1.1    Statutární město Brno
+           se sídlem Dominikánské náměstí 196/1, Brno-město, 602 00 Brno
+           IČO: 449 92 785
+           zastoupené JUDr. Markétou Vaňkovou, primátorkou města Brna
+           pověřen k podpisu smlouvy Ing. Tomáš Pivec, vedoucí Odboru investičního
+           Magistrátu města Brna
+           dále jen Město
+
+    1.2    Líšeň Develop, s.r.o.
+           se sídlem Hlinky 45/114, Pisárky, 603 00 Brno
+           IČO: 282 69 411
+           DIČ: CZ 282 69 411
+           společnost zapsaná v obchodním rejstříku vedeném u Krajského soudu v Brně
+           pod sp. zn. C 57616
+           zastoupená jednatelem Bc. Tiborem Jaromírem Benešem, MSc
+           (dále také jako Stavebník)
+
+           Smluvní strany 1.1 a 1.2 dále společně jako Smluvní strany.
+
+                                                        ČI. 2
+                                                   Stavební záměr
+
+    2.1.   Záměrem Stavebníka je realizovat stavební záměr pod názvem „Obytný soubor Podbělová
+           Líšeň“ (dále také „Stavební záměr“). Předmětem Stavebního záměru je výstavba bytových
+           domů, rodinných domů, komunikace a inženýrských sítí pro nově navržený obytný soubor
+           v katastrálním území Líšeň. Pozemky určené pro výstavbu navazují na stávající obytnou
+           výstavbu při ulici Podbělová, směrem k ulici Houbařská.
+
+    2.2.   Stavební záměr řeší Novostavbu obytného souboru devatenácti řadových rodinných domů
+           a pěti bytových domů včetně komunikací a inženýrských sítí v Brně-Líšni domy, přičemž
+           celkový počet navržených bytových jednotek je 102. Bytové domy jsou navrženy se
+           4 nadzemními podlažími s plochou střechou a 1 podzemním podlažím, které slouží jako
+           garáže. Rodinné domy jsou navrženy ve 4 řadách jako jednoduchá dvoupodlažní kvádrová
+           hmota se zastřešením plochou střechou. Rodinné domy jsou navrženy o 1 bytové jednotce,
+           celkem jde tedy o 19 bytových jednotek v rámci rodinných domů. Vybudována bude místní
+           obslužná komunikace, která bude dopravně připojena prostřednictvím miniokružní křižovatky
+           k místní komunikaci III. třídy v ulici Podbělové a která bude ukončena obratištěm bez
+           dopravního propojení s ulicí Houbařkou. Pro bytové domyje navrženo 166 stání částečně
+           v objektech a částečně při místní komunikaci. Ke každému rodinnému domu budou 3 stání,
+           Celkem bude zřízeno 166 parkovacích stání.
+
+                                                         1
+
+
+
+                                                                                                              Strana 4 / 32
+                                                                              č. smlouvy: 5621173113
+
+2.3.    Z hlediska Územního plánu města Brna (ÚPmB) je Stavební záměr umístěn na pozemcích,
+        které jsou zčásti součástí stavební návrhové plochy bydlení s podrobnějším účelem využití se
+        stanoveným funkčním typem plochy čistého bydlení (BC) s hodnotou IPP 0,5, zčásti součástí
+        stavební návrhové plochy bydlení s podrobnějším účelem využiti se stanoveným funkčním
+        typem plochy čistého bydlení (BC) bez stanovené hodnoty využití, zčásti součástí plochy pro
+        dopravu s podrobnějším účelem využití se stanoveným funkčním typem plochy komunikací
+        a prostranství místního významu.                                          v /       r
+        Funkční využití navrhovaných objektů pro bydlení je v souladu s funkční náplni plochy
+        čistého bydlení BC. Hlavní dopravní vedení je situováno v ploše pro dopravu a částečně ve
+        stavební ploše pro bydlení. Dle regulativů ÚPmB jsou komunikace a zařízení technické
+        vybavenosti zajišťujících pouze bezprostřední obsluhu v předmětných funkčních plochách
+        přípustné. Z hlediska funkčního je záměr v území přípustný.                              v, ,
+         Stavební záměr generuje IPP s hodnotou 0,5 a respektuje tak regulativ mhy stavebního využiti
+         plochy BC daný ÚPmB - IPP se závazně stanovenou hodnotou 0,5. Intenzita využití území
+        pro stabilizovanou plochu, kde je umístěný BD SO 01 je dle předložené PD IPP =1,3. Pro
+         záměr BD SO 01 je doložen výpočet pro disponibilní pozemky IPP = 0,92. Na základě výše
+         uvedeného lze konstatovat, že záměr splňuje prostorové regulativy předmětných funkčních
+
+        Stavební záměr využitím pro bydlení naplňuje požadavky na hospodárné využívání dotčeného
+        území, využívá existující a rozestavěnou veřejnou infrastrukturu, je řešen bez nároků na zábor
+        dalších pozemků a svým stavebním objemem a rozlohou nepřekračuje založený charakter
+        dotčené lokality, a je tedy v souladu s cíli a úkoly územního plánování dle § 18 a § 19
+        stavebního zákona.
+
+2.4.    V rámci Stavebního záměru bude vybudována veřejná infrastruktura, která bude po kolaudaci
+        převedena do vlastnictví Města. Jedná se o komunikace a zpevněné plochy, opěrnou^ zeď,
+                                                                                             _
+        kanalizaci dešťovou, kanalizaci splaškovou pro veřejnou potřebu, vodovod pro veřejnou
+        potřebu a veřejné osvětlení.
+
+2.5.    Pro Stavební záměr byla v 12/2020 zpracována společností KUBE s.r.o. se sídlem Vranov
+        267, PSČ 664 32, IČO: 282 61 950 dokumentace pro územní řízení (dále jen DUR), která
+        tvoří přílohu č. 1 této smlouvy.
+
+                                                ČI. 3
+                                            Účel smlouvy
+ 3.1.   Účelem této smlouvy je úprava práv a povinností smluvních stran v rámci přípravy a realizace
+        veřejné infrastruktury budované v rámci Stavebního záměru. Tato smlouva bude sloužit jako
+        podklad pro vydání územního rozhodnutí a stavebního povolení pro Stavební záměr.
+
+ 3.2.
+         Stavebník se zavazuje vybudovat veřejnou infrastrukturu uvedenou v ČI. 4 této smlouvy
+         v souladu sDÚR adie podmínek stanovených dotčenými správními orgány, vlastníky,
+         správci a provozovateli veřejné infrastruktury.
+
+ 3.3.    Smluvní strany se zavazují vzájemně spolupracovat při naplňování účelu této smlouvy
+         a vzájemně se informovat ovsech skutečnostech, které by mohly mít vliv na realizaci
+         Stavebního záměru.         '
+
+
+
+                                                   2
+
+
+
+
+                                                                                                         Strana 5 / 32
+                                                                             č.smlouvy: 5621173113
+                                                v
+                                              CL 4
+                                     Veřejná infrastruktura
+
+4.1.   V rámci Stavebního záměru bude dle DÚR vybudována následující veřejná infrastruktura,
+       která bude po kolaudaci převedena do vlastnictví Města, které za splnění stanovených
+       podmínek zajistí její správu, provozování a údržbu:
+
+       10 101 Komunikace a zpevněné plochy (k předání do majetku SMB a do správy BKOM)
+       10 201 Opěrná stěna komunikace
+       10 301 Kanalizace dešťová (včetně OLK a vsakovacího objektu)
+       10 302 Kanalizace splašková
+       10 303 Veřejný vodovod
+       10 401 Veřejné osvětlení
+
+4.2.   10 101 Komunikace a zpevněné plochy (k předání do majetku SMB a do správy BKOM)
+
+       Inženýrský objekt 10 101 Komunikace a zpevněné plochy (k předání do majetku SMB a do
+       správy BKOM) bude realizován na pozemcích p. č. 5049/1, 5049/19, 5090/2, 5089/1,
+       5049/375, 5049/40, 5049/46, 5049/47, 5049/48, 5049/49, 5049/253, 5049/254, 5049/255,
+       5049/23, 5049/338, 5049/201, 5049/340, 5043/3, 5049/24 v k. ú. Líšeň.
+       Jedná se o komunikace a zpevněné plochy, které budou součástí veřejného prostranství.
+       Navrhovaná pozemní komunikace v délce 280 m bude sloužit k dopravní obsluze
+       jednotlivých objektů určených k bydlení. Jako prostředek pro dopravní napojení nové lokality
+       byla zvolena čtyřramenná malá okružní křižovatka s vnějším průměrem 7,5 m.
+       Celá komunikace je navrhována v šířce 6 m, přilehlé chodníky budou mít šířku 2 m. Nová
+       lokalita bude fungovat v režimu „Zóna 30“.
+       Součástí této stavby je návrh veřejně přístupných parkovacích stání, a to na straně budoucích
+       bytových domů. Celkem se jedná o 34 kolmých stání pro osobní vozidla.
+       Podrobný popis IO 101 Komunikace a zpevněné plochy (k předání do majetku SMB a do
+       správy BKOM) je uveden v souhrnné technické zprávě, která je součástí DUR.
+       Umístění IO 101 Komunikace a zpevněné plochy (k předání do majetku SMB a do správy
+       BKOM) je zakresleno ve výkresu Příloha plánovací smlouvy - komunikace, v. sadové úpravy,
+       který tvoří přílohu č. 2 této smlouvy.
+       IO 101 Komunikace a zpevněné plochy (k předání do majetku SMB a do správy BKOM)
+       včetně zastavěných částí pozemků bude převeden do vlastnictví Města prostřednictvím'
+       Odboru dopravy Magistrátu města Brna a předán do správy společnosti Brněnské
+       komunikace, a.s., dle platných podmínek pro převody nově vybudovaných komunikačních
+       staveb cizích investorů do vlastnictví Města, a to v rozsahu odsouhlaseném Odborem dopravy
+       MMB a společností Brněnské komunikace a.s. na situaci dne 8. 4. 2021, která tvoří přílohu
+       č. 5 této smlouvy.
+
+
+
+
+                                                    3
+
+
+
+
+                                                                                                       Strana 6 / 32
+                                                                          č. smlouvy: 5621173113
+
+4.3.   10 201 Opěrná stěna komunikace
+
+       Inženýrský objekt 10 201 Opěrná stěna komunikace bude realizován na pozemcích
+       p. č. 5089/1, 5049/24 v k. ú. Líšeň.
+       Pro vytvoření prostoru pro novou komunikaci je navržena záporová pilotová stěna kotvená
+       kořenovými kotvami. Pilotová stěna je navržena v celkové délce 25 m. Výška opěrné stěny
+       bude v nej vyšším místě 5,2 m nad terénem.
+
+       Podrobný popis 10 201 Opěrná stěna komunikace je uveden v souhrnné technické zprávě,
+       která je součástí DÚR.
+
+       Umístění 10 201 Opěrná stěna komunikace je zakresleno ve výkresu číslo C.3 Koordinační
+       situační výkres, který je součástí DUR.
+       10 201 Opěrná stěna komunikace včetně zastavěných částí pozemků bude převeden do
+       vlastnictví Města prostřednictvím Odboru dopravy Magistrátu města Brna a předán do správy
+       společnosti Brněnské komunikace, a.s., dle platných podmínek pro převody nově
+       vybudovaných komunikačních staveb cizích investorů do vlastnictví Města, a to v rozsahu
+       odsouhlaseném Odborem dopravy MMB a společností Brněnské komunikace a.s. na situaci
+       dne 8. 4. 2021, která tvoří přílohu č. 5 této smlouvy.
+
+4.4.   10 301 Kanalizace dešťová (včetně vsakovacího objektu)
+
+       Inženýrský objekt 10 301 Kanalizace dešťová (včetně vsakovacího objektu) bude realizován
+       na pozemcích p. č. 5049/1, 5090/2, 5089/1, 5049/40, 5049/46 v k. ú. Líšeň.
+
+       Bude vybudována stoka DN 300 délky 252,0 m. Dešťová kanalizace bude sloužit pouze
+       k odvodnění veřejné komunikace. Dešťové vody z veřejných komunikací budou svedeny do
+       vsakovací galerie. Dešťové vody z jednotlivých BD a RD budou likvidovány vsakem.
+
+       Podrobný popis IO 301 Kanalizace dešťová (včetně vsakovacího objektu) je uveden
+       v souhrnné technické zprávě, která je součástí DUR.
+
+       Umístění IO 301 Kanalizace dešťová (včetně vsakovacího objektu) je zakresleno ve výkresu
+       Příloha plánovací smlouvy - kanalizace, vodovod, který tvoří přílohu č. 3 této smlouvy.
+
+       IO 301 Kanalizace dešťová (včetně vsakovacího objektu) bude převeden do vlastnictví Města
+       a předán do provozování společnosti Brněnské komunikace, a.s,
+
+4.5.   IO 302 Kanalizace splašková
+
+       Inženýrský objekt IO 302 Kanalizace splašková bude realizován na pozemcích p. č. 5049/1,
+       5049/40, 5049/46 v k. ú. Líšeň.
+
+       Bude vybudována stoka S z trub kameninových obetonovaných KT DN 300 délky
+       260,0 m. Navržená stoka S bude napojena do revizní šachty SŠ8 stoky splaškové kanalizace
+       pro veřejnou potřebu KAM DN 300 umístěné a povolené v rámci akce „Úprava a prodloužení
+       splaškové kanalizace v ulici Houbařská, Brno-Líšeň“.
+
+                                               4
+
+
+
+                                                                                                   Strana 7 / 32
+                                                                           č. smlouvy: 5621173113
+
+       Podrobný popis 10 302 Kanalizace splašková je uveden v souhrnné technické zprávě, která je
+       součástí DÚR.
+       Umístění 10 302 Kanalizace splašková je zakresleno ve výkresu Příloha plánovací smlouvy -
+       kanalizace, vodovod, který tvoří přílohu č. 3 této smlouvy.
+
+       10 302 Kanalizace splašková bude převeden do vlastnictví Města a předán do provozování
+       společnosti Brněnské vodárny a kanalizace, a.s.
+
+4.6.   10 303 Veřejný vodovod
+
+       Inženýrský objekt 10 303 Veřejný vodovod bude realizován na pozemcích p. č. 5049/1,
+       5089/1
+       5090/2, 5049/40, 5049/46, 5049/201, 5043/3, 5049/24, 5049/69 v k. ú. Líšeň.
+
+       Bude vybudováno prodloužení vodovodu pro veřejnou potřebu HDPE100-RC dl 10 SDR11
+       délky 318 m. Navržený vodovodní řad bude napojen na stávající vodovod DN 160 PE v ulici
+       Novolíšeňská.
+
+       Podrobný popis IO 303 Veřejný vodovod je uveden v souhrnné technické zprávě, která je
+       součástí DÚR.              .
+       Umístění IO 303 Veřejný vodovod je zakresleno ve výkresu Příloha plánovací smlouvy -
+       kanalizace, vodovod, který tvoří přílohu č. 3 této smlouvy.
+
+       IO 303 Veřejný vodovod bude převeden do vlastnictví Města a předán do provozování
+       společnosti Brněnské vodárny a kanalizace, a.s.
+
+4.7.   IO 401 Veřejné osvětlení
+
+       Inženýrský objekt IO 401 Veřejné osvětlení bude realizován na pozemcích p. č. 5049/1,
+       5049/19, 5049/23, 5049/375, 5049/40, 5049/46, 5049/47, 5049/48, 5049/49, 5090/2, 5049/24,
+       5043/3, 5049/201, 5049/338, 5089/1 v k. ú. Líšeň.
+
+       V rámci tohoto inženýrského objektu bude vybudováno nové veřejné osvětlení v celkovém
+       počtu 26 světelných míst.
+
+       Podrobný IO 401 Veřejné osvětlení je uveden v souhrnné technické zprávě, která je součástí
+       DÚR.
+
+       IO 401 Veřejné osvětlení je zakresleno ve výkresu Příloha plánovací smlouvy - veřejné
+       osvětlení, který tvoří přílohu č. 4 této smlouvy.
+
+       IO 401 Veřejné osvětlení bude převeden do vlastnictví Města a předán do provozování
+       společnosti Technické sítě Brno, akciová společnost.
+
+
+
+
+                                               5
+
+
+
+
+                                                                                                    Strana 8 / 32
+                                                                             č.smlouvy: 5621173113
+
+                                               ČI. 5
+                                       Investiční příspěvek
+
+ 5.1. Vzhledem ktomu, že Stavební záměr klade na území městské části města Brna, Brno-Líšeň
+      zvýšené nároky v oblasti občanské vybavenosti, a to zejména v oblasti školství, se smluvní
+      strany dohodly, že Stavebník poskytne Městu finanční příspěvek ve výši 5.698.320,- Kč
+      (slovy: pět milionů šest set devadesát osm tisíc tři sta dvacet korun českých) bez DPH (dále
+      jen Příspěvek), který může být Městem použit na vybudování mateřské školy.
+
+ 5.2. Výše Příspěvku byla stanovena v souladu se „Zásadami pro spolupráci s investory na rozvoji
+      veřejné infrastruktury statutárního města Brna“, schválenými na Z8/25. zasedání
+      Zastupitelstva města Brna dne 23. 3. 2021 (dále jen „Zásady"), a to dle následujícího vzorce:
+      celková čistá podlahová plocha Stavebního záměru (v m2) podle DUR,
+      tj. 7 122,9 m2x 800 Kč.
+
+5.3.    Stavebník se zavazuje poskytnout Příspěvek Městu, a to bezhotovostním převodem na účet
+       Města č. ú. 111385222/0800, VS ... (č. smlouvy), a to následovně:
+           a. Kompenzační záloha ve výši 10% z celkové výše Příspěvku, tj. 569.832,- Kč do 90 dní
+           ode dne nabytí právní moci územního rozhodnutí vydaného pro Stavební záměr.
+           b. Platba ve výši 5.128.488,- Kč do konce třetího měsíce následujícího po kalendářním
+           měsíci, v němž nabude právní moci kolaudační rozhodnutí nebo bude vydán kolaudační
+           souhlas pro Stavební záměr.
+       V případě, že podle dokumentace skutečného provedení stavby Stavebního záměru bude
+       hodnota čisté podlahové plochy rozdílná než dle DÚR, zavazuje se Stavebník uzavřít
+       s Městem dodatek k této smlouvě, ve kterém bude upřesněna výše Příspěvku a rozdíl takto
+       upřesněné výše Příspěvku Městu ve sjednaném termínu doplatit. Pro vyloučení všech
+       pochybností platí, že případný rozdíl mezi předpokládanou výší a konečnou výší Příspěvku
+       jde výhradně k tíži Stavebníka.
+
+5.4.   Stavebník bere na vědomí, že Příspěvek bude příjmem Fondu developerských projektů
+       v souladu s ustanovením Zásad, přičemž prioritou Města je použít finanční prostředky ve výši
+       Příspěvku na vybudování mateřské školy.
+
+5.5.   Kompenzační zálohou se pro účely této smlouvy rozumí peněžitá částka složená Stavebníkem
+       na účet Města, jakožto záloha na Příspěvek dle této smlouvy. Kompenzační záloha bude
+       v případě splnění závazků Stavebníka započítána na Příspěvek dle této smlouvy. Město je
+       oprávněno tuto Kompenzační zálohu využít na práce spojené s realizací veřejné infrastruktury
+       Města sjednané v této smlouvě. V případě, že Stavebník nebude realizovat svůj Stavební
+       záměr, má nárok na vrácení této Kompenzační zálohy, avšak Město má v tomto případě právo
+       si ponechat část Kompenzační zálohy ve výši 10 % z celkové hodnoty Kompenzační zálohy
+       jako paušální náhradu administrativních nákladů za práce spojené s vrácením Kompenzační
+       zálohy. Současně, pokud již bude Městem z Kompenzační zálohy uskutečněno plnění (např.
+       bude zpracována DUR pro realizaci veřejné infrastruktury Města), bude při vrácení
+       Kompenzační zálohy tato výše vynaložených nákladů započítána jako neúročená.
+
+5.6.   Y případě, že Stavebník nezaplatí Městu řádně a včas Příspěvek, uhradí na výzvu Města
+       sankci dle ČI. 11 odst. 11.7 této smlouvy.
+
+
+
+                                                6
+
+
+
+
+                                                                                                      Strana 9 / 32
+                                                                           č. smlouvy: 5621173113
+
+5.7.   Stavebník je povinen poskytnout ve prospěch Města zástavní právo k nemovité věci za účelem
+       zajištění svých závazků plynoucích z ČI. 5. odst. 5.3. této smlouvy v rozsahu a za podmínek
+       dle ČI. 12. odst. 12.1. této smlouvy.
+
+                                         ČI. 6
+           Majetkoprávní vztahy k pozemkům dotčeným veřejnou infrastrukturou
+
+6.1.   Veřejná infrastruktura uvedená v ČI. 4 této smlouvy bude umístěna na pozemcích
+       p. č. 5049/19, 5049/21, 5090/1, 5090/3, 5090/4, 5090/2, 5089/2, 5049/375, 5049/40, 5049/46,
+       5049/47, 5049/48, 5049/49, 5049/128, 5049/253, 5049/254, 5049/266, 5049/265, 5049/255,
+       5049/23 (pozemky ve vlastnictví Stavebníka), 5089/1, 5049/338, 5049/201, 5049/340,
+       5043/3, 5049/69 (pozemky ve vlastnictví Města), 5049/24 (pozemek ve vlastnictví
+       společnosti Rezidence novolíšeňská, s.r.o.), 5049/1 (pozemek ve vlastnictví více fyzických
+       osob), vše v katastrálním území Líšeň.
+
+                                            ČI. 7
+                              Financování veřejné infrastruktury
+
+7.1.   Financování výstavby stavebních objektů veřejné infrastruktury budovaných v rámci
+       Stavebního záměru zajistí Stavebník na své náklady.
+
+7.2.   Město se nebude podílet na financování výstavby stavebních objektů veřejné infrastruktury
+       budovaných v rámci Stavebního záměru.
+
+7.3.   Celková výše předpokládaných nákladů na vybudování stavebních objektů veřejné
+       infrastruktury činí dle odborného odhadu Stavebníka 39.000.000 Kč bez DPH.
+
+       Celková částka se skládá z:
+       - IO 101 Komunikace a zpevněné plochy                                 20.000.000 Kč
+       - IO 201 Opěrná stěna komunikace                                       5.000.000 Kč
+       - IO 301 Kanalizace dešťová                                            4.000.000 Kč
+       - IO 302 Kanalizace splašková                                          6.000.000 Kč
+       - IO 303 Veřejný vodovod                                               3.000.000 Kč
+       - IO 401 Veřejné osvětlení                                             1.000.000 Kč
+
+                                            ČI. 8
+                     Zahájení a ukončení výstavby veřejné infrastruktury
+
+8.1.   Stavebník se zavazuje dokončit výstavbu veřejné infrastruktury uvedené v ČI. 4 této smlouvy
+       nejpozději do 10 let ode dne nabytí právní moci rozhodnutí příslušného stavebního úřadu,
+       umožňujícího výstavbu každého jednotlivého objektu veřejné infrastruktury, uvedené
+       v ČI. 4. této smlouvy. Dokončením výstavby se rozumí vydání kolaudačního souhlasu nebo
+       nabytí právní moci kolaudačního rozhodnutí pro všechny stavební objekty veřejné
+       infrastruktury uvedené v ČI. 4 této smlouvy.
+
+
+
+
+                                                7
+
+
+
+
+                                                                                                     Strana 10 / 32
+                                                                              č.smlouvy: 5621173113
+
+                                               ČI. 9
+                       Budoucí vlastnictví a správa veřejné infrastruktury
+
+8.2.    Stavebník se zavazuje nejpozději do 1 roku od vydání kolaudačního souhlasu nebo nabytí
+        právní moci kolaudačního rozhodnutí níže uvedených objektů doručit Městu písemnou žádost
+        o převod vlastnického práva k inženýrským objektům 10 101 Komunikace a zpevněné
+        plochy, 10 201 Opěrná stěna komunikace a 10 301 Kanalizace dešťová, a to včetně částí
+       pozemků dotčených těmito inženýrskými objekty, které nebudou ke dni takové žádosti ve
+        vlastnictví Města. Převod bude realizován dle platných podmínek pro převody novostaveb do
+        vlastnictví Města.
+        V případě, že Stavebník včas nedoručí Městu řádnou žádost dle tohoto odstavce, je Město
+        oprávněno takovou žádost zaslat Stavebníkovi, a to nejpozději do 1 roku ode dne, kdy se dozví
+        o vydání kolaudačního souhlasu nebo nabytí právní moci kolaudačního rozhodnutí výše
+       uvedených objektů.
+        Stavebník se zavazuje uzavřít tuto kupní smlouvu nejpozději do 4 let od nabytí právních
+       účinků kolaudačního souhlasu nebo nabytí právní moci kolaudačního rozhodnutí pro
+       jednotlivé výše uvedené inženýrské objekty a Město se zavazuje zaplatit Stavebníkovi za výše
+       uvedené objekty a příslušné části pozemků pod těmito objekty celkem částku ve výši
+        1.000 Kč včetně DPH za každý inženýrský objekt. Stavebník se zavazuje uzavřít tuto kupní
+       smlouvu nejpozději do 4 let od nabytí právních účinků kolaudačního souhlasu nebo nabytí
+       právní moci kolaudačního rozhodnutí pro jednotlivé výše uvedené inženýrské objekty.
+       Stavebník se zavazuje na své náklady zpracovat geometrický plán skutečného zaměření těchto
+       inženýrských objektů, resp. pozemků pod těmito objekty, a jeho potvrzení příslušným
+       katastrálním úřadem. Stavebník se zavazuje zajistit do doby převodu těchto inženýrských
+       objektů do vlastnictví Města, na své náklady jejich správu a údržbu.
+
+8.3.    Stavebník se zavazuje nejpozději do 30 pracovních dní od vydání kolaudačního souhlasu nebo
+        nabytí právní moci kolaudačního rozhodnutí níže uvedeného inženýrského objektu doručit
+        Městu písemnou žádost o uzavření smlouvy, jejímž předmětem bude závazek Stavebníka
+       převést na Město vlastnické právo k inženýrskému objektu IO 401 Veřejné osvětlení
+        a závazek Města zaplatit Stavebníkovi za výše uvedené objekty celkem částku ve výši 1.000
+       Kč včetně DPH.
+       V případě, že Stavebník včas nedoručí Městu řádnou žádost dle tohoto odstavce, je Město
+       oprávněno takovou žádost zaslat Stavebníkovi, a to nejpozději do 1 roku ode dne, kdy se dozví
+       o vydání kolaudačního souhlasu nebo nabytí právní moci kolaudačního rozhodnutí výše
+       uvedených objektů.
+       Stavebník se zavazuje uzavřít s Městem kupní smlouvu bezodkladně, nejpozději však do 30
+       dní ode dne obdržení návrhu kupní smlouvy ze strany Města.
+       V případě, že se v době převodu veřejného osvětlení do vlastnictví Města, bude veřejné
+       osvětlení nacházet na pozemcích jiného vlastníka než Města, je Stavebník povinen zajistit
+       uzavření bezúplatné smlouvy o zřízení služebnosti mezi Městem, obstaravatelem veřejného
+       osvětlení a vlastníkem pozemku. V případě požadavku třetí osoby na úhradu úplaty za zřízení
+       služebnosti, se zavazuje Stavebník poskytnout bezúplatně na účet Města částku požadovanou
+       vlastníkem takových pozemků za zřízení služebnosti.
+       Stavebník je povinen na své náklady zajistit zpracování geometrického plánu pro vyznačení
+       věcného břemene k části pozemku, na kterém se nachází výše v tomto odstavci uvedené
+       inženýrské objekty.
+       Stavebník se zavazuje, že do doby převodu inženýrského objektu IO 801 Veřejné osvětlení
+
+
+                                                 8
+
+
+
+
+                                                                                                        Strana 11 / 32
+                                                                              č. smlouvy: 5621173113
+
+       do vlastnictví Města, zajistí na své náklady provoz, správu a údržbu tohoto inženýrského
+       objektu.
+
+8.4.    Stavebník se zavazuje v dostatečném předstihu, nejpozději 14 dnů před podáním žádosti
+        o vydání kolaudačního souhlasu nebo kolaudačního rozhodnutí níže uvedených inženýrských
+       objektů, doručit Městu písemnou žádost o uzavření kupní smlouvy, jejímž předmětem bude
+       závazek Stavebníka převést na Město vlastnické právo k inženýrským objektům, 10 302
+       Kanalizace splašková, 10 303 Veřejný vodovod a závazek Města zaplatit Stavebníkovi 1.000
+       Kč včetně DPH za každý inženýrský objekt.
+        Stavebník se zavazuje doručit podepsanou kupní smlouvu bezodkladně Městu, nejpozději
+       však do 30 dní od obdržení návrhu kupní smlouvy ze strany Města.
+       V případě, že se v době převodu inženýrských objektů IO 302 Kanalizace splašková, IO 303
+       Veřejný vodovod do vlastnictví Města, budou tyto inženýrské objekty nacházet na pozemcích
+       jiného vlastníka než Města, je Stavebník povinen zajistit uzavření bezúplatné smlouvy
+       o zřízení služebnosti mezi Městem, provozovatelem vodovodu a kanalizace pro veřejnou
+       potřebu a vlastníkem pozemku. V případě požadavku třetí osoby na úhradu úplaty za zřízení
+       služebnosti, se zavazuje Stavebník poskytnout bezúplatně na účet Města nahradit Městu
+       částku požadovanou vlastníkem takových pozemků za zřízení služebnosti.
+       Stavebník je povinen na své náklady zajistit zpracování geometrického plánu pro vyznačení
+       věcného břemene k části pozemku, na kterém se nacházejí výše v tomto odstavci uvedené
+       inženýrské objekty.
+
+8.5.   Město se zavazuje převzít veřejnou infrastrukturu uvedenou v ČI. 9 odst. 9.1 až 9.3 této
+       smlouvy do svého vlastnictví a zajistit její provozování a správu za těchto podmínek:
+       - předmětná veřejná dopravní a technická infrastruktura bude vybudována v souladu
+          s městskými standardy a povoleními příslušných správních orgánů,
+       - bude zajištěna funkčnost celého systému vybudované veřejné infrastruktury,
+       - budou převedeny pozemky, resp. části pozemků pod jednotlivými stavebními objekty,
+          popsanými v ČI. 9. odst. 9.1 až 9.3 této smlouvy, příp. uzavřeny smlouvy o zřízení
+          věcného břemene ve prospěch Města
+
+8.6.   Pokud nebude veřejná infrastruktura uvedená v Cl. 9 této smlouvy převedena z jakéhokoliv
+       důvodu do vlastnictví Města, zavazují se Stavebník i Město uzavřít nejpozději do 1 roku od
+       vydání kolaudačního souhlasu nebo kolaudačního rozhodnutí pro příslušnou technickou
+       infrastrukturu smlouvy o zřízení služebnosti ve prospěch Stavebníka k pozemkům ve
+       vlastnictví Města dle „Metodiky pro uzavírání smluv o zřízení služebnosti k služebným
+       pozemkům ve vlastnictví statutárního města Brna dotčeným stavbami inženýrských sítí4*. Za
+       tím účelem zajistí Stavebník na svůj náklad zpracování potřebného počtu geometrického
+       plánu pro vyznačení rozsahu věcného břemene k části pozemku a jeho potvrzení příslušným
+       katastrálním úřadem.
+
+8.7.   V případě vodovodu a kanalizace pro veřejnou potřebu, pokud nebudou převedeny do
+       vlastnictví Města, se Stavebník zavazuje uzavřít s Městem nejpozději do 6 měsíců po vydání
+       kolaudačního souhlasu nebo kolaudačního rozhodnutí dohodu mezi vlastníky provozně
+       souvisejících vodovodů a kanalizací pro veřejnou potřebu dle ust. § 8 zákona č. 274/2001 Sb.,
+       zákona o vodovodech a kanalizacích pro veřejnou potřebu, ve znění pozdějších předpisů.
+
+
+
+
+                                                 9
+
+
+
+                                                                                                       Strana 12 / 32
+                                                                              č.smlouvy: 5621173113
+
+8.8.   Stavebník zajistí, aby převáděné pozemky v době převodu do vlastnictví Města nebyly
+       zatíženy exekucí, služebností (s výjimkou služebností zřízených ve prospěch Města
+       a jednotlivých vlastníků, správců a provozovatelů inženýrských sítí), dále aby nebyly zatíženy
+       zástavním právem, předkupním právem či jinými právy třetích osob.
+
+8.9.   Smluvní strany shodně prohlašují, že výše uvedené stavební objekty veřejné infrastruktury a
+       venkovní plochy mezi jednotlivými objekty bytových domů budou sloužit obecnému užívání.
+       Je proto ve veřejném zájmu, aby tyto mohli být užívány občany obvyklým způsobem. Smluvní
+       strany se výslovně dohodly, že v souvislosti s výstavbou, převodem a správou jednotlivých
+       stavebních objektů veřejné infrastruktury, a dalšími činnostmi s těmito souvisejícími, které
+       jsou předpokládány touto smlouvou či zvyklostmi, nebude Stavebníkovi a ani jeho právním
+       nástupcům náležet jakákoliv úplata, náhrada nákladů či jakékoliv jiné plnění, vyjma plnění
+       předpokládaných touto smlouvou, a Stavebník se tímto jakýchkoliv takovýchto nároků, kdyby
+       v budoucnu i přes toto ujednání vznikly, předem vzdává.
+
+                                             ČI. 10
+                            Další práva a povinnosti smluvních stran
+
+9.1.   Stavebník zajistí zpracování veškeré stavebně technické dokumentace potřebné pro výše
+       uvedený Stavební záměr, stejně jako vydání veškerých povolení a rozhodnutí příslušných
+       orgánů potřebných k provedení výstavby. Výstavbu je Stavebník povinen provádět v souladu
+       s vydanými rozhodnutími a obecně závaznými právními předpisy upravujícími provádění
+       výstavby.
+
+9.2.   Stavebník se zavazuje informovat Město o průběhu provádění výstavby a předkládat Městu
+       vydaná rozhodnutí týkající se výstavby nejpozději do 30 dní od vydání rozhodnutí a na
+       vyžádání poskytnout Městu zprávy o průběhu výstavby kdykoliv. Stavebník bude doručovat
+       veškerá oznámení, informace a rozhodnutí na adresu Magistrát města Brna, Odbor investiční,
+       Kounicova 67, 601 67 Brno, a to prostřednictvím poštovní přepravy, datové schránky nebo
+       elektronickou poštou na e-mailovou adresu uvedenou v záhlaví této smlouvy.
+
+9.3.   V případě, že dojde ke změně rozsahu Stavebního záměru a tyto změny budou schválené
+       příslušnými útvary Magistrátu města Brna a jednotlivými správci a provozovateli budované
+       infrastruktury, uzavřou smluvní strany dodatek k této smlouvě. Vždy však platí, že výstavbu
+       předmětné infrastruktury zajišťuje výlučně Stavebník.
+
+9.4.   Město poskytne potřebnou možnou součinnost Stavebníkovi ve správních řízeních
+       v souvislosti s výstavbou Stavebního záměru dle této smlouvy. Stavebník bere na vědomí, že
+       Město nijak nemůže odpovídat za stanovisko městských částí ke Stavebnímu záměru, a za
+       obsah vyjádření, stanovisek či závazných stanovisek, pokud je vydává či se k nim vyjadřuje
+       některý orgán státní správy.
+
+9.5.   Po převedení veřejné infrastruktury, dle Cl. 9. této smlouvy, se Město zavazuje zajistit její
+       provozování, správu a údržbu příslušným provozovatelem či správcem.
+
+9.6.   Stavebník je oprávněn postoupit práva a závazky z této smlouvy na třetí osobu pouze
+       s předchozím písemným souhlasem Města. Stavebník se zavazuje oznámit Městu svůj
+       případný záměr převést svá práva a povinnosti vyplývající pro ně z územního rozhodnutí či
+
+                                                10
+
+
+
+                                                                                                        Strana 13 / 32
+1/
+
+
+
+
+                                                                                  č.smlouvy: 5621173113
+
+            stavebního povolení na jinou osobu. Nesplní-li Stavebník tento závazek a třetí osoba se
+            nestane oprávněnou zpráv a povinností vztahujících se ke Stavebníkovi dle této smlouvy,
+            platí, že Stavebník nese odpovědnost zajednání třetí osoby mající dopad na splnění povinností
+            Stavebníka z této smlouvy.
+
+     9.7.   Stavebník se zavazuje provést nezbytná opatření na pozemcích dotčených výstavbou
+            Stavebního záměru zabraňující ohrožení veřejných zájmů. Pro účely této smlouvy se
+            nezbytným opatřením zabraňujícím ohrožení veřejných zájmů rozumí zejména umožnění
+            vjezdu zdravotnických vozidel, vozidel hasičů apod.
+
+     9.8.   Stavebník se zavazuje, že Stavebním záměrem nedojde ke znečištění povrchových
+            i podzemních vod a že stavební odpad z místa vzniku bezodkladně odstraňován tak, aby
+            nedocházelo k nepříznivému a nepřiměřenému estetickému či hygienickému dopadu na
+            životní prostředí. Při provádění stavebních prací bude dbáno na to, aby negativní vlivy na
+            přilehlé okolí, zejména dočasná hlučnost a prašnost, byly minimalizovány a Stavebník
+            odpovídá za veškerou újmu vzniklou při provádění výstavby.
+
+                                                   ČI. 11
+                                                  Sankce
+
+     10.1. Pokud Stavebník poruší svůj závazek, sjednaný v ČI. 8. odst. 8.2 této smlouvy, tj. nedokončí
+           vlastním zaviněním výstavbu veřejné infrastruktury uvedené v ČI. 4 této smlouvy ve
+           sjednaném termínu dle ČI. 8 odst. 8.2 této smlouvy, způsobem tam sjednaným a v souladu
+           s DUR, Městskými standardy, obecně závaznými předpisy, a dle podmínek stanovených
+           dotčenými správními orgány, vlastníky, správci a provozovateli dopravní a technické
+           infrastruktury, je povinen zaplatit Městu smluvní pokutu ve výši 250.000 Kč. Stavebník se
+           zavazuje zaplatit Městu tuto smluvní pokutu do 30 dní poté, co mu bude doručena výzva
+           Města k jejímu uhrazení. V případě, že smluvní pokuta nebude ve stanovené lhůtě zaplacena,
+           postupuje se podle ČI. 12 této smlouvy.
+
+     10.2. Pokud Stavebník poruší závazek učinit Městu návrh (žádost) na uzavření smlouvy o převodu
+           stavebních objektů veřejné infrastruktury dle ČI. 9 odst. 9.1 až 9.3 této smlouvy, a to
+           kteréhokoliv z nich, v termínech uvedených tamtéž, je povinen zaplatit Městu smluvní pokutu
+           ve výši 50.000 Kč za každý stavební objekt veřejné infrastruktury, ke kterému nebyla řádně
+           a včas doručena výše uvedená žádost. Stavebník se zavazuje zaplatit Městu tuto smluvní
+           pokutu do 30 dní poté, co mu bude doručena výzva Města k jejímu uhrazení. V případě, že
+           smluvní pokuta nebude ve stanovené lhůtě zaplacena, postupuje se podle ČI. 12 této smlouvy.
+
+     10.3. Pokud Stavebník poruší svůj závazek, sjednaný v ČI. 9. odst. 9.1. této smlouvy, tj. neuzavře
+           vlastním zaviněním s Městem řádnou lcupní smlouvu o převodu stavebních objektů IO 101
+           Komunikace a zpevněné plochy, IO 201 Opěrná stěna komunikace a IO 301 Kanalizace
+           dešťová, v termínu uvedeném v čl. 9. odst. 9.1 této smlouvy, je povinen zaplatit Městu
+           smluvní pokutu ve výši 150.000 Kč za každý takový stavební objekt, ke kterému nebyla řádně
+           a včas uzavřena taková kupní smlouva. Stavebník se zavazuje zaplatit Městu tuto smluvní
+           pokutu do 30 dní poté, co mu bude doručena výzva Města k jejímu uhrazení. V případě, že
+           smluvní pokuta nebude ve stanovené lhůtě zaplacena, postupuje se podle Čl. 12 této smlouvy.
+
+
+
+
+                                                     11
+
+
+
+                                                                                                            Strana 14 / 32
+                                                                                 č.smlouvy: 5621173113
+
+10.4. Pokud Stavebník poruší svůj závazek, sjednaný v ČI. 9. odst. 9.2 této smlouvy, tj. neuzavře
+      vlastním zaviněním s Městem řádnou kupní smlouvu o převodu inženýrského objektu 10 401
+      Veřejné osvětlení, či poruší svůj závazek, sjednaný v ČI. 9. odst. 9.3 této smlouvy, tj.
+      neuzavře s Městem řádnou kupní smlouvu o převodu inženýrských objektů 10 302 Kanalizace
+      splašková, IO 303 Veřejný vodovod je povinen zaplatit Městu smluvní pokutu ve výši 100.000
+      Kč za každý takový inženýrský objekt, ke kterému nebyla řádně a včas uzavřena taková kupní
+      smlouva. Stavebník se zavazuje zaplatit Městu tuto smluvní pokutu do 30 dní poté, co mu
+      bude doručena výzva Města k jejímu uhrazení. V případě, že smluvní pokuta nebude ve
+      stanovené lhůtě zaplacena, postupuje se podle Cl. 12 této smlouvy.
+
+10.5. Pokud Stavebník poruší svůj závazek zajistit správu a údržbu veřejné dopravní infrastruktury,
+      jak je tento blíže popsán v ČI. 9. odst. 9.1 této smlouvy, do doby jejího převodu do vlastnictví
+      Města, a i přes písemnou výzvu Města takový stav neodstraní v dodatečné lhůtě 30 dnů, je
+      povinen zaplatit Městu smluvní pokutu ve výši 500.000 Kč. Stavebník se zavazuje zaplatit
+      Městu tuto smluvní pokutu do 30 dní poté, co mu bude doručena výzva Města k jejímu
+      uhrazení. Povinnost zaplatit Městu smluvní pokutu ve výši 500.000 Kč za porušení závazku
+      Stavebníka zajistit správu a údržbu dopravní infrastruktury do doby jejího převodu do
+      vlastnictví Města při neodstranění stavu přes písemnou výzvu v dodatečné lhůtě 30 dnů je
+      stanovena za každé takové porušení povinnosti, tedy opakovaně. V případě, že smluvní
+      pokuta nebude ve stanovené lhůtě zaplacena, postupuje se podle ČI. 12 této smlouvy.
+      Současně v případě, že Stavebník poruší závazek zajistit správu a údržbu veřejné dopravní
+      infrastruktury, jak je tento blíže popsán v ČI. 9. odst. 9.1 této smlouvy je Město oprávněno dle
+      vlastní úvahy zajistit správu a údržbu veřejné dopravní infrastruktury, j ale je tato blíže popsána
+      v ČI. 9. odst. 9.1 této smlouvy, a to na náklady a nebezpečí Stavebníka.
+
+10.6. Pokud Stavebník poruší svůj závazek zajistit provoz, správu a údržbu veřejného osvětlení, jak
+      je tento blíže popsán v ČI. 9. odst. 9.2 této smlouvy, do doby jejího převodu do vlastnictví
+      Města, a i přes písemnou výzvu Města takový stav neodstraní v dodatečné lhůtě 30 dnů, je
+      povinen zaplatit Městu smluvní pokutu ve výši 100.000 Kč. Povinnost zaplatit Městu smluvní
+      pokutu ve výši 100.000 Kč za porušení závazku Stavebníka zajistit provoz, správu a údržbu
+      veřejného osvětlení do doby jeho převodu do vlastnictví Města při neodstranění stavu přes
+      písemnou výzvu v dodatečné lhůtě 30 dnů je stanovena za každé takové porušení povinnosti,
+      tedy opakovaně. V případě, že smluvní pokuta nebude ve stanovené lhůtě zaplacena,
+      postupuje se podle Cl. 12 této smlouvy. Současně v případě, že Stavebník poruší závazek
+      zajistit provoz, správu a údržbu veřejného osvětlení, jak je tento blíže popsán v ČI. 9. odst.
+      9.2 této smlouvy, je Město oprávněno dle vlastní úvahy zajistit provoz, správu a údržbu
+      veřejného osvětlení, jak je toto blíže popsáno v ČI. 9. odst. 9.2 této smlouvy, a to na náklady
+      a nebezpečí Stavebníka                       .
+
+10.7. Pokud Stavebník poruší závazek, sjednaný v ČI, 5. této smlouvy, tj. řádně a včas nezaplatí
+      celý Příspěvek Městu, je povinen zaplatit Městu zákonný úrok z prodlení z dlužné částky
+      Příspěvku za každý i započatý den prodlení se zaplacením Příspěvku.
+
+10.8. Vedle zaplacení smluvní pokuty sjednané v této smlouvě, má Město právo uplatnit vůči
+      Stavebníkovi také náhradu újmy vzniklé Městu v důsledku porušení povinnosti stvrzené
+      smluvní pokutou a Stavebník je povinen takto uplatněnou újmu na první výzvu Městu
+      nahradit.
+
+
+
+                                                   12
+
+
+
+                                                                                                            Strana 15 / 32
+                                                                              č. smlouvy: 5621173113
+
+ 10.9. Město má právo uplatnit vůči Stavebníkovi právo na náhradu újmy, která Městu vznikla
+       souvislosti s výstavbou veřejné infrastruktury uvedené v Či. 4 této smlouvy, a Stavebník je
+       povinen takto uplatněnou újmu na první výzvu Městu nahradit,
+
+                                               ČI. 12
+                                   Zajištění závazků stavebníka
+
+ 11.1. Povinnost zaplacení Příspěvku dle této smlouvy, dále smluvní pokuty stanovené v této
+       smlouvě a případná náhrada újmy vzniklá Městu v souvislosti s výstavbou veřejné
+       infrastruktury uvedené v ČI. 4 této smlouvy, se Stavebník zavazuje zajistit zástavou až do
+       výše 7.500.000,- Kč k pozemku p.č. 5089/2 - zahrada o výměře 1507 m2v k.ú. Líšeň, obec
+       Brno, okres Brno-město (dále jen Pozemek), a tuto udržovat po celou dobu trvání této
+       smlouvy, resp. do doby splnění závazků Stavebníka vyplývajících z této smlouvy a v případě
+       uplatnění náhrady újmy, která je krytá zástavou, ze strany Města, až do úplného vypořádání
+       takové náhrady. Přílohou č. 6 je znalecký posudek ceny obvyklé Pozemku.
+
+  11.2. Stavebník sjedná s Městem při podpisu této smlouvy zástavní smlouvu k Pozemku a zřídí
+        k Pozemku zákaz zcizení a zatížení jako práva věcného po dobu trvání zástavního práva k
+        Pozemku. Tato zástava se zřizuje za účelem zajištění závazku Stavebníka poskytnout případné
+        smluvní pokuty stanovené v této smlouvě a pro případnou náhradu újmy vzniklé Městu
+        v souvislosti s výstavbou veřejné infrastruktury uvedené v ČI, 4 této smlouvy a za účelem
+        zajištění závazku Stavebníka poskytnout Příspěvek Městu dle ČI. 5. odst. 5.3 část a. této
+        smlouvy. Stavebník se zavazuje doložit Městu výpisem z listu vlastnictví k Pozemku vklad
+        zástavního práva, zákazu zcizení a zatížení do příslušného katastru nemovitostí nejpozději do
+        10 dnů od zápisu vkladu.
+
+11.3. Město je povinno před realizací zástavy nejdříve písemně upozornit Stavebníka na porušení
+      povinnosti vyplývající z této smlouvy s uvedením konkrétního ustanovení, které mělo být
+      porušeno a vyzvat Stavebníka ke zjednání nápravy, příp. zaplacení smluvní pokuty,
+      a upozornit Stavebníka na realizaci zástavy, pokud nebude zjednána náprava či zaplacena
+      smluvní pokuta. Město je oprávněno k realizaci zástavy, pokud Stavebník nezjedná nápravu
+      ani v dodatečně stanovené lhůtě od obdržení upozornění či nezaplatí smluvní pokutu ve lhůtě
+      stanovené ve výzvě k jejímu zaplacení. O realizaci zástavy bude Město Stavebníka písemně
+      informovat.
+
+11.4. Město se zavazuje na základě písemné výzvy Stavebníka vydat Stavebníkovi kvitanci
+      o splnění závazků z této smlouvy nebo prohlášení o vzdání se zástavního práva včetně zákazu
+      zcizení a zatížení při postupu podle čl. 13 odst. 13.4. pro účely výmazu zástavního práva
+      k Pozemku z příslušného katastru nemovitostí, a to do 30 dní po splnění závazků Stavebníka
+      vyplývajících z této smlouvy.
+
+                                             Čl. 13
+                                      Závěrečná ustanovení
+
+12.1. Tato smlouvaje uzavřena podle ustanovení § 1746 odst. 2 zákona č. 89/2012 Sb., občanský
+      zákoník, ve znění pozdějších předpisů ave smyslu ust. § 86 odst. 2 písm. d) zákona
+      č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších
+      předpisů) a v souladu se „Zásadami pro spolupráci s investory na rozvoji veřejné
+
+                                                13
+
+
+
+                                                                                                        Strana 16 / 32
+                                                                             č.smlouvy: 5621173113
+
+       infrastruktury statutárního města Brna", schválenými na Z8/25. zasedání Zastupitelstva města
+       Brna dne 23. 3. 2021.Stavebník prohlašuje, že se seznámil s textem „Zásad pro spolupráci
+       s investory na rozvoji veřejné infrastruktury statutárního města Brna" a souhlasí s tím, že
+       postupy a plnění dle této smlouvy jsou podřízena těmto zásadám.
+
+12.2. Ke změně této smlouvy může doj ít pouze na základě písemné dohody smluvních stran formou
+      písemných dodatků.
+
+12.3. Město je oprávněno od této smlouvy ^odstoupit, pokud Stavebník nezahájí výstavbu
+      Stavebního záměru ve lhůtě sjednané v ČI. 8. odst. 8.1 této smlouvy. Město je oprávněno
+      odstoupit od této smlouvy, pokud Stavebník nedokončí výstavbu Stavebního záměru ve lhůtě
+      sjednané v ČI. 8. odst. 8.2 této smlouvy a nezjednají nápravu ani na písemnou výzvu Města
+      v náhradní lhůtě. Povinnost Stavebníka hradit smluvní pokuty sjednané v této smlouvě
+      a vzniklou újmu není odstoupením Města od této smlouvy dotčena.                     .
+
+12.4. Stavebník je oprávněn odstoupit od této smlouvy, pokud se rozhodne nerealizovat Stavební
+      záměr a dosud nebylo vydáno pravomocné stavební povolení abylo-li již vydáno územní
+      rozhodnutí bude Stavebníkem sděleno příslušnému stavebnímu úřadu upuštění od záměru.
+
+12.5. V případě, že některé ustanovení této smlouvy je nebo se stane neplatným a/nebo neúčinným,
+      zůstávají ostatní ustanovení této smlouvy platná a účinná. Smluvní strany se zavazují nahradit
+      neplatné a/nebo neúčinné ustanovení této smlouvy ustanovením jiným, platným a účinným,
+      které svým obsahem a smyslem nejlépe odpovídá obsahu a smyslu ustanovení původního,
+      neplatného a/nebo neúčinného.
+
+12.6. Smluvní strany prohlašují, že tato smlouva byla uzavřena po vzájemném projednání podle
+      jejich pravé a svobodné vůle, nikoliv v tísni nebo za nápadně nevýhodných podmínek.
+
+12.7. Tato smlouva je uzavřena a nabývá platnosti dnem podpisu té smluvní strany, která podepíše
+      tuto smlouvu poslední smluvní strana.
+
+12.8. Smluvní strany se dohodly, že tuto smlouvu uveřejní prostřednictvím registru smluv dle
+      zákona č. 340/2015 Sb., o zvláštních podmínkách účinnosti některých smluv, uveřejňování
+      těchto smluv a o registru smluv (zákon o registru smluv). Smlouva nenabude účinnosti dříve,
+      než bude uveřejněna v registru smluv. Smluvní strany se dohodly, že smlouvu zašle
+      k uveřejnění v registru smluv Město. Smluvní strany se dále dohodly, že smlouva rovněž
+      nenabude účinnosti dříve, než bude proveden zápis vkladu zástavního práva, zákazu zcizení a
+      zatížení dle čl. 12 této smlouvy.
+
+12.9. Stavebník prohlašuje, že údaje uvedené v této smlouvě nejsou předmětem jeho obchodního
+      tajemství. Stavebník prohlašuje, že údaje uvedené v této smlouvě nejsou informacemi
+      požívajícími ochrany důvěrnosti majetkových poměrů.
+
+12.10. Stavebník bere na vědomí, že Město je povinným subjektem dle zákona č. 106/1999 Sb.,
+       o svobodném přístupu k informacím, ve znění pozdějších předpisů a souhlasí s případným
+       poskytnutím smlouvy včetně příloh žadateli dle tohoto zákona.
+
+12.11. Smlouva je vyhotovena ve třech stejnopisech, každý stejnopis má platnost originálu.
+       Stavebník obdrží jeden stejnopis, Město obdrží dva stejnopisy.
+
+                                                14
+
+
+
+                                                                                                       Strana 17 / 32
+     i í'
+
+
+
+
+;/
+/
+                                                                                        č.smlouvy: 5621173113
+
+            12.12. Přílohy smlouvy tvoří:
+
+                  Příloha č. 1: DÚR
+                  Příloha č. 2: Příloha plánovací smlouvy - komunikace, v. sadové úpravy
+                  Příloha č. 3: Příloha plánovací smlouvy - kanalizace, vodovod
+                  Příloha č. 4: Příloha plánovací smlouvy - veřejné osvětlení
+                  Příloha č. 5: Situace potvrzená BKOM a OD MMB ze dne 8. 4. 2021
+                  Příloha č. 6: Znalecký posudek ceny obvyklé Pozemku
+                  Příloha č. 7: Výpis z LV s vyznačením zápisu zástavního práva lep. č. 5089/2 v k. ú. Líšeň
+
+                  Doložka dle ust. § 41 zákona č, 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších
+                  předpisů:
+                  Tato smlouva byla schválena Zastupitelstvem města Brna na zasedání Z8/28 konaném
+                  dne 22.6. 2021.
+
+                  Statutární město Brno                              Líšeň Develop, s.r.o.
+
+                  VB                                                 V Brně dne
+
+                                                 TUTÁRNÍ MĚSTO BRNO
+                                                 GISTRÁT MĚSTA BRNA
+                                                    Odbor investiční
+                                                     Kounicova 67
+                                                 ..   601 67 BRNO
+                                                          =001-       .....
+                        Ing. Tomáš Pivec
+                                                                      Bc. Tibor Jaromír Beneš, MSc
+                   vedoucí Odboru investičního
+                                                                           jednatel společnosti
+                                                                          Líšeň Develop, s.r.o.
+
+
+
+
+                                                           15
+
+
+
+                                                                                                                 Strana 18 / 32
+                                                                     č. smlouvy 5621173113/1
+
+                                         Dodatek č. 1
+                                   ke Smlouvě o spolupráci
+                             při výstavbě veřejné infrastruktury
+                             „Obytný soubor Podbělová Líšeň“
+
+                                           Čl. 1
+                                       Smluvní strany
+
+1.1 Statutární město Brno
+se sídlem Dominikánské náměstí 196/1, Brno-město, 602 00 Brno
+IČO: 449 92 785
+DIČ: CZ44992785
+zastoupené primátorkou JUDr. Markétou Vaňkovou
+k podpisu dodatku č. 1 byl pověřen Ing. Tomáš Pivec, MBA,
+vedoucí Odboru investičního
+Magistrátu města Brna
+dále také jako Město
+
+1.2 Líšeň Develop, s.r.o.
+se sídlem Hlinky 45/114, Pisárky, 603 00 Brno
+IČO: 282 69 411
+DIČ: CZ 282 69 411
+společnost zapsaná v obchodním rejstříku vedeném u Krajského soudu v Brně pod
+sp. zn. C 57616
+zastoupená jednatelem Bc. Tiborem Jaromírem Benešem, MSc.
+(dále také jako Stavebník)
+
+Smluvní strany 1.1 a 1.2 dále společně jako Smluvní strany.
+
+
+                                            Čl. 2
+                                      Úvodní ustanovení
+
+2.1 Smluvní strany mezi sebou uzavřely dne 16. 7. 2021 Smlouvu o spolupráci při výstavbě
+veřejné infrastruktury „Obytný soubor Podbělová Líšeň“ č. 5621173113 (dále jen Smlouva),
+jejímž předmětem je úprava práv a povinností smluvních stran v rámci přípravy a realizace
+veřejné infrastruktury budované v rámci stavebního záměru „Obytný soubor Podbělová Líšeň“
+a dohoda smluvních stran o poskytnutí investičního příspěvku v souladu s dokumentem Zásady
+pro spolupráci s investory na rozvoji veřejné infrastruktury statutárního města Brna, schváleném
+Zastupitelstvem města Brna usnesením č. Z8/025 ze dne 23. 3. 2021 (dále jen Zásady).
+
+2.2 Smluvní strany mezi sebou uzavřely, v souladu s ust. Čl. 12 Smlouvy, dne 16. 7. 2021
+Zástavní smlouvu k nemovitým věcem č. 5621173321 (dále jen Zástavní smlouva). Vklad
+k nemovitým věcem dle této Zástavní smlouvy byl do katastru nemovitostí vedeném
+Katastrálním úřadem pro Jihomoravský kraj, Katastrální pracoviště Brno-město proveden dne
+15. 12. 2021 s právními účinky ke dni 22. 10. 2021.
+
+
+                                               1
+
+
+
+                                                                                             Strana 19 / 32
+                                                                      č. smlouvy 5621173113/1
+
+                                            Čl. 3
+                                     Předmět dodatku č. 1
+
+3.1 V článku 5. Investiční příspěvek se mění odst. 5.3. písm. b., který nově zní:
+
+„b. Platba ve výši 90 % z celkové výše Příspěvku, tj. 5.128.488 Kč do 90 dnů ode dne podání
+žádosti o vydání kolaudačního rozhodnutí nebo kolaudačního souhlasu pro Stavební záměr
+příslušnému stavebnímu úřadu. Stavebník doručí Městu kopii této žádosti s potvrzením
+o doručení stavebnímu úřadu.“
+
+3.2 V článku 5. Investiční příspěvek se mění odst. 5.6., který nově zní:
+
+„5.7. V případě, že Stavebník nezaplatí Městu řádně a včas Příspěvek v celkové výši
+5.698.320 Kč dle odst. 5.3 písm. a. a b. této smlouvy a tuto svou povinnost nesplní ani
+v dodatečné lhůtě na výzvu Města, uhradí na výzvu Města smluvní pokutu ve výši 0,1% z dlužné
+částky Příspěvku za každý den prodlení, a to do 30 dní ode dne doručení výzvy k úhradě smluvní
+pokuty.“
+
+3.2 Smluvní strany se dohodly, že Stavebník není povinen nadále zajišťovat povinnost platby
+investičního příspěvku dle odst. 5.3. písm. a. a b. a sankcí dle Čl. 11 Smlouvy zástavou
+k nemovitým věcem dle Čl. 12 Smlouvy. Smluvní strany se dohodly, že současně s tímto
+dodatkem č. 1 uzavřou dohodu o zrušení Zástavní smlouvy. Tímto se vypouští ust. Čl. 12.
+
+Ostatní ustanovení Smlouvy zůstávají v platnosti, nezměněná.
+
+                                            Čl. 4
+                                     Závěrečná ustanovení
+
+3.1 Tento dodatek č. 1 je vyhotoven ve třech stejnopisech s platností originálu, Město obdrží dva
+stejnopisy, Stavebník obdrží jeden stejnopis.
+
+3.2 Smluvní strany prohlašují, že tento dodatek č. 1 byl uzavřen po vzájemném projednání podle
+jejich pravé a svobodné vůle, nikoliv v tísni nebo za nápadně nevýhodných podmínek.
+
+3.3 Dodatek č. 1 je uzavřen a nabývá platnosti dnem podpisu té smluvní strany, která jej podepíše
+jako druhá.
+
+3.4 Dodatek č. 1 bude uveřejněn prostřednictvím registru smluv dle zákona č. 340/2015 Sb.,
+o zvláštních podmínkách účinnosti některých smluv, uveřejňování těchto smluv a o registru
+smluv (zákon o registru smluv). Dodatek č. 1 nabývá účinnosti dnem uveřejnění v registru
+smluv. Smluvní strany se dohodly, že dodatek č. 1 zašle k uveřejnění v registru smluv Město.
+
+
+
+
+                                                2
+
+
+
+                                                                                              Strana 20 / 32
+                                                                            č. smlouvy 5621173113/1
+
+Doložka dle ust. § 41 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších
+předpisů:
+
+Tento dodatek č. 1 byl schválen Zastupitelstvem města Brna na zasedání Z9/15 konaném dne
+5. 3. 2024.
+
+Líšeň Develop, s.r.o.                             Statutární město Brno
+
+V Brně dne ................................       V Brně dne ..................................
+
+
+
+
+………………………………….                                    …………………………………
+Bc. Tibor Jaromír Beneš, MSc                         Ing. Tomáš Pivec, MBA
+      jednatel společnosti                         vedoucí Odboru investičního
+      Líšeň Develop, s.r.o.                           Magistrátu města Brna
+
+
+
+
+                                              3
+
+
+
+                                                                                                  Strana 21 / 32
+                                                                   č. smlouvy 5621173113/2
+
+
+
+
+                                      Dodatek č. 2
+                                 ke Smlouvě o spolupráci
+                           při výstavbě veřejné infrastruktury
+                           „Obytný soubor Podbělová Líšeň“
+
+                                          Čl. 1
+                                      Smluvní strany
+
+1.1 Statutární město Brno
+se sídlem Dominikánské náměstí 196/1, Brno-město, 602 00 Brno
+IČO: 449 92 785
+DIČ: CZ44992785
+zastoupené primátorkou JUDr. Markétou Vaňkovou
+k podpisu dodatku č. 2 byl pověřen Ing. Tomáš Pivec, MBA,
+vedoucí Odboru investičního
+Magistrátu města Brna
+dále také jako Město
+
+1.2 Líšeň Develop, s.r.o.
+se sídlem Hlinky 45/114, Pisárky, 603 00 Brno
+IČO: 282 69 411
+DIČ: CZ 282 69 411
+společnost zapsaná v obchodním rejstříku vedeném u Krajského soudu v Brně pod
+sp. zn. C 57616
+zastoupená jednatelem Bc. Tiborem Jaromírem Benešem, MSc.
+dále také jako Stavebník
+
+Smluvní strany 1.1 a 1.2 dále společně jako Smluvní strany.
+
+                                          Čl. 2
+                                   Předmět dodatku č. 2
+
+2.1 Smluvní strany mezi sebou uzavřely dne 16. 7. 2021 Smlouvu o spolupráci při výstavbě
+veřejné infrastruktury „Obytný soubor Podbělová Líšeň“ č. 5621173113 (dále jen Smlouva),
+jejímž předmětem je úprava práv a povinností smluvních stran v rámci přípravy a realizace
+veřejné infrastruktury budované v rámci stavebního záměru „Obytný soubor Podbělová Líšeň
+a dohoda smluvních stran o poskytnutí investičního příspěvku v souladu s dokumentem Zásady
+pro spolupráci s investory na rozvoji veřejné infrastruktury statutárního města Brna,
+schváleném Zastupitelstvem města Brna usnesením č. Z8/025 ze dne 23. 3. 2021 (dále jen
+Zásady), to vše ve znění dodatku č. 1 Smlouvy ze dne 27. 3. 2024.
+
+2.2 Smluvní strany se s ohledem na
+    a) změnu právní úpravy, kdy došlo k nabytí účinnosti zákona č. 283/2021 Sb., stavební
+       zákon, a vyhlášky č. 131/2024 Sb., a dle nově účinné právní úpravy již není možné vést
+       samostatné územní řízení, v rámci kterého by docházelo k vypracování dokumentace
+       pro územní řízení (DUR);
+
+
+
+                                             1
+
+                                                                                          Strana 22 / 32
+                                                                   č. smlouvy 5621173113/2
+
+    b) skutečnost, že dne 31. 1. 2025 nabyl účinnosti nový Územní plán města Brna, dle
+       kterého došlo ke změně regulativů týkajících se pozemků dotčených záměrem, kdy dle
+       tohoto nového územního plánu již není možné záměr v původní nezměněné podobě
+       realizovat,
+dohodly na následujícím: objekty inženýrských sítí a komunikací, původně vymezené v čl. 4
+Smlouvy budou povoleny v samostatném povolovacím řízení vedeném podle příslušných
+ustanovení zákona č. 283/2021 Sb., stavební zákon, a to v rozsahu a podobě jednotlivých
+inženýrských a stavebních objektů podle přílohy tohoto dodatku č. 2 Smlouvy.
+
+2.3 Pro Stavební záměr byla v červnu 2025 zpracována společností KUBE s.r.o., se sídlem
+Horova 68, 616 00 Brno, IČO: 282 61 950, dokumentace pro povolení stavby dopravní
+a technické infrastruktury (dále jen DPS-I). Koordinační situační výkres C.3 – dopravní
+a technická infrastruktura, který je součástí DPS-I tvoří přílohu č. 6 Smlouvy.“
+
+2.4 Stavebník se zavazuje předložit Městu, Odboru investičnímu Magistrátu města Brna,
+kompletní projektovou dokumentaci pro povolení záměru staveb bytových a rodinných domů
+(dále jen „Etapa výstavby domů“), a to před podáním žádosti o povolení tohoto záměru
+příslušnému stavebnímu úřadu. Stavebník není oprávněn podat žádost o povolení záměru pro
+Etapu výstavby domů dříve, než splní povinnost dle tohoto odstavce.
+Smluvní strany se zavazují uzavřít ve vztahu k Etapě výstavby domů samostatnou plánovací
+smlouvu ve smyslu § 130 a násl. zákona č. 283/2021 Sb., stavební zákon (dále jen „Plánovací
+smlouva“). Stavebník bere na vědomí a souhlasí s tím, že tato Plánovací smlouva bude uzavřena
+v souladu s dokumentem „Zásady pro spolupráci s investory na rozvoji veřejné infrastruktury
+statutárního města Brna – Aktualizace č. 1“, který byl schválen Zastupitelstvem města Brna na
+zasedání Z9/31 dne 10. 12. 2025 (dále jen „Nové Zásady“).
+Předmětem Plánovací smlouvy bude komplexní úprava práv a povinností Smluvních stran
+souvisejících s realizací Etapy výstavby domů na základě nové projektové dokumentace, a to
+včetně závazku Stavebníka poskytnout Městu investiční příspěvek. Smluvní strany prohlašují,
+že výše tohoto investičního příspěvku bude v Plánovací smlouvě stanovena na základě hrubé
+podlažní plochy (HPP) budovaných staveb, a to v souladu s metodikou a sazbami dle Nových
+Zásad.“
+
+2.5 Smluvní strany se dohodly na změně těchto změnách Smlouvy:
+
+Čl. 4 Veřejná infrastruktura:
+1) Odst. 4.1 se mění a nově zní:
+
+„V rámci Stavebního záměru bude dle DPS-I vybudována následující veřejná infrastruktura,
+která bude po kolaudaci převedena do vlastnictví Města, které za splnění stanovených
+podmínek zajistí její správu, provozování a údržbu:
+IO 101 Komunikace a zpevněné plochy;
+IO 201 Opěrná stěna komunikace;
+IO 202 Opěrná stěna komunikace;
+IO 301 Kanalizace dešťová (včetně vsakovacího objektu);
+IO 302 Kanalizace splašková;
+IO 303 Veřejný vodovod;
+IO 401 Veřejné osvětlení.“
+
+
+
+
+                                             2
+
+                                                                                          Strana 23 / 32
+                                                                   č. smlouvy 5621173113/2
+
+2) Odst. 4.2 IO 101 Komunikace a zpevněné plochy se mění a nově zní:
+„Inženýrský objekt IO 101 Komunikace a zpevněné plochy bude realizován na pozemcích
+p. č. 5049/1, 5049/40, 5049/23, 5089/1, 5049/201, 5043/3, 5090/4, 5049/410, 6237/1 a 5091/1
+v k. ú. Líšeň.
+Jedná se o komunikace a zpevněné plochy, které budou součástí veřejného prostranství.
+Navrhovaná pozemní komunikace v délce 280,62 m bude sloužit k dopravní obsluze území.
+Jako prostředek pro dopravní napojení nové lokality byla zvolena čtyřramenná malá okružní
+křižovatka s vnějším průměrem 15 m.
+Komunikace je navrhována v šířce 6,0 m, v úseku „Zóna 30“ v šířce 5,50 m.
+Součástí této stavby je návrh veřejně přístupných parkovacích stání formou podélného
+parkovacího zálivu.
+Podrobný popis IO 101 Komunikace a zpevněné plochy je uveden v souhrnné technické zprávě,
+která je součástí DPS-I.
+Umístění IO 101 Komunikace a zpevněné plochy je zakresleno ve výkresu Příloha plánovací
+smlouvy – komunikace, v. sadové úpravy, který tvoří přílohu č. 2 této smlouvy.
+IO 101 Komunikace a zpevněné plochy včetně zastavěných částí pozemků bude převeden do
+vlastnictví Města prostřednictvím Odboru dopravy Magistrátu města Brna a předán do správy
+společnosti Brněnské komunikace, a.s., dle platných podmínek pro převody nově
+vybudovaných komunikačních staveb cizích investorů do vlastnictví Města, a to v rozsahu
+odsouhlaseném Odborem dopravy MMB a společností Brněnské komunikace a.s. na situaci dne
+25. 9. 2025, která tvoří přílohu č. 5 této smlouvy.“
+
+3) Odst. 4.3 IO 201 Opěrná stěna komunikace se doplňuje o nový objekt IO 202 Opěrná stěna
+     komunikace a nově zní:
+„Inženýrské objekty IO 201 Opěrná stěna komunikace a IO 202 Opěrná stěna komunikace
+budou realizovány na pozemcích p. č. 5089/1, 5089/410, 5049/23 a 5049/1 v k. ú. Líšeň.
+Jedná se o pilotové stěny zajišťující stabilitu komunikace. IO 201 Opěrná stěna komunikace je
+navržen v délce 25 m, IO 202 Opěrná stěna komunikace je navržen v délce 23 m.
+Podrobný popis IO 201 Opěrná stěna komunikace a IO 202 Opěrná stěna komunikace je uveden
+v souhrnné technické zprávě, která je součástí DPS-I.
+Umístění IO 201 Opěrná stěna komunikace a IO 202 Opěrná stěna komunikace je zakresleno
+ve výkresu Koordinační situační výkres C.3, který tvoří přílohu č. 6 této smlouvy.
+IO 201 Opěrná stěna komunikace a IO 202 Opěrná stěna komunikace včetně zastavěných částí
+pozemků budou převedeny do vlastnictví Města prostřednictvím Odboru dopravy Magistrátu
+města Brna a předán do správy společnosti Brněnské komunikace, a.s., dle platných podmínek
+pro převody nově vybudovaných komunikačních staveb cizích investorů do vlastnictví Města,
+a to v rozsahu odsouhlaseném Odborem dopravy MMB a společností Brněnské komunikace
+a.s. na situaci dne 25. 9. 2025, která tvoří přílohu č. 5 této smlouvy.“
+
+4) Odst. 4.4 IO 301 Kanalizace dešťová (včetně vsakovacího objektu) se mění a nově zní:
+„Inženýrský objekt IO 301 Kanalizace dešťová (včetně vsakovacího objektu) bude realizován
+na pozemcích p. č. 5049/1, 5089/1, 5049/40, 5049/23, v k. ú. Líšeň.
+Bude vybudována stoka DN 300 délky 260,48 m. Dešťová kanalizace bude sloužit k odvodnění
+veřejné komunikace. Dešťové vody budou svedeny do vsakovacího objektu o objemu 76,86 m³.
+Podrobný popis IO 301 Kanalizace dešťová (včetně vsakovacího objektu) je uveden v souhrnné
+technické zprávě, která je součástí DPS-I.
+
+
+                                             3
+
+                                                                                          Strana 24 / 32
+                                                                   č. smlouvy 5621173113/2
+
+Umístění IO 301 Kanalizace dešťová (včetně vsakovacího objektu) je zakresleno ve výkresu
+Příloha plánovací smlouvy – kanalizace, vodovod, který tvoří přílohu č. 3 této smlouvy.
+IO 301 Kanalizace dešťová (včetně vsakovacího objektu) bude převeden do vlastnictví Města
+a předán do provozování společnosti Brněnské vodárny a kanalizace, a.s., vsakovací objekt
+bude předán do správy Brněnské komunikace a.s.“
+
+5) Odst. 4.5 IO 302 Kanalizace splašková se mění a nově zní:
+„Inženýrský objekt IO 302 Kanalizace splašková bude realizován na pozemcích p. č. 5049/1,
+5049/40, 5049/23 v k. ú. Líšeň.
+Bude vybudována stoka DN 300 délky 260,53 m. Navržená stoka bude napojena na stávající
+kanalizační stoku v šachtě ŠS8 na pozemku p. č. 5049/1.
+Podrobný popis IO 302 Kanalizace splašková je uveden v souhrnné technické zprávě, která je
+součástí DPS-I.
+Umístění IO 302 Kanalizace splašková je zakresleno ve výkresu Příloha plánovací smlouvy –
+kanalizace, vodovod, který tvoří přílohu č. 3 této smlouvy.
+IO 302 Kanalizace splašková bude převeden do vlastnictví Města a předán do provozování
+společnosti Brněnské vodárny a kanalizace, a.s.“
+
+6) Odst. 4.6 IO 303 Veřejný vodovod se mění a nově zní:
+„Inženýrský objekt IO 303 Veřejný vodovod bude realizován na pozemcích p. č. 5049/1,
+5089/1, 5049/40, 5049/201, 5043/3, 5049/69, 5049/23 v k. ú. Líšeň.
+Bude vybudováno prodloužení vodovodu pro veřejnou potřebu z tvárné litiny DN 100 délky
+324,38 m. Navržený vodovodní řad bude napojen na stávající vodovod PE DN 160 v ulici
+Novolíšeňská.
+Podrobný popis IO 303 Veřejný vodovod je uveden v souhrnné technické zprávě, která je
+součástí DPS-I.
+Umístění IO 303 Veřejný vodovod je zakresleno ve výkresu Příloha plánovací smlouvy –
+kanalizace, vodovod, který tvoří přílohu č. 3 této smlouvy.
+IO 303 Veřejný vodovod bude převeden do vlastnictví Města a předán do provozování
+společnosti Brněnské vodárny a kanalizace, a.s.“
+
+7) Odst. 4.7 IO 401 Veřejné osvětlení se mění a nově zní:
+„Inženýrský objekt IO 401 Veřejné osvětlení bude realizován na pozemcích p. č. 5049/1,
+5049/23, 5049/40, 5043/3, 5049/201, 5089/1, 5049/410, 5049/69 a 5091/1 v k. ú. Líšeň.
+V rámci tohoto inženýrského objektu bude vybudováno nové veřejné osvětlení v celkovém
+počtu 22 světelných míst (16 ks stožárů JB8 a 6 ks stožárů SB5).
+Podrobný popis IO 401 Veřejné osvětlení je uveden v souhrnné technické zprávě, která je
+součástí DPS-I.
+Umístění IO 401 Veřejné osvětlení je zakresleno ve výkresu Příloha plánovací smlouvy –
+veřejné osvětlení, který tvoří přílohu č. 4 této smlouvy.
+IO 401 Veřejné osvětlení bude převeden do vlastnictví Města a předán do obstarání společnosti
+Technické sítě Brno, akciová společnost.“
+
+
+
+
+                                             4
+
+                                                                                          Strana 25 / 32
+                                                                     č. smlouvy 5621173113/2
+
+Čl. 6 Majetkoprávní vztahy k pozemkům dotčeným veřejnou infrastrukturou:
+1) Odst. 6.1 se mění a nově zní:
+„Veřejná infrastruktura uvedená v Čl. 4 této smlouvy bude umístěna na pozemcích p. č. 5049/1,
+5049/40, 5049/23, 5090/4, 5049/410 (pozemky ve vlastnictví Stavebníka), 5089/1, 5049/201,
+5043/3, 5049/69, 6237/1 (pozemky ve vlastnictví Města) a 5091/1 (pozemek ve vlastnictví
+fyzických osob), vše v katastrálním území Líšeň.“
+
+Čl. 7 Financování veřejné infrastruktury:
+1) Odst. 7.3 se vypouští.
+
+Čl. 9 Budoucí vlastnictví a správa veřejné infrastruktury:
+1) Odst. 8.2 se mění a nově zní:
+„Stavebník se zavazuje nejpozději do 1 roku ode dne nabytí právní moci kolaudačního
+rozhodnutí pro níže uvedené objekty doručit Městu písemnou žádost o převod vlastnického
+práva k inženýrským objektům IO 101 Komunikace a zpevněné plochy, IO 201 Opěrná stěna
+komunikace, IO 202 Opěrná stěna komunikace a IO 301 Kanalizace dešťová, a to včetně částí
+pozemků dotčených těmito inženýrskými objekty, které nebudou ke dni takové žádosti ve
+vlastnictví Města. Převod bude realizován dle platných podmínek pro převody novostaveb do
+vlastnictví Města. V případě, že Stavebník včas nedoručí Městu řádnou žádost dle tohoto
+odstavce, je Město oprávněno takovou žádost zaslat Stavebníkovi, a to nejpozději do 1 roku
+ode dne, kdy se dozví o nabytí právní moci kolaudačního rozhodnutí pro výše uvedené objekty.
+Stavebník se zavazuje uzavřít tuto kupní smlouvu nejpozději do 4 let od nabytí právní moci
+kolaudačního rozhodnutí pro jednotlivé výše uvedené inženýrské objekty a Město se zavazuje
+zaplatit Stavebníkovi za výše uvedené objekty a příslušné části pozemků pod těmito objekty
+celkem částku ve výši 1.000 Kč včetně DPH za každý inženýrský objekt. Stavebník se zavazuje
+na své náklady zpracovat geometrický plán skutečného zaměření těchto inženýrských objektů,
+resp. pozemků pod těmito objekty, a jeho potvrzení příslušným katastrálním úřadem. Stavebník
+se zavazuje zajistit do doby převodu těchto inženýrských objektů do vlastnictví Města, na své
+náklady jejich správu a údržbu.“
+
+Změna týkající se příloh Smlouvy:
+1) U Příloh č. 2, 3 a 4 Smlouvy se stávající výkresová část v celém rozsahu ruší a nahrazuje se
+   novou výkresovou částí dle DPS-I. Názvy těchto příloh zůstávají beze změny v původním
+   znění Smlouvy.
+
+2) Mění se příloha č. 5 Smlouvy a její název nově zní:
+„Příloha č. 5: Situace potvrzená BKOM a OD MMB ze dne 25. 9. 2025.“
+
+3) Původní Příloha č. 6: Znalecký posudek ceny obvyklé Pozemku a Příloha č. 7: Výpis z LV
+   s vyznačením zápisu zástavního práva k p. č. 5089/2 v k. ú. Líšeň se vypouštějí.
+
+4) Doplňuje se nová příloha č. 6 Smlouvy a její název zní:
+„Příloha č. 6: Koordinační situační výkres C.3 – dopravní a technická infrastruktura.“
+
+Ostatní ustanovení Smlouvy zůstávají v platnosti, nezměněná.
+
+                                             Čl. 4
+
+
+                                              5
+
+                                                                                            Strana 26 / 32
+                                                                                 č. smlouvy 5621173113/2
+
+                                           Závěrečná ustanovení
+
+4.1 Tento dodatek č. 2 je vyhotoven ve třech stejnopisech s platností originálu, Město obdrží
+dva stejnopisy, Stavebník obdrží jeden stejnopis.
+
+4.2 Smluvní strany prohlašují, že tento dodatek č. 2 byl uzavřen po vzájemném projednání
+podle jejich pravé a svobodné vůle, nikoliv v tísni nebo za nápadně nevýhodných podmínek.
+
+4.3 Dodatek č. 2 je uzavřen a nabývá platnosti dnem podpisu té smluvní strany, která jej
+podepíše jako druhá.
+
+4.4 Dodatek č. 2 bude uveřejněn prostřednictvím registru smluv dle zákona č. 340/2015 Sb.,
+o zvláštních podmínkách účinnosti některých smluv, uveřejňování těchto smluv a o registru
+smluv (zákon o registru smluv). Dodatek č. 2 nabývá účinnosti dnem uveřejnění v registru
+smluv. Smluvní strany se dohodly, že dodatek č. 2 zašle k uveřejnění v registru smluv Město.
+
+Doložka dle ust. § 41 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších
+předpisů:
+
+Tento dodatek č. 2 byl schválen Zastupitelstvem města Brna na zasedání ……. konaném dne
+………..
+
+
+
+........................................                 .......................................
+Bc. Tibor Jaromír Beneš, MSC                              Ing. Tomáš Pivec, MBA
+jednatel společnosti                                    vedoucí Odboru investičního
+Líšeň Develop, s.r.o.                                     Magistrátu města Brna
+
+
+
+
+                                                    6
+
+                                                                                                     Strana 27 / 32
+                                                                                                                                                                                                              Strana 28 / 32
+OSZ:Lu | DPYIUNWIOY - ÁANOJUIS IDEAOUPJd LYOJUd !Z "2 PYUOJHd
+bys OZ 649 02)+ | zoeany Duc
+O8 00 919 '898000H.—1035 "38NM
+ILM LIHOHY
+JED                                                                                    VN31S VAOLOJId / GAZ VN43dO
+                                                                                                 A9VMINNWOM VN3LS YNUJdO ZOZ “LOZ OI
+                                                                  VAZVIU VAONOLJA -|S3d Ožd 39VMINNWOM VHDOJd
+                                                                        VAZV1a VAONOLAS - NSYd OHJOVAOMAVd VHDOJd
+  (AOULSO AMOGARILS) AMLSOM JAO1NZ / VAZVIO VAONOLAS / NOLJ8 AAOLIVASY - JOVMINNWOM JNAZIFOd VHDOJd                                                                                                az/evos
+
+
+
+
+                                                                                                                                                          go
+                                       (WOMA Aneuds op e gws nyofew op 1uppojd 4) AHDOId JNANAAdZ V J39VMINNWOM                LOL OJ                      el             .
+                                                    WHOLSZANI NMLACVW A JNAZO ADINVAH / |NAZN OHANASAY JADINVEH                                                                     198/6409
+                                                                                                                                                                     NY           200/6005     <
+sn“
+                       s                                                                                                                      A m   SNN
+                                      ve   i
+                                                                                                         vš
+         TT-                               NJ                  S/6r09
+                                                č               s/s                                  i          —
+                                                                                                                                                                          Sv/aos
+                                                                                                                                                                          +y/ovos
+                                                                                                                                                                              £4/sros
+                                 u“
+                                                    470605
+
+
+
+
+                                                                                            aajevě                                      své
+                                                                                                                                                                                 P
+                                                                                                                                                                                                             asM
+                                                                                                                                                                lé
+                                                                                                                                                                                                                                                              Strana 29 / 32
+ osZz:pwu             P          P                  -A                          jd euojud :€ "2 EYOJUd
+ bys 912 649 0244         29 egnyBuajeje
+Ou 00 919 "89 80004       oss '38nM
+ WLNSLIHOLY
+JED
+                                                                               OOAOGOA ANr383A £0£ OI      — — — ——
+                                                                             VAOJSA JOVZTIVNYM 10€ OI
+                                                                                                           — -hej
+                                                                           VAOMSVIdS 3VZTIVNYM Z0£ OI      —   ©   —   ee-
+                                           WHOLSJANI NMLACVW A JWAZN ADINVYH / |NAZN OHANASAY JADINVYH
+                                                                                                                                                                                                                eeé
+ sn“
+                                                                                                                                                                             únuuuuunne E            T TT
+                                                                                                           K
+                                                                                                                                                                                                            =
+                                                                                              PAAOR      K00 Ze
+                                                                                                AR RR RAKOC,
+                                                                                                          s
+                                                                                                          SOOS]                                                             En   GIS                   KÍE I
+                                                                                                                                                                                   TTT
+                                                                                                                                                                                   I      I                                                  Sv/svos
+                                                                                                                                                                                   I
+                                                                                                                                                                                   A
+                                                                                                                                                                                       ||
+                                                                                                                                                                                              p
+                                                                                                                                                                                              i RS                                           by/6voS
+                                                                                                                                                                                              i
+                                                                                                                                                                                                                                              £4/6+05
+                                                                                                                                                                                                                         4-
+                                                                                    „ajsvéě                                                                       us 5                                                        :
+                                                                                                                                                                                                                                                  alsvě
+                                                                                                                                                                                                                 A                                            S
+                                                                                                                                                                                                                                      levé
+                                                                                                                                                                                                                                  e
+                                                                                                                                                                                                                     s
+                                                                                                                                                                                                                                                          A
+                                                                                                                             WETWEKTKTK TOK EKTETNVANKUNTUNKKKKKYKANEKKTU
+                                                                                                                                                               Strana 30 / 32
+OSZ:LWU | IU9|JDASO                  DUÍ9A9A - ÁANOJUIS      IIBAOUPId       EUOJUd     !p "2 LUOJI
+ PyS 9LZ 649 07b+ | z9'0gNyDuajeje
+Oug 00 919 6900041039380
+ PLM LIHOLY
+JED
+«                                                                                                              T.
+                                                                                                   —
+                                                                             INFILZASO ANCZNZA 104 O
+                                          VAOLSSANÍ NMLIFYW A JNEZN JOINVYH /JWAZN OHINASAY ZOINVYH
+sn
+                                                                                         vě
+                                                                                                               [ee] [1
+                                                                                                       =   a
+
+
+                                                                                                               <]
+                                                                                                                                                    £4/6+05
+
+
+
+
+                                                                                                                                orransv"""Í
+                                                                                                                         sroě
+                                                                                                                                                       P
+                                                                                                                                                              slNC
+                                                                                                                                              oeš
+                                                                                                                                                                                                                                                         Strana 31 / 32
+                                                                                                                                                                                                                                     16/606
+                                                                                                                                                                                                                                              4ee/oros
+                                                                       Ma                                                                                                                     /            sa SK
+                                                                                                         =               v
+                                                              av                                             F                                                                                                       1
+                                                                                                                                                                                                                         1
+                                                                                                                                                                                                                             ŘíhÁN
+                                                              ZEM ODCS NO DA 603                                                                                                                                         m
+                                                                                                       .         ď
+                                                              ASV YTÁK JDVZÍTENOU - ZEC 01               v                                                                                                      ..
+                                                                                                                                                                                                                     /P
+                                                              Fieiorau co
+                                                              AaGea8 3ávzitvmu-              Z
+                                                          P                     con               „o         7                                                                                    04 aox ovnoFZVT
+z   =                         IL8Y3NOF) tov
+                       (oC OLSeo                 TES
+                                        1MARO (AVAONYSA
+                                                                  k B                        /
+                                                                                                 +z U                        m
+           2                                                                                                         <
+               8 <
+                 S9/6r05
+        sm esyzen
+                pres   a —— —
+                 our
+           ponese
+               pu ona o K
+          Joma B oE0
+                     mno — ——
+               up zemuna  ———
+PRA MAD ADO PA POD
+                     oepomne
+                    a
+                     em
+                     Maine
+                 over ut —
+                      tsi ——-——
+              Popa amam
+             Fe ee
+                   da poslu piboris
+                                                               1 UO34
+                                                                                                                                                                        x   k       „ee   s            2.
+                                                                                                                                          J                             S       s   n                       "            k,
+                                                                                                 S-P-03PYNHOX-9%                 4
+                                                                                                                                     SH       x“
+                                                                                                                                                   dok
+                                                                                                                                                         7
+                                                                                                                                                             dop-   L
+                                                              aut           G9                          SWS JAOIUJSEJA OP W9poAgId S owjsejunoS
+                                                                                   Strana 32 / 32
+                                                             (ee 0 kvnoné
+                                                                      Dar0o oman
+vos
+                 oo
+                        NOAYODA MLD M6008
+                                       A PDA POVKDEL ———
+                                                oaana ———
+                                               Mapam ———=—
+                                                MAWamK =
+       OM java voZ0 VOD —
+      BAS DYAO1VUDSZ -VO JM0NOL3B —
+      Basso aero Vožn10 av —
+           Van KOHROA A 90LMÁSY
+                              OLSIK NULY A JMD OE DM    +
+                                                  zav
+

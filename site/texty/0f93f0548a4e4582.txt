@@ -1,0 +1,1973 @@
+Rada města Brna
+
+Z9/08. zasedání Zastupitelstva města Brna
+konané dne 20.6.2023
+
+
+
+       10. Návrh Akčního plánu č. 2 Strategie kultury a kreativních
+                           odvětví 2023-2025
+
+Anotace
+V souladu se Strategií kultury a kreativních odvětví předkládáme návrh Akčního plánu č. 2 Strategie
+kultury a kreativních odvětví pro roky 2023-2025.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   Akční plán č. 2 Strategie kultury a kreativních odvětví, který tvoří přílohu č. ....
+                               tohoto zápisu.
+
+
+Stanoviska
+
+Materiál projednala Rada města Brna na R9/035. schůzi konané dne 7. 6. 2023 a doporučila
+Zastupitelstvu města Brna přijmout výše uvedený návrh usnesení. Schváleno jednomyslně 8 členy.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Kateřina Vorlíčková
+  vedoucí odboru - Odbor kultury
+  13.6.2023 v 08:33
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Jiří Kučera
+  vedoucí úseku - 1. úsek
+  12.6.2023 v 13:36
+
+
+
+
+Sestava vytvořena 13.6.2023 v 08:33                            1/1                                Vygenerováno programem eMMB
+
+
+                                                                                                                  Strana 1 / 31
+                                 Obsah materiálu
+Návrh usnesení                                       1-1
+Obsah materiálu                                      2-2
+Důvodová zpráva                                      3-4
+Příloha (vyhodnoceni AP1.pdf)                        5-9
+Příloha k usnesení (AP c_2_SKKO_2023-2025 .pdf)    10 - 31
+
+
+
+
+                                                       Strana 2 / 31
+                                            Důvodová zpráva
+
+Strategie kultury a kreativních odvětví (dále jen „SKKO“) byla schválena Zastupitelstvem města Brna
+dne 15. 5. 2018. Ve Strategické části stanovila vizi kulturního a kreativního Brna a 5 cílů kulturní politiky
+k roku 2050. Programová část rozvedla cíle do 17 priorit a 53 opatření k roku 2025. Nejnižším patrem
+strategie jsou akční plány (dále jen „AP“) vymezující specifické aktivity k naplnění opatření, priorit, cílů i
+samotné vize.
+
+AP č. 1 SKKO pro roky 2021-2022 byl schválen Zastupitelstvem města Brna č. Z8/22 konaném dne
+8. 12. 2020. Dle schválené SKKO má být vyhodnocení AP předloženo samostatně formou Informativní
+zprávy o průběhu realizace Radě města Brna, ale má být i součástí materiálu, ve kterém je předkládán
+návrh nového AP. Z tohoto důvodu překládáme stručnější shrnutí plnění i v rámci tohoto materiálu.
+Kompletní evaluace AP č. 1 SKKO je pak v souladu s SKKO zveřejněna zde:
+https://kultura.brno.cz/akcni-plan-2021-2022/
+
+Následující stránky představují druhý akční plán na období 2023-2025. Obsahuje 22 aktivit sloučených
+do tří skupin:
+    A) Systém a koordinace
+    B) Mapování, data, aplikace
+    C) Infrastruktura
+
+Tabulka uvádí pro každou aktivitu čísla opatření z programové části strategie, na které aktivita navazuje,
+konkrétní úkoly pro jednotlivé roky platnosti plánu, indikátory (pokud je možné je stanovit) odpovědnost
+za realizaci a finanční zdroje potřebné pro realizaci aktivit.
+
+Jednotlivé aktivity mají také v rámci plánování svou prioritu:
+   •    Kritická – bezpodmínečně nutná aktivita
+   •    Důležitá – aktivita je nezbytná pro realizaci klíčových bodů SKKO a další činnosti Odboru
+        kultury MMB (dále jen OK)
+   •    Běžná – výhledově potřebná aktivita, bez nezbytného časového ohraničení
+   •    Nízká – rozšiřující aktivita uskutečněná pouze v případě dostatečných finančních a časových
+        zdrojů
+
+Aktivity jsou v návaznosti na vyhodnocení AP č. 1 SKKO současně více definovány dle SMART zásad
+(Specific – konkrétní, Measurable – měřitelný, Achievable – dosažitelný, Realistic – realistický, Time-
+bound – ohraničený v čase) a v případě, kde to je vhodné, doplněny i o měřitelné indikátory, které
+usnadní vyhodnocení tohoto AP. AP byl v návaznosti na tyto zásady nad rámec dosavadní struktury
+doplněn o indikátory jednotlivých aktivit. Se SKKO a jejími cíli, prioritami a opatřeními je pak
+AP provázán prostřednictvím kódů odkazujících se na opatření definovaná v SKKO (např. A.1.1 v rámci
+opatření znamená kód pro opatření "Zajistit kvalitativní i kvantitativní rozvoj jednotlivých kulturních
+a kreativních odvětví” takto definovaný SKKO). Soupis opatření definovaných v SKKO byl pro větší
+přehlednost doplněn i do návrhu nového AP.
+
+Do návrhu AP č. 2 SKKO byly také zapracovány výstupy sociologických průzkumů Vnímání kultury
+brněnskými obyvateli (prosinec 2021) a Kulturní potřeby obyvatel města (únor 2023). Dále AP reflektuje
+výsledky pravidelně prováděných šetření k evaluaci dotačního systému OK (duben 2023).
+
+Současně byla snaha navrhovaný AP zúžit tak, aby se jednotlivé aktivity co nejméně překrývaly
+(u některých aktivit tak došlo k jejich sloučení), aby neobsahoval aktivity, na které jejich realizátoři
+nemají vliv nebo byly vyhodnoceny v rámci AP č. 1 jako nevhodné k realizaci. Navrhovaný AP je i více
+provázán s kreativními odvětvími. Oproti předchozímu AP je tedy častým garantem aktivit nejen OK, ale
+i Odbor strategického rozvoje a spolupráce (dále jen OSRS), a z hlediska marketingu a pokračování
+projektů či myšlenek Evropského hlavního města kultury TIC BRNO, p.o.
+
+AP č. 2 byl projednáván během ledna a února 2023 s jednotlivými realizátory aktivit, kdy se na něm
+mimo OK podílí i OSRS, Odbor památkové péče MMB, TIC BRNO, p.o., Brněnské komunikace, a.s.
+a Jihomoravský filmový nadační fond. Současně byl AP č. 2 projednán individuálně s jednotlivými
+příspěvkovými organizacemi v oblasti kultury. Od 20.3. do 9.4. 2023 byl návrh AP č. 2 zveřejněn
+k připomínkování široké veřejnosti – celkem obdržel OK podněty od 3 subjektů z nezřizované brněnské
+kulturní scény. Dále byl AP č. 2 projednán Poradním sborem RMB pro bezbariérové Brno a Poradním
+
+
+
+
+                                                                                                          Strana 3 / 31
+sborem primátorky města Brna pro kulturu, současně byl rozeslán na vědomí a k případným
+připomínkám dalším odvětvovým odborům MMB. Všechny relevantní připomínky byly zapracovány.
+
+Koordinaci realizace a průběžné vyhodnocení AP bude zajišťovat MMB prostřednictvím Oddělení
+koncepce a rozvoje OK ve spolupráci s ostatními realizátory aktivit, kulturními PO, s ostatními věcně
+příslušnými odbory MMB a zástupci odborné i laické veřejnosti.
+
+Rok před koncem platnosti AP č. 2 SKKO za období 2023–2025 proběhne vyhodnocení naplňování cílů
+a priorit opatření strategie, které bude spolu s návrhem nového AP předloženo do orgánů města Brna.
+
+Tato informativní zpráva bude obsahovat zejména:
+- informace o realizaci jednotlivých aktivit a dílčích projektů,
+- zdůvodnění odchylek od plánovaného průběhu realizace.
+
+V případě potřeby aktualizace bude dokument znovu podroben procesu schválení příslušnými orgány
+města a poté zveřejněn na internetových stránkách města.
+Veškeré dokumenty strategického plánování v kultuře jsou a budou také k dispozici na adrese
+kultura.brno.cz.
+
+Komisi kulturní RMB materiál projednala na R9/KK/07. schůzi konané dne 30. 05. 2023.
+Přítomno: 10 členů – 10 pro, 0 proti, 0 se zdržel/ze 13 členů
+Komise doporučuje ke schválení.
+                                                                                                      Zdeněk Helbich
+
+
+
+
+                                                                                                                                                              Tomáš Skřička,
+                                                                                                                                            Spilková, Ph.D.
+                                                         Kristýna Černá
+                                 Jiřina Bočková
+ Ing. Stanislav
+
+
+
+
+                                                                                MUDr. Alena
+
+
+
+
+                                                                                                                                                               doc. MUDr.
+                                                                                                                                            Mgr. Monika
+
+
+
+
+                                                                                                                                                                                                                  Bohuňovská
+                                                                                                                          Mgr. Miriam
+
+
+
+
+                                                                                                                                                                                                 Petr Šafařík
+                                                                                                                                                                                  David Řepa
+
+
+
+
+                                                                                                                                                                                                                                Mgr. Luděk
+                                                                                Gruberová
+                  Sedláková
+                  Mgr. Ilona
+
+
+
+
+                                                                                                                                            Lukášová
+
+
+
+
+                                                                                                                                                                                                                  Ing. Jana
+                                                                                                                          Kolářová
+ Michalík
+
+
+
+
+                                                                                                                                                                                                                                Kocman
+                                                                                                                                                              CSc.
+
+
+
+ Pro              Pro           -------                 Pro                     Pro                 Pro                   -------           Pro               -------          Pro             Pro              Pro            Pro
+
+
+Rada města Brna projednala materiál na své schůzi č. R9/035 konané dne 7. 6. 2023.
+Bylo hlasováno bez rozpravy po úpravě v materiálu.
+
+Schváleno jednomyslně 8 členy.
+                                                                                                                                                                                               Matonohová
+                                                                                              Podivinská
+
+
+
+
+                                                                                                                                                                               Kratochvíl
+                                                                                                                                        Ing. arch.
+     Vaňková
+
+
+
+
+                                                                                                                                        Bořecký
+
+
+                                                                                                                                                         Chvátal
+                                                                      Kerndl
+                                             Suchý
+
+
+
+
+                                                                                                                                                         RNDr.
+                       Černý
+     JUDr.
+
+
+
+
+                                                                      JUDr.
+
+
+
+
+                                                                                                                                                                                               JUDr.
+
+
+                                                                                                                                                                                                                JUDr.
+                                                                                                                                                         Ph.D.
+                                                                                                                       Aberl
+
+
+
+
+                                                                                                                                                                                                                Oliva
+                       Mgr.
+
+
+
+                                             Mgr.
+
+
+
+
+                                                                                              Ing.
+
+
+
+
+                                                                                                                                                                               Ing.
+                                                                                                                       Bc.
+
+
+
+
+         pro              pro                     pro                     pro                   ---                     pro              pro                  ---               pro             pro             nepřítomen
+
+
+
+
+                                                                                                                                                                                                                                      Strana 4 / 31
+  Vyhodnocení Akčního plánu č. 1 Strategie kultury a kreativních odvětví pro roky 2021-2022
+
+Akční plán č. 1 Strategie kultury a kreativních odvětví (dále jen „SKKO“) pro roky 2021-2022 (dále jen
+„AP“) byl schválen Zastupitelstvem města Brna na zasedání č. Z8/22 konaném dne 8. 12. 2020.
+
+Koordinaci realizace a průběžné vyhodnocení AP zajišťuje Magistrát města Brna prostřednictvím
+Oddělení koncepce a rozvoje Odboru kultury MMB (dále jen „OK MMB“) ve spolupráci s kulturními
+příspěvkovými organizacemi, s ostatními věcně příslušnými odbory MMB a zástupci odborné i laické
+veřejnosti.
+
+Vedle průběžného monitoringu a hodnocení plnění jednotlivých aktivit, je po uplynutí doby platnosti AP
+zpracována Informativní zpráva o průběhu realizace, která bude předložena Radě města Brna. Tato
+informativní zpráva byla předložena na Komisi kulturní RMB č. R9/KK/07 konanou dne 30. 5. 2023 a na
+Radu města Brna dne 7. 6. 2023. Kompletní evaluace AP je v souladu s SKKO zveřejněna i na
+webových stránkách kultura.brno.cz, přesněji na odkazu: https://kultura.brno.cz/akcni-plan-2021-2022/.
+
+Vyhodnocení AP má být dle SKKO předloženo nejen samostatně formou informativní zprávy viz výše,
+ale má být i součástí materiálu, ve kterém je předkládán návrh nového AP.
+
+Akční plán č. 1 obsahuje celkem 31 aktivit, z čehož je 30 aktivit rozdělených do čtyř tematických oblastí:
+systém a koordinace, mapování, data, aplikace, infrastruktura, akce.
+Aktivity byly hodnoceny třemi stupni: naplněna, naplněna zčásti, nenaplněna.
+           Oblast AP       Počet aktivit     Naplněno          Naplněno          Nenaplněno
+                                                               zčásti
+           Systém a        15                10                3                 2
+           koordinace
+           Mapování,       5                 2                 2                 1
+           data, aplikace
+           Infrastruktura  6                 2                 4                 0
+           Akce            4                 4                 0                 0
+           Celkem          30                18                9                 3
+S ohledem na pandemii onemocnění COVID 19 byla při jeho schvalování zařazena ještě aktivita nultá,
+a to: Minimalizace dopadů protipandemických opatření proti COVID 19, která byla naplněna.
+
+Z hlediska počtu naplněných aktivit lze evaluaci AP hodnotit pozitivně, došlo k naplnění 18 aktivit, 9 bylo
+naplněno zčásti a nenaplněny byly pouze 3 aktivity, a to z objektivních důvodů - změn externího
+prostředí, které OK nemůže ovlivnit.
+Z proběhlé evaluace vyplývají pro budoucí akční plán následující implikace:
+    ➢ Jednotlivé aktivity budou více definovány dle zásad SMART (Specific – konkrétní, Measurable
+        – měřitelný, Achievable – dosažitelný, Realistic – realistický, Time-bound – ohraničený v čase).
+        Chybí zejména měřitelnost a ohraničení v čase, což znesnadňuje evaluaci a monitoring
+        naplňování. Tam, kde je to možné by bylo vhodné doplnit měřitelné indikátory.
+    ➢ Vzhledem k obsáhlosti AP a podobnosti některých aktivit, budou vybrané body AP sloučeny,
+        a to konkrétně tyto aktivity: 13 Spolupráce s Jihomoravským krajem a Ministerstvem kultury
+        a 15 Aktivní spolupráce se subjekty v ČR, jelikož JMK a MK lze považovat za subjekty fungující
+        v ČR v oblasti kultury. Dále doporučujeme sloučit aktivity 17 Automatizace sběru dat kulturních
+        institucí a 18 Mapové aplikace zpřístupňující data o kultuře, jelikož jedna bez druhé nemohou
+        existovat a bylo by vhodné je tedy hodnotit společně.
+    ➢ Další body by měly být do budoucna z AP zcela odstraněny, protože buď byly naplněny, nebo
+        není v moci OK jejich průběh ovlivnit nebo došlo k jejich změně či nadbytečnosti, konkrétně se
+        jedná zejména o tyto 3:
+
+        0 Minimalizace dopadů protipandemických opatření proti COVID 19 - vyřešeno.
+        3 Kulturní a kreativní rada - existuje Koordinační skupina pro záležitosti kultury a kreativních
+        odvětví (ačkoliv v minulém období řešila zejména EHMK).
+        30 Evropské hlavní město kultury 2028 – Brno nepostoupilo do druhého kola soutěže.
+
+    ➢   Jako návaznost na body 0, 3, 6, 8 a do jisté míry i 30 byla jako zcela absentující a potřebná
+        aktivita definován Systém tematických seminářů a workshopů v těchto oblastech: vícezdrojové
+
+
+
+
+                                                                                                       Strana 5 / 31
+        financování, audience development, sociální zabezpečení umělců a tvůrců, síťování, project
+        development a tvorba grantových žádostí, PR a umělecký marketing, tvorba strategických
+        dokumentů, udržitelné podnikání v oblasti KKO, advokacie kultury a další dovednosti nutné
+        k rozvoji kulturní scény v Brně.
+
+
+Sběr dat a informací probíhal participativně, kdy do procesu byly zapojeny PO města a odbory
+Magistrátu města Brna. Samotná evaluace proběhla během měsíců října a listopadu 2022
+prostřednictvím písemného hodnocení garantek/garantů daných aktivit. Hodnocení proběhlo
+třístupňovou škálou: aktivita byla naplněna, aktivita byla zčásti naplněna, aktivita nebyla naplněna.
+
+Hlavní smysl Evaluace AP spočíval v získání informací, poznatků, a především ponaučení pro přípravu
+a zejména implementaci do návrhu nového AP.
+
+K hodnocení bylo přistupováno objektivně, přičemž důležitým aspektem byla znalost kontextu města
+Brna. Považujeme za důležité zmínit, že Evaluace AP proběhla ve složitém období vyrovnávání se
+s následky pandemie onemocnění COVID (více viz 0 Aktivita), válečného konfliktu na Ukrajině
+a turbulentního navyšování cen energií.
+
+Nejvýraznějším a zároveň nejnáročnějším projektem celého plánu byla příprava kandidatury na titul
+EHMK, a to z hlediska bezprecedentnosti projektu, rozsahu a složitosti činností, jeho časové, personální
+a finanční dotaci. Velkou roli hrál i termín pro podání přihlášky do soutěže stanovený těsně
+před komunálními volbami v roce 2022. Průběžně se projektu věnovali všichni pracovníci OK a dalších
+odborů. Rozsah práce na přípravě kandidatury vzhledem k personálním kapacitám odboru AP
+nedokázal reálně předvídat a realizace tohoto projektu přitom měla v tomto období prioritu, a to i na úkor
+jiných aktivit AP, které nebyly zcela naplněny.
+
+Dokument Evaluace Akčního plánu č. 1 Strategie kultury a kreativních odvětví pro roky 2021-2022 byl
+rozeslán k připomínkování nejen všem externím garantům jednotlivých aktivit a dílčích projektů
+(např. BKOM, Jihomoravský filmový nadační fond), ale i dalším odvětvovým odborům a ředitelům
+příspěvkových organizací v oblasti kultury. Současně byl zaslán k případným podnětům i v rámci
+kreativních odvětví i subjektům JIC, zájmové sdružení právnických osob a KUMST, kreativní hub Brno.
+
+Po zapracování relevantních připomínek byla Evaluace Akčního plánu č. 1 Strategie kultury
+a kreativních odvětví pro roky 2021-2022 představena na XV. Brněnském kulturním fóru konaném
+23. 11. 2022 v kulturním centru CO.LABS a následně zveřejněna na webových stránkách
+kultura.brno.cz. Připomínkovat ji mohli nejen účastníci fóra, ale i široká veřejnost prostřednictvím zprávy
+zaslané na e-mail: kultura@brno.cz. OK MMB neeviduje k dokumentu žádné připomínky ze strany
+brněnské kulturní a kreativní scény.
+
+   Oblast AP       Číslo           Aktivita          Odpovědnost       Vyhodnocení        Zdůvodnění
+                  aktivity                            za realizaci        aktivity         odchylky
+                     0       Minimalizace                 OK             naplněna
+                             dopadů
+                             protipandemických
+                             opatření proti
+                             COVID 19
+ Systém a             1      Brněnský kulturní            OK              naplněna
+ koordinace                  parlament
+ Systém a             2      Koordinační                  OK              naplněna       obsahová
+ koordinace                  skupina pro                                                 změna
+                             záležitosti KKO                                             v souvislosti
+                                                                                         s Evropským
+                                                                                         hlavním
+                                                                                         městem kultury
+ Systém a             3      Kulturní a kreativní         OK            nenaplněna       nepřijato ze
+ koordinace                  rada                                                        strany PO
+                                                                                         z řady
+
+
+
+
+                                                                                                       Strana 6 / 31
+                                                                   objektivních
+                                                                   důvodů
+Systém a     4    Stabilizace PO v          OK         částečně    na základě
+koordinace        kultuře              v spolupráci    naplněna    realizovaných
+                                          s RMB                    2 pilotních
+                                                                   sebeevaluací
+                                                                   PO je nutné
+                                                                   zvážit formu
+Systém a     5    Revize dotačního        OK ve        naplněna
+koordinace        systému               spolupráci
+                                          s OMI
+Systém a     6    Zvýšení objemů          OK ve        částečně    navýšení
+koordinace        dotací pro            spolupráci     naplněna    proběhlo
+                  nezřizovanou           s RMB                     v návaznosti
+                  kulturní scénu                                   na
+                                                                   pandemickou
+                                                                   situaci,
+                                                                   nicméně
+                                                                   v současné
+                                                                   ekonomické a
+                                                                   geopolitické
+                                                                   situaci bez
+                                                                   vyššího
+                                                                   zapojení státu
+                                                                   a JMK do
+                                                                   financování PO
+                                                                   není možný
+                                                                   další růst
+Systém a     7    Evaluace procesů         OK ve       naplněna
+koordinace        v rámci OK            spolupráci
+                                           s OMI
+Systém a     8    Podpora podnikání      OSRS ve       naplněna
+koordinace        v KKO                 spolupráci
+                                           s OK
+Systém a     9    Rezidenční pobyty        OK ve       naplněna
+koordinace                              spolupráci
+                                         s Domem
+                                       umění města
+                                            Brna
+Systém a     10   Změna právní formy      RMB ve      nenaplněna   není schválen
+koordinace        PO                    spolupráci                 zákon o
+                                        s OK a PO                  veřejných
+                                                                   kulturních
+                                                                   institucích
+Systém a     11   Podpora propagace     KMCR ve        částečně    nepodařilo se
+koordinace        a exportu kultury     spolupráci     naplněna    vytvořit
+                                        s TIC, OK,                 koordinační
+                                       JIC, OSRS                   platformu
+Systém a     12   Jihomoravský           RMB ve        naplněna
+koordinace        filmový nadační      spolupráci s
+                  fond                    fondem
+Systém a     13   Spolupráce s JMK a     RMB ve        naplněna
+koordinace        MK ČR                spolupráci s
+                                            OK
+Systém a     14   Rozvoj mezinárodní       OK ve       naplněna
+koordinace        spolupráce města     spolupráci s
+                  Brna v oblasti            OZV
+                  kultury
+Systém a     15   Aktivní spolupráce       OK          naplněna
+koordinace        se subjekty v ČR
+
+
+
+
+                                                                               Strana 7 / 31
+Mapování,        16   Evaluace SKKO             OK          částečně    potřeba
+data, aplikace                                              naplněna    definovat
+                                                                        chybějící
+                                                                        indikátory
+Mapování,        17   Automatizace sběru        OK         nenaplněna   v rámci veřejné
+data, aplikace        dat kulturních                                    zakázky na
+                      organizací                                        studii
+                                                                        proveditelnosti
+                                                                        nebyl vybrán
+                                                                        dodavatel,
+                                                                        řešení bylo
+                                                                        posunuto do
+                                                                        nového AP i
+                                                                        s ohledem na
+                                                                        koordinaci
+                                                                        s Prahou
+Mapování,        18   Mapové aplikace        OK, OSRS,      naplněna
+data, aplikace        zpřístupňující data       OMI
+                      o kultuře
+Mapování,        19   Podpora                   OK ve       částečně    předložena
+data, aplikace        excelentních            spolupráci    naplněna    řada návrhů,
+                      kulturních aktivit    s KMCR, OZV                 nicméně
+                                                a TiS                   k vyřešení
+                                                                        aktivity je
+                                                                        potřeba další
+                                                                        politické
+                                                                        podpory
+Mapování,        20   Propojení rozvoje      OSRS ve        naplněna
+data, aplikace        výzkumu a vývoje      spolupráci s
+                      v oblasti KKO             OK
+                      s potřebami města
+Infrastruktura   21   Kultura ve veřejném      OK ve        naplněna
+                      prostoru               spolupráci
+                                            s KAM, MČ,
+                                            DUMB, OPP,
+                                             Městskou
+                                               policií,
+                                             Společně
+                                                o.p.s.
+Infrastruktura   22   Zásady pronájmu          OK ve        částečně    řešeno i
+                      kulturním a            spolupráci     naplněna    v souvislosti
+                      kreativním              s OSRS,                   s Evropským
+                      subjektům a            OSP, MO                    hlavním
+                      tvůrcům                                           městem
+                                                                        kultury, po
+                                                                        nepostoupení
+                                                                        pozastaveno,
+                                                                        součástí
+                                                                        navrhovaného
+                                                                        nového AP
+Infrastruktura   23   Posílení kulturní        OK ve        částečně    plněno
+                      infrastruktury         spolupráci     naplněna    s ohledem na
+                                              s RMB,                    finanční situaci
+                                             OSRS, JIC,                 města a
+                                             MUMB, MČ                   COVID, další
+                                             Brno-sever                 rozvoj aktivity v
+                                                                        návrhu AP č. 2
+                                                                        SKKO
+Infrastruktura   24   Kreativní centrum      OSRS, OK       částečně    stavební
+                      Brno                                  naplněna    povolení by
+
+
+
+
+                                                                                        Strana 8 / 31
+                                                                             mělo být
+                                                                             uděleno v r.
+                                                                             2023
+Infrastruktura   25   Janáčkovo kulturní     BKOM ve             naplněna
+                      centrum               spolupráci s        z hlediska
+                                              OI, OK a        harmonogramu
+                                            Filharmonií          projektu
+                                                Brno
+Infrastruktura   26   Podpora památkové        OPP ve           částečně     nebyla
+                      péče                   spolupráci         naplněna     realizována
+                                             s OI, MČ a                      metodika pro
+                                                OŽP                          MMB i MČ jak
+                                                                             citlivě
+                                                                             rekonstruovat
+                                                                             architektonicky
+                                                                             cenné objekty
+                                                                             v majetku
+                                                                             města a
+                                                                             systém
+                                                                             podpory
+                                                                             zaměřený na
+                                                                             obnovu
+                                                                             památkově
+                                                                             chráněných
+                                                                             náhrobků
+Akce             27   Kreativní město           TIC ve          naplněna
+                      hudby UNESCO           spolupráci s
+                                                  OK
+Akce             28   Velké letní hudební     pořadatelé        naplněna
+                      festivaly             festivalů, TIC,
+                                                  OK
+Akce             29   ONSTAGE – Music           OK ve           naplněna
+                      schools for social      spolupráci
+                      change                 s OŠMT, MU
+Akce             30   Evropské hlavní             OK            naplněna     Brno do II. kola
+                      město kultury 2028                                     soutěže
+                                                                             nepostoupilo,
+                                                                             řada aktivit
+                                                                             nicméně bude
+                                                                             pokračovat
+
+
+
+
+                                                                                            Strana 9 / 31
+AKČNÍ PLÁN č. 2 Strategie kultury
+a kreativních odvětví
+2023–2025
+Zpracovalo oddělení koncepce a rozvoje Odboru kultury Magistrátu města Brna (MMB) za podpory Odboru
+strategického rozvoje a spolupráce MMB, Odboru památkové péče MMB (OPP) a příspěvkových organizací (PO).
+
+
+
+
+Obsah
+1. Seznam zkratek
+2. Přehled cílů, priorit a opatření SKKO
+3. Úvod
+4. Programová část
+       A) Systém a koordinace
+       B) Mapování, data, aplikace
+       C) Infrastruktura
+5. Závěr
+
+
+
+
+                                                   1
+
+
+
+                                                                                              Strana 10 / 31
+1. Seznam zkratek
+AND     Asociace nezávislých divadel
+
+AP      akční plán
+
+APD     Asociace profesionálních divadel
+
+ASOPS   Asociace symfonických orchestrů a pěveckých sborů ČR
+
+BACH    Brněnská asociace klubové hudby
+
+BFO     Brno Film Office, Filmová kancelář Brno
+
+BKF     Brněnské kulturní fórum
+
+BMO     Brněnská metropolitní oblast
+
+BVV     areál brněnského výstaviště, Veletrhy Brno, a.s.
+
+CED     Centrum experimentálního divadla, příspěvková organizace
+
+CKDS    centrální kulturní datový sklad
+
+ČAF     Česká asociace festivalů
+
+ČKA     Česká komora architektů
+
+DP      dotační program
+
+DR      Divadlo Radost, příspěvková organizace
+
+DUMB    Dům umění města Brna, příspěvková organizace
+
+EHMK    Evropské hlavní město kultury
+
+FB      Filharmonie Brno, příspěvková organizace
+
+GIS     geografický informační systém
+
+JFNF    Jihomoravský filmový nadační fond
+
+JIC     JIC, zájmové sdružení právnických osob
+JKC     Janáčkovo kulturní centrum
+
+JMK     Jihomoravský kraj / Krajský úřad Jihomoravského kraje
+
+KAM     Kancelář architekta města Brna, příspěvková organizace
+
+KCB     Kreativní centrum Brno
+
+KJM     Knihovna Jiřího Mahena, příspěvková organizace
+
+KKO     kulturní a kreativní odvětví
+
+KMCR    Kancelář marketingu a cestovního ruchu
+
+KUMST   kreativní hub KUMST
+
+MČ      městská část
+
+MDB     Městské divadlo Brno, příspěvková organizace
+
+MMB     Magistrát města Brna
+
+MK      Ministerstvo kultury
+
+                                                   2
+
+
+
+                                                                   Strana 11 / 31
+MUMB     Muzeum města Brna, příspěvková organizace
+
+MZM      Moravské zemské muzeum
+
+NDB      Národní divadlo Brno, příspěvková organizace
+
+NIPOS    Národní informační a poradenské středisko pro kulturu
+
+NPO      Národní plán obnovy
+
+OI       Odbor investiční MMB
+
+OK       Odbor kultury MMB
+
+OKO      Odbor interního auditu a kontroly MMB
+
+OMI      Odbor městské informatiky MMB
+
+OPP      Odbor památkové péče MMB
+
+ORF      Odbor rozpočtu a financování MMB
+
+OS       Odbor sportu MMB
+
+OSM      Odbor správy majetku MMB
+
+OSP      Odbor sociální péče MMB
+
+OSRS     Odbor strategického rozvoje a spolupráce MMB
+
+OŠML     Odbor školství a mládeže MMB
+
+OZ       Odbor zdraví MMB
+
+OŽP      Odbor životního prostředí MMB
+
+PARO     Odbor participace MMB
+
+PO       příspěvková organizace
+
+PR       public relations, vztahy s veřejností
+
+RMB      Rada města Brna
+
+SKKO     Strategie kultury a kreativních odvětví
+
+SMB      statutární město Brno
+
+TIC      TIC BRNO, příspěvková organizace
+
+URBACT   program Evropské unie určený pro rozvoj měst
+
+VKA      významná kulturní akce
+
+VKI      veřejná kulturní instituce
+
+ZMB      Zastupitelstvo města Brna
+
+
+
+
+                                                   3
+
+
+
+                                                                 Strana 12 / 31
+2. Přehled cílů, priorit a opatření SKKO
+
+Cíl A: Špičková kulturní a kreativní scéna postavená na setkávání tradice a experimentu
+
+Priorita A.1 Podpora špičkovosti, diverzity a rozvoje
+
+A.1.1 Zajistit kvalitativní i kvantitativní rozvoj jednotlivých kulturních a kreativních odvětví
+
+A.1.2 Podněcovat rozvoj experimentální, progresivní a originální tvorby, nových formátů a médií
+
+A.1.3 Podporovat export brněnských děl a prezentaci tvůrců v zahraničí
+
+A.1.4 Podporovat tvorbu mladých a začínajících tvůrců
+
+A.1.5 Podporovat zachování a rozvoj kulturního dědictví a kulturní identity Brna
+
+A.1.6 Rozvíjet aktivity podporující podnikatelské subjekty a rozvoj podnikání v KKO
+
+
+
+Priorita A.2 Kultura a kreativní odvětví jako nástroj městského rozvoje
+
+A.2.1 Začlenit kulturu do všech relevantních rozvojových a strategických dokumentů města
+
+A.2.2 Oživit veřejná prostranství uměleckými díly
+
+A.2.3 Cíleně využívat potenciálu kulturních aktérů a kreativců pro řešení problémů města
+
+A.2.4 Získat tituly Kreativní město hudby UNESCO a Evropské hlavní město kultury, případně další vhodné tituly
+
+
+
+Priorita A.3 Systematická a odborná kulturní politika
+
+A.3.1 Zajistit pravidelnou vnější oponenturu kulturní politiky pomocí demokratické participativní platformy na jedné
+straně a pomocí úzkého, vysoce odborného poradního orgánu na straně druhé
+
+A.3.2 Zefektivnit management kulturní politiky na úrovni MMB
+
+A.3.3 Nastavit systém pravidelného sběru kvalitativních a kvantitativních dat týkajících se KKO a nastavit systém
+promítání závěrů vyplývajících z těchto dat do kulturní politiky města
+
+
+
+Priorita A.4 Efektivní a transparentní financování kultury
+
+A.4.1 Stabilizovat financování kultury na úrovni 9 % běžných výdajů města a při splnění tohoto opatření hledat další
+prostředky z veřejných rozpočtů mimo rozpočet města
+
+A.4.2 Při zajištění financování kultury na úrovni 9 % běžných výdajů města (dnes 11 %) vyčlenit 10 % z této částky
+pro nezřizovanou kulturu
+
+A.4.3 Transformovat síť příspěvkových organizací v oblasti kultury a zefektivnit jejich hospodaření při zachování či
+zvýšení umělecké kvality
+
+A.4.4 Posílit a zefektivnit systém dotací pro nezřizovanou scénu
+
+
+
+Priorita A.5 Dostatek vyhovujících prostor pro tvorbu a prezentaci
+
+A.5.1 Zabezpečit co nejširší saturaci potřeb týkajících se prostor pro tvorbu a prezentaci KKO
+
+A.5.2 Dokončit započaté projekty saturující potřeby prostor pro tvorbu a prezentaci
+
+
+                                                           4
+
+
+
+                                                                                                        Strana 13 / 31
+Cíl B: Excelentní vzdělávání pro kulturu, kreativní sektor a jejich publikum
+
+Priorita B.1 Kvalita a rozvoj vzdělávání pro KKO
+
+B.1.1 Monitorovat a posilovat kapacity vzdělávání na základních a středních uměleckých školách dle zjištěných
+potřeb
+
+B.1.2 Podporovat rozvoj nových oborů na všech stupních vzdělávání
+
+B.1.3 Podporovat rozvoj vědy a výzkumu v oblasti KKO
+
+B.1.4 Vytvořit systém podpory/koordinace stáží studentů a čerstvých absolventů kulturních a kreativních oborů v
+brněnských kulturních organizacích
+
+B.1.5 Podporovat celoživotní a další vzdělávání pro KKO
+
+
+
+Priorita B.2 Podpora MŠ, ZŠ, SŠ ve vzdělávání v kultuře a kreativním myšlení
+
+B.2.1 Podporovat začleňování kultury, kreativních odvětví, kulturního dědictví města Brna a kreativního myšlení (ve
+spolupráci s kulturními a vzdělávacími organizacemi) do výuky MŠ a ZŠ a volnočasových aktivit při MŠ/ZŠ.
+
+B.2.2 Podporovat mateřské, základní a střední školy v návštěvách kulturních organizací v Brně
+
+B.2.3 Podporovat pedagogy v dalším vzdělávání v kultuře
+
+B.2.4 Posilovat příležitosti pro vystupování a spolupráci žáků ZŠ, SŠ, ZUŠ, SUŠ s profesionály z KKO
+
+
+
+CÍL C: Spolupracující a propojená kulturní a kreativní scéna
+
+Priorita C.1 Spolupráce a propojování uvnitř brněnské kulturní a kreativní scény
+
+C.1.1 Učinit z Brněnského kulturního fóra (původně Brněnský kulturní parlament) platformu pro spolupráci a řešení
+společných problémů KKO a funkčně jej napojit na městský ekosystém
+
+C.1.2 Vytvořit platformu pro vzájemnou komunikaci institucí a zaměstnavatelů v KKO, škol, resp. studentů a města
+
+C.1.3 Podporovat spolupráci mezi subjekty
+
+
+
+Priorita C.2 Spolupráce a propojování brněnských KKO se zahraničím
+
+C.2.1 Vytvořit systém podpory mezinárodní spolupráce
+
+
+
+Priorita C.3 Spolupráce města se subjekty v České republice i v zahraničí
+
+C.3.1 Obsahově posílit a systematizovat spolupráci s partnerskými městy v oblasti KKO
+
+C.3.2 Aktivně se zapojovat do mezinárodních sítí zaměřených na kulturu a kulturní politiku a KKO
+
+C.3.3 Spolupracovat se subjekty v ČR
+
+C.3.4 Spolupracovat s ostatními městy v ČR aktivně přistupujícími ke kulturní politice
+
+C.3.5 Pravidelně organizovat odbornou konferenci (či jinou akci) na aktuální témata kultury, kulturní politiky apod.
+
+
+
+
+                                                       5
+
+
+
+                                                                                                         Strana 14 / 31
+CÍL D: Renomé brněnské kultury a kreativních odvětví a renomé Brna jako kulturní a kreativní lokace
+
+Priorita D.1 Oboustranně efektivní propojení marketingu KKO a marketingu města
+
+D.1.1 Vytvořit systém spolupráce a koordinace mezi dotčenými organizačními složkami MMB a mezi MMB a JMK
+
+D.1.2 Definovat systém identifikace marketingově využitelných akcí, subjektů a počinů a definovat obsahovou rovinu
+marketingu kultury
+
+
+
+Priorita D.2 Prezentace brněnských KKO v rámci města, státu i zahraničí (reklama a média)
+
+D.2.1 Cíleně podporovat recenze brněnské kultury v domácích i zahraničních médiích, masových i odborných
+
+D.2.2 Zvyšovat prezentaci brněnské kultury ve městě, ČR i zahraničí
+
+D.2.3 Vytvořit atraktivní značku jako marketingový nástroj/kampaň k prezentaci kultury mimo město a identifikaci
+kulturních aktérů s Brnem
+
+
+
+Priorita D.3 Přehlednost a dostupnost informací o kulturním dění ve městě
+
+D.3.1 Vytvořit nebo iniciovat vytvoření jednotné online platformy s kompletní nabídkou kulturních akcí, ideálně
+s možností nakupovat vstupenky – vše na jednom místě (vč. plné anglické verze)
+
+D.3.2 Vytvořit kolizní kalendář pro vnitřní potřeby KKO a města
+
+
+
+CÍL E: Kultura vyžadovaná, dostupná a tmelící
+
+Priorita E.1 Zvyšování zapojení publika s důrazem na náročné žánry
+
+E.1.1 Podporovat programy pro práci s publikem
+
+
+
+Priorita E.2 Rovnoměrnost kulturní nabídky v prostoru a čase
+
+E.2.1 Cíleně podporovat a iniciovat organizaci kulturních akcí v méně exponovaných měsících
+
+E.2.2 Podporovat prostorovou dostupnost kulturní nabídky skrze komunitní kulturní rozvoj a sousedskou spolupráci
+
+
+
+Priorita E.3 Bezbariérovost brněnské kultury
+
+E.3.1 Podporovat dostupnost kultury pro brněnské obyvatele ohrožené sociálním vyloučením
+
+E.3.2 Podporovat dostupnost kultury pro anglicky mluvící
+
+E.3.3 Podporovat dostupnost kultury pro specifické skupiny obyvatel Brna
+
+
+
+Priorita E.4 Kultura jako nástroj sociální soudržnosti
+
+E.4.1 Podporovat mezikulturní dialog skrze kulturní akce
+
+E.4.2 Podporovat soudržnost skrze posilování brněnské identity
+
+
+
+
+                                                      6
+
+
+
+                                                                                                       Strana 15 / 31
+3. Úvod
+SKKO byla přijata ZMB 15. 5. 2018. Ve strategické části stanovila vizi kulturního a kreativního Brna a 5 cílů kulturní
+politiky k roku 2050. Programová část rozvedla cíle do 17 priorit a 53 opatření k roku 2025. Nejnižším patrem strategie
+jsou akční plány vymezující specifické aktivity k naplnění opatření, priorit, cílů i samotné vize.
+
+AP č. 1 SKKO pro roky 2021–2022 byl schválen ZMB č. Z8/22 dne 8. 12. 2020. V listopadu roku 2022 proběhlo
+zhodnocení AP č. 1 jeho realizátory a současně bylo toto zhodnocení představeno veřejnosti mj. v rámci XV. BKF
+konaného dne 23. 11. 2022. Zhodnocení je dostupné na stránkách kultura.brno.cz a je jedním z podkladů pro vytvoření
+nového AP č. 2 SKKO pro roky 2023–2025.
+
+Následující stránky představují druhý akční plán na období 2023–2025. Ten obsahuje 22 aktivit sloučených do tří skupin:
+Systém a koordinace, Mapování, data, aplikace a Infrastruktura. Tabulka uvádí pro každou aktivitu číslo opatření
+z programové části strategie, na které aktivita navazuje, konkrétní úkoly pro jednotlivé roky platnosti plánu, indikátory
+(pokud je možné je stanovit), odpovědnost za realizaci a finanční zdroje potřebné pro uskutečnění aktivit. Jednotlivé
+aktivity mají v rámci plánování také svou prioritu:
+
+    •   kritická – bezpodmínečně nutná aktivita,
+    •   důležitá – aktivita je nezbytná pro realizaci klíčových bodů SKKO a další činnosti OK,
+    •   běžná – výhledově potřebná aktivita, bez nezbytného časového ohraničení,
+    •   nízká – rozšiřující aktivita uskutečněná pouze v případě dostatečných finančních a časových zdrojů.
+
+Aktivity jsou v návaznosti na vyhodnocení AP č. 1 současně více definovány dle SMART zásad (Specific – konkrétní,
+Measurable – měřitelný, Achievable – dosažitelný, Realistic – realistický, Time-bound – časově ohraničený) a v případě,
+kde to je vhodné, doplněny i o měřitelné indikátory, které usnadní vyhodnocení tohoto AP. AP byl v návaznosti na tyto
+zásady nad rámec dosavadní struktury doplněn o indikátory jednotlivých aktivit. Se SKKO a jejími cíli, prioritami
+a opatřeními je pak AP provázán prostřednictvím kódů odkazujících se na opatření definovaná v SKKO (např. A.1.1
+v rámci opatření znamená kód pro opatření „Zajistit kvalitativní i kvantitativní rozvoj jednotlivých kulturních a kreativních
+odvětví“ takto definovaný SKKO).
+
+Do návrhu AP č. 2 SKKO byly také zapracovány výstupy sociologických průzkumů Vnímání kultury brněnskými obyvateli
+a Kulturní potřeby obyvatel města. Dále AP reflektuje výsledky pravidelně prováděných šetření k evaluaci dotačního
+systému OK.
+
+Návrh AP č. 2 SKKO byl projednáván během ledna a února 2023 s jednotlivými realizátory aktivit, přičemž se na něm
+mimo OK podílí i OSRS, OPP, TIC, BKOM a JFNF. Současně byl AP č. 2 projednán individuálně s jednotlivými PO v
+oblasti kultury. Od 20. března do 9. dubna 2023 byl návrh AP č. 2 zveřejněn k veřejnému připomínkování. Celkem OK
+obdržel podněty od 3 subjektů z brněnské nezřizované kulturní scény. Podnětů a připomínek od PO a veřejnosti bylo
+celkem 14. Vypořádání těchto podnětů a připomínek je zveřejněno na webových stránkách kultura.brno.cz, všechny
+relevantní připomínky byly zapracovány. Dále byl AP č. 2 projednán Poradním sborem RMB pro bezbariérové Brno a
+Poradním sborem primátorky města Brna pro kulturu, současně byl rozeslán na vědomí a k případným připomínkám
+dalším odvětvovým odborům MMB.
+
+AP č. 2 byl dále tvořen v souladu s existujícími strategickými a koncepčními dokumenty města Brna. Samozřejmá je
+návaznost na Strategii Brno 2050, ale v rámci realizace jednotlivých aktivit budou zohledňována i opatření vedoucí k
+zelené transformaci, ať už ve smyslu snižování uhlíkové stopy a energetické náročnosti, omezování vzniku odpadů, či
+využívání recyklovatelných materiálů a zavádění digitálních technologií v oblasti kultury. V rámci infrastruktury budou
+objekty posuzovány i z hlediska bezbariérovosti ve spolupráci s Poradním sborem RMB pro bezbariérové Brno.
+Marketingové výstupy budou v souladu s jednotným vizuálním stylem města Brna.
+
+
+
+
+                                                             7
+
+
+
+                                                                                                                 Strana 16 / 31
+4. Programová část
+
+   A)              Systém a koordinace
+Skupina aktivit týkajících se nastavování pravidel a procesů, fungování OK, koordinace mezi organizačními složkami
+MMB, koordinace s externími subjekty apod.
+
+
+
+  1 Aktivita                  BRNĚNSKÉ KULTURNÍ FÓRUM (BKF) a KULTURA BRNO
+
+  Priorita                    důležitá
+  Popis aktivity              Cílem je realizace BKF včetně prostoru pro otevřené fórum – možnost
+                              participace aktérů KKO. Dále udržování a rozvoj komunikačních kanálů
+                              OK Kultura Brno – správa facebookového profilu Kultura Brno a
+                              Sochařské Brno, webové stránky kultura.brno.cz, pravidelné vydávání
+                              newsletteru OK a prezentace činnosti OK.
+  Postup řešení a časový      2023–2025
+  harmonogram                     o udržování periodicity 2 setkání BKF ročně
+                                  o možnost podávání podnětů zástupců KKO formou
+                                       pravidelného bodu programu BKF „otevřené fórum“
+                                  o udržování komunikačních kanálů Kultura Brno včetně
+                                       aktualizace a vydávání tiskovin OK (SKKO, AP, Kultura Brno,
+                                       dotace aj.) a návodných videotutoriálů včetně cizojazyčné
+                                       mutace u relevantních témat
+                                  o udržování offline propagace (např. KAM v Brně, Brněnský
+                                       metropolitan)
+                                  o měsíční vydávání newsletteru OK
+                                  o roční evaluace úspěšnosti komunikačních kanálů Kultura Brno
+                                       a případná úprava konceptu
+
+  Indikátory                      o      datová analýza komunikačních kanálů Kultura Brno
+                                  o      kvalifikovaný odhad návštěvnosti BKF
+
+  Opatření                    A.3.1; C.1.1, C.1.2
+  Odpovědnost za realizaci    OK (ve spolupráci s OMI)
+  Odhad nákladů               běžné výdaje OK – v rámci rozpočtu OK každoročně 1 200 tis. Kč
+
+
+  2 Aktivita                 KOORDINAČNÍ SKUPINY PRO ZÁLEŽITOSTI KKO
+
+  Priorita                   běžná
+  Popis aktivity             Sdílení informací prostřednictvím meziresortních skupin kultury
+                             a kreativních odvětví, a to:
+                                 o Pracovní skupina KKO v Brně – meziresortní skupina pro
+                                      výměnu informací na úrovni stakeholderů kreativních odvětví,
+                                      OSRS a OK
+                                 o Poradní sbor primátorky města Brna pro kulturu – poradní
+                                      skupina primátorky pro záležitosti kultury, členové jmenovaní
+                                      primátorkou z řad odborné veřejnosti
+                                 o setkání s řediteli PO v oblasti kultury
+                             Aktivní účast v pracovních skupinách jiných odvětvových odborů
+                             a brněnských subjektů, které jsou pro kulturu a kreativitu relevantní:
+                                 o Poradní sbor RMB pro bezbariérové Brno
+                                 o Platforma pro integraci cizinců ve městě Brně
+                                 o Platforma k audiovizuálnímu dění v Brně
+                                 o Pracovní skupina pro tvorbu nového dotačního portálu MMB
+                                 o a další nová, pro KKO relevantní uskupení
+                                                          8
+
+
+
+                                                                                                        Strana 17 / 31
+Postup řešení a časový     2023–2025
+harmonogram                   o pravidelná účast na setkáních dle harmonogramů jednotlivých
+                                 skupin
+
+
+Indikátory                     o   počet setkání pracovních skupin a platforem
+                               o   počet zastoupených odvětvových odborů a kulturních a
+                                   kreativních institucí
+
+Opatření                   A.2.1, A.3.2; D.1.1
+Odpovědnost za             OK a OSRS ve spolupráci s ostatními odvětvovými odbory MMB, PO či
+realizaci                  stakeholdery z řad KKO
+Odhad nákladů              bez nutnosti finančního krytí, př. běžné výdaje OK a OSRS
+
+
+
+
+3 Aktivita                  STABILIZACE A PŘÍPADNÁ TRANSFORMACE PO V KULTUŘE
+
+Priorita                    kritická
+
+Popis aktivity              Cílem je zajistit podmínky pro stabilní fungování PO, které umožní
+                            dlouhodobý rozvoj jejich činnosti, zejména ve smyslu zachování nebo
+                            zvyšování kvality. V případě legislativního ukotvení specifické právní
+                            formy pro kulturní organizace je cílem posouzení vhodnosti tohoto
+                            řešení pro jednotlivé PO a jejich případná transformace, dále posouzení
+                            a případné přehodnocení materiálů dodávaných PO a snížení
+                            administrativní zátěže kladené na PO.
+Postup řešení a časový      2023–2025
+harmonogram                     o pravidelná evaluace (rozbory činnosti a hospodaření PO) a
+                                    revize plánů činností PO
+                                o případné přehodnocení vytváření stávajících dokumentů
+                                o vyjednávání s relevantními partnery na státní a krajské úrovni
+                                    o transformaci PO
+                                o v případě legislativního ukotvení vhodné právní formy
+                                    posouzení a transformace PO
+                            2023
+                                o zhodnocení uskutečněných pilotních sebeevaluací CED a
+                                    KJM a úprava formy nebo další realizace u jiných PO
+                                o aktualizace Zásad vztahu k PO
+Indikátory                      o aktualizace struktury dodávaných dokumentů PO
+                                o transformace vybraných PO na novou právní formu
+Opatření                    A.1.1, A.1.2, A.1.3, A.1.4, A.3.2
+Odpovědnost za realizaci    OK ve spolupráci s RMB a PO
+Odhad nákladů               dle potřeby případné studie proveditelnosti transformace konkrétních
+                            PO – z rozpočtu SMB
+
+
+4 Aktivita                  DOTAČNÍ SYSTÉM NA PODPORU KKO
+
+Priorita                    důležitá
+
+Popis aktivity              Aktivita se zabývá dotačními systémy pro KKO, kdy je cílem:
+                                o analýza a implementace potřeb identifikovaných SKKO do
+                                     dotačního systému (témata např. mezinárodní spolupráce,
+                                     provoz kulturních prostorů, přístupnost kultury aj.)
+                                o funkční a uživatelsky příjemné technické rozhraní pro žadatele
+                                     i hodnotitele – jednotný dotační portál pro MMB
+                                o kvalitní evaluace grantového systému
+                                o dostatečná informovanost nezřizované scény o dotačním
+                                     systému
+
+                                                       9
+
+
+
+                                                                                                      Strana 18 / 31
+                               o   posouzení problematiky a vhodnosti nadačního fondu a
+                                   případný vznik kulturního nadačního fondu
+                               o zvýšení objemu dotací pro nezřizovanou kulturní a kreativní
+                                   scénu za podmínky zvýšení participace rozpočtů JMK a státu
+                                   na městském kulturním rozpočtu
+                               o jednoletá i víceletá finanční podpora
+Postup řešení a časový     2023–2025
+harmonogram                    o evaluace uplynulých běhů dotací a optimalizace nadcházející
+                                   výzvy
+                               o spolupráce v rámci meziresortní pracovní skupiny na
+                                   jednotném dotačním portálu
+                           2023
+                               o provést dotazníkové šetření spokojenosti žadatelů o dotace v
+                                   oblasti kultury se současným systémem
+                               o zpracovat studii proveditelnosti kulturního nadačního fondu,
+                                   navrhnout jeho podobu, harmonogram založení a systém
+                                   fungování a realizovat veřejné připomínkování návrhu
+                                   fungování fondu
+                           2024
+                               o v případě konsensu na kulturním nadačním fondu provést
+                                   nezbytné úkony k jeho založení a fungování
+                               o uzavřít tříleté dotační smlouvy pro významné
+                                   akce/festivaly/činnosti
+Indikátory                     o zrealizované dotazníkové šetření spokojenosti žadatelů
+                               o zájem žadatelů o dotační programy
+                               o počet podaných a počet podpořených žádostí o dotace
+                               o studie proveditelnosti kulturního nadačního fondu
+Opatření                   A.1.2, A.1.3, A.1.4, A.2.3, A.4.4, A.4.5, A.5.1; B.1.1, B.1.2, B.1.5, B.2.1,
+                           B.2.4, B.2.5; C.1.3, C.2.1; D.2.1, D.3.1; E.1.1, E.2.1, E.2.2, E.3.1, E.3.2,
+                           E.3.3, E.4.1, E.4.2
+Odpovědnost za realizaci   OK (dotace v oblasti kultury) ve spolupráci s OSRS (dotace pro
+                           kreativní sektor) a OMI (technické rozhraní)
+Odhad nákladů              dotační podpora dle možností rozpočtu SMB – OK (40 mil. Kč
+                           alokovaných v dotačních programech a víceletých individuálních
+                           smlouvách/rok), OSRS (1 mil. Kč/rok)
+
+
+
+
+5 Aktivita                 EVALUACE PROCESŮ V RÁMCI OK
+
+Priorita                   běžná
+
+Popis aktivity             Cílem aktivity je zjednodušení interních procesů OK a zvýšení jejich
+                           efektivity.
+Postup řešení a časový     2023–2025
+harmonogram                    o pravidelná evaluace a identifikace slabých/zjednodušitelných
+                                    procesů datovou analytičkou OK či v rámci porad vedení OK
+                               o systematické zapojení stážistů a dobrovolníků na OK
+                               o design nových řešení za využití IT
+                               o implementace nových řešení (novelizace příslušných
+                                    městských předpisů)
+                               o formulace potřeb směrem k zjednodušení procesů celého
+                                    MMB, zahájení jednání o implementaci
+                               o formulace potřeb směrem k celostátní legislativě a
+                                    vyjednávání se státní správou/politickou reprezentací
+
+Indikátory                     o   počet identifikovaných slabých procesů a kolik bylo vyřešeno
+                               o   počet zapojených stážistů a dobrovolníků na OK
+                               o   počet zavedených nových řešení
+
+
+                                                       10
+
+
+
+                                                                                                          Strana 19 / 31
+                               o      počet setkání se státní správou/politickou reprezentací k
+                                      danému tématu
+Opatření                   A.3.2
+
+Odpovědnost za realizaci   OK ve spolupráci s OMI a Personálním oddělením MMB
+
+Odhad nákladů              běžné výdaje OK
+
+
+
+6 Aktivita                 PODPORA PODNIKÁNÍ V KREATIVNÍCH ODVĚTVÍCH
+
+Priorita                   důležitá
+
+Popis aktivity             Cílem aktivity je:
+                               o transparentní a pravidelná podpora podnikání v oblasti
+                                   kreativních průmyslů a příbuzných odvětví
+                               o navázání kreativních podnikatelů na inovační infrastrukturu
+                                   Brna a JMK
+                               o zviditelnění platformy Kreativní Brno v národním i
+                                   mezinárodním kontextu
+                               o poskytování informačního servisu v rámci platformy Kreativní
+                                   Brno jak českým (brněnským), tak zahraničním organizacím
+                               o propojování kreativců s dalšími subjekty
+Postup řešení a časový     2023–2025
+harmonogram                    o Kreativní Brno – správa facebookového a instagramového
+                                   profilu i webových stránek, zvyšování povědomí o KB
+                               o aktivní propagace brněnského kreativního sektoru
+                               o podpora tvorby a financování konkrétních nástrojů podpory
+                                   KKO (ať už existujících, nebo nově vznikajících) – př. KV,
+                                   FabLab, KUMST, BFO, herní klastr
+                               o podpora prezentace zástupců KKO na místních a
+                                   mezinárodních veletrzích a přehlídkách (např. přehlídky
+                                   designu, zahraniční prezentace...)
+                               o pravidelná setkávání zástupců KKO
+                               o dotační program Pro Kreativní Brno – zajistit každoročně
+                                   s optimální alokací 1 mil. Kč
+                               o podpora spolupráce/přesahů KKO do oblasti znalostní
+                                   ekonomiky a definovaných strategických oborů
+                               o podíl na přilákání investorů spolupracujících s KKO
+                               o zapojování kreativců do řešení městských záležitostí (vizuální
+                                   smog, participativní rozpočet, podpora retailu, oživování
+                                   veřejných prostranství atd.)
+                               o zapojování se do procesu tvorby věcně příslušných strategií a
+                                   koncepcí nových platforem podpory KKO na úrovni JMK i
+                                   státu
+                               o spolupráce na vědeckých a výzkumných projektech
+                                   zaměřených na KKO
+                           2023
+                               o úprava a podpora programu KV v závislosti na duplikaci
+                                   s NPO
+Indikátory                     o počet fanoušků facebookového a instagramového profilu
+                                   Kreativní Brno
+                               o návštěvnost webových stránek Kreativní Brno
+                               o počet podpořených subjektů v rámci dotačního programu
+                                   (sledovat vývoj v čase)
+Opatření                   A.1.6, A.2.3, A.4.4; B.1.2, B.1.3, C.1.3
+
+
+
+                                                        11
+
+
+
+                                                                                                  Strana 20 / 31
+Odpovědnost za realizaci   OSRS ve spolupráci s OK, KUMST
+
+Odhad nákladů              OSRS:
+                           Brno Creative Days – 2 mil. Kč/rok
+                           dotace Pro Kreativní Brno – 1 mil. Kč/rok
+
+
+7 Aktivita                 PODPORA PROPAGACE KKO
+
+Priorita                   důležitá
+
+Popis aktivity             Cílem je prezentovat město Brno jako kreativní město kultury a
+                           naplňovat tak vedle SKKO také Strategii destinačního managementu a
+                           marketingu města Brna 2023–2027 v oblasti kultury s důrazem na:
+                                o živé centrum
+                                o Brno festivalové
+                                o Brno architektonické
+                           Pro efektivní marketingovou komunikaci města je nutná identifikace
+                           priorit a výběr kulturních aktivit a subjektů, kterými bude město
+                           prezentováno v mezinárodním prostoru. Součástí aktivity je i řešení
+                           jejího financování a hledání inspirace pro další nástroje propagace a
+                           jejich případná implementace.
+                           Pod aktivitu spadá i Kreativní město hudby UNESCO.
+Postup řešení a časový     2023–2025
+harmonogram                     o naplňování Strategie destinačního managementu a
+                                     marketingu města Brna 2023–2027
+                                o rozvoj destinační značky Brno True Story s akcentem na
+                                     kulturu
+                                o systematické sdílení informací a networking lokálních
+                                     stakeholderů pro efektivní marketingovou komunikaci
+                                o mezinárodní networking, hledání zahraničních partnerů,
+                                     aktivní vyhledávání účasti v mezinárodních projektech,
+                                     iniciování projektů
+                                o realizace aktivit v rámci Kreativního města hudby UNESCO
+                                     dle vlastního harmonogramu
+                           2023
+                                o identifikace marketingově využitelných kulturních aktivit a
+                                     výběr prioritních akcí pro marketingovou podporu města
+                                o vytvoření systému top akcí s marketingovým potenciálem dle
+                                     kritérií a jeho implementace
+                                o rozvoj mezinárodní prezentace značky Brno – město hudby
+                                     UNESCO, sladění webu mestohudby.cz s gotobrno.cz
+Indikátory                      o naplňování indikátorů Strategie destinačního managementu a
+                                     marketingu města Brna 2023–2027
+                                o vytvoření systému top akcí s marketingovým potenciálem
+Opatření                   A.1.3, A.3.3; D.1.2, D.2.2
+Odpovědnost za realizaci   TIC ve spolupráci s KMCR, OK, JIC, OSRS
+Odhad nákladů              běžné výdaje TIC a KMCR, další dle možností rozpočtu SMB
+
+
+
+
+8 Aktivita                 BRNO FILM FRIENDLY
+
+Priorita                   běžná
+
+Popis aktivity             Cílem aktivity je budování Brna jako film friendly regionu, tedy podpora
+                           činnosti JFNF a BFO v rámci TIC. V případě mapování KKO
+                           prováděného JIC vznik strategického dokumentu zaměřeného na další
+                           rozvoj audiovizuálního průmyslu.
+
+                                                     12
+
+
+
+                                                                                                      Strana 21 / 31
+Postup řešení a časový     2023–2025
+harmonogram                   o nastavení strategie rozvoje JFNF do dalších let
+                           2023
+                              o jednat s JMK o memorandu o víceletém financování JFNF
+
+Indikátory                     o      uzavření memoranda o víceletém financování JFNF
+                               o      počet projektů, které JFNF podpořil v každém roce
+                               o      počet mediálních zmínek o JFNF (mediální analýza)
+
+Opatření                   A.1.1, A.1.6
+Odpovědnost za realizaci   JFNF ve spolupráci s RMB a TIC
+Odhad nákladů              JFNF – 8 mil. Kč ročně
+                           BFO – 300 tis. Kč ročně (účelový příspěvek TIC)
+
+
+9 Aktivita                 SPOLUPRÁCE A NETWORKING
+
+Priorita                   důležitá
+
+Popis aktivity             Cílem aktivity je rozvoj spolupráce s tuzemskými i zahraničními
+                           subjekty a sdílení know-how:
+                               o aktivní komunikace o aktuálních problémech s veřejnou
+                                   správou – JMK a MK
+                               o aktivní účast v mezinárodních sítích (např. Red Brick Cities,
+                                   Culture Next Cities Network, UNESCO Creative Cities)
+                               o spolupráce se svazy/asociacemi (např. APD, ASOPS, AND,
+                                   BACH, ČAF)
+                               o spolupráce s tuzemskými městy i zahraničními partnerskými
+                                   městy
+                               o spolupráce s Czech Music Office, českými i zahraničními
+                                   ambasádami na území ČR, Českými centry
+                               o podpora exportu i importu KKO, systematická podpora a
+                                   iniciace rezidenčních pobytů umělců a aktérů KKO
+                           Tato aktivita současně doplní aktivitu č. 7 Podpora propagace KKO.
+Postup řešení a časový     2023–2025
+harmonogram                    o zpracovávat, aktualizovat a poskytovat politické reprezentaci
+                                   města podklady pro jednání s MK a JMK
+                               o aktivně se zapojovat do procesu tvorby kulturních a jiných
+                                   věcně příslušných strategií a koncepcí na úrovni státu a JMK
+                               o nadále informovat brněnské aktéry KKO o mezinárodních
+                                   grantových příležitostech (např. EU, Visegrad) prostřednictvím
+                                   komunikačních kanálů Kultura Brno a Kreativní Brno, případně
+                                   BKF
+                               o vytvořit metodiku vnitřních postupů v rámci MMB pro
+                                   spolupráci s partnerskými městy v oblasti kultury a dle ní
+                                   spolupráci realizovat
+                               o zapojovat se do projektů Czech Music Office, českých
+                                   ambasád a Českých center a rozvíjet nové projekty
+                               o vyhledávat nové tuzemské i mezinárodní sítě a iniciativy
+                               o podporovat síťování a spolupráci městských organizací
+                               o aktivně se účastnit setkání a konferencí v ČR i zahraničí
+                               o sledovat a aktivně mapovat aktuální výzvy EU, Evropské
+                                   komise atd.
+                               o každoročně upravit systém na následující rok
+                               o systematicky podporovat a iniciovat rezidenční pobyty umělců
+                                   a aktérů KKO
+                           2025
+                               o evaluace přínosů spoluprací a aktivit
+
+
+
+
+                                                       13
+
+
+
+                                                                                                    Strana 22 / 31
+Indikátory                     o      počet výstupů týkajících se grantových příležitostí na
+                                      platformě Kultura Brno
+                               o      počet sítí, jejichž členem Brno je
+                               o      vytvoření metodiky pro spolupráci s partnerskými městy v
+                                      oblasti kultury
+                               o      počet rozvinutých nových projektů spolupráce
+                               o      počet absolvovaných konferencí v ČR a zahraničí
+Opatření                   A.1.3; C.1.3, C.3.1, C.3.2
+Odpovědnost za realizaci   OK a OSRS ve spolupráci s OZV a PO
+Odhad nákladů              běžné výdaje OK, OSRS, OZV, OVV a PO
+
+
+10 Aktivita                KULTURA DOSTUPNÁ PRO VŠECHNY
+
+Priorita                   důležitá
+
+Popis aktivity             Cílem aktivity je identifikace bariér v oblasti kultury a následné vytvoření
+                           návrhu na zpřístupňování kultury v Brně a jeho implementace do SKKO.
+                           Nedílnou součástí je tak komunikace a koordinace s odvětvovými
+                           odbory a subjekty zaměřenými na problematiku spojenou s integrací
+                           cizinců, minoritami, mládeží, seniory a s dalšími sociálně či zdravotně
+                           znevýhodněnými skupinami a také podpora či iniciace projektů
+                           zaměřených na odstraňování bariér v oblasti kultury. Bude zajištěna
+                           provázanost s Poradním sborem RMB pro bezbariérové Brno.
+Postup řešení a časový     2023
+harmonogram                     o identifikace bariér v oblasti kultury prostřednictvím
+                                    dotazníkových šetření u znevýhodněných skupin
+                                o mapování kulturní nabídky pro znevýhodněné skupiny
+                                o podpora a iniciace projektů zaměřených na zpřístupnění
+                                    kultury v Brně
+                                o předání projektu ONSTAGE na OŠML a sdílení informací o
+                                    projektu
+                           2024
+                                o vytvoření návrhu na zpřístupňování kultury v Brně
+                           2024–2025
+                                o implementace aktivit uvedených v návrhu na zpřístupňování
+                                    kultury v Brně do SKKO
+                                o podpora a iniciace projektů zaměřených na zpřístupnění
+                                    kultury v Brně
+Indikátory                      o realizace dotazníkového šetření
+                                o vytvořený návrh na zpřístupňování kultury v Brně
+                                o počet podpořených projektů zaměřených na zpřístupnění
+                                    kultury
+Opatření                   B.2.1, B.2.2; E.2.2, E.3.1, E.3.2, E.3.3, E.4.1
+Odpovědnost za realizaci   OK ve spolupráci s OZ, OSP, PARO, OŠML, OSRS, PO
+Odhad nákladů              běžné výdaje OK
+
+
+11 Aktivita                KULTURNÍ A KREATIVNÍ VZDĚLÁVÁNÍ
+
+Priorita                   důležitá
+
+Popis aktivity             Cílem aktivity je systém tematických seminářů a workshopů například
+                           v těchto oblastech: vícezdrojové financování, audience development,
+                           sociální zabezpečení umělců a tvůrců, síťování, project development,
+                           zpřístupňování kultury, tvorba grantových žádostí, PR a umělecký
+                           marketing, tvorba strategických dokumentů, udržitelné podnikání v
+                           oblasti KKO, advokacie kultury a další dovednosti nutné k rozvoji KKO
+                           v Brně.
+
+                                                        14
+
+
+
+                                                                                                          Strana 23 / 31
+                                Současně se aktivita zaměřuje i na zmapování kulturních a kreativních
+                                vzdělávacích subjektů včetně následného propojení vzdělávacích
+                                institucí v oblasti kultury a kreativity s KKO – napojení na PO, firmy
+                                apod. a podpora těchto aktivit. Nechybí sdílení znalostí v oblasti
+                                kreativního vzdělávání s dalšími aktéry na regionální a národní úrovni.
+
+  Postup řešení a časový        2023–2025
+  harmonogram                        o podpora kulturně-vzdělávacích aktivit v rámci dotačního
+                                         systému OK
+                                     o kofinancování vzdělávacích programů pro pracovníky
+                                         v kultuře KJM podpořených v rámci NPO
+                                     o podpora záměru vzniku edukačních center KJM, DUMB a FB
+                                         v rámci JKC
+                                     o podpora rozšíření a rozvoje edukační činnosti PO – např.
+                                         MUMB, DR
+                                2023
+                                     o zmapování kulturních a kreativních vzdělávacích subjektů
+                                         (včetně zjištění potřeb a bariér spolupráce s dalšími subjekty
+                                         KKO)
+                                     o podpora záměru vzniku edukačního centra NDB v prostorách
+                                         Janáčkova divadla
+  Indikátory                         o počet vzdělávacích seminářů a workshopů
+                                     o počet zapojených institucí
+                                     o počet spolufinancovaných vzdělávacích programů
+                                     o výstup mapování vzdělávacích subjektů v oblasti KKO
+  Opatření                      B.1.1, B.1.2, B.1.5, B.2.1, B.2.2, B.2.3
+  Odpovědnost za realizaci      OK ve spolupráci s OSRS, OSP, PARO, OŠML, PO
+  Odhad nákladů                 běžné výdaje OK a PO, další dle výše dotační podpory z NPO
+                                a jiných programů
+
+
+
+
+    B)             Mapování, data, aplikace
+Skupina aktivit řešících sběr dat, rešerše a analýzy a jejich interpretaci jako podklad k dalším aktivitám či jejich
+zveřejňování/zpřístupnění.
+
+
+
+  12 Aktivita                   EVALUACE SKKO
+
+  Priorita                      běžná
+
+  Popis aktivity                Aktivita si klade za cíl nastavit způsob sběru dat a hodnocení SKKO,
+                                včetně určení evaluačních indikátorů. Výstupy evaluace budou sloužit
+                                jako zdroj vstupů pro aktualizaci SKKO do dalších let.
+  Postup řešení a časový        2023–2025
+  harmonogram                       o každoroční zhodnocení naplňování akčního plánu formou
+                                         informativní zprávy
+                                2023
+                                    o předložení informativní zprávy o průběhu realizace AP č. 1
+                                         SKKO do RMB
+                                    o nastavení evaluačních indikátorů v rámci AP č. 2 SKKO
+
+                                2024–2025
+                                    o evaluace celé SKKO
+  Indikátory                        o pravidelné předkládání informativní zprávy o průběžném
+                                        plnění AP
+                                    o evaluace SKKO
+  Opatření                      A.3.2, A.3.3
+  Odpovědnost za realizaci      OK ve spolupráci s OSRS a PARO
+
+                                                            15
+
+
+
+                                                                                                                Strana 24 / 31
+Odhad nákladů              běžné výdaje OK a 500–1 000 tis. Kč v letech 2024–2025 na evaluaci
+                           SKKO
+
+
+13 Aktivita                DATA V OBLASTI KKO
+
+Priorita                   kritická
+
+Popis aktivity             Vzhledem k absenci souhrnných datových analýz je naplánován vznik
+                           centrálního kulturního datového skladu (CKDS). Předpokládá se
+                           vytvoření studie proveditelnosti a následný vývoj aplikace
+                           pro automatizovaný sběr relevantních dat u kulturních PO za účelem
+                           zvýšení efektivity sdílení dat. Dále si aktivita klade za cíl podporu
+                           mapování KKO v JMK, vytvoření elektronické databáze kontaktů KKO
+                           a úpravu stávajících, ale i vznik nových mapových aplikací a stezek
+                           zpřístupňujících data o KKO.
+
+Postup řešení a časový     2023–2025
+harmonogram                    o s ohledem na získaná data a zhodnocení využívání
+                                   stávajících mapových aplikací uskutečnit revizi a tvorbu
+                                   nových mapových aplikací KKO
+                           2023
+                               o uzavření memoranda o spolupráci SMB a hlavního města
+                                   Prahy na projektech Evaluart, MAPK20 a CKDS
+                               o vypsání veřejné zakázky na studii proveditelnosti realizace
+                                   CKDS
+                               o kofinancování a spolupráce na mapování KKO v JMK
+                           2024
+                               o vypsání veřejné zakázky na software pro realizaci pilotního
+                                   provozu CKDS
+                               o vytvoření konceptu databáze KKO a vypsání veřejné zakázky
+                                   na realizaci podobné aplikace
+Indikátory                     o uzavření memoranda o spolupráci s hlavním městem Prahou
+                               o studie proveditelnosti CKDS
+                               o vznik databáze KKO
+                               o finanční podpora mapování KKO
+                               o aktualizace a nové mapové aplikace a stezky o KKO
+Opatření                   A.1.1, A.1.6, A.2.3, A.3.2, A.3.3, A.4.3, A.4.4; D.1.2, D.3.1
+
+Odpovědnost za realizaci   OK ve spolupráci s JMK, PO, OMI, OSRS, PARO, KUMST
+
+Odhad nákladů              CKDS – studie proveditelnosti – 500 tis. Kč
+                           mapové aplikace – 600 tis. Kč (300 tis. Kč ročně)
+                           podpora mapování KKO – 1 mil. Kč
+                           další dle možností rozpočtu SMB
+
+
+14 Aktivita                NAVRŽENO V BRNĚ
+
+Priorita                   běžná
+
+Popis aktivity             Projekt bude sdružovat umělce a kreativce, již v Brně tvoří jakýkoliv
+                           produkt, který je možné prodat konečnému zákazníkovi. Na základě
+                           dobrovolné registrace budou tito podnikatelé zobrazeni na mapě města
+                           Brna. Cílem projektu je:
+                               o podpora podnikání v KKO (B2C)
+                               o propagace a mapování lokálních designérů, umělců a
+                                   kreativců
+Postup řešení a časový     2023
+harmonogram                    o pilotní fáze projektu, zřízení registračního formuláře a mapy
+                           2024
+                                                     16
+
+
+
+                                                                                                   Strana 25 / 31
+                                 o    zřízení mapové aplikace
+                                 o    marketingová propagace projektu
+                                 o    evaluace pilotní fáze projektu
+                              2025
+                                 o    evaluace projektu a možné rozšíření
+  Indikátory                     o    počet zapojených kreativců
+                                 o    počet zmínek v médiích
+
+  Opatření                    A.1.6, A.3.3
+
+  Odpovědnost za realizaci    OSRS
+
+  Odhad nákladů               běžné výdaje OSRS
+
+
+
+
+    C)             Infrastruktura
+Skupina aktivit zahrnuje činnosti k zabezpečení fyzického zázemí pro tvorbu či prezentaci KKO.
+
+
+
+  15 Aktivita                  KKO VE VEŘEJNÉM PROSTORU
+
+  Priorita                     důležitá
+
+  Popis aktivity               Podpora umění a kreativity ve veřejném prostoru a jejich prezentace:
+                                  o realizace výtvarných soutěží na výtvarná díla a péče o
+                                      památky drobné architektury
+                                  o realizace projektu Sochy pro Brno včetně jeho propagace pod
+                                      značkou Sochařské Brno v rámci platformy Kultura Brno
+                                  o podpora projektu Brno Art Open
+                                  o streetart – podpora murálů, digitálního umění aj.
+                                  o podpora živého i neživého umění ve veřejném prostoru
+                                  o podpora akcí KKO ve veřejném prostoru včetně
+                                      decentralizace a rozšíření do dalších městských částí
+  Postup řešení a časový       2023–2025
+  harmonogram                     o zhodnocení a transformace nebo ukončení projektu
+                                      Plug&Play
+                                  o pořádání výtvarných soutěží na umělecká díla dle doporučení
+                                      ČKA s důrazem na transparentnost a odbornost procesu
+                                  o udržování projektu Sochařské Brno
+                               2023
+                                  o vznik meziresortní pracovní skupiny pro řešení veřejného
+                                      prostoru města Brna
+                                  o realizace sochy Marie Restituty Kafkové (dílo vzešlo
+                                      z architektonicko-výtvarné soutěže vyhlášené v roce 2022) a
+                                      vyhlášení architektonicko-výtvarné soutěže na realizaci další
+                                      sochy
+                               2024–2025
+                                  o v rámci meziresortní pracovní skupiny vytvoření návrhu
+                                      umisťování děl ve veřejném prostoru města Brna včetně
+                                      aktualizace jednotlivých projektů, jako jsou Sochy pro Brno aj.
+                                  o případná implementace návrhu umisťování děl ve veřejném
+                                      prostoru města Brna
+  Indikátory                      o počet podpořených projektů (eventů, uměleckých intervencí,
+                                      soch atp.) ve veřejném prostoru
+                                  o počet uskutečněných veřejných soutěží
+                                  o počet setkání meziresortní pracovní skupiny pro vytvoření
+                                      návrhu umisťování děl ve veřejném prostoru města Brna
+
+                                                         17
+
+
+
+                                                                                                        Strana 26 / 31
+                               o   vytvoření návrhu umisťování děl ve veřejném prostoru města
+                                   Brna
+Opatření                   A.1.2, A.1.4, A.1.5, A.2.2, A.5.1
+Odpovědnost za realizaci   OK ve spolupráci s KAM, MČ, MUMB, DUMB, Městskou policií Brno,
+                           PO, OPP, OSRS
+Odhad nákladů              běžné výdaje OK
+
+
+16 Aktivita                (ZA)BER TO!
+
+Priorita                   běžná
+
+Popis aktivity             Jedná se o zásady pronájmu kulturním a kreativním subjektům a
+                           tvůrcům. Cílem je:
+                               o startovací pronájmy pro kulturní subjekty, umělce a kreativce s
+                                   netržním nájemným (ateliéry, zkušebny)
+                               o krátkodobé pronájmy (dočasné využití)
+                               o podpora začínajících tvůrců a komunitního života ve městě
+                               o zamezení a předcházení chátrání ohrožených a dlouhodobě
+                                   neobsazených prostor a předcházení dalším negativním
+                                   jevům (snížení atraktivity lokality, vandalismus, squatting atd.)
+                               o minimalizace počtu dlouhodobě neobsazených prostor
+                               o zatraktivnění deprivovaných a sociálně znevýhodněných
+                                   lokalit
+                               o zjednodušení administrativního systému žádostí o krátkodobé
+                                   pronájmy nevyužitých nebytových prostor
+Postup řešení a časový     2023
+harmonogram                    o oslovení pilotní MČ Brno-střed, identifikace klíčových kontaktů
+                               o zajištění vhodných prostor k pilotnímu testování aktivity na MČ
+                                   Brno-střed
+                               o dopracování metodiky, vzor projektového záměru, odstranění
+                                   administrativní zátěže systému
+                               o pilotní pronájem
+                               o evaluace
+                               o mediální propagace
+                           2024–2025
+                               o vytvoření pracovní skupiny – odbory MMB + další subjekty (po
+                                   pilotním testování)
+                               o dopracování metodiky na základě výsledků evaluace a
+                                   jednání pracovní skupiny
+                               o rozšíření nabídky prostor a oslovení dalších městských částí
+                               o pravidelná evaluace
+                               o určení hlavní kontaktní osoby pro aktivitu
+                               o vytvoření elektronického nástroje pro soupis a aktualizaci
+                                   volných prostor na webu, včetně vytvoření mobilní aplikace,
+                                   využití GIS, data.brno.cz
+                               o vytvoření podpůrného fondu pro spolufinancování nutných
+                                   drobných zásahů do potřebné infrastruktury
+                               o spolupráce se soukromým sektorem, mapování, využití a
+                                   pronájem exteriérových prostor
+Indikátory                     o počet prostor k pronájmu
+                               o počet pronajatých prostor
+Opatření                   A.5.1, A.2.3
+Odpovědnost za realizaci   OSRS ve spolupráci s OK, OSM, MO, BO, MČ Brno-střed
+Odhad nákladů              běžné výdaje OSRS
+
+
+
+17 Aktivita                POSÍLENÍ KULTURNÍ INFRASTRUKTURY
+
+
+                                                      18
+
+
+
+                                                                                                       Strana 27 / 31
+ Priorita                    kritická
+
+ Popis aktivity              Cílem aktivity je zajištění, podpora a vznik nových prostor pro realizaci
+                             kulturních a kreativních činností. Dále se aktivita věnuje využití
+                             stávajících prostor města Brna po KKO, které aktuálně nemají
+                             stanoveno konkrétní využití.
+ Postup řešení a časový      2023–2025
+ harmonogram                     o uspořádání BKF na toto téma (jaro 2023)
+                                 o koordinační podpora projektu Dokumentačního centra
+                                      holocaustu na Moravě (Mehrin) – naplňování memoranda
+                                      o spolupráci, účast na konferencích
+                                 o dokončení rekonstrukce Janáčkova divadla – zpracování
+                                      námětů pro prostor po bývalé restauraci
+                                 o příprava rekonstrukce sídla CED
+                                 o dokončení rekonstrukce/sanace Arnoldovy vily a propojení
+                                      zahrad sousedních vil
+                                 o řešení stavu objektu a situace Divadla Bolka Polívky a kina
+                                      Scala
+                                 o kofinancování rekonstrukce kulturního centra CO.LABS
+                                 o řešení možnosti dočasného využití nepotřebného objektu
+                                      v průmyslovém areálu Zetor v Líšni pro aktivity KKO
+                                 o zjišťování dalších potřeb sektoru
+                                 o systémové využívání industriálních prostor
+                                 o příprava rekonstrukce malé scény DR
+                                 o příprava výstavby depozitáře pro MUMB
+                                 o dokončení oprav Měnínské brány a vytvoření expozice
+                                 o oprava hradu Špilberku
+ Indikátory                      o počet podpořených kulturních infrastrukturních projektů
+                                 o uspořádání BKF na téma kulturní infrastruktury
+ Opatření                    A.5.1, A.5.2
+ Odpovědnost za realizaci    OK ve spolupráci s RMB, OSRS, OI, JIC, PO
+
+ Odhad nákladů               běžné výdaje OK
+
+
+18 Aktivita                 KREATIVNÍ CENTRUM BRNO (bývalá káznice mezi Bratislavskou a
+                            Cejlem)
+Priorita                    běžná
+
+Popis aktivity              Cílem je proměna káznice na kreativní centrum. Aktivita se zaměřuje na:
+                                o důraz na negentrifikační přístup k objektu a především k lokalitě
+                                o zapojení relevantních partnerů
+                                o otevření objektu veřejnosti i umělcům
+Postup řešení a časový      2023–2025
+harmonogram                     o realizace dle vlastního harmonogramu
+                                o zapojení dalších relevantních subjektů včetně zástupců veřejné
+                                     správy (Ministerstvo kultury, Jihomoravský kraj, MČ Brno-sever)
+                                     a budoucích partnerů zasídlených v objektu (KJM, MZM,
+                                     KUMST, Tripitaka)
+                                o podání žádostí o stavební povolení na dvě stavební etapy
+                                o hledání možností spolufinancování
+Indikátory                      o získání stavebních povolení
+                                o podání žádosti o dotaci
+Opatření                    A.5.2
+Odpovědnost za realizaci    OSRS ve spolupráci s OK, KJM, MZM, KUMST, Tripitaka
+Odhad nákladů               dle vlastního harmonogramu projektu
+ 19 Aktivita                 JANÁČKOVO KULTURNÍ CENTRUM
+
+ Priorita                    důležitá
+
+
+                                                        19
+
+
+
+                                                                                                         Strana 28 / 31
+Popis aktivity             Výstavba JKC – koncertního sálu. Provozovatelem bude FB.
+Postup řešení a časový     2023
+harmonogram                    o    vytvoření provozního modelu fungování JKC
+                               o    vypsání veřejné zakázky na stavbu budovy JKC a zahájení
+                                    výstavby
+                           2024–2025
+                               o    výstavba JKC
+Indikátory                     o plnění harmonogramu projektu
+Opatření                   A.5.2
+Odpovědnost za realizaci   BKOM ve spolupráci s OI, OK, Filharmonií Brno
+Odhad nákladů              dle vlastního harmonogramu projektu
+
+
+20 Aktivita                DŮM LEOŠE JANÁČKA
+
+Priorita                   důležitá
+
+Popis aktivity             Přípravná fáze vzniku muzea/domu/centra Leoše Janáčka s expozicí,
+                           prostorem pro edukaci, archivem, zázemím pro kurátory a badatelnou.
+                           Zajištění podpory města pro projekt MZM.
+
+Postup řešení a časový     2023–2025
+harmonogram
+                               o      aktivní řešení otázky umístění a z toho vyplývající specifikace
+                                      koncepce
+
+                               o      monitoring nových postupů v převážně hudebních expozicích
+                                      a způsobů prezentace významných hudebních osobností
+                                      v ČR i zahraničí
+
+                               o      networking – sdílení zkušeností s autory a provozovateli
+                                      skladatelských a hudebních muzeí a expozic v ČR a
+                                      zahraničí
+
+Indikátory                     o      koncepce reflektující specifické požadavky na péči a zázemí
+                                      archivu Leoše Janáčka a zohledňující nové trendy
+                                      a technologie v oblasti prezentace významných
+                                      skladatelských osobností
+                               o      síť partnerů z okruhu provozovatelů skladatelských
+                                      a hudebních muzeí a expozic
+Opatření                   A.5.2
+
+Odpovědnost za realizaci   TIC ve spolupráci s MZM, OK a Nadací Leoše Janáčka
+
+Odhad nákladů              běžné výdaje TIC, MZM a OK, možnost dotace např. z Mezinárodního
+                           visegrádského fondu
+
+
+
+21 Aktivita                PODPORA PAMÁTKOVÉ PÉČE
+
+Priorita                   důležitá
+
+Popis aktivity             Cílem je podpora soustavné péče o kulturní památky:
+                               o oprava památkových objektů v majetku města a regenerace
+                                   veřejných prostor historického jádra
+                               o dotační program na zachování a obnovu kulturních památek
+                                   minimálně v současném rozsahu
+                               o naplňování Programu regenerace Městské památkové
+                                   rezervace Brno pro období 2021–2025
+                               o zaměření se na architektonicky cenné objekty v majetku města
+                                   a jejich citlivá rekonstrukce
+                                                        20
+
+
+
+                                                                                                        Strana 29 / 31
+                               o   zaměření se na dochované autentické detaily a vybavení domů
+                                   v majetku města a jejich obnova na původním místě
+                               o podpora památkově chráněných náhrobků na Ústředním
+                                   hřbitově města Brna
+Postup řešení a časový     2023–2025
+harmonogram                    o průběžná aktualizace Programu regenerace Městské
+                                   památkové rezervace Brno
+                               o vytvoření systému podpory (krátkodobý dotační program,
+                                   adopce) zaměřené na obnovu památkově chráněných
+                                   náhrobků
+Indikátory                     o vytvoření systému podpory obnovy památkově chráněných
+                                   náhrobků
+                               o počet podpořených projektů v rámci systému podpory obnovy
+                                   památkově chráněných náhrobků
+Opatření                   A.1.5
+Odpovědnost za realizaci   OPP ve spolupráci s OI, OŽP, OK, MČ
+Odhad nákladů              běžné výdaje OPP a dle možností rozpočtu SMB 1–2 mil. Kč pro
+                           dotační program zaměřený na obnovu památkově chráněných
+                           náhrobků
+
+
+22 Aktivita                VYUŽITÍ BVV PRO KKO
+
+Priorita                   důležitá
+
+Popis aktivity             Aktivita navázala na kandidaturu města Brna na Evropské hlavní město
+                           kultury 2028. Zabývá se možnostmi využití historické části areálu BVV
+                           pro KKO a naplněním vize transformace BVV s výraznějším využitím
+                           areálu pro KKO s důrazem na témata spojená s designem, grafickým
+                           designem, herními médii a dalšími kulturními a kreativními segmenty.
+
+Postup řešení a časový     2023
+harmonogram                   o       červen – setkání BKF v BVV na téma kulturní infrastruktura
+                                      s důrazem na využití historického areálu BVV pro KKO
+                               o      aktivní řešení tématu využití historických objektů BVV pro KKO
+                                      a z toho vyplývající návrh možného využití
+                               o      aktivní řešení veřejného prostoru v areálu a před ním
+
+                           2024–2025
+                               o implementace projektu – realizace aktivit
+Indikátory                     o vytvoření návrhu na využití prostor pro KKO
+Opatření                   A.5.2
+Odpovědnost za realizaci   TIC ve spolupráci s BVV, OSRS, OK, OI
+Odhad nákladů              TIC v rámci účelové dotace s navýšením pro jednotlivé části projektů
+                           dle možností rozpočtu SMB
+
+
+
+
+                                                        21
+
+
+
+                                                                                                       Strana 30 / 31
+5. Závěr
+AP č. 2 SKKO pro roky 2023–2025 obsahuje 22 aktivit rozdělených do tří tematických celků:
+
+    A) Systém a koordinace – 11 aktivit
+    B) Mapování, data, aplikace – 3 aktivity
+    C) Infrastruktura – 8 aktivit
+
+Koordinaci realizace a průběžné vyhodnocení AP bude zajišťovat MMB prostřednictvím oddělení koncepce a rozvoje
+OK ve spolupráci s kulturními PO, s ostatními věcně příslušnými odbory MMB a zástupci odborné i laické veřejnosti.
+V souladu s SKKO bude každý rok zpracována informativní zpráva o průběžném plnění AP, která bude představena
+BKF a následně předložena Komisi kulturní RMB a RMB (do konce května následujícího roku).
+
+Rok před koncem platnosti AP č. 2 SKKO za období 2023–2025 proběhne vyhodnocení naplňování cílů a priorit opatření
+strategie, které bude spolu s návrhem nového AP předloženo orgánům města Brna.
+
+Tato informativní zpráva bude obsahovat zejména:
+
+- informace o realizaci jednotlivých aktivit a dílčích projektů
+- zdůvodnění odchylek od plánovaného průběhu realizace
+
+V případě potřeby aktualizace bude dokument znovu podroben procesu schválení příslušnými orgány města a poté
+zveřejněn na internetových stránkách města.
+
+Veškeré dokumenty strategického plánování v kultuře jsou a budou k dispozici také na adrese kultura.brno.cz.
+
+
+
+
+                                                              22
+
+
+
+                                                                                                         Strana 31 / 31
+

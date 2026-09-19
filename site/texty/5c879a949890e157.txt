@@ -1,0 +1,131 @@
+Rada města Brna
+
+Z9/34. zasedání Zastupitelstva města Brna
+konané dne 14.4.2026
+
+
+
+   16. Návrh rozpočtového opatření v souvislosti s realizací nového
+     modulu e-shopu městských služeb Brno iD – „Dotační portál
+                              MMB“
+
+Anotace
+Orgánům města je předkládán návrh na rozpočtové opatření za účelem zajištění financování vytvoření
+nového modulu „Dotační portál MMB“ v e-shopu městských služeb Brno iD. Jedná se o přesun finančních
+prostředků ve výši 6,05 mil. Kč z rozpočtu Odboru městské informatiky MMB do rozpočtu Odboru
+strategického rozvoje a spolupráce MMB.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                    rozpočtové opatření dle tabulky, která tvoří přílohu č. ... tohoto zápisu, v souvislosti
+                                s realizací nového modulu e-shopu městských služeb Brno iD s názvem „Dotační
+                                portál MMB“.
+
+
+Stanoviska
+
+Materiál byl projednán na schůzi Rady města Brna č. R9/171, konané dne 8.4.2026.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Mgr. František Kubeš Ph.D.
+  vedoucí odboru - Odbor strategického rozvoje a
+  spolupráce
+  7.4.2026 v 12:25
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Ing. Aleš Doležel
+  vedoucí úseku - 2. úsek
+  7.4.2026 v 12:45
+
+
+
+
+Sestava vytvořena 7.4.2026 v 12:45                              1/1                               Vygenerováno programem eMMB
+
+
+                                                                                                                  Strana 1 / 4
+                                 Obsah materiálu
+Návrh usnesení                                         1-1
+Obsah materiálu                                        2-2
+Důvodová zpráva                                        3-3
+Příloha k usnesení (RO_Dotacni_portal_OSRS_2026.pdf)   4-4
+
+
+
+
+                                                        Strana 2 / 4
+Důvodová zpráva
+
+
+
+Městské elektronické služby jsou nabízeny v e-shopu Brno iD od 1. 5. 2022 prostřednictvím společnosti
+Technické sítě Brno, akciová společnost (dále také „TSB“), a to na základě Smlouvy o využívání služeb
+č. 1522172219 na zajištění integrované dostupnosti služeb v e-shopu Brno iD uzavřené dle § 2430 a
+násl. zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů. Tato smlouva byla
+Radou města Brna schválena na R8/215. schůzi konané dne 20. 4. 2022.
+
+Porada vedení města Brna dne 19. 11. 2025 projednala návrh na vytvoření a spuštění modulu „Dotační
+portál MMB“ v e-shopu městských služeb Brno iD a uložila Odboru strategického rozvoje a spolupráce
+MMB ve spolupráci s Odborem městské informatiky MMB (dále také „OMI MMB“) vytvořit a spustit modul
+„Dotační portál MMB“ v e-shopu městských služeb Brno iD s termínem spuštění k 1. 1. 2027. Současně
+uložila vedoucímu 4. úseku MMB zajistit na realizaci potřebné finanční prostředky prostřednictvím
+rozpočtového opatření.
+
+Elektronizace procesu poskytování dotací z rozpočtu města Brna nebyla novým požadavkem.
+Implementace do loňského roku probíhala v rámci plnění veřejné zakázky dodavatelem IT řešení: DERS
+Group s.r.o. Dle podkladů od OMI MMB neprobíhalo plnění veřejné zakázky ze strany dodavatele v
+souladu s původním plánem. V této souvislosti začal OMI MMB situaci řešit. Provedl průzkum trhu a
+konzultoval případná další IT řešení agendy poskytování dotací na trhu s jinými institucemi veřejné
+správy. Žádný funkční elektronický systém, který by plně pokryl celou agendu poskytování dotací podle
+požadavků MMB, však nebyl identifikován.
+
+S ohledem na shora uvedené okolnosti bylo rozhodnuto, aby vytvoření a zavedení jednotného
+elektronického řešení pro poskytování programových a individuálních dotací z rozpočtu statutárního
+města Brna bylo zajištěno prostřednictvím vytvoření a spuštění nového modulu e-shopu městských
+služeb Brno iD.
+
+Cílem je vytvoření a zavedení jednotného elektronické řešení pro poskytování programových a
+individuálních dotací z rozpočtu statutárního města Brna. Cílovým stavem je využívání jediného
+informačního systému (nový modul Brno iD) dotčenými věcně příslušnými útvary MMB pro podávání
+žádostí o dotaci a správu podpořených projektů.
+
+Kvalifikovaný odhad nákladů se pohybuje v rozmezí 3–5 mil. Kč bez DPH.
+
+Orgánům města je tak předkládán návrh na rozpočtové opatření za účelem zajištění financování
+vytvoření nového modulu „Dotační portál MMB“ v e-shopu městských služeb Brno iD. Jedná se o přesun
+finančních prostředků ve výši 6,05 mil. Kč (tedy předpokládaná výše nákladů vč. DPH) z rozpočtu
+Odboru městské informatiky MMB do rozpočtu Odboru strategického rozvoje a spolupráce MMB.
+
+Materiál nepodléhá projednání v komisích Rady města Brna.
+Materiál byl projednán na schůzi Rady města Brna č. R9/171, konané dne 8.4.2026.
+
+
+
+
+                                                                                                 Strana 3 / 4
+                                                           Rozpočtové opatř ení
+                                                                                                                        v tis. Kč
+Běžné a kapitálové výdaje - př esun
+ ORJ       §       pol.   ÚZ        ORG                             Věcná náplň   Upr . r ozpočet      Úpr ava       Rozpočet
+                                                                                   k 25.3.2026      r ozpočtu + -    po změně
+
+
+
+  5300    6171     6111              3476 OMI - informační systém                         53 421            -6 050       47 371
+
+
+  1500    3636     5169                    Nákup ostatních služeb                         16 144            6 050        22 194
+                                    6 417 j.n. DPMB - příkazní smlouva Brno iD             6 000             6050         12050
+

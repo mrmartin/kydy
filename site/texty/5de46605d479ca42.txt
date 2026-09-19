@@ -1,0 +1,280 @@
+Rada města Brna
+
+Z9/10. zasedání Zastupitelstva města Brna
+konané dne 10.10.2023
+
+
+
+  24. Zapojení Fondu rezerv a rozvoje v souvislosti s uplatněním
+inflační doložky u smluv uzavřených se společností Technické sítě
+     Brno, akciová společnost – návrh rozpočtového opatření
+
+Anotace
+Předmětem je navýšení rozpočtu Odboru městské informatiky MMB zapojením Fondu rezerv a rozvoje –
+rezervy na vykrytí potřeb roku 2023 za účelem úhrady zvýšených výdajů souvisejících s navýšením cen
+poskytovaných služeb o inflační doložku.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   rozpočtové opatření dle tabulky, která tvoří přílohu č. .... tohoto zápisu, z důvodu
+                               zapojení Fondu rezerv a rozvoje za účelem navýšení rozpočtu Odboru městské
+                               informatiky MMB v souvislosti s uplatněním inflační doložky u smluv uzavřených se
+                               společností Technické sítě Brno, akciová společnost
+
+
+Stanoviska
+
+Finanční výbor ZMB projednal na svém zasedání dne 30.08.2023 a doporučil ZMB ke schválení.
+Rada města Brna projednala na své schůzi R9/041 konané dne 12.07.2023 a doporučila ZMB ke
+schválení.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. David Menšík
+  vedoucí odboru - Odbor městské informatiky
+  8.9.2023 v 11:35
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  2.10.2023 v 21:19
+
+
+
+
+Sestava vytvořena 2.10.2023 v 21:19                           1/1                             Vygenerováno programem eMMB
+
+
+                                                                                                              Strana 1 / 5
+                                 Obsah materiálu
+Návrh usnesení                                                          1-1
+Obsah materiálu                                                         2-2
+Důvodová zpráva                                                         3-4
+Příloha k usnesení (Navýšení rozpočtu OMI_06_2023_Inflace _06_23.pdf)   5-5
+
+
+
+
+                                                                         Strana 2 / 5
+                                         Důvodová zpráva:
+
+
+Odbor městské informatiky MMB (dále jen „OMI“), předkládá orgánům města Brna návrh rozpočtového
+opatření, jehož předmětem je navýšení rozpočtu OMI zapojením Fondu rezerv a rozvoje – rezervy na
+vykrytí potřeb roku 2023 za účelem úhrady zvýšených výdajů souvisejících s navýšením cen
+poskytovaných služeb o inflační doložku.
+
+
+Při zajišťování provozu informačních technologií využívá OMI služeb společnosti Technické sítě Brno,
+akciová společnost (dále jen „TSB“), se kterou aktuálně eviduje 9 hlavních smluv. Z toho u 5 smluv je
+poskytovatel oprávněn každoročně valorizovat cenu služeb o míru inflace vyjádřenou přírůstkem
+průměrného ročního indexu spotřebitelských cen předcházejícího kalendářního roku vyhlášenou
+Českým statistickým úřadem. Průměrná roční míra inflace roku 2022 byla 15,1 %. U smlouvy č.
+0053091706092 k zajištění bezpečného uložení a ochrany dat a informací prostřednictvím centrálního
+úložiště je cena za poskytnuté služby navyšovaná o inflaci stanovenou Českým statistickým úřadem za
+předminulý rok, kdy průměrná roční míra inflace roku 2021 byla 3,8 %.
+
+
+S TSB, která je poskytovatelem služeb, bylo na základě společného jednání dohodnuto, že u smluv,
+u kterých má nárok uplatňovat nárůst cen o 15,1 %, ceny v letošním roce navýší pouze o 7,55 %. Cena
+poskytovaných služeb se pro rok 2023 u smluv s inflačních doložkou navýší oproti cenám roku 2022
+celkem o 5 141 674 Kč (viz tabulka). Fakturace za poskytnuté služby probíhá čtvrtletně vždy za uplynulé
+období. V roce 2022 bylo za uvedené služby skutečně uhrazeno 71 617 382,72 Kč. V letošním roce je
+předpokládána výše úhrad 76 522 061,05 Kč. V roce 2023 je tedy očekáváno navýšení úhrad o
+4 904 678,33 Kč, z toho částku 1 645 678,33 Kč pokryje OMI ze stávajícího rozpočtu. Zbývající část ve
+výši 3 259 000 Kč však již není s ohledem na ostatní plánované výdaje možno pokrýt z rozpočtu OMI,
+a proto OMI předkládá Radě města Brna na posílení rozpočtu OMI zapojením FRR.
+
+
+
+                                                         2022              2023         Inflace   Roční navýšení
+   Smlouva č.            Předmět smlouvy
+                                                      Kč vč. DPH        Kč vč. DPH         %        o inflaci Kč
+
+               Smlouva o poskytování služeb
+    5320174914 optických tras                         27 304 015,52    29 365 468,56      7,55      2 061 453,04
+               Smlouva o poskytování služeb
+0053091706092 datového centra - nájemné               10 801 161,96    11 211 607,20      3,80        410 445,24
+               Smlouva o poskytování služeb
+    5318173175 datového úložiště                       4 405 471,84     4 738 084,96      7,55        332 613,12
+    5320174046 Smlouva o poskytování služeb
+  5320174046/1 – monitoring provozu PC sítě            2 216 039,98     2 408 339,60      7,55        192 299,62
+               Smlouva o poskytování služeb
+               - + architekt KB - paušální
+    5320174042 platby                                    844 018,56       907 741,92      7,55            63 723,36
+               Smlouva o poskytování služeb
+               - architekt KB - úkony nad
+               rámec paušálu                             916 363,00       985 547,90      7,55            69 184,90
+               Smlouva na servis aktivních
+               prvků, serveroven a datových
+      53049070 center                                 26 648 403,96    28 660 358,48      7,55      2 011 954,52
+                  Celkem                              73 135 474,82    78 277 148,62                5 141 673,80
+
+Z těchto důvodů OMI předkládá tabulku rozpočtového opatření, které je nezbytně nutné k zajištění
+finančních prostředků na financování zvýšených výdajů souvisejících s navýšením cen poskytovaných
+služeb o inflační doložku u smluv uzavřených se společností TSB.
+
+
+
+
+                                                                                                    Strana 3 / 5
+Rada města Brna projednala na své schůzi R9/041 konané dne 12.07.2023 a doporučila ZMB ke
+schválení.
+
+
+Schváleno jednomyslně 10 členy.
+
+
+
+
+                                                                                                                                                Matonohov
+                                                         Podivinská
+
+
+
+
+                                                                                                                                   Kratochvíl
+                                                                             Bc. Aberl
+
+
+                                                                                                    Ing. arch.
+  Vaňková
+
+
+
+
+                                                                                                    Bořecký
+
+
+                                                                                                                       Chvátal
+                                     Kerndl
+
+
+
+
+                                                                                                                       RNDr.
+                         Suchý
+              Černý
+  JUDr.
+
+
+
+
+                                     JUDr.
+
+
+
+
+                                                                                                                                                JUDr.
+
+
+                                                                                                                                                JUDr.
+                                                                                                                       Ph.D.
+
+
+
+
+                                                                                                                                                Oliva
+              Mgr.
+
+
+                         Mgr.
+
+
+
+
+                                                         Ing.
+
+
+
+
+                                                                                                                                   Ing.
+
+
+
+
+                                                                                                                                                á
+   pro           pro      pro         pro                pro                      pro               pro                   ------   pro          pro   pro
+
+
+Finanční výbor ZMB projednal na svém zasedání dne 30.08.2023 a doporučil ZMB ke schválení.
+
+Schváleno 6 členy.
+  Pazderová
+
+
+
+
+                                                                      M. Lahoda
+                         Drápalová
+
+
+
+
+                                                                                                                 P. Šafařík
+              M. Marek
+
+
+
+
+                                              J. Kment
+
+
+
+
+                                                                                         D. Struž
+  A.
+
+
+
+
+                         J.
+
+
+
+
+   pro           pro     nepřítomna              pro              pro                       pro                  pro
+
+
+
+
+Materiál nepodléhá projednání v komisích RMB.
+
+
+
+
+                                                                                                                                                            Strana 4 / 5
+                                                    Rozpočtové opatření
+                                                                                                                                v tis. Kč
+Běžné výdaje - zvýšení
+ ORJ     §       pol.  ÚZ   ORG                         Věcná náplň                        Upravený rozpočet     Úprava         Rozpočet
+                                                                                              k 22.6.2023      rozpočtu + -     po změně
+  5300 6171     5164               Nájemné                                                              43 243        1 801          45 044
+                              6067 ve j.n: TSB - Provoz datového centra                                 38 159       1 801          39 960
+                                   Zpracování dat a služby související s informačními a
+  5300 6171     5168               komunikačními technologiemi                                        186 054           1 458       187 512
+
+                              6073 ve j. n.: TSB - Servis strukturovaných kabeláží MMB                 26 700          1 458         28 158
+
+Financování - zvýšení
+ ORJ     § Položka ÚZ       ORG                         Věcná náplň                          Upr. rozpočet         Úprava       Rozpočet
+                                                                                              k 22.6.2023        rozpočtu + -   po změně
+                                    Zapojení Fondu rezerv a rozvoje - rezerva na vykrytí
+  1700          8115                potřeb roku 2023                                                  -100 889         3 259        -97 630
+
+
+
+
+                                                                                                                                      Strana 5 / 5
+

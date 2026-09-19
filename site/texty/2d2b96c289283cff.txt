@@ -1,0 +1,822 @@
+            ZÁPIS ZE ZASEDÁNÍ FINANČNÍHO VÝBORU ZMB FV9/33
+                                      konaného dne 08. 04. 2026
+__________________________________________________________________________________________________
+
+Přítomni:
+Bc. Jiří Kment, Mgr. Marek Lahoda, Ing. Daniel Struž, MBA
+Přítomni online:
+Ing. Andrea Pazderová, JUDr. Michal Marek, Petr Šafařík
+Omluveni:
+Ing. Jana Drápalová
+
+
+Jednání Finančního výboru ZMB FV9/33 zahájila Ing. Andrea Pazderová, která vedla zasedání.
+
+Program jednání:
+   0. Navržený program (FV)
+   1. Návrh na úhradu náhrad nájemného za sociální byty a náhrad za mimořádné opravy sociálních
+       bytů městským částem, návrh rozpočtového opatření (BO)
+   2. Návrh nabytí spoluvlastnických podílů ve výši id. 1/2 na pozemcích p. č. 1159, p. č. 1160/1 a p. č.
+       1182, vše v k. ú. Nový Lískovec, pro strategický projekt „Bytová výstavba v lokalitě Kamenný vrch
+       II“, návrh rozpočtového opatření (MO)
+   3. Zapojení Fondu rezerv a rozvoje k financování běžných výdajů Městské policie Brno, návrh
+       rozpočtového opatření (MP)
+   4. Návrh na poskytnutí individuální investiční dotace z rozpočtu statutárního města Brna
+       společnosti Dopravní podnik města Brna, a.s. na projekt "Omezení vjezdu do centra" – návrh
+       rozpočtového opatření (OD)
+   5. Návrh na úpravu investičních akcí v Závazném plánu investic, zapojení Fondu rezerv a rozvoje na
+       krytí provozních nákladů, aktualizace rozpočtu běžných a kapitálových výdajů Odboru dopravy
+       MMB a Fondu mobility–duben 2026-návrh rozpočtového opatření (OD)
+   6. Zapojení Fondu rezerv a rozvoje v souvislosti s aktualizací rozpočtu akcí zajišťovaných společností
+       Brněnské vodárny a kanalizace, a.s. – duben 2026 – návrh dodatku č. 108 k mandátní smlouvě č.
+       56019271 - návrh rozpočtového opatření (OI)
+   7. Aktualizace rozpočtu Odboru investičního MMB – duben 2026 – návrh rozpočtového opatření (OI)
+   8. Projekt "Implementace privátní 5G sítě v areálu Úrazové nemocnice v Brně" - posouzení projektu,
+       návrh na poskytnutí návratné finanční výpomoci, návrh rozpočtového opatření (OIEF)
+   9. Finanční prostředky Fondu kofinancování projektů – duben 2026 – návrh rozpočtových opatření
+       (OIEF)
+   10. Návrh na poskytnutí individuální neinvestiční dotace z rozpočtu města Brna v letech 2026-2028
+       společnosti Větrné mlýny s.r.o. na projekt "Edice Brno 2026, resp. 2027, resp. 2028" - návrh
+       rozpočtového opatření (OK)
+   11. Návrh na poskytnutí individuální neinvestiční dotace z rozpočtu města Brna na rok 2026
+       společnosti Aeropolis s.r.o. na činnost "Kino Scala v roce 2026" - návrh rozpočtového opatření
+       (OK)
+   12. Návrh na poskytnutí individuální investiční dotace z rozpočtu města Brna na zhotovení a umístění
+       Poesiomatu v prostoru bývalé Velké synagogy v Brně – návrh smlouvy - návrh rozpočtového
+       opatření (OK)
+
+
+
+                                                                                                       1
+13. Zapojení Fondu rezerv a rozvoje v souvislosti s navýšením poskytnuté dotace spolku Divadlo
+   Aldente, z.s. na celoroční činnost "Divadlo herců s Downovým syndromem" - návrh rozpočtového
+   opatření (OK)
+14. Návrh na změnu účelu neinvestičního příspěvku schváleného Národnímu divadlu Brno,
+   příspěvkové organizaci, v roce 2026 (OK)
+15. Záměr svěření majetku města Brna k hospodaření Muzeu města Brna, příspěvkové organizaci, a
+   zapojení Fondu rezerv a rozvoje v souvislosti se zajištěním Revitalizace interiéru a expozice
+   Chleborádovy vily, návrh rozpočtového opatření (OK)
+16. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím účelového neinvestičního příspěvku
+   Muzeu města Brna, příspěvkové organizaci, na oslavy 25. výročí zapsání vily Tugendhat na
+   seznam UNESCO, v roce 2026 – návrh rozpočtového opatření (OK)
+17. Návrh na poskytnutí peněžitého daru Jihomoravskému kraji na podporu audiovize; návrh
+   rozpočtového opatření (OK)
+18. Veřejná zakázka malého rozsahu „Navýšení CPU kapacity Clover ETL“ - výběr dodavatele a návrh
+   smlouvy, návrh rozpočtového opatření (OMI)
+19. Zapojení Fondu rezerv a rozvoje k financování kapitálových výdajů Odboru městské informatiky
+   MMB, návrh rozpočtového opatření (OMI)
+20. Návrh na poskytnutí finančního daru spolku Městský sportovní klub Brno, z. s. na podporu
+   brněnských olympioniků – sportovců seniorů pro rok 2026 – návrh rozpočtového opatření (OS)
+21. Návrh na poskytnutí individuální neinvestiční dotace Vysokému učení technickému v Brně na
+   zabezpečení provozu sportovního areálu Pod Palackého vrchem v rámci projektu Centrum
+   brněnské atletiky pro rok 2026 – návrh rozpočtového opatření (OS)
+22. Přesun běžných a kapitálových výdajů v rámci rozpočtu Odboru správy majetku MMB, návrh
+   rozpočtového opatření (OSM)
+23. Zapojení Fondu rezerv a rozvoje – návrh na poskytnutí investičních transferů městským částem
+   a neinvestičního příspěvku Centru sociálních služeb, p.o. – návrh rozpočtového opatření (OSP)
+24. Návrh na poskytnutí neinvestičních dotací na rok 2026 z Programu IV - Prevence kriminality -
+   návrh rozpočtového opatření (OSP)
+25. Návrh na poskytnutí neinvestičních dotací na rok 2026 z Programu III - Aktivity v oblasti drog a
+   závislostí - návrh rozpočtového opatření (OSP)
+26. Návrh na poskytnutí neinvestičních dotací v rámci Programu V - Aktivity v oblasti národnostních
+   menšin a etnik pro rok 2026 – návrh rozpočtového opatření (OSP)
+27. Návrh na poskytnutí neinvestičních dotací v rámci Programu II – Aktivity v sociální oblasti pro rok
+   2026 - návrh rozpočtového opatření (OSP)
+28. Návrh na poskytnutí finančních podílů z rozpočtu města Brna na projekty prevence kriminality v
+   roce 2026 - návrh rozpočtového opatření (OSP)
+29. Návrh rozpočtového opatření v souvislosti s realizací nového modulu e-shopu městských služeb
+   Brno iD – „Dotační portál MMB“ (OSRS)
+30. Návrh na poskytnutí neinvestičních příspěvků základním školám na zajištění projektu Primární
+   prevence na základních školách – návrh rozpočtového opatření (OŠML)
+31. Návrh rozpočtového opatření - zapojení Fondu rezerv a rozvoje k financování kapitálových výdajů
+   Odboru vodního a lesního hospodářství a zemědělství MMB v roce 2026 (OVLHZ)
+32. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím individuální neinvestiční dotace
+   Nadaci Partnerství, návrh rozpočtového opatření (OŽP)
+33. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím účelových investičních transferů
+   městským částem - návrh rozpočtového opatření (OŽP)
+
+
+                                                                                                     2
+   34. Návrh na změnu účelu využití části investičního příspěvku schváleného Veřejné zeleni města
+       Brna, příspěvkové organizaci - návrh rozpočtového opatření (OŽP)
+   35. Zapojení Fondu Dáme na vás a Fondu rezerv a rozvoje v souvislosti s financováním projektů
+       participativního rozpočtu, zajištění financování menstruačních potřeb na základních školách v
+       Brně a cen do soutěží - návrh rozpočtových opatření (PARO)
+   36. Informativní zpráva - Schválené rozpočty na rok 2026 příspěvkových organizací zřízených městem
+       Brnem (ORF)
+   37. Informativní zpráva - Souhrnný rozpočet statutárního města Brna na rok 2026 (ORF)
+   38. Meziroční vývoj daňových výnosů a plnění rozpočtu daňových výnosů za období leden - březen
+       2026 (ORF)
+   39. Různé
+
+
+0. Navržený program
+Finanční výbor
+souhlasí
+       s navrženým programem zasedání
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda     D.Struž        P.Šafařík
+     pro             pro        omluvena            pro             pro         pro             pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+1. Návrh na úhradu náhrad nájemného za sociální byty a náhrad za mimořádné opravy sociálních
+bytů městským částem, návrh rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+    rozpočtové opatření dle tabulky v souvislosti s úhradou náhrad nájemného za sociální byty a
+    náhrad za mimořádné opravy sociálních bytů městským částem.
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda  D.Struž        P.Šafařík
+      pro            pro        omluvena        zdržel se           pro      pro             pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 5, proti 0, zdržel se 1.
+
+
+2. Návrh nabytí spoluvlastnických podílů ve výši id. 1/2 na pozemcích p. č. 1159, p. č. 1160/1 a p. č.
+1182, vše v k. ú. Nový Lískovec, pro strategický projekt „Bytová výstavba v lokalitě Kamenný vrch
+II“, návrh rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+    a) nabytí spoluvlastnického podílu ve výši id. 1/2 na pozemku p. č. 1159, zastavěná plocha a
+        nádvoří, o výměře 32 m2, na kterém stojí stavba č. e. 89, rodinná rekreace, v k. ú. Nový Lískovec
+        z vlastnictví Oldřicha Černého do vlastnictví statutárního města Brna za kupní cenu 102 145 Kč a
+        za podmínek uvedených v kupní smlouvě;
+    b) nabytí spoluvlastnických podílů ve výši id. 1/2 na pozemcích:
+             ­ p. č. 1160/1, zahrada, o výměře 449 m2,
+             ­ p. č. 1182, ostatní plocha, jiná plocha, o výměře 3 435 m2,
+        oba v k. ú. Nový Lískovec z vlastnictví Oldřicha Černého do vlastnictví statutárního města Brna
+        za kupní cenu 12 397 855 Kč a za podmínek uvedených v kupní smlouvě.
+    c) rozpočtové opatření dle tabulky v souvislosti s navrženým čerpáním prostředků z Fondu bytové
+        výstavby z důvodu zajištění úhrady kupní ceny.
+ A.Pazderová       M.Marek       J.Drápalová       J.Kment       M.Lahoda        D.Struž      P.Šafařík
+      pro             pro         omluvena            pro           pro            pro           pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+                                                                                                         3
+3. Zapojení Fondu rezerv a rozvoje k financování běžných výdajů Městské policie Brno, návrh
+rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+       rozpočtové opatření dle tabulky z důvodu zajištění potřeb běžných výdajů městské policie Brno
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda   D.Struž      P.Šafařík
+     pro             pro        omluvena            pro             pro       pro           pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+4. Návrh na poskytnutí individuální investiční dotace z rozpočtu statutárního města Brna
+společnosti Dopravní podnik města Brna, a.s. na projekt "Omezení vjezdu do centra" – návrh
+rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+    ­ poskytnutí individuální investiční dotace z rozpočtu statutárního města Brna Dopravnímu
+        podniku města Brna, a.s., IČO: 25508881, se sídlem Hlinky 64/151, 603 00 Brno, na realizaci
+        projektu ORG 1671 "Omezení vjezdu do centra - dotace DPMB, a.s." ve výši 10 000 tis. Kč
+    ­ rozpočtové opatření dle tabulky, z důvodu poskytnutí dotace Dopravnímu podniku města Brna,
+        a.s., IČO: 25508881, se sídlem Hlinky 64/151, 603 00 Brno, na realizaci projektu ORG 1671
+        "Omezení vjezdu do centra - dotace DPMB, a.s."
+    ­ smlouvu o poskytnutí individuální investiční dotace z rozpočtu statutárního města Brna
+        Dopravnímu podniku města Brna, a.s., IČO: 25508881, se sídlem Hlinky 64/151, 603 00 Brno, na
+        realizaci projektu ORG 1671 "Omezení vjezdu do centra - dotace DPMB, a.s."
+pověřit
+    ­ vedoucího Odboru dopravy MMB podpisem výše uvedené smlouvy o poskytnutí individuální
+        investiční dotace z rozpočtu statutárního města Brna
+ A.Pazderová       M.Marek      J.Drápalová      J.Kment         M.Lahoda  D.Struž         P.Šafařík
+     pro              pro        omluvena           pro             pro      pro              pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+5. Návrh na úpravu investičních akcí v Závazném plánu investic, zapojení Fondu rezerv a rozvoje
+na krytí provozních nákladů, aktualizace rozpočtu běžných a kapitálových výdajů Odboru dopravy
+MMB a Fondu mobility–duben 2026-návrh rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+    ­ rozpočtové opatření dle tabulky, z důvodu přesunu běžných a kapitálových výdajů rozpočtu
+       Odboru dopravy MMB a zapojení Fondu mobility a Fondu rezerv a rozvoje.
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda D.Struž  P.Šafařík
+     pro             pro        omluvena        zdržel se           pro     pro       pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 5, proti 0, zdržel se 1.
+
+
+6. Zapojení Fondu rezerv a rozvoje v souvislosti s aktualizací rozpočtu akcí zajišťovaných
+společností Brněnské vodárny a kanalizace, a.s. – duben 2026 – návrh dodatku č. 108 k mandátní
+smlouvě č. 56019271 - návrh rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+       ­ rozpočtové opatření dle tabulky, z důvodu zajištění finančních prostředků na realizaci
+          investičních akcí na rekonstrukci vodohospodářské infrastruktury
+
+
+
+                                                                                                   4
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda      D.Struž       P.Šafařík
+     pro             pro        omluvena        zdržel se           pro          pro            pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 5, proti 0, zdržel se 1.
+
+
+7. Aktualizace rozpočtu Odboru investičního MMB – duben 2026 – návrh rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+    • poskytnutí investičních transferů městské části Brno-Slatina, a to na akce:
+            o „Odstranění statických poruch na ZŠ Jihomoravské náměstí 2“ ve výši 11 000 tis. Kč,
+            o „Obnova střech budov ve správě městské části“ ve výši 10 000 tis. Kč,
+            o „Obnova míst pasivního a aktivního odpočinku“ ve výši 9 000 tis. Kč,
+            o z rozpočtu města Brna na rok 2026 s tím, že městská část tyto finanční prostředky
+                vyúčtuje Odboru investičnímu MMB v termínu do 30.6.2027.
+    • rozpočtové opatření dle tabulky na základě aktualizace očekávaného čerpání rozpočtu běžných
+        a kapitálových výdajů města Brna pro rok 2026.
+uložit
+    Radě města Brna zajistit poukázání finančních prostředků městské části až po předložení smluvní
+    dokumentace k realizaci jednotlivých akcí.
+    Termín: dle usnesení.
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda     D.Struž    P.Šafařík
+      pro            pro        omluvena            pro             pro         pro         pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+8. Projekt "Implementace privátní 5G sítě v areálu Úrazové nemocnice v Brně" - posouzení
+projektu, návrh na poskytnutí návratné finanční výpomoci, návrh rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+vzít na vědomí
+    • žádost Úrazové nemocnice v Brně o poskytnutí návratné finanční výpomoci ve výši 16 967 054,00
+        Kč z rozpočtu města Brna na rok 2026 za účelem realizace projektu "Implementace privátní 5G
+        sítě v areálu Úrazové nemocnice v Brně" s termínem vrácení do 30 dnů po obdržení dotace,
+        nejpozději však do 30.4.2027, a termínem finančního vypořádání do 30.6.2027
+schválit
+    • posouzení projektu "Implementace privátní 5G sítě v areálu Úrazové nemocnice v Brně"
+    • zařazení projektu ORG 5594 "Implementace privátní 5G sítě v areálu Úrazové nemocnice v Brně"
+        s celkovými náklady ve výši 33 935 tis. Kč (z toho kapitálové výdaje 33 885 tis. Kč a běžné výdaje
+        50 tis. Kč) a dobou realizace v roce 2026 do rozpočtu kapitálových a běžných výdajů města Brna
+    • poskytnutí návratné finanční výpomoci v celkové výši 16 967 054,00 Kč (z toho investiční část 16
+        942 054,00 Kč a neinvestiční část 25 000,00 Kč) z rozpočtu města Brna na rok 2026 Úrazové
+        nemocnici v Brně za účelem realizace projektu "Implementace privátní 5G sítě v areálu Úrazové
+    • nemocnice v Brně" s termínem vrácení do 30 dnů od obdržení dotace, nejpozději však do 30. 4.
+        2027 a termínem finančního vypořádání do 30. 6. 2027
+    • rozpočtové opatření dle tabulky za účelem realizace projektu ORG 5594 financovaného z Fondu
+        kofinancování projektů
+ A.Pazderová        M.Marek      J.Drápalová      J.Kment        M.Lahoda       D.Struž        P.Šafařík
+      pro              pro        omluvena           pro            pro           pro             pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+9. Finanční prostředky Fondu kofinancování projektů – duben 2026 – návrh rozpočtových opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+
+
+
+                                                                                                         5
+    •  poskytnutí návratné finanční výpomoci ve výši 19 495 000,00 Kč z rozpočtu města Brna na rok
+       2026 Zoo Brno a stanice zájmových činností, příspěvkové organizaci, za účelem realizace projektu
+       “Archa jménem zoo“ s termínem vrácení do 30 dnů po obdržení dotace, nejpozději však do 30. 9.
+       2027 a finančního vypořádání do 30. 11. 2027
+    • poskytnutí neinvestičního příspěvku ve výši 29 000,00 Kč z rozpočtu města Brna na rok 2026 Zoo
+       Brno a stanice zájmových činností, příspěvkové organizaci, za účelem realizace projektu “Archa
+       jménem zoo“ s termínem vyúčtování do 31. 12. 2026
+    • poskytnutí investičního příspěvku ve výši 2 138 000,00 Kč z rozpočtu města Brna na rok 2026 Zoo
+       Brno a stanice zájmových činností, příspěvkové organizaci, za účelem realizace projektu “Archa
+       jménem zoo“ s termínem vyúčtování do 31. 12. 2026
+    • poskytnutí neinvestičního transferu z rozpočtu města Brna ve výši 1 850 656,39 Kč městské části
+       Brno-Chrlice v rámci projektu „ZŠ a MŠ Jana Broskvy - rekonstrukce školní kuchyně“ s termínem
+       vyúčtování do 31. 3. 2027
+    • poskytnutí investičního transferu z rozpočtu města Brna ve výši 14 436 217,07 Kč městské části
+       Brno-Chrlice v rámci projektu „ZŠ a MŠ Jana Broskvy - rekonstrukce školní kuchyně“ s termínem
+       vyúčtování do 31. 3. 2027
+    • poskytnutí investičního transferu (spoluúčasti) z rozpočtu města Brna ve výši 3 500 000,00 Kč
+       městské části Brno-Chrlice v rámci projektu „Pořízení nových automobilů pro JSDH“ s termínem
+       vyúčtování do 30. 11. 2026
+    • rozpočtové opatření I dle tabulky za účelem zapojení Fondu kofinancování projektů
+    • rozpočtové opatření II dle tabulky za účelem přijetí vratky bezúročné finanční zápůjčky v rámci
+       realizace projektu „Rosteme s digitálními technologiemi“ od městské části Brno-Židenice a za
+       účelem poskytnutí investičních transferů a neinvestičního transferu městské části Brno-Chrlice
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda    D.Struž        P.Šafařík
+     pro             pro        omluvena        zdržel se           pro        pro             pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 5, proti 0, zdržel se 1.
+
+
+10. Návrh na poskytnutí individuální neinvestiční dotace z rozpočtu města Brna v letech 2026-
+2028 společnosti Větrné mlýny s.r.o. na projekt "Edice Brno 2026, resp. 2027, resp. 2028" - návrh
+rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+    1. poskytnutí individuální neinvestiční dotace z rozpočtu města Brna v letech 2026-2028
+        společnosti Větrné mlýny s.r.o., IČO: 29279194, sídlem: Dominikánská 348/9, Brno-město, 602
+        00 Brno na realizaci projektu "Edice Brno 2026, resp. 2027, resp. 2028" v celkové výši 1 200 tis.
+        Kč, tj. 400 tis. Kč ročně;
+    2. rozpočtové opatření dle tabulky;
+    3. uzavření smlouvy o poskytnutí individuální neinvestiční dotace z rozpočtu města Brna v letech
+        2026-2028 společnosti Větrné mlýny s.r.o., IČO: 29279194, sídlem: Dominikánská 348/9, Brno-
+        město, 602 00 Brno na realizaci projektu "Edice Brno 2026, resp. 2027, resp. 2028".
+pověřit
+    vedoucí Odboru kultury MMB podpisem smlouvy o poskytnutí individuální neinvestiční dotace z
+    rozpočtu města Brna v letech 2026-2028.
+ A.Pazderová        M.Marek        J.Drápalová   J.Kment         M.Lahoda      D.Struž        P.Šafařík
+      pro               pro         omluvena       proti            pro          pro             pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 5, proti 1, zdržel se 0.
+
+
+11. Návrh na poskytnutí individuální neinvestiční dotace z rozpočtu města Brna na rok 2026
+společnosti Aeropolis s.r.o. na činnost "Kino Scala v roce 2026" - návrh rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+
+
+                                                                                                            6
+    4. poskytnutí individuální neinvestiční dotace z rozpočtu města Brna na rok 2026 pro společnost
+        Aeropolis s.r.o., IČO:02035707, sídlem: Mladkov 21, 679 01 Boskovice na realizaci činnosti "Kino
+        Scala v roce 2026" ve výši 200 tis. Kč;
+    5. rozpočtové opatření dle tabulky;
+    6. uzavření smlouvy o poskytnutí individuální neinvestiční dotace z rozpočtu města Brna na rok
+        2026 pro společnost Aeropolis s.r.o., IČO:02035707, sídlem: Mladkov 21, 679 01 Boskovice na
+        realizaci činnosti "Kino Scala v roce 2026" ve výši 200 tis. Kč.
+pověřit
+    vedoucí Odboru kultury MMB podpisem smlouvy o poskytnutí individuální neinvestiční dotace z
+    rozpočtu města Brna na rok 2026.
+ A.Pazderová        M.Marek       J.Drápalová     J.Kment        M.Lahoda     D.Struž        P.Šafařík
+      pro             pro          omluvena       zdržel se           pro       pro             pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 5, proti 0, zdržel se 1.
+
+
+12. Návrh na poskytnutí individuální investiční dotace z rozpočtu města Brna na zhotovení a
+umístění Poesiomatu v prostoru bývalé Velké synagogy v Brně – návrh smlouvy - návrh
+rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+    ­ poskytnutí individuální investiční dotace ve výši 200 tis. Kč z rozpočtu města Brna v roce 2026
+        spolku Piána na ulici z.s., se sídlem Za Vodou 242, Hylváty, 562 03 Ústí nad Orlicí, IČO 22826866
+        na zhotovení a umístění Poesiomatu v prostoru bývalé Velké synagogy v Brně;
+    ­ rozpočtové opatření dle tabulky, z důvodu poskytnutí individuální investiční dotace;
+    ­ uzavření smlouvy o poskytnutí individuální investiční dotace z rozpočtu města Brna mezi
+        statutárním městem Brnem a spolkem Piána na ulici z.s.
+pověřit
+    vedoucí Odboru kultury MMB podpisem smlouvy o poskytnutí individuální investiční dotace.
+ A.Pazderová      M.Marek        J.Drápalová       J.Kment       M.Lahoda        D.Struž        P.Šafařík
+      pro            pro          omluvena           proti          pro            pro             pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 5, proti 1, zdržel se 0.
+
+
+13. Zapojení Fondu rezerv a rozvoje v souvislosti s navýšením poskytnuté dotace spolku Divadlo
+Aldente, z.s. na celoroční činnost "Divadlo herců s Downovým syndromem" - návrh rozpočtového
+opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+    1. navýšení poskytnuté neinvestiční dvouleté dotace schválené usnesením Zastupitelstva města
+        Brna č. Z9/24 dne 25. 2. 2025, bod č. 33, pro spolek Divadlo Aldente, z.s., IČO: 22819380, sídlem:
+        Klatovská 424/22, Ponava, 602 00 Brno o částku 600 tis. Kč ze 350 tis. Kč na 950 tis. Kč v roce
+        2026, tj. na celkovou částku 1 300 tis. Kč v letech 2025-2026 na celoroční činnost "Divadlo herců
+        s Downovým syndromem";
+    2. rozpočtové opatření dle tabulky;
+    3. Dodatek č. 1 ke Smlouvě o poskytnutí dotace z rozpočtu města Brna v letech 2025-2026
+        uzavřené s Divadlem Aldente, z.s., IČO: 22819380, sídlem: Klatovská 424/22, Ponava, 602 00
+        Brno na celoroční činnost "Divadlo herců s Downovým syndromem".
+ A.Pazderová       M.Marek      J.Drápalová        J.Kment       M.Lahoda       D.Struž        P.Šafařík
+      pro             pro        omluvena             pro           pro            pro            pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+14. Návrh na změnu účelu neinvestičního příspěvku schváleného Národnímu divadlu Brno,
+příspěvkové organizaci, v roce 2026
+
+                                                                                                         7
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+    změnu účelu neinvestičního příspěvku schváleného Národnímu divadlu Brno, příspěvkové
+    organizaci, ve výši 1 800 tis. Kč z „Pokrytí DPH a souvisejících nákladů k památkové obnově MD –
+    fasáda a restaurování vstupních dveří do foyer“ na “ Pokrytí DPH a souvisejících nákladů k
+    památkové obnově Mahenova divadla", s termínem vyúčtování do 25.1.2027.
+ A.Pazderová       M.Marek        J.Drápalová      J.Kment        M.Lahoda       D.Struž     P.Šafařík
+      pro            pro           omluvena           pro            pro           pro          pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+15. Záměr svěření majetku města Brna k hospodaření Muzeu města Brna, příspěvkové organizaci,
+a zapojení Fondu rezerv a rozvoje v souvislosti se zajištěním Revitalizace interiéru a expozice
+Chleborádovy vily, návrh rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+    ­ poskytnutí investičního příspěvku Muzeu města Brna, příspěvkové organizaci, ve výši 3 000 tis.
+       Kč, a to na zajištění Revitalizace interiéru a expozice Chleborádovy vily - projektová dokumentace,
+       v roce 2026, s termínem vyúčtování do 25.1.2027;
+    ­ rozpočtové opatření dle tabulky
+ A.Pazderová      M.Marek        J.Drápalová        J.Kment      M.Lahoda         D.Struž       P.Šafařík
+     pro             pro          omluvena         zdržel se        pro             pro            pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 5, proti 0, zdržel se 1.
+
+
+16. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím účelového neinvestičního
+příspěvku Muzeu města Brna, příspěvkové organizaci, na oslavy 25. výročí zapsání vily Tugendhat
+na seznam UNESCO, v roce 2026 – návrh rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+    ­ poskytnutí účelového neinvestičního příspěvku Muzeu města Brna, příspěvkové organizaci, ve
+       výši 3 000 tis. Kč na zajištění oslav 25. výročí zapsání vily Tugendhat na seznam světového dědictví
+       UNESCO, v roce 2026, s termínem vyúčtování do 25. 01. 2027;
+    ­ rozpočtové opatření dle tabulky.
+ A.Pazderová      M.Marek         J.Drápalová       J.Kment        M.Lahoda        D.Struž     P.Šafařík
+     pro              pro          omluvena            pro             pro           pro          pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+17. Návrh na poskytnutí peněžitého daru Jihomoravskému kraji na podporu audiovize; návrh
+rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+   ­ poskytnutí peněžitého daru ve výši 8 000 000 Kč alokovaných v rozpočtu Odboru kultury MMB na
+        rok 2026 Jihomoravskému kraji, se sídlem Žerotínovo náměstí 449/3, Veveří, 602 00 Brno, IČO
+        70888337 za účelem podpory audiovize v roce 2026
+   ­ darovací smlouvu mezi statutárním městem Brnem jako dárcem a Jihomoravským krajem jako
+        obdarovaným na poskytnutí peněžitého daru ve výši 8 000 000 Kč
+   ­ rozpočtové opatření dle tabulky
+pověřit
+   vedoucí Odboru kultury MMB podpisem darovací smlouvy.
+
+
+
+
+                                                                                                         8
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda     D.Struž       P.Šafařík
+     pro             pro        omluvena           proti            pro         pro            pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 5, proti 1, zdržel se 0.
+
+
+18. Veřejná zakázka malého rozsahu „Navýšení CPU kapacity Clover ETL“ - výběr dodavatele a
+návrh smlouvy, návrh rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+       rozpočtové opatření dle tabulky, z důvodu zajištění úhrady výdajů veřejné zakázky malého
+       rozsahu „Navýšení CPU kapacity Clover ETL“
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda D.Struž    P.Šafařík
+     pro             pro        omluvena            pro             pro     pro         pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+19. Zapojení Fondu rezerv a rozvoje k financování kapitálových výdajů Odboru městské
+informatiky MMB, návrh rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+       schválit rozpočtové opatření dle tabulky z důvodu zajištění potřeb kapitálových výdajů Odboru
+       městské informatiky MMB.
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda   D.Struž       P.Šafařík
+     pro             pro        omluvena            pro             pro       pro            pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+20. Návrh na poskytnutí finančního daru spolku Městský sportovní klub Brno, z. s. na podporu
+brněnských olympioniků – sportovců seniorů pro rok 2026 – návrh rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+        1. poskytnutí finančního daru spolku Městský sportovní klub Brno, z. s., se sídlem Křídlovická
+           911/34, 603 00 Brno, IČO: 05471095 ve výši 500 000 Kč z rozpočtu města Brna na rok 2026
+           na podporu brněnských olympioniků – sportovců seniorů na rok 2026,
+        2. rozpočtové opatření dle tabulky, z důvodu přesunu finančních prostředků na příslušnou
+           položku,
+        3. uzavření Darovací smlouvy mezi statutárním městem Brnem jako dárcem a Městským
+           sportovním klubem Brno, z. s., se sídlem Křídlovická 911/34, 603 00 Brno, IČO: 05471095
+           jako obdarovaným,
+pověřit
+    vedoucího Odboru sportu Magistrátu města Brna podpisem této smlouvy.
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda    D.Struž        P.Šafařík
+      pro            pro        omluvena            pro             pro        pro             pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+21. Návrh na poskytnutí individuální neinvestiční dotace Vysokému učení technickému v Brně na
+zabezpečení provozu sportovního areálu Pod Palackého vrchem v rámci projektu Centrum
+brněnské atletiky pro rok 2026 – návrh rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+   1. poskytnutí individuální neinvestiční dotace Vysokému učení technickému v Brně, se sídlem
+       Antonínská 548/1, 602 00 Brno, IČO: 00216305 z rozpočtu města Brna na rok 2026 ve výši 600
+
+
+
+                                                                                                         9
+        000 Kč na zabezpečení provozu sportovního areálu Pod Palackého vrchem v rámci projektu
+        Centrum brněnské atletiky pro rok 2026;
+    2. rozpočtové opatření dle tabulky, z důvodu přesunu finančních prostředků na příslušnou položku;
+    3. uzavření veřejnoprávní smlouvy o poskytnutí individuální neinvestiční dotace z rozpočtu města
+        Brna;
+pověřit
+    vedoucího Odboru sportu Magistrátu města Brna podpisem této smlouvy.
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda   D.Struž       P.Šafařík
+      pro            pro        omluvena            pro             pro       pro            pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+22. Přesun běžných a kapitálových výdajů v rámci rozpočtu Odboru správy majetku MMB, návrh
+rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+       rozpočtové opatření dle tabulky, z důvodu nutnosti přesunu běžných a kapitálových výdajů v
+       rámci rozpočtu Odboru správy majetku MMB.
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda D.Struž     P.Šafařík
+     pro             pro        omluvena            pro             pro     pro          pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+23. Zapojení Fondu rezerv a rozvoje – návrh na poskytnutí investičních transferů městským
+částem a neinvestičního příspěvku Centru sociálních služeb, p.o. – návrh rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+    • poskytnutí neinvestičního příspěvku Centru sociálních služeb, příspěvkové organizaci, na zajištění
+        vybavení objektu Ptašínského 13 ve výši 1 500 tis. Kč s termínem vyúčtování do 31. 12. 2026;
+    • poskytnutí investičního transferu městské části Brno–Žabovřesky na modernizaci výtahu v
+        objektu sociálních služeb Horova 77, Brno, ve výši 600 tis. Kč s termínem vyúčtování do 31. 12.
+        2026;
+    • poskytnutí investičního transferu městské části Brno–Vinohrady na rekonstrukci prostor
+        chráněného bydlení v objektu Mikulovská 9 ve výši 2 500 tis. Kč s termínem vyúčtování do 31. 12.
+        2026;
+    • poskytnutí investičního transferu městské části Brno–střed, na provedení sanace vlhkosti zdiva v
+        objektu Václavská 15 ve výši 1 000 tis. Kč s termínem vyúčtování do 31. 12. 2026;
+    • rozpočtové opatření dle tabulky z důvodu zapojení Fondu rezerv a rozvoje.
+uložit
+    • Radě města Brna zajistit poukázání finančních prostředků městským částem až po předložení
+        smluvní dokumentace na realizaci akce.
+    T: dle usnesení
+ A.Pazderová      M.Marek       J.Drápalová       J.Kment        M.Lahoda      D.Struž      P.Šafařík
+      pro            pro         omluvena            pro            pro          pro           pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+24. Návrh na poskytnutí neinvestičních dotací na rok 2026 z Programu IV - Prevence kriminality -
+návrh rozpočtového opatření
+Body 24 – 26 byly hlasovány společně.
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+
+
+
+
+                                                                                                     10
+   ­   poskytnutí neinvestičních dotací na rok 2026 z Programu IV - Prevence kriminality v celkové výši
+       3 900 tis. Kč z rozpočtu města Brna na rok 2026 podle "Návrhu na poskytnutí neinvestičních dotací
+       z rozpočtu města Brna na rok 2026 Program IV - Prevence kriminality"
+    ­ uzavření smluv o poskytnutí neinvestiční dotace z rozpočtu města Brna na rok 2026 dle vzorové
+       "Smlouvy o poskytnutí neinvestiční dotace z rozpočtu města Brna na rok 2026"
+    ­ rozpočtové opatření dle tabulky z důvodu realizace Programu IV – Prevence kriminality v roce
+       2026
+ A.Pazderová       M.Marek      J.Drápalová      J.Kment         M.Lahoda    D.Struž        P.Šafařík
+     pro              pro        omluvena       zdržel se           pro        pro             pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 5, proti 0, zdržel se 1.
+
+
+25. Návrh na poskytnutí neinvestičních dotací na rok 2026 z Programu III - Aktivity v oblasti drog
+a závislostí - návrh rozpočtového opatření
+Body 24 – 26 byly hlasovány společně.
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+    ­ poskytnutí neinvestičních dotací na rok 2026 z Programu III - Aktivity v oblasti drog a závislostí v
+       celkové výši 6 000 tis. Kč z rozpočtu města Brna na rok 2026 dle "Návrhu na poskytnutí
+       neinvestičních dotací z rozpočtu města Brna na rok 2026 Program III - Aktivity v oblasti drog a
+       závislostí"
+    ­ uzavření smluv o poskytnutí neinvestičních dotací z rozpočtu města Brna na rok 2026 dle vzorové
+       "Smlouvy o poskytnutí neinvestiční dotace z rozpočtu města Brna na rok 2026"
+    ­ rozpočtové opatření dle tabulky z důvodu realizace Programu III - Aktivity v oblasti drog a
+       závislostí v roce 2026
+ A.Pazderová       M.Marek     J.Drápalová       J.Kment         M.Lahoda     D.Struž        P.Šafařík
+     pro              pro       omluvena        zdržel se           pro         pro             pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 5, proti 0, zdržel se 1.
+
+
+26. Návrh na poskytnutí neinvestičních dotací v rámci Programu V - Aktivity v oblasti
+národnostních menšin a etnik pro rok 2026 – návrh rozpočtového opatření
+Body 24 – 26 byly hlasovány společně.
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+    ­ rozpočtové opatření dle tabulky, z důvodu zapojení Fondu rezerv a rozvoje na navýšení finančních
+       prostředků o částku 229 tis. na dotační Program V - Aktivity v oblasti národnostních menšin a
+       etnik pro rok 2026
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda   D.Struž       P.Šafařík
+     pro             pro        omluvena        zdržel se           pro        pro            pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 5, proti 0, zdržel se 1.
+
+
+27. Návrh na poskytnutí neinvestičních dotací v rámci Programu II – Aktivity v sociální oblasti pro
+rok 2026 - návrh rozpočtového opatření
+Body 27 a 28 byly hlasovány společně.
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+   1. poskytnutí neinvestičních dotací nestátním neziskovým organizacím, které vhodným způsobem
+       navazují na sociální služby nebo je doplňují v celkové výši 10 mil. Kč z rozpočtu města Brna na rok
+       2026 uvedeným v tabulce „Návrh dotací Program II Aktivity v sociální oblasti pro rok 2026 dle
+       témat / abecedně NNO"
+
+
+
+                                                                                                       11
+    2. rozpočtové opatření dle tabulky spočívající v přesunu finančních prostředků v rozpočtu města
+        Brna na rok 2026, v souladu s rozpočtovou skladbou v závislosti na právní formě subjektů, kterým
+        je dotace poskytována
+    3. uzavření smluv o poskytnutí neinvestičních dotací schválených dle bodu 1. dle vzorové "Smlouvy
+        o poskytnutí neinvestiční dotace z rozpočtu města Brna“
+ A.Pazderová      M.Marek       J.Drápalová      J.Kment         M.Lahoda      D.Struž       P.Šafařík
+      pro            pro         omluvena           pro             pro          pro            pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+28. Návrh na poskytnutí finančních podílů z rozpočtu města Brna na projekty prevence kriminality
+v roce 2026 - návrh rozpočtového opatření
+Body 27 a 28 byly hlasovány společně.
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+    ­ projekty prevence kriminality s finančním podílem z rozpočtu města Brna – Odboru sociální péče
+        MMB v roce 2026 ve výši 504 tis. Kč podle "Přehledu financování projektů v roce 2026"
+    ­ poskytnutí neinvestičních příspěvků z rozpočtu města Brna zřízeným příspěvkovým organizacím
+        na projekty prevence kriminality v roce 2026 dle vzorového "Protokolu o poskytnutí finančního
+        podílu z rozpočtu města Brna - Odboru sociální péče MMB na projekt prevence kriminality v roce
+        2026" (dále jen protokol)
+            o 1. Zoo Brno a stanice zájmových činností, příspěvková organizace, ve výši 70 tis. Kč
+            o 2. DROM, romské středisko, ve výši 90 tis. Kč
+        s termínem vyúčtování do 31. 1. 2027
+    ­ poskytnutí finančního daru České republice - Krajskému ředitelství policie Jihomoravského kraje
+        ve výši 130 tis. Kč na dva projekty prevence kriminality v roce 2026 dle "Darovací smlouvy"
+    ­ rozpočtové opatření dle tabulky
+pověřit
+    vedoucího Odboru sociální péče Magistrátu města Brna podpisem protokolů a darovacích smluv.
+ A.Pazderová       M.Marek       J.Drápalová      J.Kment        M.Lahoda       D.Struž       P.Šafařík
+      pro             pro         omluvena           pro            pro           pro            pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+29. Návrh rozpočtového opatření v souvislosti s realizací nového modulu e-shopu městských
+služeb Brno iD – „Dotační portál MMB“
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+    ­ rozpočtové opatření dle tabulky v souvislosti s realizací nového modulu e-shopu městských
+       služeb Brno iD s názvem „Dotační portál MMB“.
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda D.Struž    P.Šafařík
+     pro             pro        omluvena            pro             pro     pro         pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+30. Návrh na poskytnutí neinvestičních příspěvků základním školám na zajištění projektu
+Primární prevence na základních školách – návrh rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+   • poskytnutí neinvestičních příspěvků v celkové výši 600 000 Kč z rozpočtu města Brna na rok 2026
+       základním školám na území města Brna na zajištění projektu Primární prevence na základních
+       školách dle tabulky „Návrh rozdělení neinvestičních příspěvků” s termínem vyúčtování do 31. 1.
+       2027,
+
+
+                                                                                                     12
+   •   rozpočtové opatření dle tabulky z důvodu poskytnutí neinvestičních příspěvků ZÁKLADNÍM
+       ŠKOLÁM na zajištění projektu Primární prevence na základních školách.
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda  D.Struž  P.Šafařík
+     pro             pro        omluvena            pro             pro      pro       pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+31. Návrh rozpočtového opatření - zapojení Fondu rezerv a rozvoje k financování kapitálových
+výdajů Odboru vodního a lesního hospodářství a zemědělství MMB v roce 2026
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+       schválit rozpočtové opatření dle tabulky z důvodu zajištění financování kapitálových výdajů
+       Odboru vodního a lesního hospodářství a zemědělství MMB
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda D.Struž      P.Šafařík
+     pro             pro        omluvena        zdržel se           pro     pro           pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 5, proti 0, zdržel se 1.
+
+
+32. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím individuální neinvestiční dotace
+Nadaci Partnerství, návrh rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+    ­ poskytnutí individuální neinvestiční dotace Nadaci Partnerství, se sídlem Údolní 567/33, 602 00
+        Brno, IČO: 45773521, ve výši 1.200 tis. Kč z rozpočtu města Brna na rok 2026 na projekt Brno
+        pro udržitelnou obnovu Ukrajiny 2026;
+    ­ rozpočtové opatření dle tabulky, z důvodu zapojení Fondu rezerv a rozvoje;
+    ­ smlouvu o poskytnutí individuální neinvestiční dotace Nadaci Partnerství, se sídlem Údolní
+        567/33, 602 00 Brno, IČO: 45773521, ve výši 1.200 tis. Kč z rozpočtu města Brna na rok 2026 na
+        projekt Brno pro udržitelnou obnovu Ukrajiny 2026;
+pověřit
+    ­ vedoucího Odboru životního prostředí MMB podpisem smlouvy;
+ A.Pazderová      M.Marek      J.Drápalová        J.Kment        M.Lahoda     D.Struž       P.Šafařík
+     pro             pro        omluvena            proti           pro          pro           pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 5, proti 1, zdržel se 0.
+
+
+33. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím účelových investičních transferů
+městským částem - návrh rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+   • poskytnutí účelového investičního transferu ve výši 3 700 tis. Kč městské části Brno-
+       Kohoutovice na realizaci akce VVZ Libušina třída 2 s tím, že městská část Brno-Kohoutovice tuto
+       částku vyúčtuje v termínu do 15.2.2027
+   • poskytnutí účelového investičního transferu ve výši 350 tis. Kč městské části Brno-Medlánky na
+       realizaci akce Park u Technologického parku s tím, že městská část Brno-Medlánky tuto částku
+       vyúčtuje v termínu do 15.2.2027
+   • rozpočtové opatření dle tabulky z důvodu poskytnutí účelových investičních transferů
+       městským částem
+uložit
+   • Radě města Brna zajistit poukázání finančních prostředků městským částem až po předložení
+       smluvní dokumentace na realizaci akce
+       T: dle usnesení
+
+
+
+
+                                                                                                    13
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda    D.Struž       P.Šafařík
+     pro             pro        omluvena            pro             pro        pro            pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+34. Návrh na změnu účelu využití části investičního příspěvku schváleného Veřejné zeleni města
+Brna, příspěvkové organizaci - návrh rozpočtového opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+    • změnu účelu využití části investičního příspěvku ve výši 1.151 tis. Kč schváleného v rozpočtu
+       města Brna na rok 2026 Veřejné zeleni města Brna, příspěvkové organizaci, z "Pulzní čistící
+       laserový systém" na:
+           o "Mobilní kompresor" ve výši 386 tis. Kč,
+           o "Přístroj na tlakovou injektáž" ve výši 575 tis. Kč,
+           o investiční akci ORG 1592 "Rekonstrukce dětského hřiště v parku Tyršův sad" ve výši 190
+               tis. Kč;
+       s termínem vyúčtování do 25.01.2027.
+    • rozpočtové opatření dle tabulky, z důvodu změny účelu využití části investičního příspěvku
+       Veřejné zeleni města Brna, příspěvkové organizaci
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda  D.Struž      P.Šafařík
+     pro             pro        omluvena            pro             pro      pro           pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+35. Zapojení Fondu Dáme na vás a Fondu rezerv a rozvoje v souvislosti s financováním projektů
+participativního rozpočtu, zajištění financování menstruačních potřeb na základních školách v
+Brně a cen do soutěží - návrh rozpočtových opatření
+Finanční výbor doporučuje Zastupitelstvu města Brna
+schválit
+    ­ prodloužení termínu vyúčtování neinvestičního transferu poskytnutého z rozpočtu města na rok
+        2025 městské části Brno-Žebětín na akci ORG 9380 „Obnova tradic Brněnska“ z 31. 12. 2026 na
+        31. 12. 2027
+    ­ poskytnutí účelového neinvestičního transferu: městské části Brno-Starý Lískovec ve výši 200 tis.
+        Kč na realizaci projektu ORG 9380 „Obnova tradic Brněnska“,
+    ­ městské části Brno-Bohunice ve výši 400 tis. Kč na realizaci projektu ORG 9380 „Obnova tradic
+        Brněnska“,
+    ­ městské části Brno-Maloměřice a Obřany ve výši 500 tis. Kč na realizaci projektu ORG 9380
+        „Obnova tradic Brněnska“,
+    ­ městské části Brno-Královo Pole ve výši 300 tis. Kč na realizaci projektu ORG 9380 „Obnova tradic
+        Brněnska“,
+    ­ městské části Brno-Jundrov ve výši 600 tis. Kč na realizaci projektu ORG 9380 „Obnova tradic
+        Brněnska“,
+    s termínem vyúčtování do 31. 12. 2027
+    ­ rozpočtová opatření dle tabulek, z důvodu zajištění financování projektů participativního
+        rozpočtu.
+ A.Pazderová      M.Marek        J.Drápalová     J.Kment         M.Lahoda      D.Struž      P.Šafařík
+      pro            pro          omluvena          pro             pro          pro           pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+36. Informativní zpráva - Schválené rozpočty na rok 2026 příspěvkových organizací zřízených
+městem Brnem
+Finanční výbor
+bere na vědomí
+
+                                                                                                       14
+       Informativní zprávu - Schválené rozpočty na rok 2026 příspěvkových organizací zřízených městem
+       Brnem
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda    D.Struž       P.Šafařík
+     pro             pro        omluvena            pro             pro        pro            pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+37. Informativní zpráva - Souhrnný rozpočet statutárního města Brna na rok 2026
+Finanční výbor
+bere na vědomí
+       Informativní zprávu - Souhrnný rozpočet statutárního města Brna na rok 2026
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda  D.Struž           P.Šafařík
+     pro             pro        omluvena            pro             pro      pro                pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+38. Meziroční vývoj daňových výnosů a plnění rozpočtu daňových výnosů za období leden - březen
+2026
+Finanční výbor
+bere na vědomí
+meziroční vývoj daňových výnosů a plnění rozpočtu daňových výnosů za období leden-březen 2026
+
+ A.Pazderová      M.Marek      J.Drápalová       J.Kment         M.Lahoda       D.Struž      P.Šafařík
+     pro             pro        omluvena            pro             pro           pro           pro
+Usnesení bylo přijato. Přítomno 6 členů: pro 6, proti 0, zdržel se 0.
+
+
+39. Různé
+Svolání příštího Finančního výboru ZMB
+Předsedkyně Finančního výboru ZMB svolává 34. zasedání Finančního výboru ZMB na 13. 05. 2026 od
+13:00 do zasedací místnosti Klubu ZMB Mečová 5, Brno.
+
+
+Jednání Finančního výboru ZMB bylo zahájeno ve 13:00 hodin a ukončeno ve 13:38 hodin.
+
+
+
+ Ing.      Digitálně podepsal
+           Ing. Andrea
+ Andrea    Pazderová
+                                                                  Zapsal:Mgr. Martin Rosický, 08.04.2026
+           Datum: 2026.04.09
+ Pazderová 12:42:10 +02'00'                                                 Ověřila:Ing. Andrea Pazderová
+
+
+
+
+                                                                                                         15
+

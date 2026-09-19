@@ -1,0 +1,289 @@
+Rada města Brna
+
+Z9/34. zasedání Zastupitelstva města Brna
+konané dne 14.4.2026
+
+
+
+    27. Zapojení Fondu rezerv a rozvoje k financování kapitálových
+    výdajů Odboru městské informatiky MMB, návrh rozpočtového
+                              opatření
+
+Anotace
+Tímto rozpočtovým opatřením dojde k vykrytí potřeb roku 2026 na zajištění financování nových projektů,
+se kterými se při sestavování rozpočtu na rok 2026 nepočítalo. Jedná se o tyto projekty: Platforma pro
+správu AI asistentů, agentů a automatizovaných workflow, Přechod z DB platformy ORACLE na
+Microsoft SQL DB, Webový portál města Brna.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   rozpočtové opatření dle tabulky, která tvoří přílohu č. ... tohoto zápisu, z důvodu
+                               zajištění potřeb kapitálových výdajů Odboru městské informatiky MMB
+
+
+
+Stanoviska
+
+Finanční výbor ZMB projedná materiál na svém zasedání dne 8. 4. 2026.
+
+Rada města Brna projednala materiál na své schůzi R9/168 konané dne 18. 3. 2026 a doporučila
+Zastupitelstvu města Brna ke schválení.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. David Menšík
+  vedoucí odboru - Odbor městské informatiky
+  30.3.2026 v 12:16
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  30.3.2026 v 12:33
+
+
+
+
+Sestava vytvořena 30.3.2026 v 12:33                           1/1                               Vygenerováno programem eMMB
+
+
+                                                                                                                Strana 1 / 5
+                                  Obsah materiálu
+Návrh usnesení                                           1-1
+Obsah materiálu                                          2-2
+Důvodová zpráva                                          3-4
+Příloha k usnesení (03_RO_03_26_nove projekty_fin.pdf)   5-5
+
+
+
+
+                                                          Strana 2 / 5
+                                   Důvodová zpráva ZMB:
+
+Odbor městské informatiky MMB předkládá Radě města Brna návrh rozpočtového opatření, které
+řeší pokrytí aktuálních potřeb v oblasti kapitálových výdajů Odboru městské informatiky v objemu
+24,2 mil. Kč, a to zapojením prostředků Fondu rezerv a rozvoje.
+
+Tímto rozpočtovým opatřením dojde k vykrytí potřeb roku 2026 na zajištění financování nových
+projektů, se kterými se při sestavování rozpočtu na rok 2026 nepočítalo. Jedná se o tyto projekty:
+
+Platforma pro správu AI asistentů, agentů a automatizovaných workflow
+Webová prezentace města Brna www.brno.cz poskytuje rozsáhlé množství informací určených pro
+občany, návštěvníky i podnikatele. Jednou z klíčových sekcí je „Potřebuji vyřídit“, která obsahuje
+informace k vyřizování životních situací na úřadě. Uživatelé však často nedokážou tyto informace
+efektivně najít, což vede ke zvýšené zátěži pracovníků úřadu a prodlužování doby vyřizování.
+Zavedení automatizovaného řešení pomůže občanům s vyhledáváním informací a jejich orientací
+na webu, a sníží počet rutinních dotazů směřovaných na úřad.
+V případě interních procesů v rámci úřadu bude možné se zaměřit na opakující se rutinní operace,
+které mohou být automatizovány, a ušetřený čas může být využit ke zkvalitnění poskytovaných
+služeb.
+Nově pořizovaná technologie bude sloužit jako jednotná platforma pro všechny AI asistenty a
+automatizované procesy ve městě, a to:
+1. Pro AI asistenta (Chatbota) na webu brno.cz.
+2. Pro AI asistenty (Chatboty) na webech městských částí, které jsou umístěny na webové
+platformě města Brna (16 MČ).
+3. Pro interní pomocníky a automatizované procesy v rámci magistrátu (například digitální vrátný,
+telefonní asistent nebo další úlohy podle potřeb města).
+Platforma je navržena tak, aby byla bezpečná, přehledně řízená a plně v souladu s legislativou
+včetně evropského aktu o umělé inteligenci. Její velkou výhodou je flexibilita – město ji může využít
+nejen pro nyní známé případy, ale také pro nové požadavky, které v budoucnu přinesou potřeby
+úřadu nebo občanů. Díky tomu nebude nutné pořizovat další samostatná řešení a investice se lépe
+zhodnotí.
+Předpokládané výdaje na investice v roce 2026 činí 2 479 338,85 Kč bez DPH tj. 3 000 000 Kč
+včetně DPH.
+
+Přechod z DB platformy ORACLE na Microsoft SQL DB
+Vzhledem k cenové politice ORACLE dochází k růstu nákladů na provoz DB platformy na bázi
+technologií ORACLE. Další náklady vznikají díky omezenému počtu technických specialistů, kteří
+navyšují svoje ceny za služby. Dodavatelé pro MMB významných AISů, jakými jsou elektronická
+spisová služba, GINIS, prostředí GISu a další přecházejí na jiné platformy, především MS SQL.
+Prostředí MS SQL je v současnosti robustní a zároveň i flexibilní platformou pro provoz rozsáhlých
+IS s velkými objemy dat. Výhodnost tohoto postupu byla také předmětem analýzy prostředí ICT
+MMB pro provoz aplikací, která tento postup posuzovala a doporučila.
+Důvodem pro opuštění platformy ORACLE je tedy hlavně tlak dodavatelů IS na efektivnější využití
+infrastrukturních zdrojů, nad nimž jsou aplikace provozovány a ekonomika provozu aplikací.
+Náklady na maintenance licencí ORACLE jsou každoročně kolem 7,5 mil. Kč včetně DPH, přičemž
+díky cenové politice vlastníka licencí ORACLE dochází ke každoročnímu několika procentnímu
+nárustu výsledné ceny v řádu stovek tisíc korun. Nic nenaznačuje tomu, že by se tento trend měl
+změnit.
+Přechodem na platformu MS SQL dojde v horizontu 3 let k úspoře minimálně v rozsahu 5 milionů
+za využití licencí. Jde o cenový odhad z aktuálního ceníku, v rámci VZ, která využívá centrální
+smlouvy mezi MV ČR a Microsoft CZ jsou pravděpodobné další úspory.
+Níže uvádíme náklady na pořízení licencí MS SQL a provoz prostředí v prvních třech letech podle
+sizingu aplikací, provozovaných dosud na platformě ORACLE:
+
+Přechod z ORACLE na Microsoft SQL         11 715 251,04 Kč bez DPH tj. 14 175 453,76 Kč vč. DPH
+Přechod z ORACLE - HW                       5 220 720,00 Kč bez DPH tj. 6 317 071,20 Kč vč. DPH
+Support                                       565 908,00 Kč bez DPH tj. 684 748,68 Kč vč. DPH
+Zálohování                                  1 208 750,00 Kč bez DPH tj. 1 462 587,50 Kč vč. DPH
+
+
+
+
+                                                                                                 Strana 3 / 5
+      Webový portál města Brna
+      Na základě výstupů platné verze informační strategie vznikl požadavek na řešení webového portálu
+      služeb, prostřednictvím kterého by občané a návštěvníci města Brna mohli komunikovat s úřadem
+      při řešení svých životních situací. Webový portál umožní po elektronické identifikaci občana přes
+      NIA poskytovat personalizované a transakční služby (odesílání digitálních podání, platba poplatku).
+      Občan tak vyřídí digitálně stejné úkony, které dříve vyřizoval fyzicky nebo v papírové formě.
+      Pro vlastní realizaci tohoto záměru byla využita možnost implementace portálu v rámci rozvoje
+      webové platformy města Brna. Výhodou je, že současný dodavatel webové platformy města má již
+      detailní znalost technické architektury, integračních vazeb i požadavků MMB.
+      V roce 2025 byly zahájeny přípravné práce za účasti zástupců dotčených odborů MMB a zástupců
+      MČ, kteří se podíleli na přípravě zadání, výběru agend i procesní analýze služeb vybraných pro
+      první fázi projektu.
+      Na základě zadání vypracovala dodavatelská firma nabídku, která byla předmětem jednání k
+      upřesnění rozsahu prací v první fázi projektu. Z výsledku těchto jednání byla stanovena pracnost
+      první fáze projektu včetně finančního vyjádření. Předpokládané výdaje v roce 2026 činí 8 264
+      462,81 Kč bez DPH tj. 10 000 000 Kč včetně DPH.
+
+      Cena celkem za všechny projekty: 29 454 430,70 Kč bez DPH tj. 35 639 861,14 Kč vč. DPH
+
+      Při realizaci nových projektů získá Odbor městské informatiky MMB úsporu ve výši cca 7,5 mil. Kč,
+      neboť nebude třeba uzavírat novou roční smlouvu na pořizování produktů Oracle a dále 4 mil. Kč
+      určených k zajištění dalších služeb. Ze schváleného rozpočtu Odboru městské informatiky MMB
+      pro rok 2026 by tedy po schválení rozpočtového opatření šlo využít celkem 11,5 mil. Kč.
+
+      Po odečtení prostředků, které mohou být využity ze stávajícího rozpočtu Odboru městské
+      informatiky, je nutné rozpočet Odboru městské informatiky navýšit o 24,2 mil. Kč.
+
+      Porada vedení města Brna projednala tento návrh dne 04.03.2026 a souhlasí se zapojením Fondu
+      rezerv a rozvoje k vykrytí potřeb roku 2026 na navýšení finančních prostředků v rozpočtu Odboru
+      městské informatiky o 24,2 mil. Kč.
+
+      Navržené rozpočtové opatření je uvedeno v příloze materiálu.
+
+      Materiál nepodléhá projednání v komisích RMB.
+
+      Finanční výbor ZMB projedná materiál na svém zasedání dne 8. 4. 2026.
+
+  Rada města Brna projednala materiál na své schůzi R9/168 konané dne 18. 3. 2026 a doporučila
+  ZMB ke schválení.
+
+
+      Schváleno jednomyslně 8 členy.
+                                                                                 Kratochv
+
+
+                                                                                 Matonoh
+Vaňková
+
+
+
+
+                                         Podivins
+
+
+
+
+                                                            Bořecký
+
+                                                                       Bořecký
+                     Chvátal
+
+
+
+                               Kerndl
+                     RNDr.
+           Černý
+JUDr.
+
+
+
+
+                               JUDr.
+
+
+
+
+                                                                                 JUDr.
+
+
+
+                                                                                                JUDr.
+                     Ph.D.
+
+
+
+
+                                                    Aberl
+
+
+
+
+                                                                                                Oliva
+                                                            arch.
+           Mgr.
+
+
+
+
+                                         Ing.
+
+
+
+
+                                                            Ing.
+
+
+
+
+                                                                                 Ing.
+
+
+
+
+                                                                                 ová
+                                                    Bc.
+                                         ká
+
+
+
+
+                                                                                 íl
+
+
+
+
+---        pro       pro       pro      pro         ---     pro       pro        ---   pro      pro
+
+
+
+
+                                                                                                        Strana 4 / 5
+                                                                              Rozpočtové opatření
+                                                                                                                                                                  v tis. Kč
+Běžné a kapitálové výdaje - zvýšení
+   ORJ       §          pol.     ÚZ   ORG                                        Věcná náplň                              Upr. rozpočet           Úprava        Rozpočet
+                                                                                                                          k 11.03.2026          rozpočtu + -    po změně
+
+    5300    6171          5168               Zpracování dat a služby souv. s informačními a komunikačními technologiemi              178 910          -11 500           167 410
+                                      6077   ve j.n.: Údržba a služby - Technická podpora produktů Oracle                              9 850           -7 500             2 350
+                                      6086   ve j.n.: Legislativní a technické upgrade a ostatní služby                               13 316           -4 000             9 316
+    5300    6171          6111        3476   OMI - Informační systém                                                                  53 421           29 400            82 821
+    5300    6171          6125        3476   OMI - Informační systém                                                                  10 684            6 300            16 984
+
+
+
+
+Financování - zvýšení
+   ORJ       §          pol.     ÚZ   ORG                                        Věcná náplň                              Upr. rozpočet           Úprava        Rozpočet
+                                                                                                                          k 11.03.2026          rozpočtu + -    po změně
+    1700                  8115               Zapojení Fondu rezerv a rozvoje - rezerva k vykrytí potřeb roku 2026                    -186 000          24 200          -161 800
+
+
+
+
+                                                                                                                                                                Strana 5 / 5
+

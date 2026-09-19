@@ -1,0 +1,127 @@
+Rada města Brna
+
+Z9/10. zasedání Zastupitelstva města Brna
+konané dne 10.10.2023
+
+
+
+     22. Navýšení rozpočtu příjmů a přesun běžných a kapitálových
+      výdajů v rámci rozpočtu Odboru správy majetku MMB, návrh
+                         rozpočtového opatření
+
+Anotace
+Odbor správy majetku MMB (dále jen "OSM") předkládá orgánům města Brna návrh rozpočtového
+opatření, jehož předmětem je navýšení příjmů a dále přesun běžných a kapitálových výdajů v rámci
+rozpočtu OSM, z důvodu pokrytí výdajů na položkách rozpočtu Odboru správy majetku MMB.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   rozpočtové opatření dle tabulky, která tvoří přílohu č. ...... tohoto zápisu, z důvodu
+                               nutnosti navýšení rozpočtu příjmů a přesunu běžných a kapitálových výdajů v rámci
+                               rozpočtu Odboru správy majetku MMB.
+
+
+Stanoviska
+
+Rada města Brna projedná materiál na své schůzi č. R9/051 dne 4.10.2023. Finanční výbor bude
+věc projednávat dne 4.10.2023.
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Richard Elleder
+  vedoucí odboru - Odbor správy majetku
+  3.10.2023 v 12:55
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Pavel Blažík
+  vedoucí úseku - 3. úsek
+  3.10.2023 v 10:15
+
+
+
+
+Sestava vytvořena 3.10.2023 v 12:55                           1/1                              Vygenerováno programem eMMB
+
+
+                                                                                                               Strana 1 / 4
+                                Obsah materiálu
+Návrh usnesení                                    1-1
+Obsah materiálu                                   2-2
+Důvodová zpráva                                   3-3
+Příloha k usnesení (RO_BV_KV_OSM.pdf)             4-4
+
+
+
+
+                                                   Strana 2 / 4
+                                    Důvodová zpráva:
+
+Odbor správy majetku MMB (dále jen „OSM“), předkládá orgánům města Brna návrh
+rozpočtového opatření, jehož předmětem je přesun finančních prostředků v rámci rozpočtu
+běžných a kapitálových výdajů Odboru správy majetku MMB.
+
+Jde o přesun částky ve výši 787 tis. Kč z § 6171, pol. 5152 teplo v objektech MMB na:
+    - 320 tis. Kč na § 6211, pol. 5152 teplo,
+    - 107 tis. Kč na § 6211. pol. 5171,
+    - 360 tis. Kč § 4341, pol. 5153 plyn.
+
+Dále jde o přesun částky ve výši 500 tis. Kč z § 6171, pol. 6121 ORG 2130 Dominikánské
+náměstí – výtah na § 6171, pol. 6122, ORG 3003 Nestavební investice OSM z důvodu pokrytí
+finančních prostředků na pořízení akustických závěsů do sálu RMB.
+
+Dále jde o navýšení rozpočtu na straně příjmů z důvodu zabezpečení finančních prostředků na
+pokrytí záloh za teplo (rozpočtová položka 5152), a to:
+   - 1.600 tis. Kč na § 3612, pol. 2324
+   - 2.350 tis. Kč na § 3612. pol. 2324.
+
+V rozpočtu OSM nejsou na výše uvedené výdaje alokovány dostatečné finanční prostředky,
+proto OSM předkládá tabulku rozpočtového opatření, které je nezbytně nutné k zajištění
+finančních prostředků na úhradu výše uvedených běžných a kapitálových výdajů v objektech
+ve správě OSM.
+
+Materiál nepodléhá projednání v komisích RMB.
+
+Rada města Brna projedná materiál na své schůzi č. R9/051 dne 4.10.2023. Finanční výbor bude
+věc projednávat dne 4.10.2023.
+
+
+
+
+                                                                                         Strana 3 / 4
+                                               Rozpočtové opatření
+                                                                                                                     v tis. Kč
+Příjmy - zvýšení
+  ORJ         §      Položka   ÚZ     ORG                  Věcná náplň                 Upr. rozpočet    Úprava       Rozpočet
+                                                                                       k 25.09.2023   rozpočtu + -   po změně
+    6600      3612      2324                Přijaté neinvestiční příspěvky a náhrady           44 200        1 600        45 800
+    6600      3613      2324                Přijaté neinvestiční příspěvky a náhrady           19 700        2 350        22 050
+
+
+Běžné a kapitálové výdaje - zvýšení
+  ORJ         §      Položka     ÚZ   ORG                  Věcná náplň                 Upr. rozpočet    Úprava       Rozpočet
+                                                                                       k 25.09.2023   rozpočtu + -   po změně
+    6600      6171      5152           7600 Teplo                                              32 430         -787        31 643
+    6600      6211      5152           7660 Teplo                                               1 215          320         1 535
+    6600      6211      5171           7660 Opravy a udržování                                    332          107           439
+    6600      4341      5153           7660 Plyn                                                2 079          360         2 439
+    6600      3612      5152           7660 Teplo                                              30 400        1 600        32 000
+    6600      3613      5152           7660 Teplo                                              14 845        2 350        17 195
+    6600      6171      6121           2130 Dominikánské náměstí 3 - výtah                      3 000         -500         2 500
+    6600      6171      6122           3003 Nestavební investice OSM                              750          500         1 250
+
+
+
+
+                                                                                                                                 Strana 4 / 4
+

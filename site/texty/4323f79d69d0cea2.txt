@@ -1,0 +1,205 @@
+Rada města Brna
+
+Z9/12. zasedání Zastupitelstva města Brna
+konané dne 14.11.2023
+
+
+
+   17. Návrh rozpočtového opatření - Aktualizace očekávaného
+čerpání rozpočtu kapitálových výdajů Odboru městské informatiky
+                       MMB v roce 2023
+
+Anotace
+Důvodem návrhu rozpočtového opatření je nevyčerpání finančních prostředků určených na realizaci
+veřejné zakázky „Řízení a zajištění bezpečného přístupu koncových zařízení do síťové infrastruktury
+Magistrátu města Brna“ ve výši 7.919.000 Kč, veřejné zakázky na posílení infrastruktury pro VMware
+HORIZON ve výši 3.000.000 Kč a veřejné zakázky na posílení infrastruktury GIS – v procesu upřesňování
+požadavků na infrastrukturu pro brněnskou aplikaci ve výši 2.000.000 Kč.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje                   rozpočtové opatření dle tabulky na základě aktualizace očekávaného čerpání
+                               rozpočtu kapitálových výdajů Odboru městské informatiky MMB v roce 2023, která
+                               tvoří přílohu č. ... zápisu
+
+
+Stanoviska
+
+Finanční výbor ZMB projedná materiál 8. 11. 2023.
+Rada města Brna projednala materiál na své schůzi R9/057 konané dne 1. 11. 2023 a doporučila
+ZMB ke schválení.
+
+
+
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. David Menšík
+  vedoucí odboru - Odbor městské informatiky
+  6.11.2023 v 14:38
+  Garance správnosti, zákonnosti materiálu
+
+
+
+
+Sestava vytvořena 6.11.2023 v 14:51                        1/2                            Vygenerováno programem eMMB
+
+
+                                                                                                          Strana 1 / 5
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  6.11.2023 v 14:51
+
+
+
+
+Sestava vytvořena 6.11.2023 v 14:51   2/2   Vygenerováno programem eMMB
+
+
+                                                            Strana 2 / 5
+                                 Obsah materiálu
+Návrh usnesení                                        1-2
+Obsah materiálu                                       3-3
+Důvodová zpráva                                       4-4
+Příloha k usnesení (Převod do NR 2024_RO_10_25.pdf)   5-5
+
+
+
+
+                                                       Strana 3 / 5
+                                             Důvodová zpráva:
+
+Odbor městské informatiky MMB (dále jen „OMI“), předkládá orgánům města Brna návrh rozpočtového
+opatření, jehož předmětem je návrh na aktualizaci rozpočtu kapitálových výdajů Odboru městské
+informatiky MMB v roce 2023.
+
+Důvodem návrhu rozpočtového opatření je nevyčerpání finančních prostředků určených na realizaci
+veřejné zakázky „Řízení a zajištění bezpečného přístupu koncových zařízení do síťové infrastruktury
+Magistrátu města Brna“ ve výši 7.919.000 Kč z rozpočtu Odboru městské informatiky na rok 2023.
+Předpokládané finální předání díla dle uzavřené smlouvy očekáváme na sklonku roku 2023 s následným
+zkušebním provozem. Termín fakturace bude proto posunut na leden 2024.
+
+Projekt přípravy a realizace veřejné zakázky jejímž předmětem je zasíťování Staré radnice se posunul
+z důvodu jednání s dotčenými úřady (Stavební úřad a Národní památkový úřad). Předpokládaná
+fakturace ve výši 10.000.000 Kč bude možná teprve v průběhu roku 2024.
+
+K nevyčerpání finančních prostředků určených na realizaci veřejné zakázky na posílení infrastruktury
+pro VMware HORIZON (navýšení uživatelů pro vzdálenou práci – home office) ve výši 3.000.000 Kč
+a veřejné zakázky na posílení infrastruktury GIS – v procesu upřesňování požadavků na infrastrukturu
+pro brněnskou aplikaci ve výši 2.000.000 Kč došlo z důvodu časové náročnosti zadávacího řízení a
+prodloužení doby přípravy a následně realizace veřejných zakázek.
+
+Na základě očekávaného nedočerpání rozpočtu kapitálových výdajů roku 2023 Odbor městské
+informatiky MMB předkládá tabulku rozpočtového opatření.
+
+Materiál nepodléhá projednání v komisích Rady města Brna.
+
+
+Finanční výbor ZMB projedná materiál 8. 11. 2023.
+
+
+Rada města Brna projednala materiál na své schůzi R9/057 konané dne 1. 11. 2023 a doporučila ZMB
+ke schválení.
+
+Schváleno jednomyslně 10 členy.
+                                                                                              Matonohová
+                                     Podivinská
+
+
+
+
+                                                                                 Kratochvíl
+                                                          Ing. arch.
+  Vaňková
+
+
+
+
+                                                          Bořecký
+
+
+                                                                       Chvátal
+                            Kerndl
+                    Suchý
+
+
+
+
+                                                                       RNDr.
+            Černý
+  JUDr.
+
+
+
+
+                            JUDr.
+
+
+
+
+                                                                                              JUDr.
+
+
+                                                                                                           JUDr.
+                                                                       Ph.D.
+                                                  Aberl
+
+
+
+
+                                                                                                           Oliva
+            Mgr.
+
+
+
+                    Mgr.
+
+
+
+
+                                     Ing.
+
+
+
+
+                                                                                 Ing.
+                                                  Bc.
+
+
+
+
+    pro      pro    pro       ---     pro          pro     pro          pro       pro          pro         pro
+
+
+
+
+                                                                                                                   Strana 4 / 5
+                                                           Rozpočtové opatření
+                                                                                                                                     v tis. Kč
+Kapitálové výdaje - snížení
+ ORJ      §     pol.     ÚZ   ORG                               Věcná náplň                       Upr. rozpočet      Úprava         Rozpočet
+                                                                                                  k 25.10.2023     rozpočtu + -     po změně
+   5300 6171      6111          3476 OMI - informační systém                                                61 165      -15 000          46 165
+   5300 6171      6111          2259 Kybernetická bezpečnost                                                16 543       -7 919           8 624
+Financování - snížení
+ ORJ     §       pol.  ÚZ     ORG                               Věcná náplň                       Upr. rozpočet        Úprava       Rozpočet
+                                                                                                  k 25.10.2023       rozpočtu + -   po změně
+                                     Tvorba rezervy na základě očekávaného nedočerpání rozpočtu
+  1700           8115                kapitálových výdajů roku 2023 - k využití v roce 2024               2 261 729         -6 822       2 254 907
+
+
+
+
+                                                                                                                                    Strana 5 / 5
+

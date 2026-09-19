@@ -1,0 +1,128 @@
+Zpracování a ochrana osobních údajů | Brno - nejlepší adresa
+Podporovatelé
+Program
+Kandidátka
+Podcast
+Události
+Cesta časem
+Cesta časem
+Zpracování a ochrana osobních údajů
+Zásady ochrany osobních údajů
+Informační memorandum pro volební kampaň „Brno – nejlepší adresa“
+Účinnost od: 26. května 2026
+Tímto dokumentem Vám jako
+Správce osobních údajů
+poskytujeme informace o tom, jakým způsobem, v jakém rozsahu a za jakými účely zpracováváme Vaše osobní údaje při návštěvě a používání volebního webu
+https://www.brnonejlepsiadresa.cz/
+, který slouží k prezentaci volebního programu, kandidátů a aktivit v rámci volební kampaně.
+Vaše osobní údaje zpracováváme plně v souladu s Nařízením Evropského parlamentu a Rady (EU) 2016/679 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů (dále jen „
+GDPR
+“) a zákonem č. 110/2019 Sb., o zpracování osobních údajů.
+1. Totožnost a kontaktní údaje správce
+Politická strana / Správce:
+Občanská demokratická strana (ODS)
+Hlavní kancelář: Truhlářská 1106/9, Nové Město, 110 00 Praha 1
+IČO: 00409537
+Příslušná organizační složka:
+Oblastní sdružení ODS Brno-město
+Malinovksého nám. 4, 602 00 Brno
+Kontaktní e-mail pro GDPR:
+gdpr@ods.cz
+/
+brno@ods.cz
+Webová adresa kampaně:
+https://www.brnonejlepsiadresa.cz/
+2. Účely, právní základy a doba zpracování údajů
+Rozsah a doba zpracování Vašich údajů závisí na tom, jakým způsobem s naším webem interagujete. Osobní údaje zpracováváme pro následující účely:
+A. Provoz webových stránek, zabezpečení a analytika (Cookies)
+Popis:
+Při návštěvě webu se automaticky ukládají technické logy (např. IP adresa, typ prohlížeče) za účelem zajištění stability a bezpečnosti webu. Dále na základě Vašeho souhlasu využíváme analytické nástroje (např. Google Analytics) ke sledování návštěvnosti.
+Právní základ:
+Oprávněný zájem správce na bezpečném provozu webu (čl. 6 odst. 1 písm. f) GDPR) pro nezbytné cookies; Souhlas (čl. 6 odst. 1 písm. a) GDPR) pro analytické a marketingové cookies udělený prostřednictvím cookie lišty.
+Doba uchování:
+Po dobu relace nebo podle nastavení konkrétních typů cookies (zpravidla několik dní až měsíců, maximálně však 2 roky).
+B. Kontaktní formulář a komunikace s veřejností
+Popis:
+Pokud nás kontaktujete prostřednictvím formuláře na webu nebo e-mailem, zpracováváme Vaše identifikační a kontaktní údaje za účelem vyřízení Vašeho dotazu, podnětu či připomínky ke kampani.
+Zpracovávané údaje:
+Jméno, příjmení, e-mailová adresa, telefonní číslo (pokud je uvedeno) a text Vaší zprávy.
+Právní základ:
+Oprávněný zájem správce na komunikaci s voliči a veřejností a odpovídání na dotazy (čl. 6 odst. 1 písm. f) GDPR).
+Doba uchování:
+Po dobu nezbytnou k vyřízení dotazu, nejdéle však po dobu trvání příslušné volební kampaně a 6 měsíců po jejím skončení.
+C. Odběr novinek a zpravodaje kampaně (Newsletter)
+Popis:
+Pokud se na webu aktivně přihlásíte k odběru informací o kampani, budeme Vám zasílat aktuality, pozvánky na akce a volební materiály.
+Zpracovávané údaje:
+E-mailová adresa, případně jméno.
+Právní základ:
+Váš dobrovolný a výslovný souhlas se zpracováním osobních údajů (čl. 6 odst. 1 písm. a) GDPR).
+Doba uchování:
+Do odvolání Vašeho souhlasu, nejpozději však do ukončení a vyhodnocení předmětné volební kampaně. Z odběru se můžete kdykoliv odhlásit kliknutím na odkaz v každém zaslaném e-mailu.
+D. Zapojení dobrovolníků a podporovatelů
+Popis:
+Pokud se prostřednictvím webu registrujete jako dobrovolník (např. pro pomoc s distribucí materiálů, účast na kontaktní kampani apod.), zpracováváme Vaše údaje pro organizaci předvolebních aktivit.
+Zpracovávané údaje:
+Jméno, příjmení, e-mail, telefon, město/čtvrť působnosti, preferovaná forma pomoci.
+Právní základ:
+Plnění smlouvy / dohody o spolupráci resp. kroky směřující k ní (čl. 6 odst. 1 písm. b) GDPR).
+Doba uchování:
+Po dobu konání volební kampaně. Po skončení voleb budou údaje vymazány, ledaže vyjádříte zájem zůstat v kontaktu s ODS i pro budoucí aktivity.
+Důležité upozornění k politickým názorům (Zvláštní kategorie osobních údajů):
+Podle čl. 9 GDPR jsou politické názory považovány za citlivý osobní údaj. Samotné prohlížení našeho volebního webu o Vás tyto údaje neshromažďuje. Pokud se však aktivně přihlásíte k odběru newsletteru, vyjádříte nám podporu nebo se registrujete jako dobrovolník, berete na vědomí, že tím dáváte najevo své politické preference. Zpracování těchto údajů je v takovém případě legitimní na základě Vašeho výslovného souhlasu nebo v rámci oprávněné činnosti politické strany (čl. 9 odst. 2 písm. d) GDPR).
+3. Příjemci osobních údajů (Zpracovatelé)
+Vaše osobní údaje držíme v bezpečí uvnitř ODS. Pro zajištění specifických služeb (jako je hosting nebo rozesílání e-mailů) však využíváme prověřené externí dodavatele, kteří vystupují v roli zpracovatelů:
+Poskytovatel webhostingu a IT infrastruktury pro provoz webu,
+Členové volebního týmu a koordinátoři kampaně ODS Brno,
+Poskytovatelé analytických a marketingových nástrojů (např. Google Ireland Ltd. pro Google Analytics).
+Osobní údaje nepředáváme do třetích zemí mimo EU/EHP bez zajištění odpovídajících záruk.
+4. Vaše práva podle nařízení GDPR
+Jako subjekt údajů máte vůči Správci následující práva, která můžete uplatnit na e-mailu
+gdpr@ods.cz
+:
+Právo na přístup (čl. 15 GDPR):
+Máte právo vědět, zda a jaké Vaše osobní údaje zpracováváme.
+Právo na opravu (čl. 16 GDPR):
+Máte právo na opravu nepřesných či neúplných údajů.
+Právo na výmaz (čl. 17 GDPR):
+Máte právo požadovat výmaz Vašich údajů, pokud pominul účel nebo byl odvolán souhlas.
+Právo na omezení zpracování (čl. 18 GDPR):
+Právo na to, abychom v určitých případech omezili nakládání s Vašimi údaji.
+Právo na přenositelnost údajů (čl. 20 GDPR):
+Právo získat své údaje ve strukturovaném, běžně používaném formátu.
+Právo vznést námitku (čl. 21 GDPR):
+Právo vznést námitku proti zpracování na základě oprávněného zájmu.
+Právo odvolat souhlas:
+Možnost kdykoliv odvolat souhlas se zpracováním (u newsletteru či cookies).
+Máte rovněž právo podat stížnost u dozorového úřadu:
+Úřad pro ochranu osobních údajů (ÚOOÚ)
+Pplk. Sochora 27, 170 00 Praha 7
+Web:
+www.uoou.cz
+5. Zabezpečení dat
+Správce prohlašuje, že přijal veškerá vhodná technická a organizační opatření k zabezpečení osobních údajů. Webová stránka využívá šifrované spojení (protokol HTTPS). Přístup k osobním údajům je omezen pouze na pověřené osoby volebního týmu ODS, které jsou vázány mlčenlivostí.
+Chci odebírat novinky
+Nezmeškejte naše novinky. Přihlaste se k odběru a my vám zašleme pouze informace, které vás zajímají. Žádný zbytečný spam.
+Odeslat
+Odesláním souhlasíte se zpracováním osobních údajů za účelem volební kampaně ODS, TOP O9 a nezávislí. Máte právo svůj souhlas odvolat. Více informací v
+zásadách zpracování osobních údajů
+.
+Informace o cookies
+Zpracování a ochrana osobních údajů
+© 2026 Zadavatel/Zpracovatel:
+ODS
+Nastavení ukládaní cookies
+Používáme cookies k personalizaci obsahu a reklam, k umožnění funkcionalit sociálních sítí a k analýze provozu webových stránek. Informace o provozu a užívání webových stránek Vámi jsou sdíleny s našimi sociálními sítěmi, reklamními a analytickými partnery, kteří je mohou kombinovat s dalšími informacemi, které jste jim poskytli nebo které o Vás sesbírali při užívání jejich služeb.
+Povolit vše
+Vlastní
+Zavřít
+Vlastní nastavení cookies
+Nezbytné
+Nezbytné cookies jsou nutné k užívání základních funkcí webu jako navigace stránek, přístup k zabezpečeným částem stránek. Webové stránky nemohou řádně fungovat bez těchto cookies.
+Marketing
+Marketingové cookies slouží ke sledování navštěvníků mezi webovými stránkami. Účelem těchto cookies je zobrazení relevantních reklam, které jsou tak hodnotnější pro jednotlivé tvůrce reklam.
+Personalizace
+Personalizační cookies slouží k úpravě vzhledu a chování webové stránky, jako například preferovaný jazyk, region ve kterém jste.
+Analýza
+Analytické cookies slouží majitelům webových stránek k porozumění chování návštěvníků webu sběrem anonymizovaných dat.
+Uložit

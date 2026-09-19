@@ -1,0 +1,239 @@
+RNDr. Jiří Herman Ph.D.                                                             BRN
+                                                                                                 hl
+Z9/11. zasedání Zastupitelstva města Bma
+konané dne 18.10.2023
+
+
+
+   2. Projekt OHB II - linka K1 - poskytnutí informací od obchodní
+                   společnosti Teplárny Brno, a.s.
+
+Anotace
+Na základě usnesení zasedání Zastupitelstva města Bma č. Z9/10 konaného dne 10. 10. 2023 předkládá
+obchodní společnost Teplárny Brno, a.s. Zastupitelstvu města Bma požadované informace.
+
+Návrh usnesení
+Zastupitelstvo města Bma
+1. bere na vědomí informace podané obchodní společností Teplárny Brno, a.s. na základě výzvy dle
+                  usnesení zasedání Zastupitelstva města Bma č. Z9/10 konaného dne 10. 10. 2023,
+                  bod č. 7.
+
+
+
+
+Předkladatel
+  Elektronicky podepsáno
+  RNDr. Jiří Herman Ph.D.
+  eMMB - Teplárny Brno
+  13.10.2023 v 15:27
+  Garance správnosti, zákonnosti materiálu
+
+
+
+
+Sestava vytvořena 13.10.2023 v 15:27            1/1                            Vygenerováno programem eMMB
+
+
+                                                                                               Strana i / ň
+                                                        ~IoI
+
+
+                                Obsah materiálu
+Návrh usnesení                                         1 -1
+Obsah materiálu                                        2-2
+Pňloha (OHB II_cenové dopady zastupitelstvo MMB.pdf)   3-6
+
+
+
+
+                                                         Strana 2 / 6
+Na základě usnesení zasedání Zastupitelstva města Brna č. Z9/10 konaného dne 10. 10. 2023
+předkládáme Zastupitelstvu města Brna požadované informace.
+
+
+Reakce na dotaz ZMB:
+Informace o dopadech jednotlivých návrhů předložených koncernových pokynů na cenu tepla
+
+
+Při výpočtu se vycházelo z následujících základních předpokladů;
+
+      metodika stanovení dopadu do ceny tepla vychází z rozdílové analýzy dvou základních scénářů
+      s/bez kotle Kl. Výsledná změna, tj. navýšení/snížení v nákladech TB, je následně pro účely této
+      analýzy v plné míře přenesena do navýšení/snížení prodejní ceny tepla.
+
+      rozdílový stav nedodávky tepla v případě nerealizace kotle Kl je 300 tis. GJ. (pozn. současně se
+      sníží dodávky elektřiny ze SAKO do TB o 100 tis. MWh, tento efekt na straně TB je rovněž do
+      výpočtu zahrnut)
+
+      cenové vstupy použité v rozdílové analýze:
+              o   nákupní cena tepla ze SAKO (bez vlivu emisních povolenek)
+              o   nákupní cena tepla ze SAKO (vč. vlivu emisních povolenek)
+              o   nákupní cena zemního plynu
+              o   prodejní cena elektřiny
+              o   cena emisní povolenky
+              o   plánovaná prodejní cena tepla TB v roce 2027 (vč. DPH)
+
+
+      základní scénář zajištění dodatečných 300 tis. GJ při nerealizaci kotle Kl je s výrobou tepla na
+      provozu Špitálka (PŠ) s využitím spalování zemního plynu s odpovídajícím navýšením spotřeby
+      emisních povolenek.
+
+
+
+Výstup:
+          Varianta 1 (ukončení přípravy realizace projektu OHB*ll - linka Kl, provedení kontextuální
+          analýzy potřeb a aktualizace záměru realizace projektu OHBII)
+              >   Dopad tohoto koncernového pokynu do ceny tepla není možné v tuto chvíli posoudit
+                  z důvodů neznámého aktualizovaného záměru projektu OHB II.
+              >   Cenový scénář by měl být součástí kontextuální analýzy a bude vycházet              z
+                  aktualizovaného technického řešení včetně aktualizované obchodní bilance, zejména
+                  vyrobeného tepla/elektřiny ze zdroje SAKO. Lze však důvodně předpokládat, že
+                  negativní dopad do ceny tepla bude nižší než v případě Varianty 2.
+
+
+          Varianta 2 (ukončení přípravy realizace projektu OHB II - linka KÍ)
+              >   do roku 2030 je dodatečná výroba tepla ve výši 300 tis. GJ zajištěna na PŠ. Na straně
+                  finanční bilance TB dojde k:
+               >    po zohlednění uvedených vlivů je dopad do ceny tepla následující:
+                          ■ ve variantě bez emisních povolenekl^
+
+
+
+
+                          ■ ve variantě včetně emisních povolenek
+
+
+
+
+                    v situaci, kdy bude nižší dodávka ze SAKO vlivem nerealizace K1 zajištěna ze zdroje
+                    Dukovany, případně kombinací navýšení výroby tepla z PŠ, provozu Červený Mlýn
+                    (PČM) či provozu Brno-sever (PBS) BIO, dopad do ceny tepla bude vždy nižší, než ve
+                    výše popsaném scénáři s náhradou pouze na PŠ. Pakliže bude teplo dodané ze SAKO
+                    zatíženo náklady na pořízení emisních povolenek, může ve scénáři nahrazení ze zdroje
+                    Dukovany dojít k pozitivnímu dopadu, tj. snížení prodejní ceny tepla o cca. 3%.
+
+
+    •      Varianta 3 (realizace projektu OHBII - linka Kl)
+               >    v rámci srovnávací rozdílové analýzy cenových dopadů jednotlivých koncernových
+                    pokynů je pro tyto účely Varianta 3 považována za výchozí, vůči které se vymezuje
+                    Varianta 2. Základem je tak úroveň prodejní ceny tepla^^^č/GJ (vč. DPH), vycházející
+                    mj. z cenových předpokladů uvedených výše (cena ZP, cena povolenky, cena
+                    elektřiny).
+
+
+
+Shrnutí:
+           Dopad snížení dodávek tepla ze SAKO o 300 tis. GJ vlivem nerealizace kotle Kl nepředstavuje
+           pro koncové zákazníky TB zásadní riziko zvýšení ceny tepla v Brně. K tomu je třeba zdůraznit,
+           že případné navýšení ceny tepla ve výši dle této analýzy by mohlo být kompenzováno TB, a to
+           při zachování její ekonomické stability.
+           Současně platí, že snížení dodávek tepla ze SAKO neznamená automaticky navýšení prodejní
+           ceny v Brně. Za předpokladu, kdy cena projektu OHB II navyšuje cenu tepla z úrovně^B<č/GJ
+           na novou cenu^^^č/GJ a současně bude cena tepla ze SAKO v budoucnu zatížen^aklady
+           na emisní povolenky, nerealizace projektu se v konečné prodejní ceně Tepláren Brno projeví
+           jejím snížení. Ve scénáři náhrady ze zdroje Dukovany může dojít také ke snížení prodejní ceny
+           tepla.
+
+
+
+Reakce na dotaz ZMB:
+Informace oři jaké ceně plynu za IMWh ie vliv tepla dodaného ze SAKO Brno, a.s. ža                    č/GJ
+kladný.
+
+
+Výstupem je stanovení tzv. rovnovážné ceny, kdy jednotkové variabilní náklady na vyrobené teplo ze
+zemního plynu jsou stejné jako jednotkové náklady^^<č/GJ odpovídající nákupní ceně teple ze SAKO
+platné od 1.10. 2023. Tomuto odpovídá komoditní cena zemního plynu na úroynijB€/MWh.                    ' '
+Při položené otázce tak platí, že          pla dodaného ze SAKO Brno, a.s. z;     c/GJ Je kladný, pakliže
+cena zemního plynu je vyšší nej           :/MWh.
+
+Ve scénáři, kdy cena tepla dodaného ze SAKO Brno, a.s.
+emisních povolenek). Je taková rovnovážná cena zemního ^ynu
+
+
+
+
+Reakce na dotaz ZMB:
+Informace jak to vychází při dodávce 1 mil. GJ a při dodávce 1,3 mil. Kč.
+
+
+Máme za to, že odpověď na tento dotaz Je součástí odpovědi na dotaz k dopadům do ceny tepla pro
+jednotlivé koncernové pokyny, konkrétně vyčíslení dopadu ve Variantě 2.||
+
+
+
+
+Reakce na dotaz ZMB:
+Informace o dopadech realizace horkovodu z Dukovan ve vazbě na jednotlivé návrhy koncernových
+pokynů, vč. vyjádření, zda takový zdroj lze považovat za bezemisní
+
+Scénáře dopadů realizace horkovodu ve vazbě na Jednotlivé koncernové pokyny:
+Pro posouzení scénářů bylo vycházeno z následujících předpokladů:
+          v současné době Jsou všechny primární zdroje Tepláren Brno zdroji spalujícími zemní plyn
+          do soustavy SZTE je dodáváno také teplo ze SAKO Brno
+          po zprovoznění zdroje na spalování biomasy, bude od roku 2025 do soustavy SZTE dodáváno
+          teplo v kombinaci primárního paliva zemní plyn a biomasa
+          po zprovoznění napáječe z Dukovan bude od roku 2030 do soustavy SZTE dodáváno teplo
+          v kombinaci primárního paliva zemní plyn, biomasa a teplo z elektrárny Dukovany
+
+Scénáře dle pokynu 1 a 2 reprezentují rozdíl v ročních dodávkách tepla ve výši 300 tis. GJ.
+Vystup:
+    •     pokyn 1 (provedení analýzy, aktualizace záměru) - dodávka aktuálně neznámé výše,
+          potenciálně nedodávka až 300 tis. GJ/rok nad rámec stávající dodávky
+              >   dopady není možné v současnosti posoudit, posouzení bude možné zpracovat
+                  v rámci přípravy aktualizace záměru (výsledek analýzy bude podkladem pro výpočet)
+    •     pokyn 2 (ukončení záměru) - resp. nedodávka 300 tis. GJ/rok nad rámec stávající dodávky
+          tepla ze SAKO, tedy stávající stav:
+              >   dodávka tepla bude zajištěna z výrobních zdrojů Tepláren Brno a SAKO Brno
+              >   skladba zdrojů Tepláren Brno bude odpovídat skutečnému stavu dle aktuálního
+                    rozložení zdrojů tepla, a to:
+                          ■ do roku 2024 spalování zemního plynu
+                          ■ v letech 2025-2029 dodávkou ze zdrojů využívajících převážně zemní plyn a
+                            také biomasu
+                          ■ v letech 2030 a dále dodávkou z elektrárny Dukovany, ze zdrojů využívajících
+                            biomasu a také zemní plyn
+    •     pokyn 3 (realizace záměru) - resp. dodávka 300 tis. GJ/rok nad rámec stávající dodávky tepla
+          ze SAKO
+                                                                                                      V*
+
+              >   dodávka tepla bude zajištěna z výrobních zdrojů Tepláren Brno a SAKO Brno
+                                                                                                           \
+
+
+
+
+                                                                                                      Stranil 5 i
+            >   skladba zdrojů Tepláren Brno bude odpovídat skutečnému stavu dle aktuálního
+                rozložení zdrojů tepla, a to:
+                      ■ do roku 2024 spalování zemního plynu
+                      ■ v letech 2025-2029 dodávkou ze zdrojů využívajících převážně zemní plyn a
+                        také biomasu
+                      ■ v letech 2030 a dále dodávkou z elektrárny Dukovany, ze zdrojů využívajících
+                        biomasu a také zemní plyn
+
+Shrnutí:
+Dopad Jednotlivých variant koncernového pokynu nepředstavuje pro koncové zákazníky Tepláren
+Brno riziko nedodávek tepla v Brně. Řazení zdrojů tepla, jejich spouštění a požadovaný aktuální výkon,
+{zdroj SAKO Brno, jednotlivé zdroje Tepláren Brno a výhledově zdroje na biomasu i napáječe z Dukovan)
+bude řešeno na základě algoritmu vyhodnocení predikce klimatických podmínek, technických
+podmínek zdrojů a sítí ZTE a cen všech energetických vstupů a výstupů.
+Obecně platí, že z pohledu emisí (především C02), v situaci kompletní náhrady dodávky 300 tis. GJ
+tepla spalováním zemního plynu, bude emisní zátěž cca 20 tis tun C02/rok. Při využití dalších
+kombinací zdrojů, tedy zdrojů na biomasu a zdroje tepla z elektrárny Dukovany, budou emise C02
+produkované ve městě Brně ještě výrazně nižší.
+
+
+Bezemisnost jaderného zdroje:
+Elektrická a tepelná energie vyrobená v jaderných blocích je v současnosti v Evropské unii považována
+za bezemisní. Toto rozhodnutí vydala Evropská komise začátkem roku 2022 v takzvané taxonomii.
+Podmínkou je, že nové jaderné bloky musí získat stavební povolení nejpozději do roku 2045 a státy
+využívající jadernou energii budou muset mít od roku 2050 vybudována hlubinná úložiště vyhořelého
+paliva. Každé tři roky přitom bude moci Evropská komise na základě nových vědeckých poznatků
+pravidla přehodnotit a navrhnout změnu podmínek. Ve vztahu k projektu napáječe z EDU pak na území
+města Brna nebude C02 produkováno (ohřev vody probíhá v areálu EDU).
+
+
+
+
+                                                                                                   Strnna 6 / (i
+

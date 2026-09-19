@@ -1,0 +1,512 @@
+Rada města Brna
+
+Z9/08. zasedání Zastupitelstva města Brna
+konané dne 20.6.2023
+
+
+
+      80. Projekt "Pořízení nového softwarového, technického a
+  přístrojového vybavení pro další rozvoj digitalizace sbírky Muzeu
+  města Brna" – posouzení projektu, návrh rozpočtového opatření
+
+Anotace
+Posouzení projektu a návrh rozpočtového opatření na akci “Pořízení nového softwarového, technického a
+přístrojového vybavení pro další rozvoj digitalizace sbírky Muzeu města Brna“. Díky realizací projektu
+bude Muzeum města Brna disponovat širokým portfoliem technologických zařízení s poměrně velmi
+univerzální možností dokumentovat materiálově, velikostně a funkčně odlišné artefakty jednotlivých
+podsbírek. Dále vznikne nový webový informační portál. Celkové náklady akce se předpokládají ve výši
+3,1 mil. Kč, podpora z Národního pláni obnovu se odhaduje ve výši 2,6 mil. Kč, spolufinancování města
+Brna se předpokládá ve výši 539 tis. Kč. Nositelem projektu je Muzeum města Brna.
+
+Návrh usnesení
+Zastupitelstvo města Brna
+1. schvaluje
+                                      posouzení projektu “Pořízení nového softwarového, technického a
+                                      přístrojového vybavení pro další rozvoj digitalizace sbírky Muzeu města Brna“,
+                                      které tvoří přílohu č… tohoto zápisu
+                                      zařazení projektu ORG 5521 “Pořízení nového softwarového, technického a
+                                      přístrojového vybavení pro další rozvoj digitalizace sbírky Muzeu města Brna“,
+                                      s celkovými náklady ve výši 539 tis. Kč, z toho kapitálové výdaje ve výši 514
+                                      tis. Kč a běžné výdaje ve výši 25 tis. Kč s dobou realizace 2023 do rozpočtu
+                                      běžných a kapitálových výdajů města Brna
+                                      rozpočtové opatření dle tabulky za účelem realizace projektu ORG 5521
+                                      „Pořízení nového softwarového, technického a přístrojového vybavení pro
+                                      další rozvoj digitalizace sbírky Muzeu města Brna“, které tvoří přílohu č…
+                                      tohoto zápisu
+                                      poskytnutí investičního transferu z rozpočtu města Brna ve výši 514 tis. Kč
+                                      Muzeu města Brna, příspěvkové organizaci na projekt „Pořízení nového
+                                      softwarového, technického a přístrojového vybavení pro další rozvoj
+                                      digitalizace sbírky Muzeu města Brna“ s termínem vyúčtování do 30.6.2024
+                                      poskytnutí neinvestičního příspěvku z rozpočtu města Brna ve výši 25 tis. Kč
+                                      Muzeu města Brna, příspěvkové organizaci na projekt „Pořízení nového
+                                      softwarového, technického a přístrojového vybavení pro další rozvoj
+                                      digitalizace sbírky Muzeu města Brna“ s termínem vyúčtování do 30.6.2024
+
+
+
+Stanoviska
+
+Materiál byl předložen Radě města Brna na schůzi č. R9/037 konané dne 14. 6. 2023 a stanovisko
+bude sděleno.
+Materiál byl předložen na zasedání Finančního výboru Zastupitelstva města Brna konaném dne 14.
+
+
+Sestava vytvořena 13.6.2023 v 13:30                           1/2                             Vygenerováno programem eMMB
+
+
+                                                                                                              Strana 1 / 13
+6. 2023.
+
+
+Podpis zpracovatele pro archivaci
+
+
+
+
+Zpracovatel
+
+  Elektronicky podepsáno
+
+  Ing. Ivan Hloušek
+  vedoucí odboru - Odbor implementace evropských fondů
+  13.6.2023 v 10:24
+  Garance správnosti, zákonnosti materiálu
+
+Spolupodepisovatel
+
+  Elektronicky podepsáno
+
+  Mgr. Radek Řeřicha
+  vedoucí úseku - 4. úsek
+  13.6.2023 v 13:30
+
+
+
+
+Sestava vytvořena 13.6.2023 v 13:30                      2/2   Vygenerováno programem eMMB
+
+
+                                                                               Strana 2 / 13
+                                   Obsah materiálu
+Návrh usnesení                                        1-2
+Obsah materiálu                                       3-3
+Důvodová zpráva                                       4-4
+Příloha k usnesení (rozpočtové opatření.pdf)          5-5
+Příloha k usnesení (posouzení projektu.pdf)          6 - 13
+
+
+
+
+                                                        Strana 3 / 13
+                                          Důvodová zpráva
+
+Kolektivním orgánům města Brna je v souladu s Metodikou implementace projektů
+(spolu)financovatelných z evropských fondů a národních programů, předkládáno posouzení projektu a
+návrh rozpočtového opatření pro projekt „Pořízení nového softwarového, technického a
+přístrojového vybavení pro další rozvoj digitalizace sbírky Muzeu města Brna“.
+
+Cílem projektu je doplnit technologická zařízení digitalizačního pracoviště Muzeu města Brna, zajistit
+využití nového vybavení při stávajícím personálním zajištění a nastavení aktualizovaných pravidel
+procesu digitalizačního workflow zahrnující rutinní používání nově pořízených technologických zařízení
+a realizovat prezentační webový portál digitalizované sbírky Muzea města Brna rozšířením stávajícího
+SW MUSEION o příslušné moduly.
+
+Díky realizací projektu bude Muzeum města Brna disponovat širokým portfoliem technologických
+zařízení s poměrně velmi univerzální možností dokumentovat materiálově, velikostně a funkčně odlišné
+artefakty jednotlivých podsbírek. Dále vznikne nový webový informační portál, bude digitalizováno
+300 ks sbírkových předmětů nebo pomocných fondů z každého podsbírky (primárně výtvarná díla,
+obrazy, grafiky a plánová dokumentace). Celkem tedy bude vytvořeno v roce 2023 v provozním režimu
+1200 digitalizátů 2D předmětů rozměrnějších než formát A3 a dokumentů v knižní vazbě.
+Implementovaný veřejný portál počítá s prezentací těchto nově pořízených digitalizátů a daty ze
+stávajících digitalizačních kampaní MuMB – celkem nejméně 2500 záznamů. V dalších letech budou
+po optimalizaci všech kroků digitalizačního produkčního řetězce nastaveny pravidelné kvóty digitalizace
+sbírkových předmětů všech podsbírek MuMB.
+
+Na projekt byla podána žádost o dotaci prostřednictvím Národního plánu obnovy 4.5 Digitalizace
+kulturních statků a národních kulturních památek I. Žádost o podporu byla odevzdána k 31.10.2022.
+Ministerstvo kultury na svých webových stránkách https://www.mkcr.cz/digitalizace-kulturnich-statku-a-
+narodnich-kulturnich-pamatek-cs-2941 vyvěsilo výsledky dotačního řízení, kde byla Muzeu města Brna
+přislíbena dotace ve výši 2 565 000 Kč.
+
+Celkové náklady se předpokládají ve výši 3,1 mil. Kč Na základě předběžného rozhodnutí výběrové
+komise může projekt získat financování ve výši 2,6 mil. Kč, což představuje 100 % způsobilých výdajů
+projektu. Dofinancování z vlastních zdrojů je nutné pouze u položky DPH, která není v programu
+Národní plán obnovy uznatelným výdajem a Muzeum města Brna nemá v tomto případě nárok na
+odpočet DPH (hlavní činnost osvobozená od DPH).
+
+ Struktura předpokládaných výdajů projektu “Pořízení nového softwarového, technického a
+ přístrojového vybavení pro další rozvoj digitalizace sbírky Muzeu města Brna“ (včetně DPH)
+ Celkové výdaje projektu                                            3 104 000 Kč               100 %
+ Nezpůsobilé výdaje                                                   539 000 Kč                17 %
+ Způsobilé výdaje                                                   2 565 000 Kč                83 %
+ Dotace                                                             2 565 000 Kč                83 %
+ Kofinancování statutárního města Brna                                539 000 Kč                17 %
+
+
+
+Nositelem projektu v souladu s Metodikou implementace projektů (spolu)financovatelných
+z evropských fondů a národních programů je Muzeum města Brna, p. o.
+
+Žadatelem o dotaci je Muzeum města Brna, p. o.
+
+Stanoviska dotčených orgánů:
+Materiál byl předložen Radě města Brna na schůzi č. R9/037 konané dne 14. 6. 2023 a stanovisko
+bude sděleno.
+Materiál byl předložen na zasedání Finančního výboru Zastupitelstva města Brna konaném dne
+14. 6. 2023.
+Materiál nebyl z časových důvodů projednán v Komisi kulturní RMB
+                                                                                                   Strana 4 / 13
+                                                                     Rozpočtové opatření                                                                                           v tis. Kč
+Běžné a kapitálové výdaje - přesun
+ ORJ      §       Položka       ÚZ/ZJ   ORG                                               Věcná náplň                                           Upr. rozpočet     Úprava       Rozpočet
+                                                                                                                                                 k 31.5.2023    rozpočtu + -   po změně
+  5900   3639         6121              5099 Předprojektová příprava                                                                                  11 027            -539        10 488
+                                             Pořízení nového softwarového, technického a přístrojového vybavení pro další rozvoj digitalizace
+  5900   3322         6351              5521 sbírky Muzeu města Brna; Investiční transfery zřízeným příspěvkovým organizacím                                0            514           514
+                                             Pořízení nového softwarového, technického a přístrojového vybavení pro další rozvoj digitalizace
+  5900   3322         5331              5521 sbírky Muzeu města Brna; Neinvestiční příspěvky zřízeným příspěvkovým organizacím                              0             25              25
+
+
+
+
+                                                                                                                                                                                 Strana 5 / 13
+     Posouzení projektu se skládá z těchto částí:
+
+
+1.      Záměr projektu
+     a) Obecné údaje
+     b) Legislativní a strategický průmět, popis projektu
+     c) Financování
+2.     Analýza dotačních příležitostí
+
+
+
+
+                                                            Strana 6 / 13
+                                                Záměr projektu
+
+                                                     část A
+
+                                              A.1. PŘEDKLADATEL
+
+1. Plný název předkladatele projektu:
+   Muzeum města Brna, příspěvková organizace
+2. Právní statut:
+   příspěvková organizace
+
+                                  A.2. KONTAKTNÍ OSOBA A PARTNEŘI PROJEKTU
+
+1. Nositel projektu:
+Muzeum města Brna, příspěvková organizace
+2. Jméno kontaktní osoby (nositele):
+Mgr. Zbyněk Šolc, ředitel
+3. Adresa, telefon, mobil, e-mail, webová stránka kontaktní osoby:
+Muzeum města Brna, příspěvková organizace
+Špilberk 210/1
+662 24 Brno
+Telefon: +420 542 123 611
+Mobil: +420 605 830 889
+E-mail: solc@muzeumbrna.cz
+Webové stránky: www.muzeumbrna.cz
+
+4. Přehled partnerů participujících na projektu:
+Projekt je realizován bez partnerů.
+
+5. Adresa, telefon, mobil, e-mail, webová stránka partnerů na projektu:
+Projekt je realizován bez partnerů
+
+6. Způsob spolupráce partnerů na projektu:
+Projekt je realizován bez partnerů.
+
+
+
+                                    A.3. VŠEOBECNÉ INFORMACE O PROJEKTU
+1. Název projektu:
+Pořízení nového softwarového, technického a přístrojového vybavení pro další rozvoj digitalizace sbírky Muzeu
+města Brna
+
+2. Umístění projektu:
+Špilberk 210/1, 66224 Brno
+
+3. Cíle projektu, jeho účel:
+Primární cíle projektu jsou:
+    a) vhodně doplnit technologická zařízení digitalizačního pracoviště Muzeu města Brna
+    b) zajistit využití nového vybavení při stávajícím personálním zajištění a nastavení aktualizovaných pravidel
+         procesu digitalizačního workflow zahrnující rutinní používání nově pořízených technologických zařízení
+    c) realizovat prezentační webový portál digitalizované sbírky Muzea města Brna rozšířením stávajícího SW
+         MUSEION o příslušné moduly
+Projekt na podporu digitalizace sbírkových předmětů a dokumentace MuMB odpovídá dlouhodobým cílům procesu
+převodu kulturního dědictví na digitální platformy a jejich následné zpřístupňování a práci s nimi. Digitalizace
+s využitím nových technologických zařízení a prezentačních SW produktů zajistí rozšíření fyzické ochrany
+sbírkových předmětů a jejich efektivní online prezentaci.
+
+
+
+
+                                                                                                       Strana 7 / 13
+4. Výchozí stav:
+     Muzeum města Brna (dále jen MuMB) se tématu digitalizace sbírek věnuje dlouhodobě jako jednomu z pilířů
+činnosti instituce. Vzhledem k rozsáhlým aktivitám muzea ve specifických oblastech muzejní práce (sbírkotvorné,
+tezaurační a prezentační) spolu se správou, provozem a kulturním využitím nejvýznamnějších brněnských památek
+a cílů turistického ruchu (hrad a pevnost Špilberk, vila Tugendhat, Arnoldova vila, Měnínská brána) není ovšem
+možné vyčlenit dostatečnou personální a technickou kapacitu pro silně obsazený jednorázový projekt digitalizace
+stávajícího sbírkového fondu. Zvolena tak byla strategie postupné digitální dokumentace sbírek v návaznosti na
+aktuální projekty odborných pracovníků, předávání a revizi sbírek, či nového zpracování jednotlivých fondů.
+     Digitalizace v MuMB je dosud limitována technickým vybavením pro kvalitní dokumentaci 2D předmětů
+rozměrnějších než formát A3 a dokumentů v knižní vazbě. Tato minimálně dokumentačně zpracovaná skupina
+sbírkových předmětů je součástí všech podsbírek MuMB (archeologie, dějiny umění, dějiny architektury, historie) a
+dalších doprovodných sbírkových fondů.
+     Kvalifikovaným odhadem je z cca 180.000 2D sbírkových předmětů a dokumentace uložených v MuMB více jak
+40.000 artefaktů větších rozměrů než A3 nebo svázaných v knižní vazbě. Největší zastoupení jmenovaných
+artefaktů je v podsbírce dějin umění (obrazy, scénické návrhy, kresby, grafika, plakáty), dějiny architektury (plánová
+a výtvarná dokumentace - matrice, ozalidy, pauzáky, průsvitky, kresby, malby) a historie (zejména fond církevních
+památek, písemností a dokumentace současnosti a I. a II. odboje). Oddělení archeologie má rozměrnější
+dokumentaci a vázané podklady obsaženy zejména v pomocném fondu archivu nálezových zpráv a stavebně
+historických průzkumů (340 evid. čísel /odhadem 12.000 stran/, z nich v digitální podobě 30 evid. čísel. /2500 stran/).
+     Popisná digitální data jsou v současné době v MuMB elektronicky zpracovávaná v chronologické i systematické
+evidence sbírkových předmětů v systému MUSEION od společnosti AXIELL s.r.o. Knižní fond je zpracováván v
+knihovním programu Verbis 2.0. firmy KP-SYS s.r.o. V aplikaci MUSEION je digitálně evidováno a odborně popsáno
+celkem 120.712 sbírkových předmětů, což představuje 58% stavu sbírky aktuálně evidované v CES (208.666
+platných inventárních čísel). K 6.730 sbírkovým předmětům je připojeno 7.401 digitalizovaných obrazových
+záznamů (3,2% stavu sbírky aktuálně evidované v CES). Z odhadovaných 40.000 rozměrnějších 2D artefaktů a
+vázaných dokumentů je v popisné databázi zapsáno cca 15.000 sbírkových předmětů, obrazové záznamy jsou
+připojeny v jednotkách počtů (externí dokumentace nebo méně kvalitní dokumentace fotoaparátem).
+
+                                                Počet inv.č.        Odhad počtu 2D             Z nich
+   Podsbírka      Počet inv.    Zapsáno v           s               rozměrnějších a          zapsáno v
+                    čísel       MUSEIONu        obrazovým         vázaných sbírkových        MUSEION
+                                                záznamem               předmětů                  u
+  archeologie       73.140         55.244          399                     0                     0
+  dějiny umění      22.629         18.440         4.030                  7.000                 5.000
+      dějiny
+                    80.255         10.281            19                  25.000                 3.000
+  architektury
+     historie       32.642        36.748*           2.282                 8.000                 7.000
+    celkem         208.666        120.712           7.401                40.000                15.000
+
+* Rozpor mezi údaji zapsanými v MUSEIONU a CES je způsoben zpracováním nových přírůstků za roky 2021-
+2022, které již mají záznamy v muzejní evidenci, ale do CES budou nahlášeny až po zpracování celých souborů
+předmětů evidovaných dosud v CESu pod jedním přírůstkovým číslem.
+
+Nasazením a rutinním využíváním aplikace MUSEION se v MuMB podařilo vybudovat centrální registr sbírek pro
+potřeby odborných pracovníků, tento soubor dat a informací nemá dosud výstup směrem k veřejnosti. Online je
+zpřístupněna od roku 2019 pouze muzejní knihovní databáze Verbis 2.0., kde je aktuálně zapsáno 20.889 př. č.,
+což     představuje   76%   aktuálně     evidovaných   knih,   periodik  či    časopisů    (27.468    př.   č.)
+https://muzeummestabrna.kpsys.cz. Část fondu sbírky MuMB (1066 obrazových záznamů) je prezentováno
+prostřednictvím informačního portálu Internetová encyklopedie dějin Brna https://encyklopedie.brna.cz, který je
+provozován Muzeem ve spolupráci s Masarykovou univerzitou v Brně.
+
+
+
+
+                                                                                                             Strana 8 / 13
+5. Předpokládané výsledky projektu:
+     Projekt je ve své části technologického upgrade muzejního pracoviště zacílen na získání doposud chybějícího
+segmentu digitalizační techniky. Jde zejména o velkoformátové skenery a digitalizační zařízení pro vázané předlohy
+a archiválie, které umožní digitalizovat skupinu sbírkových předmětů doposud minimálně dokumentačně
+zpracovanou. Výběr produktů pro zmiňovaný technologický upgrade se striktně držel zásady co nejširšího nasazení
+na heterogenní sbírkový fond MuMB. V případě realizace doplnění vybavení bude tak digitalizační pracoviště MuMB
+disponovat širokým portfoliem technologických zařízení s poměrně velmi univerzální možnostmi dokumentovat
+materiálově, velikostně a funkčně odlišné artefakty jednotlivých podsbírek.
+     Druhá část projektu zacílená na implementaci nového webového prezentačního portálu využije stávajícího
+evidenčního sbírkového systému MUSEION a velmi efektivně zajistí využití stávajících popisných metadat pro
+zveřejnění kompletních informací o sbírkových fondech.
+     Vlastní téma digitalizace není zaměřeno na konkrétní sbírkový fond MuMB, ale má přinést zefektivnění
+digitalizačního workflow a jednotlivých digitalizačních kampaní do doposud nerovnoměrného procesu digitalizace
+jednotlivých podsbírek MuMB. V rámci zkušebního a následně ostrého provozu technicky upgradovaného
+digitalizačního pracoviště bude digitalizováno 300 ks sbírkových předmětů nebo pomocných fondů z každého
+podsbírky (primárně výtvarná díla, obrazy, grafiky a plánová dokumentacei). Celkem tedy bude vytvořeno v roce
+2023 v provozním režimu 1200 digitalizátů 2D předmětů rozměrnějších než formát A3 a dokumentů v knižní vazbě.
+Implementovaný veřejný portál počítá se s prezentací těchto nově pořízených digitalizátů a daty ze stávajících
+digitalizačních kampaní MuMB – celkem nejméně 2500 záznamů.
+V dalších letech bude po optimalizaci všech kroků digitalizačního produkčního řetězce nastaveny pravidelné kvóty
+digitalizace sbírkových předmětů všech podsbírek MuMB
+
+6. Předpokládané dopady projektu
+Projekt bude mít dopad do modernizace pojetí v uchovávání kulturních a historických statků a jejich zpřístupnění
+široké laické a odborné veřejnosti k vědeckému bádání v maximálním možném množství informací o jednotlivých
+předmětech a sbírkových fondech.
+Projekt má neutrální dopad na životní prostředí, nevytváří žádnou dodatečnou zátěž pro životní prostředí.
+Nakupované technologie jsou v souladu s moderními standardy, počítáme s jejich dlouhodobým užíváním. Při
+výběru bude zohledněna také plánovaná spotřeba elektrické energie. Samotná digitalizace sbírkových fondů může
+mít pozitivní efekt ve snížení potřeby odborné veřejnosti cestovat za originály za účelem vědeckého zkoumání.
+Projekt má předpokládaný dopad také na rozvoj spolupráce prostřednictvím sdílení vybavení a kapacit. Muzeum
+města Brna uzavřelo dohodu o spolupráci s Moravským zemským muzeem, Odborem kultury a památkové péče
+JmK, Ústavem archeologie a muzeologie FF Masarykovy univerzity. Výše zmíněné instituce se zavazují, že si budou
+vzájemně vypomáhat a společně se podílet na procesu digitalizace a její následné implementace do života
+muzejních institucí.
+
+7. Cílové skupiny
+Cílovou skupinou projektu široká tuzemská i zahraniční laická i odborná veřejnost zajímající se o kulturu a historické
+dědictví města Brna.
+
+
+
+
+                                                                                                            Strana 9 / 13
+                                                  Záměr projektu
+
+                                                      část B
+
+                                     B.1. STRATEGICKÝ A LEGISLATIVNÍ PRŮMĚT
+1. Soulad se Strategií pro Brno:
+Strategie Brno 2050 obsahuje tematickou strategickou oblast s názvem „Strategie kultury a kreativních odvětví
+města Brna“, která byla schválena ZMB 15. 5. 2018. Projekt spadá pod cíl A: Špičková kulturní a kreativní scéna
+postavená na setkávání tradice a experimentu, prioritu A.1 podpora špičkovosti, diverzity a rozvoje a pod opatření
+A.1.5 Podporovat zachování a rozvoj kulturního dědictví a kulturní identity Brna.
+
+2. Soulad s odvětvovými koncepčními dokumenty MMB:
+Kulturní aktivity města navazují na Koncepci kultury v působnosti města Brna, Strategii pro Brno a Program rozvoje
+kultury města Brna.
+
+3. Soulad s Územním plánem města Brna:
+Realizace projektu je v souladu s územním plánem města Brna.
+
+4. Legislativní audit:
+Veškeré aktivity plánované v rámci tohoto projektu jsou zcela v souladu s platnou legislativou ČR i EU. Realizací
+tohoto projektu nevznikají žádná právní rizika pro žádný subjekt.
+
+                                               B.2. POPIS PROJEKTU
+1. Jednotlivé aktivity projektu:
+Přípravná fáze – Ve shodě se strategií digitalizace MuMB bude realizováno ve spolupráci s městskou firmou
+Technické sítě Brno nové připojení optickým kabelem na metropolitní síť a vybudování nového externího datového
+skladu. Připraveny tak budou podmínky pro ukládání a zvýšení bezpečnosti dat produkovaných modernizovaným
+digitalizačním pracovištěm MuMB.
+Realizační fáze
+          -  administrace výběrových řízení na nákup technologických zařízení a jejich pořízení,
+         -   zaškolení pracovníků digitalizačního pracoviště,
+          -  testování nově navrhovaných procesů digitalizační workflow (včetně jejich prezentace) s jejich
+             případnými korekcemi,
+          -  seznámení všech interních dokumentátorů s definitivní podobou workflow,
+          -  implementace veřejného prezentačního portálu společností AXIELL s.r.o, customizace grafického
+             layoutu a statických textů, nastavení a odladění všech dílčích funkcionalit a vlastností podle požadavků
+             MuMB.
+          -  testovací provoz veřejného prezentačního portálu s vzorkem dat ze stávajících digitalizačních kampaní
+             MuMB
+Provozní fáze
+          -  zkušební a následně ostrý provoz digitalizační kampaně. Na novém zařízení bude digitalizováno 300
+             ks sbírkových předmětů nebo pomocných fondů z každého podsbírky (primárně výtvarná díla, obrazy,
+             grafiky a plánová dokumentace). Celkem tedy bude vytvořeno v roce 2023 v provozním režimu 1200
+             digitalizátů 2D předmětů rozměrnějších než formát A3 a dokumentů v knižní vazbě.
+          -  ostrý provoz veřejného portálu s prezentací nově pořízených digitalizátů a daty ze stávajících
+             digitalizačních kampaní MuMB – celkem nejméně 2500 záznamů.
+
+2. Časová náročnost projektu:
+    1. listopad 2022 a únor 2023 - přípravná fáze
+    2. březen až srpen 2023 – nákup a implementace technologických zařízení do digitalizačního
+       workflow, prezentační portál
+    3. září až prosinec 2023
+    4. rok 2024 a další (po ukončení projektu)
+       Plánování dalších pravidelných digitalizačních kampaní v závislosti na aktuálních požadavcích při odborné
+       práci a tezaurační procesech se sbírkami. Digitalizace pravidelné minimální kvóty sbírkových předmětů.
+
+   1. Indikátory:
+Modernizace digitalizačního pracoviště 1
+
+
+
+
+                                                                                                           Strana 10 / 13
+Digitalizované sbírkové předměty, případně předměty pomocných fondů 1200
+Provoz veřejného portálu s nejméně 2500 záznamy 1
+
+4. Hrubý rozpočet na celou dobu trvání projektu:
+
+Investiční výdaje – 2 959 tis. Kč, z toho
+- 2 445 tis. Kč pořízení vybavení pro digitalizaci
+- 514 tis. Kč daň z přidané hodnoty bez nároku na odpočet
+Běžné výdaje: 145 tis. Kč, z toho
+- 120 tis. Kč služby – implementace sbírkového portálu
+- 25 tis. Kč daň z přidané hodnoty bez nároku na odpočet
+
+
+
+
+                                                                           Strana 11 / 13
+                                                 Záměr projektu
+
+                                                        část C
+
+                                                 C.1. FINANCOVÁNÍ
+1.Předpokládaný rozpočet na celou dobu trvání projektu (v tis. Kč): 3 104
+ fáze                                            Výdaje na projekt
+                                                                                              Příjmy z projektu
+                           tis. Kč      investiční               provozní
+ přípravná
+ projektová dokumentace                     0                        0
+
+
+ Realizační
+ pořízení vybavení                              2 445                        120
+                                                  514                         25
+ daň z přidané hodnoty bez nároku
+ na odpočet
+
+
+   Celkem                                       2 959                        145
+
+2. Možnosti financování
+
+                              Částka v tis.
+            Zdroj                                       %                           Upřesnění
+                                  Kč
+ Vlastní zdroje
+                                          539           17,36 Fond kofinancování projektů
+ Rozpočet města
+
+
+ Ostatní veřejné zdroje
+                                                                  NPO 4.5 Digitalizace kulturních statků a
+ Národní plán obnovy                    2 565           82,64
+                                                                 národních kulturních památek I.
+ Privátní zdroje
+ jiné
+
+          Celkem                        3 104      100,00
+
+
+
+
+                                              C.2. OSTATNÍ INFORMACE
+1. Majetkové poměry:
+Veškerá nakoupená technika bude pořízena do majetku Statutárního města Brna, který je zřizovací listinou
+svěřen do správy Muzea města Brna, příspěvkové organizace.
+
+
+2. Synergie:
+
+3. Zajištění udržitelnosti projektu:
+Projekt je zaměřen na modernizaci a rozvoj činnosti Muzea města Brna, které bude využívat výsledky projektu
+v dalších obdobích v souladu se stanovenou Koncepcí dokumentace a evidence kulturního dědictví v digitální
+podobě a Směrnice k provádění digitalizace a správě digitální dokumentace Muzea města Brna.
+
+
+
+
+                                                                                                             Strana 12 / 13
+                                    Analýza dotačních příležitostí
+
+
+Projekt „Pořízení nového softwarového, technického a přístrojového vybavení pro další rozvoj
+digitalizace sbírky Muzeu města Brna“ je svým zaměřením v souladu s výzvou Národního plánu NPO
+4.5 Digitalizace kulturních statků a národních kulturních památek I.
+
+Zdroje krytí projektu
+
+Na základě předběžného rozhodnutí výběrové komise může získat financování ve výši 2 565 tis. Kč,
+což představuje 100 % způsobilých výdajů projektu. Dofinancování z vlastních zdrojů je nutné pouze u
+položky DPH, které není v programu Národní plán obnovy uznatelným výdajem a Muzeum města Brna
+nemá v tomto případě nárok na odpočet DPH (hlavní činnost osvobozená od DPH).
+
+Strukturu zdrojů krytí projektu ukazuje následující tabulka:
+
+ Struktura předpokládaných výdajů                              Částka Kč          Podíl v %
+ Předpokládané celkové náklady                                       3 104 000    100,00 %
+ Podpora z Národního plánu obnovy                                    2 565 000     82,64 %
+ Statutární město Brno                                                 539 000     17,36 %
+
+
+
+
+                                                                                                Strana 13 / 13
+

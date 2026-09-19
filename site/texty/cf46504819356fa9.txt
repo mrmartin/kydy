@@ -1,0 +1,115 @@
+                          SCHVÁLENÝ PLÁN NÁKLADŮ A VÝNOSŮ VEDLEJŠÍ PODNIKATELSKÉ ČINNOSTI MĚSTA BRNA - ÚČTU DPH - NA ROK 2026 (v tis. Kč)
+                                                                                                              NÁKLADY                                                       VÝNOSY
+                                                                                               Schválený     Očekávaná         Schválený      SR 2026        Schválený     Očekávaná       Schválený      SR 2026
+ORJ                                           Správce
+                                                                                             rozpočet 2025 skutečnost 2025   rozpočet 2026    SR 2025      rozpočet 2025 skutečnost 2025 rozpočet 2026    SR 2025
+3200   OVV - kopírování, prodej publikací                                                                14                                                            14              10            10        71,4
+3200   OVV - provize od České pošty pro provozovnu Brno 10 (pošta Partner s Balíkovnou)                                                                             1 000           1 000         1 000       100,0
+3200   OVV - daň z obratu                                                                                                6               6
+3900   AmB - prodej publikací                                                                                                                                         50              50             50      100,0
+4200   OŽP - separace odpadu                                                                        66 980          66 980          77 870        116,3            5 733           5 867          5 926      103,4
+4200   OŽP - zpětný odběr a využití odpadu z obalů                                                     836             548             836        100,0           56 800          56 800         56 800      100,0
+4200   OŽP - SSO a sběrné dvory                                                                                                                                    1 100           1 100          1 100      100,0
+4200   OŽP - kolektivní systémy zpětného odběru elektrozařízení                                                                                                    1 000             896            750       75,0
+4200   OŽP - prodej hrobových zařízení                                                                                                                               300             300
+4200   OŽP - zapojení do systému využitelných složek komunálních odpadů                                                                                              120             191            120      100,0
+4300   OVLHZ - přičlenění pozemků k honitbám                                                                                                                         543             449            449       82,7
+5400   OD - pronájem datového rozvaděče                                                                                                                                4               4              4      100,0
+5400   OD - nájemné komunikačních staveb                                                                                                                             192             192            192      100,0
+5400   OD - provoz toalet pod hlavním nádražím ČD                                                    1 400             800             800         57,1            1 400             800            800       57,1
+5400   OD - nájemné Benešova                                                                                                                                       2 002           1 991          2 050      102,4
+5400   OD - provoz a údržba PD Šumavská                                                                              5 705           9 533
+5400   OD - pachtovné PD Šumavská                                                                                   15 507          29 389
+5400   OD - dlouhodobá parkovací oprávnění - PD Šumavská                                                                                                                           3 025          5 000
+5400   OD - krátkodobá parkovací oprávnění - PD Šumavská                                                                                                                           4 840          8 000
+5400   OD - zřizování věcných břemen - ÚZSVM                                                                                                                                                      1 000
+5600   OI - pronájem vodohospodářské infrastruktury spol. BVK - vodárenská síť - nájemné                                                                         387 500         387 500
+5600   OI - pronájem vodohospodářské infrastruktury spol. BVK - vodárenská síť - pachtovné                                                                                                      348 000
+5600   OI - pronájem vodohospodářské infrastruktury spol. BVK - stoková síť - pachtovné                                                                          590 500         590 500        593 000      100,4
+5600   OI - zřizování věcných břemen                                                                                                                              20 000          30 000         25 000      125,0
+5600   OI - zřizování věcných břemen - ÚZSVM                                                                                                                                                      3 000
+5600   OI - pronájem částí primárních a sekundárních kolektorů                                                                                                     7 720           7 720          7 720      100,0
+5600   OI - nákup vodoměrů                                                                           6 100           8 673           5 253         86,1
+5600   OI - nákup vysílačů k vodoměrům                                                              10 900          10 918          10 958        100,5
+5600   OI - Dostavba kanalizace v Brně II                                                              100                             100        100,0
+6300   MO - prodej pozemků s bytovými domy                                                                                                                                       225 000
+6300   MO - prodej pozemků                                                                                           4 215                                        10 000         300 000        300 000    3 000,0
+6300   MO - přijaté náhrady a ostatní výnosy                                                                                                                                         283
+6600   OSM - pronájem objektů (nájemcům k podnikatelské činnosti)                                                                                                 10 000          10 000         11 000      110,0
+6600   OSM - energie, služby a opravy objektu Moravské nám. 15                                       3 400           3 400            6 000       176,5
+8200   MP Brno - pronájem části plochy štítové zdi objektu Křenová 4                                                                                                 642             635            654      101,9
+8200   MP Brno - využívání části kapacity radiokomunikačního systému TETRA                                                                                            60              60             60      100,0
+8200   MP Brno - dopravní výchova 4. ročníků ZŠ (Centrum služeb)                                                                                                     100             100            100      100,0
+  -    Odpisy dlouhodobého majetku/transferový podíl                                               500 000         550 000         550 000        110,0           30 000          30 000         30 000      100,0
+       CELKEM                                                                                      589 730         666 752         690 745        117,1        1 126 780       1 659 313      1 401 785      124,4
+
+
+                          Převod do rozpočtu (hlavní činnosti) města                           Schválený     Očekávaná       Schválený        SR 2026
+ORJ
+                                          zisk a odpisy                                      rozpočet 2025 skutečnost 2025 rozpočet 2026      SR 2025
+     Saldo výnosů a nákladů účtu DPH                                                                537 050         992 561       711 040          132,4
+     Odpisy dlouhodobého majetku                                                                    500 000         550 000       550 000          110,0
+1700 Převod do rozpočtu (hlavní činnosti) města celkem                                            1 037 050       1 542 561     1 261 040          121,6
+Schválený plán nákladů a výnosů vedlejší podnikatelské činnosti města na rok 2026
+                                Oddělení Jídelna OVV MMB
+
+                                                                                              v tis. Kč
+
+                                Schválený plán      Očekávaná       Schválený plán       Plán 2026/
+                                  na rok 2025     skutečnost 2025    na rok 2026         Plán 2025
+
+
+Náklady                                 21 681             21 681           24 703            113,9%
+ v tom:
+ Spotřeba materiálu a energie            12 901            12 901            13 698            106,2%
+ Služby                                      90                90               355            394,4%
+ Osobní náklady                           8 683             8 683            10 643            122,6%
+ Ostatní náklady                              7                 7                 7            100,0%
+
+Výnosy                                  21 681             21 681           24 703            113,9%
+ v tom:
+ Tržby za prodej zboží                   21 681            21 671            24 703            114,0%
+ Finanční výnosy                                               10
+Hospodářský výsledek                         0                  0                    0
+výsledek hospodaření
+předcházejících účetních
+obodobí
+Počet dnů provozu                          251                251               250
+Průměrný denní počet obědů                 900                900               930
+
+
+Finanční plán Oddělení Jídelny OVV MMB předpokládá na rok 2026 vyrovnané hospodaření. Finanční
+plán vychází z průměrného denního počtu 930 obědů při skutečném počtu 17 zaměstnanců a 250 dnech
+provozu.
+
+V návrhu plánu je počítáno s navýšením provozního příspěvku o 8,- Kč a navýšením příspěvku ze
+Sociálního fondu o 2,- Kč na potraviny.
+            Schválený plán nákladů a výnosů podnikatelské činnosti města Brna
+                                     objekty Staré radnice + DOMINI PARK
+                                                                                                 v tis. Kč
+                                             Schválený plán   Očekávaná     Návrh plánu na Plán 2026/
+                                                 2025       skutečnost 2025   rok 2026     Plán 2025
+
+Náklady                                                390             930            1 250       320,5%
+ v tom:
+Spotřeba materiálu a energie                            15               15              18       120,0%
+Služby (+ nájemDOMINI Park - BKOM)                      50              590             810      1620,0%
+Osobní náklady - platy                                 110              110             125       113,6%
+Osobní náklady - odvody                                 35               35              40       114,3%
+ Ostatní náklady                                       180              180             257       142,8%
+ prodané zboží (balená voda, káva,
+                                                       180             180              257       142,8%
+čaj)+nájemné
+
+Výnosy                                                 390             930            1 250       320,5%
+ v tom:
+Výnosy z prodaného zboží                               280              230             300       107,1%
+Výnosy z pronájmů                                      110              700             950       863,6%
+
+
+Počet dnů provozu                                      110              230             260       236,4%
+
+
+Finanční plán předpokládá na rok 2026 vyrovnané hospodaření. Finanční plán vychází z předpokladu 260 dnů
+provozu, ekonomická činnost v objektech Staré radnice by měla být zajišťována 1 zaměstnancem OSM MMB.
+
