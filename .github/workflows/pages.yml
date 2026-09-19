@@ -1,4 +1,4 @@
-name: Publikovat kydy.com
+name: Publikovat kydy.cz
 on:
   push:
     branches: [main]

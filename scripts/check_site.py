@@ -13,7 +13,7 @@ class Links(HTMLParser):
 files=[p for p in S.rglob('*') if p.is_file()];size=sum(p.stat().st_size for p in files)
 assert size<900_000_000,(size,'Limit Pages')
 assert all(p.stat().st_size<95_000_000 for p in files),'Limit jednotlivého souboru Git'
-assert (S/'CNAME').read_text().strip()=='kydy.com'
+assert (S/'CNAME').read_text().strip()=='kydy.cz'
 count=0;missing=[]
 for p in S.rglob('*.html'):
  parser=Links();parser.feed(p.read_text())

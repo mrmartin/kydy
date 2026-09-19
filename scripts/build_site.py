@@ -57,13 +57,13 @@ for item in assets:
 body='<h1>Stažení podkladů</h1><p>Analýzy, CSV a textové kopie jsou přímo na webu. Celý rešeršní archiv včetně původních souborů má přibližně 16 GB.</p><h2 id="databaze">Úplný archiv a SQLite</h2>'
 body+=('<p><a href="'+release+'">Otevřít vydání archivu na GitHubu</a>. Tabulka níže uvádí připravené soubory; dostupnost vydání ověřte na GitHubu.</p>' if release else '<p>Soubory jsou připraveny místně. Veřejné odkazy doplníme po nahrání archivu na GitHub Releases.</p>')
 body+='<p>Databáze je archiv.sqlite.gz. Po rozbalení ji lze otevřít v SQLite nebo DB Browser for SQLite. Samostatné balíky archiv-XX.tar.gz obsahují různé části původního archivu; všechny rozbalte do stejné složky. Nejde o dělený soubor vyžadující spojování.</p><div class="scroll"><table><tr><th>Soubor</th><th>Velikost</th><th>SHA-256</th></tr>'+''.join(rows)+'</table></div><p>CSV katalog zachovává původní místní cesty uvnitř úplného archivu. Původní dokumenty mají podmínky svých vydavatelů; nejde o jednotně licencovanou sadu.</p>'
-(S/'ke-stazeni.html').write_text('<!doctype html><html lang="cs"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Stažení podkladů · kydy.com</title><link rel="stylesheet" href="styl.css"><body><nav><a href="index.html">Brno · přehled</a> · <a href="kampane-2026/index.html">Kampaně a hlasy</a></nav>'+body+'</body></html>')
-(S/'CNAME').write_text('kydy.com\n');(S/'.nojekyll').touch()
-(S/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: https://kydy.com/sitemap.xml\n')
+(S/'ke-stazeni.html').write_text('<!doctype html><html lang="cs"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Stažení podkladů · kydy.cz</title><link rel="stylesheet" href="styl.css"><body><nav><a href="index.html">Brno · přehled</a> · <a href="kampane-2026/index.html">Kampaně a hlasy</a></nav>'+body+'</body></html>')
+(S/'CNAME').write_text('kydy.cz\n');(S/'.nojekyll').touch()
+(S/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: https://kydy.cz/sitemap.xml\n')
 paths=['index.html','kampane-2026/index.html','analyzy/kampane_2026.html','analyzy/prehled.html','analyzy/temata.html']
-(S/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>https://kydy.com/'+p+'</loc></url>' for p in paths)+'</urlset>')
+(S/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>https://kydy.cz/'+p+'</loc></url>' for p in paths)+'</urlset>')
 files=[f for f in S.rglob('*') if f.is_file()];total=sum(f.stat().st_size for f in files)
 assert total<900_000_000,'Web je příliš blízko limitu Pages'
 assert all(f.stat().st_size<95_000_000 for f in files),'Soubor je příliš velký pro běžný Git'
-report={'files':len(files),'bytes':total,'domain':'kydy.com','repository':a.repository,'archive':str(A),'source_links':'původní vydavatelé; textové kopie místně'}
+report={'files':len(files),'bytes':total,'domain':'kydy.cz','repository':a.repository,'archive':str(A),'source_links':'původní vydavatelé; textové kopie místně'}
 (P/'build-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));print(json.dumps(report,ensure_ascii=False,indent=2))
