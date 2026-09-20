@@ -17,3 +17,12 @@ Zelená může označovat doložený osobní krok i realizaci městského projek
 Přechod používá stejné archivované zdroje; změnila se otázka a interpretace, nikoli doložené výsledky politiků. Staré prognózy jsou dostupné v historii Gitu. Nebyl doplněn chybějící investiční audit ani volební model.
 
 Reprodukce veřejných stránek potřebuje pouze standardní Python. Příprava nového podkladu potřebuje místní původní archiv; stažení zdrojů bylo provedeno jeho existujícím nástrojem `skripty/archiv.py` a zůstává zapsáno v `data/zdroje.jsonl`. Zahrnuty jsou originály i texty. Veřejný podklad nepřepisuje původní hlasovací soubor ani předstíraně nedoplňuje zářijové hlasy.
+
+
+Metodika 3 (20. 9. 2026) přidává `nevyuzita_moznost` — „Neudělali to, když mohli“. JSON schéma 3 má `governance` u všech 16 kampaní a `accountability` u konkrétních výtek. Pět kategorií zachovává skladbu místo celkového skóre. V CSV jsou navíc `vykonna_role`, `vykonna_odpovednost` a `nevyuzita_moznost_json` včetně zdrojů. Případy bez uzavřeného důkazního řetězce mají `accountability: null`; to není osvědčení bezchybného vládnutí.
+
+První aplikace se týká zachování Dornychu 29/31 v K02-02 a K08-01: jeden případ u dvou kandidátek, nikoli dvě nezávislá selhání. Rozsah je omezen na vlastní souhlas s prodejem, který mohli odpovědní radní odepřít. Netvrdíme samostatné veto, jistý výsledek alternativního hlasování, zajištěné financování rekonstrukce ani porušení totožného slibu z roku 2022. Výtka nesmí být rozšířena na celou bytovou výstavbu; karta i detail zobrazují její rozsah. Dnešní politiku lze legitimně změnit a podpora omezení privatizace v roce 2026 je uvedena jako protidůkaz.
+
+105 použitých pramenů: doplněn původní materiál s přípravou prodeje a tabulkou rady (5. 3. 2025), doklad uskutečnění prodeje (příjem kupní ceny 5. 6. 2025), členství a gesce. Tabulka na PDF s. 7 byla ověřena i vizuálně: Podivinská má pomlčky, proto jí nepřipisujeme hlas rady; její hlas pro je doložen až v ZMB 25. 3. 2025. Oba Petrové Bořečtí mají odlišné identifikátory. Materiál dokládá rovněž stav domů a ekonomické důvody prodeje; navržený převod výnosu do bytového fondu není bez usnesení vydáván za schválený.
+
+U všech kandidátek odlišujeme kontinuitu stran, osobní funkce, tehdejší opozici a jinou veřejnou praxi. Přehled není úplný historický audit všech kandidátů ani všech neuskutečněných opatření. Funkce sama automaticky kategorii nemění. Build odmítne výtku bez osob, období, pravomoci, příležitosti, výsledku, protidůkazů, vymezeného rozsahu a pramenů.

@@ -242,3 +242,90 @@ for c in CLAIMS:
   c['change']='Doložené výsledky kontrol a standard zveřejňování by rozšířily oporu nad jeden návrh; přímé maření obdobné kontroly by ji oslabilo.'
  if c['key']=='K06-05':
   c['change']='Zastavení stavby či ztráta financování by oporu oslabily; dokončené milníky a ověřené krytí zbývajících prací by ji posílily.'
+
+# Metodika 3: skutečná možnost jednat a odpovědnost za její nevyužití.
+# Dnešní kandidátka není totožná s tehdejším klubem; jména propojuje registr.
+COALITION_2022 = 'e13ec4718d18eb51'
+COUNCIL = '00986cd445f58d56'
+DORNYCH_PREPARATION = 'ea80e5751d173075'
+DORNYCH_COMPLETED = '52f247a38ab38f70'
+GOVERNANCE = {
+ 1: dict(label='Strana ve vedení; dnešní tým bez mandátu 2022–2026',
+  summary='ČSSD patřila v roce 2022 do vládnoucí koalice a Jiří Oliva měl majetkovou oblast. Nikdo z dnešní kandidátky SOCDEM ale neměl mandát v tomto období. Institucionální odpovědnost strany je relevantní, Olivovy jednotlivé hlasy nejsou hlasy dnešních kandidátů.',
+  references=[(COALITION_2022,'koalice 2022 a majetková gesce ČSSD'),(COUNCIL,'současní členové rady – Jiří Oliva')]),
+ 2: dict(label='Lidé ve vedení města v období 2022–2026',
+  summary='Lidovci a Starostové byli součástí koalice. Z dnešních kandidátů jsou v radě Filip Chvátal, Irena Matonohová a Petr Bořecký pro participaci; na začátku období byl do vedení uveden i Jaroslav Suchý. Mají odpovědnost za vlastní hlasování rady a koaliční rozhodování, nikoli samostatnou většinu ani všechny odborné gesce.',
+  references=[(COALITION_2022,'složení koalice a rozdělení gescí 2022'),(COUNCIL,'členové rady – Chvátal, Matonohová a Petr Bořecký'),(DORNYCH_PREPARATION,'PDF s. 7 – osobní hlasy v radě 5. 3. 2025')]),
+ 3: dict(label='V období 2022–2026 v městské opozici',
+  summary='Zelení s Žít Brno nebyli součástí městské koalice ustavené v roce 2022. Jejich zastupitelé mohli navrhovat, kontrolovat a hlasovat, ne sami řídit městskou exekutivu. U Drápalové odděleně dokládáme roli starostky Nového Lískovce; pravomoc městské části není pravomoc nad celým Brnem.',
+  references=[(COALITION_2022,'opozice po vzniku koalice'),('67608a0aa50e0c9a','role Drápalové při podpisu smlouvy')]),
+ 4: dict(label='ANO ve vedení od roku 2022; později rozkol',
+  summary='ANO vstoupilo do městské koalice v roce 2022 s gescemi investic, bydlení a územního plánování. Po rozkolu v roce 2025 zůstali představitelé ve vedení mimo ANO; část dnes kandiduje za Brnoklidem. Dnešnímu týmu ANO proto nelze připsat všechny osobní kroky původního klubu, ale ani vymazat dřívější účast značky na vládnutí.',
+  references=[(COALITION_2022,'gesce ANO v roce 2022'),('1c29efb307c38b4f','výzva vedení ANO k odchodu z koalice'),('332eb5b3cdf99fc3','vyloučení členů, kteří ve vedení města zůstali'),(COUNCIL,'dnešní složení rady')]),
+ 5: dict(label='Dřívější náměstek na dnešní listině',
+  summary='Tomáš Koláčný má doloženou dřívější funkci náměstka a práci na digitálních službách. V období 2022–2026 nebyli Piráti členy městské koalice. Janulíkové vedení TIC je pravomoc nad institucí, nikoli nad rozpočtem a majetkem celého města.',
+  references=[('5b724c61b2098d0b','Koláčný jako náměstek – služby Brno iD'),(COALITION_2022,'Piráti do koalice 2022 nevstoupili'),('b84d55484f37f5a3','Janulíková o své praxi a vstupu do politiky')]),
+ 6: dict(label='ODS a TOP 09 ve vedení města',
+  summary='ODS a TOP 09 vedly radnici v období 2022–2026. Z dnešních kandidátů sedí v radě Tomáš Aberl pro sport a IT. Nová lídryně Zlatušková osobně v zastupitelstvu nehlasovala; odpovědnost vládnoucích stran však výměnou lídra nezaniká. Rozlišujeme tento institucionální podíl od osobní odpovědnosti kandidátů.',
+  references=[(COALITION_2022,'vedení a gesce ODS a TOP 09'),(COUNCIL,'Aberl a další členové rady'),('8139e8a40182fbf7','Aberlova agenda')]),
+ 7: dict(label='Doložená starší opoziční praxe',
+  summary='Martin Říha je v podkladu z roku 2016 označen jako opoziční zastupitel. Mandát dává prostor k návrhům a hlasování, sám však neprokazuje výkonnou moc ani většinu. Na dnešní listině není držitel mandátu z období 2022–2026.',
+  references=[('56cbbde5c86fe0d9','PDF s. 2 – Říha, opoziční zastupitel')]),
+ 8: dict(label='Lidé ve vedení města v období 2022–2026',
+  summary='Podivinská Karasová má gesci bytové problematiky a správy majetku, Ing. arch. Petr Bořecký územní plánování. Do vedení vstoupili za ANO v roce 2022; dnes kandidují za Brnoklidem. Nový název jejich osobní odpovědnost neruší. Jejich podíl na městské moci je doložen, samostatnou většinu ale neměli.',
+  references=[(COALITION_2022,'Karasová a architekt Bořecký ve vedení 2022'),(COUNCIL,'současní členové rady'),('4a768991f20ccd16','svěřená bytová problematika a správa majetku'),('60525dcd1db4fd54','agenda Ing. arch. Petra Bořeckého')]),
+ 9: dict(label='Dřívější městský radní v čele listiny',
+  summary='Tomáš Kratochvíl byl v roce 2014 zvolen radním pro správu městských účastí. Jde o skutečnou dřívější výkonnou roli, ne o současného dopravního radního Petra Kratochvíla. Při výtce nesplnění musí odpovídat období i tehdejší gesce.',
+  references=[('96ab5768e37aec62','vedení města zvolené v roce 2014')]),
+ 10: dict(label='Bez doložené městské výkonné role',
+  summary='U dnešních tří kandidátek není doložen městský mandát 2022–2026 ani výkonná role, která by umožnila samostatně uskutečnit vybrané sliby. Nedoloženou minulost nezaměňujeme za promarněnou vládní příležitost.',references=[]),
+ 11: dict(label='Bez doložené městské výkonné role',
+  summary='U dnešní kandidátky není doložena výkonná role v městském vedení. Požadavek na referendum sám takovou pravomoc nevytváří; záleží na zákonném postupu a podpoře.',references=[]),
+ 12: dict(label='Dřívější primátor v čele listiny',
+  summary='Petr Vokřál byl zvolen primátorem v roce 2014. Posuzujeme tedy i jeho skutečnou dřívější moc a doložené výsledky, například Rapid Re-Housing. Nelze mu ale bez dalšího připsat rozhodnutí rady z období 2022–2026, v níž nepůsobil.',
+  references=[('96ab5768e37aec62','volba primátora 2014'),('2cb30b541c6fc59f','doložený výsledek Rapid Re-Housing')]),
+ 13: dict(label='Dřívější náměstkyně v čele listiny',
+  summary='Klára Liptáková byla v roce 2014 zvolena první náměstkyní a v roce 2015 představovala expertizy privatizace. Minulá výkonná funkce je relevantní, nestačí však přičíst jí pozdější rozhodnutí či automaticky uzavřít, že mohla sama zrušit všechny dnešní poplatky.',
+  references=[('96ab5768e37aec62','volba první náměstkyně 2014'),('181504cb3366bfe7','expertizy privatizace v roce 2015')]),
+ 14: dict(label='Vedení odborné instituce, ne městské rady',
+  summary='Michal Sedláček vedl Kancelář architekta města od roku 2016. Měl vliv na odbornou přípravu, nikoli sám rozhodovací většinu pro rozpočet, prodeje či výstavbu. Výsledky a případná selhání proto vztahujeme k rozsahu této role.',
+  references=[('1cde5a071f4d126b','Sedláček, ředitel KAM od 2016'),('6dee5553d4c4aded','příprava soutěže Sadová 2022')]),
+ 15: dict(label='V období 2022–2026 v městské opozici',
+  summary='Piráti před podpisem odmítli vstup do koalice 2022. Dnešní zastupitelé proto neměli její výkonnou moc, mohli ale předkládat návrhy a hlasovat. Starší pirátská účast na vedení a práce Koláčného se nesmí automaticky připsat dnešnímu týmu TU!, protože Koláčný nyní kandiduje za Za Lužánky.',
+  references=[(COALITION_2022,'Piráti mimo koalici 2022'),('5b724c61b2098d0b','dřívější náměstek Koláčný')]),
+ 16: dict(label='V období 2022–2026 v městské opozici',
+  summary='SPD byla po vzniku koalice 2022 v opozici. Zastupitelské a kontrolní funkce umožňují dohled a návrhy, nejsou samy řízením policie, úklidu nebo sociálních služeb. Nesplnění těchto úkolů proto nelze přičíst jen přítomnosti kandidátů v zastupitelstvu.',
+  references=[(COALITION_2022,'SPD v opozici; rozlišení kontrolní a výkonné funkce')]),
+}
+
+# Dvě úzce vymezené příležitosti: vlastní souhlas s prodejem, nikoli
+# domněnka, že jeden radní mohl sám zastavit vůli celé většiny.
+for c in CLAIMS:
+ c['accountability'] = None
+ if c['key'] not in ['K02-02','K08-01']:
+  continue
+ lid = c['key']=='K02-02'
+ actors = ([dict(person='filip-chvatal',name='Filip Chvátal',role='člen rady',action='5. 3. 2025 podpořil záměr prodeje v radě; 25. 3. podpořil prodej v zastupitelstvu'),
+            dict(person='irena-matonohova',name='Irena Matonohová',role='členka rady',action='5. 3. 2025 podpořila záměr prodeje v radě; 25. 3. podpořila prodej v zastupitelstvu'),
+            dict(person='petr-borecky-1',name='Petr Bořecký',role='radní pro participaci',action='5. 3. 2025 podpořil záměr prodeje v radě; 25. 3. podpořil prodej v zastupitelstvu')]
+           if lid else
+           [dict(person='karin-podivinska-karasova',name='Karin Podivinská Karasová',role='náměstkyně s bytovou a majetkovou gescí',action='V tabulce rady 5. 3. má pomlčky, žádný hlas jí zde nepřipisujeme; 25. 3. 2025 pro prodej hlasovala v zastupitelstvu'),
+            dict(person='petr-borecky',name='Ing. arch. Petr Bořecký',role='radní pro územní plánování',action='5. 3. 2025 podpořil záměr prodeje v radě; 25. 3. podpořil prodej v zastupitelstvu')])
+ c['evidence_status']='nevyuzita_moznost'
+ c['why']=('Osm dnešních kandidátů včetně tří členů rady podpořilo prodej Dornychu 29/31, když mohli vlastní souhlas odepřít; výtka se týká zachování domů, nikoli celého stavebního slibu.' if lid else 'Podivinská s bytovou gescí a dalších šest dnešních kandidátů podpořili prodej Dornychu 29/31, když mohli vlastní souhlas odepřít; příprava nových bytů je samostatný doložený krok.')
+ c['accountability'] = dict(
+  scope_label='zachování domů Dornych 29/31',
+  scope='Zachování městských domů Dornych 29 a 31: nevyužitá možnost nepodpořit jejich prodej.',
+  period='Březen 2025; rozhodnutí ZMB dne 25. 3. 2025. Uskutečnění prodeje doloženo přijetím kupní ceny 5. 6. 2025.',
+  actors=actors,
+  authority='Kandidáti uvedení v tomto bloku byli členy městské rady a současně zastupitelstva. Rada připravovala majetkové rozhodnutí, o prodeji hlasovalo zastupitelstvo; vlastní hlas měli pod kontrolou. Jednotlivec ani tato dnešní listina neměli samostatné veto.',
+  opportunity='Existovalo konkrétní rozhodovací okno, nejde o domněnku z délky funkce: rada 5. 3. 2025 odsouhlasila záměr, zastupitelstvo 25. 3. schválilo prodej. Mohli prodej nepodpořit a v koalici prosazovat zachování majetku. Netvrdíme, že jejich nesouhlas sám zaručoval zamítnutí nebo že byla zaplacena rekonstrukce.',
+  outcome=('Prodej podpořilo osm lidí z dnešní listiny.' if lid else 'Prodej podpořilo sedm lidí z dnešní listiny; Levíček se zdržel a Benešová ještě neměla mandát.')+' Celkem prošel 38 hlasy proti 10. Zářijový materiál potvrzuje realizaci prodeje a přijetí 225 milionů Kč dne 5. 6. 2025.',
+  limitations='Domy byly prázdné a ve špatném až průměrném stavebním stavu. Prodej měl ekonomické zdůvodnění a výnos byl navržen do Fondu bytové výstavby; neprokazujeme, že zachování bylo levnější nebo výhodnější. V lednu 2026 tito kandidáti podpořili zrušení starého privatizačního postupu. Dnešní program může být změnou politiky. Výtka hodnotí tehdejší nevyužití vlastního hlasu ve prospěch nyní slibovaného zachování domů, nikoli prokázané porušení totožného staršího slibu, lež nebo neschopnost stavět byty.',
+  references=[(DORNYCH_PREPARATION,'PDF s. 7 – jmenná tabulka hlasování rady dne 5. 3. 2025'),(DORNYCH_PREPARATION,'PDF s. 4–5 – stav domů a ekonomické důvody prodeje'),('51e4b76cc1f5ba4c','jmenný protokol Z9-25-057 ze dne 25. 3. 2025'),('e988b29ad183637c','PDF s. 27 – schválení prodeje'),(DORNYCH_COMPLETED,'PDF s. 4 – uskutečněný prodej, příjem 5. 6. 2025 a návrh převodu do FBV'),(COUNCIL,'členové rady'),('4a768991f20ccd16','bytová a majetková gesce Podivinské')],
+  decision_kind='vlastni_souhlas_s_prodejem',
+ )
+ c['counter']=c['accountability']['limitations']
+ c['change']='Tehdejší hlas změnit nelze. Výklad by změnil důkaz chybného přiřazení osoby, právní vázanosti jejího rozhodnutí nebo výslovné výjimky v dnešním slibu; nové rozhodování ukáže, zda byla změna politiky uskutečněna.'
+CAMPAIGNS[2]['summary']='Kotel má realizační smlouvu, ale u zachování bytových domů vlastní moc nevyužili: osm dnešních kandidátů včetně radních podpořilo prodej Dornychu.'
+CAMPAIGNS[8]['summary']='Bydlení doložitelně připravují, při prodeji Dornychu však sedm dnešních kandidátů včetně náměstkyně pro bydlení podpořilo opačný postup než nyní slibované zachování domů.'
