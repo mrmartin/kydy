@@ -49,13 +49,29 @@ Výchozí build bez `--repository` nezobrazuje neexistující odkazy ke stažen�
 
 ## Obnova a kontrola
 
+Úvodní stránka nyní porovnává 16 kampaní podle 57 hlavních slibů. Každá kampaň má samostatný statický rozbor se skutečnými osobními hlasy, pravomocemi, podmínkami realizace a zdroji. Štítek NOVÝ u lídra znamená chybějící doložený celoměstský mandát, nikoli chybějící veškerou praxi. Původní rozcestník je na `archiv.html`, všechny staré stránky jsou dostupné přes `mapa-webu.html` v patičce.
+
+Samotné nové srovnání lze sestavit z repozitáře bez celého rešeršního archivu:
+
+```sh
+python3 scripts/build_assessment.py
+python3 -m unittest discover -s tests -v
+python3 scripts/check_site.py
+```
+
+Redakční vstup je `research/curation.py`; přenositelná data, použité prameny a jednotlivé hlasy jsou v `research/assessment.json`. Po změně redakčního vstupu nebo přidání archivovaného pramene spustit `python3 scripts/prepare_assessment.py --archive ../brno-volby-2026`, pak build a testy. Původní dokumenty zůstávají v místním archivu, web nabízí jejich přesné URL a uložené textové kopie s kontrolními součty. Nové posouzení, sliby a katalog použitých pramenů lze stáhnout jako JSON/CSV.
+
+GitHub Actions znovu sestaví nové srovnání z verzovaných dat a spustí regresní kontroly před publikováním. Automatické stažení či přepsání hodnocení při návštěvě webu neprobíhá. První vydání výslovně přiznává neuzavřené podmínky a chybějící volební model; barvy se neupravují, aby vytvořily umělý žebříček.
+
+Úplná obnova veřejné kopie původního archivu a následně nového rozcestníku:
+
 ```sh
 python3 scripts/build_site.py
 python3 scripts/check_site.py
 python3 -m http.server 8000 --directory site
 ```
 
-Pak otevřít http://localhost:8000. Build vychází ze sousedního `../brno-volby-2026/`, případně použít `--archive /cesta/k/archivu`. V GitHub Actions se archiv znovu nestahuje: publikuje se již připravená statická verze. Aktualizace analýzy se provádí v původním archivu a znovu vygeneruje tímto buildem.
+Pak otevřít http://localhost:8000. Úplný build vychází ze sousedního `../brno-volby-2026/`, případně použít `--archive /cesta/k/archivu`. V GitHub Actions se archiv znovu nestahuje. Původní analýzy se aktualizují v původním archivu, nové srovnání má výše popsaný samostatný vstup.
 
 Kontrola ověřuje limit velikosti, všechny místní HTML odkazy a datové vazby interaktivního srovnání. Interaktivní filtry byly navíc ověřeny v jsdom včetně přesměrování na původní vydavatele.
 

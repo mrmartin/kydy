@@ -47,7 +47,9 @@ for r in d['sources'].values():r['soubor']=r['url']
 f.write_text('const D='+json.dumps(d,ensure_ascii=False,separators=(',',':')).replace('</','<\/')+';\n')
 f=S/'kampane-2026/index.html';t=f.read_text().replace('href="../\'+esc(r.soubor)','href="\'+esc(r.soubor)').replace('href="../\'+esc(D.sources[v.minutes].soubor)','href="\'+esc(D.sources[v.minutes].soubor)');f.write_text(t)
 # Funkční stránka i před publikováním Releases; žádné neexistující odkazy.
-manifest=P/'release-assets/manifest.json';assets=json.loads(manifest.read_text()) if manifest.exists() else []
+manifest=P/'release-assets/manifest.json'
+if not manifest.exists():manifest=P.parent/'web-github/release-assets/manifest.json'
+assets=json.loads(manifest.read_text()) if manifest.exists() else []
 release=('https://github.com/'+a.repository+'/releases/tag/archiv-2026-09-19') if a.repository else ''
 rows=[]
 for item in assets:
@@ -62,6 +64,9 @@ body+='<p>Databáze je archiv.sqlite.gz. Po rozbalení ji lze otevřít v SQLite
 (S/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: https://kydy.cz/sitemap.xml\n')
 paths=['index.html','kampane-2026/index.html','analyzy/kampane_2026.html','analyzy/prehled.html','analyzy/temata.html']
 (S/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>https://kydy.cz/'+p+'</loc></url>' for p in paths)+'</urlset>')
+# Poslední krok vždy obnoví nový rozcestník a zachová původní pod archiv.html.
+import subprocess
+subprocess.run(['python3',str(P/'scripts/build_assessment.py')],check=True)
 files=[f for f in S.rglob('*') if f.is_file()];total=sum(f.stat().st_size for f in files)
 assert total<900_000_000,'Web je příliš blízko limitu Pages'
 assert all(f.stat().st_size<95_000_000 for f in files),'Soubor je příliš velký pro běžný Git'

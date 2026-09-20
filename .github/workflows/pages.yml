@@ -18,6 +18,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Ověřit metodiku a přiřazení důkazů
+        run: python3 -m unittest discover -s tests -v
+      - name: Sestavit srovnání ze zdrojovaných dat
+        run: python3 scripts/build_assessment.py
       - name: Ověřit web
         run: python3 scripts/check_site.py
       - uses: actions/configure-pages@v5
