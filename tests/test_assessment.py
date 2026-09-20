@@ -1,4 +1,5 @@
 """Regrese pro politicky významné chyby a pravidla souhrnu."""
+import csv
 import hashlib
 import importlib.util
 import json
@@ -12,13 +13,49 @@ DATA=json.loads((ROOT/'research/assessment.json').read_text())
 PARTIES={p['number']:p for p in DATA['campaigns']}
 CLAIMS={c['id']:c for p in DATA['campaigns'] for c in p['claims']}
 
-class Majority(unittest.TestCase):
-    def test_strict_majority_and_unknowns(self):
-        for values,expected in [(['ANO','ANO','MOŽNÁ'],'ANO'),(['NE','NE','ANO'],'NE'),(['ANO','NE','MOŽNÁ'],'MOŽNÁ'),(['ANO','ANO','MOŽNÁ','MOŽNÁ'],'MOŽNÁ'),(['NE','MOŽNÁ','MOŽNÁ'],'MOŽNÁ'),(['MOŽNÁ'],'MOŽNÁ')]:
-            with self.subTest(values=values):self.assertEqual(builder.aggregate(values),expected)
-    def test_invalid_cannot_silently_turn_maybe(self):
-        for values in [[],['UNKNOWN'],['ANO',None]]:
-            with self.assertRaises(ValueError):builder.aggregate(values)
+class Composition(unittest.TestCase):
+    def test_mix_preserves_missing_evidence_and_conflict(self):
+        self.assertEqual(builder.composition(['podlozeno','podlozeno','rozpor','bez_opory']),
+                         {'podlozeno':2,'podminene':0,'rozpor':1,'bez_opory':1})
+        self.assertEqual(builder.composition(['bez_opory'])['bez_opory'],1)
+    def test_invalid_or_old_scale_rejected(self):
+        for values in [[],['UNKNOWN'],['MOŽNÁ'],['podlozeno',None]]:
+            with self.assertRaises(ValueError):builder.composition(values)
+    def test_public_schema_has_no_future_prediction(self):
+        self.assertEqual(DATA['schema_version'],2)
+        self.assertEqual(DATA['methodology_version'],2)
+        public=json.loads((ROOT/'site/data/hodnoceni-kampani.json').read_text())
+        for p in public['campaigns']:
+            self.assertNotIn('verdict',p)
+            self.assertEqual(p['evidence_counts'],builder.composition([c['evidence_status'] for c in p['claims']]))
+            for c in p['claims']:
+                self.assertNotIn('verdict',c)
+                self.assertIn(c['evidence_status'],builder.STATUSES)
+                self.assertTrue(c['reason'])
+    def test_csv_preserves_all_categories_and_reasons(self):
+        with (ROOT/'site/data/hodnoceni-slibu.csv').open(encoding='utf-8-sig',newline='') as f:
+            rows=list(csv.DictReader(f))
+        self.assertEqual({r['id'] for r in rows},set(CLAIMS))
+        for r in rows:
+            c=CLAIMS[r['id']]
+            self.assertEqual(r['opora_kod'],c['evidence_status'])
+            self.assertEqual(r['opora_popis'],builder.STATUSES[c['evidence_status']]['label'])
+            self.assertEqual(r['duvod'],c['reason'])
+    def test_evidence_not_election_uncertainty_determines_category(self):
+        self.assertEqual(CLAIMS['K03-03']['evidence_status'],'podlozeno')
+        self.assertNotIn('volební zastoupení',CLAIMS['K03-03']['reason'])
+        self.assertEqual(CLAIMS['K02-01']['evidence_status'],'podminene')
+        self.assertEqual(CLAIMS['K16-01']['evidence_status'],'bez_opory')
+        # Celý balík sportovišť nezezelená jen díky aréně.
+        self.assertEqual(CLAIMS['K06-02']['evidence_status'],'podminene')
+        self.assertEqual(CLAIMS['K06-05']['evidence_status'],'podlozeno')
+    def test_cards_label_every_promise_without_relying_on_color(self):
+        home=(ROOT/'site/index.html').read_text()
+        self.assertEqual(home.count('<small>'),len(CLAIMS))
+        self.assertEqual(home.count('class="composition"'),16)
+        self.assertNotIn('všude MOŽNÁ',home)
+        self.assertIn('Barva ukazuje oporu slibu',home)
+        for status in builder.STATUSES.values():self.assertIn(status['label'],home)
 
 class Evidence(unittest.TestCase):
     def vote(self,claim,vid):return next(v for v in CLAIMS[claim]['votes'] if v['id']==vid)

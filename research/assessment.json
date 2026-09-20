@@ -1,5 +1,7 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
+  "methodology_version": 2,
+  "assessment_question": "Jakou oporu má tento slib?",
   "updated": "2026-09-20",
   "campaign_snapshots": "2026-09-19",
   "votes_through": "2026-06-23",
@@ -44,8 +46,8 @@
             "source": "e361ef775f79a891",
             "locator": "otázka 1 – Zdeněk Slavík"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Priorita je konkrétnější než srpnové oznámení, ale rozsah a termín zůstávají otevřené.",
+          "evidence_status": "bez_opory",
+          "reason": "Stovky bytů jsou prioritou, ale v podkladech chybí termín, seznam projektů i propočet financování.",
           "signal": "Málo konkrétní",
           "history": "Nikdo z dnešní kandidátky neměl celoměstský mandát 2022–2026; bývalé hlasy SOCDEM nepřenášíme.",
           "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
@@ -88,7 +90,7 @@
           }
         ]
       },
-      "summary": "Bydlení má přípravné kroky i rozpory v prodejích; levnější MHD stojí na nejistém přílivu nově přihlášených obyvatel.",
+      "summary": "Kotel má oporu v realizační smlouvě, bydlení a levnější MHD v neuzavřených podmínkách; garance odpovědi na každý podnět zatím doložený postup nemá.",
       "selection": "Bydlení a MHD jsou explicitní priority úvodu programu; doplňujeme komunikaci a energetiku. Opravy, novostavby, prodeje a audit posuzujeme jako jeden bytový balík.",
       "political": "Dnešní kandidáti mají zkušenost s prosazováním rozpočtu a bytových projektů; to neprokazuje většinu pro nový tarif MHD.",
       "political_references": [],
@@ -107,8 +109,8 @@
             "source": "a5c21a6ba96acdd7",
             "locator": "část o levnější MHD"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Sleva má deklarovaný výpočet, ale její zaplacení závisí na lidech, které město nepřinutí přihlásit trvalý pobyt.",
+          "evidence_status": "podminene",
+          "reason": "Systém slev existuje a kampaň nabízí propočet, jeho krytí však závisí na přibližně 10 tisících nově přihlášených obyvatel.",
           "signal": "Nový závazek",
           "history": "Kampaň financování podmiňuje získáním dalších trvale přihlášených obyvatel; minulé schválení celého rozpočtu tuto cenu nedokládá.",
           "authority": "Město ovlivňuje vlastní dopravu a její financování. Změny integrovaného tarifu, regionálních spojů a státních staveb vyžadují další partnery.",
@@ -143,8 +145,8 @@
             "source": "a5c21a6ba96acdd7",
             "locator": "bydlení – do čtyř let"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Existují připravené projekty, ale součet prázdných bytů není seznam rychle opravitelných bytů a příprava není dokončení.",
+          "evidence_status": "podminene",
+          "reason": "Příprava bydlení i smlouva na Kamenný vrch jsou doložené, pro celý počet oprav a novostaveb ale chybí projektový plán a aktuální výchozí data.",
           "signal": "Smíšená praxe",
           "history": "Osm nynějších kandidátů podpořilo prodej Dornychu 29/31, osm později zrušení starého privatizačního postupu. Podporovali také financování přípravy Kamenného vrchu.",
           "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
@@ -474,13 +476,13 @@
             "source": "a5c21a6ba96acdd7",
             "locator": "levnější energie"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Projekt už má podepsanou smlouvu; dokončení není nový nápad kampaně a samotné osobní zásluhy z tajné volby nepoznáme.",
+          "evidence_status": "podlozeno",
+          "reason": "Dokončení navazuje na oznámenou realizační smlouvu SAKO za 5,4 mld. Kč a podporu z fondu; dokládá to postup projektu, nikoli výlučnou zásluhu kandidátky.",
           "signal": "Podepsaná smlouva projektu",
           "history": "Vybrané osobní hlasy dokládají postoj k tajné proceduře, nikoliv následnou tajnou volbu. Vedle toho je doloženo oznámení SAKO o uzavření realizační smlouvy.",
           "authority": "Vlastnictví městských společností dává městu vliv, ale nenahrazuje rozhodování společnosti, investiční financování, soutěže ani cenová pravidla.",
           "practical": "SAKO oznámilo podepsanou smlouvu za 5,4 mld. Kč a podporu z Modernizačního fondu; dřívější sdělení uvádělo květen 2028. Projekt tedy není jen volební nápad. Zbývá ověřit aktuální plnění harmonogramu a finanční rizika; oznámení firmy není nezávislý audit.",
-          "change": "Aktuální milníky provádění podepsané smlouvy a finanční bilance; u tvrzené škody také porovnání obou zadání a alternativ.",
+          "change": "Zrušení smlouvy, nezajištěné financování nebo zásadní skluz by oporu oslabily; ověřené plnění milníků a dokončení by ji posílily.",
           "counterevidence": "Odmítnutí tajné volby je doložené, následný tajný hlas jednotlivců však neznáme.",
           "references": [
             {
@@ -609,8 +611,8 @@
             "source": "a5c21a6ba96acdd7",
             "locator": "Město, které komunikuje – Do 2 let"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Proces město zavést může, zatím ale není doloženo, jak bude garantovat termíny a odpovědnost.",
+          "evidence_status": "bez_opory",
+          "reason": "Slib má termín i požadovaný výsledek, ale nemáme doložený systém odpovědností, personální plán ani dosavadní splnění této garance.",
           "signal": "Nový závazek",
           "history": "Přímý celoměstský výsledek odpovídající této garanci není v ověřeném výběru doložen.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -649,7 +651,7 @@
           }
         ]
       },
-      "summary": "Otevřené hlasování má osobní oporu v minulosti, ale slíbené byty a levnější MHD zatím nemají doloženou úplnou cestu k realizaci.",
+      "summary": "Odmítání tajné procedury dokládají osobní hlasy, bydlení a slevy mají konkrétní podmínky, obecný slib stínu zatím nemá ověřený rozsah.",
       "selection": "Výběr z kapitol bydlení, doprava, zeleň a otevřená radnice; odděleně vlastní hlasování a navýšení participativního rozpočtu.",
       "political": "Vencovská preferuje Piráty, Lidovce a Starosty a Za Lužánky; odmítá SPD a Motoristy. Většinu těchto partnerů zatím neznáme.",
       "political_references": [
@@ -673,8 +675,8 @@
             "source": "21e4512b441a968a",
             "locator": "závazky kapitoly 01"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Kontrola bytového fondu je doložená, slíbené tempo výstavby však není doloženým výsledkem.",
+          "evidence_status": "podminene",
+          "reason": "Drápalová doložitelně kontrolovala bytová data a spolupodepsala smlouvu na Kamenný vrch; opravy i slíbené budoucí tempo ještě potřebují úplný plán.",
           "signal": "Doložená kontrola",
           "history": "Jana Drápalová v lednu 2026 upozornila na nesprávný součet neobsazených bytů; březnová odpověď obsahuje opravenou tabulku. Jana Drápalová jako starostka Nového Lískovce spolupodepsala smlouvu na Kamenný vrch; jde o konkrétní jinou veřejnou roli, ne samostatný audit městské části.",
           "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
@@ -713,8 +715,8 @@
             "source": "9d37f12bf9c84ce4",
             "locator": "závazky kapitoly 02"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Město může slevu financovat, ale není doloženo krytí výpadku tržeb pro všechny slibované skupiny.",
+          "evidence_status": "podminene",
+          "reason": "Bezplatnou přepravu lze rozšířit v existujícím tarifním systému, podmínkou je vyčíslit a uhradit nové slevy pro všechny uvedené skupiny.",
           "signal": "Nový závazek",
           "history": "Přímý osobní návrh nebo realizovaný výsledek odpovídající tomuto slibu nebyl v ověřeném výběru doložen; nejde o důkaz nečinnosti.",
           "authority": "Město ovlivňuje vlastní dopravu a její financování. Změny integrovaného tarifu, regionálních spojů a státních staveb vyžadují další partnery.",
@@ -749,13 +751,13 @@
             "source": "b1601a4c78eb08d6",
             "locator": "bod 9.1.1"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Dosavadní osobní hlasy tomuto závazku odpovídají, ale volební zastoupení celé nové kandidátky zůstává nejisté.",
+          "evidence_status": "podlozeno",
+          "reason": "Drápalová a Flamiková tajnou proceduru skutečně odmítly a svůj další hlas mohou ovlivnit samy; doklad se netýká všech nových kandidátů ani všech minulých hlasování.",
           "signal": "Soulad s hlasováním",
           "history": "Drápalová a Flamiková 18. 10. 2023 odmítly tajné hlasování o SAKO. Vencálek tehdy neměl mandát.",
           "authority": "Zastupitel může přímo ovlivnit vlastní hlas. Změna městských pravidel, zadání auditu nebo zveřejňování dalších údajů potřebuje podporu příslušného orgánu.",
           "practical": "Vlastní hlas mají případní zastupitelé pod kontrolou a nepotřebují rozpočtovou většinu. Silný důkaz pro chování dvou lidí není zárukou jednání všech nově zvolených.",
-          "change": "Veřejný závazek všech zvolených a sledování každého dalšího procedurálního hlasu.",
+          "change": "Přímo opačný procedurální hlas by oporu oslabil; další veřejné hlasy všech zvolených by rozšířily ověření za dva dosavadní kandidáty.",
           "counterevidence": "Z tohoto důkazu nelze vyvodit, jak někdo hlasoval v následném tajném hlasování.",
           "references": [],
           "authority_references": [
@@ -817,8 +819,8 @@
             "source": "b1601a4c78eb08d6",
             "locator": "závazky kapitoly 09"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Participativní rozpočet už funguje, ale vznik fondu nepotvrzuje podporu částky 50 milionů.",
+          "evidence_status": "podminene",
+          "reason": "Participativní rozpočet již funguje, zvýšení na 50 milionů ale vyžaduje novou rozpočtovou alokaci a jasná pravidla jejího počítání.",
           "signal": "Existující nástroj",
           "history": "Zřízení fondu v roce 2024 není hlas o budoucí částce 50 milionů.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -885,8 +887,8 @@
             "source": "7a6b0de97db9da61",
             "locator": "kapitola 04 Zeleň, voda a stín ve městě"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Město umí výsadbu zadávat, ale plošný výsledek vyžaduje prostor pro kořeny, sítě a následnou péči.",
+          "evidence_status": "bez_opory",
+          "reason": "Tento obecný slib nemá v rozboru doložený rozsah výsadeb, rozpočet péče ani měření výsledného stínu.",
           "signal": "Obecný cíl",
           "history": "Přímý souhrnný výsledek odpovídající této formulaci nebyl v podkladech prokázán.",
           "authority": "Město může upravovat své veřejné prostory a financovat údržbu. Zásahy do ulic závisí také na správě sítí, vlastnictví pozemků a povolování.",
@@ -949,12 +951,12 @@
             "source": "08614cda1a445d8c",
             "locator": "Doprava"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Dřívější hlas o projednání analýz neříká, zda kandidáti lanovku postaví.",
+          "evidence_status": "bez_opory",
+          "reason": "Podklady dokládají projednávání analýz, nikoli osobní podporu stavby ani společný finanční a povolovací plán tramvají a lanovky.",
           "signal": "Jen nepřímý důkaz",
           "history": "Tomáš Hejl a Miroslav Kubásek při hlasu o veřejném projednání nehlasovali. Petrovi Bauerovi už mandát skončil. Přijetí petice na vědomí není hlas proti stavbě.",
           "authority": "Město ovlivňuje vlastní dopravu a její financování. Změny integrovaného tarifu, regionálních spojů a státních staveb vyžadují další partnery.",
-          "practical": "Tramvajové tratě a lanovka mají odlišné náklady, povolení a dopravní přínosy. Bez samostatného finančního a povolovacího rozboru nelze dát společné ANO.",
+          "practical": "Tramvajové tratě a lanovka mají odlišné náklady, povolení a dopravní přínosy. Bez samostatného finančního a povolovacího rozboru nelze doložit cestu k celému závazku.",
           "change": "Aktuální harmonogram a krytí konkrétních staveb.",
           "counterevidence": "Nehlasování o veřejném projednání není hlas proti lanovce; vzetí petice na vědomí také ne.",
           "references": [],
@@ -1061,8 +1063,8 @@
             "source": "08614cda1a445d8c",
             "locator": "Bydlení"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Není určeno, které prodeje jsou zbytečné, a dosavadní osobní hlasy ukazují prodej i pozdější omezení privatizace.",
+          "evidence_status": "bez_opory",
+          "reason": "Bez vymezení „zbytečných“ prodejů nelze slib ověřovat; dosavadní hlasy navíc zahrnují prodej Dornychu i pozdější omezení privatizace.",
           "signal": "Smíšená praxe",
           "history": "Hejl a Kubásek podpořili prodej Dornychu; Kubásek později zrušení starého privatizačního postupu. Program neříká, které prodeje považuje za zbytečné.",
           "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
@@ -1173,8 +1175,8 @@
             "source": "08614cda1a445d8c",
             "locator": "Sport"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Existuje příbuzný systém voucherů, nikoli doklad schválení tohoto nového nároku.",
+          "evidence_status": "podminene",
+          "reason": "Příbuzný systém voucherů už existuje, nový příspěvek 1 000 Kč však potřebuje vlastní pravidla nároku a rozpočtové krytí.",
           "signal": "Existující nástroj",
           "history": "Nesměšovat s jinými podmínkami a částkami rodičovských voucherů.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -1258,7 +1260,7 @@
           }
         ]
       },
-      "summary": "Stadion má podporu napříč zastupitelstvem, ale stále vyžaduje vyřešit právní a finanční podmínky; 2 000 bytů je cíl až do roku 2035.",
+      "summary": "Kontrolní iniciativa Koláčného je doložená, stadion a dva tisíce bytů ale nadále závisejí na smlouvách a projektových plánech.",
       "selection": "Stadion je výslovně hlavní strategický cíl; přidáváme bytovou kapitolu a konkrétní kontrolní závazek z části o správě města.",
       "political": "Podmíněnou podporu stadionu v září 2025 vyslovilo 50 zastupitelů; jde o podporu projektu s podmínkami, ne příslib koalice se Za Lužánky.",
       "political_references": [],
@@ -1277,8 +1279,8 @@
             "source": "bf1d45a61931b218",
             "locator": "Sport"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Široká podpora stadionu je doložená, jeho finální právní a finanční podoba však není totéž co podmíněný souhlas.",
+          "evidence_status": "podminene",
+          "reason": "Stadion má širokou podmíněnou podporu zastupitelstva, k výstavbě ale stále chybí ověřené konečné smluvní a finanční řešení.",
           "signal": "Doložená příprava",
           "history": "Pro podmíněné umožnění stadionu hlasovalo celkem 50 zastupitelů; podpora nebyla výlučná pro jedno uskupení.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -1366,13 +1368,13 @@
             "source": "bf1d45a61931b218",
             "locator": "Efektivní radnice, boj proti korupci a participace"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Koláčný navrhl konkrétní kontrolní postup, ale zdržení u jiné varianty není odmítnutí kontroly jako takové.",
+          "evidence_status": "podlozeno",
+          "reason": "Koláčný předložil konkrétní návrh kontroly vánočních trhů; je to doložená iniciativa jednoho kandidáta, nikoli důkaz hotového auditu nebo otevřenosti celé radnice.",
           "signal": "Doložená iniciativa",
           "history": "Koláčný podpořil vlastní návrh pracovní skupiny k hospodaření vánočních trhů; u návrhu Vaňkové na externí posouzení nákladů se zdržel. Lídryně Janulíková v městském zastupitelstvu v tomto období nehlasovala.",
           "authority": "Zastupitel může přímo ovlivnit vlastní hlas. Změna městských pravidel, zadání auditu nebo zveřejňování dalších údajů potřebuje podporu příslušného orgánu.",
           "practical": "Programové heslo potřebuje pravidla zveřejňování a vymezení kontrol. Doložené hlasování rozlišuje pracovní skupinu a externí posouzení.",
-          "change": "Konkrétní standard zveřejňování a doložené výsledky kontrol.",
+          "change": "Doložené výsledky kontrol a standard zveřejňování by rozšířily oporu nad jeden návrh; přímé maření obdobné kontroly by ji oslabilo.",
           "counterevidence": "Lídryně Janulíková v daném zastupitelstvu nehlasovala; hlas kandidáta není její osobní hlas.",
           "references": [],
           "authority_references": [
@@ -1450,8 +1452,8 @@
             "source": "bf1d45a61931b218",
             "locator": "Bydlení"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Cíl přesahuje jedno volební období a kampaň nemá doložený projektový plán pro celý objem.",
+          "evidence_status": "podminene",
+          "reason": "Koláčného hlasy odpovídají odmítání privatizace, výstavba 2 000 bytů do roku 2035 však vyžaduje dosud nedoložený projektový a finanční plán.",
           "signal": "Soulad u prodejů",
           "history": "Tomáš Koláčný odmítl prodej Dornychu a podpořil zrušení starého privatizačního postupu.",
           "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
@@ -1551,7 +1553,7 @@
           }
         ]
       },
-      "summary": "Kandidáti doložitelně podpořili financování arény a přípravu bydlení, dokončení dalších staveb však vyžaduje více než dosavadní hlasy.",
+      "summary": "Janáčkovo centrum se už staví, další rozvoj navazuje na konkrétní přípravu; pětiminutová dostupnost stínu zatím doložený plán nemá.",
       "selection": "Konkrétní závazky z kapitol bydlení, sport, rozvoj, zeleň a kultura; nová lídryně není autorkou hlasování dosavadních zastupitelů.",
       "political": "Zlatušková odmítá ANO, SPD a Motoristy. Dosavadní koalice proto není automatickým modelem dalšího období.",
       "political_references": [
@@ -1575,8 +1577,8 @@
             "source": "5c5302858902999b",
             "locator": "bytová kapitola"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Kandidáti podpořili konkrétní přípravné kroky, ale tempo a objem slibované výstavby nejsou určeny.",
+          "evidence_status": "podminene",
+          "reason": "Podpora přípravy a podepsaná smlouva na Kamenný vrch dávají bydlení konkrétní základ, tempo oprav a rozsah celého programu ale zůstávají neurčené.",
           "signal": "Doložená příprava",
           "history": "Schválení pravidel či výběru banky není důkaz splněného objemu výstavby.",
           "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
@@ -1792,8 +1794,8 @@
             "source": "e86b900dd8d395d8",
             "locator": "sportovní kapitola"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Financování arény podpořilo všech deset tehdy hlasujících kandidátů, ale každý další stadion vyžaduje vlastní rozhodnutí.",
+          "evidence_status": "podminene",
+          "reason": "Financování arény i stavba jsou doložené, celý balík sportovišť však zahrnuje také stadion s dosud neuzavřenými podmínkami.",
           "signal": "Soulad s hlasováním",
           "history": "Všech deset nynějších kandidátů s tehdejším mandátem schválilo financování arény. Zářijová zpráva města nabízí prohlídky stavby před dokončením; hotový provoz z ní nevyvozujeme.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -2005,8 +2007,8 @@
             "source": "70d6a4c7a2415dca",
             "locator": "rozvojová kapitola"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Majetkový krok je doložený, dokončení státní železnice však není v rukou samotného města.",
+          "evidence_status": "podminene",
+          "reason": "Městský majetkový krok a státní příprava dávají uzlu reálný základ, jeho posun ale vyžaduje součinnost Správy železnic a státu.",
           "signal": "Doložená příprava",
           "history": "Postoj nové lídryně Zlatuškové nelze odvodit z hlasů dosavadního klubu.",
           "authority": "Město připravuje své pozemky, území a návaznou MHD; železniční uzel připravuje Správa železnic. Samotná brněnská koalice nerozhodne o celé státní investici.",
@@ -2126,8 +2128,8 @@
             "source": "f1d03ce2b043c8d4",
             "locator": "kapitola o zeleni"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Prostorový závazek jde měřit, ale chybí mapa výchozího stavu a financovaný plán doplnění.",
+          "evidence_status": "bez_opory",
+          "reason": "Pětiminutová dostupnost stínu je měřitelný slib, ale chybí výchozí mapa a financovaný plán, který by jeho splnění doložil.",
           "signal": "Nový závazek",
           "history": "Měřitelný prostorový závazek; dostupné hlasování bez mapového vyhodnocení neprokazuje splnění.",
           "authority": "Město může upravovat své veřejné prostory a financovat údržbu. Zásahy do ulic závisí také na správě sítí, vlastnictví pozemků a povolování.",
@@ -2153,13 +2155,13 @@
             "source": "1347ec23e98d4593",
             "locator": "kulturní kapitola"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Stavba skutečně pokračuje, ale termín dokončení zůstává plánem a otevření se očekává až v roce 2029.",
+          "evidence_status": "podlozeno",
+          "reason": "Janáčkovo centrum má doložené stavební práce a plán dokončení v roce 2028; jde o pokračující městský projekt, nikoli zaručený termín nebo osobní výsledek nové lídryně.",
           "signal": "Doložená realizace",
           "history": "Městský projektový přehled uvádí dokončení 2028 a otevření 2029. Zpráva z března 2026 dokládá konkrétní stavební práce, nejen hlas o rozpočtu.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
           "practical": "Podzemní části a přeložky již mají doložený postup. U dokončení zbývá stavební a dodavatelské riziko; termín v projektovém přehledu není záruka.",
-          "change": "Ověřený aktuální harmonogram a smluvně pokryté zbývající práce.",
+          "change": "Zastavení stavby či ztráta financování by oporu oslabily; dokončené milníky a ověřené krytí zbývajících prací by ji posílily.",
           "counterevidence": "Rozpočtová návaznost existuje, konkrétní výsledek se musí ověřit na stavbě.",
           "references": [
             {
@@ -2314,8 +2316,8 @@
             "source": "2a6a7030b56079c9",
             "locator": "kapitola Bydlení"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Město má nástroje, ale bez počtu bytů a termínu je úspěch slibu obtížné ověřit.",
+          "evidence_status": "bez_opory",
+          "reason": "Podpora městských bytů zatím nemá v podkladech počet, termín ani projektový plán, podle kterého by šel výsledek ověřit.",
           "signal": "Málo konkrétní",
           "history": "Na listině nejsou držitelé městského mandátu z tohoto období; chybějící hlasy nejsou nečinnost.",
           "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
@@ -2345,8 +2347,8 @@
             "source": "0fad0c91e46486cb",
             "locator": "bod 1 Přímá pomoc lidem v nouzi"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Město může služby podpořit, ale nejsou určeny kapacity ani trvalé provozní financování.",
+          "evidence_status": "bez_opory",
+          "reason": "Rozšíření sociálních služeb nemá doložené kapacity, konkrétní projekty ani trvalé provozní financování.",
           "signal": "Nový závazek",
           "history": "Přímý osobní návrh nebo realizovaný výsledek odpovídající tomuto slibu nebyl v ověřeném výběru doložen; nejde o důkaz nečinnosti.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -2372,8 +2374,8 @@
             "source": "911b21fa5dc6974d",
             "locator": "kapitola Doprava"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Lídr dříve prosazoval levnější MHD, ale stanovisko není důkaz zavedení dnešních dopravních změn.",
+          "evidence_status": "bez_opory",
+          "reason": "Starší Říhovo stanovisko dokládá zájem o levnější MHD, ne provedené změny návaznosti spojů ani plán dnešního slibu.",
           "signal": "Starší doložený postoj",
           "history": "Přímý osobní návrh nebo realizovaný výsledek odpovídající tomuto slibu nebyl v ověřeném výběru doložen; nejde o důkaz nečinnosti.",
           "authority": "Město ovlivňuje vlastní dopravu a její financování. Změny integrovaného tarifu, regionálních spojů a státních staveb vyžadují další partnery.",
@@ -2440,8 +2442,8 @@
             "source": "bc367294a3a2b4cb",
             "locator": "Domov klidem"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Konkrétní příprava je doložena, nezávislé ověření součtu tisíce a financování další tisícovky však chybí.",
+          "evidence_status": "podminene",
+          "reason": "Podivinská spolupodepsala smlouvu na Kamenný vrch, příprava další tisícovky ale nemá ověřený součet a družstevní úvěr může nést i riziko města.",
           "signal": "Smíšená praxe",
           "history": "Kandidáti podpořili Kamenný vrch. Sedm zároveň hlasovalo pro prodej Dornychu; všech devět později pro zrušení starého privatizačního postupu. Karin Podivinská je uvedena mezi signatáři červencové smlouvy.",
           "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
@@ -2713,8 +2715,8 @@
             "source": "bc367294a3a2b4cb",
             "locator": "Pohyb klidem"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Tarif město ovlivňuje, ale státní peníze na nádraží nemůže samo převést na bydlení.",
+          "evidence_status": "podminene",
+          "reason": "Slevy MHD město ovlivňuje, změna železničního projektu a přesun státních peněz však závisejí na dohodě se státem.",
           "signal": "Závisí na státu",
           "history": "Dřívější majetkový krok k železničnímu uzlu není hlas o této nové variantě.",
           "authority": "Město připravuje své pozemky, území a návaznou MHD; železniční uzel připravuje Správa železnic. Samotná brněnská koalice nerozhodne o celé státní investici.",
@@ -2826,8 +2828,8 @@
             "source": "bc367294a3a2b4cb",
             "locator": "Město klidem"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Pravidla otevřených dat byla schválena, úplné plnění a užití soutěží u všech klíčových projektů ověřeno není.",
+          "evidence_status": "podminene",
+          "reason": "Schválená pravidla otevřených dat jsou konkrétní krok, jejich plnění a soutěže u všech klíčových projektů však ověřené nejsou.",
           "signal": "Doložený rámec",
           "history": "Zastupitelstvo schválilo pravidla otevřených dat městských společností; osobní hlasy jsou níže.",
           "authority": "Zastupitel může přímo ovlivnit vlastní hlas. Změna městských pravidel, zadání auditu nebo zveřejňování dalších údajů potřebuje podporu příslušného orgánu.",
@@ -2930,8 +2932,8 @@
             "source": "bc367294a3a2b4cb",
             "locator": "Život klidem – bezpečnost"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Rozhodnutí o penězích samo nezajistí nábor a udržení lidí.",
+          "evidence_status": "bez_opory",
+          "reason": "Pro více strážníků v ulicích nemáme doložený cílový počet, náborový plán ani odpovídající osobní rozhodnutí.",
           "signal": "Nový závazek",
           "history": "V ověřeném výběru není osobní rozhodnutí odpovídající konkrétnímu navýšení.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -2957,8 +2959,8 @@
             "source": "bc367294a3a2b4cb",
             "locator": "Voda klidem"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Jde o reálné městské úkoly, ale odkanalizování břehů je zatím slib přípravy.",
+          "evidence_status": "podminene",
+          "reason": "Protipovodňové stavby mají doložené projednávání, příprava kanalizace obou břehů ale potřebuje vlastní technické a finanční podklady.",
           "signal": "Jen nepřímý důkaz",
           "history": "Hlas o průběžných informacích o protipovodňových stavbách není doklad dokončení ani postoj ke každé stavbě.",
           "authority": "Město může upravovat své veřejné prostory a financovat údržbu. Zásahy do ulic závisí také na správě sítí, vlastnictví pozemků a povolování.",
@@ -3101,8 +3103,8 @@
             "source": "e361ef775f79a891",
             "locator": "otázka 1 – Tomáš Kratochvíl"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Priorita neurčuje, jakou změnu služby mají lidé poznat.",
+          "evidence_status": "bez_opory",
+          "reason": "Bezpečnost je deklarovanou prioritou, ale chybějí měřitelné cíle a náklady; starší funkce lídra tento plán nenahrazuje.",
           "signal": "Málo konkrétní",
           "history": "Tomáš Kratochvíl byl městským radním pro správu městských účastí; neplést se současným Petrem Kratochvílem.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -3133,8 +3135,8 @@
             "source": "e361ef775f79a891",
             "locator": "otázka 1 – Tomáš Kratochvíl"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Koordinace může pomoci, všechny stavby a lhůty však město neřídí.",
+          "evidence_status": "bez_opory",
+          "reason": "Kratší uzavírky zatím nemají doložený soubor procesních změn ani měření a město navíc neřídí všechny investory.",
           "signal": "Nový závazek",
           "history": "Srovnatelný celoměstský výsledek zkrácení oprav není doložen.",
           "authority": "Město ovlivňuje vlastní dopravu a její financování. Změny integrovaného tarifu, regionálních spojů a státních staveb vyžadují další partnery.",
@@ -3164,8 +3166,8 @@
             "source": "e361ef775f79a891",
             "locator": "otázka 1 – Tomáš Kratochvíl"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Nabídnout program lze snáze než zajistit zapojení a personál všech škol.",
+          "evidence_status": "bez_opory",
+          "reason": "Kampaň uvádí bystrcký pilot, v podkladech ale chybí jeho nezávislé ověření a finanční plán nabídky všem brněnským školám.",
           "signal": "Uváděný pilot",
           "history": "Kampaň uvádí bystrcký pilot; jeho účinek zde nezávisle nepotvrzujeme.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -3223,8 +3225,8 @@
             "source": "d719a868b3bfdf9b",
             "locator": "celostátní komunální prohlášení"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Brno už pyrotechniku reguluje; slib zákazu potřebuje přesně vymezit další rozsah a zákonné možnosti.",
+          "evidence_status": "podminene",
+          "reason": "Brno již má regulaci pyrotechniky, další omezení však vyžaduje vymezit nový rozsah a postup v zákonných pravomocích města.",
           "signal": "Existující nástroj",
           "history": "Rozhodnutí dosavadních zastupitelů se nesmí připsat novým kandidátkám DSZ.",
           "authority": "Město může upravovat své veřejné prostory a financovat údržbu. Zásahy do ulic závisí také na správě sítí, vlastnictví pozemků a povolování.",
@@ -3272,8 +3274,8 @@
             "source": "d719a868b3bfdf9b",
             "locator": "celostátní komunální prohlášení"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Městská podpora je možná, ale nejsou určeny částky, příjemci ani způsob kontroly.",
+          "evidence_status": "bez_opory",
+          "reason": "Podpora útulků je možným městským opatřením, ale bez částek, příjemců a pravidel jde zatím o neupřesněný příslib.",
           "signal": "Nový závazek",
           "history": "Přímý osobní návrh nebo realizovaný výsledek odpovídající tomuto slibu nebyl v ověřeném výběru doložen; nejde o důkaz nečinnosti.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -3299,8 +3301,8 @@
             "source": "d719a868b3bfdf9b",
             "locator": "komunální prohlášení 13. 8. 2026 – kastrační programy"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Konkrétní nástroj je pojmenovaný, jeho brněnský rozsah ale chybí.",
+          "evidence_status": "bez_opory",
+          "reason": "Kastrační program je pojmenovaný nástroj, chybí však doložený brněnský rozsah, financování a dosavadní práce kandidátek na něm.",
           "signal": "Nový závazek",
           "history": "Osobní celoměstské hlasování kandidátek nebylo doloženo.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -3358,8 +3360,8 @@
             "source": "4c041d7221ac93e4",
             "locator": "zpráva 3. 9. 2026"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Vyhlášení referenda a změna státní stavby jsou dva různé výsledky.",
+          "evidence_status": "podminene",
+          "reason": "Místní referendum lze prosazovat, jeho otázka musí spadat do samosprávy a výsledek sám nezmění státní železniční projekt.",
           "signal": "Závisí na partnerech",
           "history": "Starý program B3! není automaticky aktuálním programem 2026.",
           "authority": "Místní referendum může zavázat město v jeho samostatné působnosti. Nemůže samo přikázat státu přesun železniční investice.",
@@ -3456,8 +3458,8 @@
             "source": "b31cfa08ef916f6b",
             "locator": "PDF – Energie"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Sleva není doloženým tarifem a rozhodující je, kdo zaplatí rozdíl.",
+          "evidence_status": "bez_opory",
+          "reason": "Sleva tepla o 15 % nemá doložený tarif ani ověřený zdroj úhrady rozdílu; současné nezvyšování ceny není touto slevou.",
           "signal": "Nový závazek",
           "history": "Závazek kampaně; není doložen realizovaný tarif ani nezávisle ověřené finanční krytí.",
           "authority": "Vlastnictví městských společností dává městu vliv, ale nenahrazuje rozhodování společnosti, investiční financování, soutěže ani cenová pravidla.",
@@ -3492,10 +3494,10 @@
             "source": "b31cfa08ef916f6b",
             "locator": "PDF – Preambule a Energie"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Starší vedení města nedokazuje dnešní termín kotle a tvrzená škoda není výsledkem našeho auditu.",
+          "evidence_status": "podminene",
+          "reason": "Dokončení kotle má oporu v existující smlouvě SAKO, součástí sdělení je však i tvrzená škoda, kterou dostupné porovnání zakázek nepotvrzuje.",
           "signal": "Podepsaná smlouva projektu",
-          "history": "Vybrané osobní hlasy dokládají postoj k tajné proceduře, nikoliv následnou tajnou volbu. Vedle toho je doloženo oznámení SAKO o uzavření realizační smlouvy.",
+          "history": "Oznámení SAKO dokládá uzavření realizační smlouvy; starší Vokřálovo vedení města samo nepotvrzuje dnešní harmonogram ani výši tvrzené škody.",
           "authority": "Vlastnictví městských společností dává městu vliv, ale nenahrazuje rozhodování společnosti, investiční financování, soutěže ani cenová pravidla.",
           "practical": "SAKO oznámilo podepsanou smlouvu za 5,4 mld. Kč a podporu z Modernizačního fondu; dřívější sdělení uvádělo květen 2028. Projekt tedy není jen volební nápad. Zbývá ověřit aktuální plnění harmonogramu a finanční rizika; oznámení firmy není nezávislý audit.",
           "change": "Aktuální milníky provádění podepsané smlouvy a finanční bilance; u tvrzené škody také porovnání obou zadání a alternativ.",
@@ -3554,8 +3556,8 @@
             "source": "b31cfa08ef916f6b",
             "locator": "PDF – Bytová politika"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Vokřál má doloženou zkušenost se sociálním bydlením, nikoliv se zavedením tohoto plošného příjmového pravidla.",
+          "evidence_status": "podminene",
+          "reason": "Rapid Re-Housing za Vokřálova primátorství dokládá příbuznou praxi, nové plošné příjmové pravidlo ale potřebuje vlastní návrh a finanční krytí.",
           "signal": "Starší doložená praxe",
           "history": "Za Vokřálova primátorství se uskutečnil pilot Rapid Re-Housing pro 50 rodin; městská zpráva uvádí prodloužení smlouvy čtyřicáté rodině.",
           "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
@@ -3590,8 +3592,8 @@
             "source": "b31cfa08ef916f6b",
             "locator": "PDF – ZOO"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Částka je měřitelná, ale není doloženo její víceleté krytí vedle dalších slibů.",
+          "evidence_status": "bez_opory",
+          "reason": "Částka 150 milionů ročně je jasná, ale víceletý investiční plán a její krytí vedle ostatních slibů doložené nejsou.",
           "signal": "Nový závazek",
           "history": "Přímý osobní návrh nebo realizovaný výsledek odpovídající tomuto slibu nebyl v ověřeném výběru doložen; nejde o důkaz nečinnosti.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -3617,8 +3619,8 @@
             "source": "b31cfa08ef916f6b",
             "locator": "PDF s. 3 – Bezpečnost"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Financovat školní aktivity lze, slib ale musí určit počet škol a dlouhodobé mzdové náklady.",
+          "evidence_status": "bez_opory",
+          "reason": "Školní úvazky jsou konkrétní návrh, chybí však počet zapojených škol, celkový mzdový propočet a doložený zdroj financování.",
           "signal": "Nový závazek",
           "history": "Odpovídající zavedený celoměstský nárok nebyl doložen.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -3684,8 +3686,8 @@
             "source": "75e78575bcb4f7b3",
             "locator": "JS obsah stránky /parkovani"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Město může cenu změnit, ale bezplatné oprávnění nevytvoří parkovací místo.",
+          "evidence_status": "podminene",
+          "reason": "První rezidentní oprávnění je existující služba s měnitelnou cenou, její zrušení ale vyžaduje rozhodnutí a nahrazení příjmů.",
           "signal": "Nový závazek",
           "history": "Text upřesňuje první rezidentní oprávnění. Nelze jej rozšířit na parkování zdarma pro každého všude.",
           "authority": "Město ovlivňuje vlastní dopravu a její financování. Změny integrovaného tarifu, regionálních spojů a státních staveb vyžadují další partnery.",
@@ -3715,8 +3717,8 @@
             "source": "75e78575bcb4f7b3",
             "locator": "JS obsah /odpady"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Zrušení poplatku je politicky možné, náklady svozu ale musí přejít na jiný zdroj.",
+          "evidence_status": "podminene",
+          "reason": "Poplatek zrušit lze, svoz odpadu však zůstane nákladem a uváděné úspory či peníze městských firem musí prokázat trvalé krytí.",
           "signal": "Nový závazek",
           "history": "Nikdo ze současné listiny neměl v období 2022–2026 městský mandát. Hlasování tehdejší společné listiny SPD a Trikolory se sem nepřevádí.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -3769,8 +3771,8 @@
             "source": "75e78575bcb4f7b3",
             "locator": "JS obsah /finance"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Liptáková má starší doloženou zkušenost s expertizami, ale dnešní standard hodnocení investic není zavedený výsledek.",
+          "evidence_status": "podminene",
+          "reason": "Liptáková představovala odborné posudky privatizace, veřejné prověřování všech velkých investic ale vyžaduje širší standard, než dokládá tato starší praxe.",
           "signal": "Starší doložená praxe",
           "history": "Jako první náměstkyně v roce 2015 Liptáková představovala závěry dvou objednaných právně-ekonomických expertiz privatizace.",
           "authority": "Zastupitel může přímo ovlivnit vlastní hlas. Změna městských pravidel, zadání auditu nebo zveřejňování dalších údajů potřebuje podporu příslušného orgánu.",
@@ -3884,8 +3886,8 @@
             "source": "46b0b1680eaf247b",
             "locator": "program PDF"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Odborná příprava území není doklad schopnosti každoročně dokončit tento objem bytů.",
+          "evidence_status": "bez_opory",
+          "reason": "Tempo 500 nových městských bytů ročně nemá v podkladech odpovídající projektový a finanční plán ani doloženou realizaci kandidáty.",
           "signal": "Nový závazek",
           "history": "Přímý osobní návrh nebo realizovaný výsledek odpovídající tomuto slibu nebyl v ověřeném výběru doložen; nejde o důkaz nečinnosti.",
           "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
@@ -3963,14 +3965,14 @@
             "source": "46b0b1680eaf247b",
             "locator": "program PDF"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Zahájení odpovídá předpokládanému období státního projektu, jeho termín však město samo nezaručí.",
+          "evidence_status": "podminene",
+          "reason": "Zahájení nádraží navazuje na státní projektový záměr, harmonogram a návazná podzemní dráha však závisejí na dalších investorech a přípravě.",
           "signal": "Odborná zkušenost",
           "history": "Sedláček vedl Kancelář architekta města; doložená profesní role není osobní hlas v zastupitelstvu.",
           "authority": "Město připravuje své pozemky, území a návaznou MHD; železniční uzel připravuje Správa železnic. Samotná brněnská koalice nerozhodne o celé státní investici.",
           "practical": "Program rozlišuje zahájení nádraží a přípravu podzemní dráhy; neslibuje hotové metro do roku 2030. U okruhu a železnice jsou nezbytní státní partneři.",
           "change": "Společné milníky investorů a městské financování návazných staveb.",
-          "counterevidence": "Spolupráce města se státem je skutečná kompetence; závislost na partnerovi není sama důvod pro NE.",
+          "counterevidence": "Spolupráce města se státem je skutečná kompetence; závislost na partnerovi není sama důkaz nemožnosti.",
           "references": [
             {
               "source": "950f39946cb6bdf8",
@@ -4021,8 +4023,8 @@
             "source": "46b0b1680eaf247b",
             "locator": "PDF s. 2 – Senioři a sociální péče"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Číslo je výrazné, ale program neprokazuje souběžnou stavební a personální kapacitu.",
+          "evidence_status": "bez_opory",
+          "reason": "Tempo 1 200 nových míst pro seniory ročně nemá doloženou stavební, finanční a podle typu služby ani personální kapacitu.",
           "signal": "Nový závazek",
           "history": "Realizace této kapacity dnešními kandidáty nebyla doložena.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -4048,8 +4050,8 @@
             "source": "46b0b1680eaf247b",
             "locator": "PDF s. 2 – Školství"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Lokality jsou konkrétní, dokončení však vyžaduje projekty, peníze a spolupráci se zřizovateli.",
+          "evidence_status": "podminene",
+          "reason": "Sadová má doloženou starší soutěžní přípravu se Sedláčkovou účastí, dokončení všech tří škol ale potřebuje ověřené projekty, povolení a peníze.",
           "signal": "Starší doložená příprava",
           "history": "Sedláček jako městský architekt veřejně podporoval soutěž na Sadovou už v roce 2022. Projekt tedy má starší přípravu; tento podklad nepotvrzuje dnešní stav povolení ani dokončení všech tří škol.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -4080,8 +4082,8 @@
             "source": "46b0b1680eaf247b",
             "locator": "PDF s. 1 – Ekonomika a inovace"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Město může připravit podmínky, zaměstnání však vytvářejí také soukromí investoři.",
+          "evidence_status": "bez_opory",
+          "reason": "Požadované počty pracovních míst a investorů nejsou podepřeny doloženými zajištěnými investicemi ani konkrétním prováděcím plánem.",
           "signal": "Nový závazek",
           "history": "Odpovídající zajištěné investice nejsou v tomto posouzení doložené.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -4120,7 +4122,7 @@
           }
         ]
       },
-      "summary": "Odpor k prodeji bytů odpovídá minulým hlasům, u výstavby, kotle a stadionu však zůstávají investiční a politické podmínky.",
+      "summary": "Kotel má realizační smlouvu a odpor k prodeji bytů dokládají hlasy, zastavení lanovky a vracení parkovacích příjmů zatím přímou oporu nemají.",
       "selection": "Výběr z dopravy, bydlení, energetiky a sportu; parkovací příjmy jsou samostatný konkrétní rozpočtový závazek.",
       "political": "Zemek odmítá koalici s ANO, SPD a Motoristy; počet mandátů zbývajících partnerů není doložený.",
       "political_references": [
@@ -4144,8 +4146,8 @@
             "source": "efe3592adc38d279",
             "locator": "Doprava"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Podpora veřejného projednání ukazuje kontrolu projektu, nikoliv jeho zastavení.",
+          "evidence_status": "bez_opory",
+          "reason": "Hlasy pro projednání analýz dokládají kontrolu lanovky, nikoli její odmítnutí; přímý důkaz tohoto postoje v ověřeném výběru chybí.",
           "signal": "Jen nepřímý důkaz",
           "history": "Všichni tři nynější kandidáti s mandátem podpořili veřejné projednání analýz.",
           "authority": "Město ovlivňuje vlastní dopravu a její financování. Změny integrovaného tarifu, regionálních spojů a státních staveb vyžadují další partnery.",
@@ -4256,8 +4258,8 @@
             "source": "efe3592adc38d279",
             "locator": "Bydlení"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Odpor k prodeji je doložený, výstavbu však nelze potvrdit jen hlasováním proti převodům.",
+          "evidence_status": "podminene",
+          "reason": "Odpor tří kandidátů k prodeji Dornychu i podpora části bytové přípravy jsou doložené, celý stavební program ale ještě nemá ověřené krytí.",
           "signal": "Soulad u prodejů",
           "history": "Tři kandidáti byli proti prodeji Dornychu. U červnového výběru banky dva pro, jeden nepřítomen; u Mostecké 16 dva proti, jeden nepřítomen. V rozpravě Zemek odmítal vložení stávajícího domu jako skrytou privatizaci.",
           "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
@@ -4448,13 +4450,13 @@
             "source": "efe3592adc38d279",
             "locator": "Energetika a životní prostředí"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Projekt už má podepsanou smlouvu; dokončení není nový nápad kampaně a samotné osobní zásluhy z tajné volby nepoznáme.",
+          "evidence_status": "podlozeno",
+          "reason": "Další kotel má oznámenou realizační smlouvu SAKO a podporu z fondu; oporu má postup projektu, osobní zásluhu kandidátů z tajného hlasování nevyvozujeme.",
           "signal": "Podepsaná smlouva projektu",
           "history": "Vybrané osobní hlasy dokládají postoj k tajné proceduře, nikoliv následnou tajnou volbu. Vedle toho je doloženo oznámení SAKO o uzavření realizační smlouvy.",
           "authority": "Vlastnictví městských společností dává městu vliv, ale nenahrazuje rozhodování společnosti, investiční financování, soutěže ani cenová pravidla.",
           "practical": "SAKO oznámilo podepsanou smlouvu za 5,4 mld. Kč a podporu z Modernizačního fondu; dřívější sdělení uvádělo květen 2028. Projekt tedy není jen volební nápad. Zbývá ověřit aktuální plnění harmonogramu a finanční rizika; oznámení firmy není nezávislý audit.",
-          "change": "Aktuální milníky provádění podepsané smlouvy a finanční bilance; u tvrzené škody také porovnání obou zadání a alternativ.",
+          "change": "Zrušení smlouvy, nezajištěné financování nebo zásadní skluz by oporu oslabily; ověřené plnění milníků a dokončení by ji posílily.",
           "counterevidence": "Dva kandidáti hlasovali proti tajné proceduře, jeden nebyl přítomen; nejde o tři veřejné hlasy pro kotel.",
           "references": [
             {
@@ -4529,8 +4531,8 @@
             "source": "efe3592adc38d279",
             "locator": "Sport"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Podmíněná podpora a požadavek právně čistého postupu navazují na rozhodování, finální smluvní řešení ale není doloženo.",
+          "evidence_status": "podminene",
+          "reason": "Stadion má doložené podmíněné projednávání, rozhodující však bude konečná smlouva se soukromým investorem a vymezení rizik města.",
           "signal": "Doložená příprava",
           "history": "Přímý osobní návrh nebo realizovaný výsledek odpovídající tomuto slibu nebyl v ověřeném výběru doložen; nejde o důkaz nečinnosti.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -4642,8 +4644,8 @@
             "source": "efe3592adc38d279",
             "locator": "Doprava – parkování"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Rozpočtové pravidlo lze přijmout, ale nejsou určeny podíl a započítávané náklady.",
+          "evidence_status": "bez_opory",
+          "reason": "Vracení parkovacích příjmů nemá stanovený podíl ani základ výpočtu; z obecného rozpočtového hlasu nelze toto nové pravidlo doložit.",
           "signal": "Nový závazek",
           "history": "Samostatný nový finanční mechanismus; z hlasu o celém rozpočtu jej nelze odvodit.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -4701,8 +4703,8 @@
             "source": "b0b7232944a526b8",
             "locator": "zpráva o zahájení kampaně 31. 8. 2026"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Město může policii financovat, ale kampaň nedoložila počet nových lidí a plán náboru.",
+          "evidence_status": "bez_opory",
+          "reason": "Zvýšení počtu strážníků nemá doložený počet nových lidí, náborový harmonogram ani mzdové krytí.",
           "signal": "Nový závazek",
           "history": "Mediálně zachycené vyjádření kandidáta. Celkový rozpočtový hlas není přímý hlas o tomto slibu.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -4728,8 +4730,8 @@
             "source": "b0b7232944a526b8",
             "locator": "zpráva o zahájení kampaně 31. 8. 2026"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Inspirace jiným městem není hotový brněnský projekt ani financovaná služba.",
+          "evidence_status": "bez_opory",
+          "reason": "Odkaz na Svitavy nenahrazuje brněnskou lokalitu, kapacitu, provozovatele a dlouhodobé financování stacionáře.",
           "signal": "Nový závazek",
           "history": "Přímý osobní návrh nebo realizovaný výsledek odpovídající tomuto slibu nebyl v ověřeném výběru doložen; nejde o důkaz nečinnosti.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -4755,8 +4757,8 @@
             "source": "b0b7232944a526b8",
             "locator": "zahájení kampaně 31. 8. 2026 – vyjádření Jiřího Kmenta"
           },
-          "verdict": "MOŽNÁ",
-          "reason": "Nepřetržitý provoz je konkrétní závazek, ale chybí rozsah služby a směnový rozpočet.",
+          "evidence_status": "bez_opory",
+          "reason": "Nepřetržité čety jsou ověřitelný příslib, ale chybí územní rozsah, směnový model a provozní rozpočet.",
           "signal": "Nový závazek",
           "history": "Odpovídající osobní návrh či uskutečněný nepřetržitý provoz nebyl v podkladech ověřen.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -5827,7 +5829,11 @@
   "changes": [
     {
       "date": "2026-09-20",
-      "text": "První vydání: oddělení slibů, doložených kroků, pravomocí a podmínek; zahrnuty starší role a zářijová koaliční vyjádření. Neuzavřené otázky zůstávají MOŽNÁ."
+      "text": "První vydání: oddělení slibů, doložených kroků, pravomocí a podmínek; zahrnuty starší role a zářijová koaliční vyjádření. Původní prognostická hodnocení byla všechna MOŽNÁ."
+    },
+    {
+      "date": "2026-09-20",
+      "text": "Metodika 2: barva vyjadřuje oporu slibu, nikoli předpověď splnění. Čtyři kategorie, samostatné zařazení všech 57 slibů a skladba místo většinového verdiktu kampaně; stejné archivované podklady."
     }
   ]
 }
