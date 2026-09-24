@@ -29,7 +29,7 @@
       },
       "governance": {
         "label": "Strana ve vedení; dnešní tým bez mandátu 2022–2026",
-        "summary": "ČSSD patřila v roce 2022 do vládnoucí koalice a Jiří Oliva měl majetkovou oblast. Nikdo z dnešní kandidátky SOCDEM ale neměl mandát v tomto období. Institucionální odpovědnost strany je relevantní, Olivovy jednotlivé hlasy nejsou hlasy dnešních kandidátů.",
+        "summary": "ČSSD patřila v roce 2022 do vládnoucí koalice a Jiří Oliva měl na starosti městský majetek. Nikdo z dnešní kandidátky SOCDEM ale neměl mandát v tomto období. Strana tak nese odpovědnost za účast na vedení města, Olivovy jednotlivé hlasy nejsou hlasy dnešních kandidátů.",
         "references": [
           {
             "source": "e13ec4718d18eb51",
@@ -65,7 +65,7 @@
           "reason": "Stovky bytů jsou prioritou, ale v podkladech chybí termín, seznam projektů i propočet financování.",
           "signal": "Málo konkrétní",
           "history": "Nikdo z dnešní kandidátky neměl celoměstský mandát 2022–2026; bývalé hlasy SOCDEM nepřenášíme.",
-          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
+          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u městských bytů spravovaných městskými částmi musí zapojit i jejich vedení. Soukromou výstavbu nemůže jednoduše nařídit.",
           "practical": "Lídr připouští úvěr vztažený k rozpočtu města. Bez ceny projektů, splatnosti a výnosů nelze posoudit udržitelnost; nájemné nezaručuje samofinancování celé stavby.",
           "change": "Seznam projektů, počet dokončených bytů a finanční plán.",
           "counterevidence": "Novější odpověď již uvádí bytovou prioritu; závěr nelze stavět jen na starším obecném oznámení.",
@@ -107,7 +107,7 @@
       },
       "governance": {
         "label": "Lidé ve vedení města v období 2022–2026",
-        "summary": "Lidovci a Starostové byli součástí koalice. Z dnešních kandidátů jsou v radě Filip Chvátal, Irena Matonohová a Petr Bořecký pro participaci; na začátku období byl do vedení uveden i Jaroslav Suchý. Mají odpovědnost za vlastní hlasování rady a koaliční rozhodování, nikoli samostatnou většinu ani všechny odborné gesce.",
+        "summary": "Lidovci a Starostové byli součástí koalice. Z dnešních kandidátů jsou v radě Filip Chvátal, Irena Matonohová a Petr Bořecký, který má na starosti zapojování obyvatel do rozhodování; na začátku období byl do vedení uveden i Jaroslav Suchý. Mají odpovědnost za vlastní hlasování rady a koaliční rozhodování, neměli však sami většinu a neodpovídali za všechny oblasti městské správy.",
         "references": [
           {
             "source": "e13ec4718d18eb51",
@@ -123,7 +123,7 @@
           }
         ]
       },
-      "summary": "Kotel má realizační smlouvu, ale u zachování bytových domů vlastní moc nevyužili: osm dnešních kandidátů včetně radních podpořilo prodej Dornychu.",
+      "summary": "Dnes slibují zachovat městské bytové domy, ale osm jejich kandidátů včetně tří radních v roce 2025 schválilo prodej dvou takových domů na Dornychu soukromému developerovi.",
       "selection": "Bydlení a MHD jsou explicitní priority úvodu programu; doplňujeme komunikaci a energetiku. Opravy, novostavby, prodeje a audit posuzujeme jako jeden bytový balík.",
       "political": "Dnešní kandidáti mají zkušenost s prosazováním rozpočtu a bytových projektů; to neprokazuje většinu pro nový tarif MHD.",
       "political_references": [],
@@ -144,12 +144,12 @@
             "locator": "část o levnější MHD"
           },
           "evidence_status": "podminene",
-          "reason": "Systém slev existuje a kampaň nabízí propočet, jeho krytí však závisí na přibližně 10 tisících nově přihlášených obyvatel.",
+          "reason": "Město už na roční jízdné přispívá a kampaň nabízí propočet další slevy; počítá však s vyššími příjmy města díky asi 10 tisícům lidí, kteří by si v Brně nově přihlásili trvalý pobyt.",
           "signal": "Nový závazek",
           "history": "Kampaň financování podmiňuje získáním dalších trvale přihlášených obyvatel; minulé schválení celého rozpočtu tuto cenu nedokládá.",
-          "authority": "Město ovlivňuje vlastní dopravu a její financování. Změny integrovaného tarifu, regionálních spojů a státních staveb vyžadují další partnery.",
+          "authority": "Město ovlivňuje vlastní dopravu a její financování. Ceny a pravidla jízdného společného pro Brno a kraj, regionální spoje a státní stavby musí řešit i s krajem, dopravci nebo státem.",
           "practical": "Program odhaduje čistý dopad na 250–400 mil. Kč ročně a počítá s přibližně 10 tisíci nově přihlášených; jde o předpoklad kampaně. DPMB uvádí základní roční cenu 4 750 Kč a příspěvek 1 425 Kč pro oprávněné žadatele. Ceník a dotace nejsou totéž.",
-          "change": "Citlivostní rozpočet pro menší počet nových obyvatel, dohoda o tarifu a schválené krytí.",
+          "change": "Výpočet, jak slevu zaplatit i při menším počtu nově přihlášených obyvatel, dohoda o ceně jízdného a schválené financování.",
           "counterevidence": "Město už umí jízdné dotovat; sleva tedy není sama o sobě nemožná.",
           "references": [
             {
@@ -174,7 +174,7 @@
         {
           "accountability": {
             "scope_label": "zachování domů Dornych 29/31",
-            "scope": "Zachování městských domů Dornych 29 a 31: nevyužitá možnost nepodpořit jejich prodej.",
+            "scope": "Zachování dvou městských bytových domů Dornych 29 a 31: odpovědní politici mohli odepřít vlastní souhlas s jejich prodejem soukromému developerovi.",
             "period": "Březen 2025; rozhodnutí ZMB dne 25. 3. 2025. Uskutečnění prodeje doloženo přijetím kupní ceny 5. 6. 2025.",
             "actors": [
               {
@@ -192,13 +192,13 @@
               {
                 "person": "petr-borecky-1",
                 "name": "Petr Bořecký",
-                "role": "radní pro participaci",
+                "role": "radní pro zapojování obyvatel do rozhodování",
                 "action": "5. 3. 2025 podpořil záměr prodeje v radě; 25. 3. podpořil prodej v zastupitelstvu"
               }
             ],
             "authority": "Kandidáti uvedení v tomto bloku byli členy městské rady a současně zastupitelstva. Rada připravovala majetkové rozhodnutí, o prodeji hlasovalo zastupitelstvo; vlastní hlas měli pod kontrolou. Jednotlivec ani tato dnešní listina neměli samostatné veto.",
-            "opportunity": "Existovalo konkrétní rozhodovací okno, nejde o domněnku z délky funkce: rada 5. 3. 2025 odsouhlasila záměr, zastupitelstvo 25. 3. schválilo prodej. Mohli prodej nepodpořit a v koalici prosazovat zachování majetku. Netvrdíme, že jejich nesouhlas sám zaručoval zamítnutí nebo že byla zaplacena rekonstrukce.",
-            "outcome": "Prodej podpořilo osm lidí z dnešní listiny. Celkem prošel 38 hlasy proti 10. Zářijový materiál potvrzuje realizaci prodeje a přijetí 225 milionů Kč dne 5. 6. 2025.",
+            "opportunity": "Rada města 5. 3. 2025 odsouhlasila záměr prodeje a zastupitelstvo 25. 3. prodej schválilo. Uvedení politici mohli hlasovat proti a uvnitř vládnoucí koalice prosazovat zachování domů ve vlastnictví města. Jejich nesouhlas by však sám nezaručil zamítnutí prodeje ani peníze na opravu domů.",
+            "outcome": "Prodej podpořilo osm lidí z dnešní listiny. Celkem prošel 38 hlasy proti 10. Zářijový materiál potvrzuje realizaci prodeje a přijetí 225 milionů Kč dne 5. 6. 2025. Šlo o dva prázdné městské bytové domy Dornych 29 a 31 s celkem 40 byty. Za 225 milionů Kč je koupila společnost CTP Vlněna Business Park, která plánovala jejich odstranění a novou výstavbu pro obchody, kanceláře a bydlení. Brno získalo peníze, ale ztratilo vlastnictví těchto domů a možnost samo rozhodovat o jejich bytech; nešlo o odebrání 40 právě obývaných bytů nájemníkům.",
             "limitations": "Domy byly prázdné a ve špatném až průměrném stavebním stavu. Prodej měl ekonomické zdůvodnění a výnos byl navržen do Fondu bytové výstavby; neprokazujeme, že zachování bylo levnější nebo výhodnější. V lednu 2026 tito kandidáti podpořili zrušení starého privatizačního postupu. Dnešní program může být změnou politiky. Výtka hodnotí tehdejší nevyužití vlastního hlasu ve prospěch nyní slibovaného zachování domů, nikoli prokázané porušení totožného staršího slibu, lež nebo neschopnost stavět byty.",
             "references": [
               {
@@ -233,18 +233,18 @@
             "decision_kind": "vlastni_souhlas_s_prodejem"
           },
           "id": "K02-02",
-          "title": "800 opravených a až 1 000 nových bytů",
-          "promise": "Do čtyř let opravit 800 volných bytů, přes PPP a moduly vybudovat až 1 000 nových; ukončit prodej bytových domů a prověřit družstevní projekty.",
+          "title": "Opravit a stavět byty, neprodávat domy",
+          "promise": "Do čtyř let opravit 800 volných bytů, ve spolupráci se soukromým partnerem (PPP) a pomocí modulární výstavby z prefabrikovaných částí vybudovat až 1 000 nových; ukončit prodej bytových domů a prověřit družstevní projekty.",
           "source": {
             "source": "a5c21a6ba96acdd7",
             "locator": "bydlení – do čtyř let"
           },
           "evidence_status": "nevyuzita_moznost",
-          "reason": "Osm dnešních kandidátů včetně tří členů rady podpořilo prodej Dornychu 29/31, když mohli vlastní souhlas odepřít; výtka se týká zachování domů, nikoli celého stavebního slibu.",
+          "reason": "Dnes slibují neprodávat městské bytové domy, ale osm jejich kandidátů včetně tří radních v březnu 2025 schválilo prodej dvou prázdných domů s celkem 40 byty na Dornychu soukromému developerovi. Mohli hlasovat proti; výtka se týká zachování těchto domů, ne schopnosti postavit nové byty.",
           "signal": "Smíšená praxe",
-          "history": "Osm nynějších kandidátů podpořilo prodej Dornychu 29/31, osm později zrušení starého privatizačního postupu. Podporovali také financování přípravy Kamenného vrchu.",
-          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
-          "practical": "Program spojuje opravy do čtyř let, nové byty pomocí PPP a modulů, konec prodejů a audit družstev. Lednový městský údaj o 870 volných svěřených bytech byl v březnové tabulce opraven na 1 462; starý součet s 62 nesvěřenými byty proto není spolehlivý výchozí stav. V červenci 2026 byla oznámena podepsaná smlouva se zhotovitelem 353 bytů na Kamenném vrchu; projekt má tedy i realizační krok, nikoliv jen politický příslib.",
+          "history": "Osm nynějších kandidátů v březnu 2025 hlasovalo pro prodej dvou městských bytových domů Dornych 29 a 31 developerovi. Osm v lednu 2026 podpořilo zrušení starých pravidel pro prodej městských bytů. Podporovali také financování přípravy bytového projektu Kamenný vrch II.",
+          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u městských bytů spravovaných městskými částmi musí zapojit i jejich vedení. Soukromou výstavbu nemůže jednoduše nařídit.",
+          "practical": "Program spojuje opravy do čtyř let, nové byty ve spolupráci se soukromým partnerem a z prefabrikovaných částí, konec prodejů a kontrolu družstevních projektů. V lednu město uvádělo 870 prázdných bytů ve správě městských částí, v březnu tento počet opravilo na 1 462. Původní součet s dalšími 62 byty spravovanými přímo městem proto není spolehlivým základem pro plán oprav. V červenci 2026 byla oznámena podepsaná smlouva se zhotovitelem 353 bytů v projektu Kamenný vrch II; projekt má tedy i realizační krok, nikoliv jen politický příslib.",
           "change": "Tehdejší hlas změnit nelze. Výklad by změnil důkaz chybného přiřazení osoby, právní vázanosti jejího rozhodnutí nebo výslovné výjimky v dnešním slibu; nové rozhodování ukáže, zda byla změna politiky uskutečněna.",
           "counterevidence": "Domy byly prázdné a ve špatném až průměrném stavebním stavu. Prodej měl ekonomické zdůvodnění a výnos byl navržen do Fondu bytové výstavby; neprokazujeme, že zachování bylo levnější nebo výhodnější. V lednu 2026 tito kandidáti podpořili zrušení starého privatizačního postupu. Dnešní program může být změnou politiky. Výtka hodnotí tehdejší nevyužití vlastního hlasu ve prospěch nyní slibovaného zachování domů, nikoli prokázané porušení totožného staršího slibu, lež nebo neschopnost stavět byty.",
           "references": [
@@ -565,18 +565,18 @@
         {
           "accountability": null,
           "id": "K02-05",
-          "title": "Dokončit třetí kotel SAKO",
-          "promise": "Dokončit třetí kotel SAKO.",
+          "title": "Nový kotel brněnské spalovny",
+          "promise": "Dokončit nový, třetí kotel brněnské spalovny městské odpadové společnosti SAKO, která z odpadu vyrábí teplo a elektřinu.",
           "source": {
             "source": "a5c21a6ba96acdd7",
             "locator": "levnější energie"
           },
           "evidence_status": "podlozeno",
-          "reason": "Dokončení navazuje na oznámenou realizační smlouvu SAKO za 5,4 mld. Kč a podporu z fondu; dokládá to postup projektu, nikoli výlučnou zásluhu kandidátky.",
+          "reason": "Městská odpadová společnost SAKO už oznámila smlouvu na modernizaci spalovny s novým kotlem za 5,4 mld. Kč a podporu z fondu; to dokládá postup projektu, ale ne dokončenou stavbu ani osobní zásluhu každé kampaně.",
           "signal": "Podepsaná smlouva projektu",
-          "history": "Vybrané osobní hlasy dokládají postoj k tajné proceduře, nikoliv následnou tajnou volbu. Vedle toho je doloženo oznámení SAKO o uzavření realizační smlouvy.",
-          "authority": "Vlastnictví městských společností dává městu vliv, ale nenahrazuje rozhodování společnosti, investiční financování, soutěže ani cenová pravidla.",
-          "practical": "SAKO oznámilo podepsanou smlouvu za 5,4 mld. Kč a podporu z Modernizačního fondu; dřívější sdělení uvádělo květen 2028. Projekt tedy není jen volební nápad. Zbývá ověřit aktuální plnění harmonogramu a finanční rizika; oznámení firmy není nezávislý audit.",
+          "history": "Osobní hlasy uvedené níže ukazují, zda kandidáti chtěli o SAKO hlasovat veřejně, nebo tajně. Neprozrazují, jak potom tajně hlasovali o samotném rozhodnutí. Postup stavby dokládá samostatné oznámení společnosti SAKO o podpisu smlouvy.",
+          "authority": "Město jako vlastník ovlivňuje své firmy. Stavby a změny cen ale vyžadují také rozhodnutí firmy, zajištěné peníze a dodržení pravidel pro zakázky a ceny.",
+          "practical": "Městská odpadová společnost SAKO provozuje brněnskou spalovnu, která z odpadu vyrábí teplo a elektřinu. Oznámila podepsanou smlouvu na modernizaci za 5,4 mld. Kč a podporu z Modernizačního fondu; dřívější sdělení uvádělo dokončení v květnu 2028. Nový kotel tedy není jen volební nápad. Zbývá ověřit dodržování termínů a finanční rizika; oznámení firmy není nezávislou kontrolou projektu.",
           "change": "Zrušení smlouvy, nezajištěné financování nebo zásadní skluz by oporu oslabily; ověřené plnění milníků a dokončení by ji posílily.",
           "counterevidence": "Odmítnutí tajné volby je doložené, následný tajný hlas jednotlivců však neznáme.",
           "references": [
@@ -749,7 +749,7 @@
       },
       "governance": {
         "label": "V období 2022–2026 v městské opozici",
-        "summary": "Zelení s Žít Brno nebyli součástí městské koalice ustavené v roce 2022. Jejich zastupitelé mohli navrhovat, kontrolovat a hlasovat, ne sami řídit městskou exekutivu. U Drápalové odděleně dokládáme roli starostky Nového Lískovce; pravomoc městské části není pravomoc nad celým Brnem.",
+        "summary": "Zelení s Žít Brno nebyli součástí městské koalice ustavené v roce 2022. Jejich zastupitelé mohli navrhovat, kontrolovat a hlasovat, nemohli však sami řídit město. U Jany Drápalové odděleně dokládáme roli starostky Nového Lískovce; pravomoc městské části není pravomoc nad celým Brnem.",
         "references": [
           {
             "source": "e13ec4718d18eb51",
@@ -761,9 +761,9 @@
           }
         ]
       },
-      "summary": "Odmítání tajné procedury dokládají osobní hlasy, bydlení a slevy mají konkrétní podmínky, obecný slib stínu zatím nemá ověřený rozsah.",
+      "summary": "Jejich zastupitelky už hlasovaly proti utajení hlasování, sliby bytů a levnější MHD ještě potřebují peníze a plán, u více stínu chybí ověřený rozsah výsadby.",
       "selection": "Výběr z kapitol bydlení, doprava, zeleň a otevřená radnice; odděleně vlastní hlasování a navýšení participativního rozpočtu.",
-      "political": "Vencovská preferuje Piráty, Lidovce a Starosty a Za Lužánky; odmítá SPD a Motoristy. Většinu těchto partnerů zatím neznáme.",
+      "political": "Natálie Vencovská preferuje spolupráci s Piráty, Lidovci a Starosty a Za Lužánky; odmítá SPD a Motoristy. Zatím nevíme, zda preferovaní partneři získají dohromady většinu zastupitelů.",
       "political_references": [
         {
           "source": "e361ef775f79a891",
@@ -787,11 +787,11 @@
             "locator": "závazky kapitoly 01"
           },
           "evidence_status": "podminene",
-          "reason": "Drápalová doložitelně kontrolovala bytová data a spolupodepsala smlouvu na Kamenný vrch; opravy i slíbené budoucí tempo ještě potřebují úplný plán.",
+          "reason": "Jana Drápalová upozornila na chybu v počtu prázdných městských bytů a spolupodepsala smlouvu na stavbu 353 bytů v projektu Kamenný vrch II; pro všechny slíbené opravy a nové byty ale ještě chybí úplný plán.",
           "signal": "Doložená kontrola",
           "history": "Jana Drápalová v lednu 2026 upozornila na nesprávný součet neobsazených bytů; březnová odpověď obsahuje opravenou tabulku. Jana Drápalová jako starostka Nového Lískovce spolupodepsala smlouvu na Kamenný vrch; jde o konkrétní jinou veřejnou roli, ne samostatný audit městské části.",
-          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
-          "practical": "Tempo 300–400 nových bytů se vztahuje až ke konci období. Nejde o 400 bytů každý rok. U oprav záleží na technickém stavu a spolupráci městských částí. V červenci 2026 byla oznámena podepsaná smlouva se zhotovitelem 353 bytů na Kamenném vrchu; projekt má tedy i realizační krok, nikoliv jen politický příslib.",
+          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u městských bytů spravovaných městskými částmi musí zapojit i jejich vedení. Soukromou výstavbu nemůže jednoduše nařídit.",
+          "practical": "Tempo 300–400 nových bytů se vztahuje až ke konci období. Nejde o 400 bytů každý rok. U oprav záleží na technickém stavu a spolupráci městských částí. V červenci 2026 byla oznámena podepsaná smlouva se zhotovitelem 353 bytů v projektu Kamenný vrch II; projekt má tedy i realizační krok, nikoliv jen politický příslib.",
           "change": "Projektový seznam, financování a každoroční rozlišení oprav, zahájených a dokončených bytů.",
           "counterevidence": "Kontrola dat je konkrétní práce, sama ale nové byty nepostaví.",
           "references": [
@@ -831,7 +831,7 @@
           "reason": "Bezplatnou přepravu lze rozšířit v existujícím tarifním systému, podmínkou je vyčíslit a uhradit nové slevy pro všechny uvedené skupiny.",
           "signal": "Nový závazek",
           "history": "Přímý osobní návrh nebo realizovaný výsledek odpovídající tomuto slibu nebyl v ověřeném výběru doložen; nejde o důkaz nečinnosti.",
-          "authority": "Město ovlivňuje vlastní dopravu a její financování. Změny integrovaného tarifu, regionálních spojů a státních staveb vyžadují další partnery.",
+          "authority": "Město ovlivňuje vlastní dopravu a její financování. Ceny a pravidla jízdného společného pro Brno a kraj, regionální spoje a státní stavby musí řešit i s krajem, dopravci nebo státem.",
           "practical": "Dnes má část těchto cestujících snížený tarif a někteří již jezdí zdarma. Je nutné počítat jen nové slevy, jejich věkové hranice a rozsah zón.",
           "change": "Ověřený propočet nově zvýhodněných cestujících a schválená kompenzace.",
           "counterevidence": "Existující systém slev usnadňuje provedení; nejde o technicky nový způsob přepravy.",
@@ -865,12 +865,12 @@
             "locator": "bod 9.1.1"
           },
           "evidence_status": "podlozeno",
-          "reason": "Drápalová a Flamiková tajnou proceduru skutečně odmítly a svůj další hlas mohou ovlivnit samy; doklad se netýká všech nových kandidátů ani všech minulých hlasování.",
+          "reason": "Jana Drápalová a Jasna Flamiková už hlasovaly proti tomu, aby se hlasovalo tajně a veřejnost neviděla rozhodnutí jednotlivých zastupitelů; to podporuje dnešní slib, ale dokládá jednání těchto dvou lidí v konkrétním případě.",
           "signal": "Soulad s hlasováním",
-          "history": "Drápalová a Flamiková 18. 10. 2023 odmítly tajné hlasování o SAKO. Vencálek tehdy neměl mandát.",
-          "authority": "Zastupitel může přímo ovlivnit vlastní hlas. Změna městských pravidel, zadání auditu nebo zveřejňování dalších údajů potřebuje podporu příslušného orgánu.",
+          "history": "Jana Drápalová a Jasna Flamiková 18. 10. 2023 odmítly, aby hlasování o městské odpadové společnosti SAKO bylo tajné. Matouš Vencálek tehdy ještě nebyl zastupitelem. Záznam ukazuje postoj k utajení, ne to, jak kdo následně tajně hlasoval.",
+          "authority": "Zastupitel může přímo ovlivnit vlastní hlas. Změna městských pravidel, zadání auditu nebo zveřejňování dalších údajů potřebuje podporu rady nebo zastupitelstva podle toho, kdo o věci rozhoduje.",
           "practical": "Vlastní hlas mají případní zastupitelé pod kontrolou a nepotřebují rozpočtovou většinu. Silný důkaz pro chování dvou lidí není zárukou jednání všech nově zvolených.",
-          "change": "Přímo opačný procedurální hlas by oporu oslabil; další veřejné hlasy všech zvolených by rozšířily ověření za dva dosavadní kandidáty.",
+          "change": "Pokud by příště podpořily utajení hlasování, opora slibu by zeslábla; další veřejné hlasy nově zvolených by umožnily ověřit i ostatní kandidáty.",
           "counterevidence": "Z tohoto důkazu nelze vyvodit, jak někdo hlasoval v následném tajném hlasování.",
           "references": [],
           "authority_references": [
@@ -927,20 +927,20 @@
         {
           "accountability": null,
           "id": "K03-04",
-          "title": "50 milionů na Dáme na vás",
-          "promise": "Zvýšit participativní rozpočet Dáme na vás na 50 mil. Kč.",
+          "title": "50 milionů na projekty vybrané obyvateli",
+          "promise": "Navýšit rozpočet Dáme na vás, v němž obyvatelé navrhují a hlasováním vybírají městské projekty, na 50 milionů Kč ročně.",
           "source": {
             "source": "b1601a4c78eb08d6",
             "locator": "závazky kapitoly 09"
           },
           "evidence_status": "podminene",
-          "reason": "Participativní rozpočet již funguje, zvýšení na 50 milionů ale vyžaduje novou rozpočtovou alokaci a jasná pravidla jejího počítání.",
+          "reason": "Obyvatelé už mohou přes Dáme na vás vybírat projekty placené městem, ale slíbených 50 milionů ročně musí zastupitelé teprve vyčlenit v rozpočtu.",
           "signal": "Existující nástroj",
-          "history": "Zřízení fondu v roce 2024 není hlas o budoucí částce 50 milionů.",
+          "history": "Zřízení fondu pro Dáme na vás v roce 2024 vytvořilo způsob správy peněz na projekty obyvatel. Samo o sobě nedokládá schválení slíbené roční částky 50 milionů Kč.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
-          "practical": "Je třeba odlišit roční alokaci pro nové návrhy od čerpání rozpracovaných projektů. Peníze navíc soutěží s bydlením, dopravou a dalšími prioritami.",
+          "practical": "Je třeba rozlišit peníze vyčleněné na nové návrhy v daném roce a platby za dříve vybrané projekty. Vyšší částka se musí vejít do rozpočtu vedle bydlení, dopravy a dalších služeb.",
           "change": "Schválená roční částka 50 mil. Kč a pravidla započítávání projektů.",
-          "counterevidence": "Není třeba zakládat participaci od nuly; důkaz se týká nižší úrovně závazku.",
+          "counterevidence": "Systém, v němž obyvatelé vybírají městské projekty, už existuje; to ale nedokládá slíbené zvýšení jeho rozpočtu.",
           "references": [],
           "authority_references": [
             {
@@ -1044,7 +1044,7 @@
       },
       "governance": {
         "label": "ANO ve vedení od roku 2022; později rozkol",
-        "summary": "ANO vstoupilo do městské koalice v roce 2022 s gescemi investic, bydlení a územního plánování. Po rozkolu v roce 2025 zůstali představitelé ve vedení mimo ANO; část dnes kandiduje za Brnoklidem. Dnešnímu týmu ANO proto nelze připsat všechny osobní kroky původního klubu, ale ani vymazat dřívější účast značky na vládnutí.",
+        "summary": "ANO vstoupilo do městské koalice v roce 2022 s odpovědností za investice, bydlení a územní plánování. Po rozkolu v roce 2025 zůstali představitelé ve vedení mimo ANO; část dnes kandiduje za Brnoklidem. Dnešnímu týmu ANO proto nelze připsat všechny osobní kroky původního klubu, ale ani vymazat dřívější účast značky na vládnutí.",
         "references": [
           {
             "source": "e13ec4718d18eb51",
@@ -1064,9 +1064,9 @@
           }
         ]
       },
-      "summary": "Sportovní příspěvek lze zavést, u privatizací je postoj neurčitý a minulé hlasy nedokazují prosazení lanovky.",
+      "summary": "Příspěvek dětem na sport lze zavést, u prodeje městských bytů chybí jasná pravidla a dosavadní hlasy nedokládají podporu stavby lanovky z Pisárek do Bohunic.",
       "selection": "Konkrétní závazky ze tří hlavních oblastí zveřejněného programu: doprava, bydlení a sport.",
-      "political": "Trojan připouští ODS i Piráty; Zlatušková i Zemek ale spolupráci s ANO odmítají. Jednostranná ochota není koaliční cesta.",
+      "political": "Václav Trojan připouští spolupráci s ODS i Piráty; jejich lídři Kamila Zlatušková a Adam Zemek ale spolupráci s ANO odmítají. Ochota jedné strany proto nestačí k dohodě o společném vedení města.",
       "political_references": [
         {
           "source": "e361ef775f79a891",
@@ -1084,16 +1084,16 @@
           "accountability": null,
           "id": "K04-01",
           "title": "Rozvoj tramvají a lanovka",
-          "promise": "Rozvíjet tramvaje i lanovku.",
+          "promise": "Rozvíjet tramvajové tratě i lanovku z Pisárek k univerzitnímu kampusu v Bohunicích.",
           "source": {
             "source": "08614cda1a445d8c",
             "locator": "Doprava"
           },
           "evidence_status": "bez_opory",
-          "reason": "Podklady dokládají projednávání analýz, nikoli osobní podporu stavby ani společný finanční a povolovací plán tramvají a lanovky.",
+          "reason": "Hlasovalo se o veřejném projednání analýz lanovky z Pisárek k univerzitnímu kampusu v Bohunicích, ne o její stavbě; doložen není ani společný plán financování a povolení pro slíbené tramvajové tratě a lanovku.",
           "signal": "Jen nepřímý důkaz",
           "history": "Tomáš Hejl a Miroslav Kubásek při hlasu o veřejném projednání nehlasovali. Petrovi Bauerovi už mandát skončil. Přijetí petice na vědomí není hlas proti stavbě.",
-          "authority": "Město ovlivňuje vlastní dopravu a její financování. Změny integrovaného tarifu, regionálních spojů a státních staveb vyžadují další partnery.",
+          "authority": "Město ovlivňuje vlastní dopravu a její financování. Ceny a pravidla jízdného společného pro Brno a kraj, regionální spoje a státní stavby musí řešit i s krajem, dopravci nebo státem.",
           "practical": "Tramvajové tratě a lanovka mají odlišné náklady, povolení a dopravní přínosy. Bez samostatného finančního a povolovacího rozboru nelze doložit cestu k celému závazku.",
           "change": "Aktuální harmonogram a krytí konkrétních staveb.",
           "counterevidence": "Nehlasování o veřejném projednání není hlas proti lanovce; vzetí petice na vědomí také ne.",
@@ -1203,10 +1203,10 @@
             "locator": "Bydlení"
           },
           "evidence_status": "bez_opory",
-          "reason": "Bez vymezení „zbytečných“ prodejů nelze slib ověřovat; dosavadní hlasy navíc zahrnují prodej Dornychu i pozdější omezení privatizace.",
+          "reason": "Kampaň neříká, které prodeje městských bytů považuje za „zbytečné“; její kandidáti podpořili prodej dvou městských bytových domů na Dornychu a později také omezení prodeje bytů.",
           "signal": "Smíšená praxe",
-          "history": "Hejl a Kubásek podpořili prodej Dornychu; Kubásek později zrušení starého privatizačního postupu. Program neříká, které prodeje považuje za zbytečné.",
-          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
+          "history": "Tomáš Hejl a Miroslav Kubásek podpořili prodej dvou městských bytových domů Dornych 29 a 31 soukromému developerovi. Kubásek později hlasoval pro zrušení starých pravidel pro prodej bytů. Program neříká, které prodeje považuje za zbytečné.",
+          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u městských bytů spravovaných městskými částmi musí zapojit i jejich vedení. Soukromou výstavbu nemůže jednoduše nařídit.",
           "practical": "Bez definice výjimek lze stejný převod vydávat za soulad i nesoulad s programem. Město má pravomoc o prodeji rozhodovat.",
           "change": "Seznam přípustných výjimek a závazná pravidla prodeje.",
           "counterevidence": "Nové omezení privatizace může být změnou politiky; starý prodej sám neprokazuje nepravdivý budoucí slib.",
@@ -1316,9 +1316,9 @@
             "locator": "Sport"
           },
           "evidence_status": "podminene",
-          "reason": "Příbuzný systém voucherů už existuje, nový příspěvek 1 000 Kč však potřebuje vlastní pravidla nároku a rozpočtové krytí.",
+          "reason": "Město už přes rodičovské vouchery přispívá na aktivity dětí, ale nový příspěvek 1 000 Kč ročně na sport potřebuje vlastní pravidla a peníze.",
           "signal": "Existující nástroj",
-          "history": "Nesměšovat s jinými podmínkami a částkami rodičovských voucherů.",
+          "history": "Dosavadní rodičovské vouchery jsou finanční příspěvky na aktivity dětí. Jejich podmínky a částky nejsou totožné s nově slíbenou tisícikorunou na sport.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
           "practical": "Náklady jsou 1 000 Kč krát počet oprávněných dětí plus správa. Program musí vymezit věk, pobyt, čerpání a vztah k dosavadní podpoře.",
           "change": "Pravidla nároku, počet příjemců a rozpočtové krytí.",
@@ -1402,7 +1402,7 @@
       },
       "governance": {
         "label": "Dřívější náměstek na dnešní listině",
-        "summary": "Tomáš Koláčný má doloženou dřívější funkci náměstka a práci na digitálních službách. V období 2022–2026 nebyli Piráti členy městské koalice. Janulíkové vedení TIC je pravomoc nad institucí, nikoli nad rozpočtem a majetkem celého města.",
+        "summary": "Tomáš Koláčný má doloženou dřívější funkci náměstka a práci na digitálních službách. V období 2022–2026 nebyli Piráti členy městské koalice. Jana Tichá Janulíková vedla turistické informační centrum TIC BRNO; rozhodovala o této organizaci, nikoli o rozpočtu a majetku celého města.",
         "references": [
           {
             "source": "5b724c61b2098d0b",
@@ -1418,7 +1418,7 @@
           }
         ]
       },
-      "summary": "Kontrolní iniciativa Koláčného je doložená, stadion a dva tisíce bytů ale nadále závisejí na smlouvách a projektových plánech.",
+      "summary": "Tomáš Koláčný navrhl kontrolu hospodaření brněnských vánočních trhů, ale stadion za Lužánkami a dva tisíce městských bytů ještě potřebují smlouvy a financované projekty.",
       "selection": "Stadion je výslovně hlavní strategický cíl; přidáváme bytovou kapitolu a konkrétní kontrolní závazek z části o správě města.",
       "political": "Podmíněnou podporu stadionu v září 2025 vyslovilo 50 zastupitelů; jde o podporu projektu s podmínkami, ne příslib koalice se Za Lužánky.",
       "political_references": [],
@@ -1529,10 +1529,10 @@
             "locator": "Efektivní radnice, boj proti korupci a participace"
           },
           "evidence_status": "podlozeno",
-          "reason": "Koláčný předložil konkrétní návrh kontroly vánočních trhů; je to doložená iniciativa jednoho kandidáta, nikoli důkaz hotového auditu nebo otevřenosti celé radnice.",
+          "reason": "Tomáš Koláčný navrhl pracovní skupinu pro kontrolu hospodaření brněnských vánočních trhů; prokazuje to jeho kontrolní iniciativu, ale ne dokončené prověření účtů ani otevřené fungování celé radnice.",
           "signal": "Doložená iniciativa",
           "history": "Koláčný podpořil vlastní návrh pracovní skupiny k hospodaření vánočních trhů; u návrhu Vaňkové na externí posouzení nákladů se zdržel. Lídryně Janulíková v městském zastupitelstvu v tomto období nehlasovala.",
-          "authority": "Zastupitel může přímo ovlivnit vlastní hlas. Změna městských pravidel, zadání auditu nebo zveřejňování dalších údajů potřebuje podporu příslušného orgánu.",
+          "authority": "Zastupitel může přímo ovlivnit vlastní hlas. Změna městských pravidel, zadání auditu nebo zveřejňování dalších údajů potřebuje podporu rady nebo zastupitelstva podle toho, kdo o věci rozhoduje.",
           "practical": "Programové heslo potřebuje pravidla zveřejňování a vymezení kontrol. Doložené hlasování rozlišuje pracovní skupinu a externí posouzení.",
           "change": "Doložené výsledky kontrol a standard zveřejňování by rozšířily oporu nad jeden návrh; přímé maření obdobné kontroly by ji oslabilo.",
           "counterevidence": "Lídryně Janulíková v daném zastupitelstvu nehlasovala; hlas kandidáta není její osobní hlas.",
@@ -1614,10 +1614,10 @@
             "locator": "Bydlení"
           },
           "evidence_status": "podminene",
-          "reason": "Koláčného hlasy odpovídají odmítání privatizace, výstavba 2 000 bytů do roku 2035 však vyžaduje dosud nedoložený projektový a finanční plán.",
+          "reason": "Tomáš Koláčný hlasoval proti prodeji městských bytových domů, což odpovídá dnešnímu slibu; pro výstavbu 2 000 bytů do roku 2035 ale chybí ověřený seznam projektů a plán financování.",
           "signal": "Soulad u prodejů",
-          "history": "Tomáš Koláčný odmítl prodej Dornychu a podpořil zrušení starého privatizačního postupu.",
-          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
+          "history": "Tomáš Koláčný hlasoval proti prodeji dvou městských bytových domů Dornych 29 a 31 soukromému developerovi a později pro zrušení starých pravidel pro prodej městských bytů.",
+          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u městských bytů spravovaných městskými částmi musí zapojit i jejich vedení. Soukromou výstavbu nemůže jednoduše nařídit.",
           "practical": "Rok 2035 nesmíme převést na slib dokončení do roku 2030. Program chce také vyjednávat dostupné bydlení s investory; jejich souhlas není automatický.",
           "change": "Milníky do roku 2030, pozemky, finanční model a konkrétní smlouvy.",
           "counterevidence": "Ochrana existujících bytů není doklad dokončení nových.",
@@ -1716,7 +1716,7 @@
       },
       "governance": {
         "label": "ODS a TOP 09 ve vedení města",
-        "summary": "ODS a TOP 09 vedly radnici v období 2022–2026. Z dnešních kandidátů sedí v radě Tomáš Aberl pro sport a IT. Nová lídryně Zlatušková osobně v zastupitelstvu nehlasovala; odpovědnost vládnoucích stran však výměnou lídra nezaniká. Rozlišujeme tento institucionální podíl od osobní odpovědnosti kandidátů.",
+        "summary": "ODS a TOP 09 vedly radnici v období 2022–2026. Z dnešních kandidátů sedí v radě Tomáš Aberl pro sport a IT. Nová lídryně Zlatušková osobně v zastupitelstvu nehlasovala; odpovědnost vládnoucích stran však výměnou lídra nezaniká. Za účast strany na vedení města odpovídá strana; jednotlivým kandidátům připisujeme jen jejich vlastní rozhodnutí.",
         "references": [
           {
             "source": "e13ec4718d18eb51",
@@ -1732,7 +1732,7 @@
           }
         ]
       },
-      "summary": "Janáčkovo centrum se už staví, další rozvoj navazuje na konkrétní přípravu; pětiminutová dostupnost stínu zatím doložený plán nemá.",
+      "summary": "Nový koncertní sál Janáčkova kulturního centra se už staví, další projekty mají přípravné kroky, ale slib stínu do pěti minut od domu zatím doložený plán nemá.",
       "selection": "Konkrétní závazky z kapitol bydlení, sport, rozvoj, zeleň a kultura; nová lídryně není autorkou hlasování dosavadních zastupitelů.",
       "political": "Zlatušková odmítá ANO, SPD a Motoristy. Dosavadní koalice proto není automatickým modelem dalšího období.",
       "political_references": [
@@ -1758,11 +1758,11 @@
             "locator": "bytová kapitola"
           },
           "evidence_status": "podminene",
-          "reason": "Podpora přípravy a podepsaná smlouva na Kamenný vrch dávají bydlení konkrétní základ, tempo oprav a rozsah celého programu ale zůstávají neurčené.",
+          "reason": "Bytový projekt Kamenný vrch II už má podepsanou smlouvu na stavbu 353 bytů; to dokládá konkrétní postup, ale neurčuje počet ani tempo všech slíbených oprav a nových bytů.",
           "signal": "Doložená příprava",
           "history": "Schválení pravidel či výběru banky není důkaz splněného objemu výstavby.",
-          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
-          "practical": "Výběr banky pro Kamenný vrch je krok k realizaci. Zářijový návrh úvěru uvádí až 1,71 mld. Kč pro 280 družstevních jednotek; to není počet již předaných bytů. V červenci 2026 byla oznámena podepsaná smlouva se zhotovitelem 353 bytů na Kamenném vrchu; projekt má tedy i realizační krok, nikoliv jen politický příslib.",
+          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u městských bytů spravovaných městskými částmi musí zapojit i jejich vedení. Soukromou výstavbu nemůže jednoduše nařídit.",
+          "practical": "Výběr banky pro Kamenný vrch je krok k realizaci. Zářijový návrh úvěru uvádí až 1,71 mld. Kč pro 280 družstevních bytů; to není počet již předaných bytů. V červenci 2026 byla oznámena podepsaná smlouva se zhotovitelem 353 bytů v projektu Kamenný vrch II; projekt má tedy i realizační krok, nikoliv jen politický příslib.",
           "change": "Podepsané financování, průběh stavby a předané byty.",
           "counterevidence": "Kredit za přípravu patří i dalším podporujícím zastupitelům a zpracovatelům.",
           "references": [
@@ -1976,7 +1976,7 @@
             "locator": "sportovní kapitola"
           },
           "evidence_status": "podminene",
-          "reason": "Financování arény i stavba jsou doložené, celý balík sportovišť však zahrnuje také stadion s dosud neuzavřenými podmínkami.",
+          "reason": "Nová víceúčelová aréna na brněnském výstavišti má schválené financování a staví se; slib ale zahrnuje i další sportoviště včetně stadionu za Lužánkami, jehož konečné smlouvy a financování nejsou ověřené.",
           "signal": "Soulad s hlasováním",
           "history": "Všech deset nynějších kandidátů s tehdejším mandátem schválilo financování arény. Zářijová zpráva města nabízí prohlídky stavby před dokončením; hotový provoz z ní nevyvozujeme.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -2183,17 +2183,17 @@
         {
           "accountability": null,
           "id": "K06-03",
-          "title": "Posunout nový železniční uzel",
+          "title": "Posunout nové nádraží a navazující tratě",
           "promise": "Posunout nové hlavní nádraží a přestavbu železničního uzlu.",
           "source": {
             "source": "70d6a4c7a2415dca",
             "locator": "rozvojová kapitola"
           },
           "evidence_status": "podminene",
-          "reason": "Městský majetkový krok a státní příprava dávají uzlu reálný základ, jeho posun ale vyžaduje součinnost Správy železnic a státu.",
+          "reason": "Příprava městských pozemků a státního projektu nového hlavního nádraží už probíhá; nádraží a navazující železniční tratě ale připravuje Správa železnic, takže město samo další postup nezaručí.",
           "signal": "Doložená příprava",
           "history": "Postoj nové lídryně Zlatuškové nelze odvodit z hlasů dosavadního klubu.",
-          "authority": "Město připravuje své pozemky, území a návaznou MHD; železniční uzel připravuje Správa železnic. Samotná brněnská koalice nerozhodne o celé státní investici.",
+          "authority": "Město připravuje své pozemky, území a návaznou MHD; nové hlavní nádraží a související tratě připravuje státní organizace Správa železnic. Samotná brněnská koalice nerozhodne o celé státní investici.",
           "practical": "Správa železnic uvádí předpoklad stavebních prací 2028–2035. Slib posunout projekt nelze zaměnit za dokončit ho do konce období.",
           "change": "Dohodnuté městské milníky a financování návazné infrastruktury.",
           "counterevidence": "Závislost na státu nečiní spolupráci města nesmyslnou; omezuje pouze záruku celého výsledku.",
@@ -2333,14 +2333,14 @@
         {
           "accountability": null,
           "id": "K06-05",
-          "title": "Dokončit Janáčkovo centrum",
-          "promise": "Dokončit Janáčkovo kulturní centrum.",
+          "title": "Dokončit nový koncertní sál",
+          "promise": "Dokončit Janáčkovo kulturní centrum, nový koncertní sál v Brně.",
           "source": {
             "source": "1347ec23e98d4593",
             "locator": "kulturní kapitola"
           },
           "evidence_status": "podlozeno",
-          "reason": "Janáčkovo centrum má doložené stavební práce a plán dokončení v roce 2028; jde o pokračující městský projekt, nikoli zaručený termín nebo osobní výsledek nové lídryně.",
+          "reason": "Nový koncertní sál Janáčkova kulturního centra se prokazatelně staví a plán počítá s dokončením v roce 2028 a otevřením v roce 2029; pokračování projektu ale není zárukou termínu ani osobním výsledkem nové lídryně.",
           "signal": "Doložená realizace",
           "history": "Městský projektový přehled uvádí dokončení 2028 a otevření 2029. Zpráva z března 2026 dokládá konkrétní stavební práce, nejen hlas o rozpočtu.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -2515,7 +2515,7 @@
           "reason": "Podpora městských bytů zatím nemá v podkladech počet, termín ani projektový plán, podle kterého by šel výsledek ověřit.",
           "signal": "Málo konkrétní",
           "history": "Na listině nejsou držitelé městského mandátu z tohoto období; chybějící hlasy nejsou nečinnost.",
-          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
+          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u městských bytů spravovaných městskými částmi musí zapojit i jejich vedení. Soukromou výstavbu nemůže jednoduše nařídit.",
           "practical": "Rozsah oprav, financování a připravenost pozemků nejsou v tomto závazku vyčísleny. Dřívější mandát lídra není důkaz realizace dnešního slibu.",
           "change": "Počet oprav a novostaveb, termíny a rozpočet.",
           "counterevidence": "Chybějící osobní hlasy z posledního období nejsou důkaz nečinnosti.",
@@ -2575,7 +2575,7 @@
           "reason": "Starší Říhovo stanovisko dokládá zájem o levnější MHD, ne provedené změny návaznosti spojů ani plán dnešního slibu.",
           "signal": "Starší doložený postoj",
           "history": "Přímý osobní návrh nebo realizovaný výsledek odpovídající tomuto slibu nebyl v ověřeném výběru doložen; nejde o důkaz nečinnosti.",
-          "authority": "Město ovlivňuje vlastní dopravu a její financování. Změny integrovaného tarifu, regionálních spojů a státních staveb vyžadují další partnery.",
+          "authority": "Město ovlivňuje vlastní dopravu a její financování. Ceny a pravidla jízdného společného pro Brno a kraj, regionální spoje a státní stavby musí řešit i s krajem, dopravci nebo státem.",
           "practical": "Koordinace městské a regionální dopravy potřebuje dohodu objednatelů; bez seznamu změn nelze určit náklady ani přínos.",
           "change": "Konkrétní linky, intervaly, dohody a rozpočet.",
           "counterevidence": "Článek politika je důkaz postoje, nikoliv neutrální vyhodnocení dopravní politiky.",
@@ -2622,7 +2622,7 @@
       },
       "governance": {
         "label": "Lidé ve vedení města v období 2022–2026",
-        "summary": "Podivinská Karasová má gesci bytové problematiky a správy majetku, Ing. arch. Petr Bořecký územní plánování. Do vedení vstoupili za ANO v roce 2022; dnes kandidují za Brnoklidem. Nový název jejich osobní odpovědnost neruší. Jejich podíl na městské moci je doložen, samostatnou většinu ale neměli.",
+        "summary": "Karin Podivinská Karasová má jako náměstkyně na starosti bydlení a správu městského majetku, Ing. arch. Petr Bořecký územní plánování. Do vedení vstoupili za ANO v roce 2022; dnes kandidují za Brnoklidem. Nový název jejich osobní odpovědnost neruší. Jejich podíl na městské moci je doložen, samostatnou většinu ale neměli.",
         "references": [
           {
             "source": "e13ec4718d18eb51",
@@ -2642,7 +2642,7 @@
           }
         ]
       },
-      "summary": "Bydlení doložitelně připravují, při prodeji Dornychu však sedm dnešních kandidátů včetně náměstkyně pro bydlení podpořilo opačný postup než nyní slibované zachování domů.",
+      "summary": "Nové byty připravují, ale sedm jejich kandidátů včetně náměstkyně pro bydlení v roce 2025 schválilo prodej dvou městských bytových domů na Dornychu developerovi, zatímco dnes slibují městské budovy zachovat pro dostupné bydlení.",
       "selection": "Výběr pokrývá všech pět pilířů programu: bydlení, veřejný prostor, dopravu, život ve městě a vodu; nádraží a tarif sdružujeme pod dopravu.",
       "political": "Devět dnešních kandidátů má současný mandát, většinou získaný původně za ANO; jejich historii přičítáme lidem, ne novému názvu automaticky.",
       "political_references": [],
@@ -2656,13 +2656,13 @@
         {
           "accountability": {
             "scope_label": "zachování domů Dornych 29/31",
-            "scope": "Zachování městských domů Dornych 29 a 31: nevyužitá možnost nepodpořit jejich prodej.",
+            "scope": "Zachování dvou městských bytových domů Dornych 29 a 31: odpovědní politici mohli odepřít vlastní souhlas s jejich prodejem soukromému developerovi.",
             "period": "Březen 2025; rozhodnutí ZMB dne 25. 3. 2025. Uskutečnění prodeje doloženo přijetím kupní ceny 5. 6. 2025.",
             "actors": [
               {
                 "person": "karin-podivinska-karasova",
                 "name": "Karin Podivinská Karasová",
-                "role": "náměstkyně s bytovou a majetkovou gescí",
+                "role": "náměstkyně odpovědná za bydlení a správu majetku",
                 "action": "V tabulce rady 5. 3. má pomlčky, žádný hlas jí zde nepřipisujeme; 25. 3. 2025 pro prodej hlasovala v zastupitelstvu"
               },
               {
@@ -2673,8 +2673,8 @@
               }
             ],
             "authority": "Kandidáti uvedení v tomto bloku byli členy městské rady a současně zastupitelstva. Rada připravovala majetkové rozhodnutí, o prodeji hlasovalo zastupitelstvo; vlastní hlas měli pod kontrolou. Jednotlivec ani tato dnešní listina neměli samostatné veto.",
-            "opportunity": "Existovalo konkrétní rozhodovací okno, nejde o domněnku z délky funkce: rada 5. 3. 2025 odsouhlasila záměr, zastupitelstvo 25. 3. schválilo prodej. Mohli prodej nepodpořit a v koalici prosazovat zachování majetku. Netvrdíme, že jejich nesouhlas sám zaručoval zamítnutí nebo že byla zaplacena rekonstrukce.",
-            "outcome": "Prodej podpořilo sedm lidí z dnešní listiny; Levíček se zdržel a Benešová ještě neměla mandát. Celkem prošel 38 hlasy proti 10. Zářijový materiál potvrzuje realizaci prodeje a přijetí 225 milionů Kč dne 5. 6. 2025.",
+            "opportunity": "Rada města 5. 3. 2025 odsouhlasila záměr prodeje a zastupitelstvo 25. 3. prodej schválilo. Uvedení politici mohli hlasovat proti a uvnitř vládnoucí koalice prosazovat zachování domů ve vlastnictví města. Jejich nesouhlas by však sám nezaručil zamítnutí prodeje ani peníze na opravu domů.",
+            "outcome": "Prodej podpořilo sedm lidí z dnešní listiny; Levíček se zdržel a Benešová ještě neměla mandát. Celkem prošel 38 hlasy proti 10. Zářijový materiál potvrzuje realizaci prodeje a přijetí 225 milionů Kč dne 5. 6. 2025. Šlo o dva prázdné městské bytové domy Dornych 29 a 31 s celkem 40 byty. Za 225 milionů Kč je koupila společnost CTP Vlněna Business Park, která plánovala jejich odstranění a novou výstavbu pro obchody, kanceláře a bydlení. Brno získalo peníze, ale ztratilo vlastnictví těchto domů a možnost samo rozhodovat o jejich bytech; nešlo o odebrání 40 právě obývaných bytů nájemníkům.",
             "limitations": "Domy byly prázdné a ve špatném až průměrném stavebním stavu. Prodej měl ekonomické zdůvodnění a výnos byl navržen do Fondu bytové výstavby; neprokazujeme, že zachování bylo levnější nebo výhodnější. V lednu 2026 tito kandidáti podpořili zrušení starého privatizačního postupu. Dnešní program může být změnou politiky. Výtka hodnotí tehdejší nevyužití vlastního hlasu ve prospěch nyní slibovaného zachování domů, nikoli prokázané porušení totožného staršího slibu, lež nebo neschopnost stavět byty.",
             "references": [
               {
@@ -2709,18 +2709,18 @@
             "decision_kind": "vlastni_souhlas_s_prodejem"
           },
           "id": "K08-01",
-          "title": "Připravit další tisíc bytů",
+          "title": "Připravit byty a zachovat městské budovy",
           "promise": "Připravit nejméně další tisíc bytů; městské pozemky a budovy používat pro dostupné bydlení místo rozprodeje.",
           "source": {
             "source": "bc367294a3a2b4cb",
             "locator": "Domov klidem"
           },
           "evidence_status": "nevyuzita_moznost",
-          "reason": "Podivinská s bytovou gescí a dalších šest dnešních kandidátů podpořili prodej Dornychu 29/31, když mohli vlastní souhlas odepřít; příprava nových bytů je samostatný doložený krok.",
+          "reason": "Dnes slibují využívat městské budovy pro dostupné bydlení místo prodeje, ale náměstkyně pro bydlení Karin Podivinská a dalších šest dnešních kandidátů v březnu 2025 schválili prodej dvou prázdných domů s celkem 40 byty na Dornychu developerovi. Mohli hlasovat proti; doloženou přípravu nových bytů posuzujeme zvlášť.",
           "signal": "Smíšená praxe",
-          "history": "Kandidáti podpořili Kamenný vrch. Sedm zároveň hlasovalo pro prodej Dornychu; všech devět později pro zrušení starého privatizačního postupu. Karin Podivinská je uvedena mezi signatáři červencové smlouvy.",
-          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
-          "practical": "Připravit není postavit. Lednový materiál uvádí projekty v různých fázích; červnový hlas vybírá banku a zářijový materiál teprve předkládá úvěrovou smlouvu. Návrh úvěru zároveň obsahuje závazek města při dočasné neobsazenosti zajistit chybějící splátky: úvěr družstva tedy neznamená nulové riziko města. V červenci 2026 byla oznámena podepsaná smlouva se zhotovitelem 353 bytů na Kamenném vrchu; projekt má tedy i realizační krok, nikoliv jen politický příslib.",
+          "history": "Kandidáti podpořili přípravu bytového projektu Kamenný vrch II. Sedm zároveň v březnu 2025 hlasovalo pro prodej dvou městských bytových domů Dornych 29 a 31 developerovi; všech devět v lednu 2026 podpořilo zrušení starých pravidel pro prodej bytů. Karin Podivinská spolupodepsala v červenci 2026 smlouvu na stavbu 353 bytů v projektu Kamenný vrch II.",
+          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u městských bytů spravovaných městskými částmi musí zapojit i jejich vedení. Soukromou výstavbu nemůže jednoduše nařídit.",
+          "practical": "Připravit není postavit. Lednový materiál uvádí projekty v různých fázích; červnový hlas vybírá banku a zářijový materiál teprve předkládá úvěrovou smlouvu. Návrh úvěru zároveň obsahuje závazek města při dočasné neobsazenosti zajistit chybějící splátky: úvěr družstva tedy neznamená nulové riziko města. V červenci 2026 byla oznámena podepsaná smlouva se zhotovitelem 353 bytů v projektu Kamenný vrch II; projekt má tedy i realizační krok, nikoliv jen politický příslib.",
           "change": "Tehdejší hlas změnit nelze. Výklad by změnil důkaz chybného přiřazení osoby, právní vázanosti jejího rozhodnutí nebo výslovné výjimky v dnešním slibu; nové rozhodování ukáže, zda byla změna politiky uskutečněna.",
           "counterevidence": "Domy byly prázdné a ve špatném až průměrném stavebním stavu. Prodej měl ekonomické zdůvodnění a výnos byl navržen do Fondu bytové výstavby; neprokazujeme, že zachování bylo levnější nebo výhodnější. V lednu 2026 tito kandidáti podpořili zrušení starého privatizačního postupu. Dnešní program může být změnou politiky. Výtka hodnotí tehdejší nevyužití vlastního hlasu ve prospěch nyní slibovaného zachování domů, nikoli prokázané porušení totožného staršího slibu, lež nebo neschopnost stavět byty.",
           "references": [
@@ -2984,16 +2984,16 @@
           "accountability": null,
           "id": "K08-04",
           "title": "Levnější MHD a jiný postup u nádraží",
-          "promise": "Zavést bezplatnou MHD do 15 a od 65 let, dát přednost VRT před překládáním nádraží a prosazovat severojižní kolejovou dráhu.",
+          "promise": "Zavést bezplatnou MHD do 15 a od 65 let, dát přednost vysokorychlostním železničním tratím (VRT) před přesunem hlavního nádraží a prosazovat kolejové spojení severu a jihu města.",
           "source": {
             "source": "bc367294a3a2b4cb",
             "locator": "Pohyb klidem"
           },
           "evidence_status": "podminene",
-          "reason": "Slevy MHD město ovlivňuje, změna železničního projektu a přesun státních peněz však závisejí na dohodě se státem.",
+          "reason": "Město může přispívat na levnější MHD; změnit plán přesunu hlavního nádraží a použít státní peníze jinak ale může jen po dohodě se státem.",
           "signal": "Závisí na státu",
           "history": "Dřívější majetkový krok k železničnímu uzlu není hlas o této nové variantě.",
-          "authority": "Město připravuje své pozemky, území a návaznou MHD; železniční uzel připravuje Správa železnic. Samotná brněnská koalice nerozhodne o celé státní investici.",
+          "authority": "Město připravuje své pozemky, území a návaznou MHD; nové hlavní nádraží a související tratě připravuje státní organizace Správa železnic. Samotná brněnská koalice nerozhodne o celé státní investici.",
           "practical": "Program navrhuje MHD zdarma do 15 a od 65 let, zachování vlaků v centru a přednost VRT. Správa železnic už připravuje jinou schválenou variantu; změna vyžaduje dohodu se státem, náklady a nový harmonogram.",
           "change": "Oddělený rozpočet tarifu a doložená dohoda se státem o železniční variantě.",
           "counterevidence": "Prosazovat změnu státního projektu možné je; nelze ji ale vydávat za jednostranně rozhodnutelný úkol Brna.",
@@ -3104,10 +3104,10 @@
             "locator": "Město klidem"
           },
           "evidence_status": "podminene",
-          "reason": "Schválená pravidla otevřených dat jsou konkrétní krok, jejich plnění a soutěže u všech klíčových projektů však ověřené nejsou.",
+          "reason": "Město schválilo pravidla, aby jeho společnosti zveřejňovaly data pro veřejné použití; ověřené ale není jejich plnění ani výběr návrhů všech klíčových staveb v architektonických soutěžích.",
           "signal": "Doložený rámec",
-          "history": "Zastupitelstvo schválilo pravidla otevřených dat městských společností; osobní hlasy jsou níže.",
-          "authority": "Zastupitel může přímo ovlivnit vlastní hlas. Změna městských pravidel, zadání auditu nebo zveřejňování dalších údajů potřebuje podporu příslušného orgánu.",
+          "history": "Zastupitelstvo schválilo pravidla otevřených dat městských společností: informace mají být zveřejňovány tak, aby je mohl kdokoli dále používat. Osobní hlasy kandidátů jsou níže.",
+          "authority": "Zastupitel může přímo ovlivnit vlastní hlas. Změna městských pravidel, zadání auditu nebo zveřejňování dalších údajů potřebuje podporu rady nebo zastupitelstva podle toho, kdo o věci rozhoduje.",
           "practical": "Rozhodující jsou skutečně zveřejněná data a zadání konkrétních soutěží, ne jen schválený rámec.",
           "change": "Seznam klíčových projektů, soutěží a aktualizovaných datových sad.",
           "counterevidence": "Schválený rámec je konkrétní krok, ale není automaticky úplným splněním.",
@@ -3345,7 +3345,7 @@
       "experience": {
         "status": "former",
         "label": "Dřívější mandát",
-        "note": "V roce 2014 zvolen městským radním pro správu městských účastí.",
+        "note": "V roce 2014 zvolen městským radním pro správu majetkových podílů města ve firmách.",
         "references": [
           {
             "source": "96ab5768e37aec62",
@@ -3359,7 +3359,7 @@
       },
       "governance": {
         "label": "Dřívější městský radní v čele listiny",
-        "summary": "Tomáš Kratochvíl byl v roce 2014 zvolen radním pro správu městských účastí. Jde o skutečnou dřívější výkonnou roli, ne o současného dopravního radního Petra Kratochvíla. Při výtce nesplnění musí odpovídat období i tehdejší gesce.",
+        "summary": "Tomáš Kratochvíl byl v roce 2014 zvolen radním pro správu majetkových podílů města ve firmách. Jde o skutečnou dřívější výkonnou roli, ne o současného dopravního radního Petra Kratochvíla. Případnou výtku nesplněného slibu je nutné vztáhnout k době jeho funkce a k tomu, co měl tehdy na starosti.",
         "references": [
           {
             "source": "96ab5768e37aec62",
@@ -3394,7 +3394,7 @@
           "evidence_status": "bez_opory",
           "reason": "Bezpečnost je deklarovanou prioritou, ale chybějí měřitelné cíle a náklady; starší funkce lídra tento plán nenahrazuje.",
           "signal": "Málo konkrétní",
-          "history": "Tomáš Kratochvíl byl městským radním pro správu městských účastí; neplést se současným Petrem Kratochvílem.",
+          "history": "Tomáš Kratochvíl byl městským radním pro správu majetkových podílů města ve firmách; neplést se současným Petrem Kratochvílem.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
           "practical": "Chybí cílové personální kapacity a vyhodnocení konkrétních problémových míst. Zkušenost starosty sama nenahrazuje městský plán.",
           "change": "Měřitelné cíle a náklady opatření.",
@@ -3428,7 +3428,7 @@
           "reason": "Kratší uzavírky zatím nemají doložený soubor procesních změn ani měření a město navíc neřídí všechny investory.",
           "signal": "Nový závazek",
           "history": "Srovnatelný celoměstský výsledek zkrácení oprav není doložen.",
-          "authority": "Město ovlivňuje vlastní dopravu a její financování. Změny integrovaného tarifu, regionálních spojů a státních staveb vyžadují další partnery.",
+          "authority": "Město ovlivňuje vlastní dopravu a její financování. Ceny a pravidla jízdného společného pro Brno a kraj, regionální spoje a státní stavby musí řešit i s krajem, dopravci nebo státem.",
           "practical": "Zrychlení vyžaduje součinnost vlastníků sítí a komunikací; termíny mohou ovlivnit technické podmínky, soutěže i povolení.",
           "change": "Seznam procesních změn a měření délky oprav.",
           "counterevidence": "Není správné připisovat městu každou uzavírku na státní či krajské silnici.",
@@ -3457,9 +3457,9 @@
             "locator": "otázka 1 – Tomáš Kratochvíl"
           },
           "evidence_status": "bez_opory",
-          "reason": "Kampaň uvádí bystrcký pilot, v podkladech ale chybí jeho nezávislé ověření a finanční plán nabídky všem brněnským školám.",
+          "reason": "Kampaň uvádí zkušební projekt Pohybově aktivní školy v Bystrci, který má podporovat pohyb dětí; chybí však nezávislé ověření jeho výsledků a finanční plán nabídky všem brněnským školám.",
           "signal": "Uváděný pilot",
-          "history": "Kampaň uvádí bystrcký pilot; jeho účinek zde nezávisle nepotvrzujeme.",
+          "history": "Podle kampaně projekt Pohybově aktivní školy funguje v Bystrci. Jeho rozsah a výsledky zde nejsou nezávisle ověřené.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
           "practical": "Lídr odkazuje na fungování projektu v Bystrci. V tomto rozboru nemáme nezávislé vyhodnocení jeho rozsahu a výsledků, proto jej vedeme jako tvrzení kampaně.",
           "change": "Doklady výsledků pilotu a finanční plán rozšíření.",
@@ -3501,9 +3501,9 @@
         "summary": "U dnešních tří kandidátek není doložen městský mandát 2022–2026 ani výkonná role, která by umožnila samostatně uskutečnit vybrané sliby. Nedoloženou minulost nezaměňujeme za promarněnou vládní příležitost.",
         "references": []
       },
-      "summary": "Útulky a kastrace lze podpořit z města, plošný zákaz pyrotechniky má právní meze a tři kandidátky potřebují spojence.",
+      "summary": "Podporu útulků a kastrací může město financovat, zákaz pyrotechniky má zákonné meze a tři kandidující ženy potřebují pro prosazení programu další zastupitele.",
       "selection": "Tři konkrétní nástroje z komunálního prohlášení výslovně zahrnujícího Brno: útulky, kastrace a pyrotechnika; nejde o místní detailní program.",
-      "political": "Registrovány jsou jen tři kandidátky: ani jejich zvolení nemůže samo vytvořit většinu v 55členném zastupitelstvu.",
+      "political": "Na listině kandidují jen tři ženy: ani zvolení všech tří by nevytvořilo většinu v 55členném zastupitelstvu.",
       "political_references": [],
       "program_references": [
         {
@@ -3644,7 +3644,7 @@
         "summary": "U dnešní kandidátky není doložena výkonná role v městském vedení. Požadavek na referendum sám takovou pravomoc nevytváří; záleží na zákonném postupu a podpoře.",
         "references": []
       },
-      "summary": "Referendum lze za zákonných podmínek vyhlásit, jeho výsledek však sám nepřesune státní nádraží.",
+      "summary": "Městské referendum lze za zákonných podmínek vyhlásit, jeho výsledek však nemůže přikázat státu změnu projektu brněnského hlavního nádraží.",
       "selection": "Jediný aktuálně datovaný požadavek pro rok 2026; starší webový program nebyl automaticky převzat.",
       "political": "K vyhlášení referenda zastupitelstvem je třeba většina; existuje i občanská cesta. Počet budoucích mandátů B3! není doložen.",
       "political_references": [],
@@ -3665,10 +3665,10 @@
             "locator": "zpráva 3. 9. 2026"
           },
           "evidence_status": "podminene",
-          "reason": "Místní referendum lze prosazovat, jeho otázka musí spadat do samosprávy a výsledek sám nezmění státní železniční projekt.",
+          "reason": "Městské referendum lze vyhlásit o věcech, o kterých smí rozhodovat samotné město; jeho výsledek ale nemůže přikázat státu změnu projektu nového hlavního nádraží.",
           "signal": "Závisí na partnerech",
           "history": "Starý program B3! není automaticky aktuálním programem 2026.",
-          "authority": "Místní referendum může zavázat město v jeho samostatné působnosti. Nemůže samo přikázat státu přesun železniční investice.",
+          "authority": "Místní referendum může zavázat město v otázkách, o kterých smí samo rozhodovat. Nemůže samo přikázat státu přesun železniční investice.",
           "practical": "Přesné znění otázky musí odpovídat samostatné působnosti města. Stát není pouhým místním referendem zavázán změnit svůj projekt.",
           "change": "Právně přípustná otázka, postup vyhlášení a vysvětlení důsledků obou odpovědí.",
           "counterevidence": "Referendum o postoji a jednání města může mít smysl; není automaticky neplatné proto, že železnici staví stát.",
@@ -3745,7 +3745,7 @@
       },
       "governance": {
         "label": "Dřívější primátor v čele listiny",
-        "summary": "Petr Vokřál byl zvolen primátorem v roce 2014. Posuzujeme tedy i jeho skutečnou dřívější moc a doložené výsledky, například Rapid Re-Housing. Nelze mu ale bez dalšího připsat rozhodnutí rady z období 2022–2026, v níž nepůsobil.",
+        "summary": "Petr Vokřál byl zvolen primátorem v roce 2014. Posuzujeme tedy i jeho skutečnou dřívější moc a doložené výsledky, například program Rapid Re-Housing, který poskytl bydlení 50 rodinám. Nelze mu ale bez dalšího připsat rozhodnutí rady z období 2022–2026, v níž nepůsobil.",
         "references": [
           {
             "source": "96ab5768e37aec62",
@@ -3757,7 +3757,7 @@
           }
         ]
       },
-      "summary": "Vokřál má doloženou starší praxi, ale sleva na teplo, příjmové nájemné a investice do zoo zatím postrádají ověřené společné finanční krytí.",
+      "summary": "Petr Vokřál má zkušenost z vedení města i s bydlením pro rodiny, ale pro slevu tepla, nájem podle příjmu a investice do zoo zatím chybí ověřený plán, jak je společně zaplatit.",
       "selection": "Číselné závazky z kapitol energie, bydlení, zoo a bezpečnost; třetí kotel je samostatný velký projekt.",
       "political": "Bývalý primátor přináší zkušenost z vedení města; nový mandát a koaliční podporu z toho nelze odvodit.",
       "political_references": [],
@@ -3781,7 +3781,7 @@
           "reason": "Sleva tepla o 15 % nemá doložený tarif ani ověřený zdroj úhrady rozdílu; současné nezvyšování ceny není touto slevou.",
           "signal": "Nový závazek",
           "history": "Závazek kampaně; není doložen realizovaný tarif ani nezávisle ověřené finanční krytí.",
-          "authority": "Vlastnictví městských společností dává městu vliv, ale nenahrazuje rozhodování společnosti, investiční financování, soutěže ani cenová pravidla.",
+          "authority": "Město jako vlastník ovlivňuje své firmy. Stavby a změny cen ale vyžadují také rozhodnutí firmy, zajištěné peníze a dodržení pravidel pro zakázky a ceny.",
           "practical": "Teplárny pro rok 2026 oznámily zachování cen 2025. Slib pro občany s trvalým pobytem musí vyřešit nákladovou kalkulaci a způsob přenosu úlevy ke konkrétním domácnostem.",
           "change": "Kalkulace, právně ověřený mechanismus a finanční krytí slevy.",
           "counterevidence": "Sleva či kompenzace není předem nemožná; dosavadní stabilní tarif však neprokazuje slibovaných 15 %.",
@@ -3808,18 +3808,18 @@
         {
           "accountability": null,
           "id": "K12-02",
-          "title": "Třetí kotel SAKO",
+          "title": "Nový kotel brněnské spalovny",
           "promise": "Dokončit třetí kotel; kampaň tvrdí, že opakování soutěže způsobilo značnou škodu.",
           "source": {
             "source": "b31cfa08ef916f6b",
             "locator": "PDF – Preambule a Energie"
           },
           "evidence_status": "podminene",
-          "reason": "Dokončení kotle má oporu v existující smlouvě SAKO, součástí sdělení je však i tvrzená škoda, kterou dostupné porovnání zakázek nepotvrzuje.",
+          "reason": "Nový kotel brněnské spalovny už má podepsanou smlouvu, což podporuje slib dokončení; kampaň ale zároveň tvrdí, že opakování soutěže způsobilo škodu, a tu dostupné porovnání zakázek nepotvrzuje.",
           "signal": "Podepsaná smlouva projektu",
           "history": "Oznámení SAKO dokládá uzavření realizační smlouvy; starší Vokřálovo vedení města samo nepotvrzuje dnešní harmonogram ani výši tvrzené škody.",
-          "authority": "Vlastnictví městských společností dává městu vliv, ale nenahrazuje rozhodování společnosti, investiční financování, soutěže ani cenová pravidla.",
-          "practical": "SAKO oznámilo podepsanou smlouvu za 5,4 mld. Kč a podporu z Modernizačního fondu; dřívější sdělení uvádělo květen 2028. Projekt tedy není jen volební nápad. Zbývá ověřit aktuální plnění harmonogramu a finanční rizika; oznámení firmy není nezávislý audit.",
+          "authority": "Město jako vlastník ovlivňuje své firmy. Stavby a změny cen ale vyžadují také rozhodnutí firmy, zajištěné peníze a dodržení pravidel pro zakázky a ceny.",
+          "practical": "Městská odpadová společnost SAKO provozuje brněnskou spalovnu, která z odpadu vyrábí teplo a elektřinu. Oznámila podepsanou smlouvu na modernizaci za 5,4 mld. Kč a podporu z Modernizačního fondu; dřívější sdělení uvádělo dokončení v květnu 2028. Nový kotel tedy není jen volební nápad. Zbývá ověřit dodržování termínů a finanční rizika; oznámení firmy není nezávislou kontrolou projektu.",
           "change": "Aktuální milníky provádění podepsané smlouvy a finanční bilance; u tvrzené škody také porovnání obou zadání a alternativ.",
           "counterevidence": "Tajné hlasování v roce 2023 nelze připsat Vokřálovi, který tehdy neměl mandát.",
           "references": [
@@ -3878,10 +3878,10 @@
             "locator": "PDF – Bytová politika"
           },
           "evidence_status": "podminene",
-          "reason": "Rapid Re-Housing za Vokřálova primátorství dokládá příbuznou praxi, nové plošné příjmové pravidlo ale potřebuje vlastní návrh a finanční krytí.",
+          "reason": "Za primátora Petra Vokřála město uskutečnilo bytový program pro 50 rodin; je to zkušenost s pomocí v bydlení, ale nové pravidlo nájemného ve výši 20–35 % příjmů domácnosti potřebuje vlastní návrh a financování.",
           "signal": "Starší doložená praxe",
-          "history": "Za Vokřálova primátorství se uskutečnil pilot Rapid Re-Housing pro 50 rodin; městská zpráva uvádí prodloužení smlouvy čtyřicáté rodině.",
-          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
+          "history": "Za primátora Petra Vokřála se uskutečnil zkušební program Rapid Re-Housing, který poskytl bydlení 50 rodinám; městská zpráva uvádí prodloužení nájemní smlouvy čtyřicáté rodině. Nedokládá tím zavedení nyní slibovaného nájemného podle příjmu.",
+          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u městských bytů spravovaných městskými částmi musí zapojit i jejich vedení. Soukromou výstavbu nemůže jednoduše nařídit.",
           "practical": "Pásmo 20–35 % vyžaduje definici příjmu, pravidelnou kontrolu, postup při jeho změně a dohodu s městskými částmi. Financování oprav musí fungovat i při nižším nájemném.",
           "change": "Pravidla příjmového testu a model dopadu na bytový fond.",
           "counterevidence": "Šlo o práci koalice, úřadu a partnerů, ne výlučný osobní výsledek primátora; jiný mechanismus neověřuje dnešní procenta.",
@@ -3992,7 +3992,7 @@
       },
       "governance": {
         "label": "Dřívější náměstkyně v čele listiny",
-        "summary": "Klára Liptáková byla v roce 2014 zvolena první náměstkyní a v roce 2015 představovala expertizy privatizace. Minulá výkonná funkce je relevantní, nestačí však přičíst jí pozdější rozhodnutí či automaticky uzavřít, že mohla sama zrušit všechny dnešní poplatky.",
+        "summary": "Klára Liptáková byla v roce 2014 zvolena první náměstkyní a v roce 2015 představovala odborné posudky prodeje městských bytů. Minulá výkonná funkce je relevantní, nestačí však přičíst jí pozdější rozhodnutí či automaticky uzavřít, že mohla sama zrušit všechny dnešní poplatky.",
         "references": [
           {
             "source": "96ab5768e37aec62",
@@ -4004,7 +4004,7 @@
           }
         ]
       },
-      "summary": "Poplatky město změnit může, ale jejich zrušení neuhradí odvoz odpadu; doložená starší kontrolní praxe nenahrazuje rozpočet.",
+      "summary": "Poplatky město zrušit může, odvoz odpadu ale bude muset dál platit; dřívější prověřování prodeje městských bytů nedokládá úspory na zaplacení dnešních slibů.",
       "selection": "Tři viditelné samostatné programové stránky: parkování, odpady a finance; kontrola se týká velkých investic, nikoliv automatického odmítání každé stavby.",
       "political": "Klára Liptáková dříve působila jako náměstkyně; letošní kandidátce nepřipisujeme hlasy celé bývalé koalice SPD a Trikolory.",
       "political_references": [],
@@ -4018,17 +4018,17 @@
         {
           "accountability": null,
           "id": "K13-01",
-          "title": "První rezidentní oprávnění zdarma",
+          "title": "Parkovací oprávnění pro první auto zdarma",
           "promise": "Zrušit poplatek za první rezidentní parkovací oprávnění.",
           "source": {
             "source": "75e78575bcb4f7b3",
             "locator": "JS obsah stránky /parkovani"
           },
           "evidence_status": "podminene",
-          "reason": "První rezidentní oprávnění je existující služba s měnitelnou cenou, její zrušení ale vyžaduje rozhodnutí a nahrazení příjmů.",
+          "reason": "Město může zrušit cenu parkovacího oprávnění pro první auto rezidenta, ale musí rozhodnout, jak nahradí výpadek příjmů; nejde o bezplatné parkování pro každého všude.",
           "signal": "Nový závazek",
-          "history": "Text upřesňuje první rezidentní oprávnění. Nelze jej rozšířit na parkování zdarma pro každého všude.",
-          "authority": "Město ovlivňuje vlastní dopravu a její financování. Změny integrovaného tarifu, regionálních spojů a státních staveb vyžadují další partnery.",
+          "history": "Slib se týká oprávnění obyvatel k parkování prvního auta podle pravidel jejich rezidentní oblasti. Nezaručuje vyhrazené volné místo a neznamená parkování zdarma pro každého v celém Brně.",
+          "authority": "Město ovlivňuje vlastní dopravu a její financování. Ceny a pravidla jízdného společného pro Brno a kraj, regionální spoje a státní stavby musí řešit i s krajem, dopravci nebo státem.",
           "practical": "Rozhodující je výpadek příjmů a další financování systému. Slib se týká prvního rezidentního oprávnění, nikoliv návštěvnického parkování nebo zrušení zón.",
           "change": "Finanční dopad a přesně schválený ceník.",
           "counterevidence": "Není správné rozšiřovat slib na parkování zdarma pro každého všude.",
@@ -4112,10 +4112,10 @@
             "locator": "JS obsah /finance"
           },
           "evidence_status": "podminene",
-          "reason": "Liptáková představovala odborné posudky privatizace, veřejné prověřování všech velkých investic ale vyžaduje širší standard, než dokládá tato starší praxe.",
+          "reason": "Klára Liptáková dříve představovala odborné posudky prodeje městských bytů; to dokládá zkušenost s prověřováním rozhodnutí, ale ne zavedená pravidla veřejné kontroly všech velkých investic.",
           "signal": "Starší doložená praxe",
-          "history": "Jako první náměstkyně v roce 2015 Liptáková představovala závěry dvou objednaných právně-ekonomických expertiz privatizace.",
-          "authority": "Zastupitel může přímo ovlivnit vlastní hlas. Změna městských pravidel, zadání auditu nebo zveřejňování dalších údajů potřebuje podporu příslušného orgánu.",
+          "history": "Jako první náměstkyně v roce 2015 Klára Liptáková představovala závěry dvou objednaných právních a ekonomických posudků privatizace, tedy prodeje městských bytů.",
+          "authority": "Zastupitel může přímo ovlivnit vlastní hlas. Změna městských pravidel, zadání auditu nebo zveřejňování dalších údajů potřebuje podporu rady nebo zastupitelstva podle toho, kdo o věci rozhoduje.",
           "practical": "Je potřeba vymezit práh investice, nezávislost posouzení, zveřejnění a práci s alternativami i provozními náklady.",
           "change": "Závazná pravidla a první zveřejněná posouzení.",
           "counterevidence": "Zakázka na expertizu k jinému problému není důkaz pravidelné kontroly všech velkých investic.",
@@ -4217,7 +4217,7 @@
           }
         ]
       },
-      "summary": "Sedláček zná přípravu města, ale 500 městských bytů ročně a velké stavby potřebují doložený harmonogram, peníze i další investory.",
+      "summary": "Michal Sedláček vedl Kancelář architekta města, ale 500 nových městských bytů ročně a velké dopravní stavby potřebují také peníze, termíny a spolupráci dalších investorů.",
       "selection": "Pět výrazných závazků programu: byty, doprava, seniorské kapacity, školy a pracovní místa; objem výstavby nezaměňujeme za přípravu.",
       "political": "Působení v Kanceláři architekta města dokládá odbornou roli, nikoliv zkušenost se získáváním většiny v zastupitelstvu.",
       "political_references": [],
@@ -4245,7 +4245,7 @@
           "reason": "Tempo 500 nových městských bytů ročně nemá v podkladech odpovídající projektový a finanční plán ani doloženou realizaci kandidáty.",
           "signal": "Nový závazek",
           "history": "Přímý osobní návrh nebo realizovaný výsledek odpovídající tomuto slibu nebyl v ověřeném výběru doložen; nejde o důkaz nečinnosti.",
-          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
+          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u městských bytů spravovaných městskými částmi musí zapojit i jejich vedení. Soukromou výstavbu nemůže jednoduše nařídit.",
           "practical": "500 bytů za každý celý rok znamená za čtyři roky 2 000 bytů; jde o přepočet slibu, ne potvrzenou kapacitu. Je nutné určit projekty, cenu, povolení a dodavatele.",
           "change": "Roční plán dokončování, financování a rozlišení nových bytů od oprav.",
           "counterevidence": "KAM zajišťuje odbornou přípravu; vydání územního plánu ani zkušenost architekta nejsou samy stavebním výsledkem.",
@@ -4322,10 +4322,10 @@
             "locator": "program PDF"
           },
           "evidence_status": "podminene",
-          "reason": "Zahájení nádraží navazuje na státní projektový záměr, harmonogram a návazná podzemní dráha však závisejí na dalších investorech a přípravě.",
+          "reason": "Správa železnic už připravuje nové hlavní nádraží a související tratě, takže slib zahájení má konkrétní základ; termín ale závisí na státu a podzemní dráha potřebuje samostatnou přípravu.",
           "signal": "Odborná zkušenost",
           "history": "Sedláček vedl Kancelář architekta města; doložená profesní role není osobní hlas v zastupitelstvu.",
-          "authority": "Město připravuje své pozemky, území a návaznou MHD; železniční uzel připravuje Správa železnic. Samotná brněnská koalice nerozhodne o celé státní investici.",
+          "authority": "Město připravuje své pozemky, území a návaznou MHD; nové hlavní nádraží a související tratě připravuje státní organizace Správa železnic. Samotná brněnská koalice nerozhodne o celé státní investici.",
           "practical": "Program rozlišuje zahájení nádraží a přípravu podzemní dráhy; neslibuje hotové metro do roku 2030. U okruhu a železnice jsou nezbytní státní partneři.",
           "change": "Společné milníky investorů a městské financování návazných staveb.",
           "counterevidence": "Spolupráce města se státem je skutečná kompetence; závislost na partnerovi není sama důkaz nemožnosti.",
@@ -4381,7 +4381,7 @@
             "locator": "PDF s. 2 – Senioři a sociální péče"
           },
           "evidence_status": "bez_opory",
-          "reason": "Tempo 1 200 nových míst pro seniory ročně nemá doloženou stavební, finanční a podle typu služby ani personální kapacitu.",
+          "reason": "Pro slíbené tempo 1 200 nových míst v bydlení pro seniory ročně chybí doložené projekty a peníze; u míst se sociální péčí je navíc nutné zajistit pracovníky.",
           "signal": "Nový závazek",
           "history": "Realizace této kapacity dnešními kandidáty nebyla doložena.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -4409,7 +4409,7 @@
             "locator": "PDF s. 2 – Školství"
           },
           "evidence_status": "podminene",
-          "reason": "Sadová má doloženou starší soutěžní přípravu se Sedláčkovou účastí, dokončení všech tří škol ale potřebuje ověřené projekty, povolení a peníze.",
+          "reason": "Michal Sedláček se jako městský architekt účastnil přípravy soutěže na návrh školy v Sadové; dokončení všech tří slibovaných škol v Sadové, Trnité a Zbrojovce ale potřebuje ověřené projekty, povolení a peníze.",
           "signal": "Starší doložená příprava",
           "history": "Sedláček jako městský architekt veřejně podporoval soutěž na Sadovou už v roce 2022. Projekt tedy má starší přípravu; tento podklad nepotvrzuje dnešní stav povolení ani dokončení všech tří škol.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -4495,7 +4495,7 @@
           }
         ]
       },
-      "summary": "Kotel má realizační smlouvu a odpor k prodeji bytů dokládají hlasy, zastavení lanovky a vracení parkovacích příjmů zatím přímou oporu nemají.",
+      "summary": "Nový kotel brněnské spalovny už má smlouvu a jejich zastupitelé hlasovali proti prodeji městských bytových domů, ale zastavení lanovky do Bohunic a vracení parkovacích příjmů čtvrtím zatím doložené nejsou.",
       "selection": "Výběr z dopravy, bydlení, energetiky a sportu; parkovací příjmy jsou samostatný konkrétní rozpočtový závazek.",
       "political": "Zemek odmítá koalici s ANO, SPD a Motoristy; počet mandátů zbývajících partnerů není doložený.",
       "political_references": [
@@ -4514,17 +4514,17 @@
         {
           "accountability": null,
           "id": "K15-01",
-          "title": "Odmítnout lanovku do kampusu",
-          "promise": "Odmítnout lanovku do kampusu.",
+          "title": "Odmítnout lanovku z Pisárek do Bohunic",
+          "promise": "Odmítnout lanovku z Pisárek k univerzitnímu kampusu v Bohunicích.",
           "source": {
             "source": "efe3592adc38d279",
             "locator": "Doprava"
           },
           "evidence_status": "bez_opory",
-          "reason": "Hlasy pro projednání analýz dokládají kontrolu lanovky, nikoli její odmítnutí; přímý důkaz tohoto postoje v ověřeném výběru chybí.",
+          "reason": "Jejich zastupitelé podpořili veřejné projednání analýz lanovky z Pisárek k univerzitnímu kampusu v Bohunicích; tím ale nehlasovali pro její zastavení a přímý doklad takového kroku v ověřeném výběru chybí.",
           "signal": "Jen nepřímý důkaz",
           "history": "Všichni tři nynější kandidáti s mandátem podpořili veřejné projednání analýz.",
-          "authority": "Město ovlivňuje vlastní dopravu a její financování. Změny integrovaného tarifu, regionálních spojů a státních staveb vyžadují další partnery.",
+          "authority": "Město ovlivňuje vlastní dopravu a její financování. Ceny a pravidla jízdného společného pro Brno a kraj, regionální spoje a státní stavby musí řešit i s krajem, dopravci nebo státem.",
           "practical": "Vlastní nesouhlas mohou zastupitelé vyjádřit, zastavení projektu ale závisí na většině a existujících závazcích.",
           "change": "Přímý návrh a hlasování o dalším osudu projektu včetně nákladů změny.",
           "counterevidence": "Všichni tři podpořili veřejné projednání; tím se ale nerozhodovalo o výstavbě.",
@@ -4634,11 +4634,11 @@
             "locator": "Bydlení"
           },
           "evidence_status": "podminene",
-          "reason": "Odpor tří kandidátů k prodeji Dornychu i podpora části bytové přípravy jsou doložené, celý stavební program ale ještě nemá ověřené krytí.",
+          "reason": "Tři jejich kandidáti hlasovali proti prodeji dvou městských bytových domů na Dornychu developerovi a doložená je i podpora přípravy nových bytů; financování celého slíbeného stavebního programu ale ověřené není.",
           "signal": "Soulad u prodejů",
-          "history": "Tři kandidáti byli proti prodeji Dornychu. U červnového výběru banky dva pro, jeden nepřítomen; u Mostecké 16 dva proti, jeden nepřítomen. V rozpravě Zemek odmítal vložení stávajícího domu jako skrytou privatizaci.",
-          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u svěřených bytů musí zapojit městské části. Soukromou výstavbu nemůže jednoduše nařídit.",
-          "practical": "Podpora banky pro Kamenný vrch a odpor k vložení stávajícího domu Mostecká 16 do družstva jsou rozdílné postoje ke dvěma projektům, nikoliv nutně rozpor.",
+          "history": "Tři kandidáti hlasovali proti prodeji městských bytových domů Dornych 29 a 31. Při červnovém výběru banky pro nové družstevní byty na Kamenném vrchu byli dva pro a jeden nepřítomen. U převodu stávajícího městského domu Mostecká 16 do družstva byli dva proti a jeden nepřítomen. Adam Zemek tento převod v rozpravě označil za skrytou privatizaci.",
+          "authority": "Město může investovat do vlastního bydlení, rozhodovat o majetku a pravidlech; u městských bytů spravovaných městskými částmi musí zapojit i jejich vedení. Soukromou výstavbu nemůže jednoduše nařídit.",
+          "practical": "Financování nových družstevních bytů v projektu Kamenný vrch II a převod již existujícího městského bytového domu Mostecká 16 do družstva jsou dvě různá rozhodnutí. Podpora prvního a odmítnutí druhého proto samy o sobě nejsou rozporem.",
           "change": "Pravidla majetkové ochrany a financovaný plán výstavby.",
           "counterevidence": "U dvou červnových hlasování byl jeden ze tří kandidátů nepřítomen; jeho hlas nevymýšlíme.",
           "references": [],
@@ -4820,18 +4820,18 @@
         {
           "accountability": null,
           "id": "K15-03",
-          "title": "Další kotel spalovny",
-          "promise": "Podporovat další kotel brněnské spalovny.",
+          "title": "Nový kotel brněnské spalovny",
+          "promise": "Podporovat nový kotel brněnské spalovny městské odpadové společnosti SAKO, která z odpadu vyrábí teplo a elektřinu.",
           "source": {
             "source": "efe3592adc38d279",
             "locator": "Energetika a životní prostředí"
           },
           "evidence_status": "podlozeno",
-          "reason": "Další kotel má oznámenou realizační smlouvu SAKO a podporu z fondu; oporu má postup projektu, osobní zásluhu kandidátů z tajného hlasování nevyvozujeme.",
+          "reason": "Městská odpadová společnost SAKO už oznámila smlouvu na modernizaci spalovny s novým kotlem za 5,4 mld. Kč a podporu z fondu; to dokládá postup projektu, ale ne dokončenou stavbu ani osobní zásluhu každé kampaně.",
           "signal": "Podepsaná smlouva projektu",
-          "history": "Vybrané osobní hlasy dokládají postoj k tajné proceduře, nikoliv následnou tajnou volbu. Vedle toho je doloženo oznámení SAKO o uzavření realizační smlouvy.",
-          "authority": "Vlastnictví městských společností dává městu vliv, ale nenahrazuje rozhodování společnosti, investiční financování, soutěže ani cenová pravidla.",
-          "practical": "SAKO oznámilo podepsanou smlouvu za 5,4 mld. Kč a podporu z Modernizačního fondu; dřívější sdělení uvádělo květen 2028. Projekt tedy není jen volební nápad. Zbývá ověřit aktuální plnění harmonogramu a finanční rizika; oznámení firmy není nezávislý audit.",
+          "history": "Osobní hlasy uvedené níže ukazují, zda kandidáti chtěli o SAKO hlasovat veřejně, nebo tajně. Neprozrazují, jak potom tajně hlasovali o samotném rozhodnutí. Postup stavby dokládá samostatné oznámení společnosti SAKO o podpisu smlouvy.",
+          "authority": "Město jako vlastník ovlivňuje své firmy. Stavby a změny cen ale vyžadují také rozhodnutí firmy, zajištěné peníze a dodržení pravidel pro zakázky a ceny.",
+          "practical": "Městská odpadová společnost SAKO provozuje brněnskou spalovnu, která z odpadu vyrábí teplo a elektřinu. Oznámila podepsanou smlouvu na modernizaci za 5,4 mld. Kč a podporu z Modernizačního fondu; dřívější sdělení uvádělo dokončení v květnu 2028. Nový kotel tedy není jen volební nápad. Zbývá ověřit dodržování termínů a finanční rizika; oznámení firmy není nezávislou kontrolou projektu.",
           "change": "Zrušení smlouvy, nezajištěné financování nebo zásadní skluz by oporu oslabily; ověřené plnění milníků a dokončení by ji posílily.",
           "counterevidence": "Dva kandidáti hlasovali proti tajné proceduře, jeden nebyl přítomen; nejde o tři veřejné hlasy pro kotel.",
           "references": [
@@ -5023,12 +5023,12 @@
             "locator": "Doprava – parkování"
           },
           "evidence_status": "bez_opory",
-          "reason": "Vracení parkovacích příjmů nemá stanovený podíl ani základ výpočtu; z obecného rozpočtového hlasu nelze toto nové pravidlo doložit.",
+          "reason": "Není určeno, jaká část příjmů z parkování se má vracet do čtvrtí ani zda se předtím odečtou náklady na provoz parkování; hlas pro celý rozpočet takové pravidlo nedokládá.",
           "signal": "Nový závazek",
           "history": "Samostatný nový finanční mechanismus; z hlasu o celém rozpočtu jej nelze odvodit.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
           "practical": "Hrubé příjmy parkování nejsou částka volná po úhradě provozu. Mechanismus musí být slučitelný s výdaji, které dnes tyto peníze financují.",
-          "change": "Jasný podíl, základ výpočtu a schválené rozdělení prostředků.",
+          "change": "Určit podíl příjmů, zda se počítá před odečtením nákladů nebo po něm, a schválit rozdělení peněz mezi lokality.",
           "counterevidence": "Nejde o automatický zákonný nárok lokality; město však takové pravidlo může politicky prosadit.",
           "references": [],
           "authority_references": [
@@ -5072,7 +5072,7 @@
           }
         ]
       },
-      "summary": "Více strážníků, úklid a stacionář jsou ovlivnitelné městem, ale chybí konkrétní kapacity, personální plán a financování.",
+      "summary": "Více strážníků, nepřetržitý úklid a zařízení pro pomoc lidem bez domova může město zajistit, ale chybí počty pracovníků, rozsah služeb a financování.",
       "selection": "Tři konkrétní priority ze zahájení kampaně 31. srpna: strážníci, nepřetržitý úklid a stacionář; starý program 2022 nepřebíráme.",
       "political": "Kment a Prokeš mají osobní hlasovací historii; bez návrhu personálu a provozu nelze z jejich rozpočtových hlasů potvrdit tyto nové služby.",
       "political_references": [],
@@ -5114,14 +5114,14 @@
         {
           "accountability": null,
           "id": "K16-02",
-          "title": "Stacionář pro lidi bez domova",
-          "promise": "Postavit stacionář pro lidi bez domova podle inspirace ze Svitav.",
+          "title": "Zařízení pro pomoc lidem bez domova",
+          "promise": "Zřídit stacionář, tedy zařízení poskytující pomoc lidem bez domova, podle inspirace ze Svitav.",
           "source": {
             "source": "b0b7232944a526b8",
             "locator": "zpráva o zahájení kampaně 31. 8. 2026"
           },
           "evidence_status": "bez_opory",
-          "reason": "Odkaz na Svitavy nenahrazuje brněnskou lokalitu, kapacitu, provozovatele a dlouhodobé financování stacionáře.",
+          "reason": "Kampaň odkazuje na zařízení pro pomoc lidem bez domova ve Svitavách, ale pro Brno nemá doložené místo, počet klientů, provozovatele ani dlouhodobé financování.",
           "signal": "Nový závazek",
           "history": "Přímý osobní návrh nebo realizovaný výsledek odpovídající tomuto slibu nebyl v ověřeném výběru doložen; nejde o důkaz nečinnosti.",
           "authority": "Městské zastupitelstvo může změnit rozpočet a financovat městské služby. Konkrétní výdaj potřebuje schválení a opakované krytí v dalších letech.",
@@ -6339,6 +6339,11 @@
     {
       "date": "2026-09-20",
       "text": "Metodika 3: přidána kategorie Neudělali to, když mohli, přehled výkonné odpovědnosti všech kandidátek a dva úzce vymezené případy vlastního souhlasu s prodejem Dornychu; doplněny původní podklady o hlasování rady a uskutečnění prodeje."
+    },
+    {
+      "date": "2026-09-24",
+      "text": "Srozumitelnější vysvětlení projektů a souvislosti hlasování se sliby; kategorie bez dostatečných podkladů se nově jmenuje „Jen kydy!“. Zařazení slibů a stav věcného ověření k 20. 9. 2026 se nemění."
     }
-  ]
+  ],
+  "copy_updated": "2026-09-24"
 }
