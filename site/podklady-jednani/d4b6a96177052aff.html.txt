@@ -1,0 +1,3738 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html class="ltr" dir="ltr" lang="cs-CZ">
+
+<head>
+	<title>T ARENA se poprvé představí veřejnosti. Na konci září nabídne prohlídky i víkendový program - Tiskový servis</title>
+
+	<meta content="initial-scale=1.0, width=device-width" name="viewport" />
+
+    <link rel="stylesheet" href="https://cosedeje.brno.cz/o/brno-theme/css/app.min.css">
+    <link rel="stylesheet" href="https://cosedeje.brno.cz/o/brno-theme/css/print.min.css" media="print">
+
+    <script src="https://cosedeje.brno.cz/o/brno-theme/js/vendor/jquery-3.6.0.min.js"></script>
+    <script src="https://cosedeje.brno.cz/o/brno-theme/js/vendor/glightbox.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link data-senna-track="temporary" href="https://cosedeje.brno.cz/w/t-arena-se-poprve-predstavi-verejnosti-na-konci-zari-nabidne-prohlidky-i-vikendovy-program" rel="canonical" />
+
+<meta property="og:locale" content="cs_CZ">
+<meta property="og:locale:alternate" content="cs_CZ">
+<meta property="og:site_name" content="Tiskový servis">
+<meta property="og:title" content="T ARENA se poprvé představí veřejnosti. Na konci září nabídne prohlídky i víkendový program">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://cosedeje.brno.cz/w/t-arena-se-poprve-predstavi-verejnosti-na-konci-zari-nabidne-prohlidky-i-vikendovy-program">
+
+
+<link href="https://cosedeje.brno.cz/o/brno-theme/images/favicon.ico" rel="icon" />
+
+
+
+    
+        <link id="liferayAUICSS" />
+    
+
+        
+
+
+
+
+    
+        <link id="liferayPortalCSS" />
+    
+
+        
+
+
+
+
+
+
+
+
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	// <![CDATA[
+		var Liferay = Liferay || {};
+
+		Liferay.Browser = {
+			acceptsGzip: function() {
+				return true;
+			},
+
+			
+
+			getMajorVersion: function() {
+				return 0;
+			},
+
+			getRevision: function() {
+				return '';
+			},
+			getVersion: function() {
+				return '';
+			},
+
+			
+
+			isAir: function() {
+				return false;
+			},
+			isChrome: function() {
+				return false;
+			},
+			isEdge: function() {
+				return false;
+			},
+			isFirefox: function() {
+				return false;
+			},
+			isGecko: function() {
+				return false;
+			},
+			isIe: function() {
+				return false;
+			},
+			isIphone: function() {
+				return false;
+			},
+			isLinux: function() {
+				return false;
+			},
+			isMac: function() {
+				return false;
+			},
+			isMobile: function() {
+				return false;
+			},
+			isMozilla: function() {
+				return false;
+			},
+			isOpera: function() {
+				return false;
+			},
+			isRtf: function() {
+				return false;
+			},
+			isSafari: function() {
+				return false;
+			},
+			isSun: function() {
+				return false;
+			},
+			isWebKit: function() {
+				return false;
+			},
+			isWindows: function() {
+				return false;
+			}
+		};
+
+		Liferay.Data = Liferay.Data || {};
+
+		Liferay.Data.ICONS_INLINE_SVG = true;
+
+		Liferay.Data.NAV_SELECTOR = '#navigation';
+
+		Liferay.Data.NAV_SELECTOR_MOBILE = '#navigationCollapse';
+
+		Liferay.Data.isCustomizationView = function() {
+			return false;
+		};
+
+		Liferay.Data.notices = [
+			
+
+			
+		];
+
+		Liferay.PortletKeys = {
+			DOCUMENT_LIBRARY: 'com_liferay_document_library_web_portlet_DLPortlet',
+			DYNAMIC_DATA_MAPPING: 'com_liferay_dynamic_data_mapping_web_portlet_DDMPortlet',
+			ITEM_SELECTOR: 'com_liferay_item_selector_web_portlet_ItemSelectorPortlet'
+		};
+
+		Liferay.PropsValues = {
+			JAVASCRIPT_SINGLE_PAGE_APPLICATION_TIMEOUT: 0,
+			NTLM_AUTH_ENABLED: false,
+			UPLOAD_SERVLET_REQUEST_IMPL_MAX_SIZE: 1073741824
+		};
+
+		Liferay.ThemeDisplay = {
+
+			
+
+			
+				getLayoutId: function() {
+					return '38';
+				},
+
+				
+
+				getLayoutRelativeControlPanelURL: function() {
+					return '/group/tiskovy-servis/~/control_panel/manage';
+				},
+
+				getLayoutRelativeURL: function() {
+					return '/cs/w/t-arena-se-poprve-predstavi-verejnosti-na-konci-zari-nabidne-prohlidky-i-vikendovy-program';
+				},
+				getLayoutURL: function() {
+					return 'https://cosedeje.brno.cz/cs/w/t-arena-se-poprve-predstavi-verejnosti-na-konci-zari-nabidne-prohlidky-i-vikendovy-program';
+				},
+				getParentLayoutId: function() {
+					return '0';
+				},
+				isControlPanel: function() {
+					return false;
+				},
+				isPrivateLayout: function() {
+					return 'false';
+				},
+				isVirtualLayout: function() {
+					return false;
+				},
+			
+
+			getBCP47LanguageId: function() {
+				return 'cs-CZ';
+			},
+			getCanonicalURL: function() {
+
+				
+
+				return 'https\x3a\x2f\x2fcosedeje\x2ebrno\x2ecz\x2fcs\x2fw\x2ft-arena-se-poprve-predstavi-verejnosti-na-konci-zari-nabidne-prohlidky-i-vikendovy-program';
+			},
+			getCDNBaseURL: function() {
+				return 'https://cosedeje.brno.cz';
+			},
+			getCDNDynamicResourcesHost: function() {
+				return '';
+			},
+			getCDNHost: function() {
+				return '';
+			},
+			getCompanyGroupId: function() {
+				return '20123';
+			},
+			getCompanyId: function() {
+				return '20097';
+			},
+			getDefaultLanguageId: function() {
+				return 'cs_CZ';
+			},
+			getDoAsUserIdEncoded: function() {
+				return '';
+			},
+			getLanguageId: function() {
+				return 'cs_CZ';
+			},
+			getParentGroupId: function() {
+				return '317111';
+			},
+			getPathContext: function() {
+				return '';
+			},
+			getPathImage: function() {
+				return '/image';
+			},
+			getPathJavaScript: function() {
+				return '/o/frontend-js-web';
+			},
+			getPathMain: function() {
+				return '/c';
+			},
+			getPathThemeImages: function() {
+				return 'https://cosedeje.brno.cz/o/brno-theme/images';
+			},
+			getPathThemeRoot: function() {
+				return '/o/brno-theme';
+			},
+			getPlid: function() {
+				return '720';
+			},
+			getPortalURL: function() {
+				return 'https://cosedeje.brno.cz';
+			},
+			getScopeGroupId: function() {
+				return '317111';
+			},
+			getScopeGroupIdOrLiveGroupId: function() {
+				return '317111';
+			},
+			getSessionId: function() {
+				return '';
+			},
+			getSiteAdminURL: function() {
+				return 'https://cosedeje.brno.cz/group/tiskovy-servis/~/control_panel/manage?p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view';
+			},
+			getSiteGroupId: function() {
+				return '317111';
+			},
+			getURLControlPanel: function() {
+				return '/group/control_panel?refererPlid=720';
+			},
+			getURLHome: function() {
+				return 'https\x3a\x2f\x2fcosedeje\x2ebrno\x2ecz\x2fweb\x2fcz';
+			},
+			getUserEmailAddress: function() {
+				return '';
+			},
+			getUserId: function() {
+				return '20102';
+			},
+			getUserName: function() {
+				return '';
+			},
+			isAddSessionIdToURL: function() {
+				return false;
+			},
+			isImpersonated: function() {
+				return false;
+			},
+			isSignedIn: function() {
+				return false;
+			},
+			isStateExclusive: function() {
+				return false;
+			},
+			isStateMaximized: function() {
+				return false;
+			},
+			isStatePopUp: function() {
+				return false;
+			}
+		};
+
+		var themeDisplay = Liferay.ThemeDisplay;
+
+		Liferay.AUI = {
+
+			
+
+			getAvailableLangPath: function() {
+				return 'available_languages.jsp?browserId=other&themeId=smb_WAR_brnotheme&colorSchemeId=01&minifierType=js&languageId=cs_CZ&b=7306&t=1789717291239';
+			},
+			getCombine: function() {
+				return true;
+			},
+			getComboPath: function() {
+				return '/combo/?browserId=other&minifierType=&languageId=cs_CZ&b=7306&t=1789639944320&';
+			},
+			getDateFormat: function() {
+				return '%d.%m.%Y';
+			},
+			getEditorCKEditorPath: function() {
+				return '/o/frontend-editor-ckeditor-web';
+			},
+			getFilter: function() {
+				var filter = 'raw';
+
+				
+					
+						filter = 'min';
+					
+					
+
+				return filter;
+			},
+			getFilterConfig: function() {
+				var instance = this;
+
+				var filterConfig = null;
+
+				if (!instance.getCombine()) {
+					filterConfig = {
+						replaceStr: '.js' + instance.getStaticResourceURLParams(),
+						searchExp: '\\.js$'
+					};
+				}
+
+				return filterConfig;
+			},
+			getJavaScriptRootPath: function() {
+				return '/o/frontend-js-web';
+			},
+			getLangPath: function() {
+				return 'aui_lang.jsp?browserId=other&themeId=smb_WAR_brnotheme&colorSchemeId=01&minifierType=js&languageId=cs_CZ&b=7306&t=1789639944320';
+			},
+			getPortletRootPath: function() {
+				return '/html/portlet';
+			},
+			getStaticResourceURLParams: function() {
+				return '?browserId=other&minifierType=&languageId=cs_CZ&b=7306&t=1789639944320';
+			}
+		};
+
+		Liferay.authToken = '2elCHEXs';
+
+		
+
+		Liferay.currentURL = '\x2fw\x2ft-arena-se-poprve-predstavi-verejnosti-na-konci-zari-nabidne-prohlidky-i-vikendovy-program';
+		Liferay.currentURLEncoded = '\x252Fw\x252Ft-arena-se-poprve-predstavi-verejnosti-na-konci-zari-nabidne-prohlidky-i-vikendovy-program';
+	// ]]>
+</script>
+
+<script src="/o/js_loader_config?t=1789639913281" type="text/javascript"></script>
+<script data-senna-track="permanent" src="/combo?browserId=other&minifierType=js&languageId=cs_CZ&b=7306&t=1789639944320&/o/frontend-js-aui-web/aui/aui/aui.js&/o/frontend-js-aui-web/liferay/modules.js&/o/frontend-js-aui-web/liferay/aui_sandbox.js&/o/frontend-js-aui-web/aui/attribute-base/attribute-base.js&/o/frontend-js-aui-web/aui/attribute-complex/attribute-complex.js&/o/frontend-js-aui-web/aui/attribute-core/attribute-core.js&/o/frontend-js-aui-web/aui/attribute-observable/attribute-observable.js&/o/frontend-js-aui-web/aui/attribute-extras/attribute-extras.js&/o/frontend-js-aui-web/aui/event-custom-base/event-custom-base.js&/o/frontend-js-aui-web/aui/event-custom-complex/event-custom-complex.js&/o/frontend-js-aui-web/aui/oop/oop.js&/o/frontend-js-aui-web/aui/aui-base-lang/aui-base-lang.js&/o/frontend-js-aui-web/liferay/dependency.js&/o/frontend-js-aui-web/liferay/util.js&/o/frontend-js-web/loader/config.js&/o/frontend-js-web/loader/loader.js&/o/frontend-js-web/liferay/dom_task_runner.js&/o/frontend-js-web/liferay/events.js&/o/frontend-js-web/liferay/lazy_load.js&/o/frontend-js-web/liferay/liferay.js&/o/frontend-js-web/liferay/global.bundle.js&/o/frontend-js-web/liferay/portlet.js&/o/frontend-js-web/liferay/workflow.js" type="text/javascript"></script>
+
+
+
+
+	
+
+	<script data-senna-track="temporary" src="/o/js_bundle_config?t=1789640192539" type="text/javascript"></script>
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	// <![CDATA[
+		
+			
+				
+		
+
+		
+
+		
+	// ]]>
+</script>
+
+
+
+
+
+	
+		
+
+			
+
+			
+		
+		
+
+
+
+	
+		
+
+			
+
+			
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link class="lfr-css-file" data-senna-track="temporary" href="https://cosedeje.brno.cz/o/brno-theme/css/main.css?browserId=other&amp;themeId=smb_WAR_brnotheme&amp;minifierType=css&amp;languageId=cs_CZ&amp;b=7306&amp;t=1789632752000" id="liferayThemeCSS" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+
+        
+	<style data-senna-track="temporary" type="text/css">
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+	</style>
+
+      
+
+<style data-senna-track="temporary" type="text/css">
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	if (window.Analytics) {
+		window._com_liferay_document_library_analytics_isViewFileEntry = false;
+	}
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+// <![CDATA[
+Liferay.on(
+	'ddmFieldBlur', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldBlurred',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					focusDuration: event.focusDuration,
+					formId: event.formId,
+					page: event.page
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFieldFocus', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldFocused',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					formId: event.formId,
+					page: event.page
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormPageShow', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'pageViewed',
+				'Form',
+				{
+					formId: event.formId,
+					page: event.page,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormSubmit', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formSubmitted',
+				'Form',
+				{
+					formId: event.formId
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormView', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formViewed',
+				'Form',
+				{
+					formId: event.formId,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/o/brno-theme/assets/images/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="96x96" href="/o/brno-theme/assets/images/favicon/favicon-96x96.png" />
+    <link rel="shortcut icon" href="/o/brno-theme/assets/images/favicon/favicon.ico" />
+    <link rel="icon" type="image/svg+xml" href="/o/brno-theme/assets/images/favicon/favicon.svg" />
+    <link rel="manifest" href="/o/brno-theme/assets/images/favicon/site.webmanifest" />
+
+    <meta name="apple-mobile-web-app-title" content="T ARENA se poprvé představí veřejnosti. Na konci září nabídne prohlídky i víkendový program - Tiskový servis" />
+
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/o/brno-theme/assets/images/favicon/web-app-manifest-192x192.png">
+    <meta name="theme-color" content="#ffffff">
+
+</head>
+
+<body class="other controls-visible  yui3-skin-sam signed-out public-page site appbar-two-line-fixed">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="d-flex flex-column min-vh-100">
+
+	<div class="d-flex flex-column flex-fill smb-theme smb-design">
+        <section class="flex-fill " id="content">
+            <h2 class="sr-only" role="heading" aria-level="1">T ARENA se poprvé představí veřejnosti. Na konci září nabídne prohlídky i víkendový program - Tiskový servis</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+			
+		
+
+		
+			
+				<div class="layout-content portlet-layout" id="main-content" >
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="">
+
+				
+
+				<div class=" mb-lg-0 ml-lg-0 mr-lg-0 mt-lg-0 pb-lg-0 pl-lg-0 pr-lg-0 pt-lg-0" style="box-sizing: border-box;border-style: solid; border-width: 0px;opacity: 1.0;">
+					<div id="fragment-3102-zvun" >
+	<script type="text/javascript">
+		$(document).ready(function() {
+			let scriptToAdd = document.createElement('script');
+			scriptToAdd.type = 'text/javascript';
+			let inlineScript = document.createTextNode(
+					`var _paq = window._paq = window._paq || [];
+					/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+					_paq.push(["setDoNotTrack", true]);
+					_paq.push(["disableCookies"]);
+					_paq.push(['trackPageView']);
+					_paq.push(['enableLinkTracking']);
+					(function() {
+							var u="https://emmb-matomo.brno.cz/";
+							_paq.push(['setTrackerUrl', u+'matomo.php']);
+							_paq.push(['setSiteId', '11']);
+							var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+							g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+					})();`);
+			scriptToAdd.appendChild(inlineScript);
+			$('head').append(scriptToAdd);
+
+			let noscriptToAdd = document.createElement('noscript');
+			let inlineNoscript = document.createTextNode(
+					`<p><img referrerpolicy="no-referrer-when-downgrade" src="https://emmb-matomo.brno.cz/matomo.php?idsite=11&amp;rec=1" style="border:0;" alt="" /></p>`);
+			noscriptToAdd.appendChild(inlineNoscript);    
+			$('head').append(noscriptToAdd);
+		});
+	</script>
+
+</div>
+				</div>
+			</div>
+		
+		
+		
+	
+
+
+
+	
+		
+		
+		
+		
+		
+			<div class="">
+
+				
+
+				<div class=" mb-lg-0 ml-lg-0 mr-lg-0 mt-lg-0 pb-lg-0 pl-lg-0 pr-lg-0 pt-lg-0" style="box-sizing: border-box;border-style: solid; border-width: 0px;opacity: 1.0;">
+					<div id="fragment-4515-kubx" >
+
+<style>
+/* uprava scroll na kotvu kvuli fixni hlavicce */
+html {
+    scroll-padding-top: 220px;
+}
+
+.smb-theme .bno-skip-link ~ .bno-logo:first-of-type svg {
+    height: 35px;
+}
+
+/* to allow shrink */
+@media (max-width: 31.99em) {
+    .smb-theme .bno-skip-link ~ .bno-logo:first-of-type svg {
+        height: unset;
+        max-height: 35px;
+    }
+}
+
+.smb-theme .bno-appbar-two-line__logo .bno-link svg {
+    width: 100%; /* to allow shrink */
+    color: unset; /* to remove black color for visited link */
+}
+</style>
+
+<header class="bno-appbar-two-line">
+    <div class="bno-container bno-appbar-two-line__container">
+        <div class="bno-container__content">
+            <nav class="bno-skip-link" aria-label="Odkazy na přeskočení obsahu">
+                <ul class="bno-list--plain">
+                    <li>
+                        <a class="bno-skip-link__item" href="#bno-main" aria-label="Přeskočit na obsah">Přeskočit na obsah</a>
+                    </li>
+                </ul>
+            </nav>
+                <div class="bno-appbar-two-line__logo">
+                    <a class="bno-link" href="/" aria-label="Přejít na úvodní stranu">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 238 40">
+                                <path fill="currentColor" d="M8.95,14.93c-1.19,0-2.12.49-2.79,1.47s-1,2.33-1,4.04c0,3.57,1.36,5.36,4.08,5.36.82,0,1.62-.11,2.39-.34s1.54-.5,2.32-.83v4.24c-1.55.69-3.3,1.03-5.26,1.03-2.8,0-4.95-.81-6.44-2.44s-2.24-3.97-2.24-7.05c0-1.92.36-3.61,1.09-5.07s1.76-2.58,3.12-3.36,2.96-1.17,4.79-1.17c2.01,0,3.92.44,5.75,1.31l-1.54,3.95c-.69-.32-1.37-.59-2.06-.81s-1.42-.33-2.21-.33Z" />
+                                <path fill="currentColor" d="M34.92,20.34c0,3.12-.77,5.5-2.3,7.12s-3.77,2.44-6.73,2.44-5.14-.82-6.7-2.45c-1.55-1.63-2.33-4.01-2.33-7.13s.77-5.45,2.32-7.08,3.79-2.44,6.73-2.44,5.19.81,6.72,2.42,2.29,3.99,2.29,7.12ZM22.15,20.34c0,3.59,1.25,5.38,3.75,5.38,1.27,0,2.21-.44,2.82-1.31.61-.87.92-2.23.92-4.08s-.31-3.22-.93-4.11-1.55-1.33-2.79-1.33c-2.51,0-3.77,1.81-3.77,5.43Z" />
+                                <path fill="currentColor" d="M57.17,24.01c0,1.15-.29,2.17-.88,3.07s-1.43,1.59-2.53,2.08-2.39.74-3.87.74c-1.24,0-2.27-.09-3.11-.26s-1.71-.48-2.62-.91v-4.47c.96.49,1.95.87,2.98,1.15s1.98.41,2.84.41c.74,0,1.29-.13,1.64-.39s.52-.59.52-1c0-.25-.07-.48-.21-.67s-.36-.38-.67-.58c-.31-.2-1.13-.59-2.47-1.19-1.21-.55-2.12-1.08-2.72-1.6s-1.05-1.11-1.35-1.78-.44-1.46-.44-2.37c0-1.71.62-3.04,1.87-4s2.95-1.43,5.13-1.43c1.92,0,3.88.44,5.88,1.33l-1.54,3.87c-1.73-.8-3.23-1.19-4.49-1.19-.65,0-1.13.11-1.42.34s-.44.51-.44.85c0,.36.19.69.56.98s1.4.81,3.07,1.57c1.6.72,2.71,1.49,3.33,2.32s.93,1.86.93,3.12Z" />
+                                <path fill="currentColor" d="M71.06,29.65h-11.02V11.09h11.02v4.02h-6v2.92h5.56v4.02h-5.56v3.5h6v4.09Z" />
+                                <path fill="currentColor" d="M96.81,19.97c0,3.1-.85,5.48-2.56,7.16s-4.1,2.51-7.19,2.51h-6V11.09h6.42c2.98,0,5.28.76,6.9,2.29s2.43,3.72,2.43,6.6ZM91.61,20.15c0-1.7-.34-2.96-1.01-3.78s-1.69-1.23-3.07-1.23h-1.46v10.4h1.12c1.52,0,2.64-.44,3.35-1.33s1.07-2.24,1.07-4.06Z" />
+                                <path fill="currentColor" d="M111.38,5.44v.37c-.56.56-1.15,1.19-1.76,1.9s-1.11,1.34-1.49,1.89h-4.99c-.33-.51-.8-1.11-1.4-1.81s-1.23-1.36-1.87-1.99v-.37h3.28c.58.36,1.4,1,2.46,1.9.99-.86,1.84-1.5,2.55-1.9h3.22ZM111.16,29.65h-11.02V11.09h11.02v4.02h-6v2.92h5.56v4.02h-5.56v3.5h6v4.09Z" />
+                                <path fill="currentColor" d="M112.95,35.47c-.91,0-1.78-.09-2.6-.27v-3.9c.27.05.56.11.86.17s.63.1.99.1c.83,0,1.42-.25,1.78-.75.36-.5.53-1.35.53-2.56V11.09h5.04v16.74c0,2.51-.55,4.42-1.65,5.71s-2.75,1.94-4.95,1.94Z" />
+                                <path fill="currentColor" d="M134.58,29.65h-11.02V11.09h11.02v4.02h-6v2.92h5.56v4.02h-5.56v3.5h6v4.09Z" />
+                                <path fill="currentColor" d="M155.01,11.09h5.61l-6.08,18.56h-5.9l-6.06-18.56h5.64l2.53,9.41c.53,2.09.81,3.55.86,4.37.06-.59.18-1.33.36-2.22s.33-1.59.47-2.1l2.58-9.46Z" />
+                                <path fill="currentColor" d="M169.38,11.09h6.47c2.52,0,4.39.37,5.62,1.12,1.22.75,1.83,1.92,1.83,3.5,0,1.04-.27,1.93-.8,2.67s-1.24,1.21-2.11,1.42v.13c1.15.3,1.98.81,2.5,1.52.52.71.77,1.63.77,2.77,0,1.68-.63,3.01-1.9,3.98-1.26.97-2.99,1.45-5.17,1.45h-7.22V11.09ZM174.4,18.21h1.51c.72,0,1.28-.15,1.67-.44.39-.3.59-.74.59-1.32,0-1.04-.79-1.56-2.36-1.56h-1.41v3.33ZM174.4,21.88v3.9h1.76c1.57,0,2.35-.66,2.35-1.98,0-.62-.21-1.09-.63-1.42-.42-.33-1.03-.49-1.82-.49h-1.66Z" />
+                                <path fill="currentColor" d="M191.92,22.89v6.75h-5.01V11.09h6.08c5.04,0,7.57,1.83,7.57,5.48,0,2.15-1.05,3.81-3.15,4.99l5.41,8.09h-5.69l-3.94-6.75h-1.27ZM191.92,19.12h.94c1.75,0,2.63-.77,2.63-2.32,0-1.28-.86-1.92-2.58-1.92h-.99v4.24Z" />
+                                <path fill="currentColor" d="M222.17,29.65h-6.58l-6.78-13.08h-.11c.16,2.06.24,3.63.24,4.71v8.37h-4.44V11.09h6.55l6.75,12.9h.08c-.12-1.87-.18-3.37-.18-4.51v-8.39h4.47v18.56Z" />
+                                <path fill="currentColor" d="M237.42,5.44v.37c-.56.56-1.15,1.19-1.76,1.9s-1.11,1.34-1.49,1.89h-4.99c-.33-.51-.8-1.11-1.4-1.81-.61-.7-1.23-1.36-1.87-1.99v-.37h3.28c.58.36,1.4,1,2.46,1.9.99-.86,1.84-1.5,2.55-1.9h3.22ZM237.2,29.65h-11.02V11.09h11.02v4.02h-6v2.92h5.56v4.02h-5.56v3.5h6v4.09Z" />
+                            </svg>
+                    </a>
+                </div>
+            <nav class="bno-actions u-hide--tablet" aria-label="Vyhledávání">
+                <ul class="bno-list--plain">
+                        <li>
+                            <!-- Note: JS will change this html to: wcag--show switched tabindex="0" -->
+                            <button class="bno-toggle bno-toggle--search bno-trigger--search wcag--hide" tabindex="-1" aria-label="Zobrazit vyhledávací formulář" aria-expanded="false" aria-controls="bno-search">
+                                <span class="bno-icon bno-icon--search" aria-hidden="true"></span>
+                            </button>
+                            <!-- Note: JS will change this html to: wcag--hide switched tabindex="-1" -->
+                            <a class="bno-toggle bno-toggle--search bno-trigger--search wcag--show" href="#vyhledavani" tabindex="0" aria-label="Přeskočit na vyhledávání">
+                                <span class="bno-icon bno-icon--search" aria-hidden="true"></span>
+                            </a>
+                        </li>
+                </ul>
+            </nav>
+            <a class="bno-logo" href="https://www.brno.cz" title="Přejít na web Brno.cz" aria-label="Přejít na web Brno.cz">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 150 35" xml:space="preserve">
+                    <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M5.1,20.9c0.8,0,1.4-0.5,1.4-1.2c0-0.6-0.4-1.2-1.2-1.3H3.2v2.5H5.1z M3.2,16.3l1.6,0
+                        c0.9,0,1.4-0.3,1.4-1.2C6.3,14.4,5.7,14,5,14H3.2V16.3z M0.1,23.1V11.7h5.5c2.1,0,4,1,4,3c0,1.4-1.2,2.3-2.5,2.5v0
+                        c1.5,0.2,2.7,1.2,2.7,2.8c0,3.3-4.2,3.1-4.3,3.1H0.1z M40.5,16.6c1,0,2-0.1,2-1.3c0-1.2-1-1.3-2-1.3h-1.2v2.6H40.5z M41.4,11.7
+                        c1.9,0,4.4,0.5,4.4,2.9c0,1.7-1.3,2.6-2.9,2.8v0.1c2,0,2.4,1.1,2.6,2.8c0.1,1,0.3,1.9,0.5,2.8h-3.4c-0.2-0.8-0.3-1.6-0.3-2.4
+                        c-0.1-1.4-0.2-1.9-1.8-1.9h-1.2v4.4h-3.2V11.7H41.4z M77.8,11.7l3.8,8.5l0,0v-8.5h2.8v11.4h-4.4l-3.9-8.7h0v8.7h-2.8V11.7H77.8z
+                        M120.8,13.7c-2.2,0-2.6,2-2.6,3.8c0,1.7,0.4,3.7,2.6,3.7c2.2,0,2.6-2,2.6-3.7C123.4,15.7,123,13.7,120.8,13.7 M23.6,0v34.9h-1.2V0
+                        H23.6z M61.4,0v34.9h-2.9V0H61.4z M103.3,0v34.9h-7V0H103.3z M149.9,0v34.9h-11.6V0H149.9z M120.8,11.5c3.8,0,5.9,2.2,5.9,5.9
+                        c0,3.8-2.1,5.9-5.9,5.9c-3.8,0-5.9-2.2-5.9-5.9C114.9,13.7,117,11.5,120.8,11.5z"></path>
+                </svg>
+            </a>
+        </div>
+    </div>
+    <div class="bno-container bno-appbar-two-line__container">
+        <div class="bno-container__content">
+            <nav class="bno-main-nav" id="bno-navigation" aria-label="Hlavní navigace">
+                <!-- .bno-main-nav__inner je v Global\ddm-templates\brno_theme_style-navigation.ftl -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_  portlet-static portlet-static-end portlet-barebone portlet-navigation " id="p_p_id_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_hlavnimenu_">
+		<span id="p_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_hlavnimenu"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+<section class="portlet" id="portlet_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_hlavnimenu">
+
+	<div class="portlet-content">
+
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+			
+				
+
+        <div class="bno-main-nav__inner">
+            <div class="bno-main-nav__scroll">
+                <ul class="bno-main-nav__container">
+
+                            <li class="bno-main-nav__item bno-main-nav__item--expandable">
+                                <button type="button" class="bno-main-nav__link" aria-expanded="false" aria-controls="subnav1" aria-label="Otevřít menu Články">
+                                    Články
+                                </button>
+                                <div id="subnav1" class="bno-main-nav__sub-nav">
+                                    <div class="bno-main-nav__sub-inner">
+                                        <div class="bno-main-nav__sub-scroll">
+
+                                                <div class="bno-main-nav__sub-col">
+                                                        <ul class="bno-main-nav__sub-container">
+
+        <li class="bno-main-nav__sub-item">
+            <a href="https://cosedeje.brno.cz/vsechny-clanky?kategorie=bydleni" class="bno-link" aria-label="Bydlení">
+                Bydlení
+            </a>
+        </li>
+
+        <li class="bno-main-nav__sub-item">
+            <a href="https://cosedeje.brno.cz/vsechny-clanky?kategorie=doprava" class="bno-link" aria-label="Doprava">
+                Doprava
+            </a>
+        </li>
+
+        <li class="bno-main-nav__sub-item">
+            <a href="https://cosedeje.brno.cz/vsechny-clanky?kategorie=investice-dotace" class="bno-link" aria-label="Investice &amp; dotace">
+                Investice &amp; dotace
+            </a>
+        </li>
+
+        <li class="bno-main-nav__sub-item">
+            <a href="https://cosedeje.brno.cz/vsechny-clanky?kategorie=urad" class="bno-link" aria-label="Úřad">
+                Úřad
+            </a>
+        </li>
+
+        <li class="bno-main-nav__sub-item">
+            <a href="https://cosedeje.brno.cz/vsechny-clanky?kategorie=volny-cas" class="bno-link" aria-label="Volný čas">
+                Volný čas
+            </a>
+        </li>
+
+                                                        </ul>
+
+
+
+
+
+
+        <div class="bno-main-nav__sub-cta">
+            <a href="https://cosedeje.brno.cz/vsechny-clanky" class="bno-button bno-button--standalone bno-button--secondary" aria-label="Všechny články">
+                Všechny články
+            </a>
+        </div>
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="bno-main-nav__item">
+                                <a href="https://cosedeje.brno.cz/brnensky-metropolitan" class="bno-main-nav__link" aria-label="Brněnský metropolitan">
+                                    Brněnský metropolitan
+                                </a>
+                            </li>
+
+
+                            <li class="bno-main-nav__item bno-main-nav__item--expandable">
+                                <button type="button" class="bno-main-nav__link" aria-expanded="false" aria-controls="subnav2" aria-label="Otevřít menu Pro média">
+                                    Pro média
+                                </button>
+                                <div id="subnav2" class="bno-main-nav__sub-nav">
+                                    <div class="bno-main-nav__sub-inner">
+                                        <div class="bno-main-nav__sub-scroll">
+
+                                                <div class="bno-main-nav__sub-col">
+                                                        <ul class="bno-main-nav__sub-container">
+
+        <li class="bno-main-nav__sub-item">
+            <a href="https://cosedeje.brno.cz/vsechny-clanky?typ=tiskova-zprava" class="bno-link" aria-label="Tiskové zprávy">
+                Tiskové zprávy
+            </a>
+        </li>
+
+        <li class="bno-main-nav__sub-item">
+            <a href="https://cosedeje.brno.cz/akce" class="bno-link" aria-label="Akce">
+                Akce
+            </a>
+        </li>
+
+        <li class="bno-main-nav__sub-item">
+            <a href="https://cosedeje.brno.cz/fotogalerie" class="bno-link" aria-label="Fotogalerie">
+                Fotogalerie
+            </a>
+        </li>
+                                                        </ul>
+
+
+
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="bno-main-nav__item">
+                                <a href="https://cosedeje.brno.cz/kontakty" class="bno-main-nav__link" aria-label="Kontakty">
+                                    Kontakty
+                                </a>
+                            </li>
+
+                </ul>
+            </div>
+        </div>
+
+    <style>
+    #search-list-module .bno-breadcrumbs {
+        display: none;
+    }
+    .control-menu-container {
+        display: none;
+    }
+    .lfr-product-menu-panel + div .control-menu-container {
+        display: block;
+    }
+    </style>
+
+
+			
+			
+		
+	
+	
+	
+	
+
+
+	
+	
+
+					
+				
+			
+		
+	
+	
+
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+	
+
+		
+		
+	
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+            </nav>
+                <nav class="bno-actions u-hide-from--tablet" aria-label="Vyhledávání">
+                    <ul class="bno-list--plain">
+                        <li>
+                            <!-- Note: JS will change this html to: wcag--show switched tabindex="0" -->
+                            <button class="bno-toggle bno-toggle--search bno-trigger--search wcag--hide" tabindex="-1" aria-label="Zobrazit vyhledávací formulář" aria-expanded="false" aria-controls="bno-search">
+                                <span class="bno-icon bno-icon--search" aria-hidden="true"></span>
+                            </button>
+                            <!-- Note: JS will change this html to: wcag--hide switched tabindex="-1" -->
+                            <a class="bno-toggle bno-toggle--search bno-trigger--search wcag--show" href="#vyhledavani" tabindex="0" aria-label="Přeskočit na vyhledávání">
+                                <span class="bno-icon bno-icon--search" aria-hidden="true"></span>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+                <div class="bno-container bno-container--spread-min bno-actions__search" id="bno-search">
+                    <div class="bno-container__content">
+                        <div id="search-whisperer-header-module" class="bno-search" data-template="header" data-group-id="317111" data-show-site-url="false" data-result-url="/vyhledavani" data-endpoint="/search/tis/autocomplete">
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+</header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_asseco_smb_web_portal_portlets_announcement_AnnouncementPortlet_  portlet-static portlet-static-end portlet-barebone show-announcement-portlet " id="p_p_id_com_asseco_smb_web_portal_portlets_announcement_AnnouncementPortlet_INSTANCE_show_announcement_tiskovyservis_">
+		<span id="p_com_asseco_smb_web_portal_portlets_announcement_AnnouncementPortlet_INSTANCE_show_announcement_tiskovyservis"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+<section class="portlet" id="portlet_com_asseco_smb_web_portal_portlets_announcement_AnnouncementPortlet_INSTANCE_show_announcement_tiskovyservis">
+
+	<div class="portlet-content">
+
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+					
+				
+			
+		
+	
+	
+
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+	
+
+		
+		
+	
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+</div>
+				</div>
+			</div>
+		
+		
+		
+	
+
+
+
+	
+		
+		
+		
+		
+			
+				
+				
+
+					
+
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+		
+		
+		
+
+			
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+		
+			<div class="">
+
+				
+
+				<div class=" mb-lg-0 ml-lg-0 mr-lg-0 mt-lg-0 pb-lg-0 pl-lg-0 pr-lg-0 pt-lg-0" style="box-sizing: border-box;border-style: solid; border-width: 0px;opacity: 1.0;">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+                <div class="journal-content-article " data-analytics-asset-id="16001901" data-analytics-asset-title="T ARENA se poprvé představí veřejnosti. Na konci září nabídne prohlídky i víkendový program" data-analytics-asset-type="web-content">
+                        
+
+                        
+
+
+<main tabindex="-1" id="bno-main">
+
+    
+
+
+
+
+    <section class="bno-breadcrumbs-container">
+    	<div class="bno-container bno-container--offset-none">
+    		<div class="bno-container__content">
+    			<nav class="bno-breadcrumbs" aria-label="">
+          	        <ol class="bno-breadcrumbs__list">
+        <li class="bno-breadcrumbs__item">
+            <span aria-hidden="true"></span>
+    			<a href="/" class="bno-link" aria-label="Úvodní stránka">Úvodní stránka</a>
+    		
+    		<script>
+        		var breadcrumbsBeznaStranka = breadcrumbsBeznaStranka || [];
+        
+        		breadcrumbsBeznaStranka.push({
+        			name: 'Úvodní stránka',
+        			url: 'https://cosedeje.brno.cz/',
+        		});
+        	</script>
+    	</li>
+        <li class="bno-breadcrumbs__item">
+            <span aria-hidden="true"></span>
+    			<a href="/vsechny-clanky?typ=tiskova-zprava" class="bno-link" aria-label="Všechny tiskové zprávy">Všechny tiskové zprávy</a>
+    		
+    		<script>
+        		var breadcrumbsBeznaStranka = breadcrumbsBeznaStranka || [];
+        
+        		breadcrumbsBeznaStranka.push({
+        			name: 'Všechny tiskové zprávy',
+        			url: 'https://cosedeje.brno.cz/vsechny-clanky',
+        		});
+        	</script>
+    	</li>
+        <li class="bno-breadcrumbs__item">
+            <span aria-hidden="true"></span>
+    			<a href="/vsechny-clanky?typ=tiskova-zprava&kategorie=strategicke-projekty" class="bno-link" aria-label="Strategické projekty">Strategické projekty</a>
+    		
+    		<script>
+        		var breadcrumbsBeznaStranka = breadcrumbsBeznaStranka || [];
+        
+        		breadcrumbsBeznaStranka.push({
+        			name: 'Strategické projekty',
+        			url: 'https://cosedeje.brno.cz/vsechny-clanky',
+        		});
+        	</script>
+    	</li>
+        <li class="bno-breadcrumbs__item">
+            <span aria-hidden="true"></span>
+    			<strong aria-current="page">T ARENA se poprvé představí veřejnosti. Na konci září nabídne prohlídky i víkendový program</strong>
+    		
+    		<script>
+        		var breadcrumbsBeznaStranka = breadcrumbsBeznaStranka || [];
+        
+        		breadcrumbsBeznaStranka.push({
+        			name: 'T ARENA se poprvé představí veřejnosti. Na konci září nabídne prohlídky i víkendový program',
+        			url: 'https://cosedeje.brno.cz/w/t-arena-se-poprve-predstavi-verejnosti-na-konci-zari-nabidne-prohlidky-i-vikendovy-program',
+        		});
+        	</script>
+    	</li>
+                    </ol>
+    	        </nav>
+    		</div>
+    	</div>
+    </section>
+
+    <script>
+        (function () {
+            const data = {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [],
+            };
+    
+            breadcrumbsBeznaStranka.forEach((item, index) => {
+                const listItem = {
+                    "@type": "ListItem",
+                    "position": index + 1,
+                    "name": item.name,
+                    "item": item.url,
+                };
+    
+                data.itemListElement.push(listItem);
+            });
+    
+            const script = document.createElement('script');
+            script.setAttribute('type', 'application/ld+json');
+            script.textContent = JSON.stringify(data);
+            document.head.appendChild(script);
+        })();
+    </script>
+
+    <header>
+        <div class="bno-hero-banner bno-hero-banner--height-auto bno-hero-banner--compact">
+            <div class="bno-container">
+                <div class="bno-container__content">
+        <h1 class="bno-title--alpha">
+            <span>T ARENA se poprvé představí veřejnosti. Na konci září nabídne prohlídky i víkendový program</span>
+        </h1>
+
+                        <ul class="bno-subtitle__list bno-subtitle--with-top-offset bno-list--plain">
+        <li>
+            <span class="bno-subtitle">
+                    <span>10. září 2026</span>
+            </span>
+        </li>
+        <li>
+            <span class="bno-subtitle">
+                    <span>1 minuta čtení</span>
+            </span>
+        </li>
+                        </ul>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="bno-main">
+        <div class="bno-container">
+            <div class="bno-container__content">
+                <div class="bno-layout bno-layout--ratio-3-1">
+                    <article class="bno-layout__col bno-layout__col--spread-25">
+                            <p class='bno-perex'>Nová multifunkční T ARENA se na konci září představí veřejnosti. Ve dnech <b>26. a 27. září 2026</b> se uskuteční <b>Víkend s T ARENOU</b>, který nabídne program pro malé i velké, vystoupení známých interpretů, gastronomii, doprovodné aktivity i možnost nahlédnout přímo do prostor nové haly.</p>
+
+                            <p>Program pro veřejnost bude probíhat po oba víkendové dny <b>od 10:00 do 19:00 před multifunkční halou T ARENOU a vstup bude zdarma</b>. Součástí programu budou také prohlídky haly ještě před jejím dokončením. Vzhledem k omezené kapacitě je na ně nutná předchozí registrace. Návštěvníci, kteří se na prohlídku nedostanou, budou moci interiér T ARENY poznat prostřednictvím videoprohlídky na velkoplošných obrazovkách před halou.</p>
+
+<p><b>Podrobný program:</b></p>
+
+<p><b>SOBOTA 26. 9. 10:00–19:00</b></p>
+
+<p>10:00 ZAHÁJENÍ</p>
+
+<p>10:30–11:10&nbsp;<b>YES BROTHERS</b></p>
+
+<p>11:45–12:25&nbsp;<b>DAVID MÁLEK</b></p>
+
+<p>13:10–13:25&nbsp;<b>RITMO FACTORY</b></p>
+
+<p>13:30–14:10&nbsp;<b>I AM OSKAR</b></p>
+
+<p>15:15 -16:05&nbsp;<b>MUZIKÁLY: MARIAN VOJTKO + TEREZA MÁTLOVÁ</b></p>
+
+<p>16:10–16:25&nbsp;<b>RITMO FACTORY</b></p>
+
+<p>17:15–18:05&nbsp;<b>SEBASTIAN</b></p>
+
+<p>19:00 ZAKONČENÍ</p>
+
+<p> </p>
+
+<p><b>NEDĚLE 27. 9. 10:00</b>–<b>19:00</b></p>
+
+<p>10:00 ZAHÁJENÍ</p>
+
+<p>10:30–11:10&nbsp;<b>DAVID MÁLEK</b></p>
+
+<p>11:45–12:25&nbsp;<b>YES BROTHERS</b></p>
+
+<p>13:10–13:25&nbsp;<b>ESCOLA SAMBA</b></p>
+
+<p>13:30–14:10&nbsp;<b>I AM OSKAR</b></p>
+
+<p>15:15–16:05&nbsp;<b>MĚSTSKÉ DIVADLO BRNO</b></p>
+
+<p>16:10–16:25&nbsp;<b>ESCOLA SAMBA</b></p>
+
+<p>17:15–18:05&nbsp;<b>MARTINA PÁRTLOVÁ</b></p>
+
+<p>19:00 ZAKONČENÍ</p>
+
+<p> </p>
+
+                        <ul class="bno-grid bno-grid--x2 bno-list--plain">
+
+
+    
+
+
+                                    <li class="bno-grid__tile">
+                                        <section class="bno-sidebar-box _flex-col _h-full">
+                                            <div class="bno-sidebar-box__header">
+                                                <h3>Kontakt pro média</h3>
+                                            </div>
+                                            <div class="bno-sidebar-box__content _h-full">
+        
+
+
+
+    <div class="bno-contact-box ">
+        <div class="bno-contact-box__content">
+            <h4>
+                    Edita Smělíková
+            </h4>
+                        
+                <p class="bno-note u-mt--unset">
+                    PR manager a tisková mluvčí ARENA BRNO, a. s.
+                </p>
+
+                <address class="bno-address-list">
+                    <ul class="bno-address-list__items">
+                                    <li class="bno-address-list__item">
+                                        <span class="bno-icon bno-icon--phone" aria-hidden="true"></span>
+    <a href="tel:+420774292280">+420 774 292 280</a>
+                                    </li>
+
+                                <li class="bno-address-list__item">
+                                    <span class="bno-icon bno-icon--mail" aria-hidden="true"></span>
+        <a href="mailto:" data-mail="edita.smelikova" data-domain="arenabrno.cz" data-replace-text="true"></a>
+                                </li>
+                    </ul>
+                </address>
+
+        </div>
+    </div>
+                                            </div>
+                                        </section>
+                                    </li>
+                                    <li class="bno-grid__tile">
+                                        <section class="bno-sidebar-box _flex-col _h-full">
+                                            <div class="bno-sidebar-box__header">
+                                                <h3>Kontakt pro média</h3>
+                                            </div>
+                                            <div class="bno-sidebar-box__content _h-full">
+        
+
+
+
+    <div class="bno-contact-box ">
+        <div class="bno-contact-box__content">
+            <h4>
+                    Tiskové středisko MMB
+            </h4>
+                        
+
+                <address class="bno-address-list">
+                    <ul class="bno-address-list__items">
+                                    <li class="bno-address-list__item">
+                                        <span class="bno-icon bno-icon--phone" aria-hidden="true"></span>
+    <a href="tel:+420542172162">+420 542 172 162</a>
+                                    </li>
+                                    <li class="bno-address-list__item">
+                                        <span class="bno-icon bno-icon--phone" aria-hidden="true"></span>
+    <a href="tel:+420773785318">+420 773 785 318</a>
+                                    </li>
+
+                                <li class="bno-address-list__item">
+                                    <span class="bno-icon bno-icon--mail" aria-hidden="true"></span>
+        <a href="mailto:" data-mail="tis" data-domain="brno.cz" data-replace-text="true"></a>
+                                </li>
+                    </ul>
+                </address>
+
+        </div>
+    </div>
+                                            </div>
+                                        </section>
+                                    </li>
+                        </ul>
+
+                    </article>
+                    
+                    <aside class="bno-layout__col bno-layout__col--spread-15">
+
+
+            <section class="bno-sidebar-box">
+                <div class="bno-sidebar-box__header">
+                    <h3>Témata</h3>
+                </div>
+                <div class="bno-sidebar-box__content">
+                    <ul>
+    <li>
+        <a href="/vsechny-clanky?kategorie=strategicke-projekty" 
+            aria-label="Strategické projekty">Strategické projekty</a>
+        <span class="bno-chip bno-chip--rounded bno-chip--inline">
+            <span class="bno-chip__inner">51</span>
+        </span>
+    </li>
+    <li>
+        <a href="/vsechny-clanky?kategorie=volny-cas" 
+            aria-label="Volný čas">Volný čas</a>
+        <span class="bno-chip bno-chip--rounded bno-chip--inline">
+            <span class="bno-chip__inner">381</span>
+        </span>
+    </li>
+                    </ul>
+                </div>
+            </section>
+
+                            <div>
+                                <h3 class="_only-child:d-none u-mt--48">Související</h3>
+
+
+
+
+
+
+        
+                            </div>
+                    </aside>
+                </div>
+            </div>
+        </div>
+
+
+                <section class="bno-container bno-container--full-with-border">
+                    <div class="bno-container__content">
+                        <h2>Další zprávy z rubriky</h2>
+                        <ul class="bno-flexbox bno-flexbox--grid-or-scroll bno-flexbox--gap-16 bno-flexbox--articles bno-list--plain">
+
+                                <li>
+    <article class="bno-preview-tile bno-preview-tile--no-border bno-preview-tile--no-offset-x">
+        <div class="bno-preview-tile__header">
+    <img src="data:image/png;base64,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"
+        alt="Tisková zpráva - defaultní obrázek"
+        style="width: 280px; height: 140px;">
+        </div>
+        <div class="bno-preview-tile__info">
+            <span>17. září 2026</span>
+
+                <a href="/vsechny-clanky?kategorie=strategicke-projekty" 
+                    aria-label="Strategické projekty">Strategické projekty</a>
+        </div>
+        <div class="bno-preview-tile__content">
+            <h5>
+                <a href="/w/t-arena-a-starobrno-predstavuji-novou-desitku-o-jejim-nazvu-rozhodnou-navstevnici" aria-label="T ARENA a Starobrno představují novou desítku. O jejím názvu rozhodnou návštěvníci">T ARENA a Starobrno představují novou desítku. O jejím názvu rozhodnou návštěvníci</a>
+            </h5>
+                <p class="bno-note">Pivním partnerem nové brněnské T ARENY se stává Starobrno. Pivovar uspěl ve výběrovém řízení na dodavatele piva pro novou multifunkční halu a jeho piva tak budou součástí gastronomické nabídky při...</p>
+        </div>
+    </article>
+                                </li>
+
+
+                                <li>
+    <article class="bno-preview-tile bno-preview-tile--no-border bno-preview-tile--no-offset-x">
+        <div class="bno-preview-tile__header">
+    <img src="data:image/png;base64,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"
+        alt="Tisková zpráva - defaultní obrázek"
+        style="width: 280px; height: 140px;">
+        </div>
+        <div class="bno-preview-tile__info">
+            <span>10. září 2026</span>
+
+                <a href="/vsechny-clanky?kategorie=strategicke-projekty" 
+                    aria-label="Strategické projekty">Strategické projekty</a>
+        </div>
+        <div class="bno-preview-tile__content">
+            <h5>
+                <a href="/w/pod-ceskou-se-razi-kolektor-hornici-pracuji-v-hloubce-az-osmi-metru" aria-label="Pod Českou se razí kolektor. Horníci pracují v hloubce až osmi metrů">Pod Českou se razí kolektor. Horníci pracují v hloubce až osmi metrů</a>
+            </h5>
+                <p class="bno-note">Práce na stavbě nového kolektoru pokračují jeho samotnou ražbou. Předcházely tomu nutné přeložky sítí na povrchu, výstavba provizorního vodovodu nebo zajištění budov v&nbsp;ulici pomocí tryskové...</p>
+        </div>
+    </article>
+                                </li>
+
+
+                                <li>
+    <article class="bno-preview-tile bno-preview-tile--no-border bno-preview-tile--no-offset-x">
+        <div class="bno-preview-tile__header">
+    <img src="data:image/png;base64,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"
+        alt="Tisková zpráva - defaultní obrázek"
+        style="width: 280px; height: 140px;">
+        </div>
+        <div class="bno-preview-tile__info">
+            <span>25. června 2026</span>
+
+                <a href="/vsechny-clanky?kategorie=strategicke-projekty" 
+                    aria-label="Strategické projekty">Strategické projekty</a>
+        </div>
+        <div class="bno-preview-tile__content">
+            <h5>
+                <a href="/w/na-horniky-pri-razbe-kolektoru-pod-ulici-ceskou-dohlednou-sosky-sv-barbory" aria-label="Na horníky při ražbě kolektoru pod ulicí Českou dohlédnou sošky sv. Barbory">Na horníky při ražbě kolektoru pod ulicí Českou dohlédnou sošky sv. Barbory</a>
+            </h5>
+                <p class="bno-note">Po nutných pracích na povrchu, kdy zhotovitel provizorně přeložil vedení vodovodu nebo&nbsp;parovodu, nastává v projektu výstavby nového kolektoru v úseku&nbsp;Česká–Středova&nbsp;další...</p>
+        </div>
+    </article>
+                                </li>
+
+
+                                <li>
+    <article class="bno-preview-tile bno-preview-tile--no-border bno-preview-tile--no-offset-x">
+        <div class="bno-preview-tile__header">
+    <img src="data:image/png;base64,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"
+        alt="Tisková zpráva - defaultní obrázek"
+        style="width: 280px; height: 140px;">
+        </div>
+        <div class="bno-preview-tile__info">
+            <span>24. června 2026</span>
+
+                <a href="/vsechny-clanky?kategorie=strategicke-projekty" 
+                    aria-label="Strategické projekty">Strategické projekty</a>
+        </div>
+        <div class="bno-preview-tile__content">
+            <h5>
+                <a href="/w/dlouhodoba-strategie-mesta-doznala-dilcich-zmen" aria-label="Dlouhodobá strategie města doznala dílčích změn">Dlouhodobá strategie města doznala dílčích změn</a>
+            </h5>
+                <p class="bno-note">Základní rozvojový dokument města Brna dostává upravenou podobu. Zastupitelé v&nbsp;úterý 23. června 2026 schválili aktualizaci vize v&nbsp;rámci Strategie #brno2050 a její střednědobé části do...</p>
+        </div>
+    </article>
+                                </li>
+
+                        </ul>
+                    </div>
+                </section>
+
+
+            <section class="bno-container bno-container--full-with-border">
+                <div class="bno-container__content">
+                    <h2>Nejnovější tiskové zprávy</h2>
+                    <ul class="bno-flexbox bno-flexbox--grid-or-scroll bno-flexbox--gap-16 bno-flexbox--articles bno-list--plain">
+
+                            <li>
+    <article class="bno-preview-tile bno-preview-tile--no-border bno-preview-tile--no-offset-x">
+        <div class="bno-preview-tile__header">
+    <img src="data:image/png;base64,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"
+        alt="Tisková zpráva - defaultní obrázek"
+        style="width: 280px; height: 140px;">
+        </div>
+        <div class="bno-preview-tile__info">
+            <span>18. září 2026</span>
+
+                <a href="/vsechny-clanky?kategorie=kultura-kreativni-odvetvi" 
+                    aria-label="Kultura & kreativní odvětví">Kultura & kreativní odvětví</a>
+        </div>
+        <div class="bno-preview-tile__content">
+            <h5>
+                <a href="/w/vyjadreni-mesta-k-vyberovemu-rizeni-na-obsazeni-funkce-reditele-reditelky-divadla-radost" aria-label="Informace k výběrovému řízení na obsazení funkce ředitele/ředitelky Divadla Radost">Informace k výběrovému řízení na obsazení funkce ředitele/ředitelky Divadla Radost</a>
+            </h5>
+                <p class="bno-note">Ve veřejném prostoru se objevují informace zpochybňující průběh výběrového řízení na obsazení funkce ředitele/ředitelky Divadla Radost. Níže popisujeme celý proces a upřesňujeme některá tvrzení.</p>
+        </div>
+    </article>
+                            </li>
+
+
+                            <li>
+    <article class="bno-preview-tile bno-preview-tile--no-border bno-preview-tile--no-offset-x">
+        <div class="bno-preview-tile__header">
+    <img src="data:image/png;base64,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"
+        alt="Tisková zpráva - defaultní obrázek"
+        style="width: 280px; height: 140px;">
+        </div>
+        <div class="bno-preview-tile__info">
+            <span>18. září 2026</span>
+
+                <a href="/vsechny-clanky?kategorie=technologie-inovace" 
+                    aria-label="Technologie & inovace">Technologie & inovace</a>
+        </div>
+        <div class="bno-preview-tile__content">
+            <h5>
+                <a href="/w/girlandy-se-nejdrive-otestuji-pote-se-pripadne-osadi-do-ulic-v-centru" aria-label="Girlandy se nejdříve otestují, poté se případně osadí do ulic v centru">Girlandy se nejdříve otestují, poté se případně osadí do ulic v centru</a>
+            </h5>
+                <p class="bno-note">Městská společnost Technické sítě Brno vyhlásila na jaře letošního roku soutěž o novou podobu a realizaci girland v&nbsp;centru města. Nyní se zadavatel dostává do další fáze soutěže, kdy vybídne...</p>
+        </div>
+    </article>
+                            </li>
+
+
+                            <li>
+    <article class="bno-preview-tile bno-preview-tile--no-border bno-preview-tile--no-offset-x">
+        <div class="bno-preview-tile__header">
+    <img src="data:image/png;base64,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"
+        alt="Tisková zpráva - defaultní obrázek"
+        style="width: 280px; height: 140px;">
+        </div>
+        <div class="bno-preview-tile__info">
+            <span>17. září 2026</span>
+
+                <a href="/vsechny-clanky?kategorie=strategicke-projekty" 
+                    aria-label="Strategické projekty">Strategické projekty</a>
+        </div>
+        <div class="bno-preview-tile__content">
+            <h5>
+                <a href="/w/t-arena-a-starobrno-predstavuji-novou-desitku-o-jejim-nazvu-rozhodnou-navstevnici" aria-label="T ARENA a Starobrno představují novou desítku. O jejím názvu rozhodnou návštěvníci">T ARENA a Starobrno představují novou desítku. O jejím názvu rozhodnou návštěvníci</a>
+            </h5>
+                <p class="bno-note">Pivním partnerem nové brněnské T ARENY se stává Starobrno. Pivovar uspěl ve výběrovém řízení na dodavatele piva pro novou multifunkční halu a jeho piva tak budou součástí gastronomické nabídky při...</p>
+        </div>
+    </article>
+                            </li>
+
+
+                            <li>
+    <article class="bno-preview-tile bno-preview-tile--no-border bno-preview-tile--no-offset-x">
+        <div class="bno-preview-tile__header">
+    <img src="data:image/png;base64,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"
+        alt="Tisková zpráva - defaultní obrázek"
+        style="width: 280px; height: 140px;">
+        </div>
+        <div class="bno-preview-tile__info">
+            <span>16. září 2026</span>
+
+                <a href="/vsechny-clanky?kategorie=technologie-inovace" 
+                    aria-label="Technologie & inovace">Technologie & inovace</a>
+        </div>
+        <div class="bno-preview-tile__content">
+            <h5>
+                <a href="/w/brno-pripravuje-mesto-v-mobilu-jednotna-aplikace-usnadni-lidem-kazdodenni-zivot" aria-label="Brno připravuje město v mobilu. Jednotná aplikace usnadní lidem každodenní život">Brno připravuje město v mobilu. Jednotná aplikace usnadní lidem každodenní život</a>
+            </h5>
+                <p class="bno-note">Jednotná aplikace města Brna má občanům i návštěvníkům nabídnout jeden přehledný kontaktní bod pro komunikaci s městem. Propojí informace, upozornění a postupně také městské služby, které dnes lidé...</p>
+        </div>
+    </article>
+                            </li>
+
+                    </ul>
+                </div>
+            </section>
+    </div>
+</main>
+
+<style>
+.smb-theme ._flex-col {
+    display: flex;
+    flex-direction: column;
+}
+
+.smb-theme ._h-full {
+    height: 100%;
+}
+</style>
+                </div>
+
+                
+        
+
+
+
+				</div>
+			</div>
+		
+		
+		
+	
+
+
+		
+	
+
+
+				
+			
+		
+		
+		
+		
+	
+
+
+
+	
+		
+		
+		
+		
+		
+			<div class="">
+
+				
+
+				<div class=" mb-lg-0 ml-lg-0 mr-lg-0 mt-lg-0 pb-lg-0 pl-lg-0 pr-lg-0 pt-lg-0" style="box-sizing: border-box;border-style: solid; border-width: 0px;opacity: 1.0;">
+					<div id="fragment-0-cjdj" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end portlet-barebone portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_cjdj_">
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_cjdj"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+<section class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_cjdj">
+
+	<div class="portlet-content">
+
+			<div class="autofit-float autofit-row portlet-header">
+
+
+					<div class="autofit-col autofit-col-end">
+						<div class="autofit-section">
+							<div class="visible-interaction">
+	
+		
+
+		
+
+		
+
+		
+	
+</div>
+						</div>
+					</div>
+			</div>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+
+						
+
+						<div class="" data-fragments-editor-item-id="20131-317909" data-fragments-editor-item-type="fragments-editor-mapped-item">
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+                <div class="journal-content-article " data-analytics-asset-id="317907" data-analytics-asset-title="Patička" data-analytics-asset-type="web-content">
+                        
+
+                        
+
+    <footer class="bno-footer bno-footer-project u-bg-color--grey" id="menu">
+        <div class="bno-container">
+            <div class="bno-container__content">
+                <div class="bno-footer__big-col">
+                    <div class="bno-footer__merged-col">
+                        <div class="bno-footer__col">
+                            <nav class="bno-footer__guidepost">
+                                    <ul>
+
+            <li>
+                <a href="/aktuality" aria-label="Aktuality">Aktuality</a>
+            </li>
+
+            <li>
+                <a href="/brnensky-metropolitan" aria-label="Brněnský metropolitan">Brněnský metropolitan</a>
+            </li>
+
+            <li>
+                <a href="/pro-media" aria-label="Pro média">Pro média</a>
+            </li>
+                                    </ul>
+
+                                    <ul>
+
+            <li>
+                <a href="/kontakty" aria-label="Kontakty">Kontakty</a>
+            </li>
+
+            <li>
+                <a href="https://cosedeje.brno.cz/w/pravidla-soutezi-na-socialnich-sitich" aria-label="Pravidla soutěží">Pravidla soutěží</a>
+            </li>
+
+                                    </ul>
+                            </nav>
+                        </div>
+                        <div class="bno-footer__col">
+                                <address class="bno-bodycopy">
+                                    <strong>Magistrát města Brna</strong><br>Dominikánské nám. 196/1<br>601 67 Brno<br><a href="tel:Tel.: 542 172 162" aria-label="Odkaz na telefonní číslo Tel.: 542 172 162">Tel.: 542 172 162</a>
+                                </address>
+                        </div>
+                    </div>
+                </div>
+
+                    <div class="bno-footer__col bno-footer__col-social">
+
+    <ul class="bno-social-list">
+        <li class="bno-social-list__item">
+            <a class="bno-social-list__link" href="https://www.facebook.com/brnomycity/" target="_blank" aria-label="Přejít na Facebook">
+                <span class="bno-icon bno-icon--facebook" aria-hidden="true"></span>
+            </a>
+        </li>
+        <li class="bno-social-list__item">
+            <a class="bno-social-list__link" href="https://twitter.com/brnomycity" target="_blank" aria-label="Přejít na Platformu X">
+                <span class="bno-icon bno-icon--x-platform" aria-hidden="true"></span>
+            </a>
+        </li>
+        <li class="bno-social-list__item">
+            <a class="bno-social-list__link" href="https://www.youtube.com/c/cityofbrno" target="_blank" aria-label="Přejít na Youtube">
+                <span class="bno-icon bno-icon--youtube" aria-hidden="true"></span>
+            </a>
+        </li>
+        <li class="bno-social-list__item">
+            <a class="bno-social-list__link" href="https://www.instagram.com/accounts/login/?next=/brnomycity/" target="_blank" aria-label="Přejít na Instagram">
+                <span class="bno-icon bno-icon--instagram" aria-hidden="true"></span>
+            </a>
+        </li>
+    </ul>
+                    </div>
+            </div>
+        </div>
+
+        <div class="bno-container bno-container--centered">
+            <div class="bno-container__content">
+                <div class="bno-footer__copyright">
+                    2026
+                        © Statutární město Brno<br>
+                        Všechna práva vyhrazena – použití obsahu nebo jeho částí je možné pouze se souhlasem Magistrátu města Brna.
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script defer src="/fe/objednani/build/bundle.js?v=1"></script>
+
+                </div>
+
+                
+        
+
+
+
+
+							
+						</div>
+					
+				
+			
+		
+	
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+
+					
+				
+			
+		
+	
+	
+
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+	
+
+		
+		
+	
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+</div>
+				</div>
+			</div>
+		
+		
+		
+	
+
+
+
+	
+		
+		
+		
+		
+		
+			<div class="">
+
+				
+
+				<div class=" mb-lg-0 ml-lg-0 mr-lg-0 mt-lg-0 pb-lg-0 pl-lg-0 pr-lg-0 pt-lg-0" style="box-sizing: border-box;border-style: solid; border-width: 0px;opacity: 1.0;">
+					<div id="fragment-5202-scnl" > <script type="text/javascript">
+        document.querySelectorAll('.bno-main table').forEach(item => { if(!item.classList.contains('bno-table')) { item.classList.add('bno-table', 'bno-table--mobile-block') } })
+
+    function ochranaEmailovychAdres() {
+        const replaceInnerTextAttributeName = 'data-replace-text';
+        const elements = document.querySelectorAll('a[href^=mailto][data-mail]');
+        elements.forEach(element => {
+            const domain = element.dataset.domain || 'brno.cz';
+            element.href += element.dataset.mail + '@' + domain;
+
+            if (element.hasAttribute(replaceInnerTextAttributeName) && element.getAttribute(replaceInnerTextAttributeName).toLowerCase() === 'true') { 
+                element.innerText = element.dataset.mail;
+            }
+        })
+    }
+    ochranaEmailovychAdres();
+
+        $(function () {
+            $('#hrefFm').remove();
+        });
+</script></div><style>/* ochrana e-mailovych adres */
+a[href^=mailto][data-mail][data-replace-text='true']:after {
+    content: '@brno.cz'
+}
+
+a[href^=mailto][data-mail][data-domain][data-replace-text='true']:after {
+    content: '@' attr(data-domain)
+}
+
+/* Aby btn konfigurace agregatoru neblokoval klikani v celem radku */
+.portlet-journal-content.portlet-barebone .portlet .portlet-header {
+    width: auto;
+}
+
+/* Utility class for hide heading with empty content */
+._only-child\:d-none:only-child {
+    display: none;
+}
+
+/* TEMP FIX */
+.smb-theme figcaption,
+.enavrhy-theme figcaption {
+    font-size: 15px;
+}
+
+/* TEMP FIX - scrollable nav Dalsi */
+.smb-theme .bno-main-nav__moved-scroll {
+    max-height: calc(100dvh - 150px);
+    overflow-y: auto;
+    overscroll-behavior-y: none;
+}
+
+/* TODO - add more utility classes to theme */
+.smb-theme .u-mt--48 {
+    margin-top: 48px;
+}
+
+.smb-theme .position-relative {
+    position: relative;
+}
+
+.smb-theme ._icon-play {
+    position: absolute;
+    right: 8px;
+    bottom: 8px;
+}
+
+/* Aby bolo mozne centrovat fragmenty pouzitim styles > Text Align */
+.text-center {
+    text-align: center;
+}
+
+/* TEMP FIX */
+.gov-theme .gov-icon {
+    height: 100%;
+}</style><script>(function() {var configuration = {}; var fragmentElement = document.querySelector('#fragment-5202-scnl'); var fragmentNamespace = 'scnl';// Fix if hostname ends with dot
+(function() {
+    const hostname = window.location.hostname;
+
+    if (hostname.endsWith('.')) {
+        const cleanHost = hostname.slice(0, -1);
+        const newUrl = window.location.protocol + '//' + cleanHost + window.location.pathname + window.location.search + window.location.hash;
+        window.location.replace(newUrl);
+    }
+})();
+
+document.addEventListener("DOMContentLoaded", () => {
+    initToc();
+    initTabs();
+});
+
+// Naplni Souhrn (ToC) vsemi h2 na strance.
+function initToc() {
+    const tocContainer = document.querySelector("#bno-summary-content.js-auto-fill");
+    if (!tocContainer) return;
+
+    const headers = document.querySelectorAll("h2:not(.sr-only)");
+    if (headers.length === 0) return;
+
+    let links = '';
+
+    headers.forEach((header, index) => {
+        let id = header.id || removeDiacritics(header.textContent.trim().toLowerCase()).replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
+        header.id = id;
+        links += `
+            <a
+                class="bno-block-link bno-block-link--compact"
+                href="#${id}"
+                aria-label="Posunout stránku na: ${header.textContent}"
+            >
+                <div class="bno-block-link__content">
+                    <span class="bno-link bno-link--standalone">
+                        ${header.textContent}
+                    </span>
+                </div>
+            </a>
+        `;
+    });
+
+    tocContainer.innerHTML = links;
+}
+
+function removeDiacritics(str) {
+    return str.normalize("NFD").replace(/\p{Diacritic}/gu, "");
+}
+
+
+// TABS
+
+function initTabs() {
+    const someTab = document.querySelector('.js-set-search-param');
+    if (!someTab) return;
+
+    document.querySelectorAll('.js-set-search-param').forEach(element => {
+        element.addEventListener('click', () => {
+            const {searchParamName, searchParamValue} = element.dataset;
+            if (searchParamName) {
+                setSearchParam(searchParamName, searchParamValue, true);
+            }
+        });
+    });
+
+    window.addEventListener('popstate', activateTabFromUrl);
+}
+
+function setSearchParam(name, value, resetPage) {
+    const urlSearchParams = new URLSearchParams(window.location.search);
+
+    urlSearchParams.set(name, value);
+
+    if (resetPage) {
+        urlSearchParams.delete('strana')
+    }
+
+    window.history.pushState({}, '', decodeURIComponent(window.location.pathname + '?' + urlSearchParams));
+}
+
+function activateTabFromUrl() {
+    const urlSearchParams = new URLSearchParams(window.location.search);
+
+    // Refactor tip: only one js class for tabs
+    document.querySelectorAll('.js-set-search-param').forEach(element => {
+        const tabContentId = element.getAttribute('aria-controls');
+        const tabs = element.closest('.bno-tabs');
+        const tabContent = tabContentId && tabs && tabs.querySelector(`#${tabContentId}`);
+
+        const {searchParamName, searchParamValue} = element.dataset;
+        const urlSearchParamValue = urlSearchParams.get(searchParamName);
+        if (urlSearchParamValue && tabContent) {
+            if (searchParamValue === urlSearchParamValue) {
+                element.classList.add('is-active');
+                element.setAttribute('aria-current', 'tab');
+                element.setAttribute('aria-selected', 'true');
+                element.setAttribute('tabindex', '0');
+
+                tabContent.classList.add('is-active');
+                tabContent.removeAttribute('hidden');
+            } else {
+                element.classList.remove('is-active');
+                element.removeAttribute('aria-current');
+                element.setAttribute('aria-selected', 'false');
+                element.setAttribute('tabindex', '-1');
+
+                tabContent.classList.remove('is-active');
+                tabContent.setAttribute('hidden', 'hidden');
+            }
+        }
+    });
+};}());</script>
+				</div>
+			</div>
+		
+		
+		
+	
+
+
+
+	
+		
+		
+		
+		
+		
+			<div class="">
+
+				
+
+				<div class=" mb-lg-0 ml-lg-0 mr-lg-0 mt-lg-0 pb-lg-0 pl-lg-0 pr-lg-0 pt-lg-0" style="box-sizing: border-box;border-style: solid; border-width: 0px;opacity: 1.0;">
+					<div id="fragment-3903-ohyx" > <div>
+</div></div>
+				</div>
+			</div>
+		
+		
+		
+	
+
+
+
+	
+		
+		
+		
+		
+		
+			<div class="">
+
+				
+
+				<div class=" mb-lg-0 ml-lg-0 mr-lg-0 mt-lg-0 pb-lg-0 pl-lg-0 pr-lg-0 pt-lg-0" style="box-sizing: border-box;border-style: solid; border-width: 0px;opacity: 1.0;">
+					<div id="fragment-4415-xreo" >
+
+</div>
+				</div>
+			</div>
+
+
+				<div>
+			
+		
+	
+
+
+<form action="#" aria-hidden="true" class="hide" id="hrefFm" method="post" name="hrefFm"><span></span><input hidden type="submit"/></form>
+
+	
+        </section>
+	</div>
+</div>
+
+<div id="node-liferay-547f4f7588-l5thd"></div>
+
+<!-- scripts -->
+<script src="https://cosedeje.brno.cz/o/brno-theme/js/app.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+	
+		
+		
+
+			
+
+			
+		
+	
+
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+
+		
+
+		Liferay.currentURL = '\x2fw\x2ft-arena-se-poprve-predstavi-verejnosti-na-konci-zari-nabidne-prohlidky-i-vikendovy-program';
+		Liferay.currentURLEncoded = '\x252Fw\x252Ft-arena-se-poprve-predstavi-verejnosti-na-konci-zari-nabidne-prohlidky-i-vikendovy-program';
+
+	// ]]>
+</script>
+
+
+
+	
+
+	
+
+	<script type="text/javascript">
+		// <![CDATA[
+			
+				
+
+				
+
+				
+			
+		// ]]>
+	</script>
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+		
+
+		
+	
+
+
+<script type="text/javascript">
+// <![CDATA[
+(function() {var $ = AUI.$;var _ = AUI._;
+	var onDestroyPortlet = function () {
+		Liferay.detach('messagePosted', onMessagePosted);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+
+	var onMessagePosted = function (event) {
+		if (window.Analytics) {
+			Analytics.send('posted', 'Comment', {
+				className: event.className,
+				classPK: event.classPK,
+				commentId: event.commentId,
+				text: event.text,
+			});
+		}
+	};
+
+	Liferay.on('messagePosted', onMessagePosted);
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	var pathnameRegexp = /\/documents\/(\d+)\/(\d+)\/(.+?)\/([^&]+)/;
+
+	function handleDownloadClick(event) {
+		if (event.target.nodeName.toLowerCase() === 'a' && window.Analytics) {
+			var anchor = event.target;
+			var match = pathnameRegexp.exec(anchor.pathname);
+
+			var fileEntryId =
+				anchor.dataset.analyticsFileEntryId ||
+				(anchor.parentElement &&
+					anchor.parentElement.dataset.analyticsFileEntryId);
+
+			if (fileEntryId && match) {
+				var getParameterValue = function (parameterName) {
+					var result = null;
+
+					anchor.search
+						.substr(1)
+						.split('&')
+						.forEach(function (item) {
+							var tmp = item.split('=');
+
+							if (tmp[0] === parameterName) {
+								result = decodeURIComponent(tmp[1]);
+							}
+						});
+
+					return result;
+				};
+
+				Analytics.send('documentDownloaded', 'Document', {
+					groupId: match[1],
+					fileEntryId: fileEntryId,
+					preview: !!window._com_liferay_document_library_analytics_isViewFileEntry,
+					title: decodeURIComponent(match[3].replace(/\+/gi, ' ')),
+					version: getParameterValue('version'),
+				});
+			}
+		}
+	}
+
+	Liferay.once('destroyPortlet', function () {
+		document.body.removeEventListener('click', handleDownloadClick);
+	});
+
+	Liferay.once('portletReady', function () {
+		document.body.addEventListener('click', handleDownloadClick);
+	});
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	var onShare = function (data) {
+		if (window.Analytics) {
+			Analytics.send('shared', 'SocialBookmarks', {
+				className: data.className,
+				classPK: data.classPK,
+				type: data.type,
+				url: data.url,
+			});
+		}
+	};
+
+	var onDestroyPortlet = function () {
+		Liferay.detach('socialBookmarks:share', onShare);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('socialBookmarks:share', onShare);
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	var onVote = function (event) {
+		if (window.Analytics) {
+			Analytics.send('VOTE', 'Ratings', {
+				className: event.className,
+				classPK: event.classPK,
+				ratingType: event.ratingType,
+				score: event.score,
+			});
+		}
+	};
+
+	var onDestroyPortlet = function () {
+		Liferay.detach('ratings:vote', onVote);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('ratings:vote', onVote);
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+})();
+	if (window.svg4everybody && Liferay.Data.ICONS_INLINE_SVG) {
+		svg4everybody(
+			{
+				polyfill: true,
+				validate: function (src, svg, use) {
+					return !src || !src.startsWith('#');
+				}
+			}
+		);
+	}
+
+	
+		Liferay.Portlet.register('com_asseco_smb_web_portal_portlets_announcement_AnnouncementPortlet_INSTANCE_show_announcement_tiskovyservis');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_asseco_smb_web_portal_portlets_announcement_AnnouncementPortlet_INSTANCE_show_announcement_tiskovyservis_',
+			portletId: 'com_asseco_smb_web_portal_portlets_announcement_AnnouncementPortlet_INSTANCE_show_announcement_tiskovyservis',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d720\x26p_p_id\x3dcom_asseco_smb_web_portal_portlets_announcement_AnnouncementPortlet_INSTANCE_show_announcement_tiskovyservis\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fw\x252Ft-arena-se-poprve-predstavi-verejnosti-na-konci-zari-nabidne-prohlidky-i-vikendovy-program\x26settingsScope\x3dportletInstance',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_hlavnimenu');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_hlavnimenu_',
+			portletId: 'com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_hlavnimenu',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d720\x26p_p_id\x3dcom_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_hlavnimenu\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fw\x252Ft-arena-se-poprve-predstavi-verejnosti-na-konci-zari-nabidne-prohlidky-i-vikendovy-program\x26settingsScope\x3dportletInstance',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_cjdj');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_cjdj_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_cjdj',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d720\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_cjdj\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fw\x252Ft-arena-se-poprve-predstavi-verejnosti-na-konci-zari-nabidne-prohlidky-i-vikendovy-program\x26settingsScope\x3dportletInstance',
+			refreshURLData: {}
+		}
+	);
+Liferay.Loader.require('metal-dom/src/all/dom', 'frontend-js-web/liferay/toast/commands/OpenToast.es', function(metalDomSrcAllDom, frontendJsWebLiferayToastCommandsOpenToastEs) {
+try {
+(function() {
+var dom = metalDomSrcAllDom;
+var $ = AUI.$;var _ = AUI._;
+	var focusInPortletHandler = dom.delegate(
+		document,
+		'focusin',
+		'.portlet',
+		function(event) {
+			dom.addClasses(dom.closest(event.delegateTarget, '.portlet'), 'open');
+		}
+	);
+
+	var focusOutPortletHandler = dom.delegate(
+		document,
+		'focusout',
+		'.portlet',
+		function(event) {
+			dom.removeClasses(dom.closest(event.delegateTarget, '.portlet'), 'open');
+		}
+	);
+
+})();
+(function() {
+var toastCommands = frontendJsWebLiferayToastCommandsOpenToastEs;
+var $ = AUI.$;var _ = AUI._;
+			AUI().use(
+				'liferay-session',
+				function() {
+					Liferay.Session = new Liferay.SessionBase(
+						{
+							autoExtend: true,
+							redirectOnExpire: true,
+							redirectUrl: '\x2fcas\x2flogout',
+							sessionLength: 1680,
+							warningLength: 0
+						}
+					);
+
+					
+				}
+			);
+		
+})();
+} catch (err) {
+	console.error(err);
+}
+});AUI().use('liferay-menu', 'aui-base', function(A) {(function() {var $ = AUI.$;var _ = AUI._;
+	if (A.UA.mobile) {
+		Liferay.Util.addInputCancel();
+	}
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 0; i < liferayNotices.length; i++) {
+		Liferay.Util.openToast(liferayNotices[i]);
+	}
+
+})();});
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+<script src="https://cosedeje.brno.cz/o/brno-theme/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=cs_CZ&amp;b=7306&amp;t=1789632752000" type="text/javascript"></script>
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+		AUI().use(
+			'aui-base',
+			function(A) {
+				var frameElement = window.frameElement;
+
+				if (frameElement && frameElement.getAttribute('id') === 'simulationDeviceIframe') {
+					A.getBody().addClass('lfr-has-simulation-panel');
+				}
+			}
+		);
+	// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+Liferay.Loader.require('remote-app-support-web@1.0.5/index', function(remoteAppSupportWeb105Index) {
+try {
+(function() {
+var RemoteAppSupport = remoteAppSupportWeb105Index;
+RemoteAppSupport.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+Liferay.Loader.require('frontend-js-dropdown-support-web@1.0.8/index', function(frontendJsDropdownSupportWeb108Index) {
+try {
+(function() {
+var DropdownProvider = frontendJsDropdownSupportWeb108Index;
+DropdownProvider.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+Liferay.Loader.require('frontend-js-tooltip-support-web@3.0.4/index', function(frontendJsTooltipSupportWeb304Index) {
+try {
+(function() {
+var TooltipSupport = frontendJsTooltipSupportWeb304Index;
+TooltipSupport.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+Liferay.Loader.require('frontend-js-alert-support-web@1.0.7/index', function(frontendJsAlertSupportWeb107Index) {
+try {
+(function() {
+var AlertProvider = frontendJsAlertSupportWeb107Index;
+AlertProvider.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+Liferay.Loader.require('frontend-js-tabs-support-web@1.0.8/index', function(frontendJsTabsSupportWeb108Index) {
+try {
+(function() {
+var TabsProvider = frontendJsTabsSupportWeb108Index;
+TabsProvider.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+Liferay.Loader.require('frontend-js-collapse-support-web@1.0.10/index', function(frontendJsCollapseSupportWeb1010Index) {
+try {
+(function() {
+var CollapseProvider = frontendJsCollapseSupportWeb1010Index;
+CollapseProvider.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+// ]]>
+</script>
+</body>
+
+</html>
+
+

@@ -1,0 +1,3323 @@
+Tento dokument je vyhotoven v upravené verzi s ohledem na Nařízení Evropského Parlamentu a Rady (EU) 2016/679
+o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení
+směrnice 95/46/ES (obecné nařízení o ochraně osobních údajů) a zákon č. 110/2019 Sb., o zpracování osobních údajů,
+v platném znění.
+
+
+           Statutární město Brno
+           Zastupitelstvo města Brna
+
+
+
+
+                                                 ZÁPIS
+                  o průběhu zasedání Zastupitelstva města Brna č. Z9/25
+         konaného od 9:00 hodin dne 25. března 2025, v zasedací síni Nové radnice,
+   Dominikánské náměstí č. 1, včetně přijatých usnesení a protokolů o výsledcích hlasování
+_________________________________________________________________________________
+
+
+
+
+    1. Technický bod
+
+        Zasedání zahájila a řídila primátorka města Brna JUDr. Markéta Vaňková (dále jen
+        JUDr. Markéta Vaňková, primátorka).
+
+        Při jednání bylo přítomno 52 členů Zastupitelstva města Brna, včetně 3 členů připojených on-line.
+
+        Připojeni on-line: Bc. Tomáš Aberl, člen Rady města Brna, Kristýna Černá, Mgr. Marek Lahoda
+        (od 9:00 do 11:00 hod.).
+
+        Omluveni: Mgr. Bc. Tomáš Anderle, MBA, LL.M., MUDr. Alena Gruberová (od 11:00 hod.),
+        Mgr. Petr Hladík, Mgr. Marek Lahoda (od 11:00 hod.), Ing. Pavel Urubek (od 9:50 do 10:50 hod.),
+        Libor Zábranský.
+
+        JUDr. Markéta Vaňková, primátorka, upozornila na skutečnost, že jednání Zastupitelstva města
+        Brna je audiovizuálně přenášeno prostřednictvím internetových stránek města a přenos je
+        zaznamenáván, archivován a následně bude zveřejněn.
+
+        Jmenování zapisovatelů a pověření právní asistencí
+        Zapisovatelkami jednání byly jmenovány Jana Sovová a Klára Drápalová, zaměstnankyně
+        Organizačního odboru MMB, a právní asistencí byly pověřeny Mgr. Renata Jelínková a Mgr. Petra
+        Cetlová, zaměstnankyně Právního oddělení Organizačního odboru MMB.
+
+        Schválení ověřovatelů zápisu
+        Za ověřovatele zápisu byli navrženi JUDr. Robert Kerndl a Vít Prýgl.
+
+        Hlasování je dále uváděno v pořadí: pro - proti - zdržel se - nehlasoval.
+              Hlasování č. 1:       46 - 0 - 0 - 2
+
+        JUDr. Markéta Vaňková, primátorka, sdělila, že při prezenci členové Zastupitelstva města Brna
+        obdrželi:
+        • doplněk k bodu 4), který byl dne 24. 3. 2025 vložen na chráněné internetové datové úložiště
+        • Výpis usnesení Finančního výboru Zastupitelstva města Brna k bodům projednávaným
+           na tomto zasedání, který byl dne 24. 3. 2025 vložen na chráněné internetové datové úložiště
+        • Informace o hlasování členů RMB neuvedené v předložených materiálech k bodům programu
+           ZMB č. Z9/25
+       Schválení programu zasedání Zastupitelstva města Brna č. Z9/25
+       JUDr. Markéta Vaňková, primátorka, zdůvodnila tyto změny programu:
+
+       - stažení bodu:
+         48).
+
+       Dále ještě upozornila, že:
+       - u bodu 23) se upravuje název, který nově zní:
+         Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím individuální investiční
+         dotace spolku SK Líšeň na vybudování LED osvětlení fotbalového stadionu -
+         dofinancování projektu - návrh rozpočtového opatření
+       - do názvu bodu 75) se vkládá text: a zřízení věcného břemene
+       a k uvedeným úpravám sdělila, že nemají vliv na texty usnesení.
+
+       JUDr. Markéta Vaňková, primátorka, nechala hlasovat o návrzích na změny v programu zasedání
+       Zastupitelstva města Brna, které uvedla v rámci Technického bodu.
+
+       Hlasování o stažení bodu 48) z programu jednání:
+             Hlasování č. 2:       47 - 0 - 0 - 2
+
+       Dále se JUDr. Markéta Vaňková, primátorka, dotázala, zda jsou nějaké návrhy na zařazení
+       nových bodů do programu zasedání Zastupitelstva města Brna.
+
+       Doc. MUDr. Tomáš Skřička, CSc., navrhl zařadit do programu nový bod č. 86) Návrh na provedení
+       hloubkového auditu hospodaření TIC BRNO, příspěvkové organizace, při pořádání vánočních
+       trhů, s tím, že materiál k tomuto bodu všichni členové Zastupitelstva města Brna nyní obdrželi.
+
+       JUDr. Markéta Vaňková, primátorka, přistoupila k hlasování o zařazení nového bodu 86)
+       na program zasedání:
+              Hlasování č. 3:   47 - 1 - 0 - 2
+
+       Hlasování o celém programu zasedání, včetně bodu navrženého na stažení a nově navrženého
+       bodu:
+             Hlasování č. 4:     49 - 0 - 1 - 0
+
+
+Schválený program zasedání Zastupitelstva města Brna č. Z9/25:
+
+   1. Technický bod
+   2. Dotazy, připomínky a podněty občanů
+      (bod projednáván v 9:30)
+   3. Dotazy, připomínky a podněty členů Zastupitelstva města Brna
+      (dle ust. § 82, písm. b, zák. č. 128/2000 Sb., o obcích, v platném znění)
+      (1. bod 2. dne jednání, v případě jednodenního zasedání poslední bod jednání)
+   4. Obecně závazná vyhláška statutárního města Brna, kterou se mění obecně závazná vyhláška
+      statutárního města Brna č. 11/2017, o nočním klidu, ve znění pozdějších vyhlášek
+   5. Dodatek č. 1 ke Zřizovací listině Úrazové nemocnice v Brně
+   6. Akční plán na období 2024-2026 Strategie integrace cizinců ve městě Brně 2020-2026
+   7. Strategie rozvoje Zoo Brno 2024-2040
+   8. Odpis nákladů na zmařenou investiční akci z účtu nedokončených investic
+   9. Použití zdrojů Fondu mobility - rozpočtové opatření
+  10. Aktualizace rozpočtu kapitálových výdajů Městské policie Brno v roce 2025, rozpočtové opatření
+  11. Aktualizace rozpočtu Odboru investičního MMB - březen 2025 - rozpočtové opatření
+  12. Úprava rozpočtu Odboru sociální péče MMB na rok 2025 - rozpočtové opatření
+  13. Přesun běžných a kapitálových výdajů v rámci rozpočtu Odboru správy majetku MMB, rozpočtové
+      opatření
+  14. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím účelového neinvestičního příspěvku
+      pro Filharmonii Brno, příspěvkovou organizaci - rozpočtové opatření
+  15. Zapojení Fondu rezerv a rozvoje v souvislosti s návrhem řešení výtvarného pojetí nových
+      protipovodňových stěn u řeky Svratky - rozpočtové opatření
+
+
+
+
+                                           Strana 2 z 53
+16. Zapojení Fondu rezerv a rozvoje v souvislosti s předfinancováním doplatku grantu v souladu
+    s Grantovou dohodou pro projekt s více příjemci v rámci programu ERASMUS+, rozpočtové
+    opatření
+17. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím účelového investičního transferu
+    městské části Brno-střed na realizaci Parčíku u Janáčkova domu - rozpočtové opatření
+18. Zapojení Fondu rezerv a rozvoje v souvislosti s pilotním projektem „Zajištění menstruačních potřeb
+    na základních školách v Brně“ - rozpočtové opatření
+19. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím investičního transferu městské části
+    Brno-střed, rozpočtové opatření
+20. Zapojení Fondu rezerv a rozvoje v souvislosti se zajištěním koordinace Souboru staveb jihozápad,
+    rozpočtové opatření
+21. Poskytnutí individuální neinvestiční dotace KOMETA GROUP, spolek, na zabezpečení projektu
+    „Podpora Akademie v rámci HC KOMETA BRNO“ v roce 2025
+22. Poskytnutí individuální neinvestiční dotace spolku Emilova sportovní, z.s., na uspořádání
+    14. ročníku Evropských her handicapované mládeže Emil Open ve městě Brně v roce 2025
+23. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím individuální investiční dotace spolku
+    SK Líšeň na vybudování LED osvětlení fotbalového stadionu - dofinancování projektu - rozpočtové
+    opatření
+24. Poskytnutí individuálních neinvestičních dotací na rok 2025 organizacím poskytujícím služby
+    v souladu se Strategií politiky statutárního města Brna v oblasti drog a závislostí
+    na období 2022-2025
+25. Poskytnutí individuální neinvestiční dotace Centru Brusinka, z.s., na projekt „Série Video reportáží
+    pod názvem Životy národnostních menšin ve městě Brně“
+26. Poskytnutí individuální investiční dotace Diecézní charitě Brno na projekt „Komplexní rekonstrukce
+    budovy Centra služeb pro lidi bez domova na adrese Bratislavská 58a“
+27. Poskytnutí individuální neinvestiční dotace Masarykově univerzitě na popularizaci vědy
+    pro žáky základních škol ve vědeckém výukovém centru Bioskop v roce 2025 - rozpočtové
+    opatření
+28. Poskytnutí individuální neinvestiční dotace MEETING BRNO, z.s., na projekt „Meeting Brno“
+    z rozpočtu města Brna v letech 2025-2027
+29. Poskytnutí individuálních neinvestičních dotací pro oblast životního prostředí na rok 2025,
+    rozpočtové opatření
+30. Poskytnutí individuální neinvestiční dotace Územnímu sdružení Českého zahrádkářského svazu
+    Brno-město na podporu zahrádkářských akcí, vzdělávacích aktivit a zapojení dětí a mládeže -
+    rozpočtové opatření
+31. Poskytnutí individuální neinvestiční dotace na projekt Zpřístupnění Atomového krytu 10-Z
+    v roce 2025
+32. Poskytnutí individuální neinvestiční dotace na projekt Prima FRESH festival 2025
+33. Poskytnutí individuální neinvestiční dotace na projekt Brno 1945
+34. Poskytnutí neinvestiční dotace na provoz a vybavení jednotek Hasičského záchranného sboru
+    Jihomoravského kraje; veřejnoprávní smlouva
+35. Poskytnutí neinvestičních dotací na projekty v programu „Dotace na činnosti doplňující
+    zdravotnické služby na území města Brna“ na rok 2025, rozpočtové opatření
+36. Poskytnutí neinvestičních dotací na projekty v programu „Dotace na projekty v oblasti podpory
+    rodinné politiky“ na rok 2025, rozpočtové opatření
+37. Poskytnutí neinvestičních dotací na rok 2025 z Programu III - Aktivity v oblasti drog a závislostí -
+    rozpočtové opatření
+38. Poskytnutí neinvestičních dotací na rok 2025 z Programu IV - Prevence kriminality - rozpočtové
+    opatření
+39. Poskytnutí neinvestičních dotací v rámci Programu II pro rok 2025 - projekty nestátních
+    neziskových organizací v sociální oblasti, které vhodným způsobem navazují na sociální služby -
+    rozpočtové opatření
+40. Poskytnutí účelových neinvestičních příspěvků základním školám na mezinárodní projekty
+    v roce 2025 - rozpočtové opatření
+41. Poskytnutí dotací na podporu aktivit k oživení ploch veřejné zeleně ve městě Brně
+    v roce 2025 - „Vnitroblok“, vzorové podmínky pro uzavření veřejnoprávních smluv o poskytnutí
+    dotace z rozpočtu města Brna, rozpočtové opatření
+42. Poskytnutí investičních dotací v rámci dotačního programu Podpora vytváření zelených střech
+43. Poskytnutí investičního příspěvku Domovu pro seniory Věstonická, příspěvkové organizaci -
+    rozpočtové opatření
+44. Poskytnutí finančních podílů z rozpočtu města Brna na projekty prevence kriminality
+    v roce 2025 - rozpočtové opatření
+
+
+                                           Strana 3 z 53
+45.   Projekty financované z Fondu kofinancování projektů - březen 2025 - rozpočtové opatření
+46.   Finanční prostředky Fondu kofinancování projektů - březen 2025 - rozpočtová opatření
+47.   Projekt „Bosonožské náměstí - úprava veřejného prostranství“ - rozhodnutí o poskytnutí dotace
+49.   Uzavření dohody o splátkách dluhu z nájmu sociálního bytu v domě Vlhká 22, Brno
+50.   Vypořádání dotované družstevní výstavby v k. ú. Sadová s Bytovým družstvem Hamerláky,
+      adresný záměr bezúplatného převodu spoluvlastnických podílů na 44 bytových jednotkách
+      v bytových domech Kociánka, č. p. 62 a 63, v k. ú. Sadová
+51.   Záměr prodeje volné vymezené bytové jednotky v domovním celku Hlinky 25/Výstavní 24, Brno
+52.   Zpeněžení-prodej pozemku p. č. 544, jehož součástí je rodinný dům Heinrichova 4
+      a spoluvlastnický podíl o velikosti 2/3 na pozemku p. č. 543/1, vše v k. ú. Stránice, ve veřejné
+      elektronické dražbě
+53.   Prodej pozemku p. č. 346 v k. ú. Slatina
+54.   Prodej pozemku p. č. 824 v k. ú. Slatina
+55.   Prodej pozemku p. č. 3602/19, k. ú. Líšeň
+56.   Prodej pozemku p. č. 2457/2 v k. ú. Královo Pole
+57.   Prodej pozemku p. č. 616/8 v k. ú. Město Brno a zřízení služebnosti veřejného statku
+58.   Prodej pozemků p. č. 718, p. č. 720, jehož součástí je bytový dům Dornych 31, a p. č. 721, jehož
+      součástí je bytový dům Dornych 29, vše v k. ú. Trnitá
+59.   Prodej části pozemku p. č. 498/2 v k. ú. Kohoutovice
+60.   Prodej částí pozemků p. č. 173/1 a p. č. 184/1, oba v k. ú. Zábrdovice
+61.   Uznání vlastnického práva k pozemku p. č. 5606 v k. ú. Královo Pole formou souhlasného
+      prohlášení
+62.   Uznání vlastnického práva k části pozemku p. č. 5230/9 v k. ú. Žabovřesky formou souhlasného
+      prohlášení
+63.   Nabytí vlastnického práva k pozemku p. č. 2712/246, v k. ú. Černovice, pro stavbu „Silnice I/42
+      Brno, VMO MÚK Ostravská radiála“
+64.   Nabytí vlastnického práva k pozemkům p. č. 9652/17 a p. č. 9683/4, oba v k. ú. Židenice,
+      pro stavbu „Silnice I/42 Brno, VMO MÚK Ostravská radiála“ (městská část Brno-Židenice)
+65.   Nabytí vlastnického práva k pozemku p. č. 2712/173, v k. ú. Černovice, pro stavbu „Silnice I/42
+      Brno, VMO MÚK Ostravská radiála“
+66.   Nabytí vlastnického práva k pozemkům p. č. 7913/4 a p. č. 9700/13, oba v k. ú. Židenice,
+      pro stavbu „Silnice I/42 Brno, VMO MÚK Ostravská radiála“ (městská část Brno-Židenice)
+67.   Nabytí vlastnického práva ke spoluvlastnickému podílu ve výši id. 1/8 pozemků p. č. 9701/65
+      a p. č. 9701/66, oba v k. ú. Židenice, pro stavbu „Silnice I/42 Brno, VMO MÚK Ostravská
+      radiála“ (městská část Brno-Židenice)
+68.   Nabytí vlastnického práva ke spoluvlastnickému podílu ve výši id. 1/8 pozemků p. č. 9701/65
+      a p. č. 9701/66, oba v k. ú. Židenice, pro stavbu „Silnice I/42 Brno, VMO MÚK Ostravská
+      radiála“ (městská část Brno-Židenice)
+69.   Nabytí pozemku p. č. 2722/19 v k. ú. Černovice
+70.   Nabytí pozemků p. č. 5034/36 a p. č. 5045/1, oba v k. ú. Žabovřesky, lokalita Žabovřeské louky
+71.   Nabytí spoluvlastnických podílů na pozemcích p. č. 7495/80, 7495/81, 7495/83, 7495/84, 7495/85,
+      7495/86, 7495/90, vše v k. ú. Židenice
+72.   Nabytí id. 1/2 pozemků p. č. 9700/28, p. č. 9701/31 a p. č. 9701/75, vše v k. ú. Židenice
+73.   Nabytí pozemku p. č. 6238/38 v k. ú. Líšeň
+74.   Nabytí komunikační stavby a pozemků při ulici Miry Figarové, Psotova a Vlasty Fialové,
+      v k. ú. Sadová
+75.   Nabytí komunikační stavby a pozemků a zřízení věcného břemene při ulici Dubová, Bratří Ocelků,
+      Prašnice a Ke Káčatům, v k. ú. Jundrov
+76.   Bezúplatné nabytí pozemků v k. ú. Komárov, Královo Pole, Jundrov, Slatina a Černovice
+      z vlastnictví České republiky-Úřadu pro zastupování státu ve věcech majetkových
+      do vlastnictví statutárního města Brna s omezujícími podmínkami
+77.   Souhlas se záměrem bezúplatného nabytí pozemku p. č. 945/2 v k. ú. Židenice, souhlas
+      s technickými podmínkami, pro stavbu „Brno, Filipínského III, Šámalova III - rekonstrukce
+      kanalizace a vodovodu“
+78.   Nabídka předkupního práva ke stavbě bez č. p./č. e., způsob využití garáž, postavené
+      na pozemku p. č. 2477 v k. ú. Královo Pole
+79.   Nabídka předkupního práva ke stavbě č. e. 685, způsob využití garáž, postavené na pozemku
+      p. č. 1587 v k. ú. Černovice
+80.   Nabídka předkupního práva ke stavbě č. e. 161, způsob využití rodinná rekreace, postavené
+      na pozemku p. č. 702 v k. ú. Kníničky
+81.   Nabídka předkupního práva ke stavbě občanského vybavení č. e. 120, postavené
+      na pozemcích p. č. 708/87 a p. č. 708/16, vše v k. ú. Trnitá
+
+
+                                           Strana 4 z 53
+  82. Směna části pozemku p. č. 2247/3 za část pozemku p. č. 2249/1, k. ú. Husovice
+  83. Svěření majetku města městské části Brno – Řečkovice a Mokrá Hora, pozemků
+      p. č. 3125/280, p. č. 3125/279, p. č. 4988/2, p. č. 4988/1 a p. č. 4990/3, v k. ú. Řečkovice
+  84. Změny regulačních plánů města Brna - vlastní podněty na pořízení změn
+  85. Zahájení procesu zrušení regulačních plánů města Brna
+  86. Provedení hloubkového auditu hospodaření TIC BRNO, příspěvkové organizace, při pořádání
+      vánočních trhů
+
+Informativní zprávy:
+• Informativní zpráva - Podání adresovaná Zastupitelstvu města Brna
+• Informativní zpráva o vyřízení dotazů, připomínek a podnětů občanů ze zasedání Zastupitelstva
+    města Brna č. Z9/24 konaného dne 25. 2. 2025
+• Informativní zpráva o vyřízení dotazů, připomínek a podnětů členů ZMB ze zasedání Zastupitelstva
+    města Brna č. Z9/24 konaného dne 25. 2. 2025
+• Informativní zpráva o plnění úkolů zadaných Zastupitelstvem města Brna
+• Informativní zpráva - Souhrnný rozpočet statutárního města Brna na rok 2025
+• Informativní zpráva - Stav pořizovaných územně plánovacích dokumentací a územně plánovacích
+    podkladů - březen 2025
+
+
+   Zápis obsahuje doslovný přepis rozpravy k jednotlivým bodům. Technické, provozní
+     a organizační záležitosti jsou zapsány ve zkrácené podobě.
+
+   2. Dotazy, připomínky a podněty občanů
+
+      Bod byl zařazen na stanovenou dobu programu jednání v 9:30 hod.
+
+   3. Dotazy, připomínky a podněty členů Zastupitelstva města Brna
+      (dle ust. § 82, písm. b, zák. č. 128/2000 Sb., o obcích, v platném znění)
+
+      Tento bod byl projednán jako poslední bod programu.
+
+   4. Obecně závazná vyhláška statutárního města Brna, kterou se mění obecně závazná vyhláška
+      statutárního města Brna č. 11/2017, o nočním klidu, ve znění pozdějších vyhlášek
+      K tomuto bodu obdrželi členové Zastupitelstva města Brna doplněk.
+
+      K hlasování o návrhu usnesení ve znění doplňku bylo přistoupeno bez rozpravy:
+             Hlasování č. 5:     48 - 0 - 1 - 1
+
+      Schválené usnesení:
+      ZMB vydává
+      obecně závaznou vyhlášku statutárního města Brna, kterou se mění obecně závazná vyhláška
+      statutárního města Brna č. 11/2017, o nočním klidu, ve znění pozdějších vyhlášek, která tvoří
+      přílohu č. 1 tohoto zápisu.
+
+   5. Dodatek č. 1 ke Zřizovací listině Úrazové nemocnice v Brně
+
+      K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+             Hlasování č. 6:     49 - 0 - 1 - 0
+
+      Schválené usnesení:
+      ZMB schvaluje
+      Dodatek č. 1 ke Zřizovací listině Úrazové nemocnice v Brně, který tvoří přílohu č. 2 tohoto zápisu.
+      Ověřená příloha je uložena na Organizačním odboru MMB.
+
+   6. Akční plán na období 2024-2026 Strategie integrace cizinců ve městě Brně 2020-2026
+
+      K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+             Hlasování č. 7:     45 - 0 - 5 - 0
+
+
+
+
+                                            Strana 5 z 53
+    Schválené usnesení:
+    ZMB schvaluje
+
+                •  Akční plán na období 2024–2026 Strategie integrace cizinců ve městě Brně 2020–
+                   2026, který tvoří přílohu č. 3 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+ 7. Strategie rozvoje Zoo Brno 2024-2040
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 8:     40 - 1 - 9 - 0
+
+    Schválené usnesení:
+    ZMB schvaluje
+    Strategii rozvoje Zoo Brno 2024-2040, která tvoří přílohu č. 4 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+ 8. Odpis nákladů na zmařenou investiční akci z účtu nedokončených investic
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 9:     37 - 0 - 11 - 2
+
+    Schválené usnesení:
+    ZMB schvaluje
+    odpis nákladů na zmařenou investiční akci ORG 4925 - ORG 4925 Výdaje z Fondu bytové výstavby
+    z účtu nedokončených investic statutárního města Brna v celkové výši 1 519 476,- Kč.
+
+ 9. Použití zdrojů Fondu mobility - rozpočtové opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 10:    44 - 0 - 7 - 0
+
+    Schválené usnesení:
+    1.ZMB schvaluje
+    přesun v rámci kapitálových a běžných výdajů Fondu mobility na financování projektů Cyklostezka
+    Valchařská-Olší (etapa I. Valchařská Franzova), Realizace dopravního značení v rámci oblastí
+    placeného stání, Prezentace projektu nového hlavního nádraží a Obnova komunikací v MPR.
+
+    2.ZMB schvaluje
+    rozpočtové opatření dle tabulky, která tvoří přílohu č. 5 tohoto zápisu, v souvislosti s financováním
+    projektů Cyklostezka Valchařská-Olší (etapa I. Valchařská Franzova), Realizace dopravního
+    značení v rámci oblastí placeného stání, Prezentace projektu nového hlavního nádraží a Obnova
+    komunikací v MPR.
+
+10. Aktualizace rozpočtu kapitálových výdajů Městské policie Brno v roce 2025, rozpočtové
+    opatření
+
+           Hlasování č. 11:       Neplatné hlasování
+
+    doc. MUDr. Tomáš Skřička, CSc. - s omluvou požádal o nové hlasování.
+
+    JUDr. Markéta Vaňková, primátorka - prohlásila hlasování za zmatečné a přistoupila k opětovnému
+    hlasování o přijetí usnesení k bodu 10).
+
+    K hlasování o návrhu usnesení k bodu 10) bylo přistoupeno bez rozpravy:
+           Hlasování č. 12:    50 - 0 - 0 - 1
+
+    Schválené usnesení:
+    ZMB schvaluje
+    rozpočtové opatření dle tabulky, která tvoří přílohu č. 6 tohoto zápisu, z důvodu zajištění potřeb
+    kapitálových výdajů Městské policie Brno.
+
+
+                                          Strana 6 z 53
+11. Aktualizace rozpočtu Odboru investičního MMB - březen 2025 - rozpočtové opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 13:    44 - 0 - 6 - 1
+
+    Schválené usnesení:
+    ZMB schvaluje
+    rozpočtové opatření dle tabulky na základě aktualizace očekávaného čerpání rozpočtu kapitálových
+    a běžných výdajů města Brna pro rok 2025, která tvoří přílohu č. 7 tohoto zápisu.
+
+12. Úprava rozpočtu Odboru sociální péče MMB na rok 2025 - rozpočtové opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 14:    49 - 0 - 0 - 2
+
+    Schválené usnesení:
+    ZMB schvaluje
+
+        •   rozpočtové opatření dle tabulky, která tvoří přílohu č. 8 tohoto zápisu, z důvodu úpravy
+            rozpočtu Odboru sociální péče MMB a zapojení Fondu rezerv a rozvoje na rok 2025.
+
+13. Přesun běžných a kapitálových výdajů v rámci rozpočtu Odboru správy majetku MMB,
+    rozpočtové opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 15:    44 - 0 - 6 - 1
+
+    Schválené usnesení:
+    ZMB schvaluje
+    rozpočtové opatření dle tabulky, která tvoří přílohu č. 9 tohoto zápisu z důvodu nutnosti přesunu
+    běžných a kapitálových výdajů v rámci rozpočtu Odboru správy majetku MMB.
+
+14. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím účelového neinvestičního
+    příspěvku pro Filharmonii Brno, příspěvkovou organizaci - rozpočtové opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 16:    49 - 0 - 1 - 1
+
+    Schválené usnesení:
+    ZMB schvaluje
+       1. poskytnutí účelového neinvestičního příspěvku ve výši 400 tis. Kč z rozpočtu města Brna
+           pro Filharmonii Brno, příspěvkovou organizaci, na zajištění akce „Zájezd Filharmonie Brno
+           na EXPO Ósaka 2025" " s termínem vyúčtování do 25.1.2026,
+       2. rozpočtové opatření dle tabulky, která tvoří přílohu č. 10 tohoto zápisu.
+
+15. Zapojení Fondu rezerv a rozvoje v souvislosti s návrhem řešení výtvarného pojetí nových
+    protipovodňových stěn u řeky Svratky - rozpočtové opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 17:    45 - 4 - 2 - 0
+
+    Schválené usnesení:
+    ZMB schvaluje
+       - poskytnutí účelového neinvestičního příspěvku ve výši 800 tis. Kč z rozpočtu města Brna
+           pro Dům umění města Brna, příspěvkovou organizaci, na náklady spojené s výtvarným
+           ztvárněním protipovodňové stěny Táborské nábřeží formou organizace akce „Graffiti jam –
+           Náplavka 2025“, v roce 2025, s termínem vyúčtování do 15. 01. 2026,
+       - rozpočtové opatření dle tabulky v souvislosti s realizací výtvarného pojetí nových
+           protipovodňových stěn u řeky Svratky, které tvoří přílohu č. 11 tohoto zápisu.
+
+
+
+                                         Strana 7 z 53
+16. Zapojení Fondu rezerv a rozvoje v souvislosti s předfinancováním doplatku grantu v souladu
+    s Grantovou dohodou pro projekt s více příjemci v rámci programu ERASMUS+, rozpočtové
+    opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 18:    46 - 0 - 5 - 0
+
+    Schválené usnesení:
+    ZMB schvaluje
+
+        •   zapojení Fondu rezerv a rozvoje v souvislosti s předfinancováním doplatku grantu v
+            souladu s Grantovou dohodou pro projekt s více příjemci v rámci programu ERASMUS+,
+            ve výši 141.900 EUR, tj. 3.574.000 Kč,
+        •   rozpočtové opatření dle tabulky, která tvoří přílohu č. 12 tohoto zápisu, z důvodu zapojení
+            Fondu rezerv a rozvoje v souvislosti s předfinancováním doplatku grantu v souladu s
+            Grantovou dohodou pro projekt s více příjemci v rámci programu ERASMUS+.
+
+17. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím účelového investičního
+    transferu městské části Brno-střed na realizaci Parčíku u Janáčkova domu - rozpočtové
+    opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 19:    44 - 0 - 6 - 1
+
+    Schválené usnesení:
+    ZMB schvaluje
+
+        •   poskytnutí účelového investičního transferu městské části Brno-střed na realizaci Parčíku
+            u Janáčkova domu ve výši 1 954 tis. Kč s termínem vyúčtování do 15.2.2026,
+        •   rozpočtové opatření dle tabulky z důvodu poskytnutí účelového investičního transferu
+            městské části Brno-střed na realizaci Parčíku u Janáčkova domu, která tvoří přílohu č. 13
+            tohoto zápisu.
+
+18. Zapojení Fondu rezerv a rozvoje v souvislosti s pilotním projektem „Zajištění menstruačních
+    potřeb na základních školách v Brně“ - rozpočtové opatření
+
+    Rozprava
+
+    Mgr. Jasna Flamiková:
+    Já bych jenom chtěla poděkovat tadyzatudle iniciativu, velmi ráda to podpořím.
+
+    JUDr. Markéta Vaňková, primátorka:
+    Někdo další do diskuse? Není tomu tak. Tak zahajuji hlasování:
+          Hlasování č. 20:     46 - 0 - 3 - 2
+
+    Schválené usnesení:
+    ZMB schvaluje
+    rozpočtové opatření dle tabulky z důvodu zajištění menstruačních potřeb na základních školách v
+    Brně, která tvoří přílohu č. 14 tohoto zápisu.
+
+19. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím investičního transferu městské
+    části Brno-střed, rozpočtové opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 21:    49 - 0 - 1 - 2
+
+    Schválené usnesení:
+    1.ZMB bere na vědomí
+    žádost městské části Brno-střed č.j. MCBS/2024/0187102 ze dne 2. 12. 2024 o poskytnutí
+    finančního transferu na zpracování následné projektové dokumentace bytových domů a školského
+    objektu v ulici Mlýnská ve výši 10 mil. Kč.
+
+
+                                         Strana 8 z 53
+    2.ZMB schvaluje
+
+        •   poskytnutí investičního transferu městské části Brno-střed na akci „Zpracování projektové
+            dokumentace výstavby školského objektu a bytových domů v ulici Mlýnská na pozemcích
+            p.č. 25, 22/1, 22/2 a 21, k.ú. Trnitá“ ve výši 10 mil. Kč s tím, že městská část tyto finanční
+            prostředky vyúčtuje Bytovému odboru MMB do 1 měsíce od předání projektové
+            dokumentace objednateli nebo v případě ukončení závazku v jeho průběhu do 1 měsíce
+            od jeho ukončení, nejpozději však do 31. 12. 2026,
+        •   rozpočtové opatření dle tabulky, která tvoří přílohu č. 15 tohoto zápisu, v souvislosti s
+            poskytnutím investičního transferu městské části Brno-střed.
+
+    ***
+    3.ZMB ukládá Radě města Brna zajistit poukázání finančních prostředků městské části až po
+    předložení smluvní dokumentace k realizaci akce.
+    ***
+    úkol č.: [Z9/25/19]
+    zodpovídá: RMB [29]
+    termín: [dle usnesení]
+
+20. Zapojení Fondu rezerv a rozvoje v souvislosti se zajištěním koordinace Souboru staveb
+    jihozápad, rozpočtové opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 22:    50 - 0 - 0 - 2
+
+    Schválené usnesení:
+    1.ZMB schvaluje
+    poskytnutí neinvestičního příspěvku Kanceláři architekta města Brna, příspěvkové organizaci na
+    zajištění studie „Soubor staveb jihozápad – technicko-urbanistická studie“ ve výši 1.000 tis. Kč, s
+    termínem vyúčtování do 31.12.2025.
+
+    2.ZMB schvaluje
+    rozpočtové opatření dle tabulky, která tvoří přílohu č. 16 tohoto zápisu, z důvodu zapojení Fondu
+    rezerv a rozvoje v souvislosti se zajištěním koordinace Souboru staveb jihozápad.
+
+21. Poskytnutí individuální neinvestiční dotace KOMETA GROUP, spolek, na zabezpečení
+    projektu „Podpora Akademie v rámci HC KOMETA BRNO“ v roce 2025
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 23:    52 - 0 - 0 - 0
+
+    Schválené usnesení:
+    1.ZMB schvaluje
+
+       1. poskytnutí individuální neinvestiční dotace KOMETA GROUP, spolek, se sídlem
+           Křídlovická 911/34, 603 00 Brno, IČO 44990014 ve výši 2 500 000 Kč z rozpočtu města
+           Brna na rok 2025 na zabezpečení projektu „Podpora Akademie v rámci HC KOMETA
+           BRNO“ v roce 2025,
+       2. uzavření veřejnoprávní smlouvy o poskytnutí individuální neinvestiční dotace z rozpočtu
+           města Brna, která tvoří přílohu č. 17 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+     2.ZMB pověřuje
+    vedoucího Odboru sportu Magistrátu města Brna podpisem této smlouvy.
+
+22. Poskytnutí individuální neinvestiční dotace spolku Emilova sportovní, z.s., na uspořádání
+    14. ročníku Evropských her handicapované mládeže Emil Open ve městě Brně v roce 2025
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 24:    51 - 0 - 0 - 1
+
+
+                                          Strana 9 z 53
+    Schválené usnesení:
+    1.ZMB schvaluje
+
+       1. poskytnutí individuální neinvestiční dotace spolku Emilova sportovní, z.s. se sídlem
+           Malinovského náměstí 603/4, 602 00 Brno, IČO: 06707785 na uspořádání 14. ročníku
+           Evropských her handicapované mládeže Emil Open ve městě Brně v roce 2025 ve výši 2
+           000 000 Kč z rozpočtu města Brna na rok 2025,
+       2. uzavření veřejnoprávní smlouvy o poskytnutí individuální neinvestiční dotace z rozpočtu
+           města Brna, která tvoří přílohu č. 18 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+
+    2.ZMB pověřuje
+    vedoucího Odboru sportu Magistrátu města Brna podpisem této smlouvy.
+
+23. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím individuální investiční dotace
+    spolku SK Líšeň na vybudování LED osvětlení fotbalového stadionu - dofinancování
+    projektu - rozpočtové opatření
+    K tomuto bodu obdrželi členové Zastupitelstva města Brna doplněk.
+
+    JUDr. Markéta Vaňková, primátorka - upozornila na doplněk s upraveným návrhem usnesení.
+
+    K hlasování o návrhu usnesení ve znění doplňku bylo přistoupeno bez rozpravy:
+           Hlasování č. 25:    51 - 0 - 0 - 1
+
+    Schválené usnesení:
+    1.ZMB schvaluje
+
+        •  poskytnutí individuální investiční dotace spolku SK Líšeň, se sídlem Kučerova 1776/4,
+           Líšeň, 628 00 Brno, IČO 13691732, z rozpočtu města Brna na rok 2025 ve výši 9 730 000
+           Kč na dofinancování projektu „Vybudování LED osvětlení fotbalového stadionu“ na ul.
+           Kučerova, Brno, za podmínky, že spolek SK Líšeň nejpozději do dne 21. 7. 2025
+           zajistí finanční prostředky na krytí celkové ceny projektu,
+       • rozpočtové opatření dle tabulky, která tvoří přílohu č. 19a tohoto zápisu, z důvodu zapojení
+           Fondu rezerv a rozvoje v souvislosti s poskytnutím individuální investiční dotace spolku SK
+           Líšeň,
+       • uzavření veřejnoprávní smlouvy o poskytnutí individuální investiční dotace z rozpočtu
+           města Brna, která tvoří přílohu č. 19b tohoto zápisu, obsahující závazky SK Líšně, že
+           na úhradu nákladů projektu přednostně použije finanční prostředky získané z jiných
+           veřejných zdrojů, dále že v nutných případech umožní ostatním brněnským
+           profesionálním fotbalovým klubům využívat stadion na ul. Kučerova pro sehrání jejich
+           ligových zápasů jen za provozní náklady a že se zdrží jednání a uzavírání smluvních
+           vztahů, která by takové využití jeho stadionu jakkoli omezovala.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+
+    2.ZMB pověřuje
+    vedoucího Odboru sportu Magistrátu města Brna podpisem této smlouvy.
+
+24. Poskytnutí individuálních neinvestičních dotací na rok 2025 organizacím poskytujícím
+    služby v souladu se Strategií politiky statutárního města Brna v oblasti drog a závislostí
+    na období 2022-2025
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 26:    51 - 0 - 1 - 0
+
+    Schválené usnesení:
+    1.ZMB schvaluje
+
+
+
+
+                                         Strana 10 z 53
+        •  poskytnutí individuálních neinvestičních dotací na rok 2025 organizacím poskytujícím
+           služby v souladu se Strategií politiky statutárního města Brna v oblasti drog a závislostí na
+           období 2022–2025 v celkové výši 2 377 tis. Kč, podle "Přehledu organizací, které poskytují
+           služby v souladu s politikou města Brna v oblasti drog a závislostí na rok 2025", která tvoří
+           přílohu č. 20a tohoto zápisu,
+       • uzavření smluv o poskytnutí individuálních neinvestičních dotací z rozpočtu města Brna dle
+           vzorové "Smlouvy o poskytnutí individuální neinvestiční dotace z rozpočtu města Brna na
+           rok 2025", která tvoří přílohu č. 20b tohoto zápisu.
+    Ověřené přílohy jsou uloženy na Organizačním odboru MMB.
+
+    2.ZMB pověřuje
+       • vedoucího Odboru sociální péče Magistrátu města Brna podpisem těchto smluv.
+
+25. Poskytnutí individuální neinvestiční dotace Centru Brusinka, z.s., na projekt „Série Video
+    reportáží pod názvem Životy národnostních menšin ve městě Brně“
+    K tomuto bodu obdrželi členové Zastupitelstva města Brna doplněk.
+
+    JUDr. Markéta Vaňková, primátorka - upozornila, že Rada města Brna přijala usnesení, dle kterého
+    neschvaluje poskytnutí individuální neinvestiční dotace Centru Brusinka, z.s. Návrh tohoto
+    usnesení byl předmětem poskytnutého doplňku k materiálu k bodu 25).
+
+    JUDr. Markéta Vaňková, primátorka - nechala hlasovat o přijetí usnesení k bodu 25) v souladu
+    s rozhodnutím Rady města Brna, ve znění doplňku.
+
+    K hlasování o návrhu usnesení ve znění doplňku k bodu 25) bylo přistoupeno bez rozpravy:
+           Hlasování č. 27:    44 - 1 - 5 - 2
+
+    Schválené usnesení:
+    ZMB neschvaluje
+
+        •   poskytnutí individuální neinvestiční dotace z rozpočtu města Brna spolku Centrum
+            Brusinka, z.s., se sídlem Konečného náměstí 1019/2a, Veveří, 602 00 Brno, IČO:
+            09362380, ve výši 233 000 Kč na projekt "Série Video reportáží pod názvem Životy
+            národnostních menšin ve městě Brně".
+
+26. Poskytnutí individuální investiční dotace Diecézní charitě Brno na projekt „Komplexní
+    rekonstrukce budovy Centra služeb pro lidi bez domova na adrese Bratislavská 58a“
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 28:    51 - 0 - 0 - 1
+
+    Schválené usnesení:
+    1.ZMB schvaluje
+
+        •  poskytnutí individuální investiční dotace z rozpočtu města Brna Diecézní charitě Brno, se
+           sídlem třída Kpt. Jaroše 1928/9, Černá Pole, 602 00 Brno, IČO: 44990260, ve výši 12 mil.
+           Kč na projekt "Komplexní rekonstrukce budovy Centra služeb pro lidi bez domova na
+           adrese Bratislavská 58a",
+       • smlouvu o poskytnutí individuální investiční dotace z rozpočtu města Brna Diecézní charitě
+           Brno, se sídlem třída Kpt. Jaroše 1928/9, Černá Pole, 602 00 Brno, IČO: 44990260, ve výši
+           12 mil. Kč na projekt "Komplexní rekonstrukce budovy Centra služeb pro lidi bez domova
+           na adrese Bratislavská 58a", která tvoří přílohu č. 21 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+
+    2.ZMB pověřuje
+
+            •        vedoucího Odboru sociální péče Magistrátu města Brna podpisem této smlouvy.
+
+
+                                         Strana 11 z 53
+ 2. Dotazy, připomínky a podněty občanů
+    Bod byl zařazen na stanovenou dobu programu jednání v 9:30 hod.
+
+    Žádné dotazy, připomínky a podněty nebyly vzneseny.
+
+27. Poskytnutí individuální neinvestiční dotace Masarykově univerzitě na popularizaci vědy
+    pro žáky základních škol ve vědeckém výukovém centru Bioskop v roce 2025 - rozpočtové
+    opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 29:    51 - 0 - 1 - 0
+
+    Schválené usnesení:
+    1.ZMB schvaluje
+       • poskytnutí individuální neinvestiční dotace Masarykově univerzitě, Žerotínovo náměstí
+           617/9, 602 00 Brno, IČO 00216224, ve výši 300 tis. Kč z rozpočtu města Brna na rok 2025
+           na popularizaci vědy pro žáky základních škol ve vědeckém výukovém centru Bioskop,
+       • rozpočtové opatření dle tabulky, která tvoří přílohu č. 22a tohoto zápisu z důvodu, že
+           žadatelem o dotaci je veřejná vysoká škola,
+       • uzavření veřejnoprávní smlouvy o poskytnutí výše uvedené dotace z rozpočtu města Brna,
+           která tvoří přílohu č. 22b tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+
+    2.ZMB pověřuje
+    vedoucího Odboru školství a mládeže Magistrátu města Brna podpisem této smlouvy.
+
+28. Poskytnutí individuální neinvestiční dotace MEETING BRNO, z.s., na projekt „Meeting Brno“
+    z rozpočtu města Brna v letech 2025-2027
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 30:    47 - 0 - 5 - 0
+
+    Schválené usnesení:
+    1.ZMB schvaluje
+       1. poskytnutí individuální neinvestiční dotace z rozpočtu města Brna v letech 2025-2027 v
+           celkové výši 9.000.000,- Kč (3.000.000,- Kč ročně) příjemci MEETING BRNO, z.s., Trýbova
+           961/8, 602 00 Brno, IČO: 04680740, na projekt Meeting Brno,
+       2. uzavření smlouvy o poskytnutí individuální neinvestiční dotace z rozpočtu města Brna v
+           letech 2025-2027 v celkové výši 9.000.000,- Kč (3.000.000,- Kč ročně) s příjemcem
+           MEETING BRNO, z.s., Trýbova 961/8, 602 00 Brno, IČO: 04680740, na projekt Meeting
+           Brno, která tvoří přílohu č. 23 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+
+    2.ZMB pověřuje
+    vedoucího Odboru školství a mládeže MMB podpisem smlouvy o poskytnutí dotace.
+
+29. Poskytnutí individuálních neinvestičních dotací pro oblast životního prostředí na rok 2025,
+    rozpočtové opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 31:    45 - 0 - 5 - 2
+
+    Schválené usnesení:
+    ZMB schvaluje
+       - poskytnutí individuální neinvestiční dotace Lipce - školskému zařízení pro environmentální
+           vzdělávání Brno, příspěvkové organizaci, se sídlem Lipová 233/20, 602 00 Brno, IČO:
+           44993447, ve výši 200 000 Kč z rozpočtu města Brna na rok 2025, dle tabulky "I.
+
+
+                                        Strana 12 z 53
+           Individuální neinvestiční dotace Lipce - školskému zařízení pro environmentální vzdělávání
+           Brno, příspěvkové organizaci", která tvoří přílohu č. 24a tohoto zápisu,
+
+       -   poskytnutí individuálních neinvestičních dotací Nadaci Partnerství, se sídlem Údolní
+           567/33, 602 00 Brno, IČO: 45773521, ve výši 1 050 000 Kč z rozpočtu města Brna na rok
+           2025, dle tabulky "II. Individuální neinvestiční dotace Nadaci Partnerství", která tvoří přílohu
+           č. 24b tohoto zápisu;
+
+       -   poskytnutí individuální neinvestiční dotace Radě pro zelené střechy, z.s., se sídlem
+           Sokolská 534/18, 779 00 Olomouc, IČO: 06553591, ve výši 510 000 Kč z rozpočtu města
+           Brna na rok 2025, dle tabulky „III. Individuální neinvestiční dotace Radě pro zelené střechy,
+           z.s.“, která tvoří přílohu č. 24c tohoto zápisu,
+
+       -   poskytnutí individuální neinvestiční dotace Ptačímu centru o.p.s., se sídlem Štěpánská
+           310/4b, 602 00 Brno, IČO: 25557513, ve výši 400 000 Kč z rozpočtu města Brna na rok
+           2025, dle tabulky „IV. Individuální neinvestiční dotace Ptačímu centru o.p.s.“, která tvoří
+           přílohu č. 24d tohoto zápisu,
+           Ověřené přílohy jsou uloženy na Organizačním odboru MMB.
+
+
+       -   rozpočtové opatření dle tabulky, z důvodu přesunutí finančních prostředků na příslušnou
+           položku, která tvoří přílohu č. 24e tohoto zápisu,
+
+       -   uzavření smluv o poskytnutí dotací z rozpočtu města Brna na rok 2025 výše uvedeným
+           subjektům za Podmínek pro uzavření veřejnoprávních smluv o poskytnutí individuálních
+           neinvestičních dotací pro oblast životního prostředí z rozpočtu města Brna pro rok 2025,
+           které tvoří přílohu č. 24f tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+30. Poskytnutí individuální neinvestiční dotace Územnímu sdružení Českého zahrádkářského
+    svazu Brno-město na podporu zahrádkářských akcí, vzdělávacích aktivit a zapojení dětí
+    a mládeže - rozpočtové opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 32:    50 - 0 - 0 - 2
+
+    Schválené usnesení:
+    1.ZMB schvaluje
+
+       •  poskytnutí individuální neinvestiční dotace Územnímu sdružení Českého zahrádkářského
+          svazu Brno-město, se sídlem Táborská 921/193, Židenice, 615 00 Brno, IČO: 00433756,
+          ve výši 100 tis. Kč z rozpočtu města Brna na rok 2025 na podporu zahrádkářských akcí,
+          vzdělávacích aktivit a zapojení dětí a mládeže,
+      • rozpočtové opatření dle tabulky z důvodu poskytnutí individuální neinvestiční dotace, která
+          tvoří přílohu č. 25a tohoto zápisu,
+      • uzavření smlouvy o poskytnutí individuální neinvestiční dotace s Územním sdružením
+          Českého zahrádkářského svazu Brno-město, se sídlem Táborská 921/193, Židenice, 615
+          00 Brno, IČO: 00433756, která tvoří přílohu č. 25b tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+
+    2.ZMB pověřuje
+    vedoucího Odboru životního prostředí Magistrátu města Brna podpisem této smlouvy.
+
+
+
+
+                                          Strana 13 z 53
+31. Poskytnutí individuální neinvestiční dotace na projekt Zpřístupnění Atomového krytu 10-Z
+    v roce 2025
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 33:    46 - 1 - 5 - 0
+
+    Schválené usnesení:
+    1.ZMB schvaluje
+    poskytnutí individuální neinvestiční dotace společnosti AMERFO o.p.s., Charvatská 1657/42, 612
+    00 Brno, IČO: 28064038, ve výši 500 tis. Kč na projekt Zpřístupnění Atomového krytu 10-Z v roce
+    2025.
+
+    2.ZMB schvaluje
+    veřejnoprávní smlouvu o poskytnutí dotace společnosti AMERFO o.p.s., Charvatská 1657/42, 612
+    00 Brno, IČO: 28064038, která tvoří přílohu č. 26 tohoto zápisu, ve výši 500 tis. Kč.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+    3.ZMB pověřuje
+    vedoucího Kanceláře marketingu a cestovního ruchu MMB podpisem smlouvy.
+
+32. Poskytnutí individuální neinvestiční dotace na projekt Prima FRESH festival 2025
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 34:    44 - 0 - 5 - 3
+
+    Schválené usnesení:
+    1.ZMB schvaluje
+    poskytnutí individuální neinvestiční dotace společnosti event4 s.r.o., Nad Týncem 1183/42, 312 00
+    Plzeň, IČO: 29091667, ve výši 300 tis. Kč na projekt Prima FRESH festival 2025.
+
+    2.ZMB schvaluje
+    veřejnoprávní smlouvu o poskytnutí dotace společnosti event4 s.r.o., Nad Týncem 1183/42, 312 00
+    Plzeň, IČO: 29091667, která tvoří přílohu č. 27 tohoto zápisu, ve výši 300 tis. Kč.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+    3.ZMB pověřuje
+    vedoucího Kanceláře marketingu a cestovního ruchu MMB podpisem smlouvy.
+
+33. Poskytnutí individuální neinvestiční dotace na projekt Brno 1945
+
+    Rozprava
+
+    Bc. Matěj Hollan:
+    Chtěl bych se zeptat u této akce, jaké je její pozadí? I s ohledem na to, že ta navrhovaná dotace je
+    poměrně vysoká, jestli by mohlo, ideálně zástupce organizátorů, nebo ten, kdo materiál
+    zpracovával, to představit podrobněji? Možná se pletu, ale nepomotuju si z minulých rok, že by se
+    ta akce podporovala. Tím nechci říct, že by to tak být nemělo. Naopak, jsem se na tu akci díval,
+    i na ty organizátory, připadá mi, že to je zpracováno velmi dobře, velmi zajímavě. Ale rád bych
+    o tom měl, před hlasováním, více informací, než je v tom materiálu.
+
+    JUDr. Markéta Vaňková, primátorka:
+    Tak. Nevidím, že by tady byl přímo žadatel o dotaci, takže poprosím pana vedoucího Geislera.
+    Vedoucího KMCR.
+
+    Mgr. Bc. Jakub Geisler, vedoucí Kanceláře marketingu a cestovního ruchu MMB:
+    Pan organizátor je na cestě. Přiznám se, že jsem nepočítal s tím, že tady nebude mluvit žádné,
+    žádné občanstvo, takže jsem ho povolal až na 10., ale zkusím to představit sám. Pan zastupitel má
+    pravdu. V minulosti se ty akce v takovém rozsahu nepodporovaly. Důvodem je 80. výročí konce
+    2. světové války, které je asi posledním kulatým, kde ještě budou vlastně moci vzpomínat i ti, co tu,
+    ten konec 2. světové války zažili, aktivně. Ta akce se skládá z několika částí. První, která ovšem
+    není předmětem té dotace, ale bude to součást nějakého marketingového balíčku, je takzvané
+    krvavé jaro, to znamená, tam ti vojáci budou v obcích Jihomoravského kraje připomínat postup té
+
+
+                                          Strana 14 z 53
+    fronty směrem k Brnu. Do Brna se dostanou v pátek, 25. dubna, zúčastní se, zúčastní se vernisáže
+    výstavy Paměti národa na Moravském náměstí a o víkendu budou, bude to hlavní, hlavní jádro těch
+    oslav. V sobotu bude takové velké ležení na hradu Špilberk, k dispozici bude ukázka té vojenské
+    techniky uniformovaných vojáků. Na náměstí Svobody plánujeme takové, vlastně takovou malou
+    ukázku toho, co najdou na tom Špilberku ve větším, jako taková pozvánka na ten Špilberk. A potom
+    je to také pozvánka na nedělní bojovou ukázku v Černovicích, kde se nabízí místo, kde je možné
+    ukázat tu vojenskou techniku, včetně přeletu letadla. A nesmím zapomenout ani na pietní akt,
+    26. dubna, na Ústředním hřbitově, kde budou i občané mít možnost vidět ty uniformované vojáky.
+    Takže to je k této dotaci. A já ještě si dovolím doplnit, že plánujeme webovou stránku, která shrne
+    vlastně všechny akce, které se budou konat u příležitosti 80. výročí konce 2. světové války,
+    a poskytneme tomu nějakou základní marketingovou kampaň, tak aby občané Brna si mohli vybrat,
+    jakým způsobem, kdy a kde si připomenou 80 let konce 2. světové války.
+
+    JUDr. Markéta Vaňková, primátorka:
+    Jsou nějaké další dotazy? Vypadá to, že nejsou, takže můžeme přistoupit k hlasování. Zahajuji
+    hlasování:
+          Hlasování č. 35:     47 - 0 - 3 - 2
+
+    Schválené usnesení:
+    1.ZMB schvaluje
+    poskytnutí individuální neinvestiční dotace spolku Acaballado z.s., Kopečná 987/11, 602 00 Brno,
+    IČO: 22611657, ve výši 750 tis. Kč na projekt Brno 1945.
+
+    2.ZMB schvaluje
+    veřejnoprávní smlouvu o poskytnutí dotace spolku Acaballado z.s., Kopečná 987/11, 602 00 Brno,
+    IČO: 22611657, která tvoří přílohu č. 28 tohoto zápisu, ve výši 750 tis. Kč.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+    3.ZMB pověřuje
+    vedoucího Kanceláře marketingu a cestovního ruchu MMB podpisem smlouvy.
+
+34. Poskytnutí neinvestiční dotace na provoz a vybavení jednotek Hasičského záchranného
+    sboru Jihomoravského kraje; veřejnoprávní smlouva
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 36:    50 - 0 - 0 - 2
+
+    Schválené usnesení:
+    1.ZMB schvaluje
+    poskytnutí neinvestiční dotace z rozpočtu města Brna ve výši 5 mil. Kč na provoz a vybavení
+    jednotek Hasičského záchranného sboru Jihomoravského kraje, se sídlem Zubatého 685/1, 614 00
+    Brno, IČO: 70884099.
+
+    2.ZMB schvaluje
+    veřejnoprávní smlouvu o poskytnutí neinvestiční dotace na provoz a vybavení jednotek Hasičského
+    záchranného sboru Jihomoravského kraje, se sídlem Zubatého 685/1, 614 00 Brno, IČO:
+    70884099, která tvoří přílohu č. 29 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+    3.ZMB pověřuje
+    vedoucí Odboru vnitřních věcí MMB podpisem výše uvedené smlouvy.
+
+35. Poskytnutí neinvestičních dotací na projekty v programu „Dotace na činnosti doplňující
+    zdravotnické služby na území města Brna“ na rok 2025, rozpočtové opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 37:    50 - 0 - 0 - 2
+
+    Schválené usnesení:
+    1.ZMB schvaluje
+    poskytnutí neinvestičních dotací z rozpočtu města Brna na rok 2025 v celkové výši 700 000 Kč na
+    projekty v programu "Dotace na činnosti doplňující zdravotnické služby na území města Brna",
+
+
+                                         Strana 15 z 53
+    uvedené v "Přehledu žadatelů o dotace z rozpočtu města Brna na projekty v programu "Dotace na
+    činnosti doplňující zdravotnické služby na území města Brna" na rok 2025", který tvoří přílohu č.
+    30a tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+    2.ZMB schvaluje
+    rozpočtové opatření dle tabulky z důvodu realizace dotací z rozpočtu města Brna, která tvoří přílohu
+    č. 30b tohoto zápisu.
+
+    3.ZMB schvaluje
+    uzavření smluv o poskytnutí dotací schválených dle 1. části usnesení za "Podmínek uzavíraných
+    veřejnoprávních smluv na poskytnutí dotací z rozpočtu města Brna na rok 2025", které tvoří přílohu
+    č. 30c tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+36. Poskytnutí neinvestičních dotací na projekty v programu „Dotace na projekty v oblasti
+    podpory rodinné politiky“ na rok 2025, rozpočtové opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 38:    51 - 0 - 0 - 0
+
+    Schválené usnesení:
+    1.ZMB schvaluje
+    poskytnutí neinvestičních dotací z rozpočtu města Brna na rok 2025 v celkové výši 3 815 380 Kč
+    na projekty v programu „Dotace na projekty v oblasti podpory rodinné politiky“, uvedené v „Přehledu
+    žadatelů o dotace z rozpočtu města Brna na projekty v programu „Dotace na projekty v oblasti
+    podpory rodinné politiky“ na rok 2025“, který tvoří přílohu č. 31a tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+    2.ZMB schvaluje
+    rozpočtové opatření dle tabulky z důvodu realizace dotací z rozpočtu města Brna, které tvoří přílohu
+    č. 31b tohoto zápisu.
+
+    3.ZMB schvaluje
+    uzavření smluv o poskytnutí dotací schválených dle 1. části usnesení za „Podmínek uzavíraných
+    veřejnoprávních smluv na poskytnutí dotací z rozpočtu města Brna na rok 2025", které tvoří přílohu
+    č. 31c tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+37. Poskytnutí neinvestičních dotací na rok 2025 z Programu III - Aktivity v oblasti drog
+    a závislostí - rozpočtové opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 39:    45 - 0 - 5 - 1
+
+    Schválené usnesení:
+    ZMB schvaluje
+
+        •   poskytnutí neinvestičních dotací na rok 2025 z Programu III - Aktivity v oblasti drog a
+            závislostí v celkové výši 6 000 tis. Kč z rozpočtu města Brna na rok 2025 podle "Návrhu na
+            poskytnutí neinvestičních dotací z rozpočtu města Brna na rok 2025 Program III - Aktivity v
+            oblasti drog a závislostí", který tvoří přílohu č. 32a tohoto zápisu,
+        •   uzavření smluv o poskytnutí neinvestičních dotací z rozpočtu města Brna na rok 2025 dle
+            vzorové "Smlouvy o poskytnutí neinvestiční dotace z rozpočtu města Brna na rok 2025",
+            která tvoří přílohu č. 32b tohoto zápisu,
+            Ověřené přílohy jsou uloženy na Organizačním odboru MMB.
+        •   rozpočtové opatření dle tabulky, která tvoří přílohu č. 32c tohoto zápisu, z důvodu realizace
+            Programu III - Aktivity v oblasti drog a závislostí v roce 2025.
+
+
+
+
+                                          Strana 16 z 53
+38. Poskytnutí neinvestičních dotací na rok 2025 z Programu IV - Prevence kriminality -
+    rozpočtové opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 40:    46 - 0 - 5 - 0
+
+    Schválené usnesení:
+    ZMB schvaluje
+
+        •   poskytnutí neinvestičních dotací na rok 2025 z Programu IV - Prevence kriminality v celkové
+            výši 3 900 tis. Kč z rozpočtu města Brna na rok 2025 podle "Návrhu na poskytnutí
+            neinvestičních dotací z rozpočtu města Brna na rok 2025 Program IV - Prevence
+            kriminality", který tvoří přílohu č. 33a tohoto zápisu,
+        •   uzavření smluv o poskytnutí neinvestiční dotace z rozpočtu města Brna na rok 2025 dle
+            vzorové "Smlouvy o poskytnutí neinvestiční dotace z rozpočtu města Brna na rok 2025",
+            která tvoří přílohu č. 33b tohoto zápisu,
+            Ověřené přílohy jsou uloženy na Organizačním odboru MMB.
+
+        •   rozpočtové opatření dle tabulky, která tvoří přílohu č. 33c tohoto zápisu, z důvodu realizace
+            Programu IV - Prevence kriminality v roce 2025.
+
+39. Poskytnutí neinvestičních dotací v rámci Programu II pro rok 2025 - projekty nestátních
+    neziskových organizací v sociální oblasti, které vhodným způsobem navazují na sociální
+    služby - rozpočtové opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 41:    49 - 0 - 0 - 2
+
+    Schválené usnesení:
+    ZMB schvaluje
+
+        1. poskytnutí neinvestičních dotací nestátním neziskovým organizacím, které vhodným
+           způsobem navazují na sociální služby nebo je doplňují v celkové výši 8 600 tis. Kč
+           z rozpočtu města Brna na rok 2025 uvedeným v tabulce „Návrh dotací PROGRAM II
+           Aktivity v sociální oblasti pro rok 2025 dle témat / abecedně NNO", která tvoří přílohu č. 34a
+           tohoto zápisu,
+           Ověřená příloha je uložena na Organizačním odboru MMB.
+
+       2. rozpočtové opatření dle tabulky, která tvoří přílohu č. 34b tohoto zápisu, spočívající v
+           přesunu finančních prostředků v rozpočtu města Brna na rok 2025, v souladu
+           s rozpočtovou skladbou v závislosti na právní formě subjektů, kterým je dotace
+           poskytována,
+       3. uzavření smluv o poskytnutí neinvestičních dotací schválených dle bodu 1. dle vzorové
+           "Smlouvy o poskytnutí neinvestiční dotace z rozpočtu města Brna“, která tvoří přílohu č.
+           34c tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+40. Poskytnutí účelových neinvestičních příspěvků základním školám na mezinárodní projekty
+    v roce 2025 - rozpočtové opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 42:    50 - 0 - 0 - 1
+
+    Schválené usnesení:
+    ZMB schvaluje
+       1) poskytnutí účelových neinvestičních příspěvků zřízeným příspěvkovým organizacím v
+           celkové výši 452 tis. Kč z rozpočtu města Brna na rok 2025, dle tabulky „Žadatelé o
+           příspěvek na mezinárodní projekty v roce 2025“, která tvoří přílohu č. 35a tohoto zápisu s
+
+
+                                          Strana 17 z 53
+            tím, že organizace jsou povinny poskytnutý příspěvek finančně vypořádat Odboru školství
+            a mládeže MMB do 25. ledna 2026,
+            Ověřená příloha je uložena na Organizačním odboru MMB.
+
+        2) rozpočtové opatření dle tabulky, která tvoří přílohu č. 35b tohoto zápisu z důvodu poskytnutí
+           příspěvku zřízeným příspěvkovým organizacím na mezinárodní projekty.
+
+41. Poskytnutí dotací na podporu aktivit k oživení ploch veřejné zeleně ve městě Brně
+    v roce 2025 - „Vnitroblok“, vzorové podmínky pro uzavření veřejnoprávních smluv
+    o poskytnutí dotace z rozpočtu města Brna, rozpočtové opatření
+
+    RNDr. Filip Chvátal, Ph.D., náměstek primátorky - nahlásil střet zájmů k bodu 41).
+
+    K hlasování o návrhu usnesení k bodu 41) bylo přistoupeno bez rozpravy:
+           Hlasování č. 43:    51 - 0 - 0 - 0
+
+    Schválené usnesení:
+    ZMB schvaluje
+       - poskytnutí neinvestičních dotací na podporu aktivit k oživení ploch veřejné zeleně ve městě
+           Brně v roce 2025 v celkové výši 3 693 000 Kč, dle přehledu navržených dotací uvedených
+           v tabulce „Přehled podaných žádostí o dotaci na podporu oživení zeleně ve vnitroblocích
+           ve městě Brně v roce 2025“, která tvoří přílohu č. 36a tohoto zápisu,
+           Ověřená příloha je uložena na Organizačním odboru MMB.
+
+        -   rozpočtové opatření dle tabulky, která tvoří přílohu č. 36b tohoto zápisu,
+
+        -  uzavření veřejnoprávních smluv o poskytnutí dotace z rozpočtu města Brna s žadateli
+           uvedenými v tabulce „Přehled podaných žádostí o dotaci na podporu oživení zeleně ve
+           vnitroblocích ve městě Brně v roce 2025“ dle vzorových podmínek pro uzavření
+           veřejnoprávních smluv o poskytnutí dotace z rozpočtu města Brna v rámci dotačního
+           programu „Podpora oživení zeleně ve vnitroblocích ve městě Brně“, které tvoří přílohu č.
+           36c tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+42. Poskytnutí investičních dotací v rámci dotačního programu Podpora vytváření zelených
+    střech
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 44:    45 - 4 - 1 - 1
+
+    Schválené usnesení:
+    ZMB schvaluje
+       - poskytnutí investičních dotací z rozpočtu města Brna v celkové výši 3 101 000 Kč
+           přislíbených dle programových výzev za roky 2023 a 2024, dle přehledu navržených dotací
+           v tabulce Přehled řádně podaných žádostí o vypořádání dotace v rámci dotačního
+           programu "Podpora vytváření zelených střech ", která tvoří přílohu č. 37 tohoto zápisu,
+           Ověřená příloha je uložena na Organizačním odboru MMB.
+
+        -   uzavření veřejnoprávních smluv o poskytnutí dotace z rozpočtu města Brna s žadateli
+            uvedenými v tabulce Přehled řádně podaných žádostí o vypořádání dotace v
+            rámci dotačního programu "Podpora vytváření zelených střech" z programových výzev za
+            rok 2023 a 2024 dle aktualizované vzorové veřejnoprávní smlouvy o poskytnutí dotace z
+            rozpočtu města Brna v rámci dotačního programu "Podpora vytváření zelených střech"
+            schválené na Z9/23. zasedání Zastupitelstva města Brna konaném dne 28.01.2025.
+
+
+
+
+                                          Strana 18 z 53
+43. Poskytnutí investičního příspěvku Domovu pro seniory Věstonická, příspěvkové organizaci
+    - rozpočtové opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 45:    50 - 0 - 0 - 1
+
+    Schválené usnesení:
+    ZMB schvaluje
+
+        •   poskytnutí investičního příspěvku Domovu pro seniory Věstonická, příspěvkové organizaci,
+            na akci „Rekonstrukce rozvodny vysokého napětí - Domov pro seniory Věstonická, p.o.“ ve
+            výši 1 500 tis. Kč, s termínem vyúčtování do 31. 1. 2026,
+        •   rozpočtové opatření dle tabulky, která tvoří přílohu č. 38 tohoto zápisu, z důvodu zapojení
+            Fondu rezerv a rozvoje v souvislosti s poskytnutím investičního příspěvku na akci
+            "Rekonstrukce rozvodny vysokého napětí - Domov pro seniory Věstonická, p.o.“
+
+44. Poskytnutí finančních podílů z rozpočtu města Brna na projekty prevence kriminality
+    v roce 2025 - rozpočtové opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 46:    49 - 0 - 0 - 3
+
+    Schválené usnesení:
+    1.ZMB schvaluje
+       - projekty prevence kriminality s finančním podílem z rozpočtu města Brna - Odboru sociální
+           péče MMB v roce 2025 ve výši 700 tis. Kč podle Přehledu financování projektů v roce 2025,
+           který tvoří přílohu č. 39a tohoto zápisu,
+       - poskytnutí neinvestičních příspěvků z rozpočtu města Brna zřízeným příspěvkovým
+           organizacím na projekty prevence kriminality v roce 2025 dle vzorového Protokolu o
+           poskytnutí finančního podílu z rozpočtu města Brna - Odboru sociální péče MMB na projekt
+           prevence kriminality v roce 2025, který tvoří přílohu č. 39b tohoto zápisu (dále jen protokol),
+       1. Zoo Brno a stanice zájmových činností, příspěvková organizace ve výši 70 tis. Kč
+       2. DROM, romské středisko ve výši 90 tis. Kč s termínem vyúčtování do 31. 1. 2026,
+       - poskytnutí finančního daru České republice – Krajskému ředitelství policie Jihomoravského
+           kraje ve výši 130 tis. Kč na dva projekty prevence kriminality v roce 2025 dle Darovací
+           smlouvy, která tvoří přílohu č. 39c tohoto zápisu,
+    Ověřené přílohy jsou uloženy na Organizačním odboru MMB.
+
+        -   rozpočtové opatření dle tabulky, která tvoří přílohu č. 39d tohoto zápisu.
+
+    2.ZMB pověřuje
+       - vedoucího Odboru sociální péče Magistrátu města Brna podpisem protokolu a Darovací
+           smlouvy.
+
+45. Projekty financované z Fondu kofinancování projektů - březen 2025 - rozpočtové opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 47:    51 - 0 - 0 - 1
+
+    Schválené usnesení:
+    ZMB schvaluje
+       - zařazení projektu ORG 5566 „Stavební úpravy MŠ Marie Majerové“ s celkovými náklady
+           ve výši 20 495 tis. Kč (z toho kapitálové výdaje 18 011 tis. Kč a běžné výdaje 2 484 tis. Kč)
+           a dobou realizace 2025–2026 do rozpočtu kapitálových a běžných výdajů města Brna,
+       - zařazení projektu ORG 5567 „Rekonstrukce parkové plochy u ZŠ Jana Babáka“ s
+           celkovými náklady ve výši 19 995 tis. Kč (z toho kapitálové výdaje 6 282 tis. Kč a běžné
+           výdaje 13 713 tis. Kč) a dobou realizace 2025–2026 do rozpočtu kapitálových a běžných
+           výdajů města Brna,
+
+
+                                          Strana 19 z 53
+        -  poskytnutí bezúročné finanční zápůjčky ve výši 2 483 469,00 Kč z rozpočtu města Brna
+           městské části Brno-sever za účelem realizace projektu „Stavební úpravy MŠ Marie
+           Majerové“ za stanovených podmínek, které tvoří přílohu č. 40a tohoto zápisu,
+       - poskytnutí investičního transferu (spoluúčasti) z rozpočtu města Brna ve výši 18 010 038,00
+           Kč městské části Brno-sever v rámci projektu „Stavební úpravy MŠ Marie Majerové“ s
+           termínem vyúčtování do 31. 3. 2027, přičemž v roce 2025 bude městské části Brno-sever
+           poskytnuta částka ve výši 10 000 000,00 Kč a v roce 2026 bude poskytnuta částka
+           8 010 038,00 Kč,
+       - poskytnutí bezúročné finanční zápůjčky ve výši 13 712 918,53 Kč z rozpočtu města Brna
+           městské části Brno-Žabovřesky za účelem realizace projektu „Rekonstrukce parkové
+           plochy u ZŠ Jana Babáka“ za stanovených podmínek, které tvoří přílohu č. 40b tohoto
+           zápisu,
+    Ověřené přílohy jsou uloženy na Organizačním odboru MMB.
+
+        -   rozpočtové opatření dle tabulky, která tvoří přílohu č. 40c tohoto zápisu, za účelem
+            poskytnutí bezúročné finanční zápůjčky a investičního transferu městské části Brno-sever
+            a poskytnutí bezúročné finanční zápůjčky městské části Brno-Žabovřesky.
+
+46. Finanční prostředky Fondu kofinancování projektů - březen 2025 - rozpočtová opatření
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 48:    45 - 0 - 4 - 3
+
+    Schválené usnesení:
+    ZMB schvaluje
+       - rozpočtové opatření I dle tabulky, která tvoří přílohu č. 41a tohoto zápisu, za účelem
+           zapojení Fondu kofinancování projektů,
+       - rozpočtové opatření II dle tabulky, která tvoří přílohu č. 41b tohoto zápisu, za účelem přijetí
+           první části finanční spoluúčasti na projektu „Zlepšení podmínek pro vyučování
+           přírodovědných předmětů v ZŠ Brno, Vedlejší 10“ od městské části Brno-Bohunice.
+
+47. Projekt „Bosonožské náměstí - úprava veřejného prostranství“ - rozhodnutí o poskytnutí
+    dotace
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 49:    51 - 0 - 0 - 1
+
+    Schválené usnesení:
+    1.ZMB bere na vědomí
+    rozhodnutí o poskytnutí dotace Ministerstva pro místní rozvoj v rámci Integrovaného regionálního
+    operačního programu na projekt "Bosonožské náměstí – úprava veřejného prostranství".
+
+    2.ZMB souhlasí
+    s podmínkami rozhodnutí o poskytnutí dotace z Integrovaného regionálního operačního programu
+    na projekt "Bosonožské náměstí – úprava veřejného prostranství", které jsou nedílnou součástí
+    rozhodnutí o poskytnutí dotace. Rozhodnutí o poskytnutí dotace vč. podmínek tvoří přílohu č. 42
+    tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+    3.ZMB pověřuje
+    na základě čl. 3.2.3 Metodiky implementace projektů (spolu)financovatelných z evropských fondů
+    a národních programů Radu města Brna souhlasem se změnovými rozhodnutími, která budou
+    v budoucnu vydávána k rozhodnutí o poskytnutí dotace na projekt "Bosonožské náměstí – úprava
+    veřejného prostranství".
+
+    ***
+    4.ZMB ukládá Radě města Brna předložit Zastupitelstvu města Brna závěrečné vyúčtování
+    projektu "Bosonožské náměstí – úprava veřejného prostranství".
+    ***
+
+
+                                          Strana 20 z 53
+    úkol č.: [Z9/25/47]
+    zodpovídá: RMB [29]
+    termín: [po ukončení projektu]
+
+49. Uzavření dohody o splátkách dluhu z nájmu sociálního bytu v domě Vlhká 22, Brno
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 50:    47 - 0 - 5 - 0
+
+    Schválené usnesení:
+    1.ZMB bere na vědomí
+       - žádost XXXXXXXX XXXXXXXX XXXX XXXX, ze dne 29.01.2025 o povolení splátkového
+           kalendáře na úhradu dluhu vyplývajícího z nájmu sociálního bytu XX X v domě Vlhká 22 v
+           Brně,
+       - skutečnost, že XXXXXXX XXXXXXX XXXX XXXX, porušil Dohodu o splátkách dluhu
+           uzavřenou dne 26.09.2024 a dluh ve výši 37.889 Kč se stal splatným.
+
+    2.ZMB schvaluje
+       - uzavření Dohody o splátkách dluhu na nájemném, zálohách na služby a na bezdůvodném
+           obohacení za bezesmluvní užívání bytu, který ke dni 06.02.2025 činí 60.377 Kč, k bytu XX
+           X v domě Vlhká 22 v Brně, s XXXXXXXXX XXXXXXXXX XXXX XXXX, za podmínek, že:
+       - výše dluhu a počet splátek budou aktualizovány ke dni uzavření dohody o splátkách dluhu,
+       - dohoda bude uzavřena nejpozději do 30.04.2025.
+    Dohoda o splátkách dluhu tvoří přílohu č. 43 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+    3.ZMB pověřuje
+    vedoucí Bytového odboru Magistrátu města Brna doplněním výše uvedených údajů do dohody o
+    splátkách dluhu a podpisem dohody o splátkách dluhu.
+
+50. Vypořádání dotované družstevní výstavby v k. ú. Sadová s Bytovým družstvem Hamerláky,
+    adresný záměr bezúplatného převodu spoluvlastnických podílů na 44 bytových jednotkách
+    v bytových domech Kociánka, č. p. 62 a 63, v k. ú. Sadová
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 51:    51 - 0 - 0 - 0
+
+    Schválené usnesení:
+    1.ZMB schvaluje
+       - dohodu bytových spoluvlastníků o změně prohlášení vlastníka, dohodu o bezúplatném
+           převodu spoluvlastnických podílů na nemovitostech, smlouvu o zřízení služebností č.
+           6225110073 mezi statutárním městem Brnem, Bytovým družstvem Hamerláky, se
+           sídlem Kociánka 62/20, Sadová, 612 00 Brno, IČO: 25586904, (dále jen "Družstvo") a
+           dalšími bytovými spoluvlastníky zapsanými v katastru nemovitostí Katastrálním úřadem pro
+           Jihomoravský kraj na listu vlastnictví č. 675 pro k.ú. Sadová, obec Brno, okres Brno-město,
+       - dohodu bytových spoluvlastníků o změně prohlášení vlastníka, dohodu o bezúplatném
+           převodu spoluvlastnických podílů na nemovitostech, smlouvy o zřízení služebnosti č.
+           6225110079 mezi statutárním městem Brnem, Družstvem, dalšími bytovými spoluvlastníky
+           zapsanými v katastru nemovitostí Katastrálním úřadem pro Jihomoravský kraj na listu
+           vlastnictví č. 674 pro k.ú. Sadová, obec Brno, okres Brno-město a společností Brněnské
+           vodárny a kanalizace, a.s., se sídlem Pisárecká 555/1a, Pisárky, 603 00 Brno, IČO:
+           46347275,
+           dále jen "Dohody", které tvoří přílohu č. 44a tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+    2.ZMB pověřuje
+    vedoucí Bytového odboru MMB podpisem Dohod;
+
+
+
+                                         Strana 21 z 53
+    3.ZMB schvaluje
+    adresný záměr bezúplatného převodu spoluvlastnických podílů na 44 bytových jednotkách
+    vymezených dle zákona č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k
+    budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony
+    (zákon o vlastnictví bytů), ve vlastnictví statutárního města Brna v bytových domech
+        - č.p. 62 stojícím na pozemku p.č. 264/5, spolu se spoluvlastnickými podíly na budově č.
+             p. 62 a na pozemcích p.č. 264/5 a p.č. 264/21 (budoucí nově vzniklý pozemek dle
+             geometrického plánu č. 1194-187a/2023),
+        - č.p. 63 stojící na pozemku p.č. 264/4, spolu se spoluvlastnickými podíly na budově č.p. 63
+             a na pozemcích p.č. 264/4 a p.č. 264/10 (budoucí nově vzniklý pozemek dle
+             geometrického plánu č. 1194-187a/2023),
+    vše v k.ú. Sadová, obec Brno, okres Brno-město, dle budoucího stavu po zápisu Dohod do katastru
+    nemovitostí, nájemcům-členům Družstva, jejichž členství v Družstvu není sporné;
+
+    ***
+    4.ZMB ukládá Radě města Brna zajistit zveřejnění adresného záměru bezúplatného převodu
+    spoluvlastnických podílů statutárního města Brna na 44 bytových jednotkách dle § 39 odst. 1
+    zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, v souladu s
+    přijatým usnesením.
+    ***
+    úkol č.: [Z9/25/50]
+    zodpovídá: RMB [29]
+    termín: [bezodkladně]
+
+
+    5.ZMB bere na vědomí
+    cenu obvyklou bezúplatně převáděných podílů na bytových jednotkách ve vlastnictví statutárního
+    města Brna na nájemce - členy Družstva ve výši 129 728 000 Kč;
+
+    6.ZMB schvaluje
+    odůvodnění odchylky od ceny obvyklé bezúplatného převodu podílů na bytových jednotkách na
+    nájemce-členy Bytového družstva Hamerláky, které tvoří přílohu č. 44b tohoto zápisu;
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+    7.ZMB schvaluje
+    podmínku narovnání s Družstvem a nájemci-členy tohoto Družstva se závazkem budoucího
+    převodu podílu města na bytových jednotkách na nájemce-členy Družstva, kterou se každý
+    nájemce-člen Družstva jako nabyvatel podílu na bytové jednotce zaváže, že
+
+        •   bytová jednotka bude sloužit po dobu 5 let od uzavření dohody o narovnání pro potřeby
+            bytového fondu k trvalému bydlení, nikoli k podnikání, a že pro případ každého
+            následujícího převodu vlastnictví k předmětné bytové jednotce v uvedené době zaváže
+            nabyvatele bytové jednotky touto povinností,
+        •   čestně prohlásí, že není příjemcem veřejné podpory.
+
+51. Záměr prodeje volné vymezené bytové jednotky v domovním celku Hlinky 25/Výstavní 24,
+    Brno
+
+            Hlasování č. 52:     Neplatné hlasování
+
+    Bc. Tomáš Koláčný - s omluvou požádal o nové hlasování.
+
+    JUDr. Markéta Vaňková, primátorka - prohlásila hlasování za zmatečné a přistoupila k opětovnému
+    hlasování o přijetí usnesení k bodu 51).
+
+    K hlasování o návrhu usnesení k bodu 51) bylo přistoupeno bez rozpravy:
+           Hlasování č. 53:    45 - 0 - 6 - 0
+
+
+
+
+                                        Strana 22 z 53
+    Schválené usnesení:
+    ZMB schvaluje
+    záměr prodeje volné vymezené bytové jednotky č. 284/2 – byt, vymezené podle zákona č. 72/1994
+    Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy
+    k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů), v budově č.p.
+    284, č.p. 285 na ulici Hlinky 25/Výstavní 24, Brno, postavené na pozemcích p.č. 780 - zastavěná
+    plocha a nádvoří o výměře 517 m² a p.č. 782 - zastavěná plocha a nádvoří o výměře 349 m², včetně
+    příslušného spoluvlastnického podílu na společných částech budovy č.p. 284, č.p. 285 a
+    spoluvlastnického podílu na pozemcích p.č. 780 - zastavěná plocha a nádvoří o výměře 517 m² a
+    p.č. 782 - zastavěná plocha a nádvoří o výměře 349 m², vše o velikosti id. 832/24828, vše k.ú. Staré
+    Brno, obec Brno, okres Brno-město, formou dražby dle zákona č. 250/2023 Sb., o veřejných
+    dražbách.
+
+52. Zpeněžení-prodej pozemku p. č. 544, jehož součástí je rodinný dům Heinrichova 4
+    a spoluvlastnický podíl o velikosti 2/3 na pozemku p. č. 543/1, vše v k. ú. Stránice, ve veřejné
+    elektronické dražbě
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 54:    44 - 0 - 6 - 1
+
+    Schválené usnesení:
+    ZMB schvaluje
+    zpeněžení-prodej:
+     - pozemku p.č. 544 zastavěná plocha a nádvoří o výměře 223 m² jehož součástí je stavba
+    Heinrichova č.or. 4/č.p. 192, rodinný dům,
+     - spoluvlastnického podílu o velikosti 2/3 na pozemku p.č. 543/1 zahrada o výměře 375 m²
+    vše v k.ú. Stránice
+    ve veřejné elektronické dražbě podle zákona č. 250/2023 Sb., o veřejných dražbách, v platném
+    znění, zajišťované prostřednictvím společnosti Realitní společnost města Brna a.s., IČO: 07379161,
+    se sídlem Panská 361/13, Brno-město, 602 00 Brno, za těchto podmínek, zejména:
+     - vyvolávací cena bude stanovena na základě znaleckého posudku za cenu obvyklou ve výši
+    36.292.000 Kč
+     - lhůta pro uhrazení ceny dosažené vydražením 30 dnů ode dne udělení příklepu
+     - odměna dražebníka činí 1,5 % z ceny dosažené vydražením, nejméně však 35.000 Kč bez DPH
+    a nejvýše 5.000.000 Kč bez DPH
+     - dražební jistota 3.000.000 Kč
+     - minimální příhoz 50.000 Kč.
+
+53. Prodej pozemku p. č. 346 v k. ú. Slatina
+
+    JUDr. Markéta Vaňková, primátorka - navrhla společné hlasování o bodech 53) - 60) týkajících se
+    prodejů pozemků a částí pozemků.
+
+    Bc. Tomáš Koláčný - požádal o samostatné hlasování o bodu 58).
+
+    Leoš Prokeš, MBA - požádal o samostatné hlasování o bodech 57) a 59).
+
+    JUDr. Markéta Vaňková, primátorka - přistoupila ke společnému projednání bodů 53) - 56).
+
+    K hlasování o návrzích usnesení k bodům 53) - 56) bylo přistoupeno bez rozpravy:
+           Hlasování č. 55:     50 - 0 - 0 - 1
+
+    Schválené usnesení:
+    ZMB schvaluje
+    prodej
+    pozemku p.č. 346 zastavěná plocha a nádvoří o výměře 90 m² v k.ú. Slatina
+    XXXXXXXX XXXXXXX XXXXXXX X XXXX XXXXXXX za dohodnutou kupní cenu 317.000 Kč a za
+    podmínek kupní smlouvy, která tvoří přílohu č. 45 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+
+
+
+                                          Strana 23 z 53
+54. Prodej pozemku p. č. 824 v k. ú. Slatina
+
+    Schválené usnesení:
+    ZMB schvaluje
+    prodej
+    pozemku p.č. 824 zastavěná plocha a nádvoří o výměře 18 m² v k.ú. Slatina
+    XXXXXX XXXXXXX za dohodnutou kupní cenu 92.000 Kč a za podmínek kupní smlouvy, která
+    tvoří přílohu č. 46 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+55. Prodej pozemku p. č. 3602/19, k. ú. Líšeň
+
+    Schválené usnesení:
+    ZMB schvaluje
+    prodej pozemku p.č. 3602/19 – zastavěná plocha a nádvoří o výměře 19 m² k.ú. Líšeň XXXXX
+    XXXXXX za dohodnutou kupní cenu ve výši 70 400 Kč a za podmínek uvedených v kupní smlouvě,
+    která tvoří přílohu č. 47 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+56. Prodej pozemku p. č. 2457/2 v k. ú. Královo Pole
+
+    Schválené usnesení:
+    1.ZMB bere na vědomí
+    žádost XXXXXXX XXXX XXXXX XXXXXXXX XXXXXXXXXX X XXXXX XXXXXXX
+    XXXXXXXXXXXX o prodej pozemku p.č. 2457/2 zahrada o výměře 82 m² v k.ú. Královo Pole.
+
+    2.ZMB schvaluje
+    prodej pozemku p.č. 2457/2 zahrada o výměře 82 m² v k.ú. Královo Pole XXXXXXXX XXXX XXXXX
+    XXXXXXXX XXXXXXXXXX X XXXXX XXXXXXX XXXXXXXXXXXX za dohodnutou kupní cenu ve
+    výši 617.000,- Kč (7.500,- Kč/m² + 2.000,- Kč správní poplatek) a za podmínek kupní smlouvy, která
+    tvoří přílohu č. 48 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+57. Prodej pozemku p. č. 616/8 v k. ú. Město Brno a zřízení služebnosti veřejného statku
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 56:    43 - 3 - 4 - 1
+
+    Schválené usnesení:
+    ZMB schvaluje
+
+        •   prodej pozemku p.č. 616/8 ostatní plocha, jiná plocha, o výměře 57 m² v k.ú. Město Brno
+            do vlastnictví společnosti HIB DEVELOPMENT a.s., IČO: 06706681 se sídlem Husova
+            200/16, Brno-město, 602 00 Brno za dohodnutou kupní cenu ve výši 1 082 000 Kč,
+        •   zřízení služebnosti veřejného statku, spočívající v bezplatném obecném užívání části
+            pozemku p.č. 616/8 v k.ú. Město Brno v rozsahu dle geometrického plánu č. 996-96/2025,
+            ve prospěch statutárního města Brna, jako oprávněného ze služebnosti, na dobu neurčitou
+            a bezplatně,
+
+    a za podmínek kupní smlouvy a smlouvy o zřízení služebnosti veřejného statku, která tvoří přílohu
+    č. 49 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+58. Prodej pozemků p. č. 718, p. č. 720, jehož součástí je bytový dům Dornych 31, a p. č. 721,
+    jehož součástí je bytový dům Dornych 29, vše v k. ú. Trnitá
+
+    Rozprava
+
+    Bc. Jiří Kment:
+    Já jsem se chtěl zeptat, proč tadyvtom bodě nebylo zvolena forma aukce, i když teda je pravda, že
+    to chce ten jeden, konkrétní developer, protože i ty odhady byly velmi rozdílné, takže při tom přímém
+
+
+                                          Strana 24 z 53
+prodeji, fakticky 40 bytů, v opravených domech, je nebezpečí, že město prostě nedostane
+maximum, které by dostat mohlo. Jak jsme třeba viděli, když se prodával dům na Milady Horákové,
+jak vlastně díky té aukci ta cena vzrostla. Takže čekal bych to i tady.
+
+JUDr. Jiří Oliva, člen Rady města Brna:
+Zákon nám samozřejmě nepřikazuje, abychom prodávali ve veřejné dražbě, my se snažíme tam,
+kde to je aspoň trošku rozumné, tak v té dražbě, tak jít cestou veřejné dražby. Tadytohleto není
+úplně ten případ. Protože, jestli to tam dobře znáte, tak to je v podstatě přestavbové území.
+Developer, CTP, tam, tadytento brownfield, tak to skončím, byl brownfield, že jo, ta Vlněna, tak tam
+podstavil v podstatě nové objekty, které jsou pěkné, slou, moderní, slouží tomu účelu, a v podstatě
+tadyzté zanedbané části města Brna tak tvoří víceméně výstavní čtvrť. No, a tím, jak se tá čtvrť
+proměňuje, tak v podstatě tadytyhlety domy jsou tam, nechci říct, už trošičku jako pěst na oko, ale,
+ale nezapadají do toho celkového konceptu. Takže, už před, myslím, 4 roky vlastně ten developer
+požádal, aby mohl koupit ty domy za účelem toho, aby je zboural a v podstatě pokračoval v té
+revitalizaci toho celého území, s tím, že pokud bychom prodávali, nikoli napřímo, tak by samozřejmě
+existovalo určité, nechci říct riziko, ale určitá pravděpodobnost toho, že by to koupil někdo, kdo by,
+někdo jiný, kdo by vlastně ty domy tam zachoval. Což právě tadyvtomhletom případě není úplně
+ten účel. Takže, a já teda jako nejsem jako samozřejmě nadšený z toho, že se to neprodává
+v dražbě, já ty dražby mám rád a preferuji je, takže jsem měl jednání s CTP, kde jsem tedy, kde
+jsem tedy navrhl ten postup, aby se zpracovaly 2 znalecké posudky a prodávalo se to za cenu toho
+vyššího, jo? Abysme měli skutečně jistotu, že prodáváme dobře. Protože je to docela, docela
+podstatná, velik, velká majetková transakce. Mimochodem, obdobný postup jsme zvolili v té velké
+transakci, v té velké směně na Černovické terase, v té lokalitě Pískovny, která tady byla
+před nedávnem v zastupitelstvu. No, a skutečně tedy došlo k tomu, že jsme nechali zpracovat ty
+2 znalecké posudky, přičemž vidíte v tom ten obrovský rozdíl, jo? To jsme fakt nečekali.
+Pan Ing. Janas, 134, něco, ten 2. posudek, 225, bez daně, jo? Bez DPH, to je ještě potřeba říct.
+Takže, takže ta cena, ta cena toho 2. znaleckého posudku, kterou tedy opravdu nikdo nečekal, jo,
+tak je docela značná. A spíš musím říct, že se divím společnosti CTP, že to za tu cenu chce koupit,
+ale oni mají takovou politiku, takže z hlediska té ceny je to pro město, si myslím, docela, velmi,
+velmi výhodný obchod. A je potřeba říct, že když odečteme, ze Statutu, co se dává městské části,
+těch 20 %, to jsme schvalovali na minulém zastupitelstvu, tak těch 80 % výtěžku půjde do Fondu
+bytové výstavby, kterému to velmi pomůže. A budou tedy jako účelově tadyty prostředky z toho
+prodeje určeny pro bytovou výstavbu města Brna, nebo rekonstrukce, prostě pro to, co je Fond
+bytové výstavby určen, jo? Takže to mě, to mě naplňuje klidem a optimismem tadyvtomhletom
+materiálu. A eště, možná jako na dokreslení, ten záměr byl zveřejněn na úřední desce
+a na Majetkový odbor skutečně se obrátilo několik, několik osob, nevím, jestli fyzické, nebo
+právnické osoby, s dotazem na cenu, za kolik jako by se to prodávalo, že by o to měly zájem.
+Ale ve chvíli, kdy jim byla sdělena tá cena, 225.000.000, tak už se nikdo neozval, jo? Takže,
+opravdu, myslím si, že ani kdybysme to prodávali v té dražbě, tak bysme prostě vyšší cenu určitě
+tadyvtomhletom případě, kon, v tomhletom konkrétním případě nedostali.
+
+JUDr. Markéta Vaňková, primátorka:
+Pan zastupitel K, jo, Lahoda byl první.
+
+Mgr. Marek Lahoda:
+Slyšíme se?
+
+JUDr. Markéta Vaňková, primátorka:
+Ano.
+
+Mgr. Marek Lahoda:
+Já se chci zeptat, jestli má město už s developerem uzavřenou nějakou smlouvu, potažmo jestli
+na něj bude mít nějaké jiné páky, aby tam CTP opět vytvořilo byty? Protože podle územního plánu
+je to vlastně oblast pro smíšené bydlení, ale jak víme, tak v těch objektech, které už tam dneska
+existují, tak byty nejsou, pokud vím, prakticky žádné, nebo je jich tam opravdu minimum.
+
+JUDr. Jiří Oliva, člen Rady města Brna:
+Tak pokud vím, v té lokalitě byty vznikají, možná, jestli je tady už pan ředitel Dospěl, z CTP, kterého
+jsem zval na projednání, aby otázky tohoto typu mohl zodpovědět on? Akorát já jsem mu taky říkal,
+aby přišel až tak v 10 hod., co jsem fakt nepočítal s tím, že to nabere takové ostré tempo, to
+zastupitelstvo, dneska. To, co tam vznikne, je dáno územním plánem, jo? Pokud bysme, pokud
+bysme kupujícího chtěli zavazovat nad rámec obecně územně plánovacích dokumentací, územní
+
+
+                                       Strana 25 z 53
+plán, územní studie, ale tá tadyvtomto, v této lokalitě, mám pocit, není, tak by to spadalo už
+do jiného režimu prodeje, a to pravděpodobně koncese. Takže to, co tam vznikne, je dáno územním
+plánem. A, jak říkám, v té lokalitě ten developer staví nejenom kanceláře, ale staví tam i byty, pokud
+vím, jo? Ale říkám, až přijde, jestli to stihne, pan Ing. Dospěl, tak asi by o tom řekl víc.
+
+JUDr. Markéta Vaňková, primátorka:
+Mezitím tedy, třeba nám dojde, pan Dospěl, ale teď tady není, tak pan zastupitel Koláčný.
+
+Bc. Tomáš Koláčný:
+Já bych si dovolil jenom připomenout čísla z té Milady a důvod, proč se domnívám, že skutečně
+prodej napřímu není nejšťastnější cestou. Protože tehdy ten znalecký posudek byl na nějakých
+29.000.000, ale prodalo se to za 131.000.000. To znamená za 450, a něco navíc, procent tý
+odhadní částky. A kdybychom se stejnou optikou koukali i na tadytydlencty budovy, tak by město
+mohlo, oproti tomu znalečáku, utržit o nějaké ¾ miliardy více peněz. To znamená, nemyslím si, že
+je šťastné prodávat napřímo. Samozřejmě, CTP se může případné do té dražby zapojit a není nic
+proti ničemu, pokud bude přihazovat, a z pohledu města, pokud bude přihazovat co nejvíce.
+To znamená, já bych skutečně apeloval na kolegu Olivu, aby tadytudlenctu cestu zvážil, protože
+se, i historickou optikou, ukazuje jako šťastnější a pro město výhodnější.
+
+JUDr. Markéta Vaňková, primátorka:
+Opět pan radní Oliva, s reakcí.
+
+JUDr. Jiří Oliva, člen Rady města Brna:
+Ne, já tomu rozumím, říkám, já jsem fakt příznivce těch dražeb. Musím říct, že zase tadytohleto, tu
+dražbu té Milady Horákové, co vzpomínáš, tak z té celé, dlouhé řady dražeb, které už tady proběhly,
+tak je v podstatě exces, jo? Kde byl vopravdu tak veliký rozdíl mezi tou vyvolávací cenou,
+a na základě toho posudku tam bylo evidentní, že ten posudek byl podstřelený. A v té dražbě ten,
+ten vydražitel, co za to dal, tak když jsem se ptal jako na to, názor ostatních developerů, kteří tomu
+rozumějí, tak říkali, že to prostě přehnali, že to jako tu hodnotu nemá. Takže to bych nebral jako
+úplně nějaký referenční vzorek. Protože pak jsme dražili řadu dalších, obdobných objektů, tam, teď
+si, teď si nemůžu vzpomenout na tu ulici, nemůžu vzpomenout na tu, název ulice, ale to je jedno,
+prostě proběhl, proběhla celá řada jako dražeb obdobných objektů, kde naopak došlo k tomu, že,
+že v té 1. dražbě to nebylo prodáno, jo? Že to bylo prodáno až v opakované dražbě, že naopak ten
+posudek to přestřelil, jo? A těch, těch případů bylo docela dost, jo? To jsme měli na Hybešovu,
+na Hybešové, měli jsme to tady, na Pekařské, měli jsme to na té ulici, co si nemůžu vzpomenout
+ten její název, Vranovská, na Vranovské, jo? Takže, takže, říkám, ten, chápu tu argumentaci, ale
+ten případ té Milady Horákové je spíš výjimka potvrzující pravidlo.
+
+Mgr. Marek Lahoda:
+Děkuji za slovo a za odpověď pana Olivy, předtím. Já samozřejmě vím, že jsou stavebníci,
+developeři vázáni územním plánem, ale bohužel, jak se ukazuje, tak ti velcí developeři v tom asi
+umí nějak chodit a ten územní plán, řekněme, trochu obejít. Protože i v tom původním územním
+plánu bylo jo, bylo toto území určeno jako smíšené a měly tam prostě vzniknout byty v určitém
+podílu. A momentálně tam prostě jsou samé kanceláře. Takže já mám obavu z toho, aby tam
+nevznikly zase jenom další kanceláře, protože těch, si myslím, že máme už nedo, dostatek v Brně,
+zatímco těch bytů je opravdu nedostatek.
+
+Bc. Tomáš Koláčný:
+Já bych jenom dodal k tomu, co říkal Jirka Oliva, že jsou v Brně lokality zajímavé a lokality méně
+zajímavé. A tadytudlenctu lokalitu já, osobně, považuji za velmi zajímavou a domnívám se, že
+pokud by případní účastníci dražby tu částku přestřelili, tak to přece jako není ke škodě městu,
+na, spíše naopak. Takže jenom takové doplnění. A eště jednou tedy žádám o zvážení
+přehodnocení.
+
+Mgr. Jasna Flamiková:
+Já bych se chtěla přidat kolegům. Chtěla bych se zeptat pana Olivy, když se ten dům dá do dražby
+tadystouto částkou, čemu to brání? Pokud ten developer to chce, tak to za tudle částku koupí
+v dražbě, a zároveň to projde nějakou veřejnou kontrolou, že ta částka byla stanovená dobře.
+Pro město to je jenom dobře, protože v tom bude transparentnější.
+
+
+
+
+                                      Strana 26 z 53
+    JUDr. Jiří Oliva, člen Rady města Brna:
+    Tak, já, takhle, nebrání tomu nic, to je rozhodnutí tohoto zastupitelstva. To je rozhodnutí všech nás,
+    co tady jsme, jo? Takže je to, jak říkám, je to možnost legitimní, stejně legitimní možnost je ta, která
+    je navržena, to znamená přímý prodej tomu sousedovi, který, který celou tu lokalitu rozvíjí,
+    podle určitého konceptu. Á ten model toho, že byly zpracovány 2 znalecké posudky a prodává se
+    to za cenu vyššího, přičemž ten vyšší je významně vyšší, jo, významně vyšší oproti tomu druhému,
+    tak je legitimní. Připomínám, že skutečně není povinnost, není zákonná povinnost prodávat
+    v dražbách. My dem nad, v té transparentnosti, nad rámec zákona, jo? Takže, ale je to rozhodnutí
+    tohoto zastupitelstva, samozřejmě.
+
+    JUDr. Markéta Vaňková, primátorka:
+    V tuto chvíli nevidím nikoho jiného přihlášeného do diskuse, a pokud jsem poslouchala pečlivě, tak
+    neeviduji žádný protinávrh, oficiální, který by zde byl, nebo návrh jiného usnesení. Tak jenom se
+    ujišťuji, že tomu tak není, že někdo nechce, ze zastupitelů, předložit jiný návrh usnesení než ten,
+    který je v materiálu? Není tomu tak. Můžeme tedy přistoupit k hlasování o návrhu usnesení, tak jak
+    bylo navrženo. Zahajuji hlasování:
+             Hlasování č. 57:      38 - 10 - 2 - 1
+
+    Schválené usnesení:
+    ZMB schvaluje
+    prodej:
+
+        -   pozemku p.č. 718 zahrada o výměře 371 m²
+        -   pozemku p.č. 720 zastavěná plocha a nádvoří o výměře 1023 m², jehož součástí je stavba
+            Dornych č.or. 31/č.p.197, způsob využití bytový dům,
+        -   pozemku p.č. 721 zastavěná plocha a nádvoří o výměře 1463 m², jehož součástí je stavba
+            Dornych č.or. 29/č.p. 196, způsob využití bytový dům,
+
+    vše v k.ú. Trnitá společnosti CTP Vlněna Business Park, spol. s r.o., IČO:28139488, se sídlem
+    CTPark Humpolec 1571, 396 01 Humpolec, za dohodnutou cenu ve výši 225 002 000 Kč, tj.
+    zahrnující kupní cenu ve výši 225 000 000 Kč bez DPH a náklady statutárního města Brna spojené
+    s převodem ve výši 2000 Kč a za podmínek kupní smlouvy, která tvoří přílohu č. 50 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+59. Prodej části pozemku p. č. 498/2 v k. ú. Kohoutovice
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 58:    45 - 0 - 5 - 1
+
+    Schválené usnesení:
+    ZMB schvaluje
+    prodej části pozemku p.č. 498/2 zahrada o výměře 156 m² v k.ú. Kohoutovice (označené
+    geometrickým plánem č. 1700-355/2024 jako díl „a“, který se tímto geometrickým plánem slučuje
+    do pozemku p.č. 498/1 o výměře 262 m² v k.ú. Kohoutovice) XXXXX XXXXXXXXXX za dohodnutou
+    kupní cenu 610 400 Kč a za podmínek kupní smlouvy, která tvoří přílohu č. 51 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+60. Prodej částí pozemků p. č. 173/1 a p. č. 184/1, oba v k. ú. Zábrdovice
+
+    Rozprava
+
+    Petr Levíček, MBA:
+    Vážená paní primátorko, já bych si dovolil navrhnout sloučení bodů 60) - 73).
+
+    JUDr. Markéta Vaňková, primátorka:
+    Děkuji. Odpovid Vám, stejně jako jsem odpověděla některému jinému zastupiteli v, v minulém, nebo
+    předminulém, nebo nevím kterém jednání zastupitelstva, já budu navrhovat sloučení až k tomu
+    přijde ten vhodný čas. Tak. Teď jsme, prosím, v projednání bodu 60) a pojďme diskutovat
+    k bodu č. 60). Pokud není nikdo do diskuse přihlášený, tak pojďme hlasovat k bodu č. 60). Zahajuji
+    hlasování:
+            Hlasování č. 59:     50 - 0 - 0 - 1
+
+
+                                           Strana 27 z 53
+    Schválené usnesení:
+    ZMB schvaluje
+    prodej pozemků:
+        - část p.č. 173/1, ostatní plocha, ostatní komunikace, o výměře 39 m², oddělená
+            geometrickým plánem č. 1626-230/2024 a označená jako p.č. 173/4,
+        - část p.č. 184/1, zahrada, o výměře 130 m², oddělená geometrickým plánem č. 1626-
+            230/2024 a označená jako p.č. 184/3,
+
+    oba v k.ú. Zábrdovice kupujícímu XXXXXX XXXXXXXXXX za dohodnutou kupní cenu 2.459.508
+    Kč, která bude příjmem Fondu bytové výstavby, a za podmínek kupní smlouvy, která tvoří přílohu
+    č. 52 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+61. Uznání vlastnického práva k pozemku p. č. 5606 v k. ú. Královo Pole formou souhlasného
+    prohlášení
+
+    JUDr. Markéta Vaňková, primátorka - navrhla společně hlasovat o bodech 61) a 62) týkajících se
+    uznání vlastnického práva k pozemku a k části pozemku.
+
+    Bc. Tomáš Koláčný - požádal o samostatné hlasování o bodu 62).
+
+    JUDr. Markéta Vaňková, primátorka - přistoupila k projednání bodu 61).
+
+    K hlasování o návrhu usnesení k bodu 61) bylo přistoupeno bez rozpravy:
+           Hlasování č. 60:    50 - 0 - 0 - 1
+
+    Schválené usnesení:
+    1.ZMB souhlasí
+    s uznáním vlastnického práva XXXXXX XXXXXXXXX k pozemku p.č. 5606 ostatní plocha, jiná
+    plocha o výměře 63 m² v k.ú. Královo Pole, obec Brno.
+
+    2.ZMB schvaluje
+    souhlasné prohlášení dle ustanovení § 66 odst. 1 písm. a) vyhlášky Českého
+    úřadu zeměměřičského a katastrálního č. 357/2013 Sb. o katastru nemovitostí
+    (katastrální vyhláška), v platném znění, mezi statutárním městem Brnem a XXXXXXX
+    XXXXXXXXXX týkající se uznání vlastnického práva XXXXXX XXXXXXXXX vydržením dle
+    ustanovení § 1095 a násl. ve spojení s ustanovením § 3066 zákona č. 89/2012
+    Sb., občanský zákoník, v platném znění, k pozemku p.č. 5606 ostatní plocha, jiná plocha o
+    výměře 63 m² v k.ú. Královo Pole, obec Brno, a za podmínek uvedených v souhlasném prohlášení,
+    které tvoří přílohu č. 53 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+62. Uznání vlastnického práva k části pozemku p. č. 5230/9 v k. ú. Žabovřesky formou
+    souhlasného prohlášení
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 61:    45 - 0 - 5 - 1
+
+    Schválené usnesení:
+    1.ZMB bere na vědomí
+    argumentaci XXXX XXXXXXX XXXXXXXXXXX týkající se splnění podmínek mimořádného
+    vydržení vlastnického práva k části pozemku p.č. 5230/9 v k.ú. Žabovřesky, a to uznáním
+    vlastnického práva na základě souhlasného prohlášení dle vyhlášky Českého úřadu
+    zeměměřičského a katastrálního č. 357/2013 Sb., o katastru nemovitostí (katastrální vyhláška), v
+    platném znění.
+
+    2.ZMB souhlasí
+    s uznáním vlastnického práva XXXX XXXXXXX XXXXXXXXXXX k části pozemku p.č. 5230/9 v
+    k.ú. Žabovřesky, oddělené geometrickým plánem č. 3967-36/2025 a označené jako pozemek p.č.
+    5230/12 o výměře 90 m² v k.ú. Žabovřesky.
+
+
+
+                                        Strana 28 z 53
+    3.ZMB schvaluje
+    souhlasné prohlášení dle ustanovení § 66 odst. 1 písm. a) vyhlášky Českého úřadu
+    zeměměřičského a katastrálního č. 357/2013 Sb., o katastru nemovitostí (katastrální vyhláška), v
+    platném znění, mezi statutárním městem Brnem, na straně jedné, a XXXX XXXXXXXX
+    XXXXXXXXXXXX, na straně druhé, týkající se uznání vlastnického práva mimořádným vydržením
+    dle ustanovení § 1095 ve spojení s ustanovením § 3066 zákona č. 89/2012 Sb., občanský zákoník,
+    v platném znění, k části pozemku p.č. 5230/9 v k.ú. Žabovřesky, oddělené geometrickým plánem
+    č. 3967-36/2025 a označené jako pozemek p.č. 5230/12 o výměře 90 m² v k.ú. Žabovřesky a za
+    podmínek uvedených v souhlasném prohlášení, které tvoří přílohu č. 54 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+63. Nabytí vlastnického práva k pozemku p. č. 2712/246, v k. ú. Černovice, pro stavbu „Silnice
+    I/42 Brno, VMO MÚK Ostravská radiála“
+
+    JUDr. Markéta Vaňková, primátorka - navrhla společné hlasování o bodech 63) - 75) týkajících se
+    nabytí vlastnického práva k pozemkům a ke spoluvlastnickému podílu ve výši 1/8 pozemků,
+    pro stavby silnic, respektive nabytí pozemků, spoluvlastnických podílů na pozemcích a nabytí
+    komunikačních staveb.
+
+    JUDr. PhDr. Martin Příborský, EMLE - požádal o samostatné hlasování o bodu 73).
+
+    JUDr. Markéta Vaňková, primátorka - přistoupila ke společnému projednání bodů 63) - 72).
+
+    K hlasování o návrzích usnesení k bodům 63) - 72) bylo přistoupeno bez rozpravy:
+           Hlasování č. 62:     50 - 0 - 0 - 1
+
+    Schválené usnesení:
+    ZMB schvaluje
+    nabytí vlastnického práva k pozemku p.č. 2712/246, ostatní plocha, ostatní komunikace, o výměře
+    40 m², v k.ú. Černovice, v podílovém spoluvlastnictví ve výši id. ½ XXXX XXXXXXX XXXXXXXXX
+    a v podílovém spoluvlastnictví ve výši id. ½ XXXXX XXXXXXX XXXXXXXXX, do výlučného
+    vlastnictví statutárního města Brna za dohodnutou kupní cenu ve výši 78.000,- Kč pro stavbu
+    „Silnice I/42 Brno, VMO MÚK Ostravská radiála“ a za podmínek kupní smlouvy, která tvoří přílohu
+    č. 55 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+64. Nabytí vlastnického práva k pozemkům p. č. 9652/17 a p. č. 9683/4, oba v k. ú. Židenice,
+    pro stavbu „Silnice I/42 Brno, VMO MÚK Ostravská radiála“ (městská část Brno-Židenice)
+
+    Schválené usnesení:
+    ZMB schvaluje
+    nabytí vlastnického práva k pozemkům
+
+        •   p.č. 9652/17, ostatní plocha, zeleň, o výměře 31 m² a
+        •   p.č. 9683/4, ostatní plocha, zeleň, o výměře 145 m²,
+
+    oba v k.ú. Židenice, v podílovém spoluvlastnictví ve výši id. ½ XXXXXX XXXXXXX a v podílovém
+    spoluvlastnictví ve výši id. ½ XXXX XXXXXXX, do výlučného vlastnictví statutárního města Brna za
+    dohodnutou kupní cenu ve výši 269.500,- Kč pro stavbu „Silnice I/42 Brno, VMO MÚK Ostravská
+    radiála“ a za podmínek kupní smlouvy, která tvoří přílohu č. 56 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+65. Nabytí vlastnického práva k pozemku p. č. 2712/173, v k. ú. Černovice, pro stavbu „Silnice
+    I/42 Brno, VMO MÚK Ostravská radiála“
+
+    Schválené usnesení:
+    ZMB schvaluje
+    nabytí vlastnického práva k pozemku p.č. 2712/173, orná půda, o výměře 71 m², v k.ú. Černovice,
+    z výlučného vlastnictví XXXXX XXXXXXX do vlastnictví statutárního města Brna za dohodnutou
+    kupní cenu ve výši 124.250,- Kč pro stavbu „Silnice I/42 Brno, VMO MÚK Ostravská radiála“
+    a za podmínek kupní smlouvy, která tvoří přílohu č. 57 tohoto zápisu.
+
+
+                                         Strana 29 z 53
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+66. Nabytí vlastnického práva k pozemkům p. č. 7913/4 a p. č. 9700/13, oba v k. ú. Židenice,
+    pro stavbu „Silnice I/42 Brno, VMO MÚK Ostravská radiála“ (městská část Brno-Židenice)
+
+    Schválené usnesení:
+    ZMB schvaluje
+    nabytí vlastnického práva k pozemkům
+
+        •   p.č. 7913/4, orná půda, o výměře 3 m² a
+        •   p.č. 9700/13, ostatní plocha, jiná plocha, o výměře 30 m²,
+
+    oba v k.ú. Židenice, z výlučného vlastnictví XXXXXX XXXXXXXX do vlastnictví statutárního města
+    Brna za dohodnutou kupní cenu ve výši 67.650,- Kč pro stavbu „Silnice I/42 Brno, VMO MÚK
+    Ostravská radiála“ a za podmínek kupní smlouvy, která tvoří přílohu č. 58 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+67. Nabytí vlastnického práva ke spoluvlastnickému podílu ve výši id. 1/8 pozemků p. č. 9701/65
+    a p. č. 9701/66, oba v k. ú. Židenice, pro stavbu „Silnice I/42 Brno, VMO MÚK Ostravská
+    radiála“ (městská část Brno-Židenice)
+
+    Schválené usnesení:
+    ZMB schvaluje
+    nabytí vlastnického práva ke spoluvlastnickému podílu ve výši id. 1/8 pozemků
+
+        •   p.č. 9701/65, ostatní plocha, jiná plocha, o výměře 364 m² a
+        •   p.č. 9701/66, ostatní plocha, jiná plocha, o výměře 14 m²,
+
+
+    oba v k.ú. Židenice, z vlastnictví XXXXXXX XXXXXXXXXX do vlastnictví statutárního města Brna
+    za dohodnutou kupní cenu v celkové výši 79.761,- Kč pro stavbu „Silnice I/42 Brno, VMO MÚK
+    Ostravská radiála“ a za podmínek kupní smlouvy, která tvoří přílohu č. 59 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+68. Nabytí vlastnického práva ke spoluvlastnickému podílu ve výši id. 1/8 pozemků p. č. 9701/65
+    a p. č. 9701/66, oba v k. ú. Židenice, pro stavbu „Silnice I/42 Brno, VMO MÚK Ostravská
+    radiála“ (městská část Brno-Židenice)
+
+    Schválené usnesení:
+    ZMB schvaluje
+    nabytí vlastnického práva ke spoluvlastnickému podílu ve výši id. 1/8 pozemků
+
+        •   p.č. 9701/65, ostatní plocha, jiná plocha, o výměře 364 m² a
+        •   p.č. 9701/66, ostatní plocha, jiná plocha, o výměře 14 m²,
+
+    oba v k.ú. Židenice, z vlastnictví XXXX XXXXXXXXX do vlastnictví statutárního města Brna za
+    dohodnutou kupní cenu ve výši 79.761,- Kč pro stavbu „Silnice I/42 Brno, VMO MÚK Ostravská
+    radiála“ a za podmínek kupní smlouvy, která tvoří přílohu č. 60 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+69. Nabytí pozemku p. č. 2722/19 v k. ú. Černovice
+
+    Schválené usnesení:
+    1.ZMB bere na vědomí
+    skutečnost, že pozemek p.č. 2722/19 v k.ú. Černovice je dle platného Územního plánu města Brna
+    částečně součástí návrhové plochy doprava všeobecná a částečně součástí návrhové plochy
+    občanské vybavení – sport. Pozemek se nachází v lokalitě, kde statutární město Brno vykupuje
+    pozemky.
+
+
+
+
+                                         Strana 30 z 53
+    2.ZMB schvaluje
+    nabytí pozemku p.č. 2722/19, orná půda, o výměře 1 601 m², v k.ú. Černovice z vlastnictví XXXXXX
+    XXXXXXX do vlastnictví statutárního města Brna za kupní cenu ve výši 7 018 664 Kč, a za
+    podmínek kupní smlouvy, která tvoří přílohu č. 61 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+70. Nabytí pozemků p. č. 5034/36 a p. č. 5045/1, oba v k. ú. Žabovřesky, lokalita Žabovřeské louky
+
+    Schválené usnesení:
+    1.ZMB bere na vědomí
+       - zájem vlastníka pozemků p.č. 5034/36 a p.č. 5045/1, oba v k.ú. Žabovřesky XXXX
+           XXXXXXX prodat pozemky statutárnímu městu Brnu za kupní cenu ve výši 4 489 800 Kč,
+       - skutečnost, že na pozemku p.č. 5045/1 v k.ú. Žabovřesky stojí stavba bez čp / če,
+           zemědělská stavba ve vlastnictví statutárního města Brna.
+
+
+    2.ZMB schvaluje
+    nabytí pozemků:
+
+        -   p.č. 5034/36, orná půda, o výměře 1 245 m²,
+        -   p.č. 5045/1, orná půda, o výměře 1 962 m²,
+
+    oba v k.ú. Žabovřesky z vlastnictví XXXX XXXXXXX do vlastnictví statutárního města Brna za kupní
+    cenu ve výši 4 489 800 Kč a za podmínek uvedených v kupní smlouvě, která tvoří přílohu č. 62
+    tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+71. Nabytí spoluvlastnických podílů na pozemcích p. č. 7495/80, 7495/81, 7495/83, 7495/84,
+    7495/85, 7495/86, 7495/90, vše v k. ú. Židenice
+
+    Schválené usnesení:
+    1.ZMB bere na vědomí
+    skutečnost, že podíloví spoluvlastníci pozemků p.č. 7495/80, 7495/81, 7495/83, 7495/84, 7495/85,
+    7495/86, 7495/90, vše v k.ú. Židenice navrhli prodej svých spoluvlastnických podílů na předmětných
+    pozemcích statutárnímu městu Brnu a souhlasili s navrženou kupní cenou,
+
+    2.ZMB schvaluje
+    nabytí spoluvlastnických podílů na pozemcích
+
+        •   p.č. 7495/80, ostatní plocha, jiná plocha, o výměře 35 m²,
+        •   p.č. 7495/81, ostatní plocha, ostatní komunikace, o výměře 9 m²,
+        •   p.č. 7495/83, ostatní plocha, ostatní komunikace, o výměře 11 m²,
+        •   p.č. 7495/84, ostatní plocha, jiná plocha, o výměře 14 m²,
+        •   p.č. 7495/85, ostatní plocha, ostatní komunikace, o výměře 28 m²,
+        •   p.č. 7495/86, orná půda, o výměře 27 m²,
+        •   p.č. 7495/90, zastavěná plocha a nádvoří, o výměře 52 m²,
+
+    vše v k.ú. Židenice,
+    z podílového spoluvlastnictví XXXX XXXX XXXXXXXX (spoluvlastnický podíl o velikosti id. 1/12),
+    XXXXXX XXXXXXXX (spoluvlastnický podíl o velikosti id. 1/24),
+    XXXXX         XXXXXXXXX        (spoluvlastnický   podíl  o   velikosti      id.   1/72),   XXXXX
+    XXXXXXXXXX (spoluvlastnický podíl o velikosti id. 1/72), XXXXX XXXXXXX (spoluvlastnický podíl
+    o velikosti id. 1/24), XXXX XXXXXXXXXX (spoluvlastnický podíl o velikosti id. 7/72), XXXX XXXXXX
+    (spoluvlastnický podíl o velikosti id. 1/144), XXXXXX XXXXXXX (spoluvlastnický podíl o velikosti
+    id. 1/72), XXXXXXX XXXXXXX (spoluvlastnický podíl o velikosti id. 1/72), XXXXXXXXX XXXXXXX
+    (spoluvlastnický podíl o velikosti id. 1/144), XXXX XXXXXXXXX (spoluvlastnický podíl o velikosti
+    id. 1/72) a XXXXX XXXXXXXXX (spoluvlastnický podíl o velikosti id. 1/72) do vlastnictví
+    statutárního města Brna za kupní cenu ve výši 335 328 Kč a za podmínek kupní smlouvy, která
+    tvoří přílohu č. 63 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+                                         Strana 31 z 53
+72. Nabytí id. 1/2 pozemků p. č. 9700/28, p. č. 9701/31 a p. č. 9701/75, vše v k. ú. Židenice
+
+    Schválené usnesení:
+    1.ZMB bere na vědomí
+    skutečnosti, že:
+
+        -   podíloví spoluvlastníci pozemků p.č. 9700/28, p.č. 9701/31 a p.č. 9701/75, vše v k.ú.
+            Židenice XXXX XXXXXX XXXXXXX XXXXXX XXXXXXXXXX XXXXXXXXX X XXXXX
+            XXXXXXXX navrhli prodej svých spoluvlastnických podílů na pozemcích statutárnímu
+            městu Brnu,
+        -   na R9/107. schůzi Rady města Brna konané dne 20. 11. 2024 bylo Zastupitelstvu města
+            Brna doporučeno schválit nabytí předmětných pozemků v k.ú. Židenice. Jeden z podílových
+            spoluvlastníků pozemků XXXXXXX XXXXX v mezidobí zemřel,
+        -   XXXXXXXXXX XXXXXXXXX X XXXXX XXXXXXXX mají i nadále zájem prodat své
+            spoluvlastnické podíly na pozemcích v k.ú. Židenice statutárnímu městu Brnu,
+        -   po skončení dědického řízení po zesnulém XXXXXXXX XXXXXXX bude předloženo k
+            projednání do orgánů města nabytí spoluvlastnických podílů na pozemcích od jeho dědice
+            či dědiců a nabytí spoluvlastnických podílů na pozemcích od XXXXX XXXXXX
+
+
+    2.ZMB schvaluje
+    nabytí id. 1/2 pozemků:
+
+        -   p.č. 9700/28, ostatní plocha, zeleň, o výměře 372 m²,
+        -   p.č. 9701/31, ostatní plocha, jiná plocha, o výměře 504 m²,
+        -   p.č. 9701/75, ostatní plocha, jiná plocha, o výměře 114 m²,
+
+    vše v k.ú. Židenice z podílového spoluvlastnictví XXXXXXXXXX XXXXXXXXX (spoluvlastnický
+    podíl o velikosti id. 1/4) a XXXXX XXXXXXXX (spoluvlastnický podíl o velikosti id. 1/4) do vlastnictví
+    statutárního města Brna za kupní cenu ve výši 990 000 Kč, a za podmínek kupní smlouvy, která
+    tvoří přílohu č. 64 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+73. Nabytí pozemku p. č. 6238/38 v k. ú. Líšeň
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 63:    47 - 0 - 1 - 3
+
+    Schválené usnesení:
+    ZMB neschvaluje
+    nabytí pozemku p.č. 6238/38 ostatní plocha, ostatní komunikace o výměře 109 m² v k.ú. Líšeň ve
+    vlastnictví XXXXXXXXX XXXXXXX do vlastnictví statutárního města Brna za dohodnutou kupní
+    cenu ve výši 316.100 Kč a za podmínek uvedených v kupní smlouvě.
+
+74. Nabytí komunikační stavby a pozemků při ulici Miry Figarové, Psotova a Vlasty Fialové,
+    v k. ú. Sadová
+
+    JUDr. Markéta Vaňková, primátorka - přistoupila ke společnému projednání bodů 74) a 75).
+    K hlasování o návrzích usnesení k bodům 74) a 75) bylo přistoupeno bez rozpravy:
+           Hlasování č. 64:     51 - 0 - 0 - 0
+
+    Schválené usnesení:
+    ZMB schvaluje
+
+    nabytí komunikační stavby při ulici Miry Figarové, Psotova a Vlasty Fialové
+
+                •   vozovky, parkovacích stání, cesty pro pěší, odvodnění a dopravního značení na
+                    pozemcích p.č. 219/1, 230/1, 230/15, 248/8, 257/8 a na částech pozemků p.č.
+                    230/6, 232/1,
+
+
+                                          Strana 32 z 53
+    vše v k.ú. Sadová
+    ve vlastnictví společnosti UNISTAV Development, s.r.o., IČO: 277 34 285, se sídlem Příkop 838/6,
+    Zábrdovice, 602 00 Brno, do vlastnictví statutárního města Brna za dohodnutou celkovou kupní
+    cenu 500 Kč,
+
+    nabytí pozemků
+
+       •   p.č. 219/1 ostatní plocha, jiná plocha, o výměře 91 m²,
+       •   p.č. 230/1 ostatní plocha, ostatní komunikace, o výměře 1370 m²,
+       •   p.č. 230/4 ostatní plocha, jiná plocha, o výměře 154 m²,
+       •   p.č. 230/6 ostatní plocha, zeleň, o výměře 58 m²,
+       •   p.č. 230/7 ostatní plocha, zeleň, o výměře 19 m²,
+       •   p.č. 230/8 ostatní plocha, zeleň, o výměře 24 m²,
+       •   p.č. 230/9 ostatní plocha zeleň, o výměře 30 m²,
+       •   p.č. 230/10 ostatní plocha, jiná plocha, o výměře 7 m²,
+       •   p.č. 230/11 ostatní plocha, jiná plocha, o výměře 4 m²,
+       •   p.č. 230/12 ostatní plocha, zeleň, o výměře 12 m²,
+       •   p.č. 230/13 ostatní plocha, zeleň, o výměře 30 m²,
+       •   p.č. 230/14 ostatní plocha, zeleň, o výměře 13 m²,
+       •   p.č. 230/15 ostatní plocha, jiná plocha, o výměře 2 m²,
+       •   p.č. 230/16 ostatní plocha, zeleň, o výměře 13 m²,
+       •   p.č. 230/17 ostatní plocha, zeleň, o výměře 2 m²,
+       •   p.č. 230/19 ostatní plocha, zeleň, o výměře 5 m²,
+       •   p.č. 230/20 ostatní plocha, jiná plocha, o výměře 11 m²,
+       •   p.č. 230/21 ostatní plocha, jiná plocha, o výměře 4 m²,
+       •   p.č. 230/22 ostatní plocha, zeleň, o výměře 10 m²,
+       •   p.č. 230/23 ostatní plocha, zeleň, o výměře 7 m²,
+       •   p.č. 230/24 ostatní plocha, zeleň, o výměře 11 m²,
+       •   p.č. 230/26 ostatní plocha, zeleň, o výměře 7 m²,
+
+    vše v k.ú. Sadová ve vlastnictví společnosti UNISTAV Development, s.r.o., IČO: 277 34 285, se
+    sídlem Příkop 838/6, Zábrdovice, 602 00 Brno, do vlastnictví statutárního města Brna za
+    dohodnutou celkovou kupní cenu 250 Kč,
+
+    a nabytí pozemku
+
+       •   p.č. 257/8 ostatní plocha, ostatní komunikace, o výměře 144 m²,
+
+    v k.ú. Sadová ve vlastnictví společnosti HEIM Trade SE, IČO: 269 70 805, se sídlem Vídeňská
+    264/120b, Přízřenice, 619 00 Brno, do vlastnictví statutárního města Brna za dohodnutou celkovou
+    kupní cenu 250 Kč, a za podmínek uvedených v kupní smlouvě, která tvoří přílohu č. 65 tohoto
+    zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+75. Nabytí komunikační stavby a pozemků a zřízení věcného břemene při ulici Dubová, Bratří
+    Ocelků, Prašnice a Ke Káčatům, v k. ú. Jundrov
+
+    Schválené usnesení:
+    ZMB schvaluje
+    nabytí komunikační stavby při ulici Dubová, Bratří Ocelků, Prašnice a Ke Káčatům - vozovky,
+    parkovacích stání, chodníků, opěrné zdi, odvodnění a dopravního značení na pozemcích p.č.
+    2659/130, 2659/132, 2659/133, 2659/134, 2659/137, 2735/5, 2735/11, 2738/13, 2738/14, 2739/5,
+    2739/11, 2739/13, 2740/17, 2743/1, 2745/6, 2747/3, 2749/1, 2750/7, 2752/8, 2753/6, 2766/1,
+    2766/9, 2766/10, 2771/20, 2771/29, 2771/30, vše v k.ú. Jundrov ve vlastnictví společnosti MS-
+    INVEST a.s., IČO: 255 44 756, se sídlem Koliště 1912/13, Černá Pole, 602 00 Brno, do vlastnictví
+    statutárního města Brna za dohodnutou celkovou kupní cenu 500 Kč vč. DPH,
+
+
+
+                                        Strana 33 z 53
+    nabytí pozemků
+
+       •   p.č. 2735/5 ostatní plocha, ostatní komunikace, o výměře 72 m²,
+       •   p.č. 2735/11 ostatní plocha, ostatní komunikace, o výměře 2 m²,
+       •   p.č. 2738/13 ostatní plocha, ostatní komunikace, o výměře 243 m²,
+       •   p.č. 2738/14 ostatní plocha, ostatní komunikace, o výměře 96 m²,
+       •   p.č. 2739/5 ostatní plocha, ostatní komunikace, o výměře 86 m²,
+       •   p.č. 2739/11 ostatní plocha, ostatní komunikace, o výměře 7 m²,
+       •   p.č. 2739/13 ostatní plocha, ostatní komunikace, o výměře 2 m²,
+       •   p.č. 2740/17 ostatní plocha, ostatní komunikace, o výměře 1 m²,
+       •   p.č. 2743/1 ostatní plocha, ostatní komunikace, o výměře 90 m²,
+       •   p.č. 2747/3 ostatní plocha, ostatní komunikace, o výměře 74 m²,
+       •   p.č. 2749/1 ostatní plocha, ostatní komunikace, o výměře 201 m²,
+       •   p.č. 2750/7 ostatní plocha, ostatní komunikace, o výměře 51 m²,
+       •   p.č. 2752/8, ostatní plocha, ostatní komunikace, o výměře 162 m²,
+       •   p.č. 2753/6 ostatní plocha, ostatní komunikace, o výměře 60 m²,
+       •   p.č. 2766/1 ostatní plocha, ostatní komunikace, o výměře 853 m²,
+       •   p.č. 2766/9 ostatní plocha, ostatní komunikace, o výměře 147 m²,
+       •   p.č. 2766/10 ostatní plocha, ostatní komunikace, o výměře 251 m²,
+       •   p.č. 2771/23 ostatní plocha, zeleň, o výměře 19 m²,
+       •   p.č. 2771/28 ostatní plocha, jiná plocha, o výměře 13 m²,
+       •   p.č. 2771/29 ostatní plocha, ostatní komunikace, o výměře 33 m²,
+       •   p.č. 2771/30 ostatní plocha, ostatní komunikace, o výměře 26 m²,
+       •   p.č. 2771/31 ostatní plocha, jiná plocha, o výměře 8 m²,
+
+    vše v k.ú. Jundrov ve vlastnictví společnosti MS-INVEST a.s., IČO: 255 44 756, se sídlem Koliště
+    1912/13, Černá Pole, 602 00 Brno, do vlastnictví statutárního města Brna za dohodnutou celkovou
+    kupní cenu 300 Kč vč. DPH,
+
+    a zřízení věcného břemene spočívajícího v právu statutárního města Brna umístit a provozovat
+    odvodnění komunikace na pozemcích p.č. 2745/6 a 2771/20 oba v k.ú. Jundrov v rozsahu jejich
+    celé výměry, které jsou ve vlastnictví společnosti MSINVEST a.s. za jednorázovou náhradu ve výši
+    200 Kč vč. DPH,
+
+    a za podmínek uvedených v kupní smlouvě se smlouvou o zřízení věcného břemene, která tvoří
+    přílohu č. 66 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+76. Bezúplatné nabytí pozemků v k. ú. Komárov, Královo Pole, Jundrov, Slatina a Černovice
+    z vlastnictví České republiky-Úřadu pro zastupování státu ve věcech majetkových
+    do vlastnictví statutárního města Brna s omezujícími podmínkami
+
+    JUDr. Markéta Vaňková, primátorka - navrhla společně hlasovat o bodech 76) a 77) týkajících se
+    bezúplatného nabytí pozemků.
+
+    K hlasování o návrzích usnesení k bodům 76) a 77) bylo přistoupeno bez rozpravy:
+           Hlasování č. 65:     51 - 0 - 0 - 0
+
+    Schválené usnesení:
+    ZMB schvaluje
+       - bezúplatné nabytí pozemků:
+
+    p.č. 1563/1, ostatní plocha, zeleň, o výměře 854 m² v k.ú. Komárov
+    p.č. 1019/17, ostatní plocha, zeleň, o výměře 18 m² v k.ú. Královo Pole
+    p.č. 3100, ostatní plocha, ostatní komunikace, o výměře 57 m² v k.ú. Jundrov
+    p.č. 821/37, ostatní plocha, jiná plocha, o výměře 1697 m² v k.ú. Slatina
+    p.č. 1323/43, ostatní plocha, ostatní komunikace, o výměře 970 m² v k.ú. Černovice
+
+
+                                        Strana 34 z 53
+    z vlastnictví České republiky – Úřadu pro zastupování státu ve věcech majetkových, IČO 69797111,
+    se sídlem Rašínovo nábřeží 390/42, Nové Město, 128 00 Praha 2, do vlastnictví statutárního města
+    Brna,
+
+        -  zřízení věcného práva ve prospěch České republiky – Úřadu pro zastupování státu ve
+           věcech majetkových k převáděnému majetku spočívající v závazku statutárního města
+           Brna jako povinného nezcizit převáděný majetek ani nezatížit jej zástavním právem nebo
+           věcným břemenem, a to po dobu 10 let ode dne provedení vkladu vlastnického práva do
+           katastru nemovitostí (s výjimkou smluvního zatížení převáděného majetku věcným
+           břemenem pro účely zřízení, provozu a údržby sítě technického vybavení a veřejně
+           prospěšné stavby, popřípadě k zajištění nezbytného přístupu vlastníka k jeho stavbě), za
+           podmínek uvedených ve smlouvách o bezúplatném převodu vlastnického práva k
+           nemovité věci s omezujícími podmínkami a o zřízení věcného práva, které tvoří přílohu č.
+           67 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+77. Souhlas se záměrem bezúplatného nabytí pozemku p. č. 945/2 v k. ú. Židenice, souhlas
+    s technickými podmínkami, pro stavbu „Brno, Filipínského III, Šámalova III - rekonstrukce
+    kanalizace a vodovodu“
+
+    Schválené usnesení:
+    1.ZMB souhlasí
+    A) se záměrem bezúplatného nabytí pozemku
+    p.č. 945/2 ostatní plocha, ostatní komunikace, o výměře 1475 m² v k.ú. Židenice
+
+    ve vlastnictví České republiky s právem hospodařit: Správa železnic, státní
+    organizace, IČO 70994234, se sídlem Dlážděná 1003/7, Nové Město, 11000 Praha 1,
+    do vlastnictví statutárního města Brna v rámci stavby „Brno, Filipínského III, Šámalova III —
+    rekonstrukce kanalizace a vodovodu“.
+
+    B) s technickými podmínkami
+
+    převodu pozemku p.č. 945/2 v k.ú. Židenice
+
+               •     předmětný pozemek se nachází v ochranném pásmu dráhy ve smyslu zákona č.
+                     266/1994 Sb., o drahách, ve znění pozdějších předpisů, z tohoto důvodu statutární
+                     město Brno zejména:
+       o    si je vědomo nepříznivých účinků provozu dráhy a nebude požadovat po Správě železnic,
+            státní organizace realizaci opatření proti těmto vlivům,
+       o    se zavazuje dodržovat veškeré povinnosti pro něho vyplývající z platných a účinných
+            právních předpisů, zejména, nikoli výlučně, zákona č. 266/1994 Sb., o drahách, ve znění
+            pozdějších předpisů, vyhlášky č. 177/1995 Sb., kterou se vydává stavební a technický řád
+            drah, ve znění pozdějších vyhlášek, právních předpisů v oblasti bezpečnosti na železnici,
+            požární bezpečnosti, ochrany životního prostředí a nakládaní s odpady atd.,
+       o    bude řešit přístup k předmětnému majetku mimo provozované těleso dráhy z pozemku p.č.
+            945/1 v k.ú. Židenice ve vlastnictví statutárního města Brna,
+
+
+       •    u předmětného pozemku jsou dle současné evidence v katastru nemovitostí evidována tato
+            omezení vlastnického práva:
+
+       o    služebnost zřídit a provozovat plynovodní přípojku NTL ve prospěch Elektromont servis
+            Brno, spol. s r.o.,
+       o    služebnost zřídit a provozovat podzemní kabelové vedení NN a smyčkovací skříň ve
+            prospěch EG.D Holding, a.s.
+
+
+
+
+                                         Strana 35 z 53
+        •   statutární město Brno s nabytím vlastnického práva k pozemkům převezme i případné
+            ekologické závazky s tímto majetkem spojené, bere na sebe povinnost plynoucí z jejich
+            odstraňování a nebude požadovat po Správě železnic, státní organizaci náhradu s tímto
+            související.
+
+
+        •   veškeré náklady Správy železnic, státní organizace spojené s převodem
+            předmětných pozemků (zejména náklady na zřízení věcných břemen a jiných
+            věcných práv, na pořízení znaleckého posudku, na pořízení geometrického
+            plánu, atd.) mohou být statutárnímu městu Brnu přeúčtovány a tím dány
+            k úhradě, a to i v případě, že převod nebude v budoucnu realizován z důvodu
+            na straně statutárního města Brna.
+
+    a za podmínek uvedených v souhlasu se základními podmínkami převodu (tzv.
+    "technické podmínky“), který tvoří přílohu č. 68 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+
+    2.ZMB pověřuje
+    vedoucího Odboru investičního MMB podpisem souhlasu s technickými podmínkami
+    převodu (tzv. "technické podmínky“).
+
+78. Nabídka předkupního práva ke stavbě bez č. p./č. e., způsob využití garáž, postavené
+    na pozemku p. č. 2477 v k. ú. Královo Pole
+
+    JUDr. Markéta Vaňková, primátorka - navrhla společné hlasování o bodech 78) - 81) vztahujících
+    se k nabídkám předkupních práv ke stavbám.
+
+    K hlasování o návrzích usnesení k bodům 78) - 81) bylo přistoupeno bez rozpravy:
+           Hlasování č. 66:     51 - 0 - 0 - 0
+
+    Schválené usnesení:
+    1.ZMB bere na vědomí
+    nabídku XXXXXXXXX XXXXXXXX, doručenou dne 24.1.2025, na využití předkupního práva ve
+    smyslu ustanovení § 3056 zákona č. 89/2012 Sb., občanský zákoník, v platném znění, ke stavbě
+    bez č.p./č.e., způsob využití garáž, postavené na pozemku ve vlastnictví statutárního města Brna
+    p.č. 2477 zastavěná plocha a nádvoří o výměře 19 m², v k.ú. Královo Pole, za kupní cenu ve výši
+    700 000 Kč a za podmínek doložené kupní smlouvy o převodu vlastnického práva k nemovité věci.
+
+
+    2.ZMB nesouhlasí
+    s využitím předkupního práva statutárního města Brna ve smyslu ustanovení § 3056 zákona č.
+    89/2012 Sb., občanský zákoník, v platném znění, ke stavbě bez č.p./č.e., způsob využití garáž,
+    postavené na pozemku ve vlastnictví statutárního města Brna p.č. 2477 zastavěná plocha a nádvoří
+    o výměře 19 m², v k.ú. Královo Pole, dle nabídky doručené dne 24.1.2025.
+
+79. Nabídka předkupního práva ke stavbě č. e. 685, způsob využití garáž, postavené na pozemku
+    p. č. 1587 v k. ú. Černovice
+
+    Schválené usnesení:
+    1.ZMB bere na vědomí
+    nabídku XXXXXXXXX XXXX, doručenou dne 15.1.2025, na využití předkupního dle ustanovení §
+    3056 zákona č. 89/2012 Sb., občanský zákoník, v platném znění, ke stavbě č.e. 685, způsob využití
+    garáž, postavené na pozemku ve vlastnictví statutárního města Brna p.č. 1587, zastavěná plocha
+    a nádvoří o výměře 21 m², k.ú. Černovice, za kupní cenu ve výši 300 000 Kč a za podmínek
+    doložené kupní smlouvy o převodu nemovitých věcí.
+
+
+    2.ZMB nesouhlasí
+    s využitím předkupního práva statutárního města Brna dle ustanovení § 3056 zákona č. 89/2012
+    Sb., občanský zákoník, v platném znění, ke stavbě č.e. 685, způsob využití garáž, postavené na
+
+
+                                        Strana 36 z 53
+    pozemku ve vlastnictví statutárního města Brna p.č. 1587 zastavěná plocha a nádvoří o výměře 21
+    m², k.ú. Černovice, dle nabídky doručené dne 15.1.2025.
+
+80. Nabídka předkupního práva ke stavbě č. e. 161, způsob využití rodinná rekreace, postavené
+    na pozemku p. č. 702 v k. ú. Kníničky
+
+    Schválené usnesení:
+    1.ZMB bere na vědomí
+    - nabídku XXXXX XXXXXXX XXXXXXX, zastoupeného advokátem Mgr. Michalem Dobešem na
+    základě udělené plné moci, doručenou dne 29. 1. 2025, na využití předkupního práva ve smyslu
+    ustanovení § 3056 zákona č. 89/2012 Sb., občanský zákoník, v platném znění (dále jen „OZ“), ke
+    stavbě č.e. 161, způsob využití rodinná rekreace, postavené na pozemku ve vlastnictví statutárního
+    města Brna p.č. 702, zastavěná plocha a nádvoří o výměře 46 m² v k.ú. Kníničky, za kupní cenu
+    ve výši 2 400 000 Kč, a za podmínek doložené kupní smlouvy uzavřené s koupěchtivým.
+
+
+    2.ZMB nesouhlasí
+    - s využitím nabídky předkupního práva ve smyslu ustanovení § 3056 OZ, ke stavbě č. e. 161,
+    způsob využití rodinná rekreace, postavené na pozemku ve vlastnictví statutárního města Brna p.č.
+    702, zastavěná plocha a nádvoří o výměře 46 m² v k.ú. Kníničky, dle nabídky doručené dne 29. 1.
+    2025.
+
+
+81. Nabídka předkupního práva ke stavbě občanského vybavení č. e. 120, postavené
+    na pozemcích p. č. 708/87 a p. č. 708/16, vše v k. ú. Trnitá
+
+    Schválené usnesení:
+    1.ZMB bere na vědomí
+       - nabídku společnosti Crestyl Newco No. 19, s.r.o., se sídlem Boudníkova 2506/1, Libeň,
+           180 00 Praha 8, IČO: 140 10 135 (dále jen „žadatel“), na využití předkupního práva ve
+           smyslu ustanovení § 3056 zákona č. 89/2012 Sb., občanský zákoník, v platném znění (dále
+           jen „OZ“), doručenou dne 16. 1. 2025, ke stavbě č. e. 120, způsob využití občanské
+           vybavení (asijské bistro), postavené na dvou pozemcích, a to menší částí na pozemku ve
+           vlastnictví statutárního města Brna p.č. 708/87, zastavěná plocha a nádvoří o výměře 54
+           m² a větší částí na pozemku ve vlastnictví České republiky, příslušnost hospodařit
+           s majetkem státu má Úřad pro zastupování státu ve věcech majetkových, p.č. 708/16,
+           zastavěná plocha a nádvoří o výměře 94 m², vše v k.ú. Trnitá, za kupní cenu ve výši 16 789
+           041 Kč bez DPH, a za podmínek doložené kupní smlouvy uzavřené s koupěchtivým.
+
+        -   skutečnost, že pozemek p.č. 708/87 v k.ú. Trnitá je součástí přestavbové rozvojové
+            lokality s onačením Nová čtvrť Trnitá.
+
+        -   skutečnost, že koupěchtivým je společnost Brno New Town Square, s.r.o., se sídlem
+            Boudníkova 2506/1, Libeň, 180 00 Praha 8, IČO: 054 43 571, která je zároveň investorem
+            realizujícím developerský projekt Nová čtvrť Trnitá v areálu u bývalého OC Tesco pod
+            hlavním nádražím v Brně a lze tudíž předpokládat odstranění předmětné stavby
+            občanského vybavení, neboť pozemky pod stavbou mají být využity k účelu sloužícímu
+            jako veřejné prostranství. Z obchodního rejstříku je zřejmé, že obě společnosti, tj. žadatel
+            a koupěchtivý, jsou navzájem spřízněné, neboť osoby jednatelů zastupující navenek obě
+            společnosti jsou totožné osoby.
+
+        -   skutečnost, že žadatel porušil právní povinnosti vztahující se k zákonnému předkupnímu
+            právu, neboť v rozporu s ustanoveními § 2147 až 2148 odst. 1 OZ vědomě převedl ještě
+            před podáním nabídky předkupního práva na koupěchtivého na základě doložené kupní
+            smlouvy uzavřené dne 13. 12. 2024 předmětnou nemovitost a vlastnické právo ve
+            prospěch koupěchtivého bylo zapsáno v katastru nemovitostí na listu vlastnictví č. 165 dne
+            13. 2. 2025, s právními účinky zápisu ke dni 7. 1. 2025, tímto jednáním došlo k porušení
+            zákonného předkupního práva, neboť vůči předkupníkovi tak nebyla dodržená zákonem
+
+
+                                         Strana 37 z 53
+            mu daná lhůta k vyjádření v délce do 3 měsíců od doručení nabídky, když tato lhůta končí
+            ke dni 16. 4. 2025.
+
+    2.ZMB nesouhlasí
+       - s využitím předkupního práva ani s uplatněním práv z porušeného předkupního práva
+           statutárního města Brna ve smyslu ustanovení § 3056 a § 2144 odst. 1 až 2 OZ, ke stavbě
+           č. e. 120, způsob využití občanské vybavení, postavené na dvou pozemcích, a to menší
+           částí na pozemku ve vlastnictví statutárního města Brna p.č. 708/87, zastavěná plocha a
+           nádvoří o výměře 54 m² a větší částí na pozemku ve vlastnictví České republiky, příslušnost
+           hospodařit s majetkem státu má Úřad pro zastupování státu ve věcech majetkových, p.č.
+           708/16, zastavěná plocha a nádvoří o výměře 94 m², vše v k.ú. Trnitá, dle nabídky doručené
+           dne 16. 1. 2025.
+
+82. Směna části pozemku p. č. 2247/3 za část pozemku p. č. 2249/1, k. ú. Husovice
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 67:    49 - 0 - 0 - 1
+
+    Schválené usnesení:
+    ZMB schvaluje
+    směnu části pozemku p.č. 2247/3 – ostatní plocha o výměře 27 m² oddělené geometrickým plánem
+    č. 1804-338/2024 a v něm označené jako pozemek p.č. 2247/5 – ostatní plocha o výměře 3 m² ve
+    vlastnictví statutárního města Brna za část pozemku p.č. 2249/1 – zahrada o výměře 188 m²
+    oddělené geometrickým plánem č. 1804-338/2024 a v něm označené jako pozemek p.č. 2249/3 –
+    zahrada o výměře 3 m² ve vlastnictví XXXX XXXXXXX XXXXXXXXX, to vše k.ú. Husovice, a to
+    s doplatkem ve výši 9 700 Kč ve prospěch statutárního města Brna, a za podmínek uvedených ve
+    směnné smlouvě, která tvoří přílohu č. 69 tohoto zápisu.
+    Ověřená příloha je uložena na Organizačním odboru MMB.
+
+83. Svěření majetku města městské části Brno – Řečkovice a Mokrá Hora, pozemků
+    p. č. 3125/280, p. č. 3125/279, p. č. 4988/2, p. č. 4988/1 a p. č. 4990/3, v k. ú. Řečkovice
+
+    Rozprava
+
+    JUDr. Markéta Vaňková, primátorka:
+    A tady máme doplněk, který Vám byl rozdán na stůl. A poprosím paní radní Matonohovou o jeho
+    krátké uvedení.
+
+    JUDr. Irena Matonohová, členka Rady města Brna:
+    Děkuji, paní primátorko, vážené zastupitelky, vážení zastupitelé, doplněk jste obdrželi, já tedy
+    pouze ve stručnosti shrnu, v čem spočívá. Jde o doplnění omezujících podmínek, které vyplývají
+    ze smlouvy s Úřadem pro zastupování státu ve věcech majetkových. Jsou to následující podmínky:
+    respektování ve smlouvě uvedených omezujících a sankčních ustanovení, užívání pozemků jako
+    veřejné zeleně, omezu, omezení ve vztahu k využívání pozemků ke komerčním a jiným výdělečným
+    účelům a povinností podat 1x za rok Úřadu písemnou zprávu o plnění podmínek. Dle mých
+    informací byl pan starosta příslušné městské části s těmito podmínkami seznámen z úrovně
+    Majetkového odboru.
+
+    Mgr. Bc. Marek Viskot:
+    Vážená paní primátorko, děkuju za slovo. Já jsem jenom chtěl potvrdit, že s Majetkovým odborem
+    jsme tuto záležitost konzultovali, ostatně nebyla by to první situace, kdy prostě i městská část
+    v rámci školních pozemků tyto povinnosti vůči státu má. Máme to i u jiných škol a školek. A myslím
+    si, že nejenom my, ale jiné městské části celkem běžně.
+
+    JUDr. Markéta Vaňková, primátorka:
+    Nevidím nikoho dalšího přihlášeného do diskuse, takže jenom procesně opakuji, protože
+    v původním materiálu jste měli varianty, takže budu dávat hlasovat o variantě A, což je varianta,
+    která byla schválena radou, ale ve znění doplňku, tak jak Vám byl teď předestřen paní
+    radní Matonohovou. Takže varianta A, ve znění doplňku - schvaluje. Zahajuji hlasování:
+           Hlasování č. 68:    46 - 0 - 0 - 4
+
+
+                                         Strana 38 z 53
+    Schválené usnesení:
+    1.ZMB schvaluje
+    městské části Brno-Řečkovice a Mokrá Hora svěření pozemků: - p.č. 3125/280 o výměře 371 m²,
+    p.č 3125/279 o výměře 777 m², p.č. 4988/2 o výměře 94 m², p.č. 4988/1 o výměře 150 m² a p.č.
+    4990/3 o výměře 57 m², vše v k.ú. Řečkovice, dle příslušných článků obecně závazné vyhlášky
+    statutárního města Brna č. 20/2001, kterou se vydává Statut města Brna, v platném znění, do
+    kategorie část I - Školy a školská zařízení, uvedené jako doplněk přílohy č. 3;
+
+    s doplňujícími podmínkami ve smyslu smlouvy o bezúplatném převodu vlastnického práva k
+    nemovitým věcem s omezujícími podmínkami, a to pouze ve vztahu k podílům o velikosti id. ¼
+    pozemků p. č. 3125/279 a p. č. 4988/2 v k. ú. Řečkovice (které byly statutárnímu městu Brnu
+    převedeny ze strany České republiky – Úřadu pro zastupování státu ve věcech majetkových):
+
+        1) respektovat omezení při nakládání s pozemky, které vyplývá ze smlouvy o bezúplatném
+           převodu vlastnického práva k nemovitým věcem, tj. respektovat ve smlouvě uvedené
+           omezující a sankční ustanovení,
+
+        2) pozemky lze využívat ve veřejném zájmu, tj. jako veřejnou zeleň
+
+
+        3) pozemky nelze využívat ke komerčním účelům či jiným výdělečným účelům, nelze je
+           pronajímat ani přenechat do pachtu po dobu 10 let od právních účinků vkladu
+           vlastnického práva do katastru nemovitostí,
+
+        4) povinnost vždy k 31. 1. příslušného roku po dobu 10 let od právních účinků vkladu
+    vlastnického práva do katastru nemovitostí předávat na Majetkový odbor MMB písemnou zprávu
+    o plnění podmínek souvisejících s převodem z důvodu veřejného zájmu za rok předcházející, tj.
+    zprávu o zachování a rozvoji aktivit, které jsou ve veřejném zájmu.
+
+84. Změny regulačních plánů města Brna - vlastní podněty na pořízení změn
+
+    K hlasování o návrhu usnesení bylo přistoupeno bez rozpravy:
+           Hlasování č. 69:    48 - 0 - 1 - 2
+
+    Schválené usnesení:
+    1.ZMB u p l a t ň u j e
+
+    u pořizovatele, kterým je Odbor územního plánování a rozvoje MMB, vlastní podnět na pořízení
+    Změny 1-25 Regulačního plánu V Aleji, k.ú. Holásky ve smyslu § 109 odst. 1 zákona č. 283/2021
+    Sb., stavební zákon, ve znění pozdějších předpisů.
+
+    ***
+    2.ZMB ukládá pořizovateli ve spolupráci s určeným zastupitelem zpracovat návrh zadání Změny
+    1-25 Regulačního plánu V Aleji, k.ú. Holásky dle § 111 odst. 1 ve spojení s § 87 odst. 2 a 3
+    zákona č. 283/2021 Sb., stavební zákon, ve znění pozdějších předpisů.
+    ***
+    úkol č.: [Z9/25/84/1]
+    zodpovídá: OÚPR ve spolupráci se zastupitelem Ing. arch. Petrem Bořeckým [26,3341]
+    termín: [2025-06-10]
+
+    ***
+    3.ZMB ukládá pořizovateli předložit dle § 111 odst. 2 zákona č. 283/2021 Sb., stavební zákon, ve
+    znění pozdějších předpisů Zastupitelstvu města Brna návrh zadání Změny 1-25 Regulačního
+    plánu V Aleji, k.ú. Holásky za účelem jeho schválení a rozhodnutí o pořízení Změny 1-25
+    Regulačního plánu V Aleji, k.ú. Holásky.
+    ***
+    úkol č.: [Z9/25/84/2]
+    zodpovídá: OÚPR [26]
+    termín: [2025-06-10]
+
+
+
+
+                                        Strana 39 z 53
+    4.ZMB u p l a t ň u j e
+
+    u pořizovatele, kterým je Odbor územního plánování a rozvoje MMB, vlastní podnět na pořízení
+    Změny 1-25 Regulačního plánu Kostelíček, Brno - Líšeň ve smyslu § 109 odst. 1 zákona č.
+    283/2021 Sb., stavební zákon, ve znění pozdějších předpisů.
+
+
+    ***
+    5.ZMB ukládá pořizovateli ve spolupráci s určeným zastupitelem zpracovat návrh zadání Změny
+    1-25 Regulačního plánu Kostelíček, Brno - Líšeň dle § 111 odst. 1 ve spojení s § 87 odst. 2 a 3
+    zákona č. 283/2021 Sb., stavební zákon, ve znění pozdějších předpisů.
+    ***
+    úkol č.: [Z9/25/84/3]
+    zodpovídá: OÚPR ve spolupráci se zastupitelem Ing. arch. Petrem Bořeckým [26,3341]
+    termín: [2025-06-10]
+
+
+    ***
+    6.ZMB ukládá pořizovateli předložit dle § 111 odst. 2 zákona č. 283/2021 Sb., stavební zákon, ve
+    znění pozdějších předpisů Zastupitelstvu města Brna návrh zadání Změny 1-25 Regulačního
+    plánu Kostelíček, Brno - Líšeň za účelem jeho schválení a rozhodnutí o pořízení Změny 1-25
+    Regulačního plánu Kostelíček, Brno - Líšeň.
+    ***
+    úkol č.: [Z9/25/84/4]
+    zodpovídá: OÚPR [26]
+    termín: [2025-06-10]
+
+85. Zahájení procesu zrušení regulačních plánů města Brna
+
+    Rozprava
+
+    Bc. Tomáš Koláčný:
+    Já, za sebe, musím říct, že tedy v té podobě, v jaké je materiál předložen, ho nemohu podpořit.
+    Myslím si, že není vůbec šťastné, aby se zrušil Regulační plán městské památkové rezervace.
+    Já jsem zavnímal argumenty, že nový územní plán už některé aspekty toho regulačního plánu řeší,
+    čemuž rozumím, nicméně zdaleka ne všechny. A domnívám se, že zrušení, respektive nepořízení
+    nového regulačního plánu v této lokalitě by mohlo vést k tomu, že se developeři trošku utrhnou
+    ze řetězů a tadytudlenctu hodnotu našeho města nenávratně poškodí. Takže bych chtěl apelovat
+    na to, aby se v této lokalitě regulační plán nerušil, respektive aby se pořídil regulační plán nový, tak
+    jak tomu bylo v případě některých jiných lokalit, v tom předchozím bodě. Myslím si, že to je mnohem
+    šťastnější postup, a domnívám se, že by možná bylo vhodné to zvážit i v případě toho reguláků
+    Příkop - Bratislavská a další.
+
+    Ing. arch. Petr Bořecký (ANO 2011), člen Rady města Brna:
+    Já bych se tadyktomu tématu rád vyjádřil, protože po vydání územního plánu jsme přistoupili,
+    nového územního plánu, jsme přistoupili k jakési revizi územních studií a regulačních plánů, jelikož
+    téměř 100 % těchto materiálů je v nesouladu s novým územním plánem, takže nemůžou být
+    uplatňováni pro rozhodování. Toto se týká vlastně i Regulačního plánu městské památkové
+    rezervace. Regulační plán městské památkové rezervace byl vydán podle stavebního zadár,
+    zákona z roku 1976. Tedy je to ten, z téch územně plánovacích dokumentací, které byly vydány
+    před rokem 2007, a automaticky pozbývá účinnosti k roku 2028. A to je dané, to je dané stavebním
+    zákonem. Samozřejmě ty podmínky, protože ten regulační plán je z roku, tuším, 99, je 26 let starý,
+    se výrazně změnily a už neobsahuje ty současné potřeby a požadavky na tu lokalitu městské
+    památkové rezervace. Mu, když se podíváte do toho územního plánu, tak víceméně nic nepo,
+    odpovídá skutečnému stavu, natož územnímu plánu. Protože například Dominikánské náměstí,
+    tam máme stále parkoviště, Mendlovo náměstí vypadá úplně jinak a tak dál. Současný stavební
+    zákon nám ani neumožňuje dělat změny v tomto územním plánu, takže nejčistí
+    a nejtransparentnější řešení je, v současné době, zrušení tohoto regulačního plánu městské re,
+    památkové rezervace. My ho samozřejmě rušit nemusíme. Ale bude to zmatečné pro všechny, kteří
+    se budou chtít v dané otázce orientovat, protože, jak jsem zmínil na začátku, nebude lze podle něj
+    rozhodovat a přihlížet. Co se týče obavy, co se týče obavy, že by developeři nám nějak plenili tuto
+    lokalitu, to je za mě neopodstatněné, protože my jsme se vlastně zabývali otázkou, co všechno je
+
+
+                                           Strana 40 z 53
+potřeba ještě v tédle dané lokalitě chránit a rozvíjet. Skutečně tech rozvojových ploch už tam je jako
+šafránu. Jedná se, podle mě, o nároží ulice Sladová, Úvoz, proluka, proluka u ne, Obilného trhu, či
+Benešova třída, zástavba směrem k ulici Koliště. Takže skutečně ty podmínky, proč se vydávají
+územní studie, což je ochrana rozvoje dopravní s, infrastrukty, atapivosti a tak dál, tam skutečně
+už, podle mě, pozbyla tech, těchto důvodů. A rád bych i doplnil, že vlasně vydaný územní plán,
+který jsme tady schvalovali na prosincovém zastupitelstvu, od těch změn, z roku 2022, nabyl
+takových úprav stabilizovaných ploch, tak aby tyto stabilizované plochy chránil. Chránil jejich
+charakter, chránil zástavbu vnitrobloků. Jsou zde karty lokality, takže skutečně není ani
+předpokladem, ani není možné, dle závazné části výrokové části toho nového územního plánu, aby
+tam probíhala skutečně dramatická přestavba. My v současné době diskutujem s odborem
+územního plánování, zda a v jakém rozsahu pořídit územně plánovací dokumentaci na toto území,
+podrobnější, nejsme přesvědčeni o regulačním plánu, protože se obáváme jeho projednatelnosti.
+To, co jsme diskutovali již před rokem 22 i s městskou částí, tak byla územní studie s regulačními
+prvky, kterou bychom chtěli připravovat. A v rámci pořízení zrušení tohoto Regulačního plánu
+městské památkové rezervace doufám, že vystanou nějaké otázky i odpovědi, co bychom v, tou
+územní studií s regulačními prvky měli tedy skutečně, skutečně chránit. Takže obavy o tom, o to,
+že pokud-li zrušíme Regulační plán městské památkové rezervace, že by tam došlo nějakým
+dramatickým, nebo víceméně zásadním přestavbám, to skutečně nehrozí. Máme to pod ochranou,
+jak jsem říkal, je to městská památková rezervace, takže je to pod ochranou orgány památkové
+péče. Takže skutečně žádná přestavba tam nehrozí. Naopak, skutečně budeme čitelnější
+a transparentnější, že každý si bude moc představit, co v daném území realizovat lze, a co ne.
+
+Ing. Jana Drápalová:
+Já bych se chtěla k tomuto tématu také vyjádřit, protože v materiálu je napsáno, že tento regulační
+plán už nelze použít po vydání nového územního plánu, v těch částech, kde je s tím novým
+územním plánem v rozporu. To je samozřejmě jasné. Nicméně pořád jsou tam eště části, které
+nejsou s novým územním plánem v rozporu, a tam by, zatím, ta regulace mohla být používána
+pro to dopřesnění těch případných, nějakých investičních záměru, posouzení teda s tím regulačním
+plánem. A tam by to, ten zákon vlastně ukončuje platnost těch regulačních plánů tohoto typu teprve
+až v tom roce 2028, takže, myslím si, že bysme měli nejdřív rozhodnout, co bude, jako teď jste
+mluvil, pane Bořecký, o tom, že u, dis, diskutujete o vypracování územní studie s regulačními prvky
+pro toto území. Domnívám se, že ten proces zahájení rušení Regulačního plánu městské
+památkové rezervace by měl jít v ruku v ruce s tím rozhodnutím zastupitelstva, co bude následovat.
+My ho teďka teda nerušíme, v této chvíli, my pouze zahajujeme proces na jeho rušení, kdy budou
+mít všichni možnost se vlastně k tomu vyjádřit, v průběhu toho procesu, nicméně, domnívám se, že
+nás nic netlačí k tomu, to udělat dnes. My můžeme nejdřív si vlastně projednat tu plánovanou,
+plánované postupy to, té nové územní studie s regulačními prvky a to usnesení zastupitelstva udělat
+vlastně současně. Takže já bych chtěla navrhnout, abychom to rušení Regulačního plánu městské
+památkové rezervace z toho materiálu, z toho hlasování, vyjmuli a hlasovali pouze o zahájení
+procesu rušení těch zbývajících 3 regulačních plánů. Ale nemám, nemám tady ten papírek na návrh.
+
+JUDr. Markéta Vaňková, primátorka:
+Tak. Poprosíme o ten návrh písemně. Pan zastupitel Koláčný.
+
+Bc. Tomáš Koláčný:
+Já podepisuji to, co tady řekla kolegyně Drápalová. A pakliže by nebyla vůle k tomu, co tedy tady
+zaznělo a bude navrženo, tak bych chtěl poprosit o hlasování po odrážkách.
+
+Ing. arch. Petr Bořecký (ANO 2011), člen Rady města Brna:
+Já bych, s dovolením, požádal pana vedoucího Poledníka, aby nám ve stručnosti, jesi bude
+schopen odpovědět, vysvětlil, jaké úskalí by přinášelo v současném regulačním plánu vymezení
+souladu a nesouladu s novým, nebo v současné době platným územním plánem.
+
+JUDr. Markéta Vaňková, primátorka:
+Tak. Pan vedoucí se nachystá, mence tím eště pan zastupitel Hollan.
+
+Bc. Matěj Hollan:
+Já jsem měl vlastně podobné dotazy, jenom je rozšířím, aby zde bylo přesně vedeno, je. Pokud je
+pravda, že tam jsou ty rozpory a ten regurační plán MPR nelze plně uplatňovat, tak odkdy tato
+situace nastává, jak dlouho by trval proces toho zrušení, jak dlouho se tedy pohybujeme v té době,
+kdy stejně na každou žádost se bude muset dělat individuálně ten výklad, kde je ten střet a kde
+není, protože se tam něco posuzuje pořád? A jestli zde opravdu nemůže vzniknout reálná obava,
+
+
+                                      Strana 41 z 53
+že v mezidobí, před schválením těch nových regulačních studií a koncem platnosti, nebo po zrušení
+toho regulačního plánu, zde bude okno, kdy stavební úřady na základě povolení budou, nebo
+nebudou mít na základě čeho nepovolit záměr, který by tu městskou památkovou rezervaci
+poškodil? Zda tedy je tady jistota, že pořád zde bude ten právní podklad, na základě kterého
+stavební úřady, památkáři a tak budou mo, moci posuzovat ty stanovené památkové hodnoty, které
+jsou v tom regulačním plánu dnes ošetřeny?
+
+JUDr. Markéta Vaňková, primátorka:
+Tak. Poprosím pana vedoucího.
+
+Mgr. Viktor Poledník, vedoucí Odboru územního plánování a rozvoje MMB:
+Já se to možná pokusím shrnout trošku více od začátku. Ono ve chvíli, kdy se vydal nový územní
+plán a nabyl účinnosti, 31. ledna, tak se v podstatě veškerá územně plánovací dokumentace,
+ostatní, to znamená všechny regulační plány, s ní dostaly do logického rozporu. Už jenom díky
+tomu, že nový územní plán má prostě zcela jinou metodiku té regulace, než měl ten územní plán
+starý. To znamená, k 31. lednu se v podstatě všechny ostatní regulační plány neaplikují.
+Samozřejmě otázka je míra toho rozporu. Ale to nelze říci takhle obecně. To je potom nutno vždycky
+u každého projektu posoudit samostatně. Je ovšem pravdou, že v podstatě i stavebnímu úřadu
+jsme naznačili, že ty regulační plány nelze používat v zásadě en bloc, protože jak funkční regulace
+se změnila, tak se změnila i prostorová regulace, tak se změnilo třeba i procentuální zastoupení
+zeleně. To znamená, ty regulační plány jsou nadále platné, ale v zásadě se podle nich už vůbec
+nedá postupovat. Nějakým způsobem stavebníkům, nebo stavebnímu úřadu sdělovat a vypichovat,
+které části by se použít daly a v jakých případech, je v zásadě teď nereálné, protože by z toho vznikl
+nějaký obrovský elaborát, ve kterém by se určitě na něco zapomnělo a určitě by to nevedlo k cíli.
+Stavební zákon nám v podstatě nyní ukládá povinnost, jako pořizovateli, nějak tuto situaci řešit.
+U územních plánů, respektive u regulačních plánů, které jsou vydány po roce 2007, nám dává
+možnost provést jejich změnu, uvést je do souladu s územním plánem a nadále je používat.
+U regulačních plánů, které byly vydány před rokem 2007, nám nabízí pouze 2 možnosti, a to buď
+tyto regulační plány zrušit, anebo pořídit nové, které zruší ty staré. Co se týče nového územního
+plánu, tak ten opravdu po tom roce 2022 doznal zásadních změn, co se týče ochrany
+stabilizovaných ploch, přibyly tam nově karty zón, samostatně je památková rezervace ještě
+chráněna orgány památkové péče. To znamená, z našeho úhlu pohledu je tam ta stávající ochrana
+již dost robustní na to, aby tam nic nevhodného nevznikalo. Samozřejmě řešilo se to i s městskou
+částí, to znamená, pokud bude potřeba nějakým způsobem tam tu ochranu ještě zpřísnit, byť když
+jsme se na to dívali třeba s Kanceláří architekta města Brna, tak už jako moc nevíme, co ještě více
+tam zpřísňovat, tak je možno pořídit tu územní studii. A v podstatě teď to zahájení procesu zrušení
+těch regulačních plánů bereme jako nějaký krok, v rámci něhož, v rámci těch projednání se vlastně
+zjistí, jesi je potřeba tam vůbec ty regulační plány ještě mít. Z našeho úhlu pohledu je to krok
+efektivnější a pro město levnější, protože ten návrh na zrušení zpracováváme my, jako odbor,
+vereativně rychle ho budeme schopni projednat, to znamená, zjistíme názor oficiální, jak městské
+části, tak veřejnosti, tak ministerstva kultury. Ve chvíli, kdy se zjistí, že to zrušení je neprůchozí, tak
+se potom může řešit varianta, buď začít pořizovat úplně nový, udělat případně územní studii, nebo
+nechat ten regulační plán v té podobě, v jaké je, platí do toho roku 28. A potom samozřejmě je
+otázka, co by se dělalo po tom roce 28. Druhá varianta byla zahájit pořizování nového regulačního
+plánu ihned, což by samozřejmě znamenalo udělat výběrové řízení, pravděpodobně by samotné
+zpracování té dokumentace stálo několik milionů, a než bychom se dostali vůbec k nějakému
+výsledku, tak v podstatě by to trvalo, pravděpodobně, několik let, přičemž ten regulační plán se už
+teď nedá použít. To znamená, ta situace, že se už teď území nepoužívá, platí od 31. ledna. To
+znamená, snažili jsme se zvolit tu variantu efektivnější, rychlejší a levnější, zjistit názor území, jesi
+se tedy má dělat územní studie, nebo jesi se má dělat nový regulační plán, to budeme schopni
+vědět již v tomto roce. A následně, potom tedy se může rozhodnout, jakým způsobem se vydat
+dále. Ale, jak říkám, ten regulační plán už nyní neplatí v to, v tom smyslu, že by se aplikoval.
+To znamená, stavební úřad by ho už teď neměl používat. Protože si neumím představit, jak tam
+bude v těch desítkách různých, malých regulativů, versus regulativy nového územního plánu, hledat
+1, 2, které se v jednom, konkrétním případě, použijí, nebo nepoužijí takovým způsobem, aby si to
+potom třeba obhájil buď v rámci přezkumu, ať už na krajském úřadě, nebo na soudu.
+
+Ing. Jana Drápalová:
+Tak já bych nejdřív procesně k tomu méhomu návrhu. Já jsem si úplně nebyla jistá, jak zformulovat
+ten návrh usnesení tak, aby bylo zřejmé, že bych chtěla, aby se neschválilo dnes v zastupitelstvu,
+ta část, která se týká městské památkové rezervace, toho Regulačního plánu městské památkové
+rezervace. Nejsem si jistá, jestli jsem to naformulovala dobře. Poprosila bych teda spíš o právní
+
+
+                                        Strana 42 z 53
+asistenci, aby bylo zřejmé a nebylo to zmatečné hlasování, jak ten návrh formulovat. A druhá
+poznámka. Jak tady pan vedoucí říkal, že se teprve teď bude zjišťovat, a to i současně s procesem,
+nebo se zahájením procesu rušení toho Regulačního plánu městské památkové rezervace, jaký
+na to mají názor ty dotčené instituce, tak já se domnívám, že by se to dalo zjistit i jednodušším
+procesem, normálně neformálně se jich na to zeptat, co by navrhovaly jako za postup do budoucna.
+A potom ten materiál předložit už s tím, současně s tím rozhodnutím, jesi se tedy bude pořizovat
+nový regulační plán, nebo jestli se bude pořizovat ta územní studie s regulačními prvky. Protože si
+všichni uvědomujeme, jak dlouho trvá proces pořízení takové dokumentace, to vůbec
+nezpochybňuju, že to bude stát několik milionů korun, ale také to může trvat hodně dlouho.
+A rok 28 je prostě za dveřma. Takže v Brně máme zkušenosti s tím, že územní plánování opravdu
+není jednoduchý a rychlý proces. Takže bych si dovedla představit, že bychom, než rozhodneme
+o tom, že zahájíme proces rušení tohoto regulačního plánu, což v této chvíli vlastně znamená, že
+ho rušíme bez náhrady, tak že bychom měli současně s tím už vědět ten krok B. A nic se asi
+nestane, když o 1 měsíc odložíme, nebo o 2 měsíce odložíme to rozhodnutí o tom zahájení procesu
+rušení, a zároveň s tím rozhodneme o tom, co bude dál. Jesi teda budeme pořizovat nový regulační
+plán, nebo budeme pořizovat územní studii s regulačními prvky, anebo se třeba všechny instituce
+mezitím, v rámci neformálního dotazování, které může třeba KAM, nebo, nebo odbor územního
+plánování udělat, se, všichni řeknou, že to není potřeba, že ten nový územní plán je dostatečný
+a naprosto v pohodě a že není potřeba pořizovat vůbec žádnou další dokumentaci. Ale přesto bych
+v té chvíli už, myslím si, že bysme se mohli vyhnout tomu, že by skončilo zahájení procesu rušení
+regulačního plánu MPR nějakým fiaskem a eště to navíc vyvolalo nějaké vlastně negativní odezvy
+od institucí a lidí, kterým na tom, aby to centrum Brna bylo do budoucna vlastně pěkné a bylo,
+zachovávalo ty hodnoty, které tam jsou, tak abysme zbytečně si jakoby, teďka to nechci řik, naběhli
+na vidle, a vyvolali o tom zbytečnou, vzrušenou veřejnou diskusi. Myslím, že se to dá udělat
+neformálním zjišťováním těch, těch názorů, a potom už si to předložit do zastupitelstva s těmi, s tím
+vědomím vlastně, kam, kam jdeme dál.
+
+Bc. Tomáš Koláčný:
+Já tady musím říct, že jsem poněkud zmaten z toho, co tady říkal pan vedoucí, prot, ale konkrétně
+teda z toho, jak může stavební úřad ignorovat stále eště tedy platný regulační plán? Já rozumím
+tomu, že pokud je nějaký moment sporný s novým územním plánem, který má tedy vyšší právní
+sílu, tak ten stavební úřad vyjde z toho nového územního plánu. Ale v situacích, kdy ke sporu
+nedochází a ten regulační plán pouze rozšiřuje ty regulativy stávajícího, tedy nového územního
+plánu, tak tam se domnívám, že není možné, aby stavební úřad tedy ten platný regulační plán
+ignoroval. Takže i z tohodlenctoho důvodu se domnívám, že ta cesta, kterou navrhuje
+kolegyně Drápalová, je mnohem šťastnější.
+
+JUDr. Markéta Vaňková, primátorka:
+Zeptám se pana vedoucího Poledníka, jestli na to chce zareagovat?
+
+Mgr. Viktor Poledník, vedoucí Odboru územního plánování a rozvoje MMB:
+Jenom v krátkosti. Co se týče potom té konkrétní aplikace, ano, když si to potom zkusíte
+na konkrétním projektu, tak ten územní plán funguje jako nějaký celek. To znamená, máte tam
+opravdu tu funkční regulaci, prostorovou regulaci, různé, buď karty zón, karty lokalit, a to berete
+jako celek, který nějakým způsobem dopadá na ten projekt. Takhle když si k tomu dáte ten regulační
+plán, tak potom zjistíte, že se to opravdu současně aplikovat nedá, protože jeden regulativ je
+v rozporu s jiným regulativem. Je to stejný případ, jak když máte krajské ZÚR, které Vám prostě
+někde vymezí koridor, Vy pod ním máte plochy územního plánu a taky je neaplikujete, dokud to
+neuvedete do souladu. Není to opravdu děláno tím způsobem, že by územní plán byl nějaká
+základní vrstva a regulační plán tu základní vrstvu v podstatě jenom rozvíjel. Tam jde spíš o to, že
+regulační plán má mít ty prvky shodné a má je zpodrobňovat. A ve chvíli, kdy nový územní plán má
+úplně jinou metodiku, než měl starý územní plán, a jinou metodiku, než má regulační plán, tak je
+opravdu velice těžké jakoby najít ty případy, ve kterých jste schopni tu linku, odshora až dolů, udělat
+celou. To znamená mít tam propojený regulativ regulačního plánu na nový územní plán, na celou
+to, jeho systematiku, a tvrdit, že celá ta linka je v souladu. Protože jakmile tam najdete jediný
+nesoulad, tak to prostě použít jakoby nemůžete. A ono, vemte si, že u stavebního řízení, nebo
+u územního řízení opravdu si vším musíte být jist, jistý na 100 %, musíte to řádně odůvodnit,
+a každá pochybnost Vám potom může zpochybnit ten proces, i do budoucna. Znamená, že pokud
+opravdu jakoby výstavba v Brně nemá být postavena na tom, že jeden úředník tady dělá nějaké
+dost vachrlaté správní uvážení, tak je potom cesta bezpečnější prostě držet se územního plánu,
+držet se názoru dotčeného orgánu památkové péče. A nepokoušet se o nějaké složité konstrukce,
+o konstrukce, kdy prostě řekněte, že z 10 regulativů jich 8 nesedí na 90 %, 1 na 75 % a 1 jenom
+
+
+                                       Strana 43 z 53
+na 40. Takže když to nějak spojím, tak z toho jakoby něco můžu vzít a použít. Toto bych opravdu
+jako u přezkumu nechtěl někomu vysvětlovat, že jsem nějakou takovou, podobnou jako myšlenku
+dělal. Ale jak říkám, ono to opravdu teď není jako nějak zásadně problematické. Ten nový územní
+plán na to reagoval, má tam kartu zóny, byl takhle domluvenej s Ministerstvem kultury. Má tam
+speciální regulativy na ochranu stabilizovaných ploch. To znamená, představa, že teďka tam
+vznikne něco, co ještě před 3 měsíci nebylo možné, opravdu jakoby příliš reálná není. A neumím si
+to jakoby představit, že by to třeba památkáři pustili.
+
+Bc. Matěj Hollan:
+My se tím asi zabýváme tolik proto, že ten regulační plán, pánů Mikšíka a Němce, z toho roku 99,
+je velmi uznávaný, velmi kvalitní, a v, za tu dobu své platnosti to několikrát ověřil. Byly to i případy,
+jako podzemní garáže na Zelném trhu, kdy se to dostávalo tehdy do komických rozporů, kdy
+tehdejší šéfka odboru územního plánování, myslím, že paní Leopoldová, možná, že si už jméno
+pletu, tak tvrdila, že ty územní plány a regulační plány neřeší to, co je v podzemí, takže to na to
+nejde uplatňovat. Tak jsem se, ptali, jestli tam jde teda vybudovat třeba úložiště uranu
+pod, nebo jar, jaderného odpadu pod Zelňákem, když to žádný plán neupravuje, tadytyto věci?
+A pánové Mikšík a Němec, nejen v této kauze, ale v mnohých dalších, byli v tom oporou a jasně
+poskytovali i metodické vedení, neformální, stavebním úřadům, OUPR, diskutovali o tom
+s památkáři, jak konkrétně k tomu přistupovat. Takže tohle je asi nějakej důvod, proč se tím tolik
+zabýváme. Já bych ještě rád poprosil, jestli je tady pan Havlíček, nebo nějaký zástupce Odboru
+památkové péče, aby mohl potvrdit, že je to tak, jak tady zaznívá, že k těm problémům nebude
+docházet. Já si jinak tu složitost dobře uvědomuju. Vidíme to nejvíc na, nebo asi budeme vidět
+nejvíc na tom salátu jménem městské památkové zóny, nebo jak se jmenuje to, co je teďka
+vyhlášený na půlku Brna a nemá to hlavu a patu, protože to Ministerstvo kultury prostě vyhlásilo
+bez debaty s městem, bez nějakého řádného projednání. Prostě tam něco napsali, nějaké
+regulativy, a moc si nekoukali vpravo a vlevo. Oproti tomu tadytento Regulační plán městské
+památkové rezervace byl zpracován velmi podrobně a velmi citlivě. Ale celkově, jak víme, to
+posuzování těch památkových hodnot, s ohledem právě na tyto dokumenty, v souladu s územním
+plánem a dalšími pravidly, je obtížný. A teda můj dotaz je na Odbor památkové péče, nebo někoho,
+kdo za to může mluvit, jak se tím bude bez tohoto dokumentu postupovat, jestli ten zákon, nebo ta
+vyhláška o městské památkové rezervaci, někdy z těch 80. let, v kombinaci s tím dnešním územním
+plánem, je dostatečně robustní na to, aby nemohlo docházet k problémům a něco tam neproteklo
+mezi prsty. Jinak to považuju, to, co jsem slyšel, za jako dostatečné, za důkladné vysvětlení, že by
+tam k problémům nemělo docházet. Ale ten Odbor s, památkové péče by bylo dobré, když by
+i k tomu řekl své. Je to i to, co říkala Jana Drápalová, že možná než to zjišťovat procesem, že CC
+vyhláší zrušení, a bude se čekat, co na to dotčené orgány, tedy pamáťák a Odbor památkové péče,
+případně další, řeknou, tak by bylo dobré to slyšet asi dopředu, jak se na tadytoto dívají.
+
+JUDr. Markéta Vaňková, primátorka:
+Já poprosím pana vedoucího Havlíčka.
+
+Mgr. Petr Havlíček, vedoucí Odboru památkové péče MMB:
+Já jen pro upřesnění bych chtěl ještě krátce zmínit k té památkové zóně Brno a Královo Pole. Ty
+obě dvě zóny vznikaly v podstatě v Brně. Ministerstvo nechalo jejich přípravu na Kanceláře
+architekta města, v brněnských orgánech dotčených. Tak to jen tak na okraj. Pan vedoucí Poledník
+velice erudovaně a přesně shrnul to, jakým způsobem bychom postupovali. Odbor památkové péče
+zůstává dotčeným orgánem státní správy, a pokud nebude existovat Regulační plán městské
+památkové rezervaci, tak na našem vyjadřování, ani na procesu, ani na obsahu, se nic nezmění.
+S, k jednotlivým stavbám budeme i nadále vydávat závazné stanovisko. Podkladem pro to závazné
+stanovisko je jednak záměr, který posuzujeme, a písemné vyjádření NPÚ. Z pohledu památkové
+péče máme městskou památkovou rezervaci za relativně stabilizované území. Při posuzování toho
+záměru bude i nadále platit nařízení vlády, které vytvořilo památkovou rezervaci. To nařízení vlády
+má samostatné regulativy, které používáme, a zrušením regulačního plánu vlastně k žádné negaci
+tohoto nařízení vlády nedojde.
+
+JUDr. Markéta Vaňková, primátorka:
+Tak. V tuto chvíli nevidím nikoho dalšího přihlášeného, budeme tedy hlasovat. Máme tady návrh
+od paní zastupitelky Drápalové, který zní - Zastupitelstvo města Brna vypouští bod 3, návrh
+na zahájení procesu rušení Regulačního plánu městské památkové rezervace. Zahajuji hlasování
+o tomto návrhu usnesení:
+       Hlasování č. 70:       9 - 2 - 21 - 19
+
+
+
+                                       Strana 44 z 53
+   JUDr. Markéta Vaňková, primátorka:
+   Toto usnesení nebylo přijato. Potom, jestli vnímám návrh Tomáše Koláčného, hlasování
+   po odrážkách. Takže půjdeme po odrážkách, tak jak jsou číslované. Takže - Zastupitelstvo města
+   Brna 1. schvaluje, takže bod č. 1. Zahajuji hlasování:
+          Hlasování č. 71:     45 - 0 - 0 - 6
+
+   JUDr. Markéta Vaňková, primátorka:
+   Usnesení bylo přijato. Nyní - Zastupitelstvo města Brna schvaluje 2, bod č. 2. Zahajuji hlasování:
+         Hlasování č. 72:         47 - 0 - 1 - 3
+
+   JUDr. Markéta Vaňková, primátorka:
+   Usnesení bylo přijato. Nyní budeme hlasovat o bodu č. 3. Takže - Zastupitelstvo města Brna
+   schvaluje 3 a tak dále. Zahajuji hlasování:
+         Hlasování č. 73:       39 - 3 - 6 - 3
+
+   JUDr. Markéta Vaňková, primátorka:
+   Usnesení bylo přijato. A poslední, bod č. 4. Takže - zastupitelstvo schvaluje 4. Zahajuji hlasování:
+         Hlasování č. 74:        42 - 0 - 6 - 3
+
+   JUDr. Markéta Vaňková, primátorka:
+   Usnesení taktéž bylo přijatlo, přijato. Tím máme projednaný celý bod č. 85) a můžeme přistoupit
+   k bodu nově zařazenému, který si tedy asi označíme jako bod 86).
+
+
+   Schválené usnesení:
+   1.ZMB schvaluje
+   ve smyslu ust. § 113 odst. 2 a 3 zákona č. 283/2021 Sb., stavební zákon, ve znění pozdějších
+   předpisů, zahájení procesu zrušení Územního plánu zóny Soběšice včetně obecně závazné
+   vyhlášky č. 1/1998, Města Brna, městské části Brno – sever, kterou se vyhlašují závazné části
+   Územního plánu zóny Soběšice, ve znění pozdějších předpisů.
+
+   2.ZMB schvaluje
+   ve smyslu ust. § 113 odst. 2 a 3 zákona č. 283/2021 Sb., stavební zákon, ve znění pozdějších
+   předpisů, zahájení procesu zrušení Regulačního plánu MČ Medlánky včetně obecně závazné
+   vyhlášky č. 8/2002 o závazných částech Regulačního plánu MČ Medlánky, kterou se nahrazuje
+   vyhláška Magistrátu města Brna č. 3/1999, ve znění pozdějších předpisů.
+
+   3.ZMB schvaluje
+   ve smyslu ust. § 113 odst. 2 a 3 zákona č. 283/2021 Sb., stavební zákon, ve znění pozdějších
+   předpisů, zahájení procesu zrušení Regulačního plánu městské památkové rezervace města Brna
+   včetně Obecně závazné vyhlášky č. 28/2006, o závazných částech Regulačního plánu Městské
+   památkové rezervace Brno, ve znění pozdějších předpisů.
+
+   4.ZMB schvaluje
+   ve smyslu ust. § 113 odst. 2 a 3 zákona č. 283/2021 Sb., stavební zákon, ve znění pozdějších
+   předpisů, zahájení procesu zrušení Regulačního plánu bloku Příkop - Bratislavská - Koliště - Milady
+   Horákové včetně obecně závazné vyhlášky č. 16/2001, o závazných částech Regulačního plánu
+   bloku Příkop-Bratislavská-Koliště-Milady Horákové, ve znění pozdějších předpisů.
+
+86. Provedení hloubkového auditu          hospodaření     TIC   BRNO,     příspěvkové     organizace,
+    při pořádání vánočních trhů
+
+   Rozprava
+
+   JUDr. Markéta Vaňková, primátorka:
+   Poprosím předkladatele, pana zastupitele Skřičku, o jeho krátké uvedení.
+
+   doc. MUDr. Tomáš Skřička, CSc.:
+   My jsme se tadytouto problematikou poměrně podrobně zabývali na Kontrolním výboru magist,
+   Zastupitelstva města Brna a současně také na našem klubu a dospěli jsme k závěru, že je možno
+   konstatovat, že v rámci pořádání vánočních trhů došlo k řadě pochybení, která bychom chtěli
+   objasnit. Přestože ty vánoční ta, trhy byly velmi úspěšné z hlediska návštěvnosti a tak dále, tak
+
+
+                                         Strana 45 z 53
+v rámci zlepšení hospodaření a v rámci zlepšení působení a organizaci těchto trhů do buducna
+bychom chtěli objasnit ty body, které máte v příloze tohoto návrhnu us, usnesení.
+
+Bc. Tomáš Koláčný:
+Já se domnívám, že pokud platí informace, že v současnosti probíhá interní audit tadytéhlencté
+akce, jakož i hospodaření TIC, tak není úplně šťastné a hospodárné předtím, než budeme mít
+k dispozici výsledky tadytohohlenctoho interního auditu, činit další kroky směrem k zadání externího
+audit, jehož cena se klidně může vyšplhat na 500.000 Kč. To znamená, doporučil bych posečkat
+tadystímto návrhem do okamžiku, kdy budeme mít výsledky toho interního auditu. Já se domnívám,
+že paní vedoucí Göttingerová i celé OKO jsou velmi kompetentní a není úplně šťastné jejich
+kompetence takovouto formou zpochybňovat. Ale samozřejmě vnímám, že je tady jakási poptávka
+po snaze zvýšit efektivitu hospodaření té akce, vánočních trhů, a proto bych si dovolil načíst
+protinávrh usnesení - Zastupitelstvo města Brna ukládá Radě města Brna zřízení pracovní skupiny
+ve složení: zástupce TIC BRNO, zástupce městské části Brno-střed, zástupce Magistrátu města
+Brna, zástupce Technických sítí Brno, za účelem zefektivnění hospodaření vánočních trhů v Brně.
+A samozřejmě, jakmile budeme mít výsledky toho interního auditu, tak se k té situaci můžeme vrátit,
+a pakliže to v tu chvíli bude nezbytně nutné, tak můžeme učinit další kroky.
+
+JUDr. Markéta Vaňková, primátorka:
+Ano, děkuji. Poprosím o ten písemný návrh. Pan zastupitel Hollan.
+
+Bc. Matěj Hollan:
+Já se chci zeptat, jestli je normální projednávat na zastupitelstvu takovýto pamflet, který je tady
+předložený? Takto nevypadá normální materiál, kterýmu by se mělo zastupitelstvo věnovat.
+Ty Brněnské Vánoce, o nichž se bavíme, je jedna, nebo možná vůbec nejreprezentativnější věc,
+která je s Brnem za posledních mnoho let, díky činnosti TIC, spojována. Ten letošní titul, evropské
+město Vánoc, přitáhl městu obrovskou publicitu. Ty, ta akce má jako neuvěřitelně pozitivní benefit
+z hlediska turismu, brandingu, marketingu města. TIC by si zasloužil za ní, a paní ředitelka, velkou
+pochvalu za to, že takováto akce, minimálně evropského formátu, se v Brně dělá. Vedle toho, když
+vidíme další činnosti TIC, jako jsou teďka vodojemy, které jsou nonstop plné, samozřejmě tady jako
+velké poděkování znova Jiřímu Olivovi, že to dotáhl, ten projekt, a že se to zpřístupnilo. Je to
+naprosté terno, prostě mluví se o tom úplně všude a je to pořád plné. Každý, každý organizátor tam
+chce. A máme tady organizaci, která dokáže pro město udělat brand vlastně silnější, zvučnější, než
+dokáže to město samo o sobě, což je v pořádku, na tom Brno, na to město takové organizace má.
+A tady místo toho si čteme věty v důvodové zprávě - na základě zjištění Kontrolního výboru
+i mediálního obrazu této akce dochází k reputačnímu poškození města Brna. Myslím, že jediné
+reputační poškození města Brna v kon, v kontextu Brněnských Vánoc dělá SPD, s panem Šibřinou,
+který neustále úplně všechny spamuje svými zprávami, ať jsou to média, ať jsme to my, osobně,
+kdokoliv o tom cokoliv napíše, tak mu dalších několik dnů pan Šibřina vypisuje elaboráty a kudy
+chodí, tudy špiní Brněnské Vánoce. A žádné jiné reputační poškození města tady není než tadytahle
+uměle vyvolaná kauza na základě nějakých úplně zástupných věcí. Ano, připojuju se v tomhle, jak
+říká Tomáš Koláčný, určitě, pokud je tady poptávka na nějaké zefektivnění, nebo přehodnocení
+toho, jak se mají ty Vánoce dělat, to je zcela legitimní, je to městská akce, městská organizace, ale
+má se to řešit v nějaké pracovní skupině, dohromady s městskou částí, dohromady s dalšími
+významnými aktéry, kteří jsou toho součástí. Ne, ještě v průběhu toho, když probíhají vnitřní
+kontroly, tak zadávat externí audit na pitomosti typu - kolik má stát dračí vejce nebo krokodýl
+ve svetru, což jsou nějaké umělecké věci, nějaké hodnoty, které všichni víme, jak u soch, u obrazů,
+jak se posuzují, úplně se to jako odhadem tržní ceny, tadytyto věci, nedělají. A zabývat se tady jako
+dohonestováním a taháním stokama, bahnem, TIC, po takto úspěšném ročníku, který zase znova
+prostě obletěl média v celé střední Evropě, minimálně, tak mně připadá úplně mimo mísu. A byl
+bych velmi za to, když by tento materiál, v této pamfletové podobě, s naprosto vágním, náhodným
+zadáním, nebyl schválen a postupovalo se racionálně, tak jak v případě jiných příspěvkových
+organizací města Brna. A to jsou ty zprávy o činnosti příspěvkových organizacích v kulturní komisi
+a v dalších komisí a v radě pořád. To město má x kontrolních mechanismů, jak toto řeší. A pokud
+by se tady děly nějaké podivnosti, tak za ty, za těch mnoho let, co pod tímto vedením TIC to mělo
+pod sebou v gesci ANO, ODS, já jsem nějak u toho byl, Tomáš Koláčný určitě taky, jako kulturní
+náměstek, a další, tak bysme si asi všimli, jako město, že se tam děje něco, co je takto závažné,
+že se musí tady vyhazovat veřejné peníze na to, aby externí auditor a externí firma prověřovala
+hodnotu dračího vejce.
+
+
+
+
+                                      Strana 46 z 53
+Bc. Jakub Hruška:
+Já bych chtěl jenom upravit na, na pravou míru to, co tady zaznělo v úvodu toho materiálu, a to to,
+že, alespoň já jsem v kontrolním výboru nehlasoval na základě toho, že bychom objevili nějakou
+fascinaci, nějakou f, ně, něco, co bychom museli ukázat prstem, tohle je špatně. Naopak,
+předminulé jednání, dokonce za účasti paní ředitelky, proběhlo v duchu, kdy jsme chválili Vánoce,
+a to včetně pana předsedy. I on uznal, že s, že je to něco, čím se Brno může chlubit. Takže já bych
+chtěl říct, že to není tak, že měs, že kontrolní výbor jednomyslně ukazuje, tohle je špatně. Spíše
+jsme se shodli na tom, že je možné provést nějaký audit a zkontrolovat, jestli to nelze dělat eště
+efektivněji. Takže to za mě.
+
+JUDr. Markéta Vaňková, primátorka:
+Tak. V tuto chvíli nevidím přihlášeného zastupitele, ale vidím tady paní ředitelku, takže samozřejmě,
+jestli paní ředitelka chce cokoliv uvést, tak má prostor, jenom, aby to bylo jasné. A mezitím se ale
+eště přihlásila paní zastupitelka Drápalová. Tak nevím, budete mít dotazy nějaké, paní zastupitelko?
+Budete. Tak, paní ředitelko, prosím, ještě si posaďte teda, necháme mluvit ještě paní zastupitelku
+Drápalovou a pak bude Vaše vystoupení. Tak. Paní zastupitelka Drápalová.
+
+Ing. Jana Drápalová:
+Nevím, jesi je to dotaz přímo na paní ředitelku, ale chtěla jsem se zeptat, jesi někdo může
+odpovědět, kdy byla zahájena ta interní kontrola Magistrátem města Brna?
+
+JUDr. Markéta Vaňková, primátorka:
+Já bych to nechala všechno nakonec. Já se k tomu chci nějakým způsobem vyjádřit za vedení
+města, takže shrnující nějaké stanovisko uslyšíte ode mě, až to bude vypadat, že diskuse je
+u konce. Tak. Teď paní ředitelka.
+
+Mgr. et Mgr. Jana Tichá Janulíková, ředitelka TIC BRNO, příspěvkové organizace:
+Já bych chtěla jenom velmi krátce okomentovat svůj postoj tadyktéto situaci. My realizujeme
+Brněnské Vánoce od roku 2015, kdy jsem vlastně nastoupila do vedení TIC. Tu akci jsme přebírali
+vlastně v době, kdy měla poměrně lokální úroveň, úplně jinou obchodní hodnotu. Ta naše strategie
+byla od začátku postavená na tom, že jsme pracovali s kulturní identitou tohoto města. Zapojovali
+jsme umělce tohoto města, ať už živé hudebníky, nebo živé hudebníky, nebo výtvarníky a další
+umělce. Tato strategie nás vedla až k tomu evropskému titulu. Ale tady se bavíme o hospodaření.
+A tady bych ráda zdůraznila jednu věc. My máme kontroly pravidelně, které se zaměřují na naši
+činnost. Hospodaření naší organizace považuju za zcela zásadní věc. Ty body, které jsou neustále
+zpochybňovány, jsou vedeny účelově, snahu nás poškodit. My jsme připraveni veškeré podklady
+kontrolám dávat, děláme to. U nás aktuálně probíhá kontrola OKA, která by měla končit v polovině
+dubna, a ta se vlastně hloubkově zaměřuje na Vánoce. I kontrolnímu výboru jsme veškeré podklady,
+které byly po nás vyžadovány, poskytli. Já jsem otevřená konstruktivní debatě o tom, jak zefektivnit
+ten způsob pořádání Vánoc, to jsem deklarovala už před několika měsíci a věřím tomu, že ta značka
+je natolik silná, že je potřeba se bavit o tom, jak ji dále rozvíjet, a ne ji tímto způsobem poškozovat.
+A mě velmi mrzí to, jakým způsobem probíhá, probíhají ty mediální útoky, protože nás to oslabuje
+všechny. A bohužel to poškození značky Brněnské Vánoce už bude se muset napravovat poměrně
+těžce.
+
+Bc. Jiří Kment:
+No, já bych tu debatu chtěl asi teďka tak nějak vztáhnout k tomu, co je vlastně nejdůležitější. My
+tady nehospodaříme se svými penězi. My tady hospodaříme s penězi daňových poplatníků. Takže
+pro nás musí být klíčové, aby ty peníze byly vydávány principem řádného hospodaření. Pokud je
+tam nějaký, nějaká, nějaké podezření na vydávání peněz, řekněme, příliš, nějak, coby, který by
+nemusely být vydány, tak je potřeba to zkontrolovat. A ten externí audit, sice se zdá ta cena třeba
+poměrně vysoká, třeba bude v řádu statisíců, ale když se podíváte dobře do toho materiálu, tak tam
+možná došlo k zbytečným výdajům v řádu milionů. Takže je to jiný řád. A určitě ten externí audit
+pomůže, nebo, předpokládám, že pomůže zefektivnit fungování, a ty trhy se tím pádem můžou stát
+i kvalitnějšími. Protože nebudeu vydávány peníze za to, za co být vydávány nemusí.
+
+JUDr. Markéta Vaňková, primátorka:
+V tuto chvíli tedy vidím, nebo nevidím nikoho přihlášeného, takže po, dovolte mi nějaké s, krátké
+shrnutí, za vedení města Brna. My se samozřejmě otázkou Brněnských Vánoc zabýváme poměrně
+dlouhou dobu. Ono, první nějaké otázky zazněly vlastně už před zahájením Brněnských Vánoc, asi
+jste to všichni nějak tak také postřehli. Spousta těch problémů je prostě vyvoláno tím, že máme
+v rámci Brna 2 silné provozovatele. Vánoce, nebo ty vánoční trhy, jako obecně takhle nazýváno,
+
+
+                                       Strana 47 z 53
+anebo oslava vánočních svátků, tak jsou jednak zajišťovány prostřednictvím naší příspěvkové
+organizace, to znamená TIC, a zároveň městskou částí Brno-střed. A logicky při prostě
+2 provozovatelích dochází někdy k nějakým třecím plochám, prostě ne oba dva subjekty mají
+na některé věci stejný názor, což je naprosto logické. Naším cílem je, a tak jsme celou tu dobu se
+snažili k tomu přistupovat, tak naším cílem je to, aby návštěvníci Brna a Brněnských Vánoc
+a vánočních trhů vůbec nemuseli řešit, že jsou 2 provozovatelé, a zejména nebyli obtěžováni
+žádnými vnitřními problémy. To byl celý můj cíl, od začátku prostě zimy, kdy, kdy došlo k nějakým
+prvním nesrovnalostem, které jsme nějak tak jako zaznamenali. Mrzí mě, že se tadytyto věci
+medializují. Neprospívá to, za mě, té náladě, protože hlavtím cílem těch vánočních trhů by mělo být
+jako navození dobré atmosféry, těšení se na, na Vánoce a, a na Ježíška, jak tady říká pan tajemník.
+Ne, nechci to rozvádět takhle dopodrobna, ale prostě, rozhodně si nemyslím, že by to měla být
+akce, ze které bychom měli mít nějakou pachuť. Což se teď bohužel děje. Ale je to tak a musíme
+se s tím nějakým způsobem prostě vypořádat. Proto už bylo učiněno poměrně mnoho kroků, byl
+tady, byl tady zmíněn interní audit, který provádí naše OKO. K tomu jenom velmi krátce řeknu
+a doplním vlastně paní ředitelku, že interní audit probíhá, zatím závěry nejsou definitivně učiněny.
+Ale co je potřeba říct a bude to důležité pro to, co budu říkat dále, interní audit nám nikterak
+nezhodnotí hospodárnost daných trhů. Zhodnotí nám veškeré procesy, to znamená, to je taky ta
+jedna část, která je vytýkána, jestli byly prostě oslovovány subjekty tak, jak měly být, jestli prostě
+byly dodrženy všechny zákony, tak na to nám interní audit odpoví. A já pevně věřím, že nám na to
+odpoví tak, že veškeré procesy byly dodrženy v souladu se zákonem. Ale neodpovídám, neodpoví
+nám na hospodárnost. S ohledem na, na všechny tyto skutečnosti, jako i na to, že víme, že to bylo
+předmětem debaty na kontrolním výboru, tak se opakovaně danou záležitostí zabývala porada
+vedení, minulý týden, minulou středu, kde my jsme na poradě vedení učinili rozhodnutí. A jenom
+podotýkám, že porada vedení není žádný orgán, který by měl nějaké kompetence dané zákonem
+o obcích. A my jsme tam, mimo jiné, přijali usnesení, že ukládáme panu tajemníkovi, aby zajistil
+zpracování, posouzení oprávněnosti personálních nákladů spojených s Brněnskými
+Vánocemi 2024 a posouzení hospodárnosti vynaložených nákladů na akci Brněnské Vánoce 2024,
+z úrovně externího subjektu. A následně předložil výsledky opět poradě vedení. V tuto chvíli, když
+tedy se nám dostal tento bod na projednání Zastupitelstva města Brna, pokládám za vhodné
+tadytoto usnesení porady vedení, které nemá ty, ty následky, které by měly, mělo usnesení těch
+orgánů, podle zákona o obcích, to znamená rady a Zastupitelstva města Brna, tak pokládám
+za vhodné toto usnesení vtělit do usnesení zastupitelstva. Proto jsem, si dovolím navrhnout
+usnesení, které Vám teď přečtu. A, a říkám, vychází z toho usnesení porady vedení, které už bylo
+přijato, a to by bylo takové, že zastupitelstvo ukládá radě zajistit externí zpracování, posouzení
+oprávno, oprávněnosti personálních nákladů TIC, to znamená naší příspěvkové organizace,
+spojených s Brněnskými Vánocemi 2023 a 24, oba dva roky, a posouzení hospodárnosti
+vynaložených nákladů na akci Brněnské Vánoce 2023 a 24, a to s přihlédnutím k otázkám
+uvedeným v příloze č. 1 daného materiálu. To znamená to, co bylo předloženo panem, panem
+zastupitelem Skřičkou, otázky, které jsou v příloze č. 1, tak by byly určitým vodítkem. Neznamenalo
+by to, toto usnesení, že budou zodpovězeny úplně všechny otázky, tak jak jsou dopodrobna, jsou
+poměrně jako podrobné. My bychom to dali tomu externímu subjektu, jako vodítko. Měl by vycházet,
+mimo jiné, z těchto otázek. Ale cílem je, aby byl udělaný nějaký kompletní, ucelený přehled
+hospodárnosti a personálních nákladů. Takže takhle bych si dovolila, po případné diskusi, protože
+vidím, že už se tam někdo další opět hlásí do diskuse, tak bych si dovolila dát hlasovat o tomto
+návrhu usnesení. Tak. A teď se hlásí pan zastupitel Hollan, tak má slovo.
+
+Bc. Matěj Hollan:
+Já se chci zeptat, co to je ta hospodárnost? Jak konkrétně to bude poměřováno? Jak ty dotazy
+budou kon, koncipovány? Co je cílem toho prověření? Vůči čemu to má poměřit tu u, hospodárnost?
+Prosím pana tajemníka, jak to dokončím, aby se k tomu vyjádřil, co přesně a komu bude zadávat,
+jaký je okruh těch firem, pokud to pude zakázkou, nebo jakým způsobem se soutěží zakázka
+na externí posouzení hospodárnosti, personálních nákladů a, obecně, Vánoc? Pokud to teďka
+reprodukuju správně, co jste o tom říkala. Z mého pohledu to zní podobně, jako když by se tady
+zadával externí posudek na hospodárnost muzikálu v městském divadle, nebo oper v národním
+divadle. Že budeme řešit, jestli ek, někdo externí nám bude říkat, jestli personální náklady v té opeře
+a v tom muzikálu, vybírám ty drahé produkce záměrně, jestli jsou správné, nebo ne? Bude to
+poměřovat s nějakým divadlem malých forem, nebo scénou v Olomouci, nebo v Plzni, která má
+úplně jiné možnosti, úplně jiné cíle, i v rámci toho daného žánru? A co se zjistí? Co je ta
+hospodárnost u toho? Prosím, jestli to může být rozvedeno, tadytahle věc, panem tajemníkem
+zodpovězena? Další věc je, když je ta dá, a podle toho navrženého usnesení má postupovat, nebo
+přihlížet k té příloze č. 1. Jak si má, někdo nezávislý, po, poradit s tak návodnými otázkami, jako je
+bod 3) - nadměrné osobní náklady na zaměstnance? Ten materiál už jako předjímá, jak to dopadne.
+
+
+                                       Strana 48 z 53
+To není zadání nezávislého auditu. To je, tam máte odpověď a k tomu se má někdo jako zpětně,
+umělé, dopočítat, aby to vyšlo tak, jak je tady v otázce. Aby vyšly nadměrné osobní náklady. Nebo
+v otázce č. 5) - předražená montáž Zimního baru a stánku. Proč se zadává audit, když, už dopředu,
+ten materiál, který teďka, i s tím Vaším pozměněným usnesením, se má schválit, říká, že je to
+předražená montáž? Jak tady bylo řečeno, běží nějaký vnitřní audit, který skončí v polovině dubna.
+Říkala jste, že to neřeší tu takzvanou hospodárnost, jenom jestli tam bylo postupováno v souladu
+se zákonem. Nicméně myslím, že když by, když tady vezmu pravdivý bod č. 5) - předražená montáž,
+tak j, na toto by interní autit měl odpovídat, proč jako, pokud byla předražená, tak nevím, jestli byla
+úplně v souladu se zákonem? A Vy to tady, v tom materiálu, který se chystáte schválit, už
+konstatujete, dopředu. Myslím si, že by stálo za to se k tomu vrátit v květnu, k tomu materiálu,
+ve chvíli, když bude jasný závěr toho interního auditu. Pokud z něho vyjdou nějaké závěry, tak jde
+specifikovat ty dotazy na externího auditora detailněji a nepředjímat, jak to dopadne. Tadytuhle věc
+máme předloženou, vím, že to nepředládala rada, ale pan Skřička, tak má prostě úroveň pamfletu,
+dopředu říká, jak to má dopadnout. A nemělo by se to vůbec objevit v jakémkoliv oficiálním výstupu
+Zastupitelstva města Brna, jako oficiální podklad pro zadání, byť jste říkala, že to nemusí se tím
+řídit úplně, ale, ale ty body jsou tam na, prostě nazvány už tak, že předjímají, jak to dopadnout má.
+
+JUDr. Markéta Vaňková, primátorka:
+Tak. Poprosím pana tajemníka o reakci.
+
+Ing. Oliver Pospíšil, MPA, tajemník MMB:
+Tak, vážený pane zastupiteli, protože jste položil celou řadu závažných a nejednoduchých otázek,
+tak si jste sám vědom toho, že úkol, který, byť není oklikou, přes radu, by měl být zadán mně
+a v podstatě i pracovníkům magistrátu, kteří by měli tu, na to posouzení u externího dodavatele
+zajistit, že je to úkol skutečně veliký, bude-li něco takového schváleno. Na druhou stranu se nedá
+říct, že to do určité míry je nemožné. Dá se to i nějakým způsobem upravit, ty formulace a to zadání
+z protinávrhu usnesení. Jistě všichni cítíte, že je tam snaha o určité zobecnění toho zadání, ale ne
+proto, aby se to minulo účinkem, ale aby se vlastně při tom samotném posouzení šlo nějakou cestou
+hospodárnosti, aby se nezadalo něco zbytečně rozsáhlého, co by mohlo být třeba v duplicitě s tím,
+co provádí, co provádí OKO. Ta hospodárnost sama o sobě je skutečně širokým, širokým pojmem
+a bude potřeba tam konzultovat především ty záležitosti, tam, kde dochází k vlastně vyhodnocení
+nějakých autorských počinů, to je opravdu problém, jak u toho svetříku Brněnského draka, tak
+i vajíčka, toho dračího. A tam sám jsem zvědavý, čeho vlastně můžou experti v dané oblasti
+dosáhnout. Možná se ukáže, že to není dost dobře hodnotitelné a přezkoumatelné, ale domnívám
+se, že i to je výsledek, který je předložitelný na zastupitelstvo a může hovořit ve spro, ve prospěch
+TIC a brněnských, Brněnských Vánoc. Nedovedu si představit, po tom celém, nešťastném
+mediálním humbuku, že by zastupitelstvo řeklo, všechno je, všechno je asi úplně v pohodě. Nechme
+to plynout dál a na nic už se dál ne, neptejme. Takže je tady snaha o to, jít nějakou rozumnou cestou
+a celé to, celé to vlastně posoudit a ideálně prostě v dobrém uzavřít. Ptal jste se na to, jak budeme
+toho hodnotitele, experta hledat. Tak tam samozřejmě bude záležet na tom, do jakých výšin se nám
+ten honorář dostane. Možná to bude průzkum trhu, možná se ukáže, že to bude muset být nějaká
+větší zakázka. Já doufám, že nikoliv. Já jsem připraven spolupracovat, prostřednictvím předsedy
+kontrolního výboru, i s kontrolním výborem na, na tadytom zadání, protože ta iniciativa, do určité
+míry, vychází z tohoto, z tohoto orgánu. Ty otázky, které jsou uvedené v té příloze 1, mohou být
+návodné. To máte, to máte pravdu. Předjímat, co si o tom třeba má zastupitelstvo myslet, když se
+o tom bude hlasovat, stejně tak jdou do většího rozsahu, než je navrženo v usnesení, jak ho načetla
+paní primátorka. Ale právě proto je tam to změkčení, s přihlédnutím. Protože dovedu si představit,
+že pokud by se vůbec v nějakém kompromisním návrhu usnesení neobjevila zmínka o těch
+otázkách, tak se tady budeme zase několik desítek minut třeba vzájemně obviňovat z toho, že
+před těmi otázkami nějakým způsobem utíkáme a tak dál, nechceme je použít. Takže, myslím si,
+že si s tím někdo dal kus práce, definoval ty oblasti i vlastně toho, toho, to posouzení hospodárnosti,
+na které by se tedy měl ten externí subjekt zaměřit, a proto lze z toho vycházet. Zároveň, pokud
+pro to někdo bude hlasovat, tak se na podtextaci těch otázek, v příloze 1, přímo nepodepisuje,
+protože se z toho má vycházet, nikoliv přihlížet k tomu, ale nikoliv, že by to mělo být přesně,
+do puntíku.
+
+Bc. Matěj Hollan:
+Já moc děkuji za podrobnou odpověď. Ano, chápu, že pan Šibřina si s formulací těch otázek dal
+hodně práce, a mně to posílal taky, ne v úplně podobné formě, ale mnoha z nás toto zasílá,
+opakovaně. Chápu, že s tím i přes média vzbudil velkou pozornost, že tedy je jako na místě, že se
+tím i jako zastupitelstvo nějak zabýváme. Nicméně, já se podržím toho, co jste říkal, a to podepisuji,
+že zadat takovoudle zakázku na hospodárnost, aniž by bylo řečené radou, zastupitelstvem, někým,
+
+
+                                       Strana 49 z 53
+co to je a co se tam má zkoumat, je opravdu problematické. Sám jste říkal, že to není jednoduchý
+úkol. Z toho rovnou vyplývá, že teprve teď, někdy, se začnete bavit s těmi 2 odbory, co jsou
+nadřízené TIC, Odbor kultury a odbor marketingu, co by se tak asi mělo zadat. Někdy to bude
+vypsáno, někdy to, někdy vyhraje, za x měsíců, třeba v prosinci, nebo za, nebo v lednu tady budeme
+mít nějaký výstup. Otázka, kam se to vůbec trefuje? V tom materiálu je napsané, že se s tím začíná,
+že se to má udělat teď, hned, protože v nejbližší době započnou přípravné práce na organizaci
+vánočních trhů v Brně pro rok 2025, což, tak je. Tenhle audit, který není nijak zatím vymyšlený, jak
+by měl být koncipovaný, tak se do tohodle termínově úplně nestrefuje. A hlavně, pořád, i navazuju
+na to, co říkáte, že pro Vás, osobně, to bude složité to vůbec nějak konstruovat, to zadání. Tak ale
+tohle by bylo potřeba si jasně říct, tady, z úst vedení města, co je ta hospodárnost? Má se tomu
+udělat nějaká cost-benefit analýza, těm Vánocům? Jestli to, co městu a podnikatelům to přinese
+na zisku, na daních, to, co to přinese ubytovacím službám, to, co to přinese na nějaké zvýšené
+hodnotě toho brandu Brna, tak jestli je to adekvátní vůči vynaloženým prostředkům? Tak bych
+k tomu asi přistupoval, když bych měl takovýdle úkol. Poměřoval bych ty náklady s těmi výnosy.
+A ty výnosy, tím nemyslím to, co se vybere ze stánků. Ta akce pro TIC, z hlediska té organizace,
+jak všichni víme, určitě není prodělečná, minimálně si sama na sebe ta akce vydělá, v tomto žádný
+problém není, nejde to do žádné ztráty. Ale ty přínosy jsou určitě vo pár nul vyšší, než jsou ty náklady
+té akce. A konkrétní dotaz je - toto tam bude hodnoceno? Bude to jako poctivá, nevím, jestli správně
+používám teďka pojem, cost-benefit analýza, tadynatoto, ale budou tam hodnoceny tyto náklady
+a ty, tyto přínosy? Anebo co to bude vlastně hodnotit? Vy jste to říkal u toho dračího věce, nebo
+u toho krokodýla ve svetru, že sám nevíte, jak k tomu ten auditor přistoupí a co tam na tom bude
+hodnotit. Já taky ne. Nevím, kdo to tady ví, co, co, co vlastně bude tím středobodem toho zadání,
+tadyutěch prvních 2 bodů? Co tam na tom budou oni hodnotit? Budou hledat t, teď se omlouvám,
+budou hledat jiného krokodýla, v jiném svetru, a budou zjišťovat, kolik to stálo? Nevím, kde. Nebo
+co budou oni hledat? Co ten hodnotitel audit, auditor u tohoto bude hodnotit? Já, principiálně, nechci
+zpochybňovat, že se to, že to nemá smysl řešit. Stejně jako můžeme řešit, jestli Figarova svatba
+nešla udělat o něco levněji? Asi šla udělat o něco levněji. A muzikál taky šel udělat o něco levněji.
+Anebo šel udělat dráž. Jako de, de to nějak hodnotit, ale tohle je potřeba specifikovat. A jenom to
+hodit na tajemníka, ať si s tím, bůhví s kým, nějak jako poradí a něco zadá, a něco dodá, tak úplně
+jako postrádá ten účel toho celého. Navíc je vidět i z toho materiálu, že v rámci té diskuse, která
+probíhá, se tady signifikatně snížily náklady na zaměstnance, mezi roky 2003 a 2024. Nevidím
+do hloubky. Nevím, kam se co kalkuluje v TIC, jestli se to začalo překalkulovávat někam jinam, ty,
+ty položky, vidím tady ale nějaké snížení. Vidím, že ta debata probíhá. Už bych se opakoval, tak jak
+říkal pan Koláčný, normální by bylo k tomu prostě udělat jako pro, pracovní skupinu uvnitř města,
+dohromady s městskou částí Brno-střed, bavit se o tom, bavit se o tom, jak to má být nastavené, ty
+2 pořadatelé vůči sobě. Ale ta obecně zadaná zakázka, auditná, hospodárnost, nemá žádné
+konkretizované zadání, do této chvíle. A bojím se, že, nebo jsem jistý, že to způsobí jenom další
+chaos, ať už výsledek tadytohodle pseudoauditu bude jakýkoliv.
+
+JUDr. Markéta Vaňková, primátorka:
+Někdo další do diskuse? Nevypadá to, takže si myslím, že můžeme přistoupit k hlasování. Padalo
+tady spousta návrhů, to znamená, pudeme postupně. První protinávrh byl protinávrh pana
+zastupitele Koláčného. Já to znovu ještě přečtu. Usnesení je - Zastupitelstvo města Brna ukládá
+radě zřízení pracovní skupiny ve složení: zástupce TIC BRNO, zástupce MČ Brno-střed,
+zástupce MMB, zástupce TSB, za účelem zefektivnění hospodaření vánočních trhů v Brně. Tak.
+Zahajuji hlasování o tomto usnesení:
+       Hlasování č. 75:      7 - 2 - 18 - 22
+
+JUDr. Markéta Vaňková, primátorka:
+Takže tento návrh nebyl schválen. Poté si dovolím dát hlasovat o tom mém návrhu. A přečtu ho
+tedy ještě jednou - Zastupitelstvo města Brna ukládá Radě města Brna zajistit externí zpracování
+posouzení oprávno, oprávněnosti personálních nákladů TIC, spojených s Brněnskými Vánocemi
+23 a 24, a posouzení hospodárnosti vynaložených nákladů na akci Brněnské Vánoce 23 a 24,
+s přihlédnutím k otázkám uvedeným v příloze č. 1 tohoto materiálu. Zahajuji hlasování:
+        Hlasování č. 76:      44 - 1 - 3 - 1
+
+JUDr. Markéta Vaňková, primátorka:
+Usnesení bylo přijato. A teď se zeptám pana předkladatele, pana zastupitela, le Skřičky, protože
+ten návrh, který byl první, on, jako kdyby, teoreticky, by mohl být hlasován, není v úplném rozporu,
+protože Vy jste chtěli audit, což je trošku něco jiného. Takže, jestli trváte na tom svém usnesením
+a mám o něm dát hlasovat, anebo jestli přijetím toho usnesení, tak jak bylo naformulováno se mnou,
+tak netrváte na hlasování o, o původně navrženém usnesení? Poprosím pana zastupitele Skřičku.
+
+
+                                       Strana 50 z 53
+   doc. MUDr. Tomáš Skřička, CSc.:
+   Já se domnívám, že už není potřeba hlasovat.
+
+   JUDr. Markéta Vaňková, primátorka:
+   Děkuji moc. To znamená, o tom původním návrhu usnesení, tak jak bylo navrženo v tom písemném
+   materiálu, hlasovat nebudeme. Tím pádem máme bod č. 86) ukončen.
+
+
+   Schválené usnesení:
+
+   ***
+   ZMB ukládá RMB zajistit externí zpracování posouzení oprávněnosti personálních nákladů TIC
+   Brno, příspěvková organizace, spojených s Brněnskými Vánocemi 2023 a 2024 a posouzení
+   hospodárnosti vynaložených nákladů na akci Brněnské Vánoce 2023 a 2024 s přihlédnutím
+   k otázkám uvedeným v příloze č. 70 tohoto zápisu.
+   Ověřená příloha je uložena na Organizačním odboru MMB.
+   ***
+
+   úkol č.: [Z9/25/86]
+   zodpovídá: RMB [29]
+   termín: [bezodkladně]
+
+3. Dotazy, připomínky a podněty členů Zastupitelstva města Brna
+   (dle ust. § 82, písm. b, zák. č. 128/2000 Sb., o obcích, v platném znění)
+
+   Mgr. Adam Zemek:
+   Mě v poslední době v médiích zaujala informace o plánovaném parkovacím domě na ulici Křenová,
+   nebo Skořepka. A velice mě zaujala vizualizace, která byla k této zprávě připojena. A zaujalo mě
+   několik věcí. Zaprvé - architektonické zpracování celé stavby, a pak také to, že úplně chybí nějaký
+   živý parter. Takže já bych se chtěl zeptat, jestli ta vizualizace, která byla v médiích, jestli je to
+   konečný stav? Případně, jestli by nešlo nějakým způsobem ještě to architektonické řešení upravit,
+   aby ta budova, nebo aby ten parkovací dům lépe zapadal do okolní výstavby? A případně, jestli by
+   nešlo ještě doplnit ten živý parter aspoň? Protože si myslím, že by to bylo velkým přínosem. A bylo
+   by také dobré zamyslet se nad tím, jak vlastně tyto věci podchytit už dopředu, aby to nevzbuzovalo
+   takové kontroverze.
+
+   Ing. Petr Kratochvíl, člen Rady města Brna:
+   Já jsem zaznamenal, že ten parkovací dům zas v podstatě vzbudil spoustu emocí a protichůdných
+   názorů, tak jako tomu je v architektuře, nejenom v architektuře, jako mnohdy, kdy na nějaký objekt,
+   nejen na tento konkrétní parkovací dům, jsou samozřejmě protichůdné, někdy až extrémně
+   protichůdné, názory. Já na úvod bych chtěl říci velmi stručně, že ten parkovací dům je investicí
+   Brněnských komunikací, kteří, které na to si získávají nějaký úvěr, částečně dotaci, a samozřejmě
+   koukají na ten dům jak, především jako s ekonomickou, eko, ekonomickým pohledem. Na druhou
+   stranu, pokud se ptáte na můj názor, který nemusí být stejný s dalšími lidmi, co se týče té
+   architektury, tak můj osobní názor je ten, že skutečně ten dům v té lokalitě by snesl velmi vyšší, řekl
+   bych, kritérium a podobu architektonickou. Myslím, že to je skutečně ulice, která, kdy při výstavbě
+   a záměru bysme měli dbát nejen na tu ekonomickou, nebo na ten ekonomický pohled, ale skutečně
+   na ten architektonický. To, takle si to skutečně myslím. To neznamená však, že kolegové
+   na Brněnských komunikacích udělali nějakou zásadní chybu, ano? To bych chtěl tady říci. Prostě
+   ten jejich záměr byl skutečně veden těmi ekonomickými cíli. V tuto chvíli vznikne, je jedna, zadán
+   na vlastní jednání na Brněnských komunikacích, které by se, myslím, mělo uskutečnit příští týden,
+   za účasti toho projektanta parkovacího domu, Brněnských komunikací a zástupců KAM, s cílem,
+   aby došlo k nějakému upgradu, především té fasády a toho venkovního prostoru. Já v tuto chvíli
+   nedokážu říci, zdali ten projekt umožní nějakou technickou obměnu, protože to souvisí s nějakým
+   vydaným stavebním povolením a také, následně, s nějakými víceprácemi spojenými s tým zadávac,
+   no, s tou zadávací dokumentací. Výsledek Vám samozřejmě sdělím, ale cílem je najít vlastně
+   upgrade, zejména té architektonické podoby toho opláštění. Co se týče toho dalšího bodu, tak
+   odešel dopis na všechny předsedy představenstev společností městských, firem, a ředitelé s tím,
+   že v budoucnu, budou-li mít nějaký záměr, který by měl být postaven ve veřejném prostoru, ať už
+   se týká o bytový dům, o administrativa, nebo parkovací dům a tak dále, tak by jej, nezbytně nutné,
+   aby u tohoto záměru od začátku byla navázána spolupráce s KAM, který by i v průběhu toho záměru
+   měl mít nedílnou, kde by, měl by být nedílnou součástí toho, toho výrobního výboru. To je v tuto
+
+
+                                          Strana 51 z 53
+chvíli všechno. Já věřím tomu, že se nám, že se nalezne nějaké řešení, které se bude, se líbit,
+třeba, řeknumu, širší, nebo jiné skupině lidí, ale jak jsem na začátku uvedl, asi nikdy nenajdeme
+takové řešení, které uspokojí 100 % v podstatě obyvatel, nebo názorů.
+
+Bc. Jiří Kment:
+Já bych se chtěl zeptat na 2 věci. První věc je požádat, aby vlastně na 80. výročí ukončení
+2. světové války bylo investováno něco do údržby čestného pohřebiště na hlavním hřbitově. Díval
+jsem se, pořád to není, nevypadá moc reprezentativně. Takže aspoň třea obnovit ty nápisy na těch,
+nějakých náhrobcích. Aspoň to tam nějak vyčistit, opravit ty základní věci. Druhá věc - obrátili se
+na mě občané, že vlastně ten nový územní plán, ten, to jeho, ta jeho interaktivní mapa nefunguje
+tak dobře, jako to bylo v případě toho starého. Že vlastně když si vyberete nějaké, nějakou konkrétní
+parcelu, tak ne, nezjistíte po kliknutí na tu parcelu, jaké jsou na ní, jaké jsou na ní vlastně regulace.
+Dřív jste klikli, hned jste zjistili, jak třeba vysoký dům se tam dá stavět, nebo jakou plochu může mít.
+Dneska to nezjistíte, musíte prohledávat vlastně tu textovou část, někdy se Vám velmi špatně
+dohledává. Takže jesi toto by nebylo možné nějak upravit? Aby vlastně ta digitalizace lidem přinesla
+nějaké zjednodušení a nemuseli chodit na stavební úřady, nebo na KAM, a vyptávat se, protože
+tam, v té interaktivní mapě, nemůžou ty základní věci najít.
+
+MUDr. Dagmar Seidlová, Ph.D.:
+Já bych jenom chtěla předat poděkování pana prof. Duška za možnost uspořádat minulý týden
+konferenci o elektronizaci zdravotnictví v těchto prostorách. A musím Vás ujistit, že všichni byli
+nadšení, jak je to tady krásné. Tak aspoň něco pozitivního.
+
+Mgr. Jasna Flamiková:
+Já bych chtěla poděkovat panu radnímu Kratochvílovi za snahu nějakým způsobem řešit tu situaci
+kolem toho parkovacího domu. My jsme se o tom včera bavili na dopravní komisi, na Brně-střed,
+a v podstatě nejenom Kancelář architekta města, ale i městská část by měla být od začátku vlastně
+přizvána k tomu, aby mohla tyhle věci připomínkovat. Ona to není jenom otázka toho, jako že líbí,
+nebo nelíbí. Ale kolega, architekt Kurtis, například upozorňoval na to, že pokud ten dům vlastně
+nebude mít ty zdi, nebo vlastně nějaké zastínění, tak to bude znamenat, že všechny auta, co budou
+vyjíždět do těch vyšších pater, tak budou při tom objíždění domu svítit do těch oken, těch bytů všude
+kolem. Takže skutečně si myslím, že něco takového by prostě i ty městské firmy měly s městskými
+částmi komunikovat, zvláště když je to téměř u centra města, a je to vlastně někde, kde to bude
+hodně vidět a hodně potom strašit, případně. Takže každopádně moc děkuju za tu snahu to řešit
+a budu doufat, že se to podaří nějak posunout k lepšímu.
+
+Bc. Tomáš Koláčný:
+Já jsem v médiích zaznamenal, že pan ředitel národního divadla, Glaser, bude od roku 28 vést
+Národní divadlo v Praze, což je tedy jaksi pocta pro tuto osobnost, nicméně škoda pro Brno. Chtěl
+bych se zeptat, kdy a jakým způsobem bude vypsáno výběrové řízení na nového ředitele, nebo
+ředitel národního divadla? A chtěl bych případně nabídnout, pokud, pakliže by o to byl zájem, jaksi
+podílení se na tomto výběrovém řízení.
+
+JUDr. Markéta Vaňková, primátorka:
+Na to zareaguju já. Plánuji předložit radě tuto problematiku poměrně v dohledné době, nemyslím
+tím teďka řády dnů, nebo týdnů, ale rozhodně jako nižších měsíců, protože jsem si vědoma toho,
+že výběr nového ředitele národního divadla nebude jednoduchý, protože prostě takových osobností
+v České republice moc není. Uvidíme, třeba se přihlásí i někdo ze zahraničí. Informovala jsem
+o tom, respektive jsem to diskutovala na tom mém poradním sboru pro kulturu, což je poradní orgán,
+který jsem si zřídila, aby mně byl k ruce v oblasti kultury. Ten poradní org, sbor se konal minulé
+pondělí, takže to byla plvní, první platforma, kde jsem tadytento postup vlastně konzultovala.
+A víceméně jsme se na tom shodli, že, že je vhodné nečekat na nějaký rok, třeba, já nevím, 26, 27,
+protože, byť se to zdá, že je to poměrně daleko, tak, tak tomu tak není. Pokusím se nezapomenout
+na to, Tome, že bys chtěl být součástí nějakého, nějakého toho, nějaké té poroty, nebo, jak se to
+říká, výběrové komise. A vidím tam Katku Vorlíčkovou, vzadu, tak prosím, paní vedoucí, taky to
+veďte v patrnosti, až budeme sestavovat komisi, tak že tady máme zájem pana
+zastupitele Koláčného.
+
+
+
+
+                                       Strana 52 z 53
+Informativní zprávy:
+• Informativní zpráva - Podání adresovaná Zastupitelstvu města Brna
+• Informativní zpráva o vyřízení dotazů, připomínek a podnětů občanů ze zasedání Zastupitelstva
+    města Brna č. Z9/24 konaného dne 25. 2. 2025
+• Informativní zpráva o vyřízení dotazů, připomínek a podnětů členů ZMB ze zasedání Zastupitelstva
+    města Brna č. Z9/24 konaného dne 25. 2. 2025
+• Informativní zpráva o plnění úkolů zadaných Zastupitelstvem města Brna
+• Informativní zpráva - Souhrnný rozpočet statutárního města Brna na rok 2025
+• Informativní zpráva - Stav pořizovaných územně plánovacích dokumentací a územně plánovacích
+    podkladů - březen 2025
+
+JUDr. Markéta Vaňková, primátorka, ukončila zasedání Zastupitelstva města Brna (v 11:35 hod.).
+
+
+
+
+             JUDr. Markéta Vaňková v. r.                       Mgr. René Černý v. r.
+
+                     primátorka                                1. náměstek primátorky
+
+
+
+
+Ověřovatelé
+
+JUDr. Robert Kerndl v. r.
+
+Vít Prýgl v. r.
+
+
+
+
+V Brně dne 2. dubna 2025
+
+Zápis zpracovala Jana Sovová, Organizační odbor MMB
+
+Usnesení zapsala Klára Drápalová, Organizační odbor MMB
+
+
+                                           Strana 53 z 53
+
