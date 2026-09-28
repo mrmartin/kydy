@@ -2,7 +2,7 @@
 
 Repozitář: https://github.com/mrmartin/kydy. Původní projekt je zachován ve větvi [archive/pred-brno-2026-09-19](https://github.com/mrmartin/kydy/tree/archive/pred-brno-2026-09-19), commit `f18cc08d689804767e92ad85e8c1ee84835b6aba`. Historie není přepsaná.
 
-Připravený statický web je v `site/`. Jeho velikost je přibližně 561 MiB. Úplný původní archiv má asi 16 GB a je uložen odděleně; soubory pro GitHub Releases připravuje `scripts/package_archive.py`. Repozitář neobsahuje přístupové údaje a workflow nepotřebuje vlastní tajné klíče.
+Připravený statický web je v `site/`. Jeho velikost je přibližně 640 MiB. Úplný původní archiv má asi 16 GB a je uložen odděleně; soubory pro GitHub Releases připravuje `scripts/package_archive.py`. Repozitář neobsahuje přístupové údaje a workflow nepotřebuje vlastní tajné klíče.
 
 ## Co je potřeba od vlastníka
 
@@ -84,3 +84,5 @@ Od 27. 9. 2026 web přidává **[rozbor skutečného rozhodování](https://kydy
 Zdroj je `research/behavior_curation.py`, přenositelná data `research/behavior.json`. Příprava po redakční změně: `python3 scripts/prepare_behavior.py --archive ../brno-volby-2026`, pak běžný build, testy a kontrola webu. `build_assessment.py` sestavuje i novou část. Vše funguje na GitHub Pages bez databáze, přihlášení a JavaScriptu.
 
 Veřejné soubory `jednani-kampani.json`, `jednani-hlasy.csv`, `vyber-rozhodovani.csv` a `vyber-materialu.csv` zachovávají případy, osobní hlasy a úplný protokol tematického vyhledávání v názvech. To není úplný audit všech příloh; stav posouzení je u každého záznamu. Nová část navíc nabízí přímo i uložené originály používaných dokumentů v `podklady-jednani/` včetně otisků a přesně identifikované přílohy auditního ZIPu. Podrobnosti jsou v `research/README.md`.
+
+Od 28. 9. 2026 je na kartách také škála **pro sebe ↔ pro lidi**. Jde o redakční index otevřenosti a veřejné kontroly podle sedmi hlasování, nikoli měření motivů nebo osobního zisku. Pravidla jsou v `research/interest_index.json`, výpočet a prezentace v `scripts/interest_index.py`. Každá ze tří oblastí má stejnou váhu; index se nepřizpůsobuje pořadí kandidátek. Výsledek v intervalu [-1, 1] se exportuje jako `interest_index.score` (chybějící podklad je `null`), na stránkách je jen značka a slovní hodnocení. V detailu je rozklad všech příspěvků, na `/rozhodovani/#skala` úplná metodika i důvody vynechání ostatních případů. Úprava těchto pravidel potřebuje pouze běžný build a testy, nikoli novou přípravu archivu.

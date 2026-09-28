@@ -3,11 +3,13 @@
 import hashlib
 import html
 import json
+import runpy
 from collections import Counter
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]
 SITE=ROOT/'site'
+INDEX=runpy.run_path(str(ROOT/'scripts/interest_index.py'))
 STATES=['Ano','Ne','Zdržel se','Nehlasoval','Nepřítomen','Bez mandátu']
 LABELS={'Ano':'pro','Ne':'proti','Zdržel se':'zdržení','Nehlasoval':'nehlasování','Nepřítomen':'nepřítomnost','Bez mandátu':'bez mandátu'}
 
@@ -52,7 +54,13 @@ def load():
     d=validate(json.loads((ROOT/'research/behavior.json').read_text()))
     d['_cases']={c['id']:c for c in d['cases']}
     d['_campaigns']={p['number']:p for p in d['campaigns']}
+    d['interest_index_method']=INDEX['rules'](d)
+    for p in d['campaigns']:
+        p['interest_index']=INDEX['calculate'](d,p,d['interest_index_method'])
     return d
+
+def gauge(data,number):
+    return INDEX['gauge'](data['_campaigns'][number]['interest_index'])
 
 def observation(data,number,cid):
     return next((o for o in data['_campaigns'][number]['observations'] if o['case_id']==cid),None)
@@ -64,16 +72,7 @@ def summary(data,number):
     return p['finding']
 
 def card(data,number):
-    p=data['_campaigns'][number]
-    if not p['case_count']:
-        return '<div class="behavior-preview"><span class="mini">CO UKAZUJE ROZHODOVÁNÍ</span><p>'+e(summary(data,number))+'</p></div>'
-    parts=[]
-    for label,cid in [('Kontrola','lanovka-verejnost'),('Peníze','dornych'),('Výsledky','kamenna-vrch-bydleni')]:
-        ob=observation(data,number,cid)
-        v=ob['votes'][-1] if cid=='kamenna-vrch-bydleni' else ob['votes'][0]
-        text={'lanovka-verejnost':'veřejná debata o lanovce','dornych':'prodej domů developerovi','kamenna-vrch-bydleni':'výběr banky pro nové byty'}[cid]
-        parts.append(f'<li><strong>{label}:</strong> {e(text)} — {v["counts"]["Ano"]} pro / {v["mandates"]} s tehdejším mandátem.</li>')
-    return '<div class="behavior-preview"><span class="mini">CO UKAZUJE ROZHODOVÁNÍ</span><p>'+e(summary(data,number))+'</p><ul>'+''.join(parts)+'</ul><p class="fine">Hlasy konkrétních lidí dnešní listiny. Podrobnosti a všechny stavy v detailu.</p></div>'
+    return '<div class="behavior-preview"><span class="mini">CO UKAZUJE ROZHODOVÁNÍ</span><p>'+e(summary(data,number))+'</p></div>'
 
 def references(data,refs):
     links=[]
@@ -98,7 +97,7 @@ def people_table(data,vid,number=None):
 
 def section(data,number):
     p=data['_campaigns'][number]
-    intro=f'<section class="behavior-section" id="rozhodovani"><p class="eyebrow">CO UKAZUJE JEJICH ROZHODOVÁNÍ</p><h2>Když měli možnost rozhodnout.</h2><p class="behavior-lead">{e(summary(data,number))}</p>'
+    intro=f'<section class="behavior-section" id="rozhodovani"><p class="eyebrow">CO UKAZUJE JEJICH ROZHODOVÁNÍ</p><h2>Když měli možnost rozhodnout.</h2>'+gauge(data,number)+INDEX['explanation'](data,p['interest_index'])+f'<p class="behavior-lead">{e(summary(data,number))}</p>'
     counter=''
     if p['case_count']:
         solar=observation(data,number,'solar-kontrola')['votes'][0]
@@ -180,7 +179,8 @@ def build_pages(data,page,campaigns):
         matrix.append(f'<details class="comparison-case"><summary>{e(c["title"])}</summary><p>{e(c["summary"])}</p><div class="table-wrap"><table><caption>Všech 16 listin, stejný případ. Počty jsou hlasy jednotlivých lidí, nikoli známka strany.</caption><thead><tr><th scope="col">Kandidátka 2026</th><th scope="col">Osobní hlasy</th></tr></thead><tbody>'+''.join(entries)+f'</tbody></table></div><p><a href="/{e(c["path"])}">Kontext, alternativy a všechna jména →</a></p></details>')
     s=data['screening']
     methods=f'''<section class="prose" id="metodika"><h2>Jak tento přehled vzniká</h2><p>Celkem jsme stejnými tematickými pravidly prohledali názvy {s['total_votes']} protokolů a {s['materials']} indexovaných materiálů. {s['usable_votes']} protokolů je použitelných; šest neplatných či zvláštních záznamů se do osobních souhrnů nezařazuje. Jde o automatické hledání v názvech, ne o přečtení všech příloh.</p><p><strong>Vydání obsahuje {s['cases']} vysvětlených případů a {s['reviewed_votes']} hlasování.</strong> Případy vybíráme podle rozhodování o kontrole, majetku, funkcích a uskutečňování slibů. Výběr zahrnuje spory i široce podpořená rozhodnutí. Není reprezentativním vzorkem; četnost podpory v něm nepřevádíme na procento poctivosti.</p><p><a href="/data/vyber-rozhodovani.csv">Úplný seznam výběru: všech {s['total_votes']} protokolů CSV</a> · <a href="/data/vyber-materialu.csv">Prohledané názvy všech materiálů CSV</a>. Záznam rozlišuje ověřený kontext, vyřazení, dosud neposouzenou shodu a názvy bez shody. Bez shody neznamená bez problému. U {s['statuses'].get('k_dalsimu_posouzeni',0)} tematicky zachycených hlasování kontext v této nové vrstvě zatím posouzen není.</p><h3>Jeden případ, více rozhodnutí</h3><p>Pracovní skupina a externí posudek TIC patří k jedinému případu, stejně jako pravidla a financování Kamenného vrchu. Procedurální hlasy nenásobí počet zásluh nebo výtek. Ukazujeme účinek hlasu, výsledek, alternativy, další vývoj a otevřené otázky.</p><h3>Co smí závěr říkat</h3><p>Hlas pro utajení je doklad souhlasu s utajením. Hlas pro kontrolu dokládá podporu jejího zadání. Zdržení, nehlasování a nepřítomnost zůstávají odlišné; chybějící podpora návrhu není automaticky hlas proti ani důkaz úmyslu. Souhlas s celým rozpočtem nevykládáme jako osobní souhlas s každou jeho položkou.</p><p>Vazbu na vlastní funkci uvádíme pouze s konkrétní osobou a rozhodnutím. Nezaměňujeme ji za protiprávní prospěch. U prodeje ukazujeme příjemce i protiplnění městu; bez srovnání ceny a alternativ neoznačujeme prodej za škodu. Samotná koaliční shoda neprokazuje klientelismus.</p><h3>Stejná měřítka a protidůkazy</h3><p>Kontrolní případy výše ukazujeme u všech listin ve stejném pořadí. Vedle utajení SAKO je i široce schválená kontrola SAKO SOLAR; vedle prodeje Dornychu i pozdější zrušení privatizačního postupu. Různé předměty a jiné pravomoci brání automatickému závěru o dvojím metru. Opakované chování lze popsat jen s konkrétním seznamem srovnatelných případů, nikdy z jednoho hlasu.</p><h3>Čas a přiřazení odpovědnosti</h3><p>{e(data['coverage'])} Rozbor byl připraven {day(data['reviewed'])}; čas pořízení je u každého pramene zvlášť. Tým kandidující v roce 2026 není totožný s původním klubem. Každý řádek proto uchovává obě příslušnosti. Starší veřejné role jsou v dosavadním hodnocení kampaní; nepřevádíme je na neexistující hlasy v tomto období.</p><h3>Co stále neumíme doložit</h3><ul>'''+''.join(f'<li>{e(x)}</li>' for x in data['limitations'])+'''</ul><p>Tento přehled nemá bodové hodnocení osobní morálky. Je podkladem pro vlastní úsudek o doloženém chování a o hodnotách, které jednotlivá rozhodnutí vyjadřují.</p><h3>Data pro vlastní kontrolu</h3><p><a href="/data/jednani-kampani.json">Případy, hlasy, prameny a metodika JSON</a> · <a href="/data/jednani-hlasy.csv">Osobní hlasy dnešních kandidátů CSV</a> · <a href="https://github.com/mrmartin/kydy/commits/main/research/behavior_curation.py">Historie redakčních změn</a>.</p></section>'''
-    body=f'<a class="back" href="/">← Kampaně a sliby</a><section class="campaign-hero"><p class="eyebrow">ROZHODOVÁNÍ 2022–2026</p><h1>Když měli moc.<br>Co s ní udělali?</h1><p class="behavior-lead">Kdo podpořil kontrolu, kdo utajení a komu pomohla konkrétní rozhodnutí. Každé zjištění vede ke jménům a původnímu dokumentu.</p><p class="fine">{s["cases"]} případů · {s["reviewed_votes"]} hlasování · osobní hlasy do {day(data["votes_through"])}</p><p><a href="#srovnani">Porovnat stejné případy</a> · <a href="#metodika">Rozsah a pravidla výběru</a></p></section>'+''.join(tiles)+'<section id="srovnani"><h2>Stejné otázky pro všechny</h2><p>Rozbalte případ a porovnejte osobní hlasy všech dnešních kandidátek. Nejde o celkové skóre otevřenosti.</p>'+''.join(matrix)+'</section>'+methods
+    body=f'<a class="back" href="/">← Kampaně a sliby</a><section class="campaign-hero"><p class="eyebrow">ROZHODOVÁNÍ 2022–2026</p><h1>Když měli moc.<br>Co s ní udělali?</h1><p class="behavior-lead">Kdo podpořil kontrolu, kdo utajení a komu pomohla konkrétní rozhodnutí. Každé zjištění vede ke jménům a původnímu dokumentu.</p><p class="fine">{s["cases"]} případů · {s["reviewed_votes"]} hlasování · osobní hlasy do {day(data["votes_through"])}</p><p><a href="#srovnani">Porovnat stejné případy</a> · <a href="#metodika">Rozsah a pravidla výběru</a></p></section>'+''.join(tiles)+'<section id="srovnani"><h2>Stejné otázky pro všechny</h2><p>Rozbalte případ a porovnejte osobní hlasy všech dnešních kandidátek. Zde vidíte jednotlivé hlasy; <a href="#skala">souhrnnou škálu a její meze</a> vysvětlujeme níže.</p>'+''.join(matrix)+'</section>'+methods
+    body+=INDEX['methodology'](data,data['interest_index_method'])
     path='rozhodovani/index.html';(SITE/path).parent.mkdir(exist_ok=True);(SITE/path).write_text(page('Co ukazuje jejich rozhodování',body,path))
     # Exportovat i jednu větu z přehledu; pomocné indexy do JSON nepatří.
     for p in data['campaigns']:p['summary']=summary(data,p['number'])

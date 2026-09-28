@@ -12304,6 +12304,138 @@
       "finding": "",
       "finding_cases": [],
       "observations": [],
+      "interest_index": {
+        "version": 1,
+        "status": "no_mandate",
+        "score": null,
+        "label": null,
+        "members_in_period": 0,
+        "people_count": 0,
+        "people": [],
+        "case_count": 0,
+        "total_cases": 7,
+        "dimensions": [
+          {
+            "id": "otevrenost",
+            "label": "Dohledatelnost rozhodování",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "sako-tajne",
+                "vote_id": "Z9-11-007",
+                "direction": -1,
+                "reason": "Tajná volba znemožňuje obyvatelům ověřit osobní hlas. Souhlas s utajením proto míří k levému pólu; neprokazuje osobní obohacení.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "data-firem",
+                "vote_id": "Z9-09-016",
+                "direction": 1,
+                "reason": "Pravidla zveřejňování dat městských firem otevírají jejich činnost veřejné kontrole. Neověřujeme zde plnění všech povinností.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          },
+          {
+            "id": "zapojeni",
+            "label": "Debata a průběžné informace",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "lanovka-verejnost",
+                "vote_id": "Z9-19-005",
+                "direction": 1,
+                "reason": "Veřejné projednání analýz umožňuje lidem rozumět projektu lanovky a diskutovat o něm. Hlas není stanoviskem ke stavbě samotné.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "povodne-zpravy",
+                "vote_id": "Z9-20-040",
+                "direction": 1,
+                "reason": "Pravidelné zprávy umožňují sledovat přípravu ochrany před povodněmi. Hodnotíme podporu tohoto návrhu informování, nikoli stav protipovodňových staveb.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          },
+          {
+            "id": "kontrola",
+            "label": "Kontrola hospodaření",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "solar-kontrola",
+                "vote_id": "Z9-35-005",
+                "direction": 1,
+                "reason": "Pověření kontrolního výboru umožňuje prověřit hospodaření městské solární firmy. Podpora zadání kontroly není důkazem nápravy.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "privatizace-kontrola",
+                "vote_id": "Z9-04-068",
+                "direction": 1,
+                "reason": "Konečné platné pověření umožňuje kontrolu prodejů městských bytových domů. Předchozí procedurální hlas se podruhé nezapočítává.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "charita-vynosy",
+                "vote_id": "Z9-10-007",
+                "direction": 1,
+                "reason": "Podmínka směřovat výnosy podporovaných charitativních akcí k jejich příjemcům posiluje odpovědnost za použití peněz. Není důkazem provedených kontrol.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          }
+        ]
+      },
       "summary": "V hlasovací řadě 2022–2026 nemáme osobní hlasy dnešních kandidátů; jejich starší nebo jinou praxi uvádíme u slibů."
     },
     {
@@ -15189,6 +15321,164 @@
           ]
         }
       ],
+      "interest_index": {
+        "version": 1,
+        "status": "scored",
+        "score": 0.722222,
+        "label": "Převážně pro lidi",
+        "members_in_period": 12,
+        "people_count": 11,
+        "people": [
+          "filip-chvatal",
+          "filip-leder",
+          "irena-matonohova",
+          "jakub-hruska",
+          "jaroslav-suchy",
+          "jitka-ivicicova",
+          "martin-malecek",
+          "michal-marek",
+          "petr-borecky-1",
+          "petr-hladik",
+          "radomir-vondra"
+        ],
+        "case_count": 7,
+        "total_cases": 7,
+        "dimensions": [
+          {
+            "id": "otevrenost",
+            "label": "Dohledatelnost rozhodování",
+            "score": 1.0,
+            "cases": [
+              {
+                "case_id": "sako-tajne",
+                "vote_id": "Z9-11-007",
+                "direction": -1,
+                "reason": "Tajná volba znemožňuje obyvatelům ověřit osobní hlas. Souhlas s utajením proto míří k levému pólu; neprokazuje osobní obohacení.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 8,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 2,
+                  "Bez mandátu": 2
+                },
+                "present": 8
+              },
+              {
+                "case_id": "data-firem",
+                "vote_id": "Z9-09-016",
+                "direction": 1,
+                "reason": "Pravidla zveřejňování dat městských firem otevírají jejich činnost veřejné kontrole. Neověřujeme zde plnění všech povinností.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 10,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 2
+                },
+                "present": 10
+              }
+            ]
+          },
+          {
+            "id": "zapojeni",
+            "label": "Debata a průběžné informace",
+            "score": 0.166667,
+            "cases": [
+              {
+                "case_id": "lanovka-verejnost",
+                "vote_id": "Z9-19-005",
+                "direction": 1,
+                "reason": "Veřejné projednání analýz umožňuje lidem rozumět projektu lanovky a diskutovat o něm. Hlas není stanoviskem ke stavbě samotné.",
+                "score": 0.333333,
+                "counts": {
+                  "Ano": 3,
+                  "Ne": 0,
+                  "Zdržel se": 3,
+                  "Nehlasoval": 3,
+                  "Nepřítomen": 1,
+                  "Bez mandátu": 2
+                },
+                "present": 9
+              },
+              {
+                "case_id": "povodne-zpravy",
+                "vote_id": "Z9-20-040",
+                "direction": 1,
+                "reason": "Pravidelné zprávy umožňují sledovat přípravu ochrany před povodněmi. Hodnotíme podporu tohoto návrhu informování, nikoli stav protipovodňových staveb.",
+                "score": 0.0,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 3,
+                  "Nehlasoval": 6,
+                  "Nepřítomen": 1,
+                  "Bez mandátu": 2
+                },
+                "present": 9
+              }
+            ]
+          },
+          {
+            "id": "kontrola",
+            "label": "Kontrola hospodaření",
+            "score": 1.0,
+            "cases": [
+              {
+                "case_id": "solar-kontrola",
+                "vote_id": "Z9-35-005",
+                "direction": 1,
+                "reason": "Pověření kontrolního výboru umožňuje prověřit hospodaření městské solární firmy. Podpora zadání kontroly není důkazem nápravy.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 10,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 2
+                },
+                "present": 10
+              },
+              {
+                "case_id": "privatizace-kontrola",
+                "vote_id": "Z9-04-068",
+                "direction": 1,
+                "reason": "Konečné platné pověření umožňuje kontrolu prodejů městských bytových domů. Předchozí procedurální hlas se podruhé nezapočítává.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 9,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 1,
+                  "Bez mandátu": 2
+                },
+                "present": 9
+              },
+              {
+                "case_id": "charita-vynosy",
+                "vote_id": "Z9-10-007",
+                "direction": 1,
+                "reason": "Podmínka směřovat výnosy podporovaných charitativních akcí k jejich příjemcům posiluje odpovědnost za použití peněz. Není důkazem provedených kontrol.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 8,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 2,
+                  "Bez mandátu": 2
+                },
+                "present": 8
+              }
+            ]
+          }
+        ]
+      },
       "summary": "Osm dnešních kandidátů odmítlo utajení hlasování o městské odpadové firmě SAKO, ale pravidelné zprávy o protipovodňových stavbách nepodpořil žádný z jejich devíti přítomných zastupitelů."
     },
     {
@@ -16274,6 +16564,156 @@
           ]
         }
       ],
+      "interest_index": {
+        "version": 1,
+        "status": "scored",
+        "score": 0.777778,
+        "label": "Převážně pro lidi",
+        "members_in_period": 3,
+        "people_count": 3,
+        "people": [
+          "jana-drapalova",
+          "jasna-flamikova",
+          "matous-vencalek"
+        ],
+        "case_count": 7,
+        "total_cases": 7,
+        "dimensions": [
+          {
+            "id": "otevrenost",
+            "label": "Dohledatelnost rozhodování",
+            "score": 0.5,
+            "cases": [
+              {
+                "case_id": "sako-tajne",
+                "vote_id": "Z9-11-007",
+                "direction": -1,
+                "reason": "Tajná volba znemožňuje obyvatelům ověřit osobní hlas. Souhlas s utajením proto míří k levému pólu; neprokazuje osobní obohacení.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 2,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 1
+                },
+                "present": 2
+              },
+              {
+                "case_id": "data-firem",
+                "vote_id": "Z9-09-016",
+                "direction": 1,
+                "reason": "Pravidla zveřejňování dat městských firem otevírají jejich činnost veřejné kontrole. Neověřujeme zde plnění všech povinností.",
+                "score": 0.0,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 1,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 1,
+                  "Bez mandátu": 1
+                },
+                "present": 1
+              }
+            ]
+          },
+          {
+            "id": "zapojeni",
+            "label": "Debata a průběžné informace",
+            "score": 1.0,
+            "cases": [
+              {
+                "case_id": "lanovka-verejnost",
+                "vote_id": "Z9-19-005",
+                "direction": 1,
+                "reason": "Veřejné projednání analýz umožňuje lidem rozumět projektu lanovky a diskutovat o něm. Hlas není stanoviskem ke stavbě samotné.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 2,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 1
+                },
+                "present": 2
+              },
+              {
+                "case_id": "povodne-zpravy",
+                "vote_id": "Z9-20-040",
+                "direction": 1,
+                "reason": "Pravidelné zprávy umožňují sledovat přípravu ochrany před povodněmi. Hodnotíme podporu tohoto návrhu informování, nikoli stav protipovodňových staveb.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 2,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 1
+                },
+                "present": 2
+              }
+            ]
+          },
+          {
+            "id": "kontrola",
+            "label": "Kontrola hospodaření",
+            "score": 0.833333,
+            "cases": [
+              {
+                "case_id": "solar-kontrola",
+                "vote_id": "Z9-35-005",
+                "direction": 1,
+                "reason": "Pověření kontrolního výboru umožňuje prověřit hospodaření městské solární firmy. Podpora zadání kontroly není důkazem nápravy.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 3,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 0
+                },
+                "present": 3
+              },
+              {
+                "case_id": "privatizace-kontrola",
+                "vote_id": "Z9-04-068",
+                "direction": 1,
+                "reason": "Konečné platné pověření umožňuje kontrolu prodejů městských bytových domů. Předchozí procedurální hlas se podruhé nezapočítává.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 2,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 1
+                },
+                "present": 2
+              },
+              {
+                "case_id": "charita-vynosy",
+                "vote_id": "Z9-10-007",
+                "direction": 1,
+                "reason": "Podmínka směřovat výnosy podporovaných charitativních akcí k jejich příjemcům posiluje odpovědnost za použití peněz. Není důkazem provedených kontrol.",
+                "score": 0.5,
+                "counts": {
+                  "Ano": 1,
+                  "Ne": 0,
+                  "Zdržel se": 1,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 1
+                },
+                "present": 2
+              }
+            ]
+          }
+        ]
+      },
       "summary": "Dvě jejich tehdejší zastupitelky odmítly utajení hlasování o městské odpadové firmě SAKO a podpořily veřejnou debatu o lanovce i pravidelné zprávy o ochraně před povodněmi."
     },
     {
@@ -17359,6 +17799,156 @@
           ]
         }
       ],
+      "interest_index": {
+        "version": 1,
+        "status": "scored",
+        "score": 0.333333,
+        "label": "Blíže k pólu „pro lidi“",
+        "members_in_period": 3,
+        "people_count": 3,
+        "people": [
+          "miroslav-kubasek",
+          "petr-bauer",
+          "tomas-hejl"
+        ],
+        "case_count": 7,
+        "total_cases": 7,
+        "dimensions": [
+          {
+            "id": "otevrenost",
+            "label": "Dohledatelnost rozhodování",
+            "score": 0.0,
+            "cases": [
+              {
+                "case_id": "sako-tajne",
+                "vote_id": "Z9-11-007",
+                "direction": -1,
+                "reason": "Tajná volba znemožňuje obyvatelům ověřit osobní hlas. Souhlas s utajením proto míří k levému pólu; neprokazuje osobní obohacení.",
+                "score": -1.0,
+                "counts": {
+                  "Ano": 2,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 1
+                },
+                "present": 2
+              },
+              {
+                "case_id": "data-firem",
+                "vote_id": "Z9-09-016",
+                "direction": 1,
+                "reason": "Pravidla zveřejňování dat městských firem otevírají jejich činnost veřejné kontrole. Neověřujeme zde plnění všech povinností.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 2,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 1
+                },
+                "present": 2
+              }
+            ]
+          },
+          {
+            "id": "zapojeni",
+            "label": "Debata a průběžné informace",
+            "score": 0.0,
+            "cases": [
+              {
+                "case_id": "lanovka-verejnost",
+                "vote_id": "Z9-19-005",
+                "direction": 1,
+                "reason": "Veřejné projednání analýz umožňuje lidem rozumět projektu lanovky a diskutovat o něm. Hlas není stanoviskem ke stavbě samotné.",
+                "score": 0.0,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 2,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 1
+                },
+                "present": 2
+              },
+              {
+                "case_id": "povodne-zpravy",
+                "vote_id": "Z9-20-040",
+                "direction": 1,
+                "reason": "Pravidelné zprávy umožňují sledovat přípravu ochrany před povodněmi. Hodnotíme podporu tohoto návrhu informování, nikoli stav protipovodňových staveb.",
+                "score": 0.0,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 2,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 1
+                },
+                "present": 2
+              }
+            ]
+          },
+          {
+            "id": "kontrola",
+            "label": "Kontrola hospodaření",
+            "score": 1.0,
+            "cases": [
+              {
+                "case_id": "solar-kontrola",
+                "vote_id": "Z9-35-005",
+                "direction": 1,
+                "reason": "Pověření kontrolního výboru umožňuje prověřit hospodaření městské solární firmy. Podpora zadání kontroly není důkazem nápravy.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 1,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 2
+                },
+                "present": 1
+              },
+              {
+                "case_id": "privatizace-kontrola",
+                "vote_id": "Z9-04-068",
+                "direction": 1,
+                "reason": "Konečné platné pověření umožňuje kontrolu prodejů městských bytových domů. Předchozí procedurální hlas se podruhé nezapočítává.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 2,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 1
+                },
+                "present": 2
+              },
+              {
+                "case_id": "charita-vynosy",
+                "vote_id": "Z9-10-007",
+                "direction": 1,
+                "reason": "Podmínka směřovat výnosy podporovaných charitativních akcí k jejich příjemcům posiluje odpovědnost za použití peněz. Není důkazem provedených kontrol.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 2,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 1
+                },
+                "present": 2
+              }
+            ]
+          }
+        ]
+      },
       "summary": "Dva dnešní kandidáti podpořili utajení hlasování o městské odpadové firmě SAKO; při rozhodování o veřejné debatě o lanovce a pravidelných povodňových zprávách nehlasovali."
     },
     {
@@ -18045,6 +18635,154 @@
           ]
         }
       ],
+      "interest_index": {
+        "version": 1,
+        "status": "scored",
+        "score": 1.0,
+        "label": "Pro lidi v hodnocených případech",
+        "members_in_period": 1,
+        "people_count": 1,
+        "people": [
+          "tomas-kolacny"
+        ],
+        "case_count": 6,
+        "total_cases": 7,
+        "dimensions": [
+          {
+            "id": "otevrenost",
+            "label": "Dohledatelnost rozhodování",
+            "score": 1.0,
+            "cases": [
+              {
+                "case_id": "sako-tajne",
+                "vote_id": "Z9-11-007",
+                "direction": -1,
+                "reason": "Tajná volba znemožňuje obyvatelům ověřit osobní hlas. Souhlas s utajením proto míří k levému pólu; neprokazuje osobní obohacení.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 1,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 0
+                },
+                "present": 1
+              },
+              {
+                "case_id": "data-firem",
+                "vote_id": "Z9-09-016",
+                "direction": 1,
+                "reason": "Pravidla zveřejňování dat městských firem otevírají jejich činnost veřejné kontrole. Neověřujeme zde plnění všech povinností.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 1,
+                  "Bez mandátu": 0
+                },
+                "present": 0
+              }
+            ]
+          },
+          {
+            "id": "zapojeni",
+            "label": "Debata a průběžné informace",
+            "score": 1.0,
+            "cases": [
+              {
+                "case_id": "lanovka-verejnost",
+                "vote_id": "Z9-19-005",
+                "direction": 1,
+                "reason": "Veřejné projednání analýz umožňuje lidem rozumět projektu lanovky a diskutovat o něm. Hlas není stanoviskem ke stavbě samotné.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 1,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 0
+                },
+                "present": 1
+              },
+              {
+                "case_id": "povodne-zpravy",
+                "vote_id": "Z9-20-040",
+                "direction": 1,
+                "reason": "Pravidelné zprávy umožňují sledovat přípravu ochrany před povodněmi. Hodnotíme podporu tohoto návrhu informování, nikoli stav protipovodňových staveb.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 1,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 0
+                },
+                "present": 1
+              }
+            ]
+          },
+          {
+            "id": "kontrola",
+            "label": "Kontrola hospodaření",
+            "score": 1.0,
+            "cases": [
+              {
+                "case_id": "solar-kontrola",
+                "vote_id": "Z9-35-005",
+                "direction": 1,
+                "reason": "Pověření kontrolního výboru umožňuje prověřit hospodaření městské solární firmy. Podpora zadání kontroly není důkazem nápravy.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 1,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 0
+                },
+                "present": 1
+              },
+              {
+                "case_id": "privatizace-kontrola",
+                "vote_id": "Z9-04-068",
+                "direction": 1,
+                "reason": "Konečné platné pověření umožňuje kontrolu prodejů městských bytových domů. Předchozí procedurální hlas se podruhé nezapočítává.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 1,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 0
+                },
+                "present": 1
+              },
+              {
+                "case_id": "charita-vynosy",
+                "vote_id": "Z9-10-007",
+                "direction": 1,
+                "reason": "Podmínka směřovat výnosy podporovaných charitativních akcí k jejich příjemcům posiluje odpovědnost za použití peněz. Není důkazem provedených kontrol.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 1,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 0
+                },
+                "present": 1
+              }
+            ]
+          }
+        ]
+      },
       "summary": "Tomáš Koláčný odmítl utajení hlasování o městské odpadové firmě SAKO a podpořil veřejnou debatu o lanovce; u kontroly vánočních trhů navrhl pracovní skupinu a při hlasování o externím posouzení se zdržel."
     },
     {
@@ -20730,6 +21468,164 @@
           ]
         }
       ],
+      "interest_index": {
+        "version": 1,
+        "status": "scored",
+        "score": 0.338889,
+        "label": "Blíže k pólu „pro lidi“",
+        "members_in_period": 11,
+        "people_count": 11,
+        "people": [
+          "andrea-pazderova",
+          "dagmar-seidlova",
+          "david-grund",
+          "david-trllo",
+          "jiri-herman",
+          "martin-priborsky",
+          "michal-chladek",
+          "pavel-jankuj",
+          "pavel-urubek",
+          "tomas-aberl",
+          "vladan-krasny"
+        ],
+        "case_count": 7,
+        "total_cases": 7,
+        "dimensions": [
+          {
+            "id": "otevrenost",
+            "label": "Dohledatelnost rozhodování",
+            "score": 0.05,
+            "cases": [
+              {
+                "case_id": "sako-tajne",
+                "vote_id": "Z9-11-007",
+                "direction": -1,
+                "reason": "Tajná volba znemožňuje obyvatelům ověřit osobní hlas. Souhlas s utajením proto míří k levému pólu; neprokazuje osobní obohacení.",
+                "score": -0.9,
+                "counts": {
+                  "Ano": 9,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 1,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 1
+                },
+                "present": 10
+              },
+              {
+                "case_id": "data-firem",
+                "vote_id": "Z9-09-016",
+                "direction": 1,
+                "reason": "Pravidla zveřejňování dat městských firem otevírají jejich činnost veřejné kontrole. Neověřujeme zde plnění všech povinností.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 10,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 1
+                },
+                "present": 10
+              }
+            ]
+          },
+          {
+            "id": "zapojeni",
+            "label": "Debata a průběžné informace",
+            "score": 0.0,
+            "cases": [
+              {
+                "case_id": "lanovka-verejnost",
+                "vote_id": "Z9-19-005",
+                "direction": 1,
+                "reason": "Veřejné projednání analýz umožňuje lidem rozumět projektu lanovky a diskutovat o něm. Hlas není stanoviskem ke stavbě samotné.",
+                "score": 0.0,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 3,
+                  "Nehlasoval": 6,
+                  "Nepřítomen": 1,
+                  "Bez mandátu": 1
+                },
+                "present": 9
+              },
+              {
+                "case_id": "povodne-zpravy",
+                "vote_id": "Z9-20-040",
+                "direction": 1,
+                "reason": "Pravidelné zprávy umožňují sledovat přípravu ochrany před povodněmi. Hodnotíme podporu tohoto návrhu informování, nikoli stav protipovodňových staveb.",
+                "score": 0.0,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 2,
+                  "Nehlasoval": 8,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 1
+                },
+                "present": 10
+              }
+            ]
+          },
+          {
+            "id": "kontrola",
+            "label": "Kontrola hospodaření",
+            "score": 0.966667,
+            "cases": [
+              {
+                "case_id": "solar-kontrola",
+                "vote_id": "Z9-35-005",
+                "direction": 1,
+                "reason": "Pověření kontrolního výboru umožňuje prověřit hospodaření městské solární firmy. Podpora zadání kontroly není důkazem nápravy.",
+                "score": 0.9,
+                "counts": {
+                  "Ano": 9,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 1,
+                  "Nepřítomen": 1,
+                  "Bez mandátu": 0
+                },
+                "present": 10
+              },
+              {
+                "case_id": "privatizace-kontrola",
+                "vote_id": "Z9-04-068",
+                "direction": 1,
+                "reason": "Konečné platné pověření umožňuje kontrolu prodejů městských bytových domů. Předchozí procedurální hlas se podruhé nezapočítává.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 9,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 1,
+                  "Bez mandátu": 1
+                },
+                "present": 9
+              },
+              {
+                "case_id": "charita-vynosy",
+                "vote_id": "Z9-10-007",
+                "direction": 1,
+                "reason": "Podmínka směřovat výnosy podporovaných charitativních akcí k jejich příjemcům posiluje odpovědnost za použití peněz. Není důkazem provedených kontrol.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 9,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 1,
+                  "Bez mandátu": 1
+                },
+                "present": 9
+              }
+            ]
+          }
+        ]
+      },
       "summary": "Devět dnešních kandidátů podpořilo utajení hlasování o městské odpadové firmě SAKO; veřejnou debatu o lanovce ani pravidelné povodňové zprávy nepodpořil nikdo z jejich přítomných zastupitelů."
     },
     {
@@ -20740,6 +21636,138 @@
       "finding": "",
       "finding_cases": [],
       "observations": [],
+      "interest_index": {
+        "version": 1,
+        "status": "no_mandate",
+        "score": null,
+        "label": null,
+        "members_in_period": 0,
+        "people_count": 0,
+        "people": [],
+        "case_count": 0,
+        "total_cases": 7,
+        "dimensions": [
+          {
+            "id": "otevrenost",
+            "label": "Dohledatelnost rozhodování",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "sako-tajne",
+                "vote_id": "Z9-11-007",
+                "direction": -1,
+                "reason": "Tajná volba znemožňuje obyvatelům ověřit osobní hlas. Souhlas s utajením proto míří k levému pólu; neprokazuje osobní obohacení.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "data-firem",
+                "vote_id": "Z9-09-016",
+                "direction": 1,
+                "reason": "Pravidla zveřejňování dat městských firem otevírají jejich činnost veřejné kontrole. Neověřujeme zde plnění všech povinností.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          },
+          {
+            "id": "zapojeni",
+            "label": "Debata a průběžné informace",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "lanovka-verejnost",
+                "vote_id": "Z9-19-005",
+                "direction": 1,
+                "reason": "Veřejné projednání analýz umožňuje lidem rozumět projektu lanovky a diskutovat o něm. Hlas není stanoviskem ke stavbě samotné.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "povodne-zpravy",
+                "vote_id": "Z9-20-040",
+                "direction": 1,
+                "reason": "Pravidelné zprávy umožňují sledovat přípravu ochrany před povodněmi. Hodnotíme podporu tohoto návrhu informování, nikoli stav protipovodňových staveb.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          },
+          {
+            "id": "kontrola",
+            "label": "Kontrola hospodaření",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "solar-kontrola",
+                "vote_id": "Z9-35-005",
+                "direction": 1,
+                "reason": "Pověření kontrolního výboru umožňuje prověřit hospodaření městské solární firmy. Podpora zadání kontroly není důkazem nápravy.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "privatizace-kontrola",
+                "vote_id": "Z9-04-068",
+                "direction": 1,
+                "reason": "Konečné platné pověření umožňuje kontrolu prodejů městských bytových domů. Předchozí procedurální hlas se podruhé nezapočítává.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "charita-vynosy",
+                "vote_id": "Z9-10-007",
+                "direction": 1,
+                "reason": "Podmínka směřovat výnosy podporovaných charitativních akcí k jejich příjemcům posiluje odpovědnost za použití peněz. Není důkazem provedených kontrol.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          }
+        ]
+      },
       "summary": "V hlasovací řadě 2022–2026 nemáme osobní hlasy dnešních kandidátů; jejich starší nebo jinou praxi uvádíme u slibů."
     },
     {
@@ -23025,6 +24053,162 @@
           ]
         }
       ],
+      "interest_index": {
+        "version": 1,
+        "status": "scored",
+        "score": 0.333333,
+        "label": "Blíže k pólu „pro lidi“",
+        "members_in_period": 9,
+        "people_count": 9,
+        "people": [
+          "alena-gruberova",
+          "karel-kalivoda",
+          "karin-podivinska-karasova",
+          "katerina-jarosova",
+          "pavel-kriz",
+          "petr-borecky",
+          "petr-levicek",
+          "sabina-benesova",
+          "vit-prygl"
+        ],
+        "case_count": 7,
+        "total_cases": 7,
+        "dimensions": [
+          {
+            "id": "otevrenost",
+            "label": "Dohledatelnost rozhodování",
+            "score": 0.0625,
+            "cases": [
+              {
+                "case_id": "sako-tajne",
+                "vote_id": "Z9-11-007",
+                "direction": -1,
+                "reason": "Tajná volba znemožňuje obyvatelům ověřit osobní hlas. Souhlas s utajením proto míří k levému pólu; neprokazuje osobní obohacení.",
+                "score": -0.875,
+                "counts": {
+                  "Ano": 7,
+                  "Ne": 0,
+                  "Zdržel se": 1,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 1
+                },
+                "present": 8
+              },
+              {
+                "case_id": "data-firem",
+                "vote_id": "Z9-09-016",
+                "direction": 1,
+                "reason": "Pravidla zveřejňování dat městských firem otevírají jejich činnost veřejné kontrole. Neověřujeme zde plnění všech povinností.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 8,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 1
+                },
+                "present": 8
+              }
+            ]
+          },
+          {
+            "id": "zapojeni",
+            "label": "Debata a průběžné informace",
+            "score": -0.0625,
+            "cases": [
+              {
+                "case_id": "lanovka-verejnost",
+                "vote_id": "Z9-19-005",
+                "direction": 1,
+                "reason": "Veřejné projednání analýz umožňuje lidem rozumět projektu lanovky a diskutovat o něm. Hlas není stanoviskem ke stavbě samotné.",
+                "score": -0.125,
+                "counts": {
+                  "Ano": 1,
+                  "Ne": 2,
+                  "Zdržel se": 3,
+                  "Nehlasoval": 2,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 1
+                },
+                "present": 8
+              },
+              {
+                "case_id": "povodne-zpravy",
+                "vote_id": "Z9-20-040",
+                "direction": 1,
+                "reason": "Pravidelné zprávy umožňují sledovat přípravu ochrany před povodněmi. Hodnotíme podporu tohoto návrhu informování, nikoli stav protipovodňových staveb.",
+                "score": 0.0,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 4,
+                  "Nehlasoval": 4,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 1
+                },
+                "present": 8
+              }
+            ]
+          },
+          {
+            "id": "kontrola",
+            "label": "Kontrola hospodaření",
+            "score": 1.0,
+            "cases": [
+              {
+                "case_id": "solar-kontrola",
+                "vote_id": "Z9-35-005",
+                "direction": 1,
+                "reason": "Pověření kontrolního výboru umožňuje prověřit hospodaření městské solární firmy. Podpora zadání kontroly není důkazem nápravy.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 8,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 1,
+                  "Bez mandátu": 0
+                },
+                "present": 8
+              },
+              {
+                "case_id": "privatizace-kontrola",
+                "vote_id": "Z9-04-068",
+                "direction": 1,
+                "reason": "Konečné platné pověření umožňuje kontrolu prodejů městských bytových domů. Předchozí procedurální hlas se podruhé nezapočítává.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 7,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 1,
+                  "Bez mandátu": 1
+                },
+                "present": 7
+              },
+              {
+                "case_id": "charita-vynosy",
+                "vote_id": "Z9-10-007",
+                "direction": 1,
+                "reason": "Podmínka směřovat výnosy podporovaných charitativních akcí k jejich příjemcům posiluje odpovědnost za použití peněz. Není důkazem provedených kontrol.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 8,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 1
+                },
+                "present": 8
+              }
+            ]
+          }
+        ]
+      },
       "summary": "Sedm dnešních kandidátů podpořilo utajení hlasování o městské odpadové firmě SAKO; u veřejné debaty o lanovce se jejich hlasy rozdělily a pravidelné povodňové zprávy nikdo z nich nepodpořil."
     },
     {
@@ -23035,6 +24219,138 @@
       "finding": "",
       "finding_cases": [],
       "observations": [],
+      "interest_index": {
+        "version": 1,
+        "status": "no_mandate",
+        "score": null,
+        "label": null,
+        "members_in_period": 0,
+        "people_count": 0,
+        "people": [],
+        "case_count": 0,
+        "total_cases": 7,
+        "dimensions": [
+          {
+            "id": "otevrenost",
+            "label": "Dohledatelnost rozhodování",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "sako-tajne",
+                "vote_id": "Z9-11-007",
+                "direction": -1,
+                "reason": "Tajná volba znemožňuje obyvatelům ověřit osobní hlas. Souhlas s utajením proto míří k levému pólu; neprokazuje osobní obohacení.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "data-firem",
+                "vote_id": "Z9-09-016",
+                "direction": 1,
+                "reason": "Pravidla zveřejňování dat městských firem otevírají jejich činnost veřejné kontrole. Neověřujeme zde plnění všech povinností.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          },
+          {
+            "id": "zapojeni",
+            "label": "Debata a průběžné informace",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "lanovka-verejnost",
+                "vote_id": "Z9-19-005",
+                "direction": 1,
+                "reason": "Veřejné projednání analýz umožňuje lidem rozumět projektu lanovky a diskutovat o něm. Hlas není stanoviskem ke stavbě samotné.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "povodne-zpravy",
+                "vote_id": "Z9-20-040",
+                "direction": 1,
+                "reason": "Pravidelné zprávy umožňují sledovat přípravu ochrany před povodněmi. Hodnotíme podporu tohoto návrhu informování, nikoli stav protipovodňových staveb.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          },
+          {
+            "id": "kontrola",
+            "label": "Kontrola hospodaření",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "solar-kontrola",
+                "vote_id": "Z9-35-005",
+                "direction": 1,
+                "reason": "Pověření kontrolního výboru umožňuje prověřit hospodaření městské solární firmy. Podpora zadání kontroly není důkazem nápravy.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "privatizace-kontrola",
+                "vote_id": "Z9-04-068",
+                "direction": 1,
+                "reason": "Konečné platné pověření umožňuje kontrolu prodejů městských bytových domů. Předchozí procedurální hlas se podruhé nezapočítává.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "charita-vynosy",
+                "vote_id": "Z9-10-007",
+                "direction": 1,
+                "reason": "Podmínka směřovat výnosy podporovaných charitativních akcí k jejich příjemcům posiluje odpovědnost za použití peněz. Není důkazem provedených kontrol.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          }
+        ]
+      },
       "summary": "V hlasovací řadě 2022–2026 nemáme osobní hlasy dnešních kandidátů; jejich starší nebo jinou praxi uvádíme u slibů."
     },
     {
@@ -23045,6 +24361,138 @@
       "finding": "",
       "finding_cases": [],
       "observations": [],
+      "interest_index": {
+        "version": 1,
+        "status": "no_mandate",
+        "score": null,
+        "label": null,
+        "members_in_period": 0,
+        "people_count": 0,
+        "people": [],
+        "case_count": 0,
+        "total_cases": 7,
+        "dimensions": [
+          {
+            "id": "otevrenost",
+            "label": "Dohledatelnost rozhodování",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "sako-tajne",
+                "vote_id": "Z9-11-007",
+                "direction": -1,
+                "reason": "Tajná volba znemožňuje obyvatelům ověřit osobní hlas. Souhlas s utajením proto míří k levému pólu; neprokazuje osobní obohacení.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "data-firem",
+                "vote_id": "Z9-09-016",
+                "direction": 1,
+                "reason": "Pravidla zveřejňování dat městských firem otevírají jejich činnost veřejné kontrole. Neověřujeme zde plnění všech povinností.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          },
+          {
+            "id": "zapojeni",
+            "label": "Debata a průběžné informace",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "lanovka-verejnost",
+                "vote_id": "Z9-19-005",
+                "direction": 1,
+                "reason": "Veřejné projednání analýz umožňuje lidem rozumět projektu lanovky a diskutovat o něm. Hlas není stanoviskem ke stavbě samotné.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "povodne-zpravy",
+                "vote_id": "Z9-20-040",
+                "direction": 1,
+                "reason": "Pravidelné zprávy umožňují sledovat přípravu ochrany před povodněmi. Hodnotíme podporu tohoto návrhu informování, nikoli stav protipovodňových staveb.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          },
+          {
+            "id": "kontrola",
+            "label": "Kontrola hospodaření",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "solar-kontrola",
+                "vote_id": "Z9-35-005",
+                "direction": 1,
+                "reason": "Pověření kontrolního výboru umožňuje prověřit hospodaření městské solární firmy. Podpora zadání kontroly není důkazem nápravy.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "privatizace-kontrola",
+                "vote_id": "Z9-04-068",
+                "direction": 1,
+                "reason": "Konečné platné pověření umožňuje kontrolu prodejů městských bytových domů. Předchozí procedurální hlas se podruhé nezapočítává.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "charita-vynosy",
+                "vote_id": "Z9-10-007",
+                "direction": 1,
+                "reason": "Podmínka směřovat výnosy podporovaných charitativních akcí k jejich příjemcům posiluje odpovědnost za použití peněz. Není důkazem provedených kontrol.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          }
+        ]
+      },
       "summary": "V hlasovací řadě 2022–2026 nemáme osobní hlasy dnešních kandidátů; jejich starší nebo jinou praxi uvádíme u slibů."
     },
     {
@@ -23055,6 +24503,138 @@
       "finding": "",
       "finding_cases": [],
       "observations": [],
+      "interest_index": {
+        "version": 1,
+        "status": "no_mandate",
+        "score": null,
+        "label": null,
+        "members_in_period": 0,
+        "people_count": 0,
+        "people": [],
+        "case_count": 0,
+        "total_cases": 7,
+        "dimensions": [
+          {
+            "id": "otevrenost",
+            "label": "Dohledatelnost rozhodování",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "sako-tajne",
+                "vote_id": "Z9-11-007",
+                "direction": -1,
+                "reason": "Tajná volba znemožňuje obyvatelům ověřit osobní hlas. Souhlas s utajením proto míří k levému pólu; neprokazuje osobní obohacení.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "data-firem",
+                "vote_id": "Z9-09-016",
+                "direction": 1,
+                "reason": "Pravidla zveřejňování dat městských firem otevírají jejich činnost veřejné kontrole. Neověřujeme zde plnění všech povinností.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          },
+          {
+            "id": "zapojeni",
+            "label": "Debata a průběžné informace",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "lanovka-verejnost",
+                "vote_id": "Z9-19-005",
+                "direction": 1,
+                "reason": "Veřejné projednání analýz umožňuje lidem rozumět projektu lanovky a diskutovat o něm. Hlas není stanoviskem ke stavbě samotné.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "povodne-zpravy",
+                "vote_id": "Z9-20-040",
+                "direction": 1,
+                "reason": "Pravidelné zprávy umožňují sledovat přípravu ochrany před povodněmi. Hodnotíme podporu tohoto návrhu informování, nikoli stav protipovodňových staveb.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          },
+          {
+            "id": "kontrola",
+            "label": "Kontrola hospodaření",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "solar-kontrola",
+                "vote_id": "Z9-35-005",
+                "direction": 1,
+                "reason": "Pověření kontrolního výboru umožňuje prověřit hospodaření městské solární firmy. Podpora zadání kontroly není důkazem nápravy.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "privatizace-kontrola",
+                "vote_id": "Z9-04-068",
+                "direction": 1,
+                "reason": "Konečné platné pověření umožňuje kontrolu prodejů městských bytových domů. Předchozí procedurální hlas se podruhé nezapočítává.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "charita-vynosy",
+                "vote_id": "Z9-10-007",
+                "direction": 1,
+                "reason": "Podmínka směřovat výnosy podporovaných charitativních akcí k jejich příjemcům posiluje odpovědnost za použití peněz. Není důkazem provedených kontrol.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          }
+        ]
+      },
       "summary": "V hlasovací řadě 2022–2026 nemáme osobní hlasy dnešních kandidátů; jejich starší nebo jinou praxi uvádíme u slibů."
     },
     {
@@ -23065,6 +24645,138 @@
       "finding": "",
       "finding_cases": [],
       "observations": [],
+      "interest_index": {
+        "version": 1,
+        "status": "no_mandate",
+        "score": null,
+        "label": null,
+        "members_in_period": 0,
+        "people_count": 0,
+        "people": [],
+        "case_count": 0,
+        "total_cases": 7,
+        "dimensions": [
+          {
+            "id": "otevrenost",
+            "label": "Dohledatelnost rozhodování",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "sako-tajne",
+                "vote_id": "Z9-11-007",
+                "direction": -1,
+                "reason": "Tajná volba znemožňuje obyvatelům ověřit osobní hlas. Souhlas s utajením proto míří k levému pólu; neprokazuje osobní obohacení.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "data-firem",
+                "vote_id": "Z9-09-016",
+                "direction": 1,
+                "reason": "Pravidla zveřejňování dat městských firem otevírají jejich činnost veřejné kontrole. Neověřujeme zde plnění všech povinností.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          },
+          {
+            "id": "zapojeni",
+            "label": "Debata a průběžné informace",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "lanovka-verejnost",
+                "vote_id": "Z9-19-005",
+                "direction": 1,
+                "reason": "Veřejné projednání analýz umožňuje lidem rozumět projektu lanovky a diskutovat o něm. Hlas není stanoviskem ke stavbě samotné.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "povodne-zpravy",
+                "vote_id": "Z9-20-040",
+                "direction": 1,
+                "reason": "Pravidelné zprávy umožňují sledovat přípravu ochrany před povodněmi. Hodnotíme podporu tohoto návrhu informování, nikoli stav protipovodňových staveb.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          },
+          {
+            "id": "kontrola",
+            "label": "Kontrola hospodaření",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "solar-kontrola",
+                "vote_id": "Z9-35-005",
+                "direction": 1,
+                "reason": "Pověření kontrolního výboru umožňuje prověřit hospodaření městské solární firmy. Podpora zadání kontroly není důkazem nápravy.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "privatizace-kontrola",
+                "vote_id": "Z9-04-068",
+                "direction": 1,
+                "reason": "Konečné platné pověření umožňuje kontrolu prodejů městských bytových domů. Předchozí procedurální hlas se podruhé nezapočítává.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "charita-vynosy",
+                "vote_id": "Z9-10-007",
+                "direction": 1,
+                "reason": "Podmínka směřovat výnosy podporovaných charitativních akcí k jejich příjemcům posiluje odpovědnost za použití peněz. Není důkazem provedených kontrol.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          }
+        ]
+      },
       "summary": "V hlasovací řadě 2022–2026 nemáme osobní hlasy dnešních kandidátů; jejich starší nebo jinou praxi uvádíme u slibů."
     },
     {
@@ -23075,6 +24787,138 @@
       "finding": "",
       "finding_cases": [],
       "observations": [],
+      "interest_index": {
+        "version": 1,
+        "status": "no_mandate",
+        "score": null,
+        "label": null,
+        "members_in_period": 0,
+        "people_count": 0,
+        "people": [],
+        "case_count": 0,
+        "total_cases": 7,
+        "dimensions": [
+          {
+            "id": "otevrenost",
+            "label": "Dohledatelnost rozhodování",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "sako-tajne",
+                "vote_id": "Z9-11-007",
+                "direction": -1,
+                "reason": "Tajná volba znemožňuje obyvatelům ověřit osobní hlas. Souhlas s utajením proto míří k levému pólu; neprokazuje osobní obohacení.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "data-firem",
+                "vote_id": "Z9-09-016",
+                "direction": 1,
+                "reason": "Pravidla zveřejňování dat městských firem otevírají jejich činnost veřejné kontrole. Neověřujeme zde plnění všech povinností.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          },
+          {
+            "id": "zapojeni",
+            "label": "Debata a průběžné informace",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "lanovka-verejnost",
+                "vote_id": "Z9-19-005",
+                "direction": 1,
+                "reason": "Veřejné projednání analýz umožňuje lidem rozumět projektu lanovky a diskutovat o něm. Hlas není stanoviskem ke stavbě samotné.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "povodne-zpravy",
+                "vote_id": "Z9-20-040",
+                "direction": 1,
+                "reason": "Pravidelné zprávy umožňují sledovat přípravu ochrany před povodněmi. Hodnotíme podporu tohoto návrhu informování, nikoli stav protipovodňových staveb.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          },
+          {
+            "id": "kontrola",
+            "label": "Kontrola hospodaření",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "solar-kontrola",
+                "vote_id": "Z9-35-005",
+                "direction": 1,
+                "reason": "Pověření kontrolního výboru umožňuje prověřit hospodaření městské solární firmy. Podpora zadání kontroly není důkazem nápravy.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "privatizace-kontrola",
+                "vote_id": "Z9-04-068",
+                "direction": 1,
+                "reason": "Konečné platné pověření umožňuje kontrolu prodejů městských bytových domů. Předchozí procedurální hlas se podruhé nezapočítává.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "charita-vynosy",
+                "vote_id": "Z9-10-007",
+                "direction": 1,
+                "reason": "Podmínka směřovat výnosy podporovaných charitativních akcí k jejich příjemcům posiluje odpovědnost za použití peněz. Není důkazem provedených kontrol.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          }
+        ]
+      },
       "summary": "V hlasovací řadě 2022–2026 nemáme osobní hlasy dnešních kandidátů; jejich starší nebo jinou praxi uvádíme u slibů."
     },
     {
@@ -23085,6 +24929,138 @@
       "finding": "",
       "finding_cases": [],
       "observations": [],
+      "interest_index": {
+        "version": 1,
+        "status": "no_mandate",
+        "score": null,
+        "label": null,
+        "members_in_period": 0,
+        "people_count": 0,
+        "people": [],
+        "case_count": 0,
+        "total_cases": 7,
+        "dimensions": [
+          {
+            "id": "otevrenost",
+            "label": "Dohledatelnost rozhodování",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "sako-tajne",
+                "vote_id": "Z9-11-007",
+                "direction": -1,
+                "reason": "Tajná volba znemožňuje obyvatelům ověřit osobní hlas. Souhlas s utajením proto míří k levému pólu; neprokazuje osobní obohacení.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "data-firem",
+                "vote_id": "Z9-09-016",
+                "direction": 1,
+                "reason": "Pravidla zveřejňování dat městských firem otevírají jejich činnost veřejné kontrole. Neověřujeme zde plnění všech povinností.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          },
+          {
+            "id": "zapojeni",
+            "label": "Debata a průběžné informace",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "lanovka-verejnost",
+                "vote_id": "Z9-19-005",
+                "direction": 1,
+                "reason": "Veřejné projednání analýz umožňuje lidem rozumět projektu lanovky a diskutovat o něm. Hlas není stanoviskem ke stavbě samotné.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "povodne-zpravy",
+                "vote_id": "Z9-20-040",
+                "direction": 1,
+                "reason": "Pravidelné zprávy umožňují sledovat přípravu ochrany před povodněmi. Hodnotíme podporu tohoto návrhu informování, nikoli stav protipovodňových staveb.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          },
+          {
+            "id": "kontrola",
+            "label": "Kontrola hospodaření",
+            "score": null,
+            "cases": [
+              {
+                "case_id": "solar-kontrola",
+                "vote_id": "Z9-35-005",
+                "direction": 1,
+                "reason": "Pověření kontrolního výboru umožňuje prověřit hospodaření městské solární firmy. Podpora zadání kontroly není důkazem nápravy.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "privatizace-kontrola",
+                "vote_id": "Z9-04-068",
+                "direction": 1,
+                "reason": "Konečné platné pověření umožňuje kontrolu prodejů městských bytových domů. Předchozí procedurální hlas se podruhé nezapočítává.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              },
+              {
+                "case_id": "charita-vynosy",
+                "vote_id": "Z9-10-007",
+                "direction": 1,
+                "reason": "Podmínka směřovat výnosy podporovaných charitativních akcí k jejich příjemcům posiluje odpovědnost za použití peněz. Není důkazem provedených kontrol.",
+                "score": null,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0
+                },
+                "present": 0
+              }
+            ]
+          }
+        ]
+      },
       "summary": "V hlasovací řadě 2022–2026 nemáme osobní hlasy dnešních kandidátů; jejich starší nebo jinou praxi uvádíme u slibů."
     },
     {
@@ -24170,6 +26146,156 @@
           ]
         }
       ],
+      "interest_index": {
+        "version": 1,
+        "status": "scored",
+        "score": 1.0,
+        "label": "Pro lidi v hodnocených případech",
+        "members_in_period": 3,
+        "people_count": 3,
+        "people": [
+          "adam-zemek",
+          "marek-lahoda",
+          "monika-lukasova-spilkova"
+        ],
+        "case_count": 7,
+        "total_cases": 7,
+        "dimensions": [
+          {
+            "id": "otevrenost",
+            "label": "Dohledatelnost rozhodování",
+            "score": 1.0,
+            "cases": [
+              {
+                "case_id": "sako-tajne",
+                "vote_id": "Z9-11-007",
+                "direction": -1,
+                "reason": "Tajná volba znemožňuje obyvatelům ověřit osobní hlas. Souhlas s utajením proto míří k levému pólu; neprokazuje osobní obohacení.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 2,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 1,
+                  "Bez mandátu": 0
+                },
+                "present": 2
+              },
+              {
+                "case_id": "data-firem",
+                "vote_id": "Z9-09-016",
+                "direction": 1,
+                "reason": "Pravidla zveřejňování dat městských firem otevírají jejich činnost veřejné kontrole. Neověřujeme zde plnění všech povinností.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 3,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 0
+                },
+                "present": 3
+              }
+            ]
+          },
+          {
+            "id": "zapojeni",
+            "label": "Debata a průběžné informace",
+            "score": 1.0,
+            "cases": [
+              {
+                "case_id": "lanovka-verejnost",
+                "vote_id": "Z9-19-005",
+                "direction": 1,
+                "reason": "Veřejné projednání analýz umožňuje lidem rozumět projektu lanovky a diskutovat o něm. Hlas není stanoviskem ke stavbě samotné.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 3,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 0
+                },
+                "present": 3
+              },
+              {
+                "case_id": "povodne-zpravy",
+                "vote_id": "Z9-20-040",
+                "direction": 1,
+                "reason": "Pravidelné zprávy umožňují sledovat přípravu ochrany před povodněmi. Hodnotíme podporu tohoto návrhu informování, nikoli stav protipovodňových staveb.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 3,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 0
+                },
+                "present": 3
+              }
+            ]
+          },
+          {
+            "id": "kontrola",
+            "label": "Kontrola hospodaření",
+            "score": 1.0,
+            "cases": [
+              {
+                "case_id": "solar-kontrola",
+                "vote_id": "Z9-35-005",
+                "direction": 1,
+                "reason": "Pověření kontrolního výboru umožňuje prověřit hospodaření městské solární firmy. Podpora zadání kontroly není důkazem nápravy.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 3,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 0
+                },
+                "present": 3
+              },
+              {
+                "case_id": "privatizace-kontrola",
+                "vote_id": "Z9-04-068",
+                "direction": 1,
+                "reason": "Konečné platné pověření umožňuje kontrolu prodejů městských bytových domů. Předchozí procedurální hlas se podruhé nezapočítává.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 3,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 0
+                },
+                "present": 3
+              },
+              {
+                "case_id": "charita-vynosy",
+                "vote_id": "Z9-10-007",
+                "direction": 1,
+                "reason": "Podmínka směřovat výnosy podporovaných charitativních akcí k jejich příjemcům posiluje odpovědnost za použití peněz. Není důkazem provedených kontrol.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 3,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 0
+                },
+                "present": 3
+              }
+            ]
+          }
+        ]
+      },
       "summary": "Oba přítomní dnešní kandidáti odmítli utajení hlasování o městské odpadové firmě SAKO, všichni tři podpořili veřejnou debatu o lanovce i pravidelné povodňové zprávy."
     },
     {
@@ -25055,6 +27181,155 @@
           ]
         }
       ],
+      "interest_index": {
+        "version": 1,
+        "status": "scored",
+        "score": 0.666667,
+        "label": "Převážně pro lidi",
+        "members_in_period": 2,
+        "people_count": 2,
+        "people": [
+          "jiri-kment",
+          "leos-prokes"
+        ],
+        "case_count": 7,
+        "total_cases": 7,
+        "dimensions": [
+          {
+            "id": "otevrenost",
+            "label": "Dohledatelnost rozhodování",
+            "score": 0.5,
+            "cases": [
+              {
+                "case_id": "sako-tajne",
+                "vote_id": "Z9-11-007",
+                "direction": -1,
+                "reason": "Tajná volba znemožňuje obyvatelům ověřit osobní hlas. Souhlas s utajením proto míří k levému pólu; neprokazuje osobní obohacení.",
+                "score": 0.0,
+                "counts": {
+                  "Ano": 0,
+                  "Ne": 0,
+                  "Zdržel se": 2,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 0
+                },
+                "present": 2
+              },
+              {
+                "case_id": "data-firem",
+                "vote_id": "Z9-09-016",
+                "direction": 1,
+                "reason": "Pravidla zveřejňování dat městských firem otevírají jejich činnost veřejné kontrole. Neověřujeme zde plnění všech povinností.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 2,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 0
+                },
+                "present": 2
+              }
+            ]
+          },
+          {
+            "id": "zapojeni",
+            "label": "Debata a průběžné informace",
+            "score": 0.5,
+            "cases": [
+              {
+                "case_id": "lanovka-verejnost",
+                "vote_id": "Z9-19-005",
+                "direction": 1,
+                "reason": "Veřejné projednání analýz umožňuje lidem rozumět projektu lanovky a diskutovat o něm. Hlas není stanoviskem ke stavbě samotné.",
+                "score": 0.5,
+                "counts": {
+                  "Ano": 1,
+                  "Ne": 0,
+                  "Zdržel se": 1,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 0
+                },
+                "present": 2
+              },
+              {
+                "case_id": "povodne-zpravy",
+                "vote_id": "Z9-20-040",
+                "direction": 1,
+                "reason": "Pravidelné zprávy umožňují sledovat přípravu ochrany před povodněmi. Hodnotíme podporu tohoto návrhu informování, nikoli stav protipovodňových staveb.",
+                "score": 0.5,
+                "counts": {
+                  "Ano": 1,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 1,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 0
+                },
+                "present": 2
+              }
+            ]
+          },
+          {
+            "id": "kontrola",
+            "label": "Kontrola hospodaření",
+            "score": 1.0,
+            "cases": [
+              {
+                "case_id": "solar-kontrola",
+                "vote_id": "Z9-35-005",
+                "direction": 1,
+                "reason": "Pověření kontrolního výboru umožňuje prověřit hospodaření městské solární firmy. Podpora zadání kontroly není důkazem nápravy.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 2,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 0
+                },
+                "present": 2
+              },
+              {
+                "case_id": "privatizace-kontrola",
+                "vote_id": "Z9-04-068",
+                "direction": 1,
+                "reason": "Konečné platné pověření umožňuje kontrolu prodejů městských bytových domů. Předchozí procedurální hlas se podruhé nezapočítává.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 2,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 0
+                },
+                "present": 2
+              },
+              {
+                "case_id": "charita-vynosy",
+                "vote_id": "Z9-10-007",
+                "direction": 1,
+                "reason": "Podmínka směřovat výnosy podporovaných charitativních akcí k jejich příjemcům posiluje odpovědnost za použití peněz. Není důkazem provedených kontrol.",
+                "score": 1.0,
+                "counts": {
+                  "Ano": 2,
+                  "Ne": 0,
+                  "Zdržel se": 0,
+                  "Nehlasoval": 0,
+                  "Nepřítomen": 0,
+                  "Bez mandátu": 0
+                },
+                "present": 2
+              }
+            ]
+          }
+        ]
+      },
       "summary": "Dva dnešní kandidáti se u utajení hlasování o městské odpadové firmě SAKO zdrželi; veřejná debata o lanovce i pravidelné povodňové zprávy dostaly po jednom jejich hlasu pro."
     }
   ],
@@ -25627,5 +27902,87 @@
     "hlasy_jmenovite.csv": "6fcb6f782ab7603129bbbc722084b30a459488949858333d2cfc283f03684c86",
     "kandidati_2026_propojeni.csv": "551673c44189a739625bc9c0189d97d594ef5d8d81d7b00a1a1f0e9acc6aea05",
     "materialy_zmb_index.csv": "0269c39ef9d2df6772b138f98a76ae4e110bce636359aba1d5ec90b51fbf0930"
+  },
+  "interest_index_method": {
+    "version": 1,
+    "updated": "2026-09-28",
+    "title": "Pro sebe ↔ pro lidi",
+    "scope": "Redakční index otevřenosti a veřejné kontroly. Není měřením motivů, osobního obohacení ani celkového veřejného přínosu.",
+    "dimensions": [
+      {
+        "id": "otevrenost",
+        "label": "Dohledatelnost rozhodování",
+        "cases": [
+          {
+            "case_id": "sako-tajne",
+            "vote_id": "Z9-11-007",
+            "direction": -1,
+            "reason": "Tajná volba znemožňuje obyvatelům ověřit osobní hlas. Souhlas s utajením proto míří k levému pólu; neprokazuje osobní obohacení."
+          },
+          {
+            "case_id": "data-firem",
+            "vote_id": "Z9-09-016",
+            "direction": 1,
+            "reason": "Pravidla zveřejňování dat městských firem otevírají jejich činnost veřejné kontrole. Neověřujeme zde plnění všech povinností."
+          }
+        ]
+      },
+      {
+        "id": "zapojeni",
+        "label": "Debata a průběžné informace",
+        "cases": [
+          {
+            "case_id": "lanovka-verejnost",
+            "vote_id": "Z9-19-005",
+            "direction": 1,
+            "reason": "Veřejné projednání analýz umožňuje lidem rozumět projektu lanovky a diskutovat o něm. Hlas není stanoviskem ke stavbě samotné."
+          },
+          {
+            "case_id": "povodne-zpravy",
+            "vote_id": "Z9-20-040",
+            "direction": 1,
+            "reason": "Pravidelné zprávy umožňují sledovat přípravu ochrany před povodněmi. Hodnotíme podporu tohoto návrhu informování, nikoli stav protipovodňových staveb."
+          }
+        ]
+      },
+      {
+        "id": "kontrola",
+        "label": "Kontrola hospodaření",
+        "cases": [
+          {
+            "case_id": "solar-kontrola",
+            "vote_id": "Z9-35-005",
+            "direction": 1,
+            "reason": "Pověření kontrolního výboru umožňuje prověřit hospodaření městské solární firmy. Podpora zadání kontroly není důkazem nápravy."
+          },
+          {
+            "case_id": "privatizace-kontrola",
+            "vote_id": "Z9-04-068",
+            "direction": 1,
+            "reason": "Konečné platné pověření umožňuje kontrolu prodejů městských bytových domů. Předchozí procedurální hlas se podruhé nezapočítává."
+          },
+          {
+            "case_id": "charita-vynosy",
+            "vote_id": "Z9-10-007",
+            "direction": 1,
+            "reason": "Podmínka směřovat výnosy podporovaných charitativních akcí k jejich příjemcům posiluje odpovědnost za použití peněz. Není důkazem provedených kontrol."
+          }
+        ]
+      }
+    ],
+    "excluded": {
+      "tic-vanoce": "Dvě alternativy kontroly a doložené výhrady k zadání; odmítnutí jedné varianty nemá jednoznačný směr na této škále.",
+      "uvolnena-funkce": "Vlastní hlas pro placenou funkci dokládá osobní vazbu, ale funkce měla také odůvodněnou veřejnou agendu. Bez srovnání nákladů a výsledků nerozhodujeme číselně, čí zájem převážil.",
+      "dornych": "Prodej poskytl výhodu kupujícímu i příjem městu. Nemáme uzavřené srovnání prodeje s opravou a dalšími alternativami.",
+      "konec-privatizace": "Zachování městského vlastnictví samo o sobě nedokládá větší veřejný přínos každé nemovitosti.",
+      "stadion": "Příprava podmínek a doplňování podkladů nemají bez uzavřeného srovnání nákladů a přínosů jednoznačné znaménko.",
+      "kamenna-drazba": "Veřejná dražba je postup prodeje; chybí vyhodnocení výsledné ceny a alternativ využití domu.",
+      "kamenna-vrch-bydleni": "Příprava družstevního bydlení a bankovního financování zahrnuje veřejný přínos i finanční rizika, jejichž bilanci zde nemáme.",
+      "mostecka-druzstvo": "Převod existujícího domu družstvu není dokončení nových bytů; veřejný přínos proti alternativám není vyčíslen.",
+      "arena": "Financování haly nelze bez srovnání nákladů, přínosů a alternativ vydávat za osobní nebo veřejný prospěch.",
+      "pravidla-bytu": "Změna pravidel přidělování bytů vyžaduje samostatné hodnocení dopadů na jednotlivé skupiny obyvatel.",
+      "rodicovske-vouchery": "Parametry podpory rodin neurčují samy o sobě účinnost programu ani jeho náklady proti jiným formám podpory.",
+      "dame-na-vas": "Zřízení fondu není důkaz skutečného objemu peněz, zapojení obyvatel ani dokončení projektů."
+    }
   }
 }

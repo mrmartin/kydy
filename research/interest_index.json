@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "updated": "2026-09-28",
+  "title": "Pro sebe ↔ pro lidi",
+  "scope": "Redakční index otevřenosti a veřejné kontroly. Není měřením motivů, osobního obohacení ani celkového veřejného přínosu.",
+  "dimensions": [
+    {
+      "id": "otevrenost", "label": "Dohledatelnost rozhodování",
+      "cases": [
+        {"case_id": "sako-tajne", "vote_id": "Z9-11-007", "direction": -1, "reason": "Tajná volba znemožňuje obyvatelům ověřit osobní hlas. Souhlas s utajením proto míří k levému pólu; neprokazuje osobní obohacení."},
+        {"case_id": "data-firem", "vote_id": "Z9-09-016", "direction": 1, "reason": "Pravidla zveřejňování dat městských firem otevírají jejich činnost veřejné kontrole. Neověřujeme zde plnění všech povinností."}
+      ]
+    },
+    {
+      "id": "zapojeni", "label": "Debata a průběžné informace",
+      "cases": [
+        {"case_id": "lanovka-verejnost", "vote_id": "Z9-19-005", "direction": 1, "reason": "Veřejné projednání analýz umožňuje lidem rozumět projektu lanovky a diskutovat o něm. Hlas není stanoviskem ke stavbě samotné."},
+        {"case_id": "povodne-zpravy", "vote_id": "Z9-20-040", "direction": 1, "reason": "Pravidelné zprávy umožňují sledovat přípravu ochrany před povodněmi. Hodnotíme podporu tohoto návrhu informování, nikoli stav protipovodňových staveb."}
+      ]
+    },
+    {
+      "id": "kontrola", "label": "Kontrola hospodaření",
+      "cases": [
+        {"case_id": "solar-kontrola", "vote_id": "Z9-35-005", "direction": 1, "reason": "Pověření kontrolního výboru umožňuje prověřit hospodaření městské solární firmy. Podpora zadání kontroly není důkazem nápravy."},
+        {"case_id": "privatizace-kontrola", "vote_id": "Z9-04-068", "direction": 1, "reason": "Konečné platné pověření umožňuje kontrolu prodejů městských bytových domů. Předchozí procedurální hlas se podruhé nezapočítává."},
+        {"case_id": "charita-vynosy", "vote_id": "Z9-10-007", "direction": 1, "reason": "Podmínka směřovat výnosy podporovaných charitativních akcí k jejich příjemcům posiluje odpovědnost za použití peněz. Není důkazem provedených kontrol."}
+      ]
+    }
+  ],
+  "excluded": {
+    "tic-vanoce": "Dvě alternativy kontroly a doložené výhrady k zadání; odmítnutí jedné varianty nemá jednoznačný směr na této škále.",
+    "uvolnena-funkce": "Vlastní hlas pro placenou funkci dokládá osobní vazbu, ale funkce měla také odůvodněnou veřejnou agendu. Bez srovnání nákladů a výsledků nerozhodujeme číselně, čí zájem převážil.",
+    "dornych": "Prodej poskytl výhodu kupujícímu i příjem městu. Nemáme uzavřené srovnání prodeje s opravou a dalšími alternativami.",
+    "konec-privatizace": "Zachování městského vlastnictví samo o sobě nedokládá větší veřejný přínos každé nemovitosti.",
+    "stadion": "Příprava podmínek a doplňování podkladů nemají bez uzavřeného srovnání nákladů a přínosů jednoznačné znaménko.",
+    "kamenna-drazba": "Veřejná dražba je postup prodeje; chybí vyhodnocení výsledné ceny a alternativ využití domu.",
+    "kamenna-vrch-bydleni": "Příprava družstevního bydlení a bankovního financování zahrnuje veřejný přínos i finanční rizika, jejichž bilanci zde nemáme.",
+    "mostecka-druzstvo": "Převod existujícího domu družstvu není dokončení nových bytů; veřejný přínos proti alternativám není vyčíslen.",
+    "arena": "Financování haly nelze bez srovnání nákladů, přínosů a alternativ vydávat za osobní nebo veřejný prospěch.",
+    "pravidla-bytu": "Změna pravidel přidělování bytů vyžaduje samostatné hodnocení dopadů na jednotlivé skupiny obyvatel.",
+    "rodicovske-vouchery": "Parametry podpory rodin neurčují samy o sobě účinnost programu ani jeho náklady proti jiným formám podpory.",
+    "dame-na-vas": "Zřízení fondu není důkaz skutečného objemu peněz, zapojení obyvatel ani dokončení projektů."
+  }
+}
